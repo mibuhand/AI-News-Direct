@@ -1,0 +1,123 @@
+{
+    "base_url": "https://huggingface.co",
+
+    "schemas": {
+
+        "organizations": {
+            "url": "/organizations",
+
+            "org_list":[
+                "/openai",
+                "/meta-llama",
+                "/anthropic",
+                "/xai-org",
+                "/mistralai",
+                "/ibm-granite",
+                "/deepmind",
+                "/google",
+                "/facebook",
+                "/microsoft",
+                "/amazon",
+                "/nvidia",
+                "/apple",
+
+                "/stabilityai",
+                "/black-forest-labs",
+                "/Kijai",
+                "/Comfy-Org",
+
+                "/Qwen",
+                "/deepseek-ai",
+                "/tencent",
+                "/baidu",
+                "/moonshotai",
+                "/THUDM",
+                "/ByteDance",
+                "/ByteDance-Seed",
+                "/MiniMaxAI",
+                "/openbmb",
+
+                "/HuggingFaceTB",
+                "/unsloth",
+
+                "/kyutai",
+
+                "/pollen-robotics",
+                "/lerobot",
+                "/agibot-world"
+
+            ],
+
+            "pages": [
+                "/activity/models",
+                "/activity/datasets",
+                "/activity/papers"
+            ],
+
+            "schema":     {
+                "name": "activities",
+                "baseSelector": "div.mb-7",
+                "fields": [
+                    {
+                        "name": "author",
+                        "selector": ".mb-3 .text-smd .inline-block .contents .whitespace-nowrap.underline",
+                        "type": "attribute",
+                        "attribute": "href"
+                    },
+
+                    {
+                        "name": "action",
+                        "selector": ".mb-3 .text-smd .flex.items-baseline span span",
+                        "type": "text"
+                    },
+
+                    {
+                        "name": "object",
+                        "selector": ".mb-3 .text-smd .flex.items-baseline span",
+                        "type": "text"
+                    },
+
+                    {
+                        "name": "time",
+                        "selector": ".ml-4",
+                        "type": "text"
+                    },
+
+                    {
+                        "name": "obj_url",
+                        "selector": ".space-y-3 .overview-card-wrapper .flex",
+                        "type": "attribute",
+                        "attribute": "href"
+                    },
+
+                    {
+                        "name": "paper_url",
+                        "selector": ".space-y-3 .overview-card-wrapper .block",
+                        "type": "attribute",
+                        "attribute": "href"
+                    },
+
+                    {
+                        "name": "obj_title",
+                        "selector": ".space-y-3 .overview-card-wrapper h4",
+                        "type": "text"
+                    },
+                            
+                    {
+                        "name": "obj_info",
+                        "selector": ".space-y-3 .overview-card-wrapper div.mr-1",
+                        "type": "text"
+                    }
+                ]
+            }
+        },
+
+        "models": {
+            "url": "/models"
+        },
+
+        "papers": {
+            "url": "/papers/date"
+        }
+    }
+}
