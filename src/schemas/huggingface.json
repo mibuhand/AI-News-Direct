@@ -34,10 +34,13 @@
                 "/THUDM",
                 "/ByteDance",
                 "/ByteDance-Seed",
+                "/bytedance-research",
                 "/MiniMaxAI",
                 "/openbmb",
+                "/BAAI",
 
                 "/HuggingFaceTB",
+                "/huggingface",
                 "/unsloth",
 
                 "/kyutai",
@@ -56,7 +59,7 @@
 
             "schema":     {
                 "name": "activities",
-                "baseSelector": "div.mb-7",
+                "baseSelector": "div.org-profile-content div.mb-7",
                 "fields": [
                     {
                         "name": "author",
@@ -72,41 +75,41 @@
                     },
 
                     {
-                        "name": "object",
+                        "name": "target",
                         "selector": ".mb-3 .text-smd .flex.items-baseline span",
                         "type": "text"
                     },
 
                     {
-                        "name": "time",
+                        "name": "date",
                         "selector": ".ml-4",
                         "type": "text"
                     },
 
                     {
-                        "name": "obj_url",
-                        "selector": ".space-y-3 .overview-card-wrapper .flex",
-                        "type": "attribute",
-                        "attribute": "href"
-                    },
+                        "name": "objects",
+                        "selector": "div.space-y-3 article.overview-card-wrapper",
+                        "type": "nested_list",
+                        "fields": [
+                            {
+                                "name": "obj_url",
+                                "selector": "a",
+                                "type": "attribute",
+                                "attribute": "href"
+                            },
 
-                    {
-                        "name": "paper_url",
-                        "selector": ".space-y-3 .overview-card-wrapper .block",
-                        "type": "attribute",
-                        "attribute": "href"
-                    },
-
-                    {
-                        "name": "obj_title",
-                        "selector": ".space-y-3 .overview-card-wrapper h4",
-                        "type": "text"
-                    },
-                            
-                    {
-                        "name": "obj_info",
-                        "selector": ".space-y-3 .overview-card-wrapper div.mr-1",
-                        "type": "text"
+                            {
+                                "name": "obj_title",
+                                "selector": "h4",
+                                "type": "text"
+                            },
+                                    
+                            {
+                                "name": "obj_info",
+                                "selector": "div.mr-1",
+                                "type": "text"
+                            }
+                        ]
                     }
                 ]
             }

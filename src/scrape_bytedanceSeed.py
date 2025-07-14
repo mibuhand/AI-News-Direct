@@ -37,7 +37,7 @@ async def main():
         for article in data['loaderData']['(locale$)/blog/page']['article_list']:
             title_en = article['ArticleSubContentEn']['Title']
             title_zh = article['ArticleSubContentZh']['Title']
-            publish_date = datetime.fromtimestamp(article['ArticleMeta']['PublishDate']/1000) + timedelta(days=1)
+            publish_date = datetime.fromtimestamp(article['ArticleMeta']['PublishDate']/1000)
             researchArea_en = [area['ResearchAreaName'] for area in article['ArticleMeta']['ResearchArea']]
             researchArea_zh = [area['ResearchAreaNameZh'] for area in article['ArticleMeta']['ResearchArea']]
             url_en = PAGE_URL + '/en/blog/' + article['ArticleSubContentEn']['TitleKey']
