@@ -1,0 +1,1 @@
+# Core module for AI-News-Direct

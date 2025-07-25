@@ -1,0 +1,82 @@
+[
+    {
+        "site": "https://seed.bytedance.com/en",
+        "pages": ["blog", "research"]
+    },
+    
+    {
+        "site": "https://www.anthropic.com",
+        "pages": ["news", "research", "engineering"]
+    },
+    
+    {
+        "site": "https://openai.com/research/index"
+    },
+    
+    {
+        "site": "https://huggingface.co",
+        "type": "organization_matrix",
+        "base_path": "/organizations",
+        "organizations": [
+            "/openai",
+            "/meta-llama", 
+            "/anthropic",
+            "/xai-org",
+            "/mistralai",
+            "/ibm-granite",
+            "/deepmind",
+            "/google",
+            "/facebook",
+            "/microsoft",
+            "/amazon",
+            "/nvidia",
+            "/apple",
+            "/stabilityai",
+            "/black-forest-labs",
+            "/Comfy-Org",
+            "/Qwen",
+            "/deepseek-ai",
+            "/tencent",
+            "/baidu",
+            "/moonshotai",
+            "/THUDM",
+            "/ByteDance",
+            "/ByteDance-Seed",
+            "/bytedance-research",
+            "/MiniMaxAI",
+            "/openbmb",
+            "/BAAI",
+            "/baichuan-inc",
+            "/Wan-AI",
+            "/ali-vilab",
+            "/FunAudioLLM",
+            "/TencentARC",
+            "/HuggingFaceTB",
+            "/huggingface",
+            "/unsloth",
+            "/kyutai",
+            "/bosonai",
+            "/pollen-robotics",
+            "/lerobot",
+            "/agibot-world"
+        ],
+        "pages": [
+            "/activity/models",
+            "/activity/datasets", 
+            "/activity/papers"
+        ]
+    },
+    
+    {
+        "site": "https://huggingface.co",
+        "type": "user_profiles",
+        "users": [
+            "/Kijai"
+        ],
+        "pages": [
+            "/activity/models",
+            "/activity/datasets", 
+            "/activity/papers"
+        ]
+    }
+]

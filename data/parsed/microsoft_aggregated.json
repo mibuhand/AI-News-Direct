@@ -1,0 +1,828 @@
+[
+    {
+        "id": "7f94e295e5226c2ebd5d5db217a1060d",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-25T17:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff",
+                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "904b4a2c273d03776eebbee0fe9a1fda",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published 9 models",
+        "description": "microsoft: published 9 models",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-25T17:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published 9 models"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff-3b-GR-HM-c",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-GR-HM-c",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-3b-GR-HM",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-GR-HM",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-3b-UR90",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-UR90",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50-BRn",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50-BRn",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50-BRq",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50-BRq",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50-BRu",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50-BRu",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-GR",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-GR",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR90",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR90",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50",
+                "type": "0.2B"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "85d83f92367ab11988c3a671a7c5d24f",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a model",
+        "description": "microsoft: updated a model",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-23T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/maira-2-sae",
+                "url": "https://huggingface.co/microsoft/maira-2-sae",
+                "type": "Feature Extraction"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "e0ba6b6391e576c8ab28463132418d44",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated 2 models",
+        "description": "microsoft: updated 2 models",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-22T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated 2 models"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Phi-mini-MoE-instruct",
+                "url": "https://huggingface.co/microsoft/Phi-mini-MoE-instruct",
+                "type": "Text Generation"
+            },
+            {
+                "title": "microsoft/Phi-tiny-MoE-instruct",
+                "url": "https://huggingface.co/microsoft/Phi-tiny-MoE-instruct",
+                "type": "Text Generation"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "5da3037b06c5186c84bd0fc073b870b2",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 3 papers",
+        "description": "microsoft: authored 3 papers",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-21T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored 3 papers"
+        },
+        "objects": [
+            {
+                "title": "GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding",
+                "url": "https://huggingface.co/papers/2507.15846",
+                "type": ""
+            },
+            {
+                "title": "LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization",
+                "url": "https://huggingface.co/papers/2507.15758",
+                "type": ""
+            },
+            {
+                "title": "Hierarchical Budget Policy Optimization for Adaptive Reasoning",
+                "url": "https://huggingface.co/papers/2507.15844",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "c65d5101b89f83bd3b82c37295b0bfc2",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 3 papers",
+        "description": "microsoft: authored 3 papers",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-21T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored 3 papers"
+        },
+        "objects": [
+            {
+                "title": "MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task",
+                "url": "https://huggingface.co/papers/2502.11684",
+                "type": ""
+            },
+            {
+                "title": "SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation",
+                "url": "https://huggingface.co/papers/2506.03139",
+                "type": ""
+            },
+            {
+                "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+                "url": "https://huggingface.co/papers/2402.17574",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "3bd9200207b6254308dcc5b789ea642f",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-21T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training",
+                "url": "https://huggingface.co/papers/2507.15640",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "047c930e59717514000b5cce74e710d8",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "microsoft: updated a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-21T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff",
+                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "7813e3fbfbd8dc72a93ddc0479c40f0b",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "microsoft: updated a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-19T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/rStar-Coder",
+                "url": "https://huggingface.co/datasets/microsoft/rStar-Coder",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "851daf3383a57de3486e011272df437d",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a model",
+        "description": "microsoft: updated a model",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-18T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Phi-4-mini-flash-reasoning",
+                "url": "https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning",
+                "type": "Text Generation"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "39583288865de3292508b1e43d1385bb",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "microsoft: updated a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-17T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/ntt-icml2021",
+                "url": "https://huggingface.co/datasets/microsoft/ntt-icml2021",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "e8fece9e3155aacd5ac8c769d2d8bd58",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-17T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/ntt-icml2021",
+                "url": "https://huggingface.co/datasets/microsoft/ntt-icml2021",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "9aeddc9c1899d9381c9ef41d61c721ee",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a model",
+        "description": "microsoft: published a model",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-17T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/maira-2-sae",
+                "url": "https://huggingface.co/microsoft/maira-2-sae",
+                "type": "Feature Extraction"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "93c92ba38b69651a9074476a718600a7",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-16T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?",
+                "url": "https://huggingface.co/papers/2507.12415",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "10babc2c7d1e1c25d52a15c825ad1ba0",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a model",
+        "description": "microsoft: published a model",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-16T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/CAD-Editor",
+                "url": "https://huggingface.co/microsoft/CAD-Editor",
+                "type": "Updated16 days ago"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "09341cf33e54a4e258c9adebdb226bde",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-15T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/rStar-Coder",
+                "url": "https://huggingface.co/datasets/microsoft/rStar-Coder",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "0633dace693699e6225d7a75535318d0",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated 5 models",
+        "description": "microsoft: updated 5 models",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-15T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated 5 models"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff-3b-GR-HM-c",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-GR-HM-c",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-3b-GR-HM",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-GR-HM",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-3b-UR90",
+                "url": "https://huggingface.co/microsoft/Dayhoff-3b-UR90",
+                "type": "3B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50-BRn",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50-BRn",
+                "type": "0.2B"
+            },
+            {
+                "title": "microsoft/Dayhoff-170m-UR50-BRq",
+                "url": "https://huggingface.co/microsoft/Dayhoff-170m-UR50-BRq",
+                "type": "0.2B"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "15ca42189ccd91433f04aa512fd5acb6",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-12T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation",
+                "url": "https://huggingface.co/papers/2506.18349",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "6269cb2d1f59a863d49ed98b338303cc",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-10T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "First Return, Entropy-Eliciting Explore",
+                "url": "https://huggingface.co/papers/2507.07017",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "d5b7405365110ffc606480db9adcd54e",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-10T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation",
+                "url": "https://huggingface.co/papers/2507.06607",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "d5a739f43e5c85ea550fed093e8c2cea",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-08T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/NextCoderDataset",
+                "url": "https://huggingface.co/datasets/microsoft/NextCoderDataset",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "6f7c6c48ae61362ead52416729ab9130",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated 2 datasets",
+        "description": "microsoft: updated 2 datasets",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-08T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated 2 datasets"
+        },
+        "objects": [
+            {
+                "title": "microsoft/NextCoderDataset-Conversational",
+                "url": "https://huggingface.co/datasets/microsoft/NextCoderDataset-Conversational",
+                "type": ""
+            },
+            {
+                "title": "microsoft/NextCoderDataset",
+                "url": "https://huggingface.co/datasets/microsoft/NextCoderDataset",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "e0aea77dabd4f2b5ee44afaf457796aa",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-08T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/NextCoderDataset-Conversational",
+                "url": "https://huggingface.co/datasets/microsoft/NextCoderDataset-Conversational",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "963d31ffdf64e05f679e71453c90082e",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated 3 datasets",
+        "description": "microsoft: updated 3 datasets",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-07T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated 3 datasets"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Updesh_beta",
+                "url": "https://huggingface.co/datasets/microsoft/Updesh_beta",
+                "type": ""
+            },
+            {
+                "title": "microsoft/Updesh_beta",
+                "url": "https://huggingface.co/datasets/microsoft/Updesh_beta",
+                "type": ""
+            },
+            {
+                "title": "microsoft/Updesh_beta",
+                "url": "https://huggingface.co/datasets/microsoft/Updesh_beta",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "3f66ce8df7214b50c5ebc1521721fe19",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-04T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation",
+                "url": "https://huggingface.co/papers/2506.18349",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "f874c9d42267ca9171008fdc1b47a60a",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-04T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention",
+                "url": "https://huggingface.co/papers/2507.01004",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "5730e37c63ee5b653c14d3880cf60d87",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-01T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Calligrapher: Freestyle Text Image Customization",
+                "url": "https://huggingface.co/papers/2506.24123",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "0aa7809d6612aa10c82725262ee3737e",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-06-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs",
+                "url": "https://huggingface.co/papers/2506.14245",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "dee4cbf61574dd3192ee8b45c0a64ef5",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs' Social Intelligence",
+                "url": "https://huggingface.co/papers/2505.24500",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "6ee035869c483debd722d5cb11a3b645",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset",
+                "url": "https://huggingface.co/papers/2505.21297",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "d7bfafd4b1400ccdce635a814dc99bf2",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models",
+                "url": "https://huggingface.co/papers/2505.21500",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "3ffdc5c0716e8408eb4d09adb1bb68c7",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Let LLMs Break Free from Overthinking via Self-Braking Tuning",
+                "url": "https://huggingface.co/papers/2505.14604",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "747e58a82ea4eb8c7730fe341b39d846",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-25T21:32:36.443057+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective",
+                "url": "https://huggingface.co/papers/2505.21505",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    }
+]
