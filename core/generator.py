@@ -5,11 +5,11 @@ from datetime import datetime, timezone
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 import glob
-from aggregate_feeds import aggregate_all_organizations, ORGANIZATION_CONFIGS
+from aggregator import aggregate_all_organizations, ORGANIZATION_CONFIGS
 
 # Directory containing the parsed JSON files
 project_dir = Path(__file__).resolve().parent.parent
-parsed_dir = project_dir / 'parsed_data'
+parsed_dir = project_dir / 'data' / 'parsed'
 feeds_dir = project_dir / 'feeds'
 
 # Ensure feeds directory exists

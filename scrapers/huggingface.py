@@ -14,10 +14,10 @@ logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s -
 
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent
-html_dir = project_dir / 'html_cache'
-parsed_dir = project_dir / 'parsed_data'
+html_dir = project_dir / 'data' / 'html_cache'
+parsed_dir = project_dir / 'data' / 'parsed'
 
-# Ensure parsed_data directory exists
+# Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
 # Hardcoded CSS selectors (simplified from huggingface.json schema)
@@ -33,7 +33,7 @@ OBJECT_INFO_SELECTOR = "div.mr-1"
 
 
 def load_huggingface_html_files():
-    """Load HTML files from html_cache and extract data using hardcoded selectors"""
+    """Load HTML files from data/html_cache and extract data using hardcoded selectors"""
     base_url = 'https://huggingface.co'
     
     # Find all HTML files with 'huggingface' in filename

@@ -10,53 +10,21 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Directory containing the parsed JSON files
 project_dir = Path(__file__).resolve().parent.parent
-parsed_dir = project_dir / 'parsed_data'
+parsed_dir = project_dir / 'data' / 'parsed'
+config_dir = project_dir / 'config'
 
-# Organization configurations
-ORGANIZATION_CONFIGS = {
-    'bytedance': {
-        'name': 'ByteDance AI',
-        'patterns': ['bytedance', 'bytedance_seed', 'bytedance-seed', 'bytedance_research', 'bytedance-research'],
-        'direct_feeds': ['bytedance_seed_blog.json', 'bytedance_seed_research.json'],
-        'base_url': 'https://seed.bytedance.com',
-        'feed_title': 'ByteDance AI - All Activities'
-    },
-    'anthropic': {
-        'name': 'Anthropic',
-        'patterns': ['anthropic'],
-        'direct_feeds': ['anthropic_news.json', 'anthropic_research.json', 'anthropic_engineering.json'],
-        'base_url': 'https://www.anthropic.com',
-        'feed_title': 'Anthropic - All Activities'
-    },
-    'openai': {
-        'name': 'OpenAI',
-        'patterns': ['openai'],
-        'direct_feeds': [],
-        'base_url': 'https://openai.com',
-        'feed_title': 'OpenAI - All Activities'
-    },
-    'meta': {
-        'name': 'Meta',
-        'patterns': ['meta-llama', 'facebook'],
-        'direct_feeds': [],
-        'base_url': 'https://huggingface.co',
-        'feed_title': 'Meta - All Activities'
-    },
-    'google': {
-        'name': 'Google',
-        'patterns': ['google', 'deepmind'],
-        'direct_feeds': [],
-        'base_url': 'https://huggingface.co',
-        'feed_title': 'Google - All Activities'
-    },
-    'microsoft': {
-        'name': 'Microsoft',
-        'patterns': ['microsoft'],
-        'direct_feeds': [],
-        'base_url': 'https://huggingface.co',
-        'feed_title': 'Microsoft - All Activities'
-    }
-}
+# Load organization configurations from JSON file
+def load_organization_configs():
+    """Load organization configurations from JSON file"""
+    config_file = config_dir / 'organizations.json'
+    try:
+        with open(config_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        logging.error(f"Error loading organization config: {e}")
+        return {}
+
+ORGANIZATION_CONFIGS = load_organization_configs()
 
 def is_organization_match(org_name, patterns):
     """Check if an organization name matches any of the given patterns"""
@@ -86,6 +54,18 @@ def aggregate_organization_feeds(org_key):
                     logging.info(f"Added {len(data)} items from {filename}")
             except Exception as e:
                 logging.error(f"Error reading {filename}: {e}")
+    
+    # 1.5. Load RSS/Atom feed sources for this organization
+    for filename in config.get('feed_sources', []):
+        file_path = parsed_dir / filename
+        if file_path.exists():
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    aggregated_items.extend(data)
+                    logging.info(f"Added {len(data)} items from RSS/Atom feed {filename}")
+            except Exception as e:
+                logging.error(f"Error reading feed source {filename}: {e}")
     
     # 2. Load and filter HuggingFace activities for this organization
     huggingface_file = parsed_dir / 'huggingface.json'

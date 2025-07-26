@@ -48,23 +48,6 @@
         "objects": []
     },
     {
-        "id": "8d443ec74f68e0b84f522ffce421176b",
-        "source": "openai",
-        "type": "publication",
-        "title": "Pioneering an AI clinical copilot with Penda Health",
-        "description": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
-        "url": "https://openai.com/index/ai-clinical-copilot-penda-health/",
-        "published_date": "2025-07-22T10:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "69de8e9cc2a13d97a7417a0fd0936bde",
         "source": "openai",
         "type": "news",
@@ -157,40 +140,6 @@
         "metadata": {
             "guid": "https://openai.com/index/50-million-fund-to-build-with-communities",
             "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "254ae0445c748039d0900ccb3b17c18f",
-        "source": "openai",
-        "type": "publication",
-        "title": "ChatGPT agent System Card",
-        "description": "ChatGPT agent System Card: OpenAI\u2019s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-        "url": "https://openai.com/index/chatgpt-agent-system-card/",
-        "published_date": "2025-07-17T10:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "ef9a088906a2922e89d9e91b83c4f215",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing ChatGPT agent",
-        "description": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
-        "url": "https://openai.com/index/introducing-chatgpt-agent/",
-        "published_date": "2025-07-17T10:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     },
@@ -421,23 +370,6 @@
         "objects": []
     },
     {
-        "id": "8576211210aead750d18d864f9350785",
-        "source": "openai",
-        "type": "publication",
-        "title": "Toward understanding and preventing misalignment generalization",
-        "description": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior\u2014one that can be reversed with minimal fine-tuning.",
-        "url": "https://openai.com/index/emergent-misalignment/",
-        "published_date": "2025-06-18T10:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "cf0e889851538722de7d5c7de5a7e9a0",
         "source": "openai",
         "type": "news",
@@ -584,23 +516,6 @@
         "objects": []
     },
     {
-        "id": "d5eb82eca283759a2207e23f92a57904",
-        "source": "openai",
-        "type": "safety",
-        "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
-        "description": "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.",
-        "url": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/",
-        "published_date": "2025-05-23T00:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
         "id": "957251a9a09e223361c36f0d98e66d62",
         "source": "openai",
         "type": "news",
@@ -681,40 +596,6 @@
         "objects": []
     },
     {
-        "id": "e5cd2fde10edce9e29c756b3200a6de9",
-        "source": "openai",
-        "type": "safety",
-        "title": "Addendum to o3 and o4-mini system card: Codex",
-        "description": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.",
-        "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum/",
-        "published_date": "2025-05-16T08:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
-        "id": "acfa8ee44f0f5131543823257e9ad777",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing Codex",
-        "description": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
-        "url": "https://openai.com/index/introducing-codex/",
-        "published_date": "2025-05-16T08:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
         "id": "52185a9871f5a94d5982987ca1851271",
         "source": "openai",
         "type": "news",
@@ -759,23 +640,6 @@
         "metadata": {
             "guid": "https://openai.com/index/expedia-jochen-koedijk",
             "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "0f554947f23353b9695526d2562cd29b",
-        "source": "openai",
-        "type": "publication",
-        "title": "Introducing HealthBench",
-        "description": "HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.",
-        "url": "https://openai.com/index/healthbench/",
-        "published_date": "2025-05-12T10:30:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
         },
         "objects": []
     },
@@ -990,94 +854,6 @@
         "objects": []
     },
     {
-        "id": "bf86dff2ae3e164caaafcd5a87ba8f53",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "openai: updated a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2025-04-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/graphwalks",
-                "url": "https://huggingface.co/datasets/openai/graphwalks",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "1fc9a27aa86a049daca9ea30c16ded62",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "openai: published a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2025-04-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "published a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/graphwalks",
-                "url": "https://huggingface.co/datasets/openai/graphwalks",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "528b718aa8b3d8134d948dca2b6698dc",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "openai: updated a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2025-04-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/mrcr",
-                "url": "https://huggingface.co/datasets/openai/mrcr",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "e1091d203df37da111d7eb92728fa008",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "openai: published a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2025-04-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "published a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/mrcr",
-                "url": "https://huggingface.co/datasets/openai/mrcr",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "c332ad44f6a1cf1ef7f0c454d823596b",
         "source": "openai",
         "type": "news",
@@ -1138,23 +914,6 @@
         "metadata": {
             "guid": "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
             "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "70da5dbe3b23c744f883f6bca1796199",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing OpenAI o3 and o4-mini",
-        "description": "Our smartest and most capable models to date with full tool access",
-        "url": "https://openai.com/index/introducing-o3-and-o4-mini/",
-        "published_date": "2025-04-16T10:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
         },
         "objects": []
     },
@@ -2719,28 +2478,6 @@
         "objects": []
     },
     {
-        "id": "cf4384c1d4c37b4ab6f6a627342f62c6",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-11-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "GPT-4o System Card",
-                "url": "https://huggingface.co/papers/2410.21276",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "c4591e63ce3ebc871a2495250ff9b6e1",
         "source": "openai",
         "type": "news",
@@ -2971,55 +2708,6 @@
             "feed_type": "rss"
         },
         "objects": []
-    },
-    {
-        "id": "e56cd9d02aa267001a6e671e89d05bb4",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 2 papers",
-        "description": "openai: authored 2 papers",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-10-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored 2 papers"
-        },
-        "objects": [
-            {
-                "title": "An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models",
-                "url": "https://huggingface.co/papers/2408.00724",
-                "type": ""
-            },
-            {
-                "title": "Lean-STaR: Learning to Interleave Thinking and Proving",
-                "url": "https://huggingface.co/papers/2407.10040",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "9ae6a7a3ad0fe015ab7ae534edfb8491",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "openai: updated a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-10-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/MMMLU",
-                "url": "https://huggingface.co/datasets/openai/MMMLU",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "920742ccdb558641111c2517ee9ec633",
@@ -3380,28 +3068,6 @@
             "feed_type": "rss"
         },
         "objects": []
-    },
-    {
-        "id": "fc3570ef8c790c48ad347296be228078",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "openai: updated a dataset",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-09-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "openai/welsh-texts",
-                "url": "https://huggingface.co/datasets/openai/welsh-texts",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "fe5c42ed8a1a050c989cba4a87970d6a",
@@ -4030,99 +3696,6 @@
             "feed_type": "rss"
         },
         "objects": []
-    },
-    {
-        "id": "8a74155a99773d13bfcb3bbc892a6040",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "SALMON: Self-Alignment with Principle-Following Reward Models",
-                "url": "https://huggingface.co/papers/2310.05910",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "09910e680bd6c036cdcf304e0f7ec369",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
-                "url": "https://huggingface.co/papers/2312.09390",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "5625a076170db6c3e8c9f0d1b9de9dec",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 2 papers",
-        "description": "openai: authored 2 papers",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored 2 papers"
-        },
-        "objects": [
-            {
-                "title": "Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision",
-                "url": "https://huggingface.co/papers/2403.09472",
-                "type": ""
-            },
-            {
-                "title": "Self-Play Preference Optimization for Language Model Alignment",
-                "url": "https://huggingface.co/papers/2405.00675",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "d9fb7f6f594f48fe782b4312bb272ffd",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2024-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Instruction-tuned Language Models are Better Knowledge Learners",
-                "url": "https://huggingface.co/papers/2402.12847",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "0d6c91d12c7f6ed65ba474f440753fd6",
@@ -6281,77 +5854,6 @@
             "feed_type": "rss"
         },
         "objects": []
-    },
-    {
-        "id": "2854991687694b52527e9b18b96401ad",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2023-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
-                "url": "https://huggingface.co/papers/2309.14525",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "49648ec7f5cf797d080f5ec7a8bb1753",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 2 papers",
-        "description": "openai: authored 2 papers",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2023-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored 2 papers"
-        },
-        "objects": [
-            {
-                "title": "LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset",
-                "url": "https://huggingface.co/papers/2309.11998",
-                "type": ""
-            },
-            {
-                "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
-                "url": "https://huggingface.co/papers/2309.06180",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "84967f12e5e317e196c71fa3fb8a6793",
-        "source": "openai_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "openai: authored a paper",
-        "url": "https://huggingface.co/openai",
-        "published_date": "2023-07-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "openai",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision",
-                "url": "https://huggingface.co/papers/2305.03047",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "f34dd7a43088a7ec7056ed37fa150d5f",

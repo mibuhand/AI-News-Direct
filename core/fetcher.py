@@ -11,14 +11,16 @@ import logging
 # Set up logging configuration
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Define directories for caching HTML files and logs
+# Define directories for caching HTML files, feeds, and logs
 script_dir = Path(__file__).resolve().parent
 project_dir = script_dir.parent
-html_cache_dir = project_dir / "html_cache"
-logs_dir = project_dir / "logs"
+html_cache_dir = project_dir / "data" / "html_cache"
+feeds_cache_dir = project_dir / "data" / "feeds_cache"
+logs_dir = project_dir / "data" / "logs"
 
 # Ensure the cache and logs directories exist
 html_cache_dir.mkdir(exist_ok=True)
+feeds_cache_dir.mkdir(exist_ok=True)
 logs_dir.mkdir(exist_ok=True)
 
 
@@ -71,14 +73,34 @@ async def fetch_and_save(curl_session, url_data, semaphore):
 
             filename = f"{domain}_{page}"
 
-            # Save the HTML content to a file
-            with open(html_cache_dir / f"{filename}.html", "w", encoding="utf-8") as f:
-                f.write(response_text)
-            return {"url": url, "status": "success", "file": filename}
+            # Determine file type and save accordingly
+            if url_data.get('type') == 'feed':
+                # Save RSS/Atom feeds with .xml extension
+                with open(feeds_cache_dir / f"{filename}.xml", "w", encoding="utf-8") as f:
+                    f.write(response_text)
+                return {"url": url, "status": "success", "file": filename, "type": "feed"}
+            else:
+                # Save HTML content
+                with open(html_cache_dir / f"{filename}.html", "w", encoding="utf-8") as f:
+                    f.write(response_text)
+                return {"url": url, "status": "success", "file": filename, "type": "html"}
             
         except Exception as e:
             logging.error(f"Unexpected error fetching {url}: {str(e)}")
             return {"url": url, "status": "error", "error": str(e)}
+
+
+def extract_org_from_domain(domain):
+    """Extract organization identifier from domain name"""
+    # Remove common TLD patterns
+    clean_domain = domain.replace('_com', '').replace('_org', '').replace('_ai', '')
+    
+    # Extract the main part
+    parts = clean_domain.split('_')
+    if parts:
+        return parts[0]
+    
+    return clean_domain
 
 
 async def fetch_all_urls(urls_data, max_concurrent=5):
@@ -139,7 +161,7 @@ async def fetch_all_urls(urls_data, max_concurrent=5):
 if __name__ == "__main__":
     # Load URL data from unified schema
     urls_data = []
-    file_path = project_dir / 'src' / 'sites_config.json'
+    file_path = project_dir / 'config' / 'sites_config.json'
     
     with open(file_path, 'r', encoding="utf-8") as f:
         data_list = json.load(f)
@@ -183,6 +205,25 @@ if __name__ == "__main__":
                         'page': full_page,
                         'client_type': client_type
                     })
+            
+            # Handle RSS/Atom feeds
+            elif data.get('type') == 'feeds':
+                feeds = data.get('feeds', [])
+                for feed in feeds:
+                    feed_name = feed.get('name', 'feed')
+                    feed_url = feed.get('url', '')
+                    if feed_url:
+                        # Extract path from full URL for page parameter
+                        feed_path = feed_url.replace(base_url, '').lstrip('/')
+                        urls_data.append({
+                            'base_url': base_url,
+                            'domain': domain,
+                            'page': feed_path,
+                            'type': 'feed',
+                            'feed_name': feed_name,
+                            'source_org': extract_org_from_domain(domain),
+                            'client_type': client_type
+                        })
             
             # Handle simple pages list
             else:

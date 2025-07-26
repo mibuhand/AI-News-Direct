@@ -1,0 +1,50 @@
+{
+    "bytedance": {
+        "name": "ByteDance AI",
+        "patterns": ["bytedance", "bytedance_seed", "bytedance-seed", "bytedance_research", "bytedance-research"],
+        "direct_feeds": ["bytedance_seed_blog.json", "bytedance_seed_research.json"],
+        "feed_sources": [],
+        "base_url": "https://seed.bytedance.com",
+        "feed_title": "ByteDance AI - All Activities"
+    },
+    "anthropic": {
+        "name": "Anthropic",
+        "patterns": ["anthropic"],
+        "direct_feeds": ["anthropic_news.json", "anthropic_research.json", "anthropic_engineering.json"],
+        "feed_sources": [],
+        "base_url": "https://www.anthropic.com",
+        "feed_title": "Anthropic - All Activities"
+    },
+    "openai": {
+        "name": "OpenAI",
+        "patterns": ["openai"],
+        "direct_feeds": ["openai.json"],
+        "feed_sources": ["openai_feeds.json"],
+        "base_url": "https://openai.com",
+        "feed_title": "OpenAI - All Activities"
+    },
+    "meta": {
+        "name": "Meta",
+        "patterns": ["meta-llama", "facebook"],
+        "direct_feeds": [],
+        "feed_sources": [],
+        "base_url": "https://huggingface.co",
+        "feed_title": "Meta - All Activities"
+    },
+    "google": {
+        "name": "Google",
+        "patterns": ["google", "deepmind"],
+        "direct_feeds": [],
+        "feed_sources": [],
+        "base_url": "https://huggingface.co",
+        "feed_title": "Google - All Activities"
+    },
+    "microsoft": {
+        "name": "Microsoft",
+        "patterns": ["microsoft"],
+        "direct_feeds": [],
+        "feed_sources": [],
+        "base_url": "https://huggingface.co",
+        "feed_title": "Microsoft - All Activities"
+    }
+}

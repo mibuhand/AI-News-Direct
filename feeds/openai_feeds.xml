@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>OpenAI - All Activities</title>
-  <id>tag:ai-news-direct.local,2025:openai_aggregated</id>
-  <link href="https://openai.com/feed/openai_aggregated.xml" rel="self"/>
-  <updated>2025-07-26T23:00:36.608426+00:00</updated>
+  <title>OpenAI News</title>
+  <id>tag:ai-news-direct.local,2025:openai_feeds</id>
+  <link href="https://openai.com/feed/openai_feeds.xml" rel="self"/>
+  <updated>2025-07-26T23:00:36.641074+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -27,14 +27,6 @@
     <link href="https://openai.com/index/announcing-devday-2025"/>
     <updated>2025-07-23T00:00:00+00:00</updated>
     <summary>OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Pioneering an AI clinical copilot with Penda Health</title>
-    <id>8d443ec74f68e0b84f522ffce421176b</id>
-    <link href="https://openai.com/index/ai-clinical-copilot-penda-health/"/>
-    <updated>2025-07-22T10:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare. | Organization: OpenAI | Source: Openai (publication)</summary>
   </entry>
   <entry>
     <title>Pioneering an AI clinical copilot with Penda Health</title>
@@ -77,22 +69,6 @@
     <link href="https://openai.com/index/50-million-fund-to-build-with-communities"/>
     <updated>2025-07-18T00:00:00+00:00</updated>
     <summary>OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>ChatGPT agent System Card</title>
-    <id>254ae0445c748039d0900ccb3b17c18f</id>
-    <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
-    <updated>2025-07-17T10:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework. | Organization: OpenAI | Source: Openai (publication)</summary>
-  </entry>
-  <entry>
-    <title>Introducing ChatGPT agent</title>
-    <id>ef9a088906a2922e89d9e91b83c4f215</id>
-    <link href="https://openai.com/index/introducing-chatgpt-agent/"/>
-    <updated>2025-07-17T10:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance. | Organization: OpenAI | Source: Openai (product)</summary>
   </entry>
   <entry>
     <title>Introducing ChatGPT agent</title>
@@ -194,14 +170,6 @@
     <summary>Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Toward understanding and preventing misalignment generalization</title>
-    <id>8576211210aead750d18d864f9350785</id>
-    <link href="https://openai.com/index/emergent-misalignment/"/>
-    <updated>2025-06-18T10:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning. | Organization: OpenAI | Source: Openai (publication)</summary>
-  </entry>
-  <entry>
     <title>Preparing for future AI risks in biology</title>
     <id>cf0e889851538722de7d5c7de5a7e9a0</id>
     <link href="https://openai.com/index/preparing-for-future-ai-capabilities-in-biology"/>
@@ -267,14 +235,6 @@
   </entry>
   <entry>
     <title>Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator</title>
-    <id>d5eb82eca283759a2207e23f92a57904</id>
-    <link href="https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/"/>
-    <updated>2025-05-23T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o. | Organization: OpenAI | Source: Openai (safety)</summary>
-  </entry>
-  <entry>
-    <title>Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator</title>
     <id>957251a9a09e223361c36f0d98e66d62</id>
     <link href="https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3"/>
     <updated>2025-05-23T00:00:00+00:00</updated>
@@ -309,22 +269,6 @@
     <summary>New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o &amp; o-series models, plus new features for reliability and efficiency. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Addendum to o3 and o4-mini system card: Codex</title>
-    <id>e5cd2fde10edce9e29c756b3200a6de9</id>
-    <link href="https://openai.com/index/o3-o4-mini-codex-system-card-addendum/"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved. | Organization: OpenAI | Source: Openai (safety)</summary>
-  </entry>
-  <entry>
-    <title>Introducing Codex</title>
-    <id>acfa8ee44f0f5131543823257e9ad777</id>
-    <link href="https://openai.com/index/introducing-codex/"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review. | Organization: OpenAI | Source: Openai (release)</summary>
-  </entry>
-  <entry>
     <title>Introducing Codex</title>
     <id>52185a9871f5a94d5982987ca1851271</id>
     <link href="https://openai.com/index/introducing-codex"/>
@@ -344,14 +288,6 @@
     <link href="https://openai.com/index/expedia-jochen-koedijk"/>
     <updated>2025-05-14T10:00:00+00:00</updated>
     <summary>A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Introducing HealthBench</title>
-    <id>0f554947f23353b9695526d2562cd29b</id>
-    <link href="https://openai.com/index/healthbench/"/>
-    <updated>2025-05-12T10:30:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health. | Organization: OpenAI | Source: Openai (publication)</summary>
   </entry>
   <entry>
     <title>Introducing HealthBench</title>
@@ -446,34 +382,6 @@
     <summary>We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often described as sycophantic. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>bf86dff2ae3e164caaafcd5a87ba8f53</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:00:02.535648+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/graphwalks</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>1fc9a27aa86a049daca9ea30c16ded62</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:00:02.535648+00:00</updated>
-    <summary>openai: published a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: published a dataset | Related: openai/graphwalks</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>528b718aa8b3d8134d948dca2b6698dc</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:00:02.535648+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/mrcr</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>e1091d203df37da111d7eb92728fa008</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:00:02.535648+00:00</updated>
-    <summary>openai: published a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: published a dataset | Related: openai/mrcr</summary>
-  </entry>
-  <entry>
     <title>New in ChatGPT for Business: April 2025</title>
     <id>c332ad44f6a1cf1ef7f0c454d823596b</id>
     <link href="https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025"/>
@@ -500,14 +408,6 @@
     <link href="https://openai.com/global-affairs/the-washington-post-partners-with-openai"/>
     <updated>2025-04-22T06:00:00+00:00</updated>
     <summary>The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Introducing OpenAI o3 and o4-mini</title>
-    <id>70da5dbe3b23c744f883f6bca1796199</id>
-    <link href="https://openai.com/index/introducing-o3-and-o4-mini/"/>
-    <updated>2025-04-16T10:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>Our smartest and most capable models to date with full tool access | Organization: OpenAI | Source: Openai (release)</summary>
   </entry>
   <entry>
     <title>Introducing OpenAI o3 and o4-mini</title>
@@ -1199,13 +1099,6 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>Morgan Stanley uses AI evals to shape the future of financial services | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>cf4384c1d4c37b4ab6f6a627342f62c6</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-11-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: GPT-4o System Card</summary>
-  </entry>
-  <entry>
     <title>Advancing red teaming with people and AI</title>
     <id>c4591e63ce3ebc871a2495250ff9b6e1</id>
     <link href="https://openai.com/index/advancing-red-teaming-with-people-and-ai"/>
@@ -1307,20 +1200,6 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <updated>2024-10-29T10:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Decagon and OpenAI deliver high-performance, fully automated customer support at scale | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>e56cd9d02aa267001a6e671e89d05bb4</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-10-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models, Lean-STaR: Learning to Interleave Thinking and Proving</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>9ae6a7a3ad0fe015ab7ae534edfb8491</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-10-26T23:00:02.535648+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/MMMLU</summary>
   </entry>
   <entry>
     <title>OpenAI’s approach to AI and national security</title>
@@ -1481,13 +1360,6 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <updated>2024-09-30T00:00:00+00:00</updated>
     <category term="Webinar"/>
     <summary>Put AI to work: Automate and Scale Financial Operations | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>fc3570ef8c790c48ad347296be228078</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-09-26T23:00:02.535648+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/welsh-texts</summary>
   </entry>
   <entry>
     <title>Upgrading the Moderation API with our new multimodal moderation model</title>
@@ -1768,34 +1640,6 @@ We’re strengthening our governance with expertise in AI safety and alignment. 
     <updated>2024-07-30T00:00:00+00:00</updated>
     <category term="Global Affairs"/>
     <summary>We’re sharing a preliminary overview of the EU AI Act including upcoming deadlines and requirements, with a particular focus on prohibited and high-risk use cases | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>8a74155a99773d13bfcb3bbc892a6040</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: SALMON: Self-Alignment with Principle-Following Reward Models</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>09910e680bd6c036cdcf304e0f7ec369</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>5625a076170db6c3e8c9f0d1b9de9dec</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision, Self-Play Preference Optimization for Language Model Alignment</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>d9fb7f6f594f48fe782b4312bb272ffd</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Instruction-tuned Language Models are Better Knowledge Learners</summary>
   </entry>
   <entry>
     <title>SearchGPT is a prototype of new AI search features</title>
@@ -2765,27 +2609,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2023-08-01T07:00:00+00:00</updated>
     <category term="Safety &amp; Alignment"/>
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>2854991687694b52527e9b18b96401ad</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Aligning Large Multimodal Models with Factually Augmented RLHF</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>49648ec7f5cf797d080f5ec7a8bb1753</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset, Efficient Memory Management for Large Language Model Serving with PagedAttention</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>84967f12e5e317e196c71fa3fb8a6793</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:00:02.535648+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision</summary>
   </entry>
   <entry>
     <title>Frontier Model Forum</title>

@@ -14,6 +14,17 @@
     },
     
     {
+        "site": "https://openai.com",
+        "type": "feeds",
+        "feeds": [
+            {
+                "name": "news",
+                "url": "https://openai.com/news/rss.xml"
+            }
+        ]
+    },
+    
+    {
         "site": "https://huggingface.co",
         "type": "organization_matrix",
         "base_path": "/organizations",

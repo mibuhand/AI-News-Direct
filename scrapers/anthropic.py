@@ -13,9 +13,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent
-html_dir = project_dir / 'html_cache'
-parsed_dir = project_dir / 'parsed_data'
-# Ensure parsed_data directory exists
+html_dir = project_dir / 'data' / 'html_cache'
+parsed_dir = project_dir / 'data' / 'parsed'
+# Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
 
