@@ -1,34 +1,12 @@
 [
     {
-        "id": "190d8cd00d88c19848d31eb23c4ab5a2",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "microsoft: published a dataset",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-25T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "published a dataset"
-        },
-        "objects": [
-            {
-                "title": "microsoft/Dayhoff",
-                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "54da77ffa8132283ae0d6f461c15a350",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published 9 models",
         "description": "microsoft: published 9 models",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-25T23:00:02.535648+00:00",
+        "published_date": "2025-07-25T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -84,13 +62,57 @@
         "original_source": "huggingface"
     },
     {
+        "id": "190d8cd00d88c19848d31eb23c4ab5a2",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "microsoft: published a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-25T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff",
+                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "9de9a3c04aa12393e3080ff9c9c5f475",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a model",
+        "description": "microsoft: updated a model",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-22T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/maira-2-sae",
+                "url": "https://huggingface.co/microsoft/maira-2-sae",
+                "type": "Feature Extraction"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "a48ce31e8d845fca9caf188556bdc86b",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 2 models",
         "description": "microsoft: updated 2 models",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-22T23:00:02.535648+00:00",
+        "published_date": "2025-07-22T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -111,57 +133,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "9de9a3c04aa12393e3080ff9c9c5f475",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a model",
-        "description": "microsoft: updated a model",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-22T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "updated a model"
-        },
-        "objects": [
-            {
-                "title": "microsoft/maira-2-sae",
-                "url": "https://huggingface.co/microsoft/maira-2-sae",
-                "type": "Feature Extraction"
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "047a99e22b90640449cf188051925c38",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "microsoft: updated a dataset",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-21T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "microsoft/Dayhoff",
-                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "55ab53e0117b1ac341a77c8751b80a17",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored 3 papers",
         "description": "microsoft: authored 3 papers",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-21T23:00:02.535648+00:00",
+        "published_date": "2025-07-21T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -187,13 +165,35 @@
         "original_source": "huggingface"
     },
     {
+        "id": "047a99e22b90640449cf188051925c38",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "microsoft: updated a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-21T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/Dayhoff",
+                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "5b5fd9e9e537db5a7cc08e515e07b45d",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored 3 papers",
         "description": "microsoft: authored 3 papers",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-21T23:00:02.535648+00:00",
+        "published_date": "2025-07-21T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -225,7 +225,7 @@
         "title": "[HuggingFace] authored a paper",
         "description": "microsoft: authored a paper",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-21T23:00:02.535648+00:00",
+        "published_date": "2025-07-21T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -247,7 +247,7 @@
         "title": "[HuggingFace] updated a dataset",
         "description": "microsoft: updated a dataset",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-19T23:00:02.535648+00:00",
+        "published_date": "2025-07-19T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -269,7 +269,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "microsoft: updated a model",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-18T23:00:02.535648+00:00",
+        "published_date": "2025-07-18T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -285,35 +285,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "16aa1d2f40bf62fe02267abe5296cee0",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "microsoft: updated a dataset",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-17T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "microsoft/ntt-icml2021",
-                "url": "https://huggingface.co/datasets/microsoft/ntt-icml2021",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "1184781858f94889a02bf4d0eeca51d3",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a dataset",
         "description": "microsoft: published a dataset",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-17T23:00:02.535648+00:00",
+        "published_date": "2025-07-17T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -335,7 +313,7 @@
         "title": "[HuggingFace] published a model",
         "description": "microsoft: published a model",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-17T23:00:02.535648+00:00",
+        "published_date": "2025-07-17T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -351,13 +329,35 @@
         "original_source": "huggingface"
     },
     {
+        "id": "16aa1d2f40bf62fe02267abe5296cee0",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "microsoft: updated a dataset",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-17T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "microsoft/ntt-icml2021",
+                "url": "https://huggingface.co/datasets/microsoft/ntt-icml2021",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "ed9d1cd1087b1af5e4e3bba48ed4e297",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a model",
         "description": "microsoft: published a model",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-16T23:00:02.535648+00:00",
+        "published_date": "2025-07-16T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -379,7 +379,7 @@
         "title": "[HuggingFace] published a dataset",
         "description": "microsoft: published a dataset",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-15T23:00:02.535648+00:00",
+        "published_date": "2025-07-15T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -401,7 +401,7 @@
         "title": "[HuggingFace] updated 5 models",
         "description": "microsoft: updated 5 models",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-15T23:00:02.535648+00:00",
+        "published_date": "2025-07-15T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -437,13 +437,35 @@
         "original_source": "huggingface"
     },
     {
+        "id": "0b4b5609948e35342885823101221c39",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-07-12T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation",
+                "url": "https://huggingface.co/papers/2506.18349",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "80a8e5300d748c72ea471e029c7b3b80",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a dataset",
         "description": "microsoft: published a dataset",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-08T23:00:02.535648+00:00",
+        "published_date": "2025-07-08T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -465,7 +487,7 @@
         "title": "[HuggingFace] published a dataset",
         "description": "microsoft: published a dataset",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-08T23:00:02.535648+00:00",
+        "published_date": "2025-07-08T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -481,35 +503,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "9aee4afd6eb604daf38615258c9299bf",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "microsoft: authored a paper",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-08T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Robust Learning of Diverse Code Edits",
-                "url": "https://huggingface.co/papers/2503.03656",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "657a7e3d10c51d07294e9f5950eefa34",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 2 datasets",
         "description": "microsoft: updated 2 datasets",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-08T23:00:02.535648+00:00",
+        "published_date": "2025-07-08T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -536,7 +536,7 @@
         "title": "[HuggingFace] updated 3 datasets",
         "description": "microsoft: updated 3 datasets",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-06T23:00:02.535648+00:00",
+        "published_date": "2025-07-06T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -562,35 +562,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "12e0e81276fd9739dc61856ef5d11e68",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "microsoft: authored a paper",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-07-02T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Data Efficacy for Language Model Training",
-                "url": "https://huggingface.co/papers/2506.21545",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "0aa7809d6612aa10c82725262ee3737e",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored a paper",
         "description": "microsoft: authored a paper",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-06-26T23:00:02.535648+00:00",
+        "published_date": "2025-06-26T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -606,13 +584,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "712b9e97dccdee669541b80e53091c09",
+        "id": "747e58a82ea4eb8c7730fe341b39d846",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored a paper",
         "description": "microsoft: authored a paper",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
+        "published_date": "2025-05-26T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -620,84 +598,8 @@
         },
         "objects": [
             {
-                "title": "MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models",
-                "url": "https://huggingface.co/papers/2503.14827",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "dee4cbf61574dd3192ee8b45c0a64ef5",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "microsoft: authored a paper",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs' Social Intelligence",
-                "url": "https://huggingface.co/papers/2505.24500",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "d7bfafd4b1400ccdce635a814dc99bf2",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "microsoft: authored a paper",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models",
-                "url": "https://huggingface.co/papers/2505.21500",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "c9e4a589659f8eaef3d74598c3c2a6c7",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 3 papers",
-        "description": "microsoft: authored 3 papers",
-        "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
-        "categories": [],
-        "organization": "microsoft",
-        "metadata": {
-            "action": "authored 3 papers"
-        },
-        "objects": [
-            {
-                "title": "Closed-Form Bounds for DP-SGD against Record-level Inference",
-                "url": "https://huggingface.co/papers/2402.14397",
-                "type": ""
-            },
-            {
-                "title": "Analyzing Leakage of Personally Identifiable Information in Language Models",
-                "url": "https://huggingface.co/papers/2302.00539",
-                "type": ""
-            },
-            {
-                "title": "Securing AI Agents with Information-Flow Control",
-                "url": "https://huggingface.co/papers/2505.23643",
+                "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective",
+                "url": "https://huggingface.co/papers/2505.21505",
                 "type": ""
             }
         ],
@@ -710,7 +612,7 @@
         "title": "[HuggingFace] authored 3 papers",
         "description": "microsoft: authored 3 papers",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
+        "published_date": "2025-05-26T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -736,13 +638,55 @@
         "original_source": "huggingface"
     },
     {
-        "id": "747e58a82ea4eb8c7730fe341b39d846",
+        "id": "22ac0f91fc76c0c1c2bba5aacfa82c04",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 5 papers",
+        "description": "microsoft: authored 5 papers",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-26T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored 5 papers"
+        },
+        "objects": [
+            {
+                "title": "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning",
+                "url": "https://huggingface.co/papers/2304.03916",
+                "type": ""
+            },
+            {
+                "title": "Diversity of Thought Improves Reasoning Abilities of Large Language Models",
+                "url": "https://huggingface.co/papers/2310.07088",
+                "type": ""
+            },
+            {
+                "title": "Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models",
+                "url": "https://huggingface.co/papers/2404.06209",
+                "type": ""
+            },
+            {
+                "title": "Eureka: Evaluating and Understanding Large Foundation Models",
+                "url": "https://huggingface.co/papers/2409.10566",
+                "type": ""
+            },
+            {
+                "title": "BENCHAGENTS: Automated Benchmark Creation with Agent Interaction",
+                "url": "https://huggingface.co/papers/2410.22584",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "d7bfafd4b1400ccdce635a814dc99bf2",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored a paper",
         "description": "microsoft: authored a paper",
         "url": "https://huggingface.co/microsoft",
-        "published_date": "2025-05-26T23:00:02.535648+00:00",
+        "published_date": "2025-05-26T23:44:07.934969+00:00",
         "categories": [],
         "organization": "microsoft",
         "metadata": {
@@ -750,8 +694,30 @@
         },
         "objects": [
             {
-                "title": "How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective",
-                "url": "https://huggingface.co/papers/2505.21505",
+                "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models",
+                "url": "https://huggingface.co/papers/2505.21500",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "dee4cbf61574dd3192ee8b45c0a64ef5",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "microsoft: authored a paper",
+        "url": "https://huggingface.co/microsoft",
+        "published_date": "2025-05-26T23:44:07.934969+00:00",
+        "categories": [],
+        "organization": "microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs' Social Intelligence",
+                "url": "https://huggingface.co/papers/2505.24500",
                 "type": ""
             }
         ],

@@ -25,6 +25,28 @@
     },
     
     {
+        "site": "https://deepmind.google",
+        "type": "feeds",
+        "feeds": [
+            {
+                "name": "blog",
+                "url": "https://deepmind.google/blog/rss.xml"
+            }
+        ]
+    },
+    
+    {
+        "site": "https://blog.google",
+        "type": "feeds",
+        "feeds": [
+            {
+                "name": "ai",
+                "url": "https://blog.google/technology/ai/rss/"
+            }
+        ]
+    },
+    
+    {
         "site": "https://huggingface.co",
         "type": "organization_matrix",
         "base_path": "/organizations",

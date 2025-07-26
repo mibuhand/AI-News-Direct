@@ -18,7 +18,7 @@
     "openai": {
         "name": "OpenAI",
         "patterns": ["openai"],
-        "direct_feeds": ["openai.json"],
+        "direct_feeds": ["openai_research.json"],
         "feed_sources": ["openai_feeds.json"],
         "base_url": "https://openai.com",
         "feed_title": "OpenAI - All Activities"
@@ -35,8 +35,8 @@
         "name": "Google",
         "patterns": ["google", "deepmind"],
         "direct_feeds": [],
-        "feed_sources": [],
-        "base_url": "https://huggingface.co",
+        "feed_sources": ["google_feeds.json"],
+        "base_url": "https://deepmind.google",
         "feed_title": "Google - All Activities"
     },
     "microsoft": {

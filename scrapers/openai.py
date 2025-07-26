@@ -145,7 +145,7 @@ def save_to_json(post_items, filename):
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
     try:
-        json_path = parsed_dir / 'openai.json'
+        json_path = parsed_dir / 'openai_research.json'
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)
             logging.info(f"Parsed data successfully written to '{json_path}'")
