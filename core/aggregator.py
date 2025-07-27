@@ -26,6 +26,46 @@ def load_organization_configs():
 
 ORGANIZATION_CONFIGS = load_organization_configs()
 
+def normalize_text(text):
+    """Normalize text for deduplication comparison"""
+    if not text:
+        return ''
+    
+    # Convert to lowercase, strip whitespace, normalize multiple spaces
+    normalized = ' '.join(text.strip().lower().split())
+    
+    # Remove common punctuation that might vary
+    import re
+    normalized = re.sub(r'[^\w\s-]', '', normalized)
+    
+    return normalized
+
+
+def normalize_url(url):
+    """Normalize URL for deduplication comparison"""
+    if not url:
+        return ''
+    
+    # Convert to lowercase and strip whitespace
+    normalized = url.strip().lower()
+    
+    # Remove trailing slash
+    normalized = normalized.rstrip('/')
+    
+    # Remove common URL parameters that don't affect content
+    import re
+    # Remove utm parameters, session ids, etc.
+    normalized = re.sub(r'[?&](utm_[^&]*|sessionid[^&]*|ref[^&]*)', '', normalized)
+    
+    # Remove fragment identifier
+    normalized = normalized.split('#')[0]
+    
+    # Remove trailing ? if no parameters remain
+    normalized = normalized.rstrip('?&')
+    
+    return normalized
+
+
 def is_organization_match(org_name, patterns):
     """Check if an organization name matches any of the given patterns"""
     if not org_name or not patterns:
@@ -89,7 +129,49 @@ def aggregate_organization_feeds(org_key):
         except Exception as e:
             logging.error(f"Error reading huggingface.json: {e}")
     
-    # 3. Sort all items by published_date (newest first)
+    # 3. Deduplicate items based on title, url, and description
+    # Prioritize RSS/Atom feeds over scraped sources
+    def deduplicate_items(items):
+        seen = {}
+        unique_items = []
+        
+        # Sort items by priority: RSS feeds first, then scraped, then HuggingFace
+        def get_source_priority(item):
+            source = item.get('source', '')
+            original_source = item.get('original_source', '')
+            
+            # RSS/Atom feeds have highest priority
+            if '_feeds' in source or 'feed' in source.lower():
+                return 0
+            # Direct scraped content has medium priority  
+            elif original_source != 'huggingface':
+                return 1
+            # HuggingFace activities have lowest priority
+            else:
+                return 2
+        
+        items_sorted_by_priority = sorted(items, key=get_source_priority)
+        
+        for item in items_sorted_by_priority:
+            title = normalize_text(item.get('title', ''))
+            url = normalize_url(item.get('url', ''))
+            description = normalize_text(item.get('description', ''))
+            
+            # Create key using all three fields
+            key = (title, url, description)
+            
+            # Only add if we haven't seen this exact combination
+            if key not in seen:
+                seen[key] = True
+                unique_items.append(item)
+            else:
+                logging.debug(f"Duplicate found: {item.get('title', 'No title')}")
+        
+        return unique_items
+    
+    unique_items = deduplicate_items(aggregated_items)
+    
+    # 4. Sort all items by published_date (newest first)
     def get_date_for_sorting(item):
         date_str = item.get('published_date', '')
         if date_str:
@@ -99,10 +181,7 @@ def aggregate_organization_feeds(org_key):
                 pass
         return datetime.min.replace(tzinfo=timezone.utc)
     
-    aggregated_items.sort(key=get_date_for_sorting, reverse=True)
-    
-    # No deduplication - delegate to individual parsers
-    unique_items = aggregated_items
+    unique_items.sort(key=get_date_for_sorting, reverse=True)
     
     # 5. Save aggregated feed
     try:
@@ -110,7 +189,7 @@ def aggregate_organization_feeds(org_key):
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(unique_items, f, indent=4)
         
-        logging.info(f"Created aggregated {config['name']} feed with {len(unique_items)} unique items")
+        logging.info(f"Created aggregated {config['name']} feed with {len(unique_items)} unique items (deduplicated from {len(aggregated_items)} total)")
         logging.info(f"Saved to: {output_file}")
         
         return unique_items
