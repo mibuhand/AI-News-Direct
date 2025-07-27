@@ -200,39 +200,17 @@
         "objects": []
     },
     {
-        "id": "c882db2d05100aab7dd3818f636bf02f",
+        "id": "aabc700736e4a91d10b812a087166928",
         "source": "anthropic_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-04-26T23:44:07.934969+00:00",
+        "title": "[HuggingFace] published a dataset",
+        "description": "huggingface_anthropic: published a dataset",
+        "url": "https://huggingface.co/huggingface_anthropic",
+        "published_date": "2025-04-27T03:38:34.751733+00:00",
         "categories": [],
-        "organization": "anthropic",
+        "organization": "huggingface_anthropic",
         "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/EconomicIndex",
-                "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "05f4cd1554d1021c05d26ee047186448",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-04-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
+            "action": "published a dataset"
         },
         "objects": [
             {
@@ -244,17 +222,17 @@
         "original_source": "huggingface"
     },
     {
-        "id": "ababd186f8d3e2d47df63e3ade729650",
+        "id": "45899004014fcf49ff9cf560d550e331",
         "source": "anthropic_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "anthropic: published a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-04-26T23:44:07.934969+00:00",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_anthropic: updated a dataset",
+        "url": "https://huggingface.co/huggingface_anthropic",
+        "published_date": "2025-04-27T03:38:34.751733+00:00",
         "categories": [],
-        "organization": "anthropic",
+        "organization": "huggingface_anthropic",
         "metadata": {
-            "action": "published a dataset"
+            "action": "updated a dataset"
         },
         "objects": [
             {
@@ -400,22 +378,6 @@
         "objects": []
     },
     {
-        "id": "05c8417a43001a9925fe7beec977b495",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Tracing the thoughts of a large language model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
-        "external_url": "",
-        "published_date": "2025-03-27T09:16:00+00:00",
-        "categories": [
-            "Interpretability"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "1dbcbbb35b503949d42a38c05c57bf3b",
         "source": "anthropic",
         "type": "news",
@@ -427,28 +389,6 @@
         "organization": "Anthropic",
         "metadata": {},
         "objects": []
-    },
-    {
-        "id": "39dc7d339135a2dca10de085748c7b39",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-03-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/EconomicIndex",
-                "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "20d5e1508810c8c3fddb936ddd5935df",
@@ -640,50 +580,6 @@
         "objects": []
     },
     {
-        "id": "e630895d8a7e43ab23d9c6fc47bdf925",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-01-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/EconomicIndex",
-                "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "cca471a8f65d31c124051973d6069aa7",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "anthropic: published a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2025-01-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "published a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/EconomicIndex",
-                "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "ca22acfae9634b48cd23f4a8584a97db",
         "source": "anthropic",
         "type": "news",
@@ -747,22 +643,6 @@
         "url": "https://www.anthropic.com/engineering/building-effective-agents",
         "published_date": "2024-12-19T00:00:00+00:00",
         "categories": [],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "bb1110b0466162e1e8fc2d4c8d94fb9e",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Alignment faking in large language models",
-        "description": "",
-        "url": "https://www.anthropic.com/research/alignment-faking",
-        "external_url": "",
-        "published_date": "2024-12-18T14:16:00+00:00",
-        "categories": [
-            "Alignment"
-        ],
         "organization": "Anthropic",
         "metadata": {},
         "objects": []
@@ -899,22 +779,6 @@
         "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
         "published_date": "2024-10-31T00:00:00+00:00",
         "categories": [],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "71c39437b6a27051a44395b51c6d1d3b",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
-        "description": "",
-        "url": "https://www.anthropic.com/research/swe-bench-sonnet",
-        "external_url": "",
-        "published_date": "2024-10-30T23:25:00+00:00",
-        "categories": [
-            "Product"
-        ],
         "organization": "Anthropic",
         "metadata": {},
         "objects": []
@@ -1255,81 +1119,15 @@
         "objects": []
     },
     {
-        "id": "e5d004d85e9d0d76ac29808bfcd66ef9",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2024-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/persuasion",
-                "url": "https://huggingface.co/datasets/Anthropic/persuasion",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "c82a3cb6fd4a69d53dcb7ace10775482",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2024-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/election_questions",
-                "url": "https://huggingface.co/datasets/Anthropic/election_questions",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "b628f500c1eb7d5229c214f13df83685",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2024-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/discrim-eval",
-                "url": "https://huggingface.co/datasets/Anthropic/discrim-eval",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "8c1c50ac1ed66c05d82c694e34fe9cd8",
+        "id": "944a11dfdf8ad7293fba3d535d3b47ac",
         "source": "anthropic_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored a paper",
-        "description": "anthropic: authored a paper",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2024-07-26T23:44:07.934969+00:00",
+        "description": "huggingface_anthropic: authored a paper",
+        "url": "https://huggingface.co/huggingface_anthropic",
+        "published_date": "2024-07-27T03:38:34.751733+00:00",
         "categories": [],
-        "organization": "anthropic",
+        "organization": "huggingface_anthropic",
         "metadata": {
             "action": "authored a paper"
         },
@@ -1606,22 +1404,6 @@
         "objects": []
     },
     {
-        "id": "a23200e5e159acb85ca07a8b21e45012",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Mapping the Mind of a Large Language Model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/mapping-mind-language-model",
-        "external_url": "",
-        "published_date": "2024-05-21T07:00:00+00:00",
-        "categories": [
-            "Interpretability"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "4142f3015428dc984b5deb11f5e7441c",
         "source": "anthropic",
         "type": "news",
@@ -1648,12 +1430,12 @@
         "objects": []
     },
     {
-        "id": "934d88660a680a53bd669c3b61e979ce",
+        "id": "06c712b8844293ef1d0323bef8485e0b",
         "source": "anthropic",
         "type": "news",
-        "title": "Generate better prompts in the developer console",
+        "title": "Reflections on our Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/prompt-generator",
+        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
         "published_date": "2024-05-20T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -1661,12 +1443,12 @@
         "objects": []
     },
     {
-        "id": "06c712b8844293ef1d0323bef8485e0b",
+        "id": "934d88660a680a53bd669c3b61e979ce",
         "source": "anthropic",
         "type": "news",
-        "title": "Reflections on our Responsible Scaling Policy",
+        "title": "Generate better prompts in the developer console",
         "description": "",
-        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/prompt-generator",
         "published_date": "2024-05-20T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -1783,22 +1565,6 @@
         "published_date": "2024-04-09T15:55:00+00:00",
         "categories": [
             "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "700f186cbda240202c509cbec1a1f3a0",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Many-shot jailbreaking",
-        "description": "",
-        "url": "https://www.anthropic.com/research/many-shot-jailbreaking",
-        "external_url": "",
-        "published_date": "2024-04-02T16:05:09.100000+00:00",
-        "categories": [
-            "Alignment"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -2075,12 +1841,12 @@
         "objects": []
     },
     {
-        "id": "427bf5b6881b571233d6e11e3bd406e0",
+        "id": "01f9fb8859e1043216b8cfb678ccf770",
         "source": "anthropic",
         "type": "research",
-        "title": "Decomposing Language Models Into Understandable Components",
+        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
         "description": "",
-        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
+        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -2092,12 +1858,12 @@
         "objects": []
     },
     {
-        "id": "01f9fb8859e1043216b8cfb678ccf770",
+        "id": "427bf5b6881b571233d6e11e3bd406e0",
         "source": "anthropic",
         "type": "research",
-        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+        "title": "Decomposing Language Models Into Understandable Components",
         "description": "",
-        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
+        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -2164,12 +1930,12 @@
         "objects": []
     },
     {
-        "id": "f41d4233ea14521a61911cce7c0ae118",
+        "id": "ee3abdb74b51889f2d21db5406f5a863",
         "source": "anthropic",
         "type": "news",
-        "title": "The Long-Term Benefit Trust",
+        "title": "Anthropic's Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -2177,12 +1943,12 @@
         "objects": []
     },
     {
-        "id": "ee3abdb74b51889f2d21db5406f5a863",
+        "id": "f41d4233ea14521a61911cce7c0ae118",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic's Responsible Scaling Policy",
+        "title": "The Long-Term Benefit Trust",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -2289,103 +2055,15 @@
         "objects": []
     },
     {
-        "id": "82cd86188025aae8335d579d8ff2e20d",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/llm_global_opinions",
-                "url": "https://huggingface.co/datasets/Anthropic/llm_global_opinions",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "13d495edccf15fdbeaaf5edde7974433",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/model-written-evals",
-                "url": "https://huggingface.co/datasets/Anthropic/model-written-evals",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "9e1d9be3954104c92f920e38c6de124e",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "anthropic: authored a paper",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
-                "url": "https://huggingface.co/papers/2307.11768",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "28a4cfd2d2b719dadd8b172b850c4703",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "anthropic: authored a paper",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Towards Measuring the Representation of Subjective Global Opinions in Language Models",
-                "url": "https://huggingface.co/papers/2306.16388",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "6fa21dd4e9e697fdc614d5afd436f57e",
+        "id": "a98f262c8a93d7ab1bac8c20afed8a5d",
         "source": "anthropic_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored 3 papers",
-        "description": "anthropic: authored 3 papers",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
+        "description": "huggingface_anthropic: authored 3 papers",
+        "url": "https://huggingface.co/huggingface_anthropic",
+        "published_date": "2023-07-27T03:38:34.751733+00:00",
         "categories": [],
-        "organization": "anthropic",
+        "organization": "huggingface_anthropic",
         "metadata": {
             "action": "authored 3 papers"
         },
@@ -2403,72 +2081,6 @@
             {
                 "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
                 "url": "https://huggingface.co/papers/2307.13702",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "7724603295bbd2503378928f8a6f124e",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "anthropic: authored a paper",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Opportunities and Risks of LLMs for Scalable Deliberation with Polis",
-                "url": "https://huggingface.co/papers/2306.11932",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "b30e180f35d4f0776a225dfb9118cb08",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "anthropic: updated a dataset",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/hh-rlhf",
-                "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "fc5cf396272caeda672e32fb61d73691",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "anthropic: authored a paper",
-        "url": "https://huggingface.co/anthropic",
-        "published_date": "2023-07-26T23:44:07.934969+00:00",
-        "categories": [],
-        "organization": "anthropic",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
-                "url": "https://huggingface.co/papers/2305.04388",
                 "type": ""
             }
         ],
@@ -2501,12 +2113,12 @@
         "objects": []
     },
     {
-        "id": "5b5851ece8cc5ff3203317151a85a0e9",
+        "id": "d7921fb9672d1635e1003165d5373bb3",
         "source": "anthropic",
         "type": "research",
-        "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
+        "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
         "description": "",
-        "url": "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning",
+        "url": "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning",
         "external_url": "",
         "published_date": "2023-07-18T00:00:00+00:00",
         "categories": [
@@ -2518,12 +2130,12 @@
         "objects": []
     },
     {
-        "id": "d7921fb9672d1635e1003165d5373bb3",
+        "id": "5b5851ece8cc5ff3203317151a85a0e9",
         "source": "anthropic",
         "type": "research",
-        "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
+        "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
         "description": "",
-        "url": "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning",
+        "url": "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning",
         "external_url": "",
         "published_date": "2023-07-18T00:00:00+00:00",
         "categories": [

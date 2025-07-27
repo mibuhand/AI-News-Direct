@@ -16,22 +16,6 @@
         "objects": []
     },
     {
-        "id": "47b94026182bcca43c6597218c3a35cc",
-        "source": "openai",
-        "type": "news",
-        "title": "Announcing OpenAI DevDay 2025",
-        "description": "OpenAI DevDay returns on October 6, 2025 in San Francisco\u2014bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI.",
-        "url": "https://openai.com/index/announcing-devday-2025",
-        "published_date": "2025-07-23T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/announcing-devday-2025",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a3d5f21fcbc8c96c9f6f2651fa8f1a6e",
         "source": "openai",
         "type": "news",
@@ -43,6 +27,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/model-ml-chaz-englander",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "47b94026182bcca43c6597218c3a35cc",
+        "source": "openai",
+        "type": "news",
+        "title": "Announcing OpenAI DevDay 2025",
+        "description": "OpenAI DevDay returns on October 6, 2025 in San Francisco\u2014bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI.",
+        "url": "https://openai.com/index/announcing-devday-2025",
+        "published_date": "2025-07-23T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/announcing-devday-2025",
             "feed_type": "rss"
         },
         "objects": []
@@ -192,17 +192,17 @@
         "objects": []
     },
     {
-        "id": "912a0c45c19270348086cc3212d00955",
+        "id": "8098f93a81f4c451a99105e48b099862",
         "source": "openai",
         "type": "news",
-        "title": "Invideo AI uses OpenAI models to create videos 10x faster",
-        "description": "Invideo AI uses OpenAI\u2019s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
-        "url": "https://openai.com/index/invideo-ai",
+        "title": "Agent bio bug bounty call",
+        "description": "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent\u2019s safety with a universal jailbreak prompt and win up to $25,000.",
+        "url": "https://openai.com/bio-bug-bounty",
         "published_date": "2025-07-17T00:00:00+00:00",
         "categories": [],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/invideo-ai",
+            "guid": "https://openai.com/bio-bug-bounty",
             "feed_type": "rss"
         },
         "objects": []
@@ -224,17 +224,17 @@
         "objects": []
     },
     {
-        "id": "8098f93a81f4c451a99105e48b099862",
+        "id": "912a0c45c19270348086cc3212d00955",
         "source": "openai",
         "type": "news",
-        "title": "Agent bio bug bounty call",
-        "description": "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent\u2019s safety with a universal jailbreak prompt and win up to $25,000.",
-        "url": "https://openai.com/bio-bug-bounty",
+        "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+        "description": "Invideo AI uses OpenAI\u2019s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
+        "url": "https://openai.com/index/invideo-ai",
         "published_date": "2025-07-17T00:00:00+00:00",
         "categories": [],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/bio-bug-bounty",
+            "guid": "https://openai.com/index/invideo-ai",
             "feed_type": "rss"
         },
         "objects": []
@@ -370,22 +370,6 @@
         "objects": []
     },
     {
-        "id": "cf0e889851538722de7d5c7de5a7e9a0",
-        "source": "openai",
-        "type": "news",
-        "title": "Preparing for future AI risks in biology",
-        "description": "Advanced AI can transform biology and medicine\u2014but also raises biosecurity risks. We\u2019re proactively assessing capabilities and implementing safeguards to prevent misuse.",
-        "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
-        "published_date": "2025-06-18T10:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "80b440f497578728cc77ffefc867020e",
         "source": "openai",
         "type": "news",
@@ -397,6 +381,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/emergent-misalignment",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "cf0e889851538722de7d5c7de5a7e9a0",
+        "source": "openai",
+        "type": "news",
+        "title": "Preparing for future AI risks in biology",
+        "description": "Advanced AI can transform biology and medicine\u2014but also raises biosecurity risks. We\u2019re proactively assessing capabilities and implementing safeguards to prevent misuse.",
+        "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+        "published_date": "2025-06-18T10:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
             "feed_type": "rss"
         },
         "objects": []
@@ -918,22 +918,6 @@
         "objects": []
     },
     {
-        "id": "7aa8deb1e32449cf03f0749083a3028d",
-        "source": "openai",
-        "type": "news",
-        "title": "Introducing OpenAI o3 and o4-mini",
-        "description": "Our smartest and most capable models to date with full tool access",
-        "url": "https://openai.com/index/introducing-o3-and-o4-mini",
-        "published_date": "2025-04-16T10:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/introducing-o3-and-o4-mini",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "6c68b09ca9318644a4a9e0ca97033801",
         "source": "openai",
         "type": "news",
@@ -945,6 +929,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/thinking-with-images",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "7aa8deb1e32449cf03f0749083a3028d",
+        "source": "openai",
+        "type": "news",
+        "title": "Introducing OpenAI o3 and o4-mini",
+        "description": "Our smartest and most capable models to date with full tool access",
+        "url": "https://openai.com/index/introducing-o3-and-o4-mini",
+        "published_date": "2025-04-16T10:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/introducing-o3-and-o4-mini",
             "feed_type": "rss"
         },
         "objects": []
@@ -1852,19 +1852,17 @@
         "objects": []
     },
     {
-        "id": "24b54e6db505ae6ebf9f9cc5f0552b42",
+        "id": "fe5c64fef130e047c542690845c70be8",
         "source": "openai",
         "type": "news",
-        "title": "Creating nail art with ChatGPT",
-        "description": "Using ChatGPT to find inspiration for nail art",
-        "url": "https://openai.com/index/ten-tiny-canvases",
+        "title": "Building a custom math tutor powered by ChatGPT",
+        "description": "ChatGPT and personal tutoring",
+        "url": "https://openai.com/index/my-dog-the-math-tutor",
         "published_date": "2025-02-04T00:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
+        "categories": [],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/ten-tiny-canvases",
+            "guid": "https://openai.com/index/my-dog-the-math-tutor",
             "feed_type": "rss"
         },
         "objects": []
@@ -1888,35 +1886,19 @@
         "objects": []
     },
     {
-        "id": "fe5c64fef130e047c542690845c70be8",
+        "id": "24b54e6db505ae6ebf9f9cc5f0552b42",
         "source": "openai",
         "type": "news",
-        "title": "Building a custom math tutor powered by ChatGPT",
-        "description": "ChatGPT and personal tutoring",
-        "url": "https://openai.com/index/my-dog-the-math-tutor",
+        "title": "Creating nail art with ChatGPT",
+        "description": "Using ChatGPT to find inspiration for nail art",
+        "url": "https://openai.com/index/ten-tiny-canvases",
         "published_date": "2025-02-04T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/my-dog-the-math-tutor",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "c276c810133f07950ad6ec5c333b2482",
-        "source": "openai",
-        "type": "news",
-        "title": "Understanding complex trends with deep research",
-        "description": "How OpenAI deep research helps Bain & Company understand complex industry trends.",
-        "url": "https://openai.com/index/deep-research",
-        "published_date": "2025-02-02T16:00:00+00:00",
         "categories": [
             "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/deep-research",
+            "guid": "https://openai.com/index/ten-tiny-canvases",
             "feed_type": "rss"
         },
         "objects": []
@@ -1940,19 +1922,19 @@
         "objects": []
     },
     {
-        "id": "4449326888e0ba40dd8b9d426960ea68",
+        "id": "c276c810133f07950ad6ec5c333b2482",
         "source": "openai",
         "type": "news",
-        "title": "OpenAI o3-mini",
-        "description": "Pushing the frontier of cost-effective reasoning.",
-        "url": "https://openai.com/index/openai-o3-mini",
-        "published_date": "2025-01-31T11:00:00+00:00",
+        "title": "Understanding complex trends with deep research",
+        "description": "How OpenAI deep research helps Bain & Company understand complex industry trends.",
+        "url": "https://openai.com/index/deep-research",
+        "published_date": "2025-02-02T16:00:00+00:00",
         "categories": [
-            "Research"
+            "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/openai-o3-mini",
+            "guid": "https://openai.com/index/deep-research",
             "feed_type": "rss"
         },
         "objects": []
@@ -1971,6 +1953,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/o3-mini-system-card",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "4449326888e0ba40dd8b9d426960ea68",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI o3-mini",
+        "description": "Pushing the frontier of cost-effective reasoning.",
+        "url": "https://openai.com/index/openai-o3-mini",
+        "published_date": "2025-01-31T11:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/openai-o3-mini",
             "feed_type": "rss"
         },
         "objects": []
@@ -2012,24 +2012,6 @@
         "objects": []
     },
     {
-        "id": "d0ceab1e67eb0cef9b4c46d9d0e0a609",
-        "source": "openai",
-        "type": "news",
-        "title": "Computer-Using Agent",
-        "description": "A universal interface for AI to interact with the digital world.",
-        "url": "https://openai.com/index/computer-using-agent",
-        "published_date": "2025-01-23T10:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/computer-using-agent",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a55a1823770d6a36e9307e42512597f4",
         "source": "openai",
         "type": "news",
@@ -2043,6 +2025,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/introducing-operator",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "d0ceab1e67eb0cef9b4c46d9d0e0a609",
+        "source": "openai",
+        "type": "news",
+        "title": "Computer-Using Agent",
+        "description": "A universal interface for AI to interact with the digital world.",
+        "url": "https://openai.com/index/computer-using-agent",
+        "published_date": "2025-01-23T10:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/computer-using-agent",
             "feed_type": "rss"
         },
         "objects": []
@@ -2102,22 +2102,6 @@
         "objects": []
     },
     {
-        "id": "adec49dcd3bc0eeb4c8efd1f7df02cb0",
-        "source": "openai",
-        "type": "news",
-        "title": "Stargate Infrastructure",
-        "description": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
-        "url": "https://openai.com/form/stargate-infrastructure",
-        "published_date": "2025-01-21T13:30:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/form/stargate-infrastructure",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "478e398b235bc1f9e006010bc63704ec",
         "source": "openai",
         "type": "news",
@@ -2131,6 +2115,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/announcing-the-stargate-project",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "adec49dcd3bc0eeb4c8efd1f7df02cb0",
+        "source": "openai",
+        "type": "news",
+        "title": "Stargate Infrastructure",
+        "description": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
+        "url": "https://openai.com/form/stargate-infrastructure",
+        "published_date": "2025-01-21T13:30:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/form/stargate-infrastructure",
             "feed_type": "rss"
         },
         "objects": []
@@ -2316,6 +2316,60 @@
         "objects": []
     },
     {
+        "id": "a195b793d69293814d99cb147d1288de",
+        "source": "openai",
+        "type": "news",
+        "title": "Minne Atairu & Sora",
+        "description": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
+        "url": "https://openai.com/index/sora-minne-atairu",
+        "published_date": "2024-12-09T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/sora-minne-atairu",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "81bf41df214b2220e2a1b22689b95192",
+        "source": "openai",
+        "type": "news",
+        "title": "Put AI to work for your product team",
+        "description": "Put AI to work for your product team",
+        "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+        "published_date": "2024-12-09T00:00:00+00:00",
+        "categories": [
+            "Webinar"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "2532f66cb1c23a3a0f809df7c15805c6",
+        "source": "openai",
+        "type": "news",
+        "title": "Sora System Card",
+        "description": "Sora is OpenAI\u2019s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression.",
+        "url": "https://openai.com/index/sora-system-card",
+        "published_date": "2024-12-09T00:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/sora-system-card",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "22ad2457ffd9377600b7b22bf0a25279",
         "source": "openai",
         "type": "news",
@@ -2347,60 +2401,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/sora-vallee-duhamel",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "a195b793d69293814d99cb147d1288de",
-        "source": "openai",
-        "type": "news",
-        "title": "Minne Atairu & Sora",
-        "description": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
-        "url": "https://openai.com/index/sora-minne-atairu",
-        "published_date": "2024-12-09T00:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/sora-minne-atairu",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "2532f66cb1c23a3a0f809df7c15805c6",
-        "source": "openai",
-        "type": "news",
-        "title": "Sora System Card",
-        "description": "Sora is OpenAI\u2019s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression.",
-        "url": "https://openai.com/index/sora-system-card",
-        "published_date": "2024-12-09T00:00:00+00:00",
-        "categories": [
-            "Safety & Alignment"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/sora-system-card",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "81bf41df214b2220e2a1b22689b95192",
-        "source": "openai",
-        "type": "news",
-        "title": "Put AI to work for your product team",
-        "description": "Put AI to work for your product team",
-        "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-        "published_date": "2024-12-09T00:00:00+00:00",
-        "categories": [
-            "Webinar"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/put-ai-to-work-for-your-product-team",
             "feed_type": "rss"
         },
         "objects": []
@@ -3302,24 +3302,6 @@
         "objects": []
     },
     {
-        "id": "3818ea7bff9c8c2d61d1bdd9b573a7f4",
-        "source": "openai",
-        "type": "news",
-        "title": "Coding with OpenAI o1",
-        "description": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
-        "url": "https://openai.com/index/o1-coding",
-        "published_date": "2024-09-12T00:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/o1-coding",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "d2a1c15baf39c96e0d36ae6a051461d9",
         "source": "openai",
         "type": "news",
@@ -3333,6 +3315,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/o1-quantum-physics",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "efe8ff76571480b4b4e9999d8a0473f1",
+        "source": "openai",
+        "type": "news",
+        "title": "Economics and reasoning with OpenAI o1",
+        "description": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.",
+        "url": "https://openai.com/index/o1-economics",
+        "published_date": "2024-09-12T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/o1-economics",
             "feed_type": "rss"
         },
         "objects": []
@@ -3356,19 +3356,19 @@
         "objects": []
     },
     {
-        "id": "efe8ff76571480b4b4e9999d8a0473f1",
+        "id": "3818ea7bff9c8c2d61d1bdd9b573a7f4",
         "source": "openai",
         "type": "news",
-        "title": "Economics and reasoning with OpenAI o1",
-        "description": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.",
-        "url": "https://openai.com/index/o1-economics",
+        "title": "Coding with OpenAI o1",
+        "description": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
+        "url": "https://openai.com/index/o1-coding",
         "published_date": "2024-09-12T00:00:00+00:00",
         "categories": [
             "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/o1-economics",
+            "guid": "https://openai.com/index/o1-coding",
             "feed_type": "rss"
         },
         "objects": []
@@ -3464,24 +3464,6 @@
         "objects": []
     },
     {
-        "id": "95edd22effd79c48bdc626af28c3bcfc",
-        "source": "openai",
-        "type": "news",
-        "title": "Fine-tuning now available for GPT-4o",
-        "description": "Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications",
-        "url": "https://openai.com/index/gpt-4o-fine-tuning",
-        "published_date": "2024-08-20T10:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/gpt-4o-fine-tuning",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "0cc4ce09de25b99e9f5f188b8daed608",
         "source": "openai",
         "type": "news",
@@ -3495,6 +3477,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/upwork",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "95edd22effd79c48bdc626af28c3bcfc",
+        "source": "openai",
+        "type": "news",
+        "title": "Fine-tuning now available for GPT-4o",
+        "description": "Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications",
+        "url": "https://openai.com/index/gpt-4o-fine-tuning",
+        "published_date": "2024-08-20T10:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/gpt-4o-fine-tuning",
             "feed_type": "rss"
         },
         "objects": []
@@ -3878,24 +3878,6 @@
         "objects": []
     },
     {
-        "id": "558fd88af28f9b3d0e07a74c35ef9f68",
-        "source": "openai",
-        "type": "news",
-        "title": "Improved Techniques for Training Consistency Models",
-        "description": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
-        "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
-        "published_date": "2024-06-20T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/improved-techniques-for-training-consistency-models",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a11043c731fb2f58d20a549975aff234",
         "source": "openai",
         "type": "news",
@@ -3909,6 +3891,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "558fd88af28f9b3d0e07a74c35ef9f68",
+        "source": "openai",
+        "type": "news",
+        "title": "Improved Techniques for Training Consistency Models",
+        "description": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
+        "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+        "published_date": "2024-06-20T00:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/improved-techniques-for-training-consistency-models",
             "feed_type": "rss"
         },
         "objects": []
@@ -4560,6 +4560,24 @@
         "objects": []
     },
     {
+        "id": "ea9cee182614a771277b928afe213ccf",
+        "source": "openai",
+        "type": "news",
+        "title": "Accelerating the development of life-saving treatments",
+        "description": "Accelerating the development of life-saving treatments.",
+        "url": "https://openai.com/index/moderna",
+        "published_date": "2024-04-24T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/moderna",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "cbd342b0c2c6451b3f1fb6b282b384da",
         "source": "openai",
         "type": "news",
@@ -4596,19 +4614,19 @@
         "objects": []
     },
     {
-        "id": "ea9cee182614a771277b928afe213ccf",
+        "id": "0f535c3fa5ca0dfdd7379fed79ff940f",
         "source": "openai",
         "type": "news",
-        "title": "Accelerating the development of life-saving treatments",
-        "description": "Accelerating the development of life-saving treatments.",
-        "url": "https://openai.com/index/moderna",
-        "published_date": "2024-04-24T00:00:00+00:00",
+        "title": "Introducing more enterprise-grade features for API customers",
+        "description": "Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs.",
+        "url": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
+        "published_date": "2024-04-23T00:00:00+00:00",
         "categories": [
-            "Story"
+            "Product"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/moderna",
+            "guid": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
             "feed_type": "rss"
         },
         "objects": []
@@ -4627,24 +4645,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/child-safety-adopting-sbd-principles",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "0f535c3fa5ca0dfdd7379fed79ff940f",
-        "source": "openai",
-        "type": "news",
-        "title": "Introducing more enterprise-grade features for API customers",
-        "description": "Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs.",
-        "url": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
-        "published_date": "2024-04-23T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
             "feed_type": "rss"
         },
         "objects": []
@@ -4740,24 +4740,6 @@
         "objects": []
     },
     {
-        "id": "497d6dfebd412c5ccfc3dd76ae892772",
-        "source": "openai",
-        "type": "news",
-        "title": "Start using ChatGPT instantly",
-        "description": "We\u2019re making it easier for people to experience the benefits of AI without needing to sign up",
-        "url": "https://openai.com/index/start-using-chatgpt-instantly",
-        "published_date": "2024-04-01T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/start-using-chatgpt-instantly",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "4a8efd2e6e2eaaa41ddb5022d2bea33e",
         "source": "openai",
         "type": "news",
@@ -4771,6 +4753,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/oscar",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "497d6dfebd412c5ccfc3dd76ae892772",
+        "source": "openai",
+        "type": "news",
+        "title": "Start using ChatGPT instantly",
+        "description": "We\u2019re making it easier for people to experience the benefits of AI without needing to sign up",
+        "url": "https://openai.com/index/start-using-chatgpt-instantly",
+        "published_date": "2024-04-01T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/start-using-chatgpt-instantly",
             "feed_type": "rss"
         },
         "objects": []
@@ -4866,6 +4866,24 @@
         "objects": []
     },
     {
+        "id": "4861300d7486f5bac6885e1a7160eea1",
+        "source": "openai",
+        "type": "news",
+        "title": "Reimagining the email experience with AI",
+        "description": "Superhuman introduces a new era of email with OpenAI.",
+        "url": "https://openai.com/index/superhuman",
+        "published_date": "2024-03-18T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/superhuman",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "5d722bf1fcdce3fbef7f0e848b4a7867",
         "source": "openai",
         "type": "news",
@@ -4897,24 +4915,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/holiday-extras",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "4861300d7486f5bac6885e1a7160eea1",
-        "source": "openai",
-        "type": "news",
-        "title": "Reimagining the email experience with AI",
-        "description": "Superhuman introduces a new era of email with OpenAI.",
-        "url": "https://openai.com/index/superhuman",
-        "published_date": "2024-03-18T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/superhuman",
             "feed_type": "rss"
         },
         "objects": []
@@ -4956,24 +4956,6 @@
         "objects": []
     },
     {
-        "id": "8d081e3d1cdb028bb2fb20293fe0f90e",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI announces new members to board of directors",
-        "description": "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board",
-        "url": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
-        "published_date": "2024-03-08T08:00:00+00:00",
-        "categories": [
-            "Company"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "e504e4c64f8b9161756d0c4d492cc800",
         "source": "openai",
         "type": "news",
@@ -4992,19 +4974,19 @@
         "objects": []
     },
     {
-        "id": "a79918df8e5368dc8b394a63b83da373",
+        "id": "8d081e3d1cdb028bb2fb20293fe0f90e",
         "source": "openai",
         "type": "news",
-        "title": "Using AI to improve patient access to clinical trials",
-        "description": "Paradigm uses OpenAI\u2019s API to improve patient access to clinical trials.",
-        "url": "https://openai.com/index/paradigm",
-        "published_date": "2024-03-06T08:00:00+00:00",
+        "title": "OpenAI announces new members to board of directors",
+        "description": "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board",
+        "url": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
+        "published_date": "2024-03-08T08:00:00+00:00",
         "categories": [
-            "Story"
+            "Company"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/paradigm",
+            "guid": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
             "feed_type": "rss"
         },
         "objects": []
@@ -5023,6 +5005,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/match-group",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "a79918df8e5368dc8b394a63b83da373",
+        "source": "openai",
+        "type": "news",
+        "title": "Using AI to improve patient access to clinical trials",
+        "description": "Paradigm uses OpenAI\u2019s API to improve patient access to clinical trials.",
+        "url": "https://openai.com/index/paradigm",
+        "published_date": "2024-03-06T08:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/paradigm",
             "feed_type": "rss"
         },
         "objects": []
@@ -5316,24 +5316,6 @@
         "objects": []
     },
     {
-        "id": "e45a31f9629251d1ed081fabe235a9bf",
-        "source": "openai",
-        "type": "news",
-        "title": "Practices for Governing Agentic AI Systems",
-        "description": "",
-        "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
-        "published_date": "2023-12-14T08:00:00+00:00",
-        "categories": [
-            "Safety & Alignment"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a24144a21cbc7dade710f0614f31ebb3",
         "source": "openai",
         "type": "news",
@@ -5347,6 +5329,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/superalignment-fast-grants",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "e45a31f9629251d1ed081fabe235a9bf",
+        "source": "openai",
+        "type": "news",
+        "title": "Practices for Governing Agentic AI Systems",
+        "description": "",
+        "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+        "published_date": "2023-12-14T08:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
             "feed_type": "rss"
         },
         "objects": []
@@ -5442,24 +5442,6 @@
         "objects": []
     },
     {
-        "id": "5ea9bc3b03b7b5c189716b30e549418c",
-        "source": "openai",
-        "type": "news",
-        "title": "New models and developer products announced at DevDay",
-        "description": "GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL\u00b7E 3 API, and more.",
-        "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
-        "published_date": "2023-11-06T08:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a3222129e60a4868585b85bc2ecec163",
         "source": "openai",
         "type": "news",
@@ -5473,6 +5455,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/introducing-gpts",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "5ea9bc3b03b7b5c189716b30e549418c",
+        "source": "openai",
+        "type": "news",
+        "title": "New models and developer products announced at DevDay",
+        "description": "GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL\u00b7E 3 API, and more.",
+        "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
+        "published_date": "2023-11-06T08:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
             "feed_type": "rss"
         },
         "objects": []
@@ -5550,6 +5550,24 @@
         "objects": []
     },
     {
+        "id": "ef26025323fbd7d0221746a0c4789d2b",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI\u2019s technology explained",
+        "description": "",
+        "url": "https://openai.com/global-affairs/openai-technology-explained",
+        "published_date": "2023-10-11T07:00:00+00:00",
+        "categories": [
+            "Global Affairs"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/global-affairs/openai-technology-explained",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "4fe57bc0be1a19c25b5c8a144402ec76",
         "source": "openai",
         "type": "news",
@@ -5604,24 +5622,6 @@
         "objects": []
     },
     {
-        "id": "ef26025323fbd7d0221746a0c4789d2b",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI\u2019s technology explained",
-        "description": "",
-        "url": "https://openai.com/global-affairs/openai-technology-explained",
-        "published_date": "2023-10-11T07:00:00+00:00",
-        "categories": [
-            "Global Affairs"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/global-affairs/openai-technology-explained",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "dfb1a15d609d1d1ad000fd20d2af5c21",
         "source": "openai",
         "type": "news",
@@ -5640,24 +5640,6 @@
         "objects": []
     },
     {
-        "id": "6ec4df8c86d1a26b2ce5d728335f8cec",
-        "source": "openai",
-        "type": "news",
-        "title": "ChatGPT can now see, hear, and speak",
-        "description": "We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you\u2019re talking about.",
-        "url": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
-        "published_date": "2023-09-25T07:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "2b385c3b45c6aaf9a4adaa363b12a70c",
         "source": "openai",
         "type": "news",
@@ -5671,6 +5653,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/gpt-4v-system-card",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "6ec4df8c86d1a26b2ce5d728335f8cec",
+        "source": "openai",
+        "type": "news",
+        "title": "ChatGPT can now see, hear, and speak",
+        "description": "We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you\u2019re talking about.",
+        "url": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
+        "published_date": "2023-09-25T07:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/chatgpt-can-now-see-hear-and-speak",
             "feed_type": "rss"
         },
         "objects": []
@@ -6288,6 +6288,42 @@
         "objects": []
     },
     {
+        "id": "8c08385adf801738d74e5b6bfab8b488",
+        "source": "openai",
+        "type": "news",
+        "title": "GPT-4",
+        "description": "We\u2019ve created GPT-4, the latest milestone in OpenAI\u2019s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.",
+        "url": "https://openai.com/index/gpt-4-research",
+        "published_date": "2023-03-14T07:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/gpt-4-research",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "aea3a07bbc79f1f284141dfcd19f1e2b",
+        "source": "openai",
+        "type": "news",
+        "title": "Streamlining financial solutions for safety and growth",
+        "description": "Stripe leverages GPT-4 to streamline user experience and combat fraud.",
+        "url": "https://openai.com/index/stripe",
+        "published_date": "2023-03-14T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/stripe",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "70096279da459303b1a0682244be6846",
         "source": "openai",
         "type": "news",
@@ -6301,24 +6337,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/duolingo",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "8c31728b13f18983ddb8bd4a006d3ef8",
-        "source": "openai",
-        "type": "news",
-        "title": "Transforming visual accessibility",
-        "description": "Be My Eyes uses GPT-4 to transform visual accessibility.",
-        "url": "https://openai.com/index/be-my-eyes",
-        "published_date": "2023-03-14T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/be-my-eyes",
             "feed_type": "rss"
         },
         "objects": []
@@ -6342,19 +6360,19 @@
         "objects": []
     },
     {
-        "id": "8c08385adf801738d74e5b6bfab8b488",
+        "id": "8c31728b13f18983ddb8bd4a006d3ef8",
         "source": "openai",
         "type": "news",
-        "title": "GPT-4",
-        "description": "We\u2019ve created GPT-4, the latest milestone in OpenAI\u2019s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.",
-        "url": "https://openai.com/index/gpt-4-research",
+        "title": "Transforming visual accessibility",
+        "description": "Be My Eyes uses GPT-4 to transform visual accessibility.",
+        "url": "https://openai.com/index/be-my-eyes",
         "published_date": "2023-03-14T07:00:00+00:00",
         "categories": [
-            "Research"
+            "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/gpt-4-research",
+            "guid": "https://openai.com/index/be-my-eyes",
             "feed_type": "rss"
         },
         "objects": []
@@ -6373,24 +6391,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/khan-academy",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "aea3a07bbc79f1f284141dfcd19f1e2b",
-        "source": "openai",
-        "type": "news",
-        "title": "Streamlining financial solutions for safety and growth",
-        "description": "Stripe leverages GPT-4 to streamline user experience and combat fraud.",
-        "url": "https://openai.com/index/stripe",
-        "published_date": "2023-03-14T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/stripe",
             "feed_type": "rss"
         },
         "objects": []
@@ -7044,24 +7044,6 @@
         "objects": []
     },
     {
-        "id": "edbb9a3ca7484a7156d431f8a0ea1640",
-        "source": "openai",
-        "type": "news",
-        "title": "Measuring Goodhart\u2019s law",
-        "description": "Goodhart\u2019s law\u00a0famously says: \u201cWhen a measure becomes a target, it ceases to be a good measure.\u201d Although originally from economics, it\u2019s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.",
-        "url": "https://openai.com/index/measuring-goodharts-law",
-        "published_date": "2022-04-13T07:00:00+00:00",
-        "categories": [
-            "Safety & Alignment"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/measuring-goodharts-law",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "54e71a8feadf46874a50a93849a8533f",
         "source": "openai",
         "type": "news",
@@ -7075,6 +7057,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "edbb9a3ca7484a7156d431f8a0ea1640",
+        "source": "openai",
+        "type": "news",
+        "title": "Measuring Goodhart\u2019s law",
+        "description": "Goodhart\u2019s law\u00a0famously says: \u201cWhen a measure becomes a target, it ceases to be a good measure.\u201d Although originally from economics, it\u2019s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.",
+        "url": "https://openai.com/index/measuring-goodharts-law",
+        "published_date": "2022-04-13T07:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/measuring-goodharts-law",
             "feed_type": "rss"
         },
         "objects": []
@@ -7548,24 +7548,6 @@
         "objects": []
     },
     {
-        "id": "7bcf86df4bddcba932dc3b8a3b9b36d3",
-        "source": "openai",
-        "type": "news",
-        "title": "CLIP: Connecting text and images",
-        "description": "We\u2019re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the \u201czero-shot\u201d capabilities of GPT-2 and\u00a0GPT-3.",
-        "url": "https://openai.com/index/clip",
-        "published_date": "2021-01-05T08:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/clip",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "8a345ec88c704e2385c485ed31e61b5a",
         "source": "openai",
         "type": "news",
@@ -7579,6 +7561,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/dall-e",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "7bcf86df4bddcba932dc3b8a3b9b36d3",
+        "source": "openai",
+        "type": "news",
+        "title": "CLIP: Connecting text and images",
+        "description": "We\u2019re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the \u201czero-shot\u201d capabilities of GPT-2 and\u00a0GPT-3.",
+        "url": "https://openai.com/index/clip",
+        "published_date": "2021-01-05T08:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/clip",
             "feed_type": "rss"
         },
         "objects": []
@@ -9150,24 +9150,6 @@
         "objects": []
     },
     {
-        "id": "657e7c1c17f005d818002885fa23e177",
-        "source": "openai",
-        "type": "news",
-        "title": "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research",
-        "description": "",
-        "url": "https://openai.com/index/multi-goal-reinforcement-learning",
-        "published_date": "2018-02-26T08:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/multi-goal-reinforcement-learning",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "58a09337c97401eb89540bd6ffd4b74f",
         "source": "openai",
         "type": "news",
@@ -9181,6 +9163,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/ingredients-for-robotics-research",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "657e7c1c17f005d818002885fa23e177",
+        "source": "openai",
+        "type": "news",
+        "title": "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research",
+        "description": "",
+        "url": "https://openai.com/index/multi-goal-reinforcement-learning",
+        "published_date": "2018-02-26T08:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/multi-goal-reinforcement-learning",
             "feed_type": "rss"
         },
         "objects": []
@@ -10140,24 +10140,6 @@
         "objects": []
     },
     {
-        "id": "0ece4bded55ce1e0e5133c2b27334a05",
-        "source": "openai",
-        "type": "news",
-        "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
-        "description": "",
-        "url": "https://openai.com/index/exploration",
-        "published_date": "2016-11-15T08:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/exploration",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "2c81ab02612f9f4be4bce3f0718a55a9",
         "source": "openai",
         "type": "news",
@@ -10171,6 +10153,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/openai-and-microsoft",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "0ece4bded55ce1e0e5133c2b27334a05",
+        "source": "openai",
+        "type": "news",
+        "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
+        "description": "",
+        "url": "https://openai.com/index/exploration",
+        "published_date": "2016-11-15T08:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/exploration",
             "feed_type": "rss"
         },
         "objects": []
@@ -10446,24 +10446,6 @@
         "objects": []
     },
     {
-        "id": "d644cd4a8b7060ad24da006c88d69440",
-        "source": "openai",
-        "type": "news",
-        "title": "Adversarial training methods for semi-supervised text classification",
-        "description": "",
-        "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
-        "published_date": "2016-05-25T07:00:00+00:00",
-        "categories": [
-            "Safety & Alignment"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "65aa063b2926d4bf545f4bd2c411232a",
         "source": "openai",
         "type": "news",
@@ -10477,6 +10459,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/team-update",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "d644cd4a8b7060ad24da006c88d69440",
+        "source": "openai",
+        "type": "news",
+        "title": "Adversarial training methods for semi-supervised text classification",
+        "description": "",
+        "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+        "published_date": "2016-05-25T07:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
             "feed_type": "rss"
         },
         "objects": []

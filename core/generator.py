@@ -15,7 +15,36 @@ feeds_dir = project_dir / 'feeds'
 # Ensure feeds directory exists
 feeds_dir.mkdir(exist_ok=True)
 
-def create_atom_feed(entries, feed_title, feed_id, feed_link):
+def get_feed_icon(feed_name, source):
+    """Get appropriate icon URL for the feed"""
+    # First check if this is an aggregated feed and get icon from config
+    if '_aggregated' in feed_name:
+        org_key = feed_name.replace('_aggregated', '')
+        if org_key in ORGANIZATION_CONFIGS:
+            config = ORGANIZATION_CONFIGS[org_key]
+            return config.get('icon_url', 'https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/icon.png')
+    
+    # Organization-specific icons (using public favicon URLs)
+    if 'anthropic' in feed_name:
+        return 'https://www.anthropic.com/favicon.ico'
+    elif 'openai' in feed_name:
+        return 'https://openai.com/favicon.ico'
+    elif 'google' in feed_name or 'deepmind' in feed_name:
+        return 'https://deepmind.google/favicon.ico'
+    elif 'bytedance' in feed_name:
+        return 'https://seed.bytedance.com/favicon.ico'
+    elif 'microsoft' in feed_name:
+        return 'https://www.microsoft.com/favicon.ico'
+    elif 'meta' in feed_name or 'facebook' in feed_name:
+        return 'https://about.meta.com/favicon.ico'
+    elif 'huggingface' in feed_name:
+        return 'https://huggingface.co/favicon.ico'
+    else:
+        # Default AI News Direct icon
+        return 'https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/icon.png'
+
+
+def create_atom_feed(entries, feed_title, feed_id, feed_link, feed_name='', source=''):
     """Create an Atom feed XML from entries using standardized schema"""
     # Create root feed element
     feed = Element('feed')
@@ -31,6 +60,15 @@ def create_atom_feed(entries, feed_title, feed_id, feed_link):
     link = SubElement(feed, 'link')
     link.set('href', feed_link)
     link.set('rel', 'self')
+    
+    # Add feed icon
+    icon_url = get_feed_icon(feed_name, source)
+    icon = SubElement(feed, 'icon')
+    icon.text = icon_url
+    
+    # Add logo (same as icon for now)
+    logo = SubElement(feed, 'logo')
+    logo.text = icon_url
     
     updated = SubElement(feed, 'updated')
     updated.text = datetime.now(timezone.utc).isoformat()
@@ -207,7 +245,7 @@ def generate_feeds():
             feed_link = f"{base_url}/feed/{feed_name}.xml"
             
             # Create Atom feed
-            feed_xml = create_atom_feed(data, feed_title, feed_id, feed_link)
+            feed_xml = create_atom_feed(data, feed_title, feed_id, feed_link, feed_name, source)
             
             # Pretty print XML
             rough_string = tostring(feed_xml, 'utf-8')

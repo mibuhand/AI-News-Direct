@@ -16,9 +16,31 @@ logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s -
 project_dir = Path(__file__).resolve().parent.parent
 html_dir = project_dir / 'data' / 'html_cache'
 parsed_dir = project_dir / 'data' / 'parsed'
+config_dir = project_dir / 'config'
 
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
+
+def load_config():
+    """Load site configuration to get output filenames and cache filenames"""
+    config_file = config_dir / 'sites_config.json'
+    with open(config_file, 'r', encoding='utf-8') as f:
+        sites_config = json.load(f)
+    
+    # Find HuggingFace configurations
+    configs = {}
+    for site in sites_config:
+        if site.get('organization_key') == 'huggingface':
+            site_type = site.get('type', 'unknown')
+            configs[site_type] = {
+                'output_files': site.get('output_files', {}),
+                'cache_files': site.get('cache_files', {})
+            }
+    
+    if not configs:
+        raise ValueError("HuggingFace configuration not found in sites_config.json")
+    
+    return configs
 
 # Hardcoded CSS selectors (simplified from huggingface.json schema)
 BASE_SELECTOR = "div.org-profile-content div.mb-7"
@@ -36,11 +58,35 @@ def load_huggingface_html_files():
     """Load HTML files from data/html_cache and extract data using hardcoded selectors"""
     base_url = 'https://huggingface.co'
     
-    # Find all HTML files with 'huggingface' in filename
-    html_files = glob.glob(str(html_dir / "*huggingface*"))
+    # Get config-driven cache filenames
+    configs = load_config()
+    expected_files = []
+    
+    # Find all matching cache files from config
+    for config_type, config in configs.items():
+        cache_files = config.get('cache_files', {})
+        for cache_template in cache_files.values():
+            if '{' in cache_template:
+                # Template-based filename - find all matching files
+                # Convert template to glob pattern
+                # e.g., "huggingface_{org}_{page_type}.html" -> "huggingface_*_*.html"
+                glob_pattern = cache_template.replace('{org}', '*').replace('{user}', '*').replace('{page_type}', '*')
+                matching_files = glob.glob(str(html_dir / glob_pattern))
+                expected_files.extend(matching_files)
+                logging.info(f"Found {len(matching_files)} HuggingFace {config_type} files matching pattern: {glob_pattern}")
+            else:
+                # Static filename
+                file_path = html_dir / cache_template
+                if file_path.exists():
+                    expected_files.append(str(file_path))
+                    logging.info(f"Found HuggingFace {config_type} file: {cache_template}")
+    
+    if not expected_files:
+        raise FileNotFoundError("No HuggingFace cache files found")
+    
     all_activities = []
     
-    for html_file in html_files:
+    for html_file in expected_files:
         try:
             filename = os.path.basename(html_file)
             
@@ -78,7 +124,7 @@ def extract_org_from_filename(filename):
     
     # Handle different filename patterns
     if 'huggingface_co_' in name_without_ext:
-        # Pattern: huggingface_co__Kijai_activity_models.html or huggingface_co__organizations_Kijai_activity_datasets.html
+        # Old pattern: huggingface_co__Kijai_activity_models.html or huggingface_co__organizations_Kijai_activity_datasets.html
         parts = name_without_ext.split('huggingface_co_')[1]
         
         # Remove leading underscores
@@ -97,7 +143,16 @@ def extract_org_from_filename(filename):
             org_name = parts.split('_')[0]
         else:
             org_name = parts
-            
+    elif '_models' in name_without_ext or '_datasets' in name_without_ext or '_papers' in name_without_ext:
+        # New pattern: openai_models.html, Kijai_datasets.html, microsoft_papers.html
+        if '_models' in name_without_ext:
+            org_name = name_without_ext.replace('_models', '')
+        elif '_datasets' in name_without_ext:
+            org_name = name_without_ext.replace('_datasets', '')
+        elif '_papers' in name_without_ext:
+            org_name = name_without_ext.replace('_papers', '')
+        else:
+            org_name = name_without_ext
     elif 'organizations_' in name_without_ext:
         # Pattern: organizations_openai.html
         org_name = name_without_ext.replace('organizations_', '')
@@ -340,7 +395,11 @@ def post_process_huggingface(activities):
 
     # Save to JSON file
     try:
-        json_path = parsed_dir / f'huggingface.json'
+        configs = load_config()
+        matrix_config = configs.get('organization_matrix', {})
+        output_files = matrix_config.get('output_files', {})
+        output_filename = output_files.get('matrix', 'huggingface.json')
+        json_path = parsed_dir / output_filename
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)
         

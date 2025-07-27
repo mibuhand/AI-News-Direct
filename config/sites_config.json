@@ -1,53 +1,121 @@
 [
     {
         "site": "https://seed.bytedance.com/en",
-        "pages": ["blog", "research"]
+        "organization_key": "bytedance",
+        "pages": ["blog", "research"],
+        "output_files": {
+            "blog": "bytedance_seed_blog.json",
+            "research": "bytedance_seed_research.json"
+        },
+        "cache_files": {
+            "blog": "bytedance_blog.html",
+            "research": "bytedance_research.html"
+        }
     },
     
     {
         "site": "https://www.anthropic.com",
-        "pages": ["news", "research", "engineering"]
+        "organization_key": "anthropic",
+        "pages": ["news", "research", "engineering"],
+        "output_files": {
+            "news": "anthropic_news.json",
+            "research": "anthropic_research.json",
+            "engineering": "anthropic_engineering.json"
+        },
+        "cache_files": {
+            "news": "anthropic_news.html",
+            "research": "anthropic_research.html",
+            "engineering": "anthropic_engineering.html"
+        }
     },
     
     {
-        "site": "https://openai.com/research/index"
+        "site": "https://openai.com/research/index",
+        "organization_key": "openai",
+        "pages": [""],
+        "output_files": {
+            "main": "openai_research.json"
+        },
+        "cache_files": {
+            "main": "openai_research.html"
+        }
     },
     
     {
         "site": "https://openai.com",
+        "organization_key": "openai",
         "type": "feeds",
         "feeds": [
             {
                 "name": "news",
                 "url": "https://openai.com/news/rss.xml"
             }
-        ]
+        ],
+        "output_files": {
+            "feeds": "openai_feeds.json"
+        },
+        "cache_files": {
+            "news_feed": "openai_news_feed.xml"
+        }
     },
     
     {
         "site": "https://deepmind.google",
+        "organization_key": "google",
         "type": "feeds",
         "feeds": [
             {
                 "name": "blog",
                 "url": "https://deepmind.google/blog/rss.xml"
             }
-        ]
+        ],
+        "output_files": {
+            "feeds": "google_deepmind_feeds.json"
+        },
+        "cache_files": {
+            "blog_feed": "google_deepmind_blog_feed.xml"
+        }
     },
     
     {
         "site": "https://blog.google",
+        "organization_key": "google",
         "type": "feeds",
         "feeds": [
             {
                 "name": "ai",
                 "url": "https://blog.google/technology/ai/rss/"
             }
-        ]
+        ],
+        "output_files": {
+            "feeds": "google_ai_feeds.json"
+        },
+        "cache_files": {
+            "ai_feed": "google_ai_blog_feed.xml"
+        }
+    },
+    
+    {
+        "site": "https://www.microsoft.com",
+        "organization_key": "microsoft",
+        "type": "feeds",
+        "feeds": [
+            {
+                "name": "ai_blog",
+                "url": "https://www.microsoft.com/en-us/ai/blog/feed/"
+            }
+        ],
+        "output_files": {
+            "feeds": "microsoft_feeds.json"
+        },
+        "cache_files": {
+            "ai_blog_feed": "microsoft_ai_blog_feed.xml"
+        }
     },
     
     {
         "site": "https://huggingface.co",
+        "organization_key": "huggingface",
         "type": "organization_matrix",
         "base_path": "/organizations",
         "organizations": [
@@ -97,11 +165,18 @@
             "/activity/models",
             "/activity/datasets", 
             "/activity/papers"
-        ]
+        ],
+        "output_files": {
+            "matrix": "huggingface.json"
+        },
+        "cache_files": {
+            "matrix": "huggingface_{org}_{page_type}.html"
+        }
     },
     
     {
         "site": "https://huggingface.co",
+        "organization_key": "huggingface",
         "type": "user_profiles",
         "users": [
             "/Kijai"
@@ -110,6 +185,12 @@
             "/activity/models",
             "/activity/datasets", 
             "/activity/papers"
-        ]
+        ],
+        "output_files": {
+            "profiles": "huggingface_users.json"
+        },
+        "cache_files": {
+            "profiles": "huggingface_{user}_{page_type}.html"
+        }
     }
 ]

@@ -71,7 +71,13 @@ async def fetch_and_save(curl_session, url_data, semaphore):
             if not page:
                 page = 'index'  # Default to 'index' if no specific page path is provided
 
-            filename = f"{domain}_{page}"
+            # Use config-driven filename
+            config_filename = url_data.get('cache_filename', '')
+            if not config_filename:
+                raise ValueError(f"No cache filename configured for URL: {url}")
+            
+            # Remove extension since we'll add it based on type
+            filename = config_filename.replace('.html', '').replace('.xml', '')
 
             # Determine file type and save accordingly
             if url_data.get('type') == 'feed':
@@ -90,17 +96,6 @@ async def fetch_and_save(curl_session, url_data, semaphore):
             return {"url": url, "status": "error", "error": str(e)}
 
 
-def extract_org_from_domain(domain):
-    """Extract organization identifier from domain name"""
-    # Remove common TLD patterns
-    clean_domain = domain.replace('_com', '').replace('_org', '').replace('_ai', '')
-    
-    # Extract the main part
-    parts = clean_domain.split('_')
-    if parts:
-        return parts[0]
-    
-    return clean_domain
 
 
 async def fetch_all_urls(urls_data, max_concurrent=5):
@@ -176,16 +171,34 @@ if __name__ == "__main__":
                 base_path = data.get('base_path', '')
                 organizations = data.get('organizations', [])
                 pages = data.get('pages', [''])
+                cache_files = data.get('cache_files', {})
+                
+                # Get cache filename template
+                cache_template = cache_files.get('matrix', '')
                 
                 # Generate all combinations of organizations and pages
                 for org, page in product(organizations, pages):
                     full_page = f"{base_path}{org}{page}"
                     page_name = f"{org.strip('/')}{page.replace('/', '_')}"
                     
+                    # Extract organization name and content type for better filenames
+                    org_name = org.strip('/').replace('-', '').replace('_', '')
+                    page_type = page.strip('/').replace('activity/', '').replace('/', '_')
+                    
+                    # Generate specific cache filename from template
+                    cache_filename = ''
+                    if cache_template:
+                        cache_filename = cache_template.format(
+                            org=org_name,
+                            page_type=page_type
+                        )
+                    
                     urls_data.append({
                         'base_url': base_url,
                         'domain': domain,
                         'page': full_page,
+                        'content_type': page_type,
+                        'cache_filename': cache_filename,
                         'client_type': client_type
                     })
             
@@ -193,46 +206,80 @@ if __name__ == "__main__":
             elif data.get('type') == 'user_profiles':
                 users = data.get('users', [])
                 pages = data.get('pages', [''])
+                cache_files = data.get('cache_files', {})
+                
+                # Get cache filename template
+                cache_template = cache_files.get('profiles', '')
                 
                 # Generate all combinations of users and pages
                 for user, page in product(users, pages):
                     full_page = f"{user}{page}"
                     page_name = f"{user.strip('/')}{page.replace('/', '_')}"
                     
+                    # Extract user name and content type for better filenames
+                    user_name = user.strip('/').replace('-', '').replace('_', '')
+                    page_type = page.strip('/').replace('activity/', '').replace('/', '_')
+                    
+                    # Generate specific cache filename from template
+                    cache_filename = ''
+                    if cache_template:
+                        cache_filename = cache_template.format(
+                            user=user_name,
+                            page_type=page_type
+                        )
+                    
                     urls_data.append({
                         'base_url': base_url,
                         'domain': domain,
                         'page': full_page,
+                        'content_type': page_type,
+                        'cache_filename': cache_filename,
                         'client_type': client_type
                     })
             
             # Handle RSS/Atom feeds
             elif data.get('type') == 'feeds':
                 feeds = data.get('feeds', [])
+                cache_files = data.get('cache_files', {})
                 for feed in feeds:
                     feed_name = feed.get('name', 'feed')
                     feed_url = feed.get('url', '')
                     if feed_url:
                         # Extract path from full URL for page parameter
                         feed_path = feed_url.replace(base_url, '').lstrip('/')
+                        
+                        # Get config-driven cache filename
+                        cache_key = f"{feed_name}_feed"
+                        cache_filename = cache_files.get(cache_key, '')
+                        
                         urls_data.append({
                             'base_url': base_url,
                             'domain': domain,
                             'page': feed_path,
                             'type': 'feed',
                             'feed_name': feed_name,
-                            'source_org': extract_org_from_domain(domain),
+                            'cache_filename': cache_filename,
                             'client_type': client_type
                         })
             
             # Handle simple pages list
             else:
                 pages = data.get('pages', [''])
+                cache_files = data.get('cache_files', {})
+                
                 for page in pages:
+                    # Extract content type from page path
+                    content_type = page.strip('/').replace('/', '_') if page.strip('/') else 'main'
+                    
+                    # Get config-driven cache filename
+                    cache_filename = cache_files.get(content_type, '')
+                    
                     urls_data.append({
                         'base_url': base_url,
                         'domain': domain,
                         'page': page,
+                        'content_type': content_type,
+                        'cache_filename': cache_filename,
                         'client_type': client_type
                     })
     

@@ -83,8 +83,8 @@ def aggregate_organization_feeds(org_key):
     config = ORGANIZATION_CONFIGS[org_key]
     aggregated_items = []
     
-    # 1. Load direct feeds for this organization
-    for filename in config['direct_feeds']:
+    # 1. Load scraped files for this organization
+    for filename in config.get('scraped_files', []):
         file_path = parsed_dir / filename
         if file_path.exists():
             try:
@@ -94,21 +94,28 @@ def aggregate_organization_feeds(org_key):
                     logging.info(f"Added {len(data)} items from {filename}")
             except Exception as e:
                 logging.error(f"Error reading {filename}: {e}")
+        else:
+            logging.warning(f"Expected scraped file not found: {filename}")
     
-    # 1.5. Load RSS/Atom feed sources for this organization
-    for filename in config.get('feed_sources', []):
+    
+    # 1.6. Load feed files from config
+    feed_files = config.get('feed_files', [])
+    for filename in feed_files:
         file_path = parsed_dir / filename
         if file_path.exists():
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     aggregated_items.extend(data)
-                    logging.info(f"Added {len(data)} items from RSS/Atom feed {filename}")
+                    logging.info(f"Added {len(data)} items from config feed {filename}")
             except Exception as e:
-                logging.error(f"Error reading feed source {filename}: {e}")
+                logging.error(f"Error reading config feed {filename}: {e}")
+        else:
+            logging.warning(f"Expected feed file not found: {filename}")
     
     # 2. Load and filter HuggingFace activities for this organization
-    huggingface_file = parsed_dir / 'huggingface.json'
+    huggingface_filename = config.get('huggingface_data', 'huggingface.json')
+    huggingface_file = parsed_dir / huggingface_filename
     if huggingface_file.exists():
         try:
             with open(huggingface_file, 'r', encoding='utf-8') as f:
@@ -127,7 +134,7 @@ def aggregate_organization_feeds(org_key):
             logging.info(f"Added {len(org_activities)} {config['name']} activities from HuggingFace")
             
         except Exception as e:
-            logging.error(f"Error reading huggingface.json: {e}")
+            logging.error(f"Error reading {huggingface_filename}: {e}")
     
     # 3. Deduplicate items based on title, url, and description
     # Prioritize RSS/Atom feeds over scraped sources
@@ -185,7 +192,9 @@ def aggregate_organization_feeds(org_key):
     
     # 5. Save aggregated feed
     try:
-        output_file = parsed_dir / f'{org_key}_aggregated.json'
+        # Get aggregated filename from config
+        aggregated_filename = config.get('aggregated_file', f'{org_key}_aggregated.json')
+        output_file = parsed_dir / aggregated_filename
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(unique_items, f, indent=4)
         
@@ -206,8 +215,9 @@ def get_organization_stats(org_key):
     config = ORGANIZATION_CONFIGS[org_key]
     stats = {}
     
-    # Count direct feeds
-    for filename in config['direct_feeds']:
+    # Count scraped files
+    scraped_files = config.get('scraped_files', [])
+    for filename in scraped_files:
         feed_name = filename.replace('.json', '')
         file_path = parsed_dir / filename
         if file_path.exists():
@@ -221,7 +231,8 @@ def get_organization_stats(org_key):
             stats[feed_name] = 0
     
     # Count HuggingFace activities
-    huggingface_file = parsed_dir / 'huggingface.json'
+    huggingface_filename = config.get('huggingface_data', 'huggingface.json')
+    huggingface_file = parsed_dir / huggingface_filename
     if huggingface_file.exists():
         try:
             with open(huggingface_file, 'r') as f:
@@ -235,7 +246,9 @@ def get_organization_stats(org_key):
         stats[f'huggingface_{org_key}_orgs'] = 0
     
     # Count total aggregated
-    aggregated_file = parsed_dir / f'{org_key}_aggregated.json'
+    # Get aggregated filename from config
+    aggregated_filename = config.get('aggregated_file', f'{org_key}_aggregated.json')
+    aggregated_file = parsed_dir / aggregated_filename
     if aggregated_file.exists():
         try:
             with open(aggregated_file, 'r') as f:

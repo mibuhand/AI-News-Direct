@@ -15,8 +15,25 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 project_dir = Path(__file__).resolve().parent.parent
 html_dir = project_dir / 'data' / 'html_cache'
 parsed_dir = project_dir / 'data' / 'parsed'
+config_dir = project_dir / 'config'
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
+
+def load_config():
+    """Load site configuration to get output filenames and cache filenames"""
+    config_file = config_dir / 'sites_config.json'
+    with open(config_file, 'r', encoding='utf-8') as f:
+        sites_config = json.load(f)
+    
+    # Find Anthropic configuration
+    for site in sites_config:
+        if site.get('organization_key') == 'anthropic':
+            return {
+                'output_files': site.get('output_files', {}),
+                'cache_files': site.get('cache_files', {})
+            }
+    
+    raise ValueError("Anthropic configuration not found in sites_config.json")
 
 
 def load_html(filename):
@@ -211,6 +228,9 @@ def save_to_json(post_items, filename):
     
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
+    # Determine page type and get config-driven filename
+    config = load_config()
+    output_files = config['output_files']
     if 'news' in filename:
         page_type = 'news'
     elif 'engineering' in filename:
@@ -219,7 +239,8 @@ def save_to_json(post_items, filename):
         page_type = 'research'
 
     try:
-        json_path = parsed_dir / f'anthropic_{page_type}.json'
+        output_filename = output_files.get(page_type, f'anthropic_{page_type}.json')
+        json_path = parsed_dir / output_filename
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)
             logging.info(f"Parsed data successfully written to '{json_path}'")
@@ -228,16 +249,19 @@ def save_to_json(post_items, filename):
 
 
 if __name__ == "__main__":
-    filenames = [
-        'www_anthropic_com_research.html',
-        'www_anthropic_com_news.html',
-        'www_anthropic_com_engineering.html'
-    ]
-
-    for filename in filenames:
-        soup = load_html(filename)
-        if 'research' in filename:
-            json_data = extract_script_data(soup)
-            save_to_json(parse_script_data(json_data), filename)
+    config = load_config()
+    cache_files = config['cache_files']
+    
+    # Process each configured cache file
+    for page_type, cache_filename in cache_files.items():
+        file_path = html_dir / cache_filename
+        if file_path.exists():
+            logging.info(f"Processing Anthropic {page_type} file: {cache_filename}")
+            soup = load_html(cache_filename)
+            if page_type == 'research':
+                json_data = extract_script_data(soup)
+                save_to_json(parse_script_data(json_data), cache_filename)
+            else:
+                save_to_json(extract_html_data(soup, cache_filename), cache_filename)
         else:
-            save_to_json(extract_html_data(soup, filename), filename)
+            logging.error(f"Required cache file not found: {cache_filename}")

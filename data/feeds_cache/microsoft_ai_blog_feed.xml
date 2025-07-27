@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft AI Blogs</title>
+	<atom:link href="https://www.microsoft.com/en-us/ai/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.microsoft.com/en-us/ai/blog/</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Jul 2025 15:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification</title>
+		<link>https://azure.microsoft.com/en-us/blog/microsoft-azure-ai-foundry-models-and-microsoft-security-copilot-achieve-iso-iec-420012023-certification/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Microsoft has achieved ISO/IEC 42001:2023 certification—a globally recognized standard for Artificial Intelligence Management Systems for both Azure AI Foundry Models and Microsoft Security Copilot. </p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-azure-ai-foundry-models-and-microsoft-security-copilot-achieve-iso-iec-420012023-certification/">Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Microsoft has achieved ISO/IEC 42001:2023 certification—a globally recognized standard for Artificial Intelligence Management Systems (AIMS) for both <a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure AI Foundry Models</a> and <a href="https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot">Microsoft Security Copilot</a>. This certification underscores Microsoft’s commitment to building and operating AI systems responsibly, securely, and transparently. As responsible AI is rapidly becoming a business and regulatory imperative, this certification reflects how Microsoft enables customers to innovate with confidence.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Create with Azure AI Foundry Models</a></div>
+</div>
+<h2 class="wp-block-heading" id="raising-the-bar-for-responsible-ai-with-iso-iec-42001">Raising the bar for responsible AI with ISO/IEC 42001</h2>
+<p class="wp-block-paragraph"><a href="https://www.iso.org/standard/42001" target="_blank" rel="noreferrer noopener">ISO/IEC 42001</a>, developed by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), establishes a globally recognized framework for the management of AI systems. It addresses a broad range of requirements, from risk management and bias mitigation to transparency, human oversight, and organizational accountability. This international standard provides a certifiable framework for establishing, implementing, maintaining, and improving an AI management system, supporting organizations in addressing risks and opportunities throughout the AI lifecycle.</p>
+<p class="wp-block-paragraph">By achieving this certification, Microsoft demonstrates that Azure AI Foundry Models, including Azure OpenAI models, and Microsoft Security Copilot prioritize responsible innovation and are validated by an independent third party. It provides our customers with added assurance that Microsoft Azure’s application of robust governance, risk management, and compliance practices across Azure AI Foundry Models and Microsoft Security Copilot are developed and operated in alignment with <a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Responsible-AI-Standard-General-Requirements.pdf?culture=en-us&amp;country=us">Microsoft’s Responsible AI Standard</a>.</p>
+<h2 class="wp-block-heading" id="supporting-customers-across-industries">Supporting customers across industries</h2>
+<p class="wp-block-paragraph">Whether you are deploying AI in regulated industries, embedding generative AI into products, or exploring new AI use cases, this certification helps customers:</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>Accelerate their own compliance journey</strong> by leveraging certified AI services and inheriting governance controls aligned with emerging regulations.</li>
+<li class="wp-block-list-item"><strong>Build trust </strong>with their own users, partners, and regulators through transparent, auditable governance evidenced with the AIMS certification for these services.</li>
+<li class="wp-block-list-item"><strong>Gain transparency into how Microsoft manages AI risks and governs responsible AI development, giving users greater confidence in the services they build on.</strong></li>
+</ul>
+<h2 class="wp-block-heading" id="engineering-trust-and-responsible-ai-into-the-azure-platform">Engineering trust and responsible AI into the Azure platform</h2>
+<p class="wp-block-paragraph">Microsoft’s <a href="https://www.microsoft.com/en-us/ai/responsible-ai">Responsible AI (RAI) program</a> is the backbone of our approach to trustworthy AI and includes four core pillars—<a href="https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report/">Govern, Map, Measure, and Manage</a>—which guides how we design, customize, and manage AI applications and agents. These principles are embedded into both Azure AI Foundry Models and Microsoft Security Copilot, resulting in services designed to be innovative, safe and accountable.</p>
+<p class="wp-block-paragraph">We are committed to delivering on our Responsible AI promise and continue to build on our existing work which includes:</p>
+<ol start="1" class="wp-block-list">
+<li class="wp-block-list-item">Our <a href="https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/" target="_blank" rel="noreferrer noopener">AI Customer Commitments</a> to assist our customers on their responsible AI journey.</li>
+<li class="wp-block-list-item">Our inaugural <a href="https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report/" target="_blank" rel="noreferrer noopener">Responsible AI Transparency Report</a> that enables us to record and share our maturing practices, reflect on what we have learned, chart our goals, hold ourselves accountable, and earn the public’s trust.</li>
+<li class="wp-block-list-item">Our Transparency Notes for <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-ai/openai/transparency-note?tabs=text" target="_blank" rel="noreferrer noopener">Azure AI Foundry Models</a> and <a href="https://learn.microsoft.com/en-us/copilot/security/rai-faqs-security-copilot" target="_blank" rel="noreferrer noopener">Microsoft Security Copilot</a> help customers understand how our AI technology works, its capabilities and limitations, and the choices system owners can make that influence system performance and behavior.</li>
+<li class="wp-block-list-item">Our <a href="https://www.microsoft.com/en-us/ai/tools-practices">Responsible AI res</a><a href="https://www.microsoft.com/en-us/ai/tools-practices" target="_blank" rel="noreferrer noopener">ources s</a><a href="https://www.microsoft.com/en-us/ai/tools-practices">ite</a> which provides tools, practices, templates and information we believe will help many of our customers establish their responsible AI practices.</li>
+</ol>
+<h2 class="wp-block-heading" id="supporting-your-responsible-ai-journey-with-trust">Supporting your responsible AI journey with trust</h2>
+<p class="wp-block-paragraph">We recognize that responsible AI requires more than technology; it requires operational processes, risk management, and clear accountability. Microsoft supports customers in these efforts by providing both the platform and the expertise to operational trust and compliance. Microsoft remains steadfast in our commitment to the following:</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">Continually improving our AI management system.</li>
+<li class="wp-block-list-item">Understanding the needs and expectations of our customers.</li>
+<li class="wp-block-list-item">Building onto the Microsoft RAI program and AI risk management.</li>
+<li class="wp-block-list-item">Identifying and actioning upon opportunities that allow us to build and maintain trust in our AI products and services. </li>
+<li class="wp-block-list-item">Collaborating with the growing community of responsible AI practitioners, regulators, and researchers on advancing our responsible AI approach.  </li>
+</ul>
+<p class="wp-block-paragraph">ISO/IEC 42001:2023 joins Microsoft’s extensive portfolio of compliance certifications, reflecting our dedication to operational rigor and transparency, helping customers build responsibly on a cloud platform designed for trust. From a healthcare organization striving for fairness to a financial institution overseeing AI risk, or a government agency advancing ethical AI practices, Microsoft’s certifications enable the adoption of AI at scale while aligning compliance with evolving global standards for security, privacy, and responsible AI governance. </p>
+<p class="wp-block-paragraph">Microsoft’s foundation in security and data privacy and our investments in operational resilience and responsible AI shows our dedication to earning and preserving trust at every layer. Azure is engineered for trust, powering innovation on a secure, resilient, and transparent foundation that gives customers the confidence to scale AI responsibly, navigate evolving compliance needs, and stay in control of their data and operations.</p>
+<h2 class="wp-block-heading" id="learn-more-with-microsoft">Learn more with Microsoft</h2>
+<p class="wp-block-paragraph">As AI regulations and expectations continue to evolve, Microsoft remains focused on delivering a trusted platform for AI innovation, built with resiliency, security, and transparency at its core. ISO/IEC 42001:2023 certification is a critical step on that path, and Microsoft will continue investing in exceeding global standards and driving responsible innovations to help customers stay ahead—securely, ethically, and at scale.</p>
+<p class="wp-block-paragraph">Explore how we put trust at the core of cloud innovation with our approach to security, privacy, and compliance at the <a href="https://www.microsoft.com/en-us/trust-center" target="_blank" rel="noreferrer noopener">Microsoft Trust Center</a>. View this certification and report, as well as other compliance documents on the <a href="https://servicetrust.microsoft.com/DocumentPage/63208973-60e7-4d18-882b-bd2425cc881b" target="_blank" rel="noreferrer noopener">Microsoft Service Trust Portal</a>.</p>
+<aside class="cta-block cta-block--align-left cta-block--has-image wp-block-msx-cta" data-bi-an="CTA Block">
+<div class="cta-block__content">
+<div class="cta-block__image-container">
+				<img decoding="async" loading="lazy" width="1024" height="682" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/04/3a2cb12b-40c0-429e-956f-edc10f87d98e.jpg" class="cta-block__image" alt="A woman sits at her desk and is smiling at her laptop in front of her. She holds a pen in her right hand and writes in a notebook" />			</div>
+<div class="cta-block__body">
+<h2 class="cta-block__headline">Azure AI Foundry Models</h2>
+<p class="cta-block__text">Find the right model from exploration to deployment all in one place.</p>
+<div class="cta-block__actions">
+					<a href="https://azure.microsoft.com/en-us/products/ai-model-catalog" class="btn cta-block__link btn-link"><br />
+						Discover more &gt;					</a>
+				</div>
+</p></div>
+</p></div>
+</aside>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<p class="wp-block-paragraph">The ISO/IEC 42001:2023 certification for Azure AI Foundry: Azure AI Foundry Models and Microsoft Security Copilot was issued by <a href="https://mastermindassurance.com/" target="_blank" rel="noreferrer noopener">Mastermind</a>, an ISO-accredited certification body by the International Accreditation Service (IAS). </p>
+<p class="wp-block-paragraph"><a id="_msocom_1"></a></p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-azure-ai-foundry-models-and-microsoft-security-copilot-achieve-iso-iec-420012023-certification/">Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Deceived, not hacked: Why keeping people safe online now starts with smarter design</title>
+		<link>https://news.microsoft.com/source/features/ai/deceived-not-hacked-why-keeping-people-safe-online-now-starts-with-smarter-design/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 15:00:59 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Deceived, not hacked: Why keeping people safe online now starts with smarter design By Susanna Ray (() =&#62; { let $iframe, $closeBtn; const $player = document.getElementById(&#8216;player-6877c58e7a284&#8217;) ; const $playerPlayBtn = document.getElementById(&#8216;player-btn-6877c58e7a284&#8217;) ; const $playerPlayTitleBtn = document.getElementById(&#8216;player-title-btn-6877c58e7a284&#8217;) ; const $playerText = document.getElementById(&#8216;player-text-6877c58e7a284&#8217;) ; function onKeyDown(e) { if (document.activeElement !== $closeBtn) { $iframe.focus() ; } } function</p>
+<p>The post <a href="https://news.microsoft.com/source/features/ai/deceived-not-hacked-why-keeping-people-safe-online-now-starts-with-smarter-design/">Deceived, not hacked: Why keeping people safe online now starts with smarter design</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<article id="single-21247" class="mssrc-features font--sans has-dark-theme has-microsoft-branding" data-clarity-region="article">
+<div class="acf-innerblocks-container">
+<section class="ms-inclusion-full-width mssrc-block-content-block">
+<div class="mks-debug-guides"></div>
+<div class="relative bg-#000 relative h-100vh overflow-hidden min-h-450px m:!h-540px m:!min-h-540px" style="color:#ffffff">
+<div class="top-0 left-0 w-full h-full absolute">
+<p>                            <img decoding="async" src="https://msthesource.thesourcemediaassets.com/2025/07/hero-2-3.png" alt="A woman using a laptop surrounded by digital security imagery including keyholes, padlocks, fingerprints, password symbols, and geometric shapes on a pink and coral background." class="absolute top-0 left-0 w-full h-full object-cover !rounded-0" /></p>
+<div class="absolute top-0 left-0 w-full h-full" style="background: linear-gradient(to top, #383838, #38383800)"></div>
+</p></div>
+<div id="" class="max-w-1700px mx-auto w-full pointer-events-none relative h-full m:w-full  flex justify-start items-end px-94fxx m:px-6.25% pb-6vr m:pt-2vr m:pb-4vr">
+<article class="relative m:w-full flex flex-col items-start justify-center">
+<h2 class="pointer-events-auto mt-0 font-h3 font-400 mb-0.5vr">
+<p>							Deceived, not hacked: Why keeping people safe online now starts with smarter design						</p>
+</h2>
+<div role="paragraph" class="pointer-events-auto mt-0 font-t5 mb-1vr w-620fxx m:w-full text-left">
+<p>                        By Susanna Ray
+                </p></div>
+<div class="pointer-events-auto">
+                                                        </div>
+</article></div>
+</p></div>
+<div id="" class="h-100vhfix w-full fixed top-0 left-0 hidden z-99999999">
+        <button data-close-player aria-label="Close video" class="
+                hidden top-40px right-40px z-4 bg-#fff absolute transition-[transform] duration-[0.6s] ease-out
+                w-40px h-40px border border-solid border-#FFF rounded-100px hover:scale-[1.2]
+                m:top-6.25% m:right-6.25%"><br />
+            <span class="absolute top-50% left-50% transform translate-x-[-50%] translate-y-[-50%] rotate-[-45deg] h-2px w-15px block bg-#000"></span><br />
+            <span class="absolute top-50% left-50% transform translate-x-[-50%] translate-y-[-50%] rotate-[45deg] h-2px w-15px block bg-#000"></span><br />
+        </button>
+    </div>
+</section>
+<p>    (() =&gt; {<br />
+        let $iframe, $closeBtn;<br />
+        const $player              = document.getElementById(&#8216;player-6877c58e7a284&#8217;) ;<br />
+        const $playerPlayBtn       = document.getElementById(&#8216;player-btn-6877c58e7a284&#8217;) ;<br />
+		const $playerPlayTitleBtn = document.getElementById(&#8216;player-title-btn-6877c58e7a284&#8217;) ;<br />
+        const $playerText = document.getElementById(&#8216;player-text-6877c58e7a284&#8217;) ;<br />
+        function onKeyDown(e) {<br />
+            if (document.activeElement !== $closeBtn) {<br />
+                $iframe.focus() ;<br />
+            }<br />
+        }<br />
+        function initIframe(e) {<br />
+            $iframe = document.createElement(&#8216;iframe&#8217;) ;<br />
+            $iframe.style.top      = 0 ;<br />
+            $iframe.style.left     = 0 ;<br />
+            $iframe.style.position = &#8216;absolute&#8217; ;<br />
+            $iframe.style.width    = &#8216;100%&#8217; ;<br />
+            $iframe.style.height   = &#8216;100%&#8217; ;<br />
+            $iframe.setAttribute(&#8216;frameborder&#8217;, 0 ) ;<br />
+            $iframe.setAttribute(&#8216;tabindex&#8217;,    1 ) ;<br />
+            $iframe.setAttribute(&#8216;allow&#8217;,       &#8216;autoplay; fullscreen&#8217;  ) ;<br />
+            $iframe.setAttribute(&#8216;title&#8217;,       &#8216;Deceived, not hacked: Why keeping people safe online now starts with smarter design&#8217; ) ;<br />
+            $iframe.setAttribute(&#8216;src&#8217;, &#8216;https://www.youtube-nocookie.com/embed/?autoplay=1&amp;autohide=1&amp;fs=1&amp;modestbranding=1&amp;showinfo=0&amp;controls=2&amp;autoplay=1&amp;rel=0&amp;theme=light&amp;vq=hd720&#8217;) ;<br />
+            $closeBtn = $player.querySelector(&#8216;[data-close-player]&#8217;) ;<br />
+            $player.insertBefore($iframe, $closeBtn) ;<br />
+            $player.removeEventListener(&#8216;click&#8217;, initIframe) ;<br />
+            $playerText.style.display = &#8216;none&#8217; ;<br />
+            $player.style.display     = &#8216;block&#8217; ;<br />
+            document.addEventListener(&#8216;keyup&#8217;, onKeyDown) ;<br />
+            setTimeout(()=&gt;{<br />
+                $iframe.focus() ;<br />
+                $iframe.click() ;<br />
+                setTimeout(()=&gt;{<br />
+                    $iframe.focus() ;<br />
+                    $iframe.click() ;<br />
+                    $closeBtn.setAttribute(&#8216;tabindex&#8217;, 1) ;<br />
+                }, 1000 );<br />
+            }, 1000 );<br />
+            function closePlayer() {<br />
+                $closeBtn.removeEventListener(&#8216;click&#8217;, closePlayer) ;<br />
+                $player.removeChild($iframe) ;<br />
+                $player.style.display   = &#8216;none&#8217; ;<br />
+                $closeBtn.style.display = &#8216;none&#8217; ;<br />
+                $playerText.style.removeProperty(&#8216;display&#8217;) ;<br />
+                $closeBtn.setAttribute(&#8216;tabindex&#8217;, -1) ;<br />
+                document.removeEventListener(&#8216;keyup&#8217;, onKeyDown) ;<br />
+                $playerPlayBtn.focus();// put focus back to the button that started the video<br />
+            }<br />
+            $closeBtn.addEventListener(&#8216;click&#8217;, closePlayer) ;<br />
+            $closeBtn.style.display = &#8216;block&#8217; ;<br />
+        }<br />
+        $playerPlayBtn &amp;&amp; $playerPlayBtn.addEventListener(&#8216;click&#8217;, initIframe) ;<br />
+		$playerPlayTitleBtn &amp;&amp; $playerPlayTitleBtn.addEventListener(&#8216;click&#8217;, initIframe) ;<br />
+    })();</p>
+<section class="mssrc-block-content-block">
+<div class="wp-block-columns">
+<div class="wp-block-column flex-basis-50 push--25 column--content">
+<div class="acf-innerblocks-container">
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<p>The most dangerous hacker these days probably isn’t a hoodie-clad coder hunched in a basement, furiously typing to break through firewalls. It’s the scammer who sent you a friendly text: “Are you coming to my BBQ tonight?” A simple reply could lead to your savings or identity being stolen.</p>
+<p>As tech companies have fortified their systems, cybercriminals have changed tactics, realizing they don’t need to break in if they can manipulate someone into letting them in. That shift has fueled a surge in fraud, with <a href="https://www.fbi.gov/news/press-releases/fbi-releases-annual-internet-crime-report">more than $16 billion</a> drained from bank accounts last year in the U.S. alone, skyrocketing from $3 billion five years earlier. Given vast underreporting, the amount stolen through fraud crimes is <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/federal-trade-commission-protecting-older-adults-report_102024.pdf">likely far higher</a>.</p>
+<p>One way Microsoft is countering these threats is by partnering user experience (UX) designers with threat analysts, helping make protection intuitive so people don’t have to be experts to stay safe online. Its new <a href="https://microsoft.design/articles/secure-by-design-a-ux-toolkit/" target="_blank" rel="noreferrer noopener">Secure by Design UX Toolkit</a>, tested across 20 product teams, is now available to other companies and organizations, too, to help them build safer digital experiences. </p>
+<p>Cybercriminals “have been taking advantage of how our brains work” through social engineering — manipulating people into believing and acting on something that isn’t true, says Kathy Stokes, the director of fraud prevention programs for AARP, a nonprofit that advocates for older adults in the U.S.</p>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="683" src="https://msthesource.thesourcemediaassets.com/2025/07/Image-1-2-3-1-683x683.jpg" alt="A stylized illustration showing a hand holding a floating cube with an eye and shield symbol, surrounded by flowing ribbons against a coral background with decorative elements." class="wp-image-21415" /></figure>
+<p class="has-white-color has-text-color has-link-color wp-elements-c01ee564352e3f69ac462f80bf3a5959">“Education is an important part of solving the fraud crisis, but guess what else is an important part? Technology that comes to us secure by design and safe by default,” Stokes says. “We put so much of the onus on the end user to be safe, and it&#8217;s not a fair battle.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-d1c9e4658c31f8d99f7de6ce84c91261">That’s exactly the imbalance Margaret Price set out to fix. As a senior director of strategy at Microsoft, Price says she made it her mission last year to change how the company’s tens of thousands of product managers, user researchers, designers and others think about security — by seeing design as a first line of defense.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-c79ee558f900edfbe2e02a8835086ce4">“Most security issues are caused by human error,” Price says. “Whether it’s a stolen credential, a confusing privacy setting or accidentally exposed data, these are often outcomes of poor design.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-0e6e0f62f7610f0558ef120269ffd8f7">Price’s efforts stemmed from the company-wide <a href="https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/" target="_blank" rel="noreferrer noopener">Secure Future Initiative</a> that rolled out in 2023 and made security every employee’s top priority. Price gathered a team and interviewed more than 70 security experts to understand common vulnerabilities and learn how cybercriminals exploit design gaps. The result: a toolkit that helps product teams bake security into the user experience from the start, instead of retrofitting for it later. The toolkit has rolled out to 22,000 employees, and now other companies are starting to use it to help them design safer, more intuitive experiences using Microsoft products.&nbsp;</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-2bae19c8ff6138ef75dea43caeef8f4a">It&#8217;s a distinct approach and a new way of thinking about both security and product development.</p>
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="683" height="683" src="https://msthesource.thesourcemediaassets.com/2025/07/Image-3-3-683x683.png" alt="A person typing on a laptop surrounded by digital security symbols including cubes with eye and shield icons, password asterisks, and fingerprint elements on a yellow and black background." class="wp-image-21423" /></figure>
+<p class="has-white-color has-text-color has-link-color wp-elements-02febe3d6cce415a2b8f6efa5b821977">UX has usually been an afterthought in security, says David Weston, Microsoft’s corporate vice president of enterprise and OS security. Product teams didn’t realize for quite some time that if users were flooded with yes-or-no prompts, for example, they’d be habituated to clicking through without really reading risk alerts.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-891713a37d2152adc22a2348bd9d9d6c">“Sometimes the impact was catastrophic,” he recalls, noting the recent shift toward seeing designers as “our most important defenders” has made a “night and day” difference.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-bef6cfc303a4fb385462ea667ef4f8e1">This design-first approach is <a href="https://www.microsoft.com/en-us/security/blog/2025/04/17/microsofts-secure-by-design-journey-one-year-of-success/">already showing up</a> in Microsoft products, says Marcus Ash, who leads design and research for Windows.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-daa91c17b971e28a779a7c1de08d7b44">Smart App Control uses AI to block unknown or suspicious apps from running. It not only stops the threat but explains why and suggests safer alternatives from Microsoft’s app store, effectively extending the reach of security professionals to everyday users.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-313b42fab8951e2727d33f4215c6aacd">Microsoft Teams phishing alerts now display full email addresses, rather than just a name, to expose impersonators and flag when a domain doesn’t match a sender’s claimed company.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-19e6b23121ea3eeb3536a3770b5ad974">And <a href="https://www.microsoft.com/en-us/security/business/security-101/what-is-passkey">passkeys</a> are replacing passwords with more secure authentication methods that are simpler to use as well, like facial recognition or a PIN through the Windows Hello sign-in experience that only works on your machine and can’t be shared or stolen. As of May 1, all new Microsoft accounts have gone <a href="https://www.microsoft.com/en-us/security/blog/2025/05/01/pushing-passkeys-forward-microsofts-latest-updates-for-simpler-safer-sign-ins/">password-free</a>.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-44a24cb69777f661b4c0f87ec3fd37d0">That new technology is a great example of how good design goes hand-in-hand with communication to help users make better security decisions, Weston says. Powerful advances in security can’t protect users if they don’t understand them or how to adopt them — something that’s even more important since Windows is an open platform that gives users more choice than other operating systems do, he says.</p>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="683" src="https://msthesource.thesourcemediaassets.com/2025/07/Image-2-2-3-683x683.png" alt="A collage illustration showing a hand holding a padlock with 'AI' text, surrounded by flowing black lines, social media icons, and digital elements on a coral background." class="wp-image-21416" /></figure>
+<p class="has-white-color has-text-color has-link-color wp-elements-a777077aec1e2ba11ef440e8ee2d1e38">“A lot of our recent security work is about simplifying,” Ash says, “making it easier for our users to understand when they need to jump into something and correct it.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-6de126e7de1e62566a24da6e81561cc1">Trust and clarity are especially important, says Alistair Kilpatrick, principal design director for Windows, as technology moves toward an agentic future — a world where AI-powered agents can act on users’ behalf, with their permission, and access to their personal data and credit card information.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-edf2ddef0193bf33d74d447382c74a3f">“These foundations need to be there in place to build customer trust,” Kilpatrick says.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-7912b1b6edc43c620129d522f19ba82e">The right amount of friction is key — making security features less complicated and easier to enact so people aren’t loathe to adopt them, while also alerting users to danger in a way that forces them to take notice.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-149fadd2e7a964bab195546fe43e0602">Tech companies can help users understand that friction “is not a four-letter word,” AARP’s Stokes says. “Friction is a protection.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-6b0a63c0f99a4ad1c8e34c1ba0abc67a">Even small design choices as simple as where a button is placed, how a pop-up alert is worded, or whether the look of a page or program is consistent with others can help users recognize when something is off and avoid danger.</p>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="683" src="https://msthesource.thesourcemediaassets.com/2025/07/Image-4-2-683x683.jpg" alt="A person using a laptop with cybersecurity elements including a padlock, password symbols, security cubes with eye and shield icons, and digital interface graphics on a coral and yellow background." class="wp-image-21412" /></figure>
+<p class="has-white-color has-text-color has-link-color wp-elements-94a885816bbddf05c9eaf31626dccede">“You&#8217;re a gamer, you&#8217;re someone that&#8217;s a creative, you&#8217;re someone that&#8217;s trying to be productive, we don&#8217;t want you to worry about these things,” Ash says. “We design a simple user experience that is secure by default. This helps our users understand the protection we put in place and the risks if they decide to make changes.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-c3b960ca37d4a667fcc8c5fad61bebe1">Cybercrime isn’t just a tech issue — it’s a <a href="https://www.aarp.org/money/scams-fraud/fbi-report-fraud-2024/?intcmp=AE-FRDSC-MOR-R2-POS3">public safety crisis</a>, Stokes says. Scams are draining retirement funds, eroding trust and leaving people vulnerable and dependent on social safety nets. To help people resist the emotional manipulation behind modern tech scams, AARP has launched a national campaign with an easy-to-remember mantra meant to help users in the same way broad seatbelt or fire-drill campaigns have done in the past: <a href="https://www.aarp.org/videos/money/scams-fraud/6373940168112.html">“Pause. Reflect. Protect.”</a></p>
+<p class="has-white-color has-text-color has-link-color wp-elements-2fdb935058ec06f54f5e4410433a95e8">That’s why Microsoft is innovating to make security feel less like a burden and more like a built-in benefit, Price says.</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-176e81afdda5657f21ce0e7d51dcde42">“We want security to be woven into everyday products to make experiences safer for everyone,” Price says. “That would mean fewer scams, fewer account breaches, more confidence and more trust in the digital tools people use every day.”</p>
+<p class="has-white-color has-text-color has-link-color wp-elements-bbfc4b617047bc39c3a8e8a98a0bc9b3"><em>Illustrations by Nicolas Smud. Story published on July 16, 2025 .</em></p>
+</div></div>
+</p></div>
+</section>
+</div>
+</div>
+<section class="post-tags">
+<div class="post-tags__content wp-block-columns">
+<div class="post-tags__header wp-block-column flex-basis-25 has-text-align-right">
+<h4 class="sr-only">Tags: </h4>
+</p></div>
+<div class="post-tags__body wp-block-column flex-basis-60">
+<ul class="post-tags__list">
+<li class="post-tags__item"><a href="https://news.microsoft.com/source/tag/ai/" class="kicker inline-block post__meta--tags">AI</a>
+<li class="post-tags__item"><a href="https://news.microsoft.com/source/tag/customers/" class="kicker inline-block post__meta--tags">Customers</a>
+<li class="post-tags__item"><a href="https://news.microsoft.com/source/tag/security/" class="kicker inline-block post__meta--tags">Security</a>			</div></div>
+</section>
+</article>
+<p>The post <a href="https://news.microsoft.com/source/features/ai/deceived-not-hacked-why-keeping-people-safe-online-now-starts-with-smarter-design/">Deceived, not hacked: Why keeping people safe online now starts with smarter design</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The next wave of AI for content creation includes digital twins</title>
+		<link>https://www.microsoft.com/en-us/industry/blog/retail/2025/07/15/the-next-wave-of-ai-for-content-creation-includes-digital-twins/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>AI and digital twins help CPG brands scale content, cut costs, and personalize experiences—transforming marketing workflows and accelerating innovation.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/07/15/the-next-wave-of-ai-for-content-creation-includes-digital-twins/">The next wave of AI for content creation includes digital twins</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>AI offers retail and consumer goods brands a wealth of solutions that transform creativity and reduce time and cost of resource-intensive tasks across the content supply chain. As witnessed at the Cannes Lions Festival of Creativity in June 2025, <a href="https://www.wsj.com/articles/the-advertising-industry-parties-in-cannes-with-ai-as-its-new-plus-one-00443954?msockid=331ef648934d63d435b8e27a92f76280" target="_blank" rel="noreferrer noopener">AI is the new “plus one”</a> to marketing chiefs and agency leaders. However, the potential of AI unleashed new pressure to chief marketing officers to not only scale proof of concepts (POCs), but prove their value—all while keeping the marketing engine running at a breakneck pace.</p>
+<p>For consumer packaged goods (CPGs), delivering personalized content across channels requires multiple iterations of product images, constant reshoots, tweaks, packaging design adjustments, and localization by region. This can be all-consuming for creatives, who are rebuilding or recreating imagery constantly to meet the moment.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail">Discover solutions with Microsoft Cloud for Retail</a></div>
+</div>
+<p>Imagine if brands could leverage AI <a href="https://www.nvidia.com/en-us/glossary/digital-twin/" target="_blank" rel="noreferrer noopener">digital twins</a> to create and integrate high-quality, personalized product content at scale—simply, cost-effectively, and in a fraction of the time. AI and 3D digital twins make it possible, proving AI investments deliver on reduced time and speed to innovation.</p>
+<p>In a <a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/01/16/how-cmos-can-personalize-marketing-and-optimize-spend-with-ai/" target="_blank" rel="noreferrer noopener">recent post</a>, we discussed how AI isn’t just a tool—it’s the foundation for building competitive advantage. Let’s walk through three strategic areas where digital twins offer exceptional outcomes for marketing teams looking to deliver more.</p>
+<h2 class="wp-block-heading" id="1-starting-with-product-imagery">1. Starting with product imagery</h2>
+<p><a href="https://www.emarketer.com/content/how-ai-helping-cmos-their-teams" target="_blank" rel="noreferrer noopener">According to EMARKETER</a>, content creation will be the top budget priority AI use case for chief marketing officers worldwide. Why? Producing product images today requires brands to spend a massive chunk of their budget to constantly reshoot and edit images. With digital twins, brands have the flexibility and scalability at low cost to create thousands of variants on a single product image, including labels, packaging, and language formats—all within a single file.</p>
+<p>AI empowers not only productivity but <em>creativity</em>. Digital twins are hyper-realistic, enabling content managers to easily and endlessly modify or expand on a concept using a 3D product model with a few clicks. Creatives can reallocate time spent in operational “to do’s” to storytelling, strategy, and delivery by channel. Brands can even showcase products in both static and dynamic formats because AI models aren’t limited to one dimension.</p>
+<p><strong>Net-net</strong>: Digital twins for product images, videos, and interactive experiences simplify content workflows and allow you to:</p>
+<ul class="wp-block-list">
+<li>Generate endless product images or videos using a single digital twin.</li>
+<li>Refresh imagery for markets or seasons without reshoots.</li>
+<li>Reduce repetitive labor for creatives while shortening production timelines.</li>
+<li>Test creative concepts instantly without adding costs.</li>
+<li>Update visuals across brands seamlessly.</li>
+</ul>
+<h3 class="wp-block-heading" id="making-it-real-nestle-reduces-associated-time-and-cost-by-70-with-scaling-digital-twins">Making it real: Nestlé reduces associated time and cost by 70% with scaling digital twins</h3>
+<p>Recently, Nestlé—the world’s largest food and beverage company—collaborated with Microsoft, <a href="https://www.accenture.com/us-en/about/accenture-song-index" target="_blank" rel="noreferrer noopener">Accenture Song</a>, and <a href="https://blogs.nvidia.com/blog/retail-agentic-physical-ai/" target="_blank" rel="noreferrer noopener">NVIDIA</a> to build and launch a new AI-powered in-house service to create high-quality product content at scale.</p>
+<p>With its new digital twin content supply chain powered by <a href="https://www.nvidia.com/en-us/omniverse/" target="_blank" rel="noreferrer noopener">NVIDIA Omniverse</a> on <a href="http://azure.microsoft.com" target="_blank" rel="noreferrer noopener">Microsoft Azure</a> and using <a href="https://www.microsoft.com/en-us/ai" target="_blank" rel="noreferrer noopener">Microsoft AI solutions</a>, content creators across Nestlé’s 45 content studios around the world can deliver high-quality creative assets at scale for e-commerce and marketing communications. Nestlé’s Integrated Marketing Services (IMS)—250 marketing experts in seven hubs—are working on scaling the digital twins and driving content localization.</p>
+<p>Nestlé already has a baseline of 4,000 3D digital products, mainly for global brands, with the ambition to convert a total of 10,000 products into digital twins in the next two years across global and local brands.</p>
+<p><strong>Proving the value of AI investments in digital twins</strong>:</p>
+<ul class="wp-block-list">
+<li>70% reduced time and cost associated with scaling digital twins.</li>
+<li>Faster content production for several brands, including Purina, Nescafé Dolce Gusto, and Nespresso.</li>
+<li>Better ability to position iconic brands in a fast-moving digital environment.</li>
+<li>Seamless updates for seasonal campaigns or channel-specific formats.</li>
+</ul>
+<p>For Nestlé, these technologies are proving to be catalysts for creative ingenuity, revolutionizing creative workflows in design, supercharging content creation, and enabling nuanced personalization—positioning Nestlé at the forefront of marketing.</p>
+<p>Learn more from this video about conversations Chief Marketing Officers had with Microsoft at the recent Cannes Lions Festival of Creativity event:</p>
+<div class="wp-block-embed__wrapper">
+<div class="ms-metrics-youtube-container" data-video-id="6d5a1mc1N_E" id="ms-metrics-youtube-68766f594441c">
+<div class="ms-metrics-youtube-player"></div>
+</p></div>
+</p></div>
+<h2 class="wp-block-heading" id="2-digital-twins-enable-game-changing-one-to-one-consumer-experiences">2. Digital twins enable game-changing one-to-one consumer experiences</h2>
+<p>Digital twins are generating realistic virtual experiences that not only enhance the shopper journey but also hyper-personalize each touchpoint to create memorable brand moments. AI has enabled interoperability between datasets to unlock online configurators, virtual reality product trials and visualizations, and in-store displays.</p>
+<p><strong>Net-net</strong>: Embedding AI in user experiences is allowing consumer and retail goods companies to enable:</p>
+<ul class="wp-block-list">
+<li>Try-ons for beauty products and fashion.</li>
+<li>Configurators for custom merchandise.</li>
+<li>Interactive, 360-degree product views.</li>
+</ul>
+<h2 class="wp-block-heading" id="3-next-level-media-and-creative-together-at-last">3. Next level: Media and creative, together at last</h2>
+<p>The era of AI ushers in a world of “<a href="https://www.microsoft.com/en-us/worklab/ai-at-work-intelligence-on-tap-will-reshape-knowledge-work" target="_blank" rel="noreferrer noopener">intelligence on tap</a>.”</p>
+<p>Imagine if AI-powered digital product twins merge product imagery and consumer insights to create visuals targeted to specific audience segments or even individual customers.</p>
+<p>A combination of insights and digital twin content creation empowers marketers to optimize for better impact and even map future trends. The value of building digital twins goes beyond endless product image creation. CPG brands are now leveraging AI to connect real-time campaign insights to their content studios as a primary use case to prove value. Agents are being built to perform audience simulations, test images, content, and even segmentation strategy to drive higher return on ad spend (ROAS) or even predict impact.</p>
+<p><strong>Net-net</strong>: Use AI to connect media insights and content to:</p>
+<ul class="wp-block-list">
+<li>Simulate, refine, and test marketing scenarios and consumer responses.</li>
+<li>Increase campaign effectiveness with real-time, iterative feedback.</li>
+<li>Test and optimize personalized marketing strategies at scale.</li>
+<li>Model customer segments and predict campaign outcomes.</li>
+</ul>
+<h2 class="wp-block-heading" id="ai-as-a-tool-to-amplify-human-creativity">AI as a tool to amplify human creativity</h2>
+<p>As AI continues to evolve traditional processes and enhance productivity, marketers know human creativity remains a critical resource. With digital simulations and AI together, you can reallocate your valuable resources to more strategic, creative tasks; reduce costs and risk; and help your marketing teams optimize spend and focus on your number one KPI: growth.</p>
+<h2 class="wp-block-heading" id="learn-more">Learn more</h2>
+<ul class="wp-block-list">
+<li>Read the blogs:
+<ul class="wp-block-list">
+<li><a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/01/16/how-cmos-can-personalize-marketing-and-optimize-spend-with-ai/" target="_blank" rel="noreferrer noopener">How CMOs can personalize marketing and optimize spend with AI</a></li>
+<li><a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/04/10/more-human-centered-retail-with-ai/" target="_blank" rel="noreferrer noopener">More human-centered retail with AI</a></li>
+</ul>
+</li>
+<li>Learn more about <a href="https://www.nestle.com/media/news/brands-ai-digital-twins-content-service" target="_blank" rel="noreferrer noopener">Nestlé’s end-to-end content supply chain powered by digital twins</a>.</li>
+<li>Read the e-book: <a href="https://info.microsoft.com/ww-landing-transformative-retail-harnessing-ai-innovations-to-stay-ahead-e-book.html?lcid=EN-US" target="_blank" rel="noreferrer noopener">Transformative retail: Harness AI innovations to stay ahead</a>.</li>
+<li>Explore <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank" rel="noreferrer noopener">Microsoft’s responsible AI principles</a>.</li>
+</ul>
+<div class="wp-block-msxcm-cta-block" data-moray data-bi-an="CTA Block">
+<div class="card d-block mx-ng mx-md-0">
+<div class="row no-gutters material-color-brand-dark">
+<div class="col-md-4">
+					<img decoding="async" loading="lazy" width="1024" height="683" src="https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/12/CLO24-Azure-Retail-002-1024x683.jpg" class="card-img img-object-cover" alt="Azure solution in retail store. Empowered retails store manager in focus work viewing real-time data powered by Azure." />				</div>
+<div class="d-flex col-md">
+<div class="card-body align-self-center p-4 p-md-5">
+<h2>Microsoft Cloud for Retail</h2>
+<div class="mb-3">
+<p>Connect your customers, your people, and your data</p>
+</p></div>
+<div class="link-group">
+							<a href="https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail" class="btn btn-link text-decoration-none p-0"><br />
+								<span>Explore solutions</span><br />
+								<span class="glyph-append glyph-append-chevron-right glyph-append-xsmall"></span><br />
+							</a>
+						</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+</div>
+<p><a id="_msocom_1"></a></p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/07/15/the-next-wave-of-ai-for-content-creation-includes-digital-twins/">The next wave of AI for content creation includes digital twins</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning</title>
+		<link>https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2025 16:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Unlock faster, efficient reasoning with Phi-4-mini-flash-reasoning—optimized for edge, mobile, and real-time applications.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning/">Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 class="wp-block-heading" id="state-of-the-art-architecture-redefines-speed-for-reasoning-models">State of the art architecture redefines speed for reasoning models</h2>
+<p class="wp-block-paragraph">Microsoft is excited to unveil a new edition to the Phi model family: <strong>Phi-4-mini-flash-reasoning</strong>. Purpose-built for scenarios where compute, memory, and latency are tightly constrained, this new model is engineered to bring advanced reasoning capabilities to edge devices, mobile applications, and other resource-constrained environments. This new model follows Phi-4-mini, but is built on a new hybrid architecture, that achieves up to 10 times higher throughput and a 2 to 3 times average reduction in latency, enabling significantly faster inference without sacrificing reasoning performance. Ready to power real world solutions that demand efficiency and flexibility, Phi-4-mini-flash-reasoning is available on <a href="https://ai.azure.com/">Azure AI Foundry</a>, <a href="https://build.nvidia.com/microsoft" target="_blank" rel="noreferrer noopener">NVIDIA API Catalog</a>, and <a href="http://aka.ms/flashreasoning-hf" target="_blank" rel="noreferrer noopener">Hugging Face</a> today.</p>
+<aside class="cta-block cta-block--align-left cta-block--has-image wp-block-msx-cta" data-bi-an="CTA Block">
+<div class="cta-block__content">
+<div class="cta-block__image-container">
+				<img decoding="async" loading="lazy" width="1024" height="575" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Azure_Hero_Ellipse_OffWhite_FullGrad_cropped-1024x575.webp" class="cta-block__image" alt="A colorful background with a curved line" />			</div>
+<div class="cta-block__body">
+<h2 class="cta-block__headline">Azure AI Foundry</h2>
+<p class="cta-block__text">Create without boundaries—Azure AI Foundry has everything you need to design, customize, and manage AI applications and agents</p>
+<div class="cta-block__actions">
+					<a href="https://ai.azure.com/" class="btn cta-block__link btn-link"><br />
+						Explore solutions					</a>
+				</div>
+</p></div>
+</p></div>
+</aside>
+<h2 class="wp-block-heading" id="efficiency-without-compromise">Efficiency without compromise&nbsp;</h2>
+<p class="wp-block-paragraph">Phi-4-mini-flash-reasoning balances math reasoning ability with efficiency, making it potentially suitable for educational applications, real-time logic-based applications, and more.&nbsp;</p>
+<p class="wp-block-paragraph">Similar to its predecessor, Phi-4-mini-flash-reasoning is a 3.8 billion parameter open model optimized for advanced math reasoning. It supports a 64K token context length and is fine-tuned on high-quality synthetic data to deliver reliable, logic-intensive performance deployment.&nbsp;&nbsp;</p>
+<h2 class="wp-block-heading" id="what-s-new">What&#8217;s new?</h2>
+<p class="wp-block-paragraph">At the core of Phi-4-mini-flash-reasoning is the newly introduced decoder-hybrid-decoder architecture, SambaY, whose central innovation is the Gated Memory Unit (GMU), a simple yet effective mechanism for sharing representations between layers.&nbsp; The architecture includes a self-decoder that combines Mamba (a State Space Model) and Sliding Window Attention (SWA), along with a single layer of full attention. The architecture also involves a cross-decoder that interleaves expensive cross-attention layers with the new, efficient GMUs. This new architecture with GMU modules&nbsp;drastically improves decoding efficiency, boosts long-context retrieval performance and enables the architecture to deliver exceptional performance across a wide range of tasks.&nbsp;</p>
+<p class="wp-block-paragraph">Key benefits of the SambaY architecture include:&nbsp;</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">Enhanced decoding efficiency.</li>
+<li class="wp-block-list-item">Preserves linear prefiling time complexity.</li>
+<li class="wp-block-list-item">Increased scalability and enhanced long context performance.</li>
+<li class="wp-block-list-item">Up to 10 times higher throughput.</li>
+</ul>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Decoder-hybrid-decoder-architecture.webp" alt="A diagram of a computer program" class="wp-image-44177 webp-format" data-orig-src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Decoder-hybrid-decoder-architecture.webp"><figcaption class="wp-element-caption"><em>Our decoder-hybrid-decoder architecture taking Samba [RLL+25] as the self-decoder. Gated Memory Units (GMUs) are interleaved with the cross-attention layers in the cross-decoder to reduce the decoding computation complexity. As in YOCO [SDZ+24], the full attention layer only computes the KV cache during the prefilling with the self-decoder, leading to linear computation complexity for the prefill stage.</em></figcaption></figure>
+<h2 class="wp-block-heading" id="phi-4-mini-flash-reasoning-benchmarks">Phi-4-mini-flash-reasoning benchmarks&nbsp;</h2>
+<p class="wp-block-paragraph">Like all models in the Phi family, Phi-4-mini-flash-reasoning is deployable on a single GPU, making it accessible for a broad range of use cases. However, what sets it apart is its architectural advantage. This new model achieves significantly lower latency and higher throughput compared to Phi-4-mini-reasoning, particularly in long-context generation and latency-sensitive reasoning tasks.&nbsp;</p>
+<p class="wp-block-paragraph">This makes Phi-4-mini-flash-reasoning a compelling option for developers and enterprises looking to deploy intelligent systems that require fast, scalable, and efficient reasoning—whether on premises or on-device.&nbsp;</p>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Generation-Latencies.webp" alt="A graph of a number of people" class="wp-image-44178 webp-format" data-orig-src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Generation-Latencies.webp"></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Prompt-2000.webp" alt="A graph with red and blue dots and numbers" class="wp-image-44179 webp-format" data-orig-src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Prompt-2000.webp"><figcaption class="wp-element-caption"><em>The top plot shows inference latency as a function of generation length, while the bottom plot illustrates how inference latency varies with throughput. Both experiments were conducted using the vLLM inference framework on a single A100-80GB GPU with tensor parallelism (TP) set to 1.</em></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Math-benchmarks.webp" alt="A graph of different colored bars" class="wp-image-44181 webp-format" data-orig-src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/07/Math-benchmarks.webp"><figcaption class="wp-element-caption"><em>A more accurate evaluation was used where Pass@1 accuracy is averaged over 64 samples for AIME24/25 and 8 samples for Math500 and GPQA Diamond. In this graph, Phi-4-mini-flash-reasoning outperforms Phi-4-mini-reasoning and is better than models twice its size.</em></figcaption></figure>
+<h2 class="wp-block-heading" id="what-are-the-potential-use-cases">What are the potential use cases?&nbsp;</h2>
+<p class="wp-block-paragraph">Thanks to its reduced latency, improved throughput, and focus on math reasoning, the model is ideal for:&nbsp;</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>Adaptive learning platforms</strong>, where real-time feedback loops are essential.</li>
+<li class="wp-block-list-item"><strong>On-device reasoning assistants</strong>, such as mobile study aids or edge-based logic agents.</li>
+<li class="wp-block-list-item"><strong>Interactive tutoring systems</strong> that dynamically adjust content difficulty based on a learner’s performance.</li>
+</ul>
+<p class="wp-block-paragraph">Its strength in math and structured reasoning makes it especially valuable for education technology, lightweight simulations, and automated assessment tools that require reliable logic inference with fast response times.&nbsp;</p>
+<p class="wp-block-paragraph">Developers are encouraged to connect with peers and Microsoft engineers through the <a href="https://aka.ms/foundrydevs" target="_blank" rel="noreferrer noopener">Microsoft Developer Discord community</a> to ask questions, share feedback, and explore real-world use cases together.&nbsp;</p>
+<h2 class="wp-block-heading" id="microsoft-s-commitment-to-trustworthy-ai">Microsoft’s commitment to trustworthy AI&nbsp;</h2>
+<p class="wp-block-paragraph">Organizations across industries are leveraging Azure AI and <a href="https://www.microsoft.com/en-us/microsoft-365/copilot" target="_blank" rel="noreferrer noopener">Microsoft 365 Copilot</a> capabilities to drive growth, increase productivity, and create value-added experiences.&nbsp;</p>
+<p class="wp-block-paragraph">We’re committed to helping organizations use and build <a href="https://blogs.microsoft.com/blog/2024/09/24/microsoft-trustworthy-ai-unlocking-human-potential-starts-with-trust/" target="_blank" rel="noreferrer noopener">AI that is trustworthy</a>, meaning it is secure, private, and safe. We bring best practices and learnings from decades of researching and building AI products at scale to provide industry-leading commitments and capabilities that span our three pillars of security, privacy, and safety. Trustworthy AI is only possible when you combine our commitments, such as our <a href="https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative" target="_blank" rel="noreferrer noopener">Secure Future Initiative</a> and our <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank" rel="noreferrer noopener">responsible AI principles</a>, with our product capabilities to unlock AI transformation with confidence. &nbsp;</p>
+<p class="wp-block-paragraph">Phi models are developed in accordance with Microsoft AI principles: accountability, transparency, fairness, reliability and safety, privacy and security, and inclusiveness. &nbsp;</p>
+<p class="wp-block-paragraph">The Phi model family, including Phi-4-mini-flash-reasoning, employs a robust safety post-training strategy that integrates Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning from Human Feedback (RLHF). These techniques are applied using a combination of open-source and proprietary datasets, with a strong emphasis on ensuring helpfulness, minimizing harmful outputs, and addressing a broad range of safety categories. Developers are encouraged to apply responsible AI best practices tailored to their specific use cases and cultural contexts.&nbsp;</p>
+<p class="wp-block-paragraph">Read the model card to learn more about any risk and mitigation strategies. &nbsp;</p>
+<h2 class="wp-block-heading" id="learn-more-about-the-new-model">Learn more about the new model&nbsp;</h2>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">Try out the new model on <a href="https://aka.ms/try-phi" target="_blank" rel="noreferrer noopener">Azure AI Foundry</a>.</li>
+<li class="wp-block-list-item">Find code samples and more in the <a href="https://aka.ms/phicookbook" target="_blank" rel="noreferrer noopener">Phi Cookbook</a>.</li>
+<li class="wp-block-list-item">Read the Phi-4-mini-flash-reasoning technical paper on <a href="http://aka.ms/flashreasoning-hf" target="_blank" rel="noreferrer noopener">Arxiv</a>.</li>
+<li class="wp-block-list-item">If you have questions, sign up for the <a href="https://discord.com/invite/azureaifoundry?event=1382861149288005693" target="_blank" rel="noreferrer noopener">Microsoft Developer “Ask Me Anything”</a>.&nbsp;</li>
+</ul>
+<h2 class="wp-block-heading" id="create-with-azure-ai-foundry">Create with Azure AI Foundry</h2>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">Get started with <a href="https://ai.azure.com/">Azure AI Foundry</a>, and jump directly into <a href="https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry" target="_blank" rel="noreferrer noopener">Visual Studio Code</a>.</li>
+<li class="wp-block-list-item">Download the <a href="https://aka.ms/aifoundrysdk" target="_blank" rel="noreferrer noopener">Azure AI Foundry SDK</a> .</li>
+<li class="wp-block-list-item">Take the <a href="https://aka.ms/CreateAgenticAISolutions" target="_blank" rel="noreferrer noopener">Azure AI Foundry learn courses</a>.</li>
+<li class="wp-block-list-item">Review the <a href="https://learn.microsoft.com/azure/ai-foundry/" target="_blank" rel="noreferrer noopener">Azure AI Foundry documentation</a>.</li>
+<li class="wp-block-list-item">Keep the conversation going in <a href="https://aka.ms/azureaifoundry/forum" target="_blank" rel="noreferrer noopener">GitHub</a> and <a href="https://aka.ms/azureaifoundry/discord" target="_blank" rel="noreferrer noopener">Discord</a>.</li>
+</ul>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning/">Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing Deep Research in Azure AI Foundry Agent Service</title>
+		<link>https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2025 17:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Announcing the public preview of Deep Research in Azure AI Foundry—an API and SDK-based offering of OpenAI’s advanced agentic research capability.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/">Introducing Deep Research in Azure AI Foundry Agent Service</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 class="wp-block-heading" id="unlock-enterprise-scale-web-research-automation">Unlock enterprise-scale web research automation</h2>
+<p class="wp-block-paragraph">Today we’re excited to announce the public preview of <strong>Deep Research in Azure AI Foundry</strong>—an API and software development kit&nbsp;(SDK)-based offering of OpenAI’s advanced agentic research capability, fully integrated with Azure’s enterprise-grade agentic platform.</p>
+<p class="wp-block-paragraph">With Deep Research, developers can build agents that deeply plan, analyze, and synthesize information from across the web—automate complex research tasks, generate transparent, auditable outputs, and seamlessly compose multi-step workflows with other tools and agents in <a href="https://azure.microsoft.com/en-us/products/ai-foundry/?msockid=36d156f74ff96d723016422b4e966cdb">Azure AI Foundry</a>.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://azure.microsoft.com/en-us/products/ai-foundry/?msockid=36d156f74ff96d723016422b4e966cdb">Create with Azure AI Foundry</a></div>
+</div>
+<h2 class="wp-block-heading" id="ai-agents-and-knowledge-work-meeting-the-next-frontier-of-research-automation">AI agents and knowledge work: Meeting the next frontier of research automation</h2>
+<p class="wp-block-paragraph">Generative AI and large language models have made research and analysis faster than ever, powering solutions like ChatGPT Deep Research and <a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/researcher-agent-in-microsoft-365-copilot/4397186" target="_blank" rel="noreferrer noopener">Researcher in Microsoft 365 Copilot</a> for individuals and teams. These tools are transforming everyday productivity and document workflows for millions of users.</p>
+<p class="wp-block-paragraph">As organizations look to take the next step—integrating deep research directly into their business apps, automating multi-step processes, and governing knowledge at enterprise scale—the need for programmable, composable, and auditable research automation becomes clear.</p>
+<p class="wp-block-paragraph">This is where Azure AI Foundry and Deep Research come in: offering the flexibility to embed, extend, and orchestrate world-class research as a service across your entire enterprise ecosystem—and connect it with your data and your systems.</p>
+<h2 class="wp-block-heading" id="deep-research-capabilities-in-azure-ai-foundry-agent-service">Deep Research capabilities in Azure AI Foundry Agent Service</h2>
+<p class="wp-block-paragraph">Deep Research in Foundry Agent Service is built for developers who want to move beyond the chat window. By offering Deep Research as a composable agent tool via API and SDK, Azure AI Foundry enables customers to:</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>Automate web-scale research</strong> using a best-in-class research model grounded with Bing Search, with every insight traceable and source-backed.</li>
+<li class="wp-block-list-item"><strong>Programmatically build agents</strong> that can be invoked by apps, workflows, or other agents—turning deep research into a reusable, production-ready service.</li>
+<li class="wp-block-list-item"><strong>Orchestrate complex workflows:</strong> Compose Deep Research agents with Logic Apps, <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/logic-apps?pivots=portal">Azure Functions</a>, and other Foundry Agent Service connectors to automate reporting, notifications, and more.</li>
+<li class="wp-block-list-item"><strong>Ensure enterprise governance:</strong> With Azure AI Foundry’s security, compliance, and observability, customers get full control and transparency over how research is run and used.</li>
+</ul>
+<div class="wp-block-embed__wrapper">
+<div class="ms-metrics-youtube-container" data-video-id="ph4mPmMNDEQ" id="ms-metrics-youtube-686c4806047cb">
+<div class="ms-metrics-youtube-player"></div>
+</p></div>
+</p></div>
+<p class="wp-block-paragraph">Unlike packaged chat assistants, Deep Research in Foundry Agent Service can evolve with your needs—ready for automation, extensibility, and integration with future internal data sources as we expand support.</p>
+<h2 class="wp-block-heading" id="how-it-works-architecture-and-agent-flow">How it works: Architecture and agent flow</h2>
+<p class="wp-block-paragraph">Deep Research in Foundry Agent Service is architected for flexibility, transparency, and composability—so you can automate research that’s as robust as your business demands.</p>
+<p class="wp-block-paragraph">At its core, the Deep Research model, o3-deep-research,&nbsp;orchestrates a <strong>multi-step research pipeline</strong> that’s tightly integrated with <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/bing-grounding" target="_blank" rel="noreferrer noopener">Grounding with Bing Search</a>&nbsp;and leverages the latest OpenAI models:</p>
+<ol start="1" class="wp-block-list">
+<li class="wp-block-list-item"><strong>Clarifying intent and scoping the task:</strong><br />When a user or downstream app submits a research query, the agent uses GPT-series models including GPT-4o and GPT-4.1 to clarify the question, gather additional context if needed, and precisely scope the research task. This ensures the agent’s output is both relevant and actionable, and that every search is optimized for your business scenario.</li>
+<li class="wp-block-list-item"><strong>Web grounding with Bing Search:</strong><br />Once the task is scoped, the agent securely invokes the Grounding with Bing Search tool to gather a curated set of high-quality, recent web data. This ensures the research model is working from a foundation of authoritative, up-to-date sources—no hallucinations from stale or irrelevant content.</li>
+<li class="wp-block-list-item"><strong>Deep Research task execution:</strong><br />The o3-deep-research model starts the&nbsp;research task&nbsp;execution. This involves&nbsp;thinking, analyzing, and synthesizing information across all discovered sources. Unlike simple summarization, it reasons step-by-step, pivots as it encounters new insights, and composes a comprehensive answer that’s sensitive to nuance, ambiguity, and emerging patterns in the data.</li>
+<li class="wp-block-list-item"><strong>Transparency, safety, and compliance:</strong><br />The final output is a structured report that documents not only the answer, but also the model’s reasoning path, source citations, and any clarifications requested during the session. This makes every answer fully auditable—a must-have for regulated industries and high-stakes use cases.</li>
+<li class="wp-block-list-item"><strong><strong>Programmatic integration and composition</strong>:</strong><br />By exposing Deep Research as an API, Azure AI Foundry empowers you to invoke research from anywhere—custom business apps, internal portals, workflow automation tools, or as part of a larger agent ecosystem. For example, you can trigger a research agent as part of a multi-agent chain: one agent performs deep web analysis, another generates a slide deck with Azure Functions, while a third emails the result to decision makers with <a href="https://azure.microsoft.com/en-us/products/logic-apps/?msockid=36d156f74ff96d723016422b4e966cdb">Azure Logic Apps</a>. This composability is the real game-changer: research is no longer a manual, one-off task, but a building block for digital transformation and continuous intelligence.</li>
+</ol>
+<p class="wp-block-paragraph">This flexible architecture means Deep Research can be seamlessly embedded into a wide range of enterprise workflows and applications. Already, organizations across industries are evaluating how these programmable research agents can streamline high-value scenarios—from market analysis and competitive intelligence, to large-scale analytics and regulatory reporting.</p>
+<p class="wp-block-paragraph">Pricing for Deep Research (model: <strong>o3-deep-research</strong>) is as follows:&nbsp;</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>Input:</strong> $10.00 per 1M tokens.</li>
+<li class="wp-block-list-item"><strong>Cached Input:</strong> $2.50 per 1M tokens.</li>
+<li class="wp-block-list-item"><strong>Output:</strong> $40.00 per 1M tokens.</li>
+</ul>
+<p class="wp-block-paragraph">Search context tokens are charged input token prices for the model being used.<strong> </strong>You’ll separately incur charges for <a href="https://www.microsoft.com/en-us/bing/apis/grounding-pricing" target="_blank" rel="noreferrer noopener">Grounding with Bing Search</a> and the base GPT model being used for clarifying questions.&nbsp;&nbsp;</p>
+<h2 class="wp-block-heading" id="get-started-with-deep-research">Get started with Deep Research</h2>
+<p class="wp-block-paragraph"><strong>Deep Research</strong> is available now in limited public preview for Azure AI Foundry Agent Service customers. To get started:</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">Sign up for the <a href="https://aka.ms/oai/deepresearchaccess" target="_blank" rel="noreferrer noopener">limited public preview</a> to gain early access.</li>
+<li class="wp-block-list-item">Visit <a href="https://aka.ms/agents-deep-research">our documentation</a> to learn more about the feature.</li>
+<li class="wp-block-list-item">Visit our&nbsp;<a href="https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/?source=docs" target="_blank" rel="noreferrer noopener">learning modules</a>&nbsp;to build your first agent with Azure AI Foundry Agent Service.</li>
+<li class="wp-block-list-item">Start building your agents today in&nbsp;<a href="https://ai.azure.com/">Azure AI Foundry</a>.</li>
+</ul>
+<p class="wp-block-paragraph">We can’t wait to see the innovative solutions you’ll build. Stay tuned for customer stories, new features, and future enhancements that will continue to unlock the next generation of enterprise AI agents.</p>
+<aside class="cta-block cta-block--align-left cta-block--has-image wp-block-msx-cta" data-bi-an="CTA Block">
+<div class="cta-block__content">
+<div class="cta-block__image-container">
+				<img decoding="async" loading="lazy" width="1024" height="683" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/04/a6f84316-850b-4675-b345-30ceb609c577.jpg" class="cta-block__image" alt="A woman sits at a table with a Microsoft tablet and a cell phone. She smiles at the tablet." />			</div>
+<div class="cta-block__body">
+<h2 class="cta-block__headline">Azure AI Foundry</h2>
+<p class="cta-block__text">Get enterprise AI without enterprise complexity.</p>
+<div class="cta-block__actions">
+					<a href="https://azure.microsoft.com/en-us/products/ai-foundry/?msockid=36d156f74ff96d723016422b4e966cdb" class="btn cta-block__link btn-link"><br />
+						Learn more &gt;					</a>
+				</div>
+</p></div>
+</p></div>
+</aside>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/">Introducing Deep Research in Azure AI Foundry Agent Service</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building secure, scalable AI in the cloud with Microsoft Azure</title>
+		<link>https://azure.microsoft.com/en-us/blog/building-secure-scalable-ai-in-the-cloud-with-microsoft-azure/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Forrester Research shows how Azure helps enterprises scale generative AI securely, overcoming infrastructure and compliance challenges to unlock real business value.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/building-secure-scalable-ai-in-the-cloud-with-microsoft-azure/">Building secure, scalable AI in the cloud with Microsoft Azure</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Generative AI is a transformative force, redefining how modern enterprises operate. It has quickly become central to how businesses drive productivity, innovate, and deliver impact. The pressure is on: organizations must move fast to not only adopt AI, but to unlock real value at scale or risk falling behind.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">Achieving enterprise-wide deployment of AI securely and efficiently is no easy feat. Generative AI is like rocket fuel. It can propel businesses to new heights, but only with the right infrastructure and controls in place. To accelerate safely and strategically, enterprises are turning to <a href="http://azure.microsoft.com">Microsoft Azure</a> as mission control. Tapping into Azure’s powerful cloud infrastructure and advanced security solutions allows teams to effectively build, deploy, amplify, and see real results from generative AI.&nbsp;</p>
+<p class="wp-block-paragraph">To understand how businesses are preparing for AI, we commissioned Forrester Consulting to <a href="https://tei.forrester.com/go/Microsoft/AzureAIReadiness/?lang=en-us" target="_blank" rel="noreferrer noopener">survey Azure customers</a>. The resulting 2024 Forrester Total Economic Impact<sup>TM</sup> study uncovers the steps businesses take to become AI-ready, the challenges of adopting generative AI in the cloud, and how Azure’s scalable infrastructure and built-in security helps businesses deploy AI with confidence.&nbsp;</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tei.forrester.com/go/Microsoft/AzureAIReadiness/?lang=en-us"><strong>Read the full study to learn how organizations are leveraging Azure for AI-readiness and to run generative AI securely in the cloud</strong></a></div>
+</div>
+<h2 class="wp-block-heading" id="challenges-with-scaling-generative-ai-on-premises">Challenges with scaling generative AI on-premises&nbsp;</h2>
+<p class="wp-block-paragraph">Scaling generative AI is like designing transportation systems for a rapidly growing city. Just as urban expansion demands modern transportation infrastructure to function efficiently, AI leaders understand that implementing AI in a meaningful way requires a cloud foundation that is powerful, flexible, and built to handle future demand. AI leaders recognize that the power and agility of the cloud is needed to achieve their desired outcomes.&nbsp;&nbsp;</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item">In fact, 72% of surveyed respondents whose organization migration to Azure for AI-readiness reported that the migration was necessary or reduced the barriers to enabling AI.</li>
+<li class="wp-block-list-item">65% of business leaders agreed that deploying generative AI in the cloud would meet their organizational objectives to avoid restrictions and limitations of on-prem deployments.&nbsp;</li>
+</ul>
+<p class="wp-block-paragraph">Businesses that run most or all of their generative AI workloads on-premises face significant roadblocks. On-premises systems, often lacking the agility offered by the cloud, resemble outdated roadways—prone to congestion, difficult to maintain, expensive to expand, and ill-equipped for today’s demands. Businesses attempting to scale AI in these environments encounter complicated obstacles—including infrastructure limitations, a shortage of specialized talent, and integration challenges that slow innovation—that are frustrating to overcome. Challenges like limited network bandwidth and fragmented data environments further complicate adoption.</p>
+<p class="wp-block-paragraph">Deploying generative AI safely is crucial to protecting sensitive data, maintaining compliance, and mitigating risk. Surveyed decision-makers identified four key areas of concerns:&nbsp;</p>
+<ol class="wp-block-list">
+<li class="wp-block-list-item"><strong>Data privacy risks</strong>, especially with the proliferation of AI-generated content.</li>
+<li class="wp-block-list-item"><strong>Lack of expertise </strong>regarding generative AI security best practices.</li>
+<li class="wp-block-list-item"><strong>Compliance complexities</strong> with evolving regulations around AI use and data protection.</li>
+<li class="wp-block-list-item"><strong>Shadow IT risks</strong>, as users turn to unauthorized tools and apps, exposing organizations to vulnerabilities.</li>
+</ol>
+<p class="wp-block-paragraph">To overcome these challenges, it’s important to partner with a cloud platform that provides built-in security and regulatory compliance. Cloud migration provides the scalable infrastructure, integrated applications, and AI-ready data foundation necessary for generative AI success. Survey respondents who have already transitioned many or all AI workloads to Azure report enhanced global reach, scalability, and flexibility, all major advantages in today’s rapidly evolving AI landscape.&nbsp;</p>
+<h2 class="wp-block-heading" id="why-enterprise-chooses-azure-for-ai-readiness">Why enterprise chooses Azure for AI-readiness&nbsp;</h2>
+<p class="wp-block-paragraph">Infrastructure limitations are a barrier to scaling generative AI. On-premises environments often hinder performance, increase costs, and slow innovation. According to our survey, 75% of organizations migrating to Azure for AI-readiness reported that the migration was necessary or it significantly reduced barriers to generative AI adoption.&nbsp;</p>
+<p class="wp-block-paragraph">While the benefits of deploying generative AI in the cloud are clear, teams still face hurdles in adopting AI responsibly. Vulnerabilities, limited expertise in AI security, and data privacy risks are the most prominent concerns. Azure addresses these concerns with comprehensive frameworks that safeguard generative AI workloads end-to-end, from development to runtime.&nbsp;</p>
+<p class="wp-block-paragraph">Surveyed leaders cited Azure’s colocation strategy as a top reason for partnering with Azure for deploying generative AI, eliminating data silos and optimizing performance. <a href="https://azure.microsoft.com/en-us/products/defender-for-cloud/" target="_blank" rel="noreferrer noopener">Microsoft Defender for Cloud</a> and <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank" rel="noreferrer noopener">Microsoft Sentinel</a> enhance protection and make Azure a trusted platform for safe, enterprise-grade generative AI deployment.&nbsp;</p>
+<h2 class="wp-block-heading" id="4-key-differentiators-for-deploying-generative-ai-with-azure">4 key differentiators for deploying generative AI with Azure</h2>
+<h3 class="wp-block-heading" id="1-enterprise-grade-security-and-compliant-solutions">1. Enterprise-grade security and compliant solutions</h3>
+<p class="wp-block-paragraph">Security concerns are a primary challenge when deploying generative AI in the cloud. Azure protects AI workloads from code to cloud. Azure’s multi-layered approach helps modern organizations meet compliance standards and minimizes risks across the entire AI lifecycle. Key solutions including Defender for Cloud, Microsoft Sentinel, <a href="https://azure.microsoft.com/en-us/products/key-vault/" target="_blank" rel="noreferrer noopener">Microsoft Azure Key Vault</a>, and <a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/" target="_blank" rel="noreferrer noopener">infrastructure as a service (IaaS)</a> provide end-to-end protection for generative AI workloads, ensuring data privacy, development lifecycle protection, and threat management. Backed by Microsoft’s enterprise-grade security, compliance, and responsible AI commitments, Azure empowers teams to build AI solutions that are not only powerful but also <a href="https://www.microsoft.com/en-us/ai/principles-and-approach" target="_blank" rel="noreferrer noopener">ethical, transparent, and compliant</a>.&nbsp;</p>
+<h3 class="wp-block-heading" id="2-scalable-cloud-infrastructure">2. Scalable cloud infrastructure</h3>
+<p class="wp-block-paragraph">Azure&#8217;s cloud infrastructure allows businesses to avoid the constraints of legacy environments, enabling them to launch AI projects efficiently and securely. Azure brings a suite of advanced AI and machine learning tools to the table that are mission critical for generative AI success, enabling organizations to break free from siloed data, outdated security frameworks, and infrastructure bottlenecks. By deploying generative AI in the cloud, businesses can accelerate innovation, streamline operations, and build AI-powered solutions with confidence.&nbsp;</p>
+<h3 class="wp-block-heading" id="3-unified-data-and-ai-management">3. Unified data and AI management</h3>
+<p class="wp-block-paragraph">Effective AI starts with a solid data foundation. Azure’s data integration and management solutions—<a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer noopener">Microsoft Fabric</a>, <a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer noopener">Azure Synapse Analytics</a>, and <a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank" rel="noreferrer noopener">Azure Databricks</a>—enable organizations to centralize data, improve governance, and optimize AI model performance. By moving beyond the limitations of legacy on-premises environments, businesses gain seamless data access, better compliance, and the scalability needed to drive AI innovation for enterprise. With Azure, organizations can harness high-quality, well-governed data to power more accurate and reliable AI outcomes.&nbsp;</p>
+<h3 class="wp-block-heading" id="4-faster-innovation">4. Faster innovation</h3>
+<p class="wp-block-paragraph">By adopting Azure, resources can be redirected from infrastructure maintenance to AI-powered innovation. Azure’s flexible, secure cloud environment enables businesses to experiment, adapt, and evangelize AI solutions with less risk than traditional on-premises deployments. Surveyed organizations using Azure reported more than twice the confidence in their ability to build and refine AI and machine learning applications compared to those relying on on-premises infrastructure. Key benefits include greater flexibility, reduced risk when modifying AI solutions, and the ability to reinvest infrastructure resources into AI upskilling and innovation.&nbsp;</p>
+<h2 class="wp-block-heading" id="the-business-impact-of-secure-generative-ai-on-azure">The business impact of secure generative AI on Azure&nbsp;</h2>
+<p class="wp-block-paragraph">Migrating to Azure for AI deployment enhances performance and operational efficiency. Benefits include:&nbsp;</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>Optimized resource allocation</strong>: Migrating to the cloud frees IT teams from infrastructure management, allowing them to focus on strategic initiatives—such as developing generative AI use cases—that drive meaningful business impact.</li>
+<li class="wp-block-list-item"><strong>Accelerated time to value</strong>: Azure AI services empower data scientists, AI and machine learning engineers, and developers, helping them to deliver high-quality models faster.</li>
+<li class="wp-block-list-item"><strong>Enhanced security and compliance</strong>: Azure&#8217;s integrated security tools protect workloads, reduce breach risks, and meet evolving compliance standards.</li>
+<li class="wp-block-list-item"><strong>Higher AI application performance</strong>: Deploying generative AI with Azure improves application performance—driving innovation and growth.&nbsp;</li>
+</ul>
+<h2 class="wp-block-heading" id="innovation-without-compromise">Innovation without compromise&nbsp;</h2>
+<p class="wp-block-paragraph">As IT professionals and digital transformation leaders navigate the complexities of AI adoption, Azure stands out as a trusted partner for enterprise AI-readiness. With advanced infrastructure, safe and responsible AI practices, and built-in security, Azure offers a <a href="http://azure.microsoft.com">secure and scalable foundation</a> for building and running generative AI in the cloud. With Azure, organizations can unlock the full potential of generative AI to drive innovation, accelerate growth, and lasting business value.</p>
+<aside class="cta-block cta-block--align-left cta-block--has-image wp-block-msx-cta" data-bi-an="CTA Block">
+<div class="cta-block__content">
+<div class="cta-block__image-container">
+				<img decoding="async" loading="lazy" width="1024" height="575" src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/06/Azure_Blog_Abstract-04_1260x708-1-1024x575.jpg" class="cta-block__image" alt="A colorful lines on a white background" />			</div>
+<div class="cta-block__body">
+<h2 class="cta-block__headline">Forrester Research</h2>
+<p class="cta-block__text">Microsoft customers rely on Azure for AI-readiness to build and run generative AI securely in the cloud</p>
+<div class="cta-block__actions">
+					<a href="https://tei.forrester.com/go/Microsoft/AzureAIReadiness/?lang=en-us" class="btn cta-block__link btn-link"><br />
+						Read the full study					</a>
+				</div>
+</p></div>
+</p></div>
+</aside>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/building-secure-scalable-ai-in-the-cloud-with-microsoft-azure/">Building secure, scalable AI in the cloud with Microsoft Azure</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Premier League and Microsoft join forces to create fan-friendly digital platforms</title>
+		<link>https://news.microsoft.com/source/2025/07/01/premier-league-and-microsoft-join-forces-to-create-fan-friendly-digital-platforms/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 13:51:31 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Tags: AI</p>
+<p>The post <a href="https://news.microsoft.com/source/2025/07/01/premier-league-and-microsoft-join-forces-to-create-fan-friendly-digital-platforms/">Premier League and Microsoft join forces to create fan-friendly digital platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<article id="single-21216" class="mssrc-features font-- has--theme" data-clarity-region="article">
+<div class="acf-innerblocks-container">
+<div class="post__content">
+</div>
+</div>
+<section class="post-tags">
+<div class="post-tags__content wp-block-columns">
+<div class="post-tags__header wp-block-column flex-basis-25 has-text-align-right">
+<h4 class="sr-only">Tags: </h4>
+</p></div>
+<div class="post-tags__body wp-block-column flex-basis-60">
+<ul class="post-tags__list">
+<li class="post-tags__item"><a href="https://news.microsoft.com/source/tag/ai/" class="kicker inline-block post__meta--tags">AI</a>			</div></div>
+</section>
+</article>
+<p>The post <a href="https://news.microsoft.com/source/2025/07/01/premier-league-and-microsoft-join-forces-to-create-fan-friendly-digital-platforms/">Premier League and Microsoft join forces to create fan-friendly digital platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 ways AI is supercharging research in financial services</title>
+		<link>https://www.microsoft.com/en-us/industry/blog/financial-services/2025/06/30/5-ways-ai-is-supercharging-research-in-financial-services/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Mon, 30 Jun 2025 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Microsoft is enhancing research and analytics with AI for investment banks, asset management firms, and financial data and analytics providers.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/financial-services/2025/06/30/5-ways-ai-is-supercharging-research-in-financial-services/">5 ways AI is supercharging research in financial services</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As the capital markets industry has expanded both in scope and complexity, research has only become more essential. Since the late twentieth century, globalization, specialization, and increasingly complex regulatory frameworks have all elevated research from an interesting competitive differentiator to a competitive imperative. Now, with the application of increasingly powerful AI solutions, research is poised to become the defining factor in determining winners and losers in a rapidly shifting landscape.&nbsp;&nbsp;</p>
+<p>At Microsoft, we develop highly tailored, long-term technology partnerships with financial services firms around the world. Increasingly, this includes <a href="https://www.microsoft.com/en-us/industry/financial-services/microsoft-cloud-for-financial-services">co-innovating with AI</a> to help unlock new business value and deepen customer relationships. At present, enhancing research and analytics with AI is one of the primary transformation levers for investment banks, asset management firms, and financial data and analytics providers. In many cases, it is helping to solve longstanding challenges around deriving greater value from data and rapidly converting insights into competitive advantage.&nbsp;</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/industry/financial-services/microsoft-cloud-for-financial-services">Explore AI solutions with Microsoft for financial services</a></div>
+</div>
+<h2 class="wp-block-heading" id="realizing-the-promise-of-data-driven-research-through-ai">Realizing the promise of data-driven research through AI&nbsp;</h2>
+<p>AI is rapidly changing the nature and value of advanced analytics in research. Traditional analytics have long helped firms understand what happened and why—but AI is helping them predict what will happen next and prescribe optimal courses of action in real time.</p>
+<p>This shift from retrospective analysis to proactive intelligence can help firms unlock new sources of value and ultimately develop groundbreaking new products that redefine the competitive landscape.&nbsp;</p>
+<p>As innovative firms recognize the potential of AI, they also see the opportunity to address longstanding challenges that hinder effective research. Among these:&nbsp;&nbsp;</p>
+<ul class="wp-block-list">
+<li><strong>Data overload and complexity</strong><br />Financial markets are inundated with massive volumes of data from diverse, often siloed sources that can be difficult to integrate and synthesize. This makes it hard to access the right data at the right time, which can slow decision-making and heighten risk. As data requirements become more complex, solutions are needed that can unify, structure, and analyze data at scale to deliver timely, actionable insights.</li>
+<li><strong>Fragmented workflows across user journeys</strong><br />Research analysts frequently struggle to navigate large volumes of disparate data housed in disconnected systems, tools, and formats, leading to time-consuming manual data compilation and synthesis. The increase in non-integrated tools, applications, and data structures disrupts business workflows and can lead to inefficiencies, duplication of effort, errors of omission, and delays in decision-making.</li>
+<li><strong>Dependency on traditional data sources</strong><br />Many firms and analysts rely heavily on conventional market reference data, company fundamentals, industry reports, and databases, which often lack real-time insights and limit the speed and accuracy of market predictions. As new opportunities arise, firms need solutions that can extract more value out of existing sources while also making it easy to incorporate alternative and real-time sources—enhancing both predictive accuracy and responsiveness to market shifts.</li>
+<li><strong>Information overload and time constraints</strong><br />Research and analyst professionals are always challenged to keep up with reports, emails, meetings, and chats. The overload tends to slow decision-making and increases the risk of missed opportunities. Stringent regulatory compliance requirements add additional demands.&nbsp;&nbsp;</li>
+</ul>
+<h2 class="wp-block-heading" id="five-ways-ai-redefines-the-value-of-research-in-financial-services">Five ways AI redefines the value of research in financial services&nbsp;</h2>
+<p>AI gives financial services firms new solutions to these longstanding barriers and opportunities to use data in new ways that can differentiate their offerings. Here are five important areas where AI can change the game:&nbsp;</p>
+<h3 class="wp-block-heading" id="1-advance-analysis-with-ai-powered-analytics">1. Advance analysis with AI-powered analytics&nbsp;</h3>
+<p>AI-powered analytics empower research analysts to cut through the noise of information overload and extract valuable insights with unprecedented speed and precision. The combination of AI with predictive analytics empowers researchers to analyze historical patterns more deeply, identify emerging trends, and make more informed investment decisions. This can ultimately help to improve engagement and win rates.&nbsp;</p>
+<p>A prime example of this is our partnership with Moody’s where we <a href="https://news.microsoft.com/source/2023/06/29/moodys-and-microsoft-develop-enhanced-risk-data-analytics-research-and-collaboration-solutions-powered-by-generative-ai/" target="_blank" rel="noreferrer noopener">co-developed innovative solutions</a> for research and risk assessment. Moody&#8217;s Research Assistant significantly increases productivity and effectiveness, with users reporting up to 80% time savings on data collection and 50% on analysis during the pilot phase.<sup>1</sup>&nbsp;&nbsp;</p>
+<h3 class="wp-block-heading" id="2-accelerate-operational-efficiency-through-intelligent-automation">2. Accelerate operational efficiency through intelligent automation&nbsp;</h3>
+<p>Traditional research processes—such as manual data compilation, synthesis, and report generation—are time-consuming and error-prone. AI-powered automation transforms them by integrating data sources, automating repetitive tasks, and promoting seamless collaboration across teams, which results in faster turnaround times, reduced operational costs, and improved operational efficiency. &nbsp;</p>
+<p>With tools like <a href="https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work" target="_blank" rel="noreferrer noopener">Microsoft Copilot</a>, <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/03/25/introducing-researcher-and-analyst-in-microsoft-365-copilot/?msockid=3ffcf3f0da3569e92687e70cdbbe6859" target="_blank" rel="noreferrer noopener">Researcher agent, and Analyst agent</a>, firms can significantly boost productivity and operational efficiency. These AI-powered assistants can handle such tasks as summarizing investor reports and earnings calls, creating presentation-ready visualizations from raw data, and drafting research documents and client-ready insights quickly. This frees up valuable time for analysts to focus on higher-value activities, such as strategic analysis and client engagement.&nbsp;</p>
+<h3 class="wp-block-heading" id="3-deliver-real-time-insights">3. Deliver real-time insights&nbsp;</h3>
+<p>To help meet the accelerating pace of business, AI-powered applications empower financial services firms to surface real-time insights from a variety of sources including market news, earnings reports, and social media.&nbsp;&nbsp;</p>
+<p>Bridging knowledge across platforms helps analysts identify emerging trends faster and develop better investment strategies. For example, AI can continuously monitor global news sources and sentiment signals to identify early indicators of market shifts and potential disruptions. Firms can then use this information to react swiftly and make proactive investment decisions ahead of competitors.&nbsp;</p>
+<p>Firms can build new AI-powered solutions that incorporate real-time data into advanced searches, personalization, and recommendations, using innovations like the powerful <a href="https://azuremarketplace.microsoft.com/en-us/marketplace/apps/firstderivativesplc1596469572732.kdb-ai-deployment?tab=Overview" target="_blank" rel="noreferrer noopener">vector database built by KX</a>—essentially, a specialized system that understands the meaning and context of a huge set of data types such as text, images, or PDFs. It aims to help financial institutions seize opportunities faster by turning real-time data into real-time action.&nbsp;</p>
+<h3 class="wp-block-heading" id="4-empower-employees-with-high-value-experiences">4. Empower employees with high-value experiences&nbsp;</h3>
+<p>AI-powered tools can transform how financial services professionals work with tools and solutions that support the most critical research functions, such as financial modeling and pitchbook preparation. Processes can be significantly streamlined while remaining interoperable, secure, and compliant. &nbsp;</p>
+<p>A good example of this is the innovation resulting from our <a href="https://blogs.microsoft.com/blog/2022/12/11/empowering-the-future-of-financial-markets-with-london-stock-exchange-group/" target="_blank" rel="noreferrer noopener">long-term strategic partnership with LSEG</a> (London Stock Exchange Group) to transform data with next-generation productivity and analytics solutions. One recent advancement is the launch of the <a href="https://www.lseg.com/en/data-analytics/products/workspace/updates/lseg-launches-workspace-add-in-for-excel-and-powerpoint" target="_blank" rel="noreferrer noopener">LSEG Workspace Add-in</a>, which integrates AI-powered insights into Excel and PowerPoint. With features like contextual data discovery and interactive charting, the add-in can help financial professionals work faster and more insightfully.&nbsp;</p>
+<p>Reducing the burden of manual tasks can also help boost job satisfaction. The integration of AI into daily workflows helps people focus on more intellectually stimulating activities, freeing up time for higher-value analysis and strategic thinking, and helping to attract and retain top talent.&nbsp;</p>
+<h3 class="wp-block-heading" id="5-deepen-market-understanding">5. Deepen market understanding&nbsp;</h3>
+<p>AI-powered analytics are transforming how analysts understand markets and convert insights into action. By processing vast amounts of financial data in real-time, AI can uncover complex patterns and correlations that were previously undetectable, such as market sentiment from news articles and social media or a real-time pulse on investor sentiment or market dynamics. Machine learning models can predict stock price movements with greater accuracy by integrating diverse data sources, including economic indicators and company performance metrics.&nbsp;</p>
+<p>A richer view of market forces and dynamics translates into better decision-making and sharper investment strategies. It helps firms anticipate emerging risks and opportunities sooner, enabling them to respond faster and more confidently in an increasingly volatile market landscape.&nbsp;</p>
+<h2 class="wp-block-heading" id="now-is-the-time-for-agentic-ai">Now is the time for agentic AI&nbsp;</h2>
+<p>A new class of AI tools will soon deliver the ability to plan, reason, and take actions to achieve goals. In financial services, they will be able to gather, analyze, and contextualize information autonomously from diverse sources and proactively surface relevant insights—or even suggest strategic actions based on real-time developments.&nbsp;</p>
+<p>On the near horizon, advanced “orchestrator” agents will focus on new capabilities in distinct functional areas such as market intelligence, data aggregation, strategy simulation, reporting, and compliance. This holds the potential for powerful competitive advantages, helping analysts to stay ahead of market shifts, make more accurate predictions, and deliver higher-impact recommendations.&nbsp;</p>
+<h2 class="wp-block-heading" id="learn-more">Learn more&nbsp;</h2>
+<ul class="wp-block-list">
+<li>To learn more about how your organization can adopt AI, start by engaging with your Microsoft representative or service provider, or get in touch with a <a href="https://go.microsoft.com/fwlink/?linkid=2255354&amp;clcid=0x409&amp;culture=en-us&amp;country=us" target="_blank" rel="noreferrer noopener">Microsoft representative today</a>.</li>
+<li>Explore how Copilot can become the UI for AI in your business by visiting <a href="https://www.microsoft.com/en-us/microsoft-365/copilot/meet-copilot" target="_blank" rel="noreferrer noopener">Microsoft 365 Copilot</a> and learn about implementation at <a href="https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/" target="_blank" rel="noreferrer noopener">Microsoft Learn</a>.</li>
+<li>For more on how to accelerate your company’s success with AI, read our whitepaper, <a href="https://info.microsoft.com/ww-landing-building-a-foundation-for-ai-success.html" target="_blank" rel="noreferrer noopener">Building a Foundation for AI Success: A Leader’s Guide</a>.</li>
+</ul>
+<div class="wp-block-msxcm-cta-block" data-moray data-bi-an="CTA Block">
+<div class="card d-block mx-ng mx-md-0">
+<div class="row no-gutters material-color-brand-dark">
+<div class="col-md-4">
+					<img decoding="async" loading="lazy" width="943" height="628" src="https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/03/539fbd8d-47fa-4c31-ba99-ce9101f5466b-social.jpg" class="card-img img-object-cover" alt="Looking up at tall buildings in a financial district" />				</div>
+<div class="d-flex col-md">
+<div class="card-body align-self-center p-4 p-md-5">
+<h2>Microsoft for financial services</h2>
+<div class="mb-3">
+<p>Unlock business value and deepen customer relationships in the era of AI</p>
+</p></div>
+<div class="link-group">
+							<a href="https://www.microsoft.com/en-us/industry/financial-services/microsoft-cloud-for-financial-services" class="btn btn-link text-decoration-none p-0"><br />
+								<span>Learn more</span><br />
+								<span class="glyph-append glyph-append-chevron-right glyph-append-xsmall"></span><br />
+							</a>
+						</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+</div>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<p><sup>1 </sup><a href="https://ir.moodys.com/press-releases/news-details/2023/Moodys-Launches-Moodys-Research-Assistant-a-GenAI-Tool-to-Power-Analytic-Insights/default.aspx">Moody’s Investor Relations, “Moody’s Launches Moody’s Research Assistant,” December 2023</a>.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/financial-services/2025/06/30/5-ways-ai-is-supercharging-research-in-financial-services/">5 ways AI is supercharging research in financial services</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Microsoft 365 Copilot and agents help tackle the infinite workday</title>
+		<link>https://www.microsoft.com/en-us/microsoft-365/blog/2025/06/26/how-microsoft-365-copilot-and-agents-help-tackle-the-infinite-workday/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 19:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>AI presents both a once-in-a-generation opportunity and a challenge to help every employee conquer the infinite workday.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/06/26/how-microsoft-365-copilot-and-agents-help-tackle-the-infinite-workday/">How Microsoft 365 Copilot and agents help tackle the infinite workday</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">A new <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday" target="_blank" rel="noreferrer noopener">Work Trend Index special report</a><sup>1</sup> based on trillions of globally aggregated and anonymized productivity signals in Microsoft 365 reveals a new state of work: a seemingly infinite workday. Our data suggests that work is bleeding into early mornings, late nights, and everything in between: confirming what many people already feel.</p>
+<ul class="wp-block-list">
+<li class="wp-block-list-item"><strong>40%</strong> of people online at 6 AM are already reviewing email to prioritize their day.</li>
+<li class="wp-block-list-item">The average employee receives <strong>100+</strong> emails and <strong>150+</strong> Microsoft Teams messages each day.</li>
+<li class="wp-block-list-item">Most employees send or receive <strong>50+</strong> Teams messages outside of core working hours.</li>
+</ul>
+<p class="wp-block-paragraph">In our review, we saw that nearly one in three employees say it&#8217;s impossible to keep up with today&#8217;s pace of work. At a time when knowledge work has reached peak inefficiency, AI can be a lifeline—but it’s only part of the solution. Now is the time for leaders to rethink how work and teams are structured or risk accelerating a broken system. That means focusing on the 20% of work that drives 80% of the impact; designing flatter, more agile teams around the work chart, not the org chart; and reskilling every employee to be an agent boss.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://m365.cloud.microsoft/chat" target="_blank" rel="noreferrer noopener">Try Copilot Chat today</a></div>
+</div>
+<p class="wp-block-paragraph"><a href="https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born#section-intelligence-on-tap" target="_blank" rel="noreferrer noopener">Frontier Firms</a>—organizations rethinking work with AI at the center—are already seeing the impact. Our data shows that employees at these firms are more likely to say their company is thriving, more likely to say they can take on more work, and report having more opportunities to do meaningful work.</p>
+<p class="wp-block-paragraph">Let&#8217;s take a closer look at three strategies every leader needs to know now to adopt a Frontier Firm mindset:</p>
+<h2 class="wp-block-heading" id="1-apply-the-80-20-rule">1. Apply the 80/20 rule</h2>
+<p class="wp-block-paragraph">Yesterday’s work practices won’t cut it in the age of AI. The companies that will win won’t just work harder, they’ll work smarter—focusing on the 20% of work that delivers 80% of the impact—and ruthlessly streamline the rest.</p>
+<p class="wp-block-paragraph">AI can now reason and solve complex problems in truly remarkable ways, giving every business intelligence on demand that will rewrite the rules of business and transform knowledge work as we know it. Traditionally, companies have hired more employees or tapped more capital (financing, infrastructure, equipment) to increase output. Now, they can add digital labor in the form of reasoning agents to the mix.</p>
+<p class="wp-block-paragraph">Take <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/06/02/researcher-and-analyst-are-now-generally-available-in-microsoft-365-copilot/">Researcher</a> in Microsoft 365 Copilot, an agent that tackles multistep research at work, delivering insights with greater quality and accuracy than previously possible. It combines OpenAI’s deep research model with Microsoft 365 Copilot’s advanced orchestration and deep search capabilities. One good Researcher use case: white papers. I recently had a brief window—between a business trip and a family wedding—to deliver a timely paper to my team. In the past it would have taken me a few days to research, analyze, write, and edit. Working with Researcher, however, I was able to create a good draft, edit it in a single work block, and deliver a solid white paper to my team within a couple of hours.</p>
+<h2 class="wp-block-heading" id="2-redesign-for-the-work-chart">2. Redesign for the work chart</h2>
+<p class="wp-block-paragraph">Today, most companies structure their people and teams around org charts—marketing, finance, engineering—that are too rigid to leverage the opportunity that intelligence on demand offers. Frontier Firms organize differently, forgoing the org chart and embracing the work chart: agile, outcome-driven teams that form around a goal and use AI to fill skill gaps. On my own team at Microsoft, we’re looking at what we call the “Hollywood Model”: the right talent assembles to make a hit movie and then moves on to the next project. This means lean, dynamic teams that work in short (but intense) sprints, and faster pivots—and adding agents to the team.</p>
+<p class="wp-block-paragraph">Analyst thinks like a skilled data scientist, so your team can go from raw data to insights in minutes. Your team can use it to assess how discounts affect customer behavior, identify top customers who aren’t fully using products they’ve purchased, and visualize product sentiment and usage trends to inform go-to-market decisions.</p>
+<h2 class="wp-block-heading" id="3-empower-every-employee-to-become-an-agent-boss">3. Empower every employee to become an agent boss</h2>
+<p class="wp-block-paragraph">As agents increasingly join the workforce, we’re seeing the rise of the agent boss: an employee who builds, delegates to, and manages agents to amplify their impact—working smarter, scaling faster, and taking control of their career in the age of AI. From the boardroom to the front line, people need to think like the CEO of an agent-powered startup, directing teams of agents with specialized skills like research and data analysis.</p>
+<p class="wp-block-paragraph">We’ve made it easy to build agents in Microsoft 365 Copilot using <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noreferrer noopener">Microsoft Copilot Studio</a>. These agents can handle approvals, generate orders, manage workflows, and more. A sales professional might use one agent to draft client proposals and another to surface high-potential leads from CRM data. A researcher on my team uses three agents to supercharge his workflow: one scans for new research, another runs complex statistical analyses, and a third drafts briefs and summaries. By offloading time-consuming tasks, he can focus on high-level analysis and new ideas. Another agent boss at Microsoft <a href="https://www.microsoft.com/en-us/worklab/how-to-be-an-agent-boss" target="_blank" rel="noreferrer noopener">manages</a> his team of agents much like you would human employees—upskilling underperformers, providing regular feedback, and even conducting performance reviews.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noreferrer noopener">Try Copilot Studio for free</a></div>
+</div>
+<h2 class="wp-block-heading" id="reset-the-rhythm-of-work">Reset the rhythm of work</h2>
+<p class="wp-block-paragraph">Work is being rewritten in real time. Leaders have an opportunity to help every employee conquer the infinite workday, with a combination of AI and a Frontier Firm mindset. By applying the 80/20 rule, redesigning for the work chart, and empowering every employee to become an agent boss, every organization can transform into a Frontier Firm and seize the opportunity ahead.</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://m365.cloud.microsoft/chat" target="_blank" rel="noreferrer noopener">Try Copilot Chat today</a></div>
+</div>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<p class="wp-block-paragraph"><sup>1 </sup>Internal Microsoft findings, research completed worldwide.</p>
+<p class="wp-block-paragraph">
+<p class="wp-block-paragraph">
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/06/26/how-microsoft-365-copilot-and-agents-help-tackle-the-infinite-workday/">How Microsoft 365 Copilot and agents help tackle the infinite workday</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From potholes to personalization: What Abu Dhabi is teaching us about AI-powered smart cities</title>
+		<link>https://www.microsoft.com/en-us/industry/blog/government/2025/06/25/from-potholes-to-personalization-what-abu-dhabi-is-teaching-us-about-ai-powered-smart-cities/</link>
+		
+		<dc:creator><![CDATA[ceprodblogsupp]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 15:00:00 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>City governments are embracing generative AI to modernize services, empower employees, and personalize citizen experiences.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/government/2025/06/25/from-potholes-to-personalization-what-abu-dhabi-is-teaching-us-about-ai-powered-smart-cities/">From potholes to personalization: What Abu Dhabi is teaching us about AI-powered smart cities</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you ask many city government leaders how to win the hearts of citizens, the answer might very well be “potholes,” or, more specifically, fixing them.&nbsp;</p>
+<p>“Potholes not only tell you about the state of your infrastructure,” noted a Harvard researcher in 2019, “they also tell you about the nature of participation in your city.”<sup>1</sup> A city that fixes a pothole promptly is not just responsive, its constituents feel empowered to engage with government.&nbsp;</p>
+<p>In recent years, expectations have only risen on what governments need to deliver, leaving many cities struggling to deliver services in ways people prefer while also running a gauntlet of budgetary, regulatory, and societal challenges. On the one hand, citizens want to access great city services on par with how they do their banking or shopping—that is, secure, personalized experiences on smartphones and computing devices, rather than exclusively in-person. On the other hand, governments face unprecedented pressures in terms of funding, regulations, staffing, and cybercrime.&nbsp;</p>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/industry/government">Achieve your mission with Microsoft for government</a></div>
+</div>
+<p>To bridge this gap, more and more city governments are looking to use the force-multiplying power of generative AI. Its ability to converse in natural language and reason over vast stores of data, then find answers, compose messages, and orchestrate actions is not only solving longstanding modernization challenges, it’s also opening incredible new frontiers in city services.&nbsp;</p>
+<p>Helping city governments evaluate, explore, and successfully deploy high-impact solutions with AI is now the primary focus of our work at <a href="https://www.microsoft.com/en-us/industry/government">Microsoft for government</a>. In cities around the world, we have seen dramatic acceleration in generative AI innovation, with new solutions that are helping cities to:&nbsp;</p>
+<ul class="wp-block-list">
+<li>Deliver personalized services.</li>
+<li>Empower the professionals who serve the public.</li>
+<li>Derive better insights and greater value from data. </li>
+</ul>
+<h2 class="wp-block-heading" id="the-future-of-the-smart-city-is-already-here-in-abu-dhabi">The future of the smart city is already here—in Abu Dhabi&nbsp;</h2>
+<p>The President of the United Arab Emirates (UAE), His Highness Sheikh Mohamed bin Zayed Al Nahyan, launched an ambitious drive around 15 years ago to make government services more accessible and service-oriented. In Abu Dhabi, the nation’s capital, those efforts took a giant leap with the advent of AI, accelerating innovation that led to the <a href="https://news.microsoft.com/source/emea/features/tamm-app-abu-dhabi-government-services" target="_blank" rel="noreferrer noopener">launch of a new AI-powered government services platform</a> in October 2024.&nbsp;</p>
+<p>Aptly called TAMM—which in Arabic translates to “consider it done!”—the platform began as a centralized portal several years ago and was revised to expand service offerings. With the application of new AI capabilities, it is now a one-stop digital hub, offering access to nearly 950 government services for citizens, residents, visitors, and investors.&nbsp;</p>
+<p>Built on <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service/" target="_blank" rel="noreferrer noopener">Microsoft Azure OpenAI</a> service, TAMM uses advanced AI to deliver new classes of benefits. The platform offers real-world examples of how AI can transform smart cities by unifying services and inviting engagement in new and powerful ways.&nbsp;</p>
+<p>Here are three noteworthy ways that TAMM improves city service delivery.&nbsp;</p>
+<h3 class="wp-block-heading" id="1-serve-people-as-they-like-with-personalized-interactions">1. Serve people as they like, with personalized interactions&nbsp;</h3>
+<p>TAMM is designed to remove barriers between government services and the people who need them. In many cases, that means no longer forcing them to go to government buildings to get things done.&nbsp;</p>
+<p>The new TAMM includes a generative AI assistant that provides every day service, offering personalized access to services such as license renewals, utility bill payments, permit applications, healthcare, and more. There’s even a new photo reporting app, where people can take a snapshot of a problem they come across (including, yes, a pothole) and the assistant helps to fill out a report and later sends updates on the progress of repairs.&nbsp;</p>
+<p>TAMM also helps to untangle bureaucracy to simplify common yet complicated tasks. The process of registering a car, for instance, was dramatically simplified. What previously required days of visiting buildings and standing in lines can now be done quickly through the app—which also recommends the right type of insurance policy and synchronizes it with registration.&nbsp;</p>
+<h3 class="wp-block-heading" id="2-deliver-better-results-with-a-more-energized-and-empowered-workforce">2. Deliver better results with a more energized and empowered workforce&nbsp;</h3>
+<p>Because TAMM handles so many more routine tasks than before (such as responding to basic questions on services issues or applications), city employees can focus more on high-value service delivery. With live services including video and audio options, agents can deliver high-touch assistance while still maintaining user privacy.&nbsp;</p>
+<p>A good example of this is the case of a foreign worker who lived in Abu Dhabi for 10 years and was told by an immigration agent that she couldn’t leave the country due to visa issues. In tears, she opened the TAMM app on her phone and was connected to a helpline, where an agent quickly eased her anxieties. “I said I don’t know what to do, and the agent was literally amazing,” the woman said. “[The agent] said, ‘Don’t worry, it’s getting updated now’—and I was on my way.”&nbsp;</p>
+<p>The approach to innovation behind TAMM also reflects an important trend: equipping public servants to work like product teams so that city services evolve like platforms. The TAMM organization operates in a unique “factory” in Abu Dhabi that operates like a startup—agile, data-driven, and obsessed with user satisfaction. The city’s employees don’t just execute services; they co-innovate with citizens and stakeholders to create them. Real-time dashboards, productivity-enhancing agents, and a culture of continuous iteration are driving success and proving that empowering the workforce is the foundation of smarter cities.&nbsp;</p>
+<h3 class="wp-block-heading" id="3-keep-cities-moving-with-services-that-listen-learn-and-protect">3. Keep cities moving with services that listen, learn, and protect&nbsp;</h3>
+<p>TAMM is designed to help people better navigate government services by understanding and responding to user needs almost instantly. It recognizes multiple languages and offers the option for spoken conversations, intelligently walking people through a broad range of complex processes. For example, for a family with a person who has a disability, TAMM can help navigate special services, significantly streamlining a qualification process that previously took weeks.&nbsp;&nbsp;</p>
+<p>TAMM not only remembers previous conversations and knows the status of an issue or process, it is also deeply integrated across major government entities in the city. Service can be coordinated with in-person service centers or agencies who help housebound people in their homes.&nbsp;&nbsp;</p>
+<p>The TAMM platform is powered by Microsoft Azure OpenAI service and G42 Compass&nbsp;2.0, a next-generation enterprise AI platform that provides sovereign cloud services. It also uses open-source models, including JAIS, a high-performing Arabic Large Language Model, and Azure OpenAI GPT-4.</p>
+<p>The TAMM app now assists Abu Dhabi’s 2.5 million citizens to conduct than 10 million transactions a year. Helping to protect data and ensure privacy within these transactions is the world class cloud<s> </s>security provided by the Microsoft platform—reflecting our commitment to security above all in delivering AI services, as codified in our <a href="https://www.microsoft.com/en-us/security/blog/2025/04/21/securing-our-future-april-2025-progress-report-on-microsofts-secure-future-initiative/" target="_blank" rel="noreferrer noopener">Secure Futures Initiative</a>.</p>
+<h2 class="wp-block-heading" id="keys-for-building-a-foundation-of-success-with-ai">Keys for building a foundation of success with AI&nbsp;</h2>
+<p>The noteworthy innovation happening in Abu Dabhi is a great example of a city realizing the transformative potential offered by generative AI. Many others are following the trend, and the results are exciting.&nbsp;</p>
+<p>As we look across the global landscape, we note a set of common factors that consistently underpin successful AI adoption. We would advise every city to consider the following:&nbsp;</p>
+<ul class="wp-block-list">
+<li><strong>A mission-first mindset drives smarter AI adoption</strong>. Cities that anchor AI initiatives in clearly defined public outcomes—such as reducing response times to citizen queries or improving access to social services—are better equipped to prioritize high-impact use cases and rigorously measure results. Aligning AI innovation with policy goals improves clarity and can also boost community trust.</li>
+<li><strong>AI literacy must span the entire workforce</strong>. Successful implementations include investments to build AI literacy across all levels of the public workforce—from IT and data science teams to case workers and city clerks. With effective training and a culture of learning and sharing, cities have more empowered workforces and enjoy better outcomes.</li>
+<li><strong>Strong data foundations are critical</strong>. Cities that proactively clean, integrate, and govern their data estates—including structured, unstructured, and semi-structured data—are better able to operationalize AI faster, more securely, and at scale. A modern data platform emphasizes robust privacy and access protections as prerequisites for AI success, helping civic leaders avoid common pitfalls such as model bias, incomplete datasets, or compliance gaps.&nbsp;</li>
+</ul>
+<h2 class="wp-block-heading" id="learn-more-about-ai-technology-for-governments">Learn more&nbsp;about AI technology for governments</h2>
+<p>To help your city government make the most of modern cloud and AI technology, contact your local Microsoft representative or certified technology partner. Together, we can help you explore options, identify use cases, and transform your ideas into meaningful solutions. </p>
+<ul class="wp-block-list">
+<li>For in-depth guidance and resources on designing, deploying, and sustaining AI-powered solutions in city government, visit the <a href="https://wwps.microsoft.com/public-sector-digital-skills" target="_blank" rel="noreferrer noopener">Public Sector Center for Digital Skills</a>.</li>
+<li>For workforce development and training resources and guidance tailored to cities and other government organizations, visit <a href="https://learn.microsoft.com/en-us/training/topics/government" target="_blank" rel="noreferrer noopener">Microsoft Learn for Government</a>.</li>
+<li>For more on how Microsoft is helping to empower governments with AI, read <a href="https://www.microsoft.com/en-us/industry/blog/government/" target="_blank" rel="noreferrer noopener">our blogs</a>.&nbsp;</li>
+</ul>
+<div class="wp-block-msxcm-cta-block" data-moray data-bi-an="CTA Block">
+<div class="card d-block mx-ng mx-md-0">
+<div class="row no-gutters material-color-brand-light bg-fabric-white">
+<div class="col-md-4">
+					<img decoding="async" loading="lazy" width="600" height="400" src="https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/06/CTA-6.20.jpg" class="card-img img-object-cover" alt="A woman sitting at a desk" />				</div>
+<div class="d-flex col-md">
+<div class="card-body align-self-center p-4 p-md-5">
+<h2>Microsoft for governments</h2>
+<div class="mb-3">
+<p>Solutions that empower governments</p>
+</p></div>
+<div class="link-group">
+							<a href="https://www.microsoft.com/en-us/industry/government" class="btn btn-link text-decoration-none p-0"><br />
+								<span>Learn more</span><br />
+								<span class="glyph-append glyph-append-chevron-right glyph-append-xsmall"></span><br />
+							</a>
+						</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+</div>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<p><strong>Sources</strong>:</p>
+<p><sup>1</sup>&nbsp;<a href="https://gsas.harvard.edu/news/pothole-politics" target="_blank" rel="noreferrer noopener">Harvard Griffin GSAS, “</a><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgsas.harvard.edu%2Fnews%2Fpothole-politics&amp;data=05%7C02%7Cv-kristinga%40microsoft.com%7Ca0509ae3b56640e93bdf08ddb37a5939%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638864060272162367%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QKylMXmMMev%2FlmX%2B5LNez8C5lFglRGK33wHMbl%2FNZNA%3D&amp;reserved=0">Pothole Politics&#8221;, January 2019</a>.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/government/2025/06/25/from-potholes-to-personalization-what-abu-dhabi-is-teaching-us-about-ai-powered-smart-cities/">From potholes to personalization: What Abu Dhabi is teaching us about AI-powered smart cities</a> appeared first on <a href="https://www.microsoft.com/en-us/ai/blog">Microsoft AI Blogs</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

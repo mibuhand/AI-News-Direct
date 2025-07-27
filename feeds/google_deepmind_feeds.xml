@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Google - All Activities</title>
-  <id>tag:ai-news-direct.local,2025:google_aggregated</id>
-  <link href="https://deepmind.google/feed/google_aggregated.xml" rel="self"/>
+  <title>Google News</title>
+  <id>tag:ai-news-direct.local,2025:google_deepmind_feeds</id>
+  <link href="https://deepmind.google/feed/google_deepmind_feeds.xml" rel="self"/>
   <icon>https://deepmind.google/favicon.ico</icon>
   <logo>https://deepmind.google/favicon.ico</logo>
-  <updated>2025-07-27T03:40:18.066496+00:00</updated>
+  <updated>2025-07-27T03:40:18.071733+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -36,55 +36,6 @@
     <link href="https://deepmind.google/discover/blog/exploring-the-context-of-online-images-with-backstory/"/>
     <updated>2025-07-21T15:00:00+00:00</updated>
     <summary>New experimental AI tool helps people explore the context and origin of images seen online. | Organization: Google | Source: Google (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 4 models</title>
-    <id>2b0ca1305341559b596d6b61471085b7</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-17T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: updated 4 models | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: updated 4 models | Related: google/videoprism-lvt-large-f8r288 (Video Classification), google/videoprism-lvt-base-f16r288 (Video Classification), google/videoprism-large-f8r288 (Video Classification), google/videoprism-base-f16r288 (Video Classification)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published 2 models</title>
-    <id>7df7ed5119ad8f217fba38fc46dd17be</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-16T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: published 2 models | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: published 2 models | Related: google/videoprism-lvt-large-f8r288 (Video Classification), google/videoprism-lvt-base-f16r288 (Video Classification)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a model</title>
-    <id>9b3f4946a15f98b7db8119ef236bc79b</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-12T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: updated a model | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: updated a model | Related: google/magenta-realtime (Updated12 days ago)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a model</title>
-    <id>226cd9292ceeeb950544cf1813a4aa09</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-10T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: published a model | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: published a model | Related: google/medsiglip-448 (Zero-Shot Image Classification)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 2 models</title>
-    <id>d5db0d648a33204a59736cf88e0ab102</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-10T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: updated 2 models | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: updated 2 models | Related: google/medgemma-27b-it (Image-Text-to-Text), google/medsiglip-448 (Zero-Shot Image Classification)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>5d6c7d4fbd5eee9548a8607c0ea79066</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-07-08T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: updated a dataset | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: updated a dataset | Related: google/svq</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>31a7f82033ef39138140f17df4726286</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-06-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: published a dataset | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: published a dataset | Related: google/gemma3n-slicing-configs</summary>
   </entry>
   <entry>
     <title>AlphaGenome: AI for better understanding the genome</title>
@@ -134,13 +85,6 @@
     <link href="https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/"/>
     <updated>2025-06-03T17:15:47+00:00</updated>
     <summary>Gemini 2.5 has new capabilities in AI-powered audio dialog and generation. | Organization: Google | Source: Google (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 4 papers</title>
-    <id>440a56fc0f5e8827c9dd2cb36491892b</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-05-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: authored 4 papers | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: authored 4 papers | Related: PaLM 2 Technical Report, Gemini: A Family of Highly Capable Multimodal Models, Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context, Gemma 3 Technical Report</summary>
   </entry>
   <entry>
     <title>SynthID Detector — a new portal to help identify AI-generated content</title>
@@ -204,13 +148,6 @@
     <link href="https://deepmind.google/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/"/>
     <updated>2025-05-06T15:00:00+00:00</updated>
     <summary>Our updated version of Gemini 2.5 Pro Preview has improved capabilities for coding. | Organization: Google | Source: Google (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>989c19e9e8188955dc40c2bd8b2cfbbb</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-04-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: authored a paper | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: authored a paper | Related: How new data permeates LLM knowledge and how to dilute it</summary>
   </entry>
   <entry>
     <title>Music AI Sandbox, now with new features and broader access</title>
@@ -281,13 +218,6 @@
     <link href="https://deepmind.google/discover/blog/introducing-gemma-3/"/>
     <updated>2025-03-12T08:00:00+00:00</updated>
     <summary>The most capable model you can run on a single GPU or TPU. | Organization: Google | Source: Google (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 2 datasets</title>
-    <id>1102aa57f03e0c5ae97bb21456045e86</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2025-02-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: updated 2 datasets | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: updated 2 datasets | Related: google/smol, google/smol</summary>
   </entry>
   <entry>
     <title>Start building with Gemini 2.0 Flash and Flash-Lite</title>
@@ -423,13 +353,6 @@
     <summary>New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more. | Organization: Google | Source: Google (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] updated 2 models</title>
-    <id>c1e813fef56664394ee1448557d3c0c8</id>
-    <link href="https://huggingface.co/huggingface_deepmind"/>
-    <updated>2024-08-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_deepmind: updated 2 models | Organization: huggingface_deepmind | Source: Google Aggregated (activity) | Action: updated 2 models | Related: deepmind/vision-perceiver-learned (Image Classification), deepmind/optical-flow-perceiver (0.0B)</summary>
-  </entry>
-  <entry>
     <title>FermiNet: Quantum physics and chemistry from first principles</title>
     <id>4445826ada7fd67914167e1f72a7a9fd</id>
     <link href="https://deepmind.google/discover/blog/ferminet-quantum-physics-and-chemistry-from-first-principles/"/>
@@ -449,27 +372,6 @@
     <link href="https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/"/>
     <updated>2024-07-31T15:59:19+00:00</updated>
     <summary>Announcing a comprehensive, open suite of sparse autoencoders for language model interpretability. | Organization: Google | Source: Google (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>a65c82757549b638f43dec32b8d94cdb</id>
-    <link href="https://huggingface.co/huggingface_google"/>
-    <updated>2024-07-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_google: authored 2 papers | Organization: huggingface_google | Source: Google Aggregated (activity) | Action: authored 2 papers | Related: Learning to Learn Faster from Human Feedback with Language Model Predictive Control, Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>affee5655fad7bd403125b8b1009292a</id>
-    <link href="https://huggingface.co/huggingface_deepmind"/>
-    <updated>2024-07-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_deepmind: authored a paper | Organization: huggingface_deepmind | Source: Google Aggregated (activity) | Action: authored a paper | Related: StarCoder 2 and The Stack v2: The Next Generation</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a model</title>
-    <id>b170de0abdcfa8c05f0dbe9359e914e0</id>
-    <link href="https://huggingface.co/huggingface_deepmind"/>
-    <updated>2024-07-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_deepmind: updated a model | Organization: huggingface_deepmind | Source: Google Aggregated (activity) | Action: updated a model | Related: deepmind/language-perceiver (Fill-Mask)</summary>
   </entry>
   <entry>
     <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>

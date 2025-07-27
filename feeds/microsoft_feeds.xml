@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Microsoft - All Activities</title>
-  <id>tag:ai-news-direct.local,2025:microsoft_aggregated</id>
-  <link href="https://www.microsoft.com/feed/microsoft_aggregated.xml" rel="self"/>
+  <title>Microsoft News</title>
+  <id>tag:ai-news-direct.local,2025:microsoft_feeds</id>
+  <link href="https://www.microsoft.com/feed/microsoft_feeds.xml" rel="self"/>
   <icon>https://www.microsoft.com/favicon.ico</icon>
   <logo>https://www.microsoft.com/favicon.ico</logo>
-  <updated>2025-07-27T03:40:18.130055+00:00</updated>
+  <updated>2025-07-27T03:40:18.131886+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
-  <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>31fad601d58c91bec208e4ce914d14be</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-26T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: published a dataset | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: published a dataset | Related: microsoft/Dayhoff</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published 9 models</title>
-    <id>5926f21a5e4433797703073f8dfdc6f9</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-26T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: published 9 models | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: published 9 models | Related: microsoft/Dayhoff-3b-GR-HM-c (3B), microsoft/Dayhoff-3b-GR-HM (3B), microsoft/Dayhoff-3b-UR90 (3B), microsoft/Dayhoff-170m-UR50-BRn (0.2B), microsoft/Dayhoff-170m-UR50-BRq (0.2B), microsoft/Dayhoff-170m-UR50-BRu (0.2B), microsoft/Dayhoff-170m-GR (0.2B), microsoft/Dayhoff-170m-UR90 (0.2B), microsoft/Dayhoff-170m-UR50 (0.2B)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a model</title>
-    <id>c8c4cfc458e5c05cb198c2b833fbd72c</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-23T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated a model | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated a model | Related: microsoft/maira-2-sae (Feature Extraction)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 2 models</title>
-    <id>2e1b3e0a7b9b1dfd21376e73f6f0499d</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-23T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated 2 models | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated 2 models | Related: microsoft/Phi-mini-MoE-instruct (Text Generation), microsoft/Phi-tiny-MoE-instruct (Text Generation)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>e64f388df861eb82444ba72997a387d6</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-22T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated a dataset | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated a dataset | Related: microsoft/Dayhoff</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a model</title>
-    <id>64068f1e7f1f958018b68d0ae05a1fc4</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-18T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: published a model | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: published a model | Related: microsoft/maira-2-sae (Feature Extraction)</summary>
-  </entry>
   <entry>
     <title>Microsoft Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification</title>
     <id>a52113b2648ec29c0b7072887842f967</id>
@@ -66,13 +24,6 @@
     <updated>2025-07-16T15:00:59+00:00</updated>
     <summary>&lt;p&gt;Deceived, not hacked: Why keeping people safe online now starts with smarter design By Susanna Ray (() =&amp;#62; { let $iframe, $closeBtn; const $player = document.getElementById(&amp;#8216;player-6877c58e7a284&amp;#8217;) ; const $playerPlayBtn = document.getElementById(&amp;#8216;player-btn-6877c58e7a284&amp;#8217;) ; const $playerPlayTitleBtn = document.getElementById(&amp;#8216;player-title-btn-6877c58e7a284&amp;#8217;) ; const $playerText = document.getElementById(&amp;#8216;player-text-6877c58e7a284&amp;#8217;) ; function onKeyDown(e) { if (document.activeElement !== $closeBtn) { $iframe.focus() ; } } function&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://news.microsoft.com/source/features/ai/deceived-not-hacked-why-keeping-people-safe-online-now-starts-with-smarter-design/&quot;&gt;Deceived, not hacked: Why keeping people safe online now starts with smarter design&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.microsoft.com/en-us/ai/blog&quot;&gt;Microsoft AI Blogs&lt;/a&gt;.&lt;/p&gt; | Organization: Microsoft | Source: Microsoft (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 5 models</title>
-    <id>89c581011b43dbc538522c773e6c2c59</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-16T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated 5 models | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated 5 models | Related: microsoft/Dayhoff-3b-GR-HM-c (3B), microsoft/Dayhoff-3b-GR-HM (3B), microsoft/Dayhoff-3b-UR90 (3B), microsoft/Dayhoff-170m-UR50-BRn (0.2B), microsoft/Dayhoff-170m-UR50-BRq (0.2B)</summary>
   </entry>
   <entry>
     <title>The next wave of AI for content creation includes digital twins</title>
@@ -91,26 +42,12 @@
 &lt;p&gt;The post &lt;a href=&quot;https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning/&quot;&gt;Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.microsoft.com/en-us/ai/blog&quot;&gt;Microsoft AI Blogs&lt;/a&gt;.&lt;/p&gt; | Organization: Microsoft | Source: Microsoft (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] updated 2 datasets</title>
-    <id>c471306b050d8a0f9f18ac51cf09bed2</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-08T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated 2 datasets | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated 2 datasets | Related: microsoft/NextCoderDataset-Conversational, microsoft/NextCoderDataset</summary>
-  </entry>
-  <entry>
     <title>Introducing Deep Research in Azure AI Foundry Agent Service</title>
     <id>2682df3f5fe74a8e298924a7a253c450</id>
     <link href="https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/"/>
     <updated>2025-07-07T17:00:00+00:00</updated>
     <summary>&lt;p&gt;Announcing the public preview of Deep Research in Azure AI Foundry—an API and SDK-based offering of OpenAI’s advanced agentic research capability.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/&quot;&gt;Introducing Deep Research in Azure AI Foundry Agent Service&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.microsoft.com/en-us/ai/blog&quot;&gt;Microsoft AI Blogs&lt;/a&gt;.&lt;/p&gt; | Organization: Microsoft | Source: Microsoft (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated 3 datasets</title>
-    <id>5349806a4429207be7bd02f5bf641f92</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-07T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: updated 3 datasets | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: updated 3 datasets | Related: microsoft/Updesh_beta, microsoft/Updesh_beta, microsoft/Updesh_beta</summary>
   </entry>
   <entry>
     <title>Building secure, scalable AI in the cloud with Microsoft Azure</title>
@@ -127,13 +64,6 @@
     <updated>2025-07-01T13:51:31+00:00</updated>
     <summary>&lt;p&gt;Tags: AI&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://news.microsoft.com/source/2025/07/01/premier-league-and-microsoft-join-forces-to-create-fan-friendly-digital-platforms/&quot;&gt;Premier League and Microsoft join forces to create fan-friendly digital platforms&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.microsoft.com/en-us/ai/blog&quot;&gt;Microsoft AI Blogs&lt;/a&gt;.&lt;/p&gt; | Organization: Microsoft | Source: Microsoft (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>cbf3a7a52d4d5b6dda09a125b904ff9c</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-07-01T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: authored a paper | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: authored a paper | Related: Calligrapher: Freestyle Text Image Customization</summary>
   </entry>
   <entry>
     <title>5 ways AI is supercharging research in financial services</title>
@@ -158,26 +88,5 @@
     <updated>2025-06-25T15:00:00+00:00</updated>
     <summary>&lt;p&gt;City governments are embracing generative AI to modernize services, empower employees, and personalize citizen experiences.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://www.microsoft.com/en-us/industry/blog/government/2025/06/25/from-potholes-to-personalization-what-abu-dhabi-is-teaching-us-about-ai-powered-smart-cities/&quot;&gt;From potholes to personalization: What Abu Dhabi is teaching us about AI-powered smart cities&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.microsoft.com/en-us/ai/blog&quot;&gt;Microsoft AI Blogs&lt;/a&gt;.&lt;/p&gt; | Organization: Microsoft | Source: Microsoft (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 5 papers</title>
-    <id>eeb41b1223b574ac246b0169ea21499e</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-05-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: authored 5 papers | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: authored 5 papers | Related: Imagine while Reasoning in Space: Multimodal Visualization-of-Thought, Zero-shot Cross-lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders, WildLong: Synthesizing Realistic Long-Context Instruction Data at Scale, Scaling Laws of Synthetic Data for Language Models, Reward Reasoning Model</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 4 papers</title>
-    <id>486a37ec622d57753773ca7bfec11735</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-05-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: authored 4 papers | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: authored 4 papers | Related: Think Only When You Need with Large Hybrid-Reasoning Models, On-Policy RL with Optimal Reward Baseline, Rectified Sparse Attention, Reinforcement Pre-Training</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 3 papers</title>
-    <id>3fc6f943e31f05ef750ffc8f4f76c1c3</id>
-    <link href="https://huggingface.co/huggingface_microsoft"/>
-    <updated>2025-04-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_microsoft: authored 3 papers | Organization: huggingface_microsoft | Source: Microsoft Aggregated (activity) | Action: authored 3 papers | Related: From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning, MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging, T-Rex: Text-assisted Retrosynthesis Prediction</summary>
   </entry>
 </feed>

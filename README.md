@@ -8,6 +8,15 @@ This project generates both JSON data files and Atom/RSS feeds from AI organizat
 ### Atom/RSS Feeds (feeds/ directory)
 Ready-to-use XML feeds for RSS readers:
 
+**Aggregated Organization Feeds:**
+- [`anthropic_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_aggregated.xml) - All Anthropic content (News + Engineering + HuggingFace activities)
+- [`bytedance_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_aggregated.xml) - All ByteDance content (News + Research + HuggingFace activities)
+- [`openai_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_aggregated.xml) - All OpenAI content (News RSS + Research Index + HuggingFace activities)
+- [`meta_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/meta_aggregated.xml) - Meta/Meta-Llama/Facebook activities from HuggingFace
+- [`google_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/google_aggregated.xml) - All Google content (AI Blog + DeepMind Blog + HuggingFace activities)
+- [`microsoft_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/microsoft_aggregated.xml) - All Microsoft content (AI Blog + HuggingFace activities)
+
+
 **Direct Company Feeds:**
 - [`anthropic_news.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_news.xml) - Anthropic news releases
 - [`anthropic_research.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_research.xml) - Anthropic research publications  
@@ -18,18 +27,12 @@ Ready-to-use XML feeds for RSS readers:
 
 **RSS/Atom Feed Sources:**
 - [`openai_feeds.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_feeds.xml) - OpenAI News official RSS feed content
-- [`google_feeds.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/google_feeds.xml) - Google AI Blog and DeepMind RSS feed content
+- [`google_deepmind_feeds.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/google_deepmind_feeds.xml) - Google DeepMind Blog RSS feed content
+- [`google_ai_feeds.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/google_ai_feeds.xml) - Google AI Blog RSS feed content
+- [`microsoft_feeds.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/microsoft_feeds.xml) - Microsoft AI Blog RSS feed content
 
 **HuggingFace Activities:**
 - [`huggingface.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface.xml) - Model releases, datasets, and papers from selected AI organizations
-
-**Aggregated Organization Feeds:**
-- [`anthropic_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_aggregated.xml) - All Anthropic content (News + Engineering + HuggingFace activities)
-- [`bytedance_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_aggregated.xml) - All ByteDance content (News + Research + HuggingFace activities)
-- [`openai_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_aggregated.xml) - All OpenAI content (News RSS + Research Index + HuggingFace activities)
-- [`meta_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/meta_aggregated.xml) - Meta/Meta-Llama/Facebook activities from HuggingFace
-- [`google_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/google_aggregated.xml) - All Google content (AI Blog + DeepMind Blog + HuggingFace activities)
-- [`microsoft_aggregated.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/microsoft_aggregated.xml) - Microsoft activities from HuggingFace
 
 ### JSON Data Files (data/parsed/ directory)
 Raw structured data used to generate the XML feeds above.

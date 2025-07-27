@@ -13,8 +13,25 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 project_dir = Path(__file__).resolve().parent.parent
 html_dir = project_dir / 'data' / 'html_cache'
 parsed_dir = project_dir / 'data' / 'parsed'
+config_dir = project_dir / 'config'
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
+
+def load_config():
+    """Load site configuration to get output filenames and cache filenames"""
+    config_file = config_dir / 'sites_config.json'
+    with open(config_file, 'r', encoding='utf-8') as f:
+        sites_config = json.load(f)
+    
+    # Find ByteDance configuration
+    for site in sites_config:
+        if site.get('organization_key') == 'bytedance':
+            return {
+                'output_files': site.get('output_files', {}),
+                'cache_files': site.get('cache_files', {})
+            }
+    
+    raise ValueError("ByteDance configuration not found in sites_config.json")
 
 def extract_script_data(file_path):
     # Read the HTML file
@@ -59,6 +76,8 @@ def parse_and_save(router_data):
         return
 
     base_url = "https://seed.bytedance.com/"
+    config = load_config()
+    output_files = config['output_files']
 
     # Determine page type
     if any('blog' in ky for ky in router_data['loaderData'].keys()):
@@ -160,9 +179,10 @@ def parse_and_save(router_data):
     
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
-    # Dump as json file
+    # Dump as json file using config-driven filename
     try:
-        json_path = parsed_dir / f'bytedance_seed_{page_type}.json'
+        filename = output_files.get(page_type, f'bytedance_seed_{page_type}.json')
+        json_path = parsed_dir / filename
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)
             logging.info(f"Parsed data successfully written to '{json_path}'")
@@ -171,8 +191,15 @@ def parse_and_save(router_data):
 
 
 if __name__ == "__main__":
-    for filename in os.listdir(html_dir):
-        if "seed_bytedance" in filename and filename.endswith('.html'):
-            file_path = os.path.join(html_dir, filename)
+    config = load_config()
+    cache_files = config['cache_files']
+    
+    # Process each configured cache file
+    for page_type, cache_filename in cache_files.items():
+        file_path = html_dir / cache_filename
+        if file_path.exists():
+            logging.info(f"Processing ByteDance {page_type} file: {cache_filename}")
             router_data = extract_script_data(file_path)
             parse_and_save(router_data)
+        else:
+            logging.error(f"Required cache file not found: {cache_filename}")

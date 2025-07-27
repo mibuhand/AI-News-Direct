@@ -13,8 +13,26 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 project_dir = Path(__file__).resolve().parent.parent
 html_dir = project_dir / 'data' / 'html_cache'
 parsed_dir = project_dir / 'data' / 'parsed'
+config_dir = project_dir / 'config'
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
+
+def load_config():
+    """Load site configuration to get output filenames and cache filenames"""
+    config_file = config_dir / 'sites_config.json'
+    with open(config_file, 'r', encoding='utf-8') as f:
+        sites_config = json.load(f)
+    
+    # Find OpenAI configuration for research pages
+    for site in sites_config:
+        if (site.get('organization_key') == 'openai' and 
+            site.get('type') != 'feeds'):
+            return {
+                'output_files': site.get('output_files', {}),
+                'cache_files': site.get('cache_files', {})
+            }
+    
+    raise ValueError("OpenAI research configuration not found in sites_config.json")
 
 
 def load_html(filename):
@@ -144,8 +162,13 @@ def save_to_json(post_items, filename):
     
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
+    # Get config-driven filename
+    config = load_config()
+    output_files = config['output_files']
+    output_filename = output_files.get('main', 'openai_research.json')
+    
     try:
-        json_path = parsed_dir / 'openai_research.json'
+        json_path = parsed_dir / output_filename
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)
             logging.info(f"Parsed data successfully written to '{json_path}'")
@@ -154,8 +177,17 @@ def save_to_json(post_items, filename):
 
 
 if __name__ == "__main__":
-    filename = 'openai_com_index.html'
-    soup = load_html(filename)
-    if soup:
-        post_items = extract_html_data(soup)
-        save_to_json(post_items, filename)
+    config = load_config()
+    cache_files = config['cache_files']
+    
+    # Process each configured cache file
+    for page_type, cache_filename in cache_files.items():
+        file_path = html_dir / cache_filename
+        if file_path.exists():
+            logging.info(f"Processing OpenAI {page_type} file: {cache_filename}")
+            soup = load_html(cache_filename)
+            if soup:
+                post_items = extract_html_data(soup)
+                save_to_json(post_items, cache_filename)
+        else:
+            logging.error(f"Required cache file not found: {cache_filename}")

@@ -3,7 +3,9 @@
   <title>OpenAI - All Activities</title>
   <id>tag:ai-news-direct.local,2025:openai_aggregated</id>
   <link href="https://openai.com/feed/openai_aggregated.xml" rel="self"/>
-  <updated>2025-07-26T23:46:41.360839+00:00</updated>
+  <icon>https://openai.com/favicon.ico</icon>
+  <logo>https://openai.com/favicon.ico</logo>
+  <updated>2025-07-27T03:40:18.133885+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -15,18 +17,18 @@
     <summary>Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Announcing OpenAI DevDay 2025</title>
-    <id>47b94026182bcca43c6597218c3a35cc</id>
-    <link href="https://openai.com/index/announcing-devday-2025"/>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <summary>OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Model ML is helping financial firms rebuild with AI from the ground up</title>
     <id>a3d5f21fcbc8c96c9f6f2651fa8f1a6e</id>
     <link href="https://openai.com/index/model-ml-chaz-englander"/>
     <updated>2025-07-23T00:00:00+00:00</updated>
     <summary>As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Announcing OpenAI DevDay 2025</title>
+    <id>47b94026182bcca43c6597218c3a35cc</id>
+    <link href="https://openai.com/index/announcing-devday-2025"/>
+    <updated>2025-07-23T00:00:00+00:00</updated>
+    <summary>OpenAI DevDay returns on October 6, 2025 in San Francisco—bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Pioneering an AI clinical copilot with Penda Health</title>
@@ -35,13 +37,6 @@
     <updated>2025-07-22T10:00:00+00:00</updated>
     <category term="Publication"/>
     <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare. | Organization: OpenAI | Source: Openai (publication)</summary>
-  </entry>
-  <entry>
-    <title>Pioneering an AI clinical copilot with Penda Health</title>
-    <id>69de8e9cc2a13d97a7417a0fd0936bde</id>
-    <link href="https://openai.com/index/ai-clinical-copilot-penda-health"/>
-    <updated>2025-07-22T10:00:00+00:00</updated>
-    <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI’s new economic analysis</title>
@@ -79,14 +74,6 @@
     <summary>OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>ChatGPT agent System Card</title>
-    <id>254ae0445c748039d0900ccb3b17c18f</id>
-    <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
-    <updated>2025-07-17T10:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework. | Organization: OpenAI | Source: Openai (publication)</summary>
-  </entry>
-  <entry>
     <title>Introducing ChatGPT agent</title>
     <id>ef9a088906a2922e89d9e91b83c4f215</id>
     <link href="https://openai.com/index/introducing-chatgpt-agent/"/>
@@ -96,17 +83,11 @@
   </entry>
   <entry>
     <title>ChatGPT agent System Card</title>
-    <id>c9c115be9af0e6f4d5f63e798d58b637</id>
-    <link href="https://openai.com/index/chatgpt-agent-system-card"/>
+    <id>254ae0445c748039d0900ccb3b17c18f</id>
+    <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
     <updated>2025-07-17T10:00:00+00:00</updated>
-    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Introducing ChatGPT agent</title>
-    <id>45ff451a1c963b8e34793b3146938f45</id>
-    <link href="https://openai.com/index/introducing-chatgpt-agent"/>
-    <updated>2025-07-17T10:00:00+00:00</updated>
-    <summary>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance. | Organization: OpenAI | Source: Openai (news)</summary>
+    <category term="Publication"/>
+    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework. | Organization: OpenAI | Source: Openai (publication)</summary>
   </entry>
   <entry>
     <title>OpenAI nonprofit jam</title>
@@ -116,11 +97,11 @@
     <summary>At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Invideo AI uses OpenAI models to create videos 10x faster</title>
-    <id>912a0c45c19270348086cc3212d00955</id>
-    <link href="https://openai.com/index/invideo-ai"/>
+    <title>Agent bio bug bounty call</title>
+    <id>8098f93a81f4c451a99105e48b099862</id>
+    <link href="https://openai.com/bio-bug-bounty"/>
     <updated>2025-07-17T00:00:00+00:00</updated>
-    <summary>Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes. | Organization: OpenAI | Source: Openai (news)</summary>
+    <summary>OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent’s safety with a universal jailbreak prompt and win up to $25,000. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Statement from the OpenAI Board of Directors on the Nonprofit Commission Report</title>
@@ -130,11 +111,11 @@
     <summary>The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Agent bio bug bounty call</title>
-    <id>8098f93a81f4c451a99105e48b099862</id>
-    <link href="https://openai.com/bio-bug-bounty"/>
+    <title>Invideo AI uses OpenAI models to create videos 10x faster</title>
+    <id>912a0c45c19270348086cc3212d00955</id>
+    <link href="https://openai.com/index/invideo-ai"/>
     <updated>2025-07-17T00:00:00+00:00</updated>
-    <summary>OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent’s safety with a universal jailbreak prompt and win up to $25,000. | Organization: OpenAI | Source: Openai (news)</summary>
+    <summary>Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Intellectual freedom by design</title>
@@ -209,13 +190,6 @@
     <summary>Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Toward understanding and preventing misalignment generalization</title>
-    <id>80b440f497578728cc77ffefc867020e</id>
-    <link href="https://openai.com/index/emergent-misalignment"/>
-    <updated>2025-06-18T10:00:00+00:00</updated>
-    <summary>We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Introducing OpenAI for Government</title>
     <id>f0bbf8dcd02ab3e42ebf216a23b09565</id>
     <link href="https://openai.com/global-affairs/introducing-openai-for-government"/>
@@ -274,13 +248,6 @@
     <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o. | Organization: OpenAI | Source: Openai (safety)</summary>
   </entry>
   <entry>
-    <title>Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator</title>
-    <id>957251a9a09e223361c36f0d98e66d62</id>
-    <link href="https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3"/>
-    <updated>2025-05-23T00:00:00+00:00</updated>
-    <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>OpenAI Deutschland</title>
     <id>55130029d50e6f16ab606ea00fbfc80e</id>
     <link href="https://openai.com/index/openai-deutschland"/>
@@ -309,14 +276,6 @@
     <summary>New features in the Responses API: Remote MCP, image gen, Code Interpreter, and more. Powering faster, smarter agents with GPT-4o &amp; o-series models, plus new features for reliability and efficiency. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Introducing Codex</title>
-    <id>acfa8ee44f0f5131543823257e9ad777</id>
-    <link href="https://openai.com/index/introducing-codex/"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review. | Organization: OpenAI | Source: Openai (release)</summary>
-  </entry>
-  <entry>
     <title>Addendum to o3 and o4-mini system card: Codex</title>
     <id>e5cd2fde10edce9e29c756b3200a6de9</id>
     <link href="https://openai.com/index/o3-o4-mini-codex-system-card-addendum/"/>
@@ -326,17 +285,11 @@
   </entry>
   <entry>
     <title>Introducing Codex</title>
-    <id>52185a9871f5a94d5982987ca1851271</id>
-    <link href="https://openai.com/index/introducing-codex"/>
+    <id>acfa8ee44f0f5131543823257e9ad777</id>
+    <link href="https://openai.com/index/introducing-codex/"/>
     <updated>2025-05-16T08:00:00+00:00</updated>
-    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Addendum to o3 and o4-mini system card: Codex</title>
-    <id>102f007f640c69fbcc3af0ebdafbfbc2</id>
-    <link href="https://openai.com/index/o3-o4-mini-codex-system-card-addendum"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <summary>Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved. | Organization: OpenAI | Source: Openai (news)</summary>
+    <category term="Release"/>
+    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review. | Organization: OpenAI | Source: Openai (release)</summary>
   </entry>
   <entry>
     <title>AI powers Expedia’s marketing evolution</title>
@@ -352,13 +305,6 @@
     <updated>2025-05-12T10:30:00+00:00</updated>
     <category term="Publication"/>
     <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health. | Organization: OpenAI | Source: Openai (publication)</summary>
-  </entry>
-  <entry>
-    <title>Introducing HealthBench</title>
-    <id>7e9dd79caafad3cdc16f2faac65fb4f6</id>
-    <link href="https://openai.com/index/healthbench"/>
-    <updated>2025-05-12T10:30:00+00:00</updated>
-    <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI Expands Leadership with Fidji Simo</title>
@@ -446,32 +392,18 @@
     <summary>We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often described as sycophantic. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>528b718aa8b3d8134d948dca2b6698dc</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:44:07.934969+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/mrcr</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>bf86dff2ae3e164caaafcd5a87ba8f53</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:44:07.934969+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/graphwalks</summary>
-  </entry>
-  <entry>
     <title>[HuggingFace] published a dataset</title>
-    <id>1fc9a27aa86a049daca9ea30c16ded62</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:44:07.934969+00:00</updated>
-    <summary>openai: published a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: published a dataset | Related: openai/graphwalks</summary>
+    <id>d54fed9891efc023bf6797a431239eb2</id>
+    <link href="https://huggingface.co/huggingface_openai"/>
+    <updated>2025-04-27T03:38:34.751733+00:00</updated>
+    <summary>huggingface_openai: published a dataset | Organization: huggingface_openai | Source: Openai Aggregated (activity) | Action: published a dataset | Related: openai/graphwalks</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>e1091d203df37da111d7eb92728fa008</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2025-04-26T23:44:07.934969+00:00</updated>
-    <summary>openai: published a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: published a dataset | Related: openai/mrcr</summary>
+    <title>[HuggingFace] updated a dataset</title>
+    <id>1f1d3a90ee14eb36d1b1b9f5c7db995e</id>
+    <link href="https://huggingface.co/huggingface_openai"/>
+    <updated>2025-04-27T03:38:34.751733+00:00</updated>
+    <summary>huggingface_openai: updated a dataset | Organization: huggingface_openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/mrcr</summary>
   </entry>
   <entry>
     <title>New in ChatGPT for Business: April 2025</title>
@@ -508,13 +440,6 @@
     <updated>2025-04-16T10:00:00+00:00</updated>
     <category term="Release"/>
     <summary>Our smartest and most capable models to date with full tool access | Organization: OpenAI | Source: Openai (release)</summary>
-  </entry>
-  <entry>
-    <title>Introducing OpenAI o3 and o4-mini</title>
-    <id>7aa8deb1e32449cf03f0749083a3028d</id>
-    <link href="https://openai.com/index/introducing-o3-and-o4-mini"/>
-    <updated>2025-04-16T10:00:00+00:00</updated>
-    <summary>Our smartest and most capable models to date with full tool access | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Thinking with images</title>
@@ -920,12 +845,11 @@
     <summary>The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Creating nail art with ChatGPT</title>
-    <id>24b54e6db505ae6ebf9f9cc5f0552b42</id>
-    <link href="https://openai.com/index/ten-tiny-canvases"/>
+    <title>Building a custom math tutor powered by ChatGPT</title>
+    <id>fe5c64fef130e047c542690845c70be8</id>
+    <link href="https://openai.com/index/my-dog-the-math-tutor"/>
     <updated>2025-02-04T00:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Using ChatGPT to find inspiration for nail art | Organization: OpenAI | Source: Openai (news)</summary>
+    <summary>ChatGPT and personal tutoring | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Catching halibut with ChatGPT</title>
@@ -936,19 +860,12 @@
     <summary>Using ChatGPT to catch halibut | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Building a custom math tutor powered by ChatGPT</title>
-    <id>fe5c64fef130e047c542690845c70be8</id>
-    <link href="https://openai.com/index/my-dog-the-math-tutor"/>
+    <title>Creating nail art with ChatGPT</title>
+    <id>24b54e6db505ae6ebf9f9cc5f0552b42</id>
+    <link href="https://openai.com/index/ten-tiny-canvases"/>
     <updated>2025-02-04T00:00:00+00:00</updated>
-    <summary>ChatGPT and personal tutoring | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Understanding complex trends with deep research</title>
-    <id>c276c810133f07950ad6ec5c333b2482</id>
-    <link href="https://openai.com/index/deep-research"/>
-    <updated>2025-02-02T16:00:00+00:00</updated>
     <category term="Story"/>
-    <summary>How OpenAI deep research helps Bain &amp; Company understand complex industry trends. | Organization: OpenAI | Source: Openai (news)</summary>
+    <summary>Using ChatGPT to find inspiration for nail art | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Introducing deep research</title>
@@ -959,12 +876,12 @@
     <summary>An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you. Available to Pro users today, Plus and Team next. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>OpenAI o3-mini</title>
-    <id>4449326888e0ba40dd8b9d426960ea68</id>
-    <link href="https://openai.com/index/openai-o3-mini"/>
-    <updated>2025-01-31T11:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>Pushing the frontier of cost-effective reasoning. | Organization: OpenAI | Source: Openai (news)</summary>
+    <title>Understanding complex trends with deep research</title>
+    <id>c276c810133f07950ad6ec5c333b2482</id>
+    <link href="https://openai.com/index/deep-research"/>
+    <updated>2025-02-02T16:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>How OpenAI deep research helps Bain &amp; Company understand complex industry trends. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI o3-mini System Card</title>
@@ -973,6 +890,14 @@
     <updated>2025-01-31T11:00:00+00:00</updated>
     <category term="Research"/>
     <summary>This report outlines the safety work carried out for the OpenAI o3-mini model, including safety evaluations, external red teaming, and Preparedness Framework evaluations. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>OpenAI o3-mini</title>
+    <id>4449326888e0ba40dd8b9d426960ea68</id>
+    <link href="https://openai.com/index/openai-o3-mini"/>
+    <updated>2025-01-31T11:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>Pushing the frontier of cost-effective reasoning. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Strengthening America’s AI leadership with the U.S. National Laboratories</title>
@@ -991,20 +916,20 @@
     <summary>ChatGPT Gov is designed to streamline government agencies’ access to OpenAI’s frontier models. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Computer-Using Agent</title>
-    <id>d0ceab1e67eb0cef9b4c46d9d0e0a609</id>
-    <link href="https://openai.com/index/computer-using-agent"/>
-    <updated>2025-01-23T10:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>A universal interface for AI to interact with the digital world. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Introducing Operator</title>
     <id>a55a1823770d6a36e9307e42512597f4</id>
     <link href="https://openai.com/index/introducing-operator"/>
     <updated>2025-01-23T10:00:00+00:00</updated>
     <category term="Product"/>
     <summary>A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Computer-Using Agent</title>
+    <id>d0ceab1e67eb0cef9b4c46d9d0e0a609</id>
+    <link href="https://openai.com/index/computer-using-agent"/>
+    <updated>2025-01-23T10:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>A universal interface for AI to interact with the digital world. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Operator System Card</title>
@@ -1031,19 +956,19 @@
     <summary>Trading Inference-Time Compute for Adversarial Robustness | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Stargate Infrastructure</title>
-    <id>adec49dcd3bc0eeb4c8efd1f7df02cb0</id>
-    <link href="https://openai.com/form/stargate-infrastructure"/>
-    <updated>2025-01-21T13:30:00+00:00</updated>
-    <summary>OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Announcing The Stargate Project</title>
     <id>478e398b235bc1f9e006010bc63704ec</id>
     <link href="https://openai.com/index/announcing-the-stargate-project"/>
     <updated>2025-01-21T13:30:00+00:00</updated>
     <category term="Company"/>
     <summary>Announcing The Stargate Project | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Stargate Infrastructure</title>
+    <id>adec49dcd3bc0eeb4c8efd1f7df02cb0</id>
+    <link href="https://openai.com/form/stargate-infrastructure"/>
+    <updated>2025-01-21T13:30:00+00:00</updated>
+    <summary>OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>The power of personalized AI</title>
@@ -1127,6 +1052,30 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can bring your own assets to extend, remix, and blend, or generate entirely new content from text. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
+    <title>Minne Atairu &amp; Sora</title>
+    <id>a195b793d69293814d99cb147d1288de</id>
+    <link href="https://openai.com/index/sora-minne-atairu"/>
+    <updated>2024-12-09T00:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Put AI to work for your product team</title>
+    <id>81bf41df214b2220e2a1b22689b95192</id>
+    <link href="https://openai.com/index/put-ai-to-work-for-your-product-team"/>
+    <updated>2024-12-09T00:00:00+00:00</updated>
+    <category term="Webinar"/>
+    <summary>Put AI to work for your product team | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Sora System Card</title>
+    <id>2532f66cb1c23a3a0f809df7c15805c6</id>
+    <link href="https://openai.com/index/sora-system-card"/>
+    <updated>2024-12-09T00:00:00+00:00</updated>
+    <category term="Safety &amp; Alignment"/>
+    <summary>Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
     <title>Animator Lyndon Barrois creates new worlds with Sora</title>
     <id>22ad2457ffd9377600b7b22bf0a25279</id>
     <link href="https://openai.com/index/sora-lyndon-barrois"/>
@@ -1141,30 +1090,6 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <updated>2024-12-09T00:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Minne Atairu &amp; Sora</title>
-    <id>a195b793d69293814d99cb147d1288de</id>
-    <link href="https://openai.com/index/sora-minne-atairu"/>
-    <updated>2024-12-09T00:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Sora System Card</title>
-    <id>2532f66cb1c23a3a0f809df7c15805c6</id>
-    <link href="https://openai.com/index/sora-system-card"/>
-    <updated>2024-12-09T00:00:00+00:00</updated>
-    <category term="Safety &amp; Alignment"/>
-    <summary>Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed to give people expanded tools for storytelling and creative expression. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Put AI to work for your product team</title>
-    <id>81bf41df214b2220e2a1b22689b95192</id>
-    <link href="https://openai.com/index/put-ai-to-work-for-your-product-team"/>
-    <updated>2024-12-09T00:00:00+00:00</updated>
-    <category term="Webinar"/>
-    <summary>Put AI to work for your product team | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Introducing ChatGPT Pro</title>
@@ -1200,10 +1125,10 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
   </entry>
   <entry>
     <title>[HuggingFace] authored a paper</title>
-    <id>cf4384c1d4c37b4ab6f6a627342f62c6</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-11-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: GPT-4o System Card</summary>
+    <id>f162f3ad5313795675171a7f75cf09a8</id>
+    <link href="https://huggingface.co/huggingface_openai"/>
+    <updated>2024-11-27T03:38:34.751733+00:00</updated>
+    <summary>huggingface_openai: authored a paper | Organization: huggingface_openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: GPT-4o System Card</summary>
   </entry>
   <entry>
     <title>Advancing red teaming with people and AI</title>
@@ -1310,17 +1235,10 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
   </entry>
   <entry>
     <title>[HuggingFace] authored 2 papers</title>
-    <id>e56cd9d02aa267001a6e671e89d05bb4</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-10-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models, Lean-STaR: Learning to Interleave Thinking and Proving</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>9ae6a7a3ad0fe015ab7ae534edfb8491</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-10-26T23:44:07.934969+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/MMMLU</summary>
+    <id>6fdcd2a2a6c9974f6ec32a7a491e5155</id>
+    <link href="https://huggingface.co/huggingface_openai"/>
+    <updated>2024-10-27T03:38:34.751733+00:00</updated>
+    <summary>huggingface_openai: authored 2 papers | Organization: huggingface_openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models, Lean-STaR: Learning to Interleave Thinking and Proving</summary>
   </entry>
   <entry>
     <title>OpenAI’s approach to AI and national security</title>
@@ -1483,13 +1401,6 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>Put AI to work: Automate and Scale Financial Operations | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>fc3570ef8c790c48ad347296be228078</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-09-26T23:44:07.934969+00:00</updated>
-    <summary>openai: updated a dataset | Organization: openai | Source: Openai Aggregated (activity) | Action: updated a dataset | Related: openai/welsh-texts</summary>
-  </entry>
-  <entry>
     <title>Upgrading the Moderation API with our new multimodal moderation model</title>
     <id>fe5c42ed8a1a050c989cba4a87970d6a</id>
     <link href="https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model"/>
@@ -1593,20 +1504,20 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>OpenAI o1 system card external testers acknowledgements | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Coding with OpenAI o1</title>
-    <id>3818ea7bff9c8c2d61d1bdd9b573a7f4</id>
-    <link href="https://openai.com/index/o1-coding"/>
-    <updated>2024-09-12T00:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Answering quantum physics questions with OpenAI o1</title>
     <id>d2a1c15baf39c96e0d36ae6a051461d9</id>
     <link href="https://openai.com/index/o1-quantum-physics"/>
     <updated>2024-09-12T00:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Economics and reasoning with OpenAI o1</title>
+    <id>efe8ff76571480b4b4e9999d8a0473f1</id>
+    <link href="https://openai.com/index/o1-economics"/>
+    <updated>2024-09-12T00:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Decoding genetics with OpenAI o1</title>
@@ -1617,12 +1528,12 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Economics and reasoning with OpenAI o1</title>
-    <id>efe8ff76571480b4b4e9999d8a0473f1</id>
-    <link href="https://openai.com/index/o1-economics"/>
+    <title>Coding with OpenAI o1</title>
+    <id>3818ea7bff9c8c2d61d1bdd9b573a7f4</id>
+    <link href="https://openai.com/index/o1-coding"/>
     <updated>2024-09-12T00:00:00+00:00</updated>
     <category term="Story"/>
-    <summary>Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions. | Organization: OpenAI | Source: Openai (news)</summary>
+    <summary>Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Put AI to Work: Lessons from Hundreds of Successful Deployments</title>
@@ -1665,20 +1576,20 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
     <summary>Condé Nast | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Fine-tuning now available for GPT-4o</title>
-    <id>95edd22effd79c48bdc626af28c3bcfc</id>
-    <link href="https://openai.com/index/gpt-4o-fine-tuning"/>
-    <updated>2024-08-20T10:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Putting AI to work at Upwork</title>
     <id>0cc4ce09de25b99e9f5f188b8daed608</id>
     <link href="https://openai.com/index/upwork"/>
     <updated>2024-08-20T10:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Upwork puts AI to work, uniting team members, operations and product development | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Fine-tuning now available for GPT-4o</title>
+    <id>95edd22effd79c48bdc626af28c3bcfc</id>
+    <link href="https://openai.com/index/gpt-4o-fine-tuning"/>
+    <updated>2024-08-20T10:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>Fine-tune custom versions of GPT-4o to increase performance and accuracy for your applications | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Disrupting a covert Iranian influence operation</title>
@@ -1770,34 +1681,6 @@ We’re strengthening our governance with expertise in AI safety and alignment. 
     <summary>We’re sharing a preliminary overview of the EU AI Act including upcoming deadlines and requirements, with a particular focus on prohibited and high-risk use cases | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>09910e680bd6c036cdcf304e0f7ec369</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>8a74155a99773d13bfcb3bbc892a6040</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: SALMON: Self-Alignment with Principle-Following Reward Models</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>5625a076170db6c3e8c9f0d1b9de9dec</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision, Self-Play Preference Optimization for Language Model Alignment</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>d9fb7f6f594f48fe782b4312bb272ffd</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2024-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Instruction-tuned Language Models are Better Knowledge Learners</summary>
-  </entry>
-  <entry>
     <title>SearchGPT is a prototype of new AI search features</title>
     <id>0d6c91d12c7f6ed65ba474f440753fd6</id>
     <link href="https://openai.com/index/searchgpt-prototype"/>
@@ -1878,20 +1761,20 @@ We’re strengthening our governance with expertise in AI safety and alignment. 
     <summary>Highlighting innovative research and AI integration in cybersecurity | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Improved Techniques for Training Consistency Models</title>
-    <id>558fd88af28f9b3d0e07a74c35ef9f68</id>
-    <link href="https://openai.com/index/improved-techniques-for-training-consistency-models"/>
-    <updated>2024-06-20T00:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>A Holistic Approach to Undesired Content Detection in the Real World</title>
     <id>a11043c731fb2f58d20a549975aff234</id>
     <link href="https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world"/>
     <updated>2024-06-20T00:00:00+00:00</updated>
     <category term="Research"/>
     <summary>We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Improved Techniques for Training Consistency Models</title>
+    <id>558fd88af28f9b3d0e07a74c35ef9f68</id>
+    <link href="https://openai.com/index/improved-techniques-for-training-consistency-models"/>
+    <updated>2024-06-20T00:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Consistency Models</title>
@@ -2189,6 +2072,14 @@ Protecting, exploring, and applying advanced artificial intelligence (AI) is our
     <summary>We will also collaborate on new AI experiences for FT readers. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
+    <title>Accelerating the development of life-saving treatments</title>
+    <id>ea9cee182614a771277b928afe213ccf</id>
+    <link href="https://openai.com/index/moderna"/>
+    <updated>2024-04-24T00:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Accelerating the development of life-saving treatments. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
     <title>Introducing ChatGPT and Whisper APIs</title>
     <id>cbd342b0c2c6451b3f1fb6b282b384da</id>
     <link href="https://openai.com/index/introducing-chatgpt-and-whisper-apis"/>
@@ -2205,12 +2096,12 @@ Protecting, exploring, and applying advanced artificial intelligence (AI) is our
     <summary>GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Accelerating the development of life-saving treatments</title>
-    <id>ea9cee182614a771277b928afe213ccf</id>
-    <link href="https://openai.com/index/moderna"/>
-    <updated>2024-04-24T00:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Accelerating the development of life-saving treatments. | Organization: OpenAI | Source: Openai (news)</summary>
+    <title>Introducing more enterprise-grade features for API customers</title>
+    <id>0f535c3fa5ca0dfdd7379fed79ff940f</id>
+    <link href="https://openai.com/index/more-enterprise-grade-features-for-api-customers"/>
+    <updated>2024-04-23T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI’s commitment to child safety: adopting safety by design principles</title>
@@ -2219,14 +2110,6 @@ Protecting, exploring, and applying advanced artificial intelligence (AI) is our
     <updated>2024-04-23T00:00:00+00:00</updated>
     <category term="Safety &amp; Alignment"/>
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Introducing more enterprise-grade features for API customers</title>
-    <id>0f535c3fa5ca0dfdd7379fed79ff940f</id>
-    <link href="https://openai.com/index/more-enterprise-grade-features-for-api-customers"/>
-    <updated>2024-04-23T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions</title>
@@ -2269,20 +2152,20 @@ Protecting, exploring, and applying advanced artificial intelligence (AI) is our
     <summary>Harvey partners with OpenAI to build a custom-trained model for legal professionals. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Start using ChatGPT instantly</title>
-    <id>497d6dfebd412c5ccfc3dd76ae892772</id>
-    <link href="https://openai.com/index/start-using-chatgpt-instantly"/>
-    <updated>2024-04-01T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>We’re making it easier for people to experience the benefits of AI without needing to sign up | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Reducing health insurance costs and improving care</title>
     <id>4a8efd2e6e2eaaa41ddb5022d2bea33e</id>
     <link href="https://openai.com/index/oscar"/>
     <updated>2024-04-01T00:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Oscar brings AI to health insurance, reducing costs and improving patient care. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Start using ChatGPT instantly</title>
+    <id>497d6dfebd412c5ccfc3dd76ae892772</id>
+    <link href="https://openai.com/index/start-using-chatgpt-instantly"/>
+    <updated>2024-04-01T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>We’re making it easier for people to experience the benefits of AI without needing to sign up | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Navigating the challenges and opportunities of synthetic voices</title>
@@ -2327,6 +2210,14 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>JetBrains uses OpenAI’s API to build its fastest-growing product ever. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
+    <title>Reimagining the email experience with AI</title>
+    <id>4861300d7486f5bac6885e1a7160eea1</id>
+    <link href="https://openai.com/index/superhuman"/>
+    <updated>2024-03-18T07:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Superhuman introduces a new era of email with OpenAI. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
     <title>Enterprise-ready trust and safety</title>
     <id>5d722bf1fcdce3fbef7f0e848b4a7867</id>
     <link href="https://openai.com/index/salesforce"/>
@@ -2341,14 +2232,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2024-03-18T07:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Reimagining the email experience with AI</title>
-    <id>4861300d7486f5bac6885e1a7160eea1</id>
-    <link href="https://openai.com/index/superhuman"/>
-    <updated>2024-03-18T07:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Superhuman introduces a new era of email with OpenAI. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Global news partnerships: Le Monde and Prisa Media</title>
@@ -2367,14 +2250,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>OpenAI announces new members to board of directors</title>
-    <id>8d081e3d1cdb028bb2fb20293fe0f90e</id>
-    <link href="https://openai.com/index/openai-announces-new-members-to-board-of-directors"/>
-    <updated>2024-03-08T08:00:00+00:00</updated>
-    <category term="Company"/>
-    <summary>Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Review completed &amp; Altman, Brockman to continue to lead OpenAI</title>
     <id>e504e4c64f8b9161756d0c4d492cc800</id>
     <link href="https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai"/>
@@ -2383,12 +2258,12 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>New board members named and enhancements to the governance structure introduced | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Using AI to improve patient access to clinical trials</title>
-    <id>a79918df8e5368dc8b394a63b83da373</id>
-    <link href="https://openai.com/index/paradigm"/>
-    <updated>2024-03-06T08:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Paradigm uses OpenAI’s API to improve patient access to clinical trials. | Organization: OpenAI | Source: Openai (news)</summary>
+    <title>OpenAI announces new members to board of directors</title>
+    <id>8d081e3d1cdb028bb2fb20293fe0f90e</id>
+    <link href="https://openai.com/index/openai-announces-new-members-to-board-of-directors"/>
+    <updated>2024-03-08T08:00:00+00:00</updated>
+    <category term="Company"/>
+    <summary>Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Sparking a more productive company with ChatGPT Enterprise</title>
@@ -2397,6 +2272,14 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2024-03-06T08:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Match Group uses ChatGPT Enterprise to spark creativity and impact. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Using AI to improve patient access to clinical trials</title>
+    <id>a79918df8e5368dc8b394a63b83da373</id>
+    <link href="https://openai.com/index/paradigm"/>
+    <updated>2024-03-06T08:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Paradigm uses OpenAI’s API to improve patient access to clinical trials. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Improving health literacy and patient well-being</title>
@@ -2527,20 +2410,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Summer Health reimagines pediatric doctor’s visits with OpenAI. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Practices for Governing Agentic AI Systems</title>
-    <id>e45a31f9629251d1ed081fabe235a9bf</id>
-    <link href="https://openai.com/index/practices-for-governing-agentic-ai-systems"/>
-    <updated>2023-12-14T08:00:00+00:00</updated>
-    <category term="Safety &amp; Alignment"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Superalignment Fast Grants</title>
     <id>a24144a21cbc7dade710f0614f31ebb3</id>
     <link href="https://openai.com/index/superalignment-fast-grants"/>
     <updated>2023-12-14T08:00:00+00:00</updated>
     <category term="Safety &amp; Alignment"/>
     <summary>We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Practices for Governing Agentic AI Systems</title>
+    <id>e45a31f9629251d1ed081fabe235a9bf</id>
+    <link href="https://openai.com/index/practices-for-governing-agentic-ai-systems"/>
+    <updated>2023-12-14T08:00:00+00:00</updated>
+    <category term="Safety &amp; Alignment"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Weak-to-strong generalization</title>
@@ -2583,20 +2466,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Working together to create open-source and private datasets for AI training. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>New models and developer products announced at DevDay</title>
-    <id>5ea9bc3b03b7b5c189716b30e549418c</id>
-    <link href="https://openai.com/index/new-models-and-developer-products-announced-at-devday"/>
-    <updated>2023-11-06T08:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Introducing GPTs</title>
     <id>a3222129e60a4868585b85bc2ecec163</id>
     <link href="https://openai.com/index/introducing-gpts"/>
     <updated>2023-11-06T08:00:00+00:00</updated>
     <category term="Product"/>
     <summary>You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>New models and developer products announced at DevDay</title>
+    <id>5ea9bc3b03b7b5c189716b30e549418c</id>
+    <link href="https://openai.com/index/new-models-and-developer-products-announced-at-devday"/>
+    <updated>2023-11-06T08:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Frontier risk and preparedness</title>
@@ -2631,6 +2514,14 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
+    <title>OpenAI’s technology explained</title>
+    <id>ef26025323fbd7d0221746a0c4789d2b</id>
+    <link href="https://openai.com/global-affairs/openai-technology-explained"/>
+    <updated>2023-10-11T07:00:00+00:00</updated>
+    <category term="Global Affairs"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
     <title>Building AI-powered apps for business</title>
     <id>4fe57bc0be1a19c25b5c8a144402ec76</id>
     <link href="https://openai.com/index/retool"/>
@@ -2655,18 +2546,18 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Ironclad uses GPT-4 to simplify the contract review process. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>OpenAI’s technology explained</title>
-    <id>ef26025323fbd7d0221746a0c4789d2b</id>
-    <link href="https://openai.com/global-affairs/openai-technology-explained"/>
-    <updated>2023-10-11T07:00:00+00:00</updated>
-    <category term="Global Affairs"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>DALL·E 3 system card</title>
     <id>dfb1a15d609d1d1ad000fd20d2af5c21</id>
     <link href="https://openai.com/index/dall-e-3-system-card"/>
     <updated>2023-10-03T07:00:00+00:00</updated>
+    <category term="Safety &amp; Alignment"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>GPT-4V(ision) system card</title>
+    <id>2b385c3b45c6aaf9a4adaa363b12a70c</id>
+    <link href="https://openai.com/index/gpt-4v-system-card"/>
+    <updated>2023-09-25T07:00:00+00:00</updated>
     <category term="Safety &amp; Alignment"/>
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
@@ -2677,14 +2568,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2023-09-25T07:00:00+00:00</updated>
     <category term="Product"/>
     <summary>We are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>GPT-4V(ision) system card</title>
-    <id>2b385c3b45c6aaf9a4adaa363b12a70c</id>
-    <link href="https://openai.com/index/gpt-4v-system-card"/>
-    <updated>2023-09-25T07:00:00+00:00</updated>
-    <category term="Safety &amp; Alignment"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI Red Teaming Network</title>
@@ -2765,27 +2648,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2023-08-01T07:00:00+00:00</updated>
     <category term="Safety &amp; Alignment"/>
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored 2 papers</title>
-    <id>49648ec7f5cf797d080f5ec7a8bb1753</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored 2 papers | Organization: openai | Source: Openai Aggregated (activity) | Action: authored 2 papers | Related: LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset, Efficient Memory Management for Large Language Model Serving with PagedAttention</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>84967f12e5e317e196c71fa3fb8a6793</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] authored a paper</title>
-    <id>2854991687694b52527e9b18b96401ad</id>
-    <link href="https://huggingface.co/openai"/>
-    <updated>2023-07-26T23:44:07.934969+00:00</updated>
-    <summary>openai: authored a paper | Organization: openai | Source: Openai Aggregated (activity) | Action: authored a paper | Related: Aligning Large Multimodal Models with Factually Augmented RLHF</summary>
   </entry>
   <entry>
     <title>Frontier Model Forum</title>
@@ -2980,20 +2842,28 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
+    <title>GPT-4</title>
+    <id>8c08385adf801738d74e5b6bfab8b488</id>
+    <link href="https://openai.com/index/gpt-4-research"/>
+    <updated>2023-03-14T07:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Streamlining financial solutions for safety and growth</title>
+    <id>aea3a07bbc79f1f284141dfcd19f1e2b</id>
+    <link href="https://openai.com/index/stripe"/>
+    <updated>2023-03-14T07:00:00+00:00</updated>
+    <category term="Story"/>
+    <summary>Stripe leverages GPT-4 to streamline user experience and combat fraud. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
     <title>Filling crucial language learning gaps</title>
     <id>70096279da459303b1a0682244be6846</id>
     <link href="https://openai.com/index/duolingo"/>
     <updated>2023-03-14T07:00:00+00:00</updated>
     <category term="Story"/>
     <summary>GPT-4 deepens the conversation on Duolingo. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Transforming visual accessibility</title>
-    <id>8c31728b13f18983ddb8bd4a006d3ef8</id>
-    <link href="https://openai.com/index/be-my-eyes"/>
-    <updated>2023-03-14T07:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Be My Eyes uses GPT-4 to transform visual accessibility. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Preserving languages for the future</title>
@@ -3004,12 +2874,12 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>How Iceland is using GPT-4 to preserve its language. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>GPT-4</title>
-    <id>8c08385adf801738d74e5b6bfab8b488</id>
-    <link href="https://openai.com/index/gpt-4-research"/>
+    <title>Transforming visual accessibility</title>
+    <id>8c31728b13f18983ddb8bd4a006d3ef8</id>
+    <link href="https://openai.com/index/be-my-eyes"/>
     <updated>2023-03-14T07:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. | Organization: OpenAI | Source: Openai (news)</summary>
+    <category term="Story"/>
+    <summary>Be My Eyes uses GPT-4 to transform visual accessibility. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Powering virtual education for the classroom</title>
@@ -3018,14 +2888,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <updated>2023-03-14T07:00:00+00:00</updated>
     <category term="Story"/>
     <summary>Khan Academy explores the potential for GPT-4 in a limited pilot program. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
-    <title>Streamlining financial solutions for safety and growth</title>
-    <id>aea3a07bbc79f1f284141dfcd19f1e2b</id>
-    <link href="https://openai.com/index/stripe"/>
-    <updated>2023-03-14T07:00:00+00:00</updated>
-    <category term="Story"/>
-    <summary>Stripe leverages GPT-4 to streamline user experience and combat fraud. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Planning for AGI and beyond</title>
@@ -3316,20 +3178,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>We’re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Measuring Goodhart’s law</title>
-    <id>edbb9a3ca7484a7156d431f8a0ea1640</id>
-    <link href="https://openai.com/index/measuring-goodharts-law"/>
-    <updated>2022-04-13T07:00:00+00:00</updated>
-    <category term="Safety &amp; Alignment"/>
-    <summary>Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Hierarchical text-conditional image generation with CLIP latents</title>
     <id>54e71a8feadf46874a50a93849a8533f</id>
     <link href="https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents"/>
     <updated>2022-04-13T07:00:00+00:00</updated>
     <category term="Research"/>
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Measuring Goodhart’s law</title>
+    <id>edbb9a3ca7484a7156d431f8a0ea1640</id>
+    <link href="https://openai.com/index/measuring-goodharts-law"/>
+    <updated>2022-04-13T07:00:00+00:00</updated>
+    <category term="Safety &amp; Alignment"/>
+    <summary>Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>New GPT-3 capabilities: Edit &amp; insert</title>
@@ -3540,20 +3402,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Language Models. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>CLIP: Connecting text and images</title>
-    <id>7bcf86df4bddcba932dc3b8a3b9b36d3</id>
-    <link href="https://openai.com/index/clip"/>
-    <updated>2021-01-05T08:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3. | Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>DALL·E: Creating images from text</title>
     <id>8a345ec88c704e2385c485ed31e61b5a</id>
     <link href="https://openai.com/index/dall-e"/>
     <updated>2021-01-05T08:00:00+00:00</updated>
     <category term="Research"/>
     <summary>We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>CLIP: Connecting text and images</title>
+    <id>7bcf86df4bddcba932dc3b8a3b9b36d3</id>
+    <link href="https://openai.com/index/clip"/>
+    <updated>2021-01-05T08:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>Organizational update from OpenAI</title>
@@ -4252,20 +4114,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</title>
-    <id>657e7c1c17f005d818002885fa23e177</id>
-    <link href="https://openai.com/index/multi-goal-reinforcement-learning"/>
-    <updated>2018-02-26T08:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Ingredients for robotics research</title>
     <id>58a09337c97401eb89540bd6ffd4b74f</id>
     <link href="https://openai.com/index/ingredients-for-robotics-research"/>
     <updated>2018-02-26T08:00:00+00:00</updated>
     <category term="Research"/>
     <summary>We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research</title>
+    <id>657e7c1c17f005d818002885fa23e177</id>
+    <link href="https://openai.com/index/multi-goal-reinforcement-learning"/>
+    <updated>2018-02-26T08:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI hackathon</title>
@@ -4692,20 +4554,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>#Exploration: A study of count-based exploration for deep reinforcement learning</title>
-    <id>0ece4bded55ce1e0e5133c2b27334a05</id>
-    <link href="https://openai.com/index/exploration"/>
-    <updated>2016-11-15T08:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>OpenAI and Microsoft</title>
     <id>2c81ab02612f9f4be4bce3f0718a55a9</id>
     <link href="https://openai.com/index/openai-and-microsoft"/>
     <updated>2016-11-15T08:00:00+00:00</updated>
     <category term="Company"/>
     <summary>We’re working with Microsoft to start running most of our large-scale experiments on Azure. | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>#Exploration: A study of count-based exploration for deep reinforcement learning</title>
+    <id>0ece4bded55ce1e0e5133c2b27334a05</id>
+    <link href="https://openai.com/index/exploration"/>
+    <updated>2016-11-15T08:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>On the quantitative analysis of decoder-based generative models</title>
@@ -4828,20 +4690,20 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
     <summary>This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our work, this post will tell you a bit more about generative models: what they are, why they are important, and where they might be going. | Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
-    <title>Adversarial training methods for semi-supervised text classification</title>
-    <id>d644cd4a8b7060ad24da006c88d69440</id>
-    <link href="https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification"/>
-    <updated>2016-05-25T07:00:00+00:00</updated>
-    <category term="Safety &amp; Alignment"/>
-    <summary>Organization: OpenAI | Source: Openai (news)</summary>
-  </entry>
-  <entry>
     <title>Team update</title>
     <id>65aa063b2926d4bf545f4bd2c411232a</id>
     <link href="https://openai.com/index/team-update"/>
     <updated>2016-05-25T07:00:00+00:00</updated>
     <category term="Company"/>
     <summary>We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!) | Organization: OpenAI | Source: Openai (news)</summary>
+  </entry>
+  <entry>
+    <title>Adversarial training methods for semi-supervised text classification</title>
+    <id>d644cd4a8b7060ad24da006c88d69440</id>
+    <link href="https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification"/>
+    <updated>2016-05-25T07:00:00+00:00</updated>
+    <category term="Safety &amp; Alignment"/>
+    <summary>Organization: OpenAI | Source: Openai (news)</summary>
   </entry>
   <entry>
     <title>OpenAI Gym Beta</title>

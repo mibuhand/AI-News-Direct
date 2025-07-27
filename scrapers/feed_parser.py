@@ -248,22 +248,22 @@ def process_all_feeds():
 
 
 def extract_source_from_filename(filename):
-    """Extract source name from filename"""
-    # Remove common domain patterns and clean up
-    source = filename.replace('_com_', '_').replace('_org_', '_')
+    """Extract source name from filename using organization patterns"""
+    org_configs = load_organization_configs()
+    filename_lower = filename.lower()
     
-    # Extract the main domain part
-    parts = source.split('_')
-    if len(parts) > 0:
-        return parts[0]
+    # Check against known organization patterns
+    for org_key, config in org_configs.items():
+        for pattern in config.get('patterns', []):
+            if pattern.lower() in filename_lower:
+                return org_key
     
-    return filename
+    raise ValueError(f"Cannot extract organization from filename: {filename}")
 
 
 def get_source_org_from_config(source_name):
     """Get the organization key that matches the source name"""
     org_configs = load_organization_configs()
-    
     source_lower = source_name.lower()
     
     # Check each organization's patterns
@@ -272,12 +272,43 @@ def get_source_org_from_config(source_name):
             if pattern.lower() in source_lower:
                 return org_key
     
-    # Fallback: check if source_name matches org key directly
+    # Check if source_name matches org key directly
     if source_lower in org_configs:
         return source_lower
     
-    return source_name
+    raise ValueError(f"Cannot find organization for source: {source_name}")
 
+
+def load_sites_config():
+    """Load site configuration to get output filenames"""
+    config_dir = project_dir / 'config'
+    config_file = config_dir / 'sites_config.json'
+    with open(config_file, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def get_feed_output_filename(source_name, org_key):
+    """Get the configured output filename for feeds"""
+    sites_config = load_sites_config()
+    
+    # Find matching site configuration
+    for site in sites_config:
+        if (site.get('organization_key') == org_key and 
+            site.get('type') == 'feeds'):
+            
+            # Get the configured output filename
+            output_files = site.get('output_files', {})
+            return output_files.get('feeds', f'{org_key}_feeds.json')
+    
+    # Fallback to old naming pattern
+    source_lower = source_name.lower()
+    if 'news' in source_lower:
+        return f'{org_key}_news_feeds.json'
+    elif 'blog' in source_lower:
+        return f'{org_key}_blog_feeds.json'
+    elif 'ai' in source_lower and 'blog' not in source_lower:
+        return f'{org_key}_ai_feeds.json'
+    else:
+        return f'{org_key}_feeds.json'
 
 def save_parsed_feed(items, source_name):
     """Save parsed feed items to JSON file"""
@@ -299,7 +330,11 @@ def save_parsed_feed(items, source_name):
     try:
         # Use organization key for consistent naming
         org_key = get_source_org_from_config(source_name)
-        json_path = parsed_dir / f'{org_key}_feeds.json'
+        
+        # Get config-driven filename
+        output_filename = get_feed_output_filename(source_name, org_key)
+        json_path = parsed_dir / output_filename
+            
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(dedup_list, f, indent=4)
         logging.info(f"Saved {len(dedup_list)} items to {json_path}")
