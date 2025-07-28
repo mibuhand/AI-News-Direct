@@ -4,7 +4,7 @@
         <description><![CDATA[The OpenAI blog]]></description>
         <link>https://openai.com/news</link>
         <generator>OpenAI</generator>
-        <lastBuildDate>Mon, 28 Jul 2025 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 19:10:55 GMT</lastBuildDate>
         <atom:link href="https://openai.com/news/rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Resolving digital threats 100x faster with OpenAI]]></title>
@@ -268,17 +268,17 @@
             <pubDate>Wed, 21 May 2025 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Addendum to o3 and o4-mini system card: Codex]]></title>
-            <description><![CDATA[Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.]]></description>
-            <link>https://openai.com/index/o3-o4-mini-codex-system-card-addendum</link>
-            <guid isPermaLink="true">https://openai.com/index/o3-o4-mini-codex-system-card-addendum</guid>
-            <pubDate>Fri, 16 May 2025 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing Codex]]></title>
             <description><![CDATA[Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.]]></description>
             <link>https://openai.com/index/introducing-codex</link>
             <guid isPermaLink="true">https://openai.com/index/introducing-codex</guid>
+            <pubDate>Fri, 16 May 2025 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Addendum to o3 and o4-mini system card: Codex]]></title>
+            <description><![CDATA[Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.]]></description>
+            <link>https://openai.com/index/o3-o4-mini-codex-system-card-addendum</link>
+            <guid isPermaLink="true">https://openai.com/index/o3-o4-mini-codex-system-card-addendum</guid>
             <pubDate>Fri, 16 May 2025 08:00:00 GMT</pubDate>
         </item>
         <item>
@@ -409,10 +409,10 @@
             <pubDate>Tue, 22 Apr 2025 06:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thinking with images]]></title>
-            <description><![CDATA[OpenAI o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought.]]></description>
-            <link>https://openai.com/index/thinking-with-images</link>
-            <guid isPermaLink="true">https://openai.com/index/thinking-with-images</guid>
+            <title><![CDATA[Introducing OpenAI o3 and o4-mini]]></title>
+            <description><![CDATA[Our smartest and most capable models to date with full tool access]]></description>
+            <link>https://openai.com/index/introducing-o3-and-o4-mini</link>
+            <guid isPermaLink="true">https://openai.com/index/introducing-o3-and-o4-mini</guid>
             <pubDate>Wed, 16 Apr 2025 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -423,10 +423,10 @@
             <pubDate>Wed, 16 Apr 2025 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing OpenAI o3 and o4-mini]]></title>
-            <description><![CDATA[Our smartest and most capable models to date with full tool access]]></description>
-            <link>https://openai.com/index/introducing-o3-and-o4-mini</link>
-            <guid isPermaLink="true">https://openai.com/index/introducing-o3-and-o4-mini</guid>
+            <title><![CDATA[Thinking with images]]></title>
+            <description><![CDATA[OpenAI o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought.]]></description>
+            <link>https://openai.com/index/thinking-with-images</link>
+            <guid isPermaLink="true">https://openai.com/index/thinking-with-images</guid>
             <pubDate>Wed, 16 Apr 2025 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2048,18 +2048,18 @@ Protecting, exploring, and applying advanced artificial intelligence (AI) is our
             <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing ChatGPT and Whisper APIs]]></title>
-            <description><![CDATA[Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.]]></description>
-            <link>https://openai.com/index/introducing-chatgpt-and-whisper-apis</link>
-            <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-and-whisper-apis</guid>
-            <category><![CDATA[Product]]></category>
-            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GPT-4 API general availability and deprecation of older models in the Completions API]]></title>
             <description><![CDATA[GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.]]></description>
             <link>https://openai.com/index/gpt-4-api-general-availability</link>
             <guid isPermaLink="true">https://openai.com/index/gpt-4-api-general-availability</guid>
+            <category><![CDATA[Product]]></category>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing ChatGPT and Whisper APIs]]></title>
+            <description><![CDATA[Developers can now integrate ChatGPT and Whisper models into their apps and products through our API.]]></description>
+            <link>https://openai.com/index/introducing-chatgpt-and-whisper-apis</link>
+            <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-and-whisper-apis</guid>
             <category><![CDATA[Product]]></category>
             <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
         </item>
@@ -2201,14 +2201,6 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
             <pubDate>Mon, 18 Mar 2024 07:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Global news partnerships: Le Monde and Prisa Media]]></title>
-            <description><![CDATA[We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.]]></description>
-            <link>https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media</link>
-            <guid isPermaLink="true">https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media</guid>
-            <category><![CDATA[Company]]></category>
-            <pubDate>Wed, 13 Mar 2024 07:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Saving lives with AI health coaching]]></title>
             <description><![CDATA[Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.]]></description>
             <link>https://openai.com/index/healthify</link>
@@ -2217,12 +2209,12 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
             <pubDate>Wed, 13 Mar 2024 07:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI announces new members to board of directors]]></title>
-            <description><![CDATA[Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board]]></description>
-            <link>https://openai.com/index/openai-announces-new-members-to-board-of-directors</link>
-            <guid isPermaLink="true">https://openai.com/index/openai-announces-new-members-to-board-of-directors</guid>
+            <title><![CDATA[Global news partnerships: Le Monde and Prisa Media]]></title>
+            <description><![CDATA[We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.]]></description>
+            <link>https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media</link>
+            <guid isPermaLink="true">https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media</guid>
             <category><![CDATA[Company]]></category>
-            <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
+            <pubDate>Wed, 13 Mar 2024 07:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review completed & Altman, Brockman to continue to lead OpenAI]]></title>
@@ -2233,12 +2225,12 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
             <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sparking a more productive company with ChatGPT Enterprise]]></title>
-            <description><![CDATA[Match Group uses ChatGPT Enterprise to spark creativity and impact.]]></description>
-            <link>https://openai.com/index/match-group</link>
-            <guid isPermaLink="true">https://openai.com/index/match-group</guid>
-            <category><![CDATA[Story]]></category>
-            <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+            <title><![CDATA[OpenAI announces new members to board of directors]]></title>
+            <description><![CDATA[Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board]]></description>
+            <link>https://openai.com/index/openai-announces-new-members-to-board-of-directors</link>
+            <guid isPermaLink="true">https://openai.com/index/openai-announces-new-members-to-board-of-directors</guid>
+            <category><![CDATA[Company]]></category>
+            <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Improving health literacy and patient well-being]]></title>
@@ -2253,6 +2245,14 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
             <description><![CDATA[Paradigm uses OpenAI’s API to improve patient access to clinical trials.]]></description>
             <link>https://openai.com/index/paradigm</link>
             <guid isPermaLink="true">https://openai.com/index/paradigm</guid>
+            <category><![CDATA[Story]]></category>
+            <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sparking a more productive company with ChatGPT Enterprise]]></title>
+            <description><![CDATA[Match Group uses ChatGPT Enterprise to spark creativity and impact.]]></description>
+            <link>https://openai.com/index/match-group</link>
+            <guid isPermaLink="true">https://openai.com/index/match-group</guid>
             <category><![CDATA[Story]]></category>
             <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
         </item>
@@ -2337,18 +2337,18 @@ This comment was submitted by OpenAI in response to NTIA’s March 2024 Request 
             <pubDate>Fri, 12 Jan 2024 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing the GPT Store]]></title>
-            <description><![CDATA[We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.]]></description>
-            <link>https://openai.com/index/introducing-the-gpt-store</link>
-            <guid isPermaLink="true">https://openai.com/index/introducing-the-gpt-store</guid>
-            <category><![CDATA[Product]]></category>
-            <pubDate>Wed, 10 Jan 2024 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing ChatGPT Team]]></title>
             <description><![CDATA[We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.]]></description>
             <link>https://openai.com/index/introducing-chatgpt-team</link>
             <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-team</guid>
+            <category><![CDATA[Product]]></category>
+            <pubDate>Wed, 10 Jan 2024 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the GPT Store]]></title>
+            <description><![CDATA[We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.]]></description>
+            <link>https://openai.com/index/introducing-the-gpt-store</link>
+            <guid isPermaLink="true">https://openai.com/index/introducing-the-gpt-store</guid>
             <category><![CDATA[Product]]></category>
             <pubDate>Wed, 10 Jan 2024 08:00:00 GMT</pubDate>
         </item>

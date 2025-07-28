@@ -2,6 +2,7 @@
     {
         "site": "https://seed.bytedance.com/en",
         "organization_key": "bytedance",
+        "favicon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico",
         "pages": ["blog", "research"],
         "output_files": {
             "blog": "bytedance_seed_blog.json",
@@ -16,6 +17,7 @@
     {
         "site": "https://www.anthropic.com",
         "organization_key": "anthropic",
+        "favicon_url": "https://www.anthropic.com/favicon.ico",
         "pages": ["news", "research", "engineering"],
         "output_files": {
             "news": "anthropic_news.json",
@@ -32,6 +34,7 @@
     {
         "site": "https://openai.com/research/index",
         "organization_key": "openai",
+        "favicon_url": "https://openai.com/favicon.ico",
         "pages": [""],
         "output_files": {
             "main": "openai_research.json"
@@ -44,6 +47,7 @@
     {
         "site": "https://openai.com",
         "organization_key": "openai",
+        "favicon_url": "https://openai.com/favicon.ico",
         "type": "feeds",
         "feeds": [
             {
@@ -62,6 +66,7 @@
     {
         "site": "https://deepmind.google",
         "organization_key": "google_deepmind",
+        "favicon_url": "https://deepmind.google/static/icons/google_deepmind_32dp.c67bb05568f4.ico",
         "type": "feeds",
         "feeds": [
             {
@@ -80,6 +85,7 @@
     {
         "site": "https://blog.google",
         "organization_key": "google_ai",
+        "favicon_url": "https://www.google.com/favicon.ico",
         "type": "feeds",
         "feeds": [
             {
@@ -98,6 +104,7 @@
     {
         "site": "https://www.microsoft.com",
         "organization_key": "microsoft",
+        "favicon_url": "https://www.microsoft.com/favicon.ico",
         "type": "feeds",
         "feeds": [
             {
@@ -116,6 +123,7 @@
     {
         "site": "https://huggingface.co",
         "organization_key": "huggingface",
+        "favicon_url": "https://huggingface.co/favicon.ico",
         "type": "organization_matrix",
         "base_path": "/organizations",
         "organizations": [
@@ -177,6 +185,7 @@
     {
         "site": "https://huggingface.co",
         "organization_key": "huggingface",
+        "favicon_url": "https://huggingface.co/favicon.ico",
         "type": "user_profiles",
         "users": [
             "/Kijai"

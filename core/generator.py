@@ -11,39 +11,55 @@ from aggregator import aggregate_all_organizations, ORGANIZATION_CONFIGS
 project_dir = Path(__file__).resolve().parent.parent
 parsed_dir = project_dir / 'data' / 'parsed'
 feeds_dir = project_dir / 'feeds'
+config_dir = project_dir / 'config'
 
 # Ensure feeds directory exists
 feeds_dir.mkdir(exist_ok=True)
 
+# Load sites configuration
+def load_sites_config():
+    """Load sites configuration from JSON file"""
+    config_file = config_dir / 'sites_config.json'
+    try:
+        with open(config_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading sites config: {e}")
+        return []
+
+SITES_CONFIG = load_sites_config()
+
+def get_favicon_url_by_key(favicon_key):
+    """Resolve favicon_key to actual URL from sites_config.json"""
+    for site_config in SITES_CONFIG:
+        if site_config.get('organization_key') == favicon_key:
+            return site_config.get('favicon_url', '')
+    return ''
+
 def get_feed_icon(feed_name, source):
-    """Get appropriate icon URL for the feed"""
-    # First check if this is an aggregated feed and get icon from config
+    """Get appropriate icon URL for the feed using config files as source of truth"""
+    # First check if this is an aggregated feed - use organizations.json
     if '_aggregated' in feed_name:
         org_key = feed_name.replace('_aggregated', '')
         if org_key in ORGANIZATION_CONFIGS:
             config = ORGANIZATION_CONFIGS[org_key]
-            return config.get('icon_url', 'https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/icon.png')
+            favicon_key = config.get('favicon_key', '')
+            if favicon_key:
+                favicon_url = get_favicon_url_by_key(favicon_key)
+                if favicon_url:
+                    return favicon_url
     
-    # Organization-specific icons (using public favicon URLs)
-    if 'anthropic' in feed_name:
-        return 'https://www.anthropic.com/favicon.ico'
-    elif 'openai' in feed_name:
-        return 'https://openai.com/favicon.ico'
-    elif 'deepmind' in feed_name:
-        return 'https://deepmind.google/static/icons/google_deepmind_32dp.c67bb05568f4.ico'
-    elif 'google' in feed_name:
-        return 'https://www.google.com/favicon.ico'
-    elif 'bytedance' in feed_name:
-        return 'https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico'
-    elif 'microsoft' in feed_name:
-        return 'https://www.microsoft.com/favicon.ico'
-    elif 'meta' in feed_name or 'facebook' in feed_name:
-        return 'https://about.meta.com/favicon.ico'
-    elif 'huggingface' in feed_name:
-        return 'https://huggingface.co/favicon.ico'
-    else:
-        # Default AI News Direct icon
-        return 'https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg'
+    # For non-aggregated feeds, try to find matching site in sites_config.json
+    for site_config in SITES_CONFIG:
+        org_key = site_config.get('organization_key', '')
+        favicon_url = site_config.get('favicon_url', '')
+        
+        # Check if feed name contains the organization key
+        if org_key and org_key in feed_name and favicon_url:
+            return favicon_url
+    
+    # Default AI News Direct icon
+    return 'https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg'
 
 
 def create_atom_feed(entries, feed_title, feed_id, feed_link, base_url, feed_name='', source=''):
@@ -58,10 +74,6 @@ def create_atom_feed(entries, feed_title, feed_id, feed_link, base_url, feed_nam
     
     feed_id_elem = SubElement(feed, 'id')
     feed_id_elem.text = feed_id
-    
-    # Add main channel link (for favicon detection)
-    main_link = SubElement(feed, 'link')
-    main_link.set('href', base_url)
     
     # Add feed icon
     icon_url = get_feed_icon(feed_name, source)

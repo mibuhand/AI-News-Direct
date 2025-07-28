@@ -8,7 +8,7 @@
         "aggregated_file": "bytedance_aggregated.json",
         "base_url": "https://seed.bytedance.com",
         "feed_title": "ByteDance AI - All Activities",
-        "icon_url": "https://seed.bytedance.com/favicon.ico"
+        "favicon_key": "bytedance"
     },
     "anthropic": {
         "name": "Anthropic",
@@ -19,7 +19,7 @@
         "aggregated_file": "anthropic_aggregated.json",
         "base_url": "https://www.anthropic.com",
         "feed_title": "Anthropic - All Activities",
-        "icon_url": "https://www.anthropic.com/favicon.ico"
+        "favicon_key": "anthropic"
     },
     "openai": {
         "name": "OpenAI",
@@ -30,7 +30,7 @@
         "aggregated_file": "openai_aggregated.json",
         "base_url": "https://openai.com",
         "feed_title": "OpenAI - All Activities",
-        "icon_url": "https://openai.com/favicon.ico"
+        "favicon_key": "openai"
     },
     "meta": {
         "name": "Meta",
@@ -41,7 +41,7 @@
         "aggregated_file": "meta_aggregated.json",
         "base_url": "https://huggingface.co",
         "feed_title": "Meta - All Activities",
-        "icon_url": "https://about.meta.com/favicon.ico"
+        "favicon_key": "meta"
     },
     "google": {
         "name": "Google",
@@ -52,7 +52,7 @@
         "aggregated_file": "google_aggregated.json",
         "base_url": "https://ai.google",
         "feed_title": "Google - All Activities",
-        "icon_url": "https://www.google.com/favicon.ico"
+        "favicon_key": "google_ai"
     },
     "microsoft": {
         "name": "Microsoft",
@@ -63,6 +63,6 @@
         "aggregated_file": "microsoft_aggregated.json",
         "base_url": "https://www.microsoft.com",
         "feed_title": "Microsoft - All Activities",
-        "icon_url": "https://www.microsoft.com/favicon.ico"
+        "favicon_key": "microsoft"
     }
 }

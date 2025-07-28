@@ -168,7 +168,7 @@
         "title": "[HuggingFace] updated 4 models",
         "description": "huggingface_google: updated 4 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-17T18:25:47.272959+00:00",
+        "published_date": "2025-07-17T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -205,7 +205,7 @@
         "title": "[HuggingFace] authored a paper",
         "description": "huggingface_google: authored a paper",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-16T18:25:47.272959+00:00",
+        "published_date": "2025-07-16T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -267,7 +267,7 @@
         "title": "[HuggingFace] published 2 models",
         "description": "huggingface_google: published 2 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-15T18:25:47.272959+00:00",
+        "published_date": "2025-07-15T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -333,7 +333,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_google: updated a model",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-11T18:25:47.272959+00:00",
+        "published_date": "2025-07-11T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -349,13 +349,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "806ece9af8d387a9d6f7847126c929c6",
+        "id": "c05a6c2f36409bfd948ae532408fab0a",
         "source": "google_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a model",
         "description": "huggingface_google: published a model",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-09T18:25:47.272959+00:00",
+        "published_date": "2025-07-09T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -363,9 +363,9 @@
         },
         "objects": [
             {
-                "title": "google/medsiglip-448",
-                "url": "https://huggingface.co/google/medsiglip-448",
-                "type": "Zero-Shot Image Classification"
+                "title": "google/medgemma-27b-it",
+                "url": "https://huggingface.co/google/medgemma-27b-it",
+                "type": "Image-Text-to-Text"
             }
         ],
         "original_source": "huggingface"
@@ -377,7 +377,7 @@
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_google: updated 2 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-09T18:25:47.272959+00:00",
+        "published_date": "2025-07-09T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -437,6 +437,28 @@
         "objects": []
     },
     {
+        "id": "18180e89fa6f4c0c00174f15fe5bc4eb",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_google: updated a dataset",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2025-07-07T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "google/svq",
+                "url": "https://huggingface.co/datasets/google/svq",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "38639587ef8a07ec816f1df826421246",
         "source": "google_ai",
         "type": "news",
@@ -456,28 +478,6 @@
             "feed_type": "rss"
         },
         "objects": []
-    },
-    {
-        "id": "18180e89fa6f4c0c00174f15fe5bc4eb",
-        "source": "google_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "huggingface_google: updated a dataset",
-        "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-07T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_google",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "google/svq",
-                "url": "https://huggingface.co/datasets/google/svq",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
     },
     {
         "id": "24ace07ff76b421e889ac70c6703266e",
@@ -549,13 +549,13 @@
         "objects": []
     },
     {
-        "id": "31a7f82033ef39138140f17df4726286",
+        "id": "f017c4e3e6e57feb6e32a512547adaa1",
         "source": "google_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a dataset",
         "description": "huggingface_google: published a dataset",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-06-28T18:25:47.272959+00:00",
+        "published_date": "2025-06-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -563,8 +563,8 @@
         },
         "objects": [
             {
-                "title": "google/gemma3n-slicing-configs",
-                "url": "https://huggingface.co/datasets/google/gemma3n-slicing-configs",
+                "title": "google/DOCCI-Critique",
+                "url": "https://huggingface.co/datasets/google/DOCCI-Critique",
                 "type": ""
             }
         ],
@@ -782,17 +782,17 @@
         "objects": []
     },
     {
-        "id": "88d945e52c1d7a91fa573f2c9acef128",
+        "id": "2f9d3d596d285e91c3d0ec57314c7607",
         "source": "google_deepmind",
         "type": "news",
-        "title": "Advancing Gemini's security safeguards",
-        "description": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
-        "url": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
+        "title": "Gemini 2.5: Our most intelligent models are getting even better",
+        "description": "Gemini 2.5 Pro continues to be loved by developers as the best model for coding, and 2.5 Flash is getting even better with a new update. We\u2019re bringing new capabilities to our models, including Deep Think, an experimental enhanced reasoning mode for 2.5 Pro.",
+        "url": "https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/",
         "published_date": "2025-05-20T09:45:00+00:00",
         "categories": [],
         "organization": "Google",
         "metadata": {
-            "guid": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
+            "guid": "https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/",
             "feed_type": "rss"
         },
         "objects": []
@@ -814,17 +814,33 @@
         "objects": []
     },
     {
-        "id": "2f9d3d596d285e91c3d0ec57314c7607",
+        "id": "4a0e2af552abd08aee14653a617188d5",
         "source": "google_deepmind",
         "type": "news",
-        "title": "Gemini 2.5: Our most intelligent models are getting even better",
-        "description": "Gemini 2.5 Pro continues to be loved by developers as the best model for coding, and 2.5 Flash is getting even better with a new update. We\u2019re bringing new capabilities to our models, including Deep Think, an experimental enhanced reasoning mode for 2.5 Pro.",
-        "url": "https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/",
+        "title": "SynthID Detector \u2014 a new portal to help identify AI-generated content",
+        "description": "Learn about the new SynthID Detector portal we announced at I/O to help people understand how the content they see online was generated.",
+        "url": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
         "published_date": "2025-05-20T09:45:00+00:00",
         "categories": [],
         "organization": "Google",
         "metadata": {
-            "guid": "https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/",
+            "guid": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "88d945e52c1d7a91fa573f2c9acef128",
+        "source": "google_deepmind",
+        "type": "news",
+        "title": "Advancing Gemini's security safeguards",
+        "description": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
+        "url": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
+        "published_date": "2025-05-20T09:45:00+00:00",
+        "categories": [],
+        "organization": "Google",
+        "metadata": {
+            "guid": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
             "feed_type": "rss"
         },
         "objects": []
@@ -841,22 +857,6 @@
         "organization": "Google",
         "metadata": {
             "guid": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "4a0e2af552abd08aee14653a617188d5",
-        "source": "google_deepmind",
-        "type": "news",
-        "title": "SynthID Detector \u2014 a new portal to help identify AI-generated content",
-        "description": "Learn about the new SynthID Detector portal we announced at I/O to help people understand how the content they see online was generated.",
-        "url": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
-        "published_date": "2025-05-20T09:45:00+00:00",
-        "categories": [],
-        "organization": "Google",
-        "metadata": {
-            "guid": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
             "feed_type": "rss"
         },
         "objects": []
@@ -1092,7 +1092,7 @@
         "title": "[HuggingFace] updated 2 datasets",
         "description": "huggingface_google: updated 2 datasets",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-02-28T18:25:47.272959+00:00",
+        "published_date": "2025-02-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -1423,7 +1423,7 @@
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_deepmind: updated 2 models",
         "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-08-28T18:25:47.272959+00:00",
+        "published_date": "2024-08-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_deepmind",
         "metadata": {
@@ -1492,99 +1492,47 @@
         "objects": []
     },
     {
-        "id": "c4e257adc68cf234f8a91993e33f0e45",
+        "id": "94f25d9c6eaccba0398d4ee1ade47102",
         "source": "google_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] authored 12 papers",
-        "description": "huggingface_google: authored 12 papers",
+        "title": "[HuggingFace] authored 6 papers",
+        "description": "huggingface_google: authored 6 papers",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2024-07-28T18:25:47.272959+00:00",
+        "published_date": "2024-07-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
-            "action": "authored 12 papers"
+            "action": "authored 6 papers"
         },
         "objects": [
             {
-                "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
-                "url": "https://huggingface.co/papers/2310.08864",
+                "title": "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains",
+                "url": "https://huggingface.co/papers/2402.00559",
                 "type": ""
             },
             {
-                "title": "RoboVQA: Multimodal Long-Horizon Reasoning for Robotics",
-                "url": "https://huggingface.co/papers/2311.00899",
+                "title": "TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools",
+                "url": "https://huggingface.co/papers/2406.03618",
                 "type": ""
             },
             {
-                "title": "Agile Catching with Whole-Body MPC and Blackbox Policy Learning",
-                "url": "https://huggingface.co/papers/2306.08205",
+                "title": "Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP",
+                "url": "https://huggingface.co/papers/2407.00402",
                 "type": ""
             },
             {
-                "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
-                "url": "https://huggingface.co/papers/2307.15818",
+                "title": "Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations",
+                "url": "https://huggingface.co/papers/2406.13632",
                 "type": ""
             },
             {
-                "title": "AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents",
-                "url": "https://huggingface.co/papers/2401.12963",
+                "title": "CoverBench: A Challenging Benchmark for Complex Claim Verification",
+                "url": "https://huggingface.co/papers/2408.03325",
                 "type": ""
             },
             {
-                "title": "Robotic Table Tennis: A Case Study into a High Speed Learning System",
-                "url": "https://huggingface.co/papers/2309.03315",
-                "type": ""
-            },
-            {
-                "title": "Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers",
-                "url": "https://huggingface.co/papers/2403.12943",
-                "type": ""
-            },
-            {
-                "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
-                "url": "https://huggingface.co/papers/2403.12945",
-                "type": ""
-            },
-            {
-                "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
-                "url": "https://huggingface.co/papers/2212.06817",
-                "type": ""
-            },
-            {
-                "title": "Octo: An Open-Source Generalist Robot Policy",
-                "url": "https://huggingface.co/papers/2405.12213",
-                "type": ""
-            },
-            {
-                "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
-                "url": "https://huggingface.co/papers/2406.09246",
-                "type": ""
-            },
-            {
-                "title": "Achieving Human Level Competitive Robot Table Tennis",
-                "url": "https://huggingface.co/papers/2408.03906",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "affee5655fad7bd403125b8b1009292a",
-        "source": "google_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "huggingface_deepmind: authored a paper",
-        "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-07-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_deepmind",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "StarCoder 2 and The Stack v2: The Next Generation",
-                "url": "https://huggingface.co/papers/2402.19173",
+                "title": "Data Contamination Report from the 2024 CONDA Shared Task",
+                "url": "https://huggingface.co/papers/2407.21530",
                 "type": ""
             }
         ],
@@ -1597,7 +1545,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_deepmind: updated a model",
         "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-07-28T18:25:47.272959+00:00",
+        "published_date": "2024-07-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_deepmind",
         "metadata": {
@@ -1608,6 +1556,28 @@
                 "title": "deepmind/language-perceiver",
                 "url": "https://huggingface.co/deepmind/language-perceiver",
                 "type": "Fill-Mask"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "affee5655fad7bd403125b8b1009292a",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "huggingface_deepmind: authored a paper",
+        "url": "https://huggingface.co/huggingface_deepmind",
+        "published_date": "2024-07-28T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_deepmind",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "StarCoder 2 and The Stack v2: The Next Generation",
+                "url": "https://huggingface.co/papers/2402.19173",
+                "type": ""
             }
         ],
         "original_source": "huggingface"

@@ -1,16 +1,16 @@
 [
     {
-        "id": "dfe46be283f2dd9fd546f536e8e764cf",
+        "id": "da056e1b5c2ca4e37d07c2c534ba8ca1",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] updated 3 models",
-        "description": "huggingface_ByteDanceSeed: updated 3 models",
+        "title": "[HuggingFace] updated 5 models",
+        "description": "huggingface_ByteDanceSeed: updated 5 models",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-28T12:25:47.272959+00:00",
+        "published_date": "2025-07-28T11:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
-            "action": "updated 3 models"
+            "action": "updated 5 models"
         },
         "objects": [
             {
@@ -26,19 +26,29 @@
             {
                 "title": "ByteDance-Seed/Seed-X-RM-7B",
                 "url": "https://huggingface.co/ByteDance-Seed/Seed-X-RM-7B",
-                "type": "Updatedabout 6 hours ago"
+                "type": "Updatedabout 8 hours ago"
+            },
+            {
+                "title": "ByteDance-Seed/Seed-X-PPO-7B",
+                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-PPO-7B",
+                "type": "Translation"
+            },
+            {
+                "title": "ByteDance-Seed/Seed-X-PPO-7B-GPTQ-Int8",
+                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-PPO-7B-GPTQ-Int8",
+                "type": "Translation"
             }
         ],
         "original_source": "huggingface"
     },
     {
-        "id": "0053d68529df1d3bc15d80cfdfa0b847",
+        "id": "ddd1b518f2aefda29f79dda11cd90aaf",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published 2 models",
         "description": "huggingface_ByteDanceSeed: published 2 models",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-28T11:25:47.272959+00:00",
+        "published_date": "2025-07-28T11:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -59,40 +69,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "5be39447d15d33197724b44893f94e92",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated 2 models",
-        "description": "huggingface_ByteDanceSeed: updated 2 models",
-        "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-28T11:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDanceSeed",
-        "metadata": {
-            "action": "updated 2 models"
-        },
-        "objects": [
-            {
-                "title": "ByteDance-Seed/Seed-X-PPO-7B",
-                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-PPO-7B",
-                "type": "Translation"
-            },
-            {
-                "title": "ByteDance-Seed/Seed-X-PPO-7B-GPTQ-Int8",
-                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-PPO-7B-GPTQ-Int8",
-                "type": "Translation"
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "59cd247bb1ce8dc12c70eb36ef4cd496",
+        "id": "cd6668e4e025d1ced384d42d315a7a0a",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_bytedanceresearch: updated a model",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-07-28T05:25:47.272959+00:00",
+        "published_date": "2025-07-28T05:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -114,7 +97,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_ByteDance: updated a model",
         "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-07-24T18:25:47.272959+00:00",
+        "published_date": "2025-07-24T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDance",
         "metadata": {
@@ -162,6 +145,28 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/pdf/2507.17527"
+    },
+    {
+        "id": "1e64c7d2530870d4af86d0b325851431",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "huggingface_ByteDance: authored a paper",
+        "url": "https://huggingface.co/huggingface_ByteDance",
+        "published_date": "2025-07-22T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_ByteDance",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+                "url": "https://huggingface.co/papers/2507.15061",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
     },
     {
         "id": "0a250cd7c4cc2e4f3ae29337b4a499ff",
@@ -224,7 +229,7 @@
         "title": "[HuggingFace] published 3 models",
         "description": "huggingface_ByteDanceSeed: published 3 models",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-17T18:25:47.272959+00:00",
+        "published_date": "2025-07-17T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -239,7 +244,7 @@
             {
                 "title": "ByteDance-Seed/Seed-X-RM-7B",
                 "url": "https://huggingface.co/ByteDance-Seed/Seed-X-RM-7B",
-                "type": "Updatedabout 6 hours ago"
+                "type": "Updatedabout 8 hours ago"
             },
             {
                 "title": "ByteDance-Seed/Seed-X-PPO-7B",
@@ -250,45 +255,33 @@
         "original_source": "huggingface"
     },
     {
-        "id": "9c082e61a56bdfde4295d3694e03caf8",
+        "id": "9489dfe1451786b85aa449e9fb86ba54",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "huggingface_ByteDance: authored a paper",
-        "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-07-15T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDance",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second",
-                "url": "https://huggingface.co/papers/2507.10065",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "4bab773d3b449d3b143ba44841e47436",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "huggingface_ByteDanceSeed: updated a dataset",
+        "title": "[HuggingFace] updated 3 models",
+        "description": "huggingface_ByteDanceSeed: updated 3 models",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-14T18:25:47.272959+00:00",
+        "published_date": "2025-07-17T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
-            "action": "updated a dataset"
+            "action": "updated 3 models"
         },
         "objects": [
             {
-                "title": "ByteDance-Seed/Multi-SWE-bench-flash",
-                "url": "https://huggingface.co/datasets/ByteDance-Seed/Multi-SWE-bench-flash",
-                "type": ""
+                "title": "ByteDance-Seed/Seed-X-Instruct-7B",
+                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-Instruct-7B",
+                "type": "Translation"
+            },
+            {
+                "title": "ByteDance-Seed/Seed-X-RM-7B",
+                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-RM-7B",
+                "type": "Updatedabout 8 hours ago"
+            },
+            {
+                "title": "ByteDance-Seed/Seed-X-PPO-7B",
+                "url": "https://huggingface.co/ByteDance-Seed/Seed-X-PPO-7B",
+                "type": "Translation"
             }
         ],
         "original_source": "huggingface"
@@ -300,7 +293,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_ByteDanceSeed: updated a model",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-14T18:25:47.272959+00:00",
+        "published_date": "2025-07-14T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -316,13 +309,35 @@
         "original_source": "huggingface"
     },
     {
+        "id": "4bab773d3b449d3b143ba44841e47436",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_ByteDanceSeed: updated a dataset",
+        "url": "https://huggingface.co/huggingface_ByteDanceSeed",
+        "published_date": "2025-07-14T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_ByteDanceSeed",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "ByteDance-Seed/Multi-SWE-bench-flash",
+                "url": "https://huggingface.co/datasets/ByteDance-Seed/Multi-SWE-bench-flash",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "e1cd672572b664f0d86285adc18e617d",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a dataset",
         "description": "huggingface_ByteDanceSeed: published a dataset",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-14T18:25:47.272959+00:00",
+        "published_date": "2025-07-14T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -398,7 +413,7 @@
         "title": "[HuggingFace] authored a paper",
         "description": "huggingface_ByteDanceSeed: authored a paper",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-02T18:25:47.272959+00:00",
+        "published_date": "2025-07-02T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -414,13 +429,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "17e8355d13349a6a4b6cbb88dc4dc223",
+        "id": "eb04d2da6e56adcd3e9f7e5e25c3a863",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a model",
         "description": "huggingface_ByteDanceSeed: published a model",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-07-02T18:25:47.272959+00:00",
+        "published_date": "2025-07-01T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -436,23 +451,23 @@
         "original_source": "huggingface"
     },
     {
-        "id": "3f28aa50eb6c6efe7ed58abb9e91e3f4",
+        "id": "d06ffd9c3a95c5c7d9de200ada912a05",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] published a model",
-        "description": "huggingface_ByteDance: published a model",
-        "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-06-28T18:25:47.272959+00:00",
+        "title": "[HuggingFace] authored a paper",
+        "description": "huggingface_bytedanceresearch: authored a paper",
+        "url": "https://huggingface.co/huggingface_bytedanceresearch",
+        "published_date": "2025-06-28T19:26:54.672456+00:00",
         "categories": [],
-        "organization": "huggingface_ByteDance",
+        "organization": "huggingface_bytedanceresearch",
         "metadata": {
-            "action": "published a model"
+            "action": "authored a paper"
         },
         "objects": [
             {
-                "title": "ByteDance/XVerse",
-                "url": "https://huggingface.co/ByteDance/XVerse",
-                "type": "Text-to-Image"
+                "title": "Phantom-Data : Towards a General Subject-Consistent Video Generation Dataset",
+                "url": "https://huggingface.co/papers/2506.18851",
+                "type": ""
             }
         ],
         "original_source": "huggingface"
@@ -464,7 +479,7 @@
         "title": "[HuggingFace] published 2 datasets",
         "description": "huggingface_ByteDanceSeed: published 2 datasets",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-06-28T18:25:47.272959+00:00",
+        "published_date": "2025-06-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -485,23 +500,23 @@
         "original_source": "huggingface"
     },
     {
-        "id": "d06ffd9c3a95c5c7d9de200ada912a05",
+        "id": "3f28aa50eb6c6efe7ed58abb9e91e3f4",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "huggingface_bytedanceresearch: authored a paper",
-        "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-06-28T18:25:47.272959+00:00",
+        "title": "[HuggingFace] published a model",
+        "description": "huggingface_ByteDance: published a model",
+        "url": "https://huggingface.co/huggingface_ByteDance",
+        "published_date": "2025-06-28T19:26:54.672456+00:00",
         "categories": [],
-        "organization": "huggingface_bytedanceresearch",
+        "organization": "huggingface_ByteDance",
         "metadata": {
-            "action": "authored a paper"
+            "action": "published a model"
         },
         "objects": [
             {
-                "title": "Phantom-Data : Towards a General Subject-Consistent Video Generation Dataset",
-                "url": "https://huggingface.co/papers/2506.18851",
-                "type": ""
+                "title": "ByteDance/XVerse",
+                "url": "https://huggingface.co/ByteDance/XVerse",
+                "type": "Text-to-Image"
             }
         ],
         "original_source": "huggingface"
@@ -737,99 +752,28 @@
         "external_url": "https://arxiv.org/abs/2506.05083"
     },
     {
-        "id": "876e03ad4d0a6b7d8fe74f0a3619e6ce",
+        "id": "9149a61c01688e438aa7631129a9cf21",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "huggingface_ByteDance: updated a dataset",
-        "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDance",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "ByteDance/WildDoc",
-                "url": "https://huggingface.co/datasets/ByteDance/WildDoc",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "ba597ae40e4958c9ce45d8ae497ebc82",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "huggingface_bytedanceresearch: updated a dataset",
+        "title": "[HuggingFace] updated 2 models",
+        "description": "huggingface_bytedanceresearch: updated 2 models",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
-            "action": "updated a dataset"
+            "action": "updated 2 models"
         },
         "objects": [
             {
-                "title": "bytedance-research/ToolHop",
-                "url": "https://huggingface.co/datasets/bytedance-research/ToolHop",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "aa7a071d14a401c630b52e5e03094fdc",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 2 papers",
-        "description": "huggingface_ByteDance: authored 2 papers",
-        "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDance",
-        "metadata": {
-            "action": "authored 2 papers"
-        },
-        "objects": [
-            {
-                "title": "JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration",
-                "url": "https://huggingface.co/papers/2504.04158",
-                "type": ""
+                "title": "bytedance-research/Valley2-DPO",
+                "url": "https://huggingface.co/bytedance-research/Valley2-DPO",
+                "type": "9B"
             },
             {
-                "title": "PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers",
-                "url": "https://huggingface.co/papers/2506.05573",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "88ec5e0064edcd0c14d8dd6f4ebd0d18",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated 2 datasets",
-        "description": "huggingface_ByteDanceSeed: updated 2 datasets",
-        "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDanceSeed",
-        "metadata": {
-            "action": "updated 2 datasets"
-        },
-        "objects": [
-            {
-                "title": "ByteDance-Seed/BM-6M-Demo",
-                "url": "https://huggingface.co/datasets/ByteDance-Seed/BM-6M-Demo",
-                "type": ""
-            },
-            {
-                "title": "ByteDance-Seed/BM-Bench",
-                "url": "https://huggingface.co/datasets/ByteDance-Seed/BM-Bench",
-                "type": ""
+                "title": "bytedance-research/Valley-Eagle-7B",
+                "url": "https://huggingface.co/bytedance-research/Valley-Eagle-7B",
+                "type": "9B"
             }
         ],
         "original_source": "huggingface"
@@ -841,7 +785,7 @@
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_ByteDance: updated 2 models",
         "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDance",
         "metadata": {
@@ -862,13 +806,106 @@
         "original_source": "huggingface"
     },
     {
+        "id": "2f22a9fa6c74a026ed646604a9816ad6",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a dataset",
+        "description": "huggingface_ByteDance: published a dataset",
+        "url": "https://huggingface.co/huggingface_ByteDance",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_ByteDance",
+        "metadata": {
+            "action": "published a dataset"
+        },
+        "objects": [
+            {
+                "title": "ByteDance/WildDoc",
+                "url": "https://huggingface.co/datasets/ByteDance/WildDoc",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "ba597ae40e4958c9ce45d8ae497ebc82",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_bytedanceresearch: updated a dataset",
+        "url": "https://huggingface.co/huggingface_bytedanceresearch",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_bytedanceresearch",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "bytedance-research/ToolHop",
+                "url": "https://huggingface.co/datasets/bytedance-research/ToolHop",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "dd50eff0559422c538f3fe95c8ca7342",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 2 papers",
+        "description": "huggingface_ByteDance: authored 2 papers",
+        "url": "https://huggingface.co/huggingface_ByteDance",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_ByteDance",
+        "metadata": {
+            "action": "authored 2 papers"
+        },
+        "objects": [
+            {
+                "title": "Seed1.5-VL Technical Report",
+                "url": "https://huggingface.co/papers/2505.07062",
+                "type": ""
+            },
+            {
+                "title": "Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning",
+                "url": "https://huggingface.co/papers/2504.13914",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "dede4c2414d0f2503c6b514106668921",
+        "source": "bytedance_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a model",
+        "description": "huggingface_bytedanceresearch: published a model",
+        "url": "https://huggingface.co/huggingface_bytedanceresearch",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
+        "categories": [],
+        "organization": "huggingface_bytedanceresearch",
+        "metadata": {
+            "action": "published a model"
+        },
+        "objects": [
+            {
+                "title": "bytedance-research/ATI",
+                "url": "https://huggingface.co/bytedance-research/ATI",
+                "type": "Image-to-Video"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "9c12d8004c9aa28de95c3c80a144a88c",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 3 datasets",
         "description": "huggingface_ByteDanceSeed: updated 3 datasets",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -894,72 +931,50 @@
         "original_source": "huggingface"
     },
     {
-        "id": "2c82469ea190f081d09b752b8223cc24",
+        "id": "876e03ad4d0a6b7d8fe74f0a3619e6ce",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "huggingface_ByteDance: published a dataset",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_ByteDance: updated a dataset",
         "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDance",
         "metadata": {
-            "action": "published a dataset"
+            "action": "updated a dataset"
         },
         "objects": [
             {
-                "title": "ByteDance/BandwidthEstimationDataset",
-                "url": "https://huggingface.co/datasets/ByteDance/BandwidthEstimationDataset",
+                "title": "ByteDance/WildDoc",
+                "url": "https://huggingface.co/datasets/ByteDance/WildDoc",
                 "type": ""
             }
         ],
         "original_source": "huggingface"
     },
     {
-        "id": "dede4c2414d0f2503c6b514106668921",
+        "id": "88ec5e0064edcd0c14d8dd6f4ebd0d18",
         "source": "bytedance_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] published a model",
-        "description": "huggingface_bytedanceresearch: published a model",
-        "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
+        "title": "[HuggingFace] updated 2 datasets",
+        "description": "huggingface_ByteDanceSeed: updated 2 datasets",
+        "url": "https://huggingface.co/huggingface_ByteDanceSeed",
+        "published_date": "2025-05-28T19:26:54.672456+00:00",
         "categories": [],
-        "organization": "huggingface_bytedanceresearch",
+        "organization": "huggingface_ByteDanceSeed",
         "metadata": {
-            "action": "published a model"
+            "action": "updated 2 datasets"
         },
         "objects": [
             {
-                "title": "bytedance-research/ATI",
-                "url": "https://huggingface.co/bytedance-research/ATI",
-                "type": "Image-to-Video"
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "9149a61c01688e438aa7631129a9cf21",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated 2 models",
-        "description": "huggingface_bytedanceresearch: updated 2 models",
-        "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-05-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_bytedanceresearch",
-        "metadata": {
-            "action": "updated 2 models"
-        },
-        "objects": [
-            {
-                "title": "bytedance-research/Valley2-DPO",
-                "url": "https://huggingface.co/bytedance-research/Valley2-DPO",
-                "type": "9B"
+                "title": "ByteDance-Seed/BM-6M-Demo",
+                "url": "https://huggingface.co/datasets/ByteDance-Seed/BM-6M-Demo",
+                "type": ""
             },
             {
-                "title": "bytedance-research/Valley-Eagle-7B",
-                "url": "https://huggingface.co/bytedance-research/Valley-Eagle-7B",
-                "type": "9B"
+                "title": "ByteDance-Seed/BM-Bench",
+                "url": "https://huggingface.co/datasets/ByteDance-Seed/BM-Bench",
+                "type": ""
             }
         ],
         "original_source": "huggingface"
@@ -1161,7 +1176,7 @@
         "title": "[HuggingFace] authored 2 papers",
         "description": "huggingface_bytedanceresearch: authored 2 papers",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-04-28T18:25:47.272959+00:00",
+        "published_date": "2025-04-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -1188,7 +1203,7 @@
         "title": "[HuggingFace] published a dataset",
         "description": "huggingface_bytedanceresearch: published a dataset",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-04-28T18:25:47.272959+00:00",
+        "published_date": "2025-04-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -1244,7 +1259,7 @@
         "title": "[HuggingFace] authored 5 papers",
         "description": "huggingface_bytedanceresearch: authored 5 papers",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-03-28T18:25:47.272959+00:00",
+        "published_date": "2025-03-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -1286,7 +1301,7 @@
         "title": "[HuggingFace] published 2 datasets",
         "description": "huggingface_bytedanceresearch: published 2 datasets",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-03-28T18:25:47.272959+00:00",
+        "published_date": "2025-03-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -1341,13 +1356,13 @@
         "external_url": "https://arxiv.org/abs/2409.19606"
     },
     {
-        "id": "04d2ddd4b9c43025dfdca8947128d1a6",
+        "id": "3d35dd27d1954c22d1e4bb29afda6d59",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored 3 papers",
         "description": "huggingface_ByteDanceSeed: authored 3 papers",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-02-28T18:25:47.272959+00:00",
+        "published_date": "2025-02-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
@@ -1355,18 +1370,18 @@
         },
         "objects": [
             {
-                "title": "Knowledge Mining with Scene Text for Fine-Grained Recognition",
-                "url": "https://huggingface.co/papers/2203.14215",
+                "title": "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention",
+                "url": "https://huggingface.co/papers/2303.16199",
                 "type": ""
             },
             {
-                "title": "GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding",
-                "url": "https://huggingface.co/papers/2412.13193",
+                "title": "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model",
+                "url": "https://huggingface.co/papers/2304.15010",
                 "type": ""
             },
             {
-                "title": "Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation",
-                "url": "https://huggingface.co/papers/2502.13145",
+                "title": "Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation",
+                "url": "https://huggingface.co/papers/2502.16707",
                 "type": ""
             }
         ],
@@ -1379,7 +1394,7 @@
         "title": "[HuggingFace] updated 3 datasets",
         "description": "huggingface_bytedanceresearch: updated 3 datasets",
         "url": "https://huggingface.co/huggingface_bytedanceresearch",
-        "published_date": "2025-02-28T18:25:47.272959+00:00",
+        "published_date": "2025-02-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_bytedanceresearch",
         "metadata": {
@@ -1541,45 +1556,13 @@
         "external_url": "https://arxiv.org/abs/2502.03438"
     },
     {
-        "id": "c84a93be2f4e9f6c272e882b620524b9",
-        "source": "bytedance_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 3 papers",
-        "description": "huggingface_ByteDance: authored 3 papers",
-        "url": "https://huggingface.co/huggingface_ByteDance",
-        "published_date": "2025-01-28T18:25:47.272959+00:00",
-        "categories": [],
-        "organization": "huggingface_ByteDance",
-        "metadata": {
-            "action": "authored 3 papers"
-        },
-        "objects": [
-            {
-                "title": "4K4DGen: Panoramic 4D Generation at 4K Resolution",
-                "url": "https://huggingface.co/papers/2406.13527",
-                "type": ""
-            },
-            {
-                "title": "InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior",
-                "url": "https://huggingface.co/papers/2407.07580",
-                "type": ""
-            },
-            {
-                "title": "DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation",
-                "url": "https://huggingface.co/papers/2501.16764",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "866987ecb5fba48c97064c80eaa4014b",
         "source": "bytedance_aggregated",
         "type": "activity",
         "title": "[HuggingFace] authored 2 papers",
         "description": "huggingface_ByteDanceSeed: authored 2 papers",
         "url": "https://huggingface.co/huggingface_ByteDanceSeed",
-        "published_date": "2025-01-28T18:25:47.272959+00:00",
+        "published_date": "2025-01-28T19:26:54.672456+00:00",
         "categories": [],
         "organization": "huggingface_ByteDanceSeed",
         "metadata": {
