@@ -16,22 +16,6 @@
         "objects": []
     },
     {
-        "id": "a3d5f21fcbc8c96c9f6f2651fa8f1a6e",
-        "source": "openai",
-        "type": "news",
-        "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-        "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-        "url": "https://openai.com/index/model-ml-chaz-englander",
-        "published_date": "2025-07-23T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/model-ml-chaz-englander",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "47b94026182bcca43c6597218c3a35cc",
         "source": "openai",
         "type": "news",
@@ -43,6 +27,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/announcing-devday-2025",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "a3d5f21fcbc8c96c9f6f2651fa8f1a6e",
+        "source": "openai",
+        "type": "news",
+        "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+        "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+        "url": "https://openai.com/index/model-ml-chaz-englander",
+        "published_date": "2025-07-23T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/model-ml-chaz-englander",
             "feed_type": "rss"
         },
         "objects": []
@@ -176,38 +176,6 @@
         "objects": []
     },
     {
-        "id": "7454b269f6e581f3f9954e0bd1c110e3",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI nonprofit jam",
-        "description": "At OpenAI, we build tools to help people solve hard problems\u2014including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam\u2014a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
-        "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
-        "published_date": "2025-07-17T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/global-affairs/openai-nonprofit-jam",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "8098f93a81f4c451a99105e48b099862",
-        "source": "openai",
-        "type": "news",
-        "title": "Agent bio bug bounty call",
-        "description": "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent\u2019s safety with a universal jailbreak prompt and win up to $25,000.",
-        "url": "https://openai.com/bio-bug-bounty",
-        "published_date": "2025-07-17T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/bio-bug-bounty",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "864b6f5014bc374ea3668217daacbc62",
         "source": "openai",
         "type": "news",
@@ -235,6 +203,38 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/invideo-ai",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "8098f93a81f4c451a99105e48b099862",
+        "source": "openai",
+        "type": "news",
+        "title": "Agent bio bug bounty call",
+        "description": "OpenAI invites researchers to its Bio Bug Bounty. Test the ChatGPT agent\u2019s safety with a universal jailbreak prompt and win up to $25,000.",
+        "url": "https://openai.com/bio-bug-bounty",
+        "published_date": "2025-07-17T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/bio-bug-bounty",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "7454b269f6e581f3f9954e0bd1c110e3",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI nonprofit jam",
+        "description": "At OpenAI, we build tools to help people solve hard problems\u2014including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam\u2014a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
+        "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
+        "published_date": "2025-07-17T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/global-affairs/openai-nonprofit-jam",
             "feed_type": "rss"
         },
         "objects": []
@@ -370,22 +370,6 @@
         "objects": []
     },
     {
-        "id": "80b440f497578728cc77ffefc867020e",
-        "source": "openai",
-        "type": "news",
-        "title": "Toward understanding and preventing misalignment generalization",
-        "description": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior\u2014one that can be reversed with minimal fine-tuning.",
-        "url": "https://openai.com/index/emergent-misalignment",
-        "published_date": "2025-06-18T10:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/emergent-misalignment",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "cf0e889851538722de7d5c7de5a7e9a0",
         "source": "openai",
         "type": "news",
@@ -397,6 +381,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "80b440f497578728cc77ffefc867020e",
+        "source": "openai",
+        "type": "news",
+        "title": "Toward understanding and preventing misalignment generalization",
+        "description": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior\u2014one that can be reversed with minimal fine-tuning.",
+        "url": "https://openai.com/index/emergent-misalignment",
+        "published_date": "2025-06-18T10:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/emergent-misalignment",
             "feed_type": "rss"
         },
         "objects": []
@@ -596,22 +596,6 @@
         "objects": []
     },
     {
-        "id": "52185a9871f5a94d5982987ca1851271",
-        "source": "openai",
-        "type": "news",
-        "title": "Introducing Codex",
-        "description": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
-        "url": "https://openai.com/index/introducing-codex",
-        "published_date": "2025-05-16T08:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/introducing-codex",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "102f007f640c69fbcc3af0ebdafbfbc2",
         "source": "openai",
         "type": "news",
@@ -623,6 +607,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "52185a9871f5a94d5982987ca1851271",
+        "source": "openai",
+        "type": "news",
+        "title": "Introducing Codex",
+        "description": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
+        "url": "https://openai.com/index/introducing-codex",
+        "published_date": "2025-05-16T08:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/introducing-codex",
             "feed_type": "rss"
         },
         "objects": []
@@ -918,6 +918,22 @@
         "objects": []
     },
     {
+        "id": "ab8bdb656899aa735a283f2092eaaf7f",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI o3 and o4-mini System Card",
+        "description": "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities\u2014web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory.",
+        "url": "https://openai.com/index/o3-o4-mini-system-card",
+        "published_date": "2025-04-16T10:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/o3-o4-mini-system-card",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "6c68b09ca9318644a4a9e0ca97033801",
         "source": "openai",
         "type": "news",
@@ -945,22 +961,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/introducing-o3-and-o4-mini",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "ab8bdb656899aa735a283f2092eaaf7f",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI o3 and o4-mini System Card",
-        "description": "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities\u2014web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memory.",
-        "url": "https://openai.com/index/o3-o4-mini-system-card",
-        "published_date": "2025-04-16T10:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/o3-o4-mini-system-card",
             "feed_type": "rss"
         },
         "objects": []
@@ -1046,22 +1046,6 @@
         "objects": []
     },
     {
-        "id": "471972b4d09dc7531a536836d88036a3",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI\u2019s EU Economic Blueprint",
-        "description": "Today, OpenAI is sharing the EU Economic Blueprint\u2014a set of proposals to help Europe seize the promise of artificial intelligence, drive sustainable economic growth across the region, and ensure that AI is developed and deployed by Europe, in Europe, for Europe.",
-        "url": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
-        "published_date": "2025-04-07T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "01843e8ca8e151d19ac487f0268fb5fe",
         "source": "openai",
         "type": "news",
@@ -1073,6 +1057,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/canva-cam-adams",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "471972b4d09dc7531a536836d88036a3",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI\u2019s EU Economic Blueprint",
+        "description": "Today, OpenAI is sharing the EU Economic Blueprint\u2014a set of proposals to help Europe seize the promise of artificial intelligence, drive sustainable economic growth across the region, and ensure that AI is developed and deployed by Europe, in Europe, for Europe.",
+        "url": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
+        "published_date": "2025-04-07T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
             "feed_type": "rss"
         },
         "objects": []
@@ -1852,22 +1852,6 @@
         "objects": []
     },
     {
-        "id": "fe5c64fef130e047c542690845c70be8",
-        "source": "openai",
-        "type": "news",
-        "title": "Building a custom math tutor powered by ChatGPT",
-        "description": "ChatGPT and personal tutoring",
-        "url": "https://openai.com/index/my-dog-the-math-tutor",
-        "published_date": "2025-02-04T00:00:00+00:00",
-        "categories": [],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/my-dog-the-math-tutor",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "3c12d033a1dfdac0467b841533bc4fec",
         "source": "openai",
         "type": "news",
@@ -1899,6 +1883,22 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/ten-tiny-canvases",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "fe5c64fef130e047c542690845c70be8",
+        "source": "openai",
+        "type": "news",
+        "title": "Building a custom math tutor powered by ChatGPT",
+        "description": "ChatGPT and personal tutoring",
+        "url": "https://openai.com/index/my-dog-the-math-tutor",
+        "published_date": "2025-02-04T00:00:00+00:00",
+        "categories": [],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/my-dog-the-math-tutor",
             "feed_type": "rss"
         },
         "objects": []
@@ -2012,19 +2012,19 @@
         "objects": []
     },
     {
-        "id": "a55a1823770d6a36e9307e42512597f4",
+        "id": "33985733838efa4754ecee0920e1d073",
         "source": "openai",
         "type": "news",
-        "title": "Introducing Operator",
-        "description": "A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.",
-        "url": "https://openai.com/index/introducing-operator",
+        "title": "Operator System Card",
+        "description": "Drawing from OpenAI\u2019s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we\u2019ve implemented to protect against prompt engineering and jailbreaks, protect privacy and security, as well as details our external red teaming efforts, safety evaluations, and ongoing work to further refine these safeguards.",
+        "url": "https://openai.com/index/operator-system-card",
         "published_date": "2025-01-23T10:00:00+00:00",
         "categories": [
-            "Product"
+            "Safety & Alignment"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/introducing-operator",
+            "guid": "https://openai.com/index/operator-system-card",
             "feed_type": "rss"
         },
         "objects": []
@@ -2048,19 +2048,19 @@
         "objects": []
     },
     {
-        "id": "33985733838efa4754ecee0920e1d073",
+        "id": "a55a1823770d6a36e9307e42512597f4",
         "source": "openai",
         "type": "news",
-        "title": "Operator System Card",
-        "description": "Drawing from OpenAI\u2019s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we\u2019ve implemented to protect against prompt engineering and jailbreaks, protect privacy and security, as well as details our external red teaming efforts, safety evaluations, and ongoing work to further refine these safeguards.",
-        "url": "https://openai.com/index/operator-system-card",
+        "title": "Introducing Operator",
+        "description": "A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.",
+        "url": "https://openai.com/index/introducing-operator",
         "published_date": "2025-01-23T10:00:00+00:00",
         "categories": [
-            "Safety & Alignment"
+            "Product"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/operator-system-card",
+            "guid": "https://openai.com/index/introducing-operator",
             "feed_type": "rss"
         },
         "objects": []
@@ -2316,37 +2316,19 @@
         "objects": []
     },
     {
-        "id": "a195b793d69293814d99cb147d1288de",
+        "id": "22ad2457ffd9377600b7b22bf0a25279",
         "source": "openai",
         "type": "news",
-        "title": "Minne Atairu & Sora",
-        "description": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
-        "url": "https://openai.com/index/sora-minne-atairu",
+        "title": "Animator Lyndon Barrois creates new worlds with Sora",
+        "description": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
+        "url": "https://openai.com/index/sora-lyndon-barrois",
         "published_date": "2024-12-09T00:00:00+00:00",
         "categories": [
             "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/sora-minne-atairu",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "81bf41df214b2220e2a1b22689b95192",
-        "source": "openai",
-        "type": "news",
-        "title": "Put AI to work for your product team",
-        "description": "Put AI to work for your product team",
-        "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-        "published_date": "2024-12-09T00:00:00+00:00",
-        "categories": [
-            "Webinar"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+            "guid": "https://openai.com/index/sora-lyndon-barrois",
             "feed_type": "rss"
         },
         "objects": []
@@ -2370,19 +2352,19 @@
         "objects": []
     },
     {
-        "id": "22ad2457ffd9377600b7b22bf0a25279",
+        "id": "81bf41df214b2220e2a1b22689b95192",
         "source": "openai",
         "type": "news",
-        "title": "Animator Lyndon Barrois creates new worlds with Sora",
-        "description": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
-        "url": "https://openai.com/index/sora-lyndon-barrois",
+        "title": "Put AI to work for your product team",
+        "description": "Put AI to work for your product team",
+        "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
         "published_date": "2024-12-09T00:00:00+00:00",
         "categories": [
-            "Story"
+            "Webinar"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/sora-lyndon-barrois",
+            "guid": "https://openai.com/index/put-ai-to-work-for-your-product-team",
             "feed_type": "rss"
         },
         "objects": []
@@ -2401,6 +2383,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/sora-vallee-duhamel",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "a195b793d69293814d99cb147d1288de",
+        "source": "openai",
+        "type": "news",
+        "title": "Minne Atairu & Sora",
+        "description": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
+        "url": "https://openai.com/index/sora-minne-atairu",
+        "published_date": "2024-12-09T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/sora-minne-atairu",
             "feed_type": "rss"
         },
         "objects": []
@@ -3302,19 +3302,19 @@
         "objects": []
     },
     {
-        "id": "d2a1c15baf39c96e0d36ae6a051461d9",
+        "id": "3818ea7bff9c8c2d61d1bdd9b573a7f4",
         "source": "openai",
         "type": "news",
-        "title": "Answering quantum physics questions with OpenAI o1",
-        "description": "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.",
-        "url": "https://openai.com/index/o1-quantum-physics",
+        "title": "Coding with OpenAI o1",
+        "description": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
+        "url": "https://openai.com/index/o1-coding",
         "published_date": "2024-09-12T00:00:00+00:00",
         "categories": [
             "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/o1-quantum-physics",
+            "guid": "https://openai.com/index/o1-coding",
             "feed_type": "rss"
         },
         "objects": []
@@ -3356,19 +3356,19 @@
         "objects": []
     },
     {
-        "id": "3818ea7bff9c8c2d61d1bdd9b573a7f4",
+        "id": "d2a1c15baf39c96e0d36ae6a051461d9",
         "source": "openai",
         "type": "news",
-        "title": "Coding with OpenAI o1",
-        "description": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
-        "url": "https://openai.com/index/o1-coding",
+        "title": "Answering quantum physics questions with OpenAI o1",
+        "description": "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.",
+        "url": "https://openai.com/index/o1-quantum-physics",
         "published_date": "2024-09-12T00:00:00+00:00",
         "categories": [
             "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/o1-coding",
+            "guid": "https://openai.com/index/o1-quantum-physics",
             "feed_type": "rss"
         },
         "objects": []
@@ -3464,24 +3464,6 @@
         "objects": []
     },
     {
-        "id": "0cc4ce09de25b99e9f5f188b8daed608",
-        "source": "openai",
-        "type": "news",
-        "title": "Putting AI to work at Upwork",
-        "description": "Upwork puts AI to work, uniting team members, operations and product development",
-        "url": "https://openai.com/index/upwork",
-        "published_date": "2024-08-20T10:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/upwork",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "95edd22effd79c48bdc626af28c3bcfc",
         "source": "openai",
         "type": "news",
@@ -3495,6 +3477,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/gpt-4o-fine-tuning",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "0cc4ce09de25b99e9f5f188b8daed608",
+        "source": "openai",
+        "type": "news",
+        "title": "Putting AI to work at Upwork",
+        "description": "Upwork puts AI to work, uniting team members, operations and product development",
+        "url": "https://openai.com/index/upwork",
+        "published_date": "2024-08-20T10:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/upwork",
             "feed_type": "rss"
         },
         "objects": []
@@ -3608,24 +3608,6 @@
         "objects": []
     },
     {
-        "id": "cb47f855c470892189400f53d401e56f",
-        "source": "openai",
-        "type": "news",
-        "title": "GPT-4o System Card",
-        "description": "This report outlines the safety work carried out prior to releasing GPT-4o including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.",
-        "url": "https://openai.com/index/gpt-4o-system-card",
-        "published_date": "2024-08-08T00:00:00+00:00",
-        "categories": [
-            "Safety & Alignment"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/gpt-4o-system-card",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "26b7c1f9af6287c3c7c62710378fd34f",
         "source": "openai",
         "type": "news",
@@ -3639,6 +3621,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "cb47f855c470892189400f53d401e56f",
+        "source": "openai",
+        "type": "news",
+        "title": "GPT-4o System Card",
+        "description": "This report outlines the safety work carried out prior to releasing GPT-4o including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.",
+        "url": "https://openai.com/index/gpt-4o-system-card",
+        "published_date": "2024-08-08T00:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/gpt-4o-system-card",
             "feed_type": "rss"
         },
         "objects": []
@@ -3878,24 +3878,6 @@
         "objects": []
     },
     {
-        "id": "a11043c731fb2f58d20a549975aff234",
-        "source": "openai",
-        "type": "news",
-        "title": "A Holistic Approach to Undesired Content Detection in the Real World",
-        "description": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
-        "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
-        "published_date": "2024-06-20T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "558fd88af28f9b3d0e07a74c35ef9f68",
         "source": "openai",
         "type": "news",
@@ -3909,6 +3891,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "a11043c731fb2f58d20a549975aff234",
+        "source": "openai",
+        "type": "news",
+        "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+        "description": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
+        "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
+        "published_date": "2024-06-20T00:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
             "feed_type": "rss"
         },
         "objects": []
@@ -4130,24 +4130,6 @@
         "objects": []
     },
     {
-        "id": "d6655e7befc5d71e77eb84cb60208139",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI for Education",
-        "description": "An affordable offering for universities to responsibly bring AI to campus.",
-        "url": "https://openai.com/index/introducing-chatgpt-edu",
-        "published_date": "2024-05-30T07:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/introducing-chatgpt-edu",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "fd6967a7508ce0f60edad4e634b305fb",
         "source": "openai",
         "type": "news",
@@ -4161,6 +4143,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/introducing-openai-for-nonprofits",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "d6655e7befc5d71e77eb84cb60208139",
+        "source": "openai",
+        "type": "news",
+        "title": "OpenAI for Education",
+        "description": "An affordable offering for universities to responsibly bring AI to campus.",
+        "url": "https://openai.com/index/introducing-chatgpt-edu",
+        "published_date": "2024-05-30T07:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/introducing-chatgpt-edu",
             "feed_type": "rss"
         },
         "objects": []
@@ -4470,24 +4470,6 @@
         "objects": []
     },
     {
-        "id": "7d3f0d59a020d872815fafa910311b81",
-        "source": "openai",
-        "type": "news",
-        "title": "Our approach to data and AI",
-        "description": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It\u2019s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager for creators and content owners, and where we\u2019re headed.",
-        "url": "https://openai.com/index/approach-to-data-and-ai",
-        "published_date": "2024-05-07T00:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/approach-to-data-and-ai",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "b5bf3fa33de6232c43dc6a4a26573be8",
         "source": "openai",
         "type": "news",
@@ -4501,6 +4483,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "7d3f0d59a020d872815fafa910311b81",
+        "source": "openai",
+        "type": "news",
+        "title": "Our approach to data and AI",
+        "description": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It\u2019s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager for creators and content owners, and where we\u2019re headed.",
+        "url": "https://openai.com/index/approach-to-data-and-ai",
+        "published_date": "2024-05-07T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/approach-to-data-and-ai",
             "feed_type": "rss"
         },
         "objects": []
@@ -4560,24 +4560,6 @@
         "objects": []
     },
     {
-        "id": "ea9cee182614a771277b928afe213ccf",
-        "source": "openai",
-        "type": "news",
-        "title": "Accelerating the development of life-saving treatments",
-        "description": "Accelerating the development of life-saving treatments.",
-        "url": "https://openai.com/index/moderna",
-        "published_date": "2024-04-24T00:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/moderna",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "cbd342b0c2c6451b3f1fb6b282b384da",
         "source": "openai",
         "type": "news",
@@ -4609,6 +4591,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/gpt-4-api-general-availability",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "ea9cee182614a771277b928afe213ccf",
+        "source": "openai",
+        "type": "news",
+        "title": "Accelerating the development of life-saving treatments",
+        "description": "Accelerating the development of life-saving treatments.",
+        "url": "https://openai.com/index/moderna",
+        "published_date": "2024-04-24T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/moderna",
             "feed_type": "rss"
         },
         "objects": []
@@ -4740,24 +4740,6 @@
         "objects": []
     },
     {
-        "id": "4a8efd2e6e2eaaa41ddb5022d2bea33e",
-        "source": "openai",
-        "type": "news",
-        "title": "Reducing health insurance costs and improving care",
-        "description": "Oscar brings AI to health insurance, reducing costs and improving patient care.",
-        "url": "https://openai.com/index/oscar",
-        "published_date": "2024-04-01T00:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/oscar",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "497d6dfebd412c5ccfc3dd76ae892772",
         "source": "openai",
         "type": "news",
@@ -4771,6 +4753,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/start-using-chatgpt-instantly",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "4a8efd2e6e2eaaa41ddb5022d2bea33e",
+        "source": "openai",
+        "type": "news",
+        "title": "Reducing health insurance costs and improving care",
+        "description": "Oscar brings AI to health insurance, reducing costs and improving patient care.",
+        "url": "https://openai.com/index/oscar",
+        "published_date": "2024-04-01T00:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/oscar",
             "feed_type": "rss"
         },
         "objects": []
@@ -4866,24 +4866,6 @@
         "objects": []
     },
     {
-        "id": "4861300d7486f5bac6885e1a7160eea1",
-        "source": "openai",
-        "type": "news",
-        "title": "Reimagining the email experience with AI",
-        "description": "Superhuman introduces a new era of email with OpenAI.",
-        "url": "https://openai.com/index/superhuman",
-        "published_date": "2024-03-18T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/superhuman",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "5d722bf1fcdce3fbef7f0e848b4a7867",
         "source": "openai",
         "type": "news",
@@ -4915,6 +4897,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/holiday-extras",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "4861300d7486f5bac6885e1a7160eea1",
+        "source": "openai",
+        "type": "news",
+        "title": "Reimagining the email experience with AI",
+        "description": "Superhuman introduces a new era of email with OpenAI.",
+        "url": "https://openai.com/index/superhuman",
+        "published_date": "2024-03-18T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/superhuman",
             "feed_type": "rss"
         },
         "objects": []
@@ -4992,24 +4992,6 @@
         "objects": []
     },
     {
-        "id": "380cc92f2f82e1f242a13bf0005cceb0",
-        "source": "openai",
-        "type": "news",
-        "title": "Sparking a more productive company with ChatGPT Enterprise",
-        "description": "Match Group uses ChatGPT Enterprise to spark creativity and impact.",
-        "url": "https://openai.com/index/match-group",
-        "published_date": "2024-03-06T08:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/match-group",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "a79918df8e5368dc8b394a63b83da373",
         "source": "openai",
         "type": "news",
@@ -5041,6 +5023,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/lifespan",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "380cc92f2f82e1f242a13bf0005cceb0",
+        "source": "openai",
+        "type": "news",
+        "title": "Sparking a more productive company with ChatGPT Enterprise",
+        "description": "Match Group uses ChatGPT Enterprise to spark creativity and impact.",
+        "url": "https://openai.com/index/match-group",
+        "published_date": "2024-03-06T08:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/match-group",
             "feed_type": "rss"
         },
         "objects": []
@@ -5298,19 +5298,19 @@
         "objects": []
     },
     {
-        "id": "baebf3c4a399a121d49a4a471960fd4b",
+        "id": "e45a31f9629251d1ed081fabe235a9bf",
         "source": "openai",
         "type": "news",
-        "title": "Increasing accuracy of pediatric visit notes",
-        "description": "Summer Health reimagines pediatric doctor\u2019s visits with OpenAI.",
-        "url": "https://openai.com/index/summer-health",
+        "title": "Practices for Governing Agentic AI Systems",
+        "description": "",
+        "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
         "published_date": "2023-12-14T08:00:00+00:00",
         "categories": [
-            "Story"
+            "Safety & Alignment"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/summer-health",
+            "guid": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
             "feed_type": "rss"
         },
         "objects": []
@@ -5334,19 +5334,19 @@
         "objects": []
     },
     {
-        "id": "e45a31f9629251d1ed081fabe235a9bf",
+        "id": "baebf3c4a399a121d49a4a471960fd4b",
         "source": "openai",
         "type": "news",
-        "title": "Practices for Governing Agentic AI Systems",
-        "description": "",
-        "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+        "title": "Increasing accuracy of pediatric visit notes",
+        "description": "Summer Health reimagines pediatric doctor\u2019s visits with OpenAI.",
+        "url": "https://openai.com/index/summer-health",
         "published_date": "2023-12-14T08:00:00+00:00",
         "categories": [
-            "Safety & Alignment"
+            "Story"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+            "guid": "https://openai.com/index/summer-health",
             "feed_type": "rss"
         },
         "objects": []
@@ -5442,24 +5442,6 @@
         "objects": []
     },
     {
-        "id": "a3222129e60a4868585b85bc2ecec163",
-        "source": "openai",
-        "type": "news",
-        "title": "Introducing GPTs",
-        "description": "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.",
-        "url": "https://openai.com/index/introducing-gpts",
-        "published_date": "2023-11-06T08:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/introducing-gpts",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "5ea9bc3b03b7b5c189716b30e549418c",
         "source": "openai",
         "type": "news",
@@ -5478,19 +5460,19 @@
         "objects": []
     },
     {
-        "id": "081e5071f00813e6566605d1b06b523b",
+        "id": "a3222129e60a4868585b85bc2ecec163",
         "source": "openai",
         "type": "news",
-        "title": "Frontier risk and preparedness",
-        "description": "To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge.",
-        "url": "https://openai.com/index/frontier-risk-and-preparedness",
-        "published_date": "2023-10-26T07:00:00+00:00",
+        "title": "Introducing GPTs",
+        "description": "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.",
+        "url": "https://openai.com/index/introducing-gpts",
+        "published_date": "2023-11-06T08:00:00+00:00",
         "categories": [
-            "Safety & Alignment"
+            "Product"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/frontier-risk-and-preparedness",
+            "guid": "https://openai.com/index/introducing-gpts",
             "feed_type": "rss"
         },
         "objects": []
@@ -5509,6 +5491,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/global-affairs/our-approach-to-frontier-risk",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "081e5071f00813e6566605d1b06b523b",
+        "source": "openai",
+        "type": "news",
+        "title": "Frontier risk and preparedness",
+        "description": "To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge.",
+        "url": "https://openai.com/index/frontier-risk-and-preparedness",
+        "published_date": "2023-10-26T07:00:00+00:00",
+        "categories": [
+            "Safety & Alignment"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/frontier-risk-and-preparedness",
             "feed_type": "rss"
         },
         "objects": []
@@ -5550,24 +5550,6 @@
         "objects": []
     },
     {
-        "id": "ef26025323fbd7d0221746a0c4789d2b",
-        "source": "openai",
-        "type": "news",
-        "title": "OpenAI\u2019s technology explained",
-        "description": "",
-        "url": "https://openai.com/global-affairs/openai-technology-explained",
-        "published_date": "2023-10-11T07:00:00+00:00",
-        "categories": [
-            "Global Affairs"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/global-affairs/openai-technology-explained",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "4fe57bc0be1a19c25b5c8a144402ec76",
         "source": "openai",
         "type": "news",
@@ -5581,6 +5563,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/retool",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "c223fbdf0ae2d8ece683ef332f95b61c",
+        "source": "openai",
+        "type": "news",
+        "title": "Simplifying contract reviews with AI",
+        "description": "Ironclad uses GPT-4 to simplify the contract review process.",
+        "url": "https://openai.com/index/ironclad",
+        "published_date": "2023-10-11T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/ironclad",
             "feed_type": "rss"
         },
         "objects": []
@@ -5604,19 +5604,19 @@
         "objects": []
     },
     {
-        "id": "c223fbdf0ae2d8ece683ef332f95b61c",
+        "id": "ef26025323fbd7d0221746a0c4789d2b",
         "source": "openai",
         "type": "news",
-        "title": "Simplifying contract reviews with AI",
-        "description": "Ironclad uses GPT-4 to simplify the contract review process.",
-        "url": "https://openai.com/index/ironclad",
+        "title": "OpenAI\u2019s technology explained",
+        "description": "",
+        "url": "https://openai.com/global-affairs/openai-technology-explained",
         "published_date": "2023-10-11T07:00:00+00:00",
         "categories": [
-            "Story"
+            "Global Affairs"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "guid": "https://openai.com/index/ironclad",
+            "guid": "https://openai.com/global-affairs/openai-technology-explained",
             "feed_type": "rss"
         },
         "objects": []
@@ -6288,6 +6288,24 @@
         "objects": []
     },
     {
+        "id": "6b43387f0f8119dd935954734aad6eb0",
+        "source": "openai",
+        "type": "news",
+        "title": "Powering virtual education for the classroom",
+        "description": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+        "url": "https://openai.com/index/khan-academy",
+        "published_date": "2023-03-14T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/khan-academy",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "8c08385adf801738d74e5b6bfab8b488",
         "source": "openai",
         "type": "news",
@@ -6301,6 +6319,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/gpt-4-research",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "8c31728b13f18983ddb8bd4a006d3ef8",
+        "source": "openai",
+        "type": "news",
+        "title": "Transforming visual accessibility",
+        "description": "Be My Eyes uses GPT-4 to transform visual accessibility.",
+        "url": "https://openai.com/index/be-my-eyes",
+        "published_date": "2023-03-14T07:00:00+00:00",
+        "categories": [
+            "Story"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/be-my-eyes",
             "feed_type": "rss"
         },
         "objects": []
@@ -6355,42 +6391,6 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/government-of-iceland",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "8c31728b13f18983ddb8bd4a006d3ef8",
-        "source": "openai",
-        "type": "news",
-        "title": "Transforming visual accessibility",
-        "description": "Be My Eyes uses GPT-4 to transform visual accessibility.",
-        "url": "https://openai.com/index/be-my-eyes",
-        "published_date": "2023-03-14T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/be-my-eyes",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "6b43387f0f8119dd935954734aad6eb0",
-        "source": "openai",
-        "type": "news",
-        "title": "Powering virtual education for the classroom",
-        "description": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-        "url": "https://openai.com/index/khan-academy",
-        "published_date": "2023-03-14T07:00:00+00:00",
-        "categories": [
-            "Story"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/khan-academy",
             "feed_type": "rss"
         },
         "objects": []
@@ -7098,24 +7098,6 @@
         "objects": []
     },
     {
-        "id": "a5fdce6e67698bdb7f4d9a22cfbfd054",
-        "source": "openai",
-        "type": "news",
-        "title": "A research agenda for assessing the economic impacts of code generation models",
-        "description": "",
-        "url": "https://openai.com/index/economic-impacts-research",
-        "published_date": "2022-03-03T08:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/economic-impacts-research",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "5f14773c86a898f5e5b257353de255c0",
         "source": "openai",
         "type": "news",
@@ -7129,6 +7111,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/language-model-safety-and-misuse",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "a5fdce6e67698bdb7f4d9a22cfbfd054",
+        "source": "openai",
+        "type": "news",
+        "title": "A research agenda for assessing the economic impacts of code generation models",
+        "description": "",
+        "url": "https://openai.com/index/economic-impacts-research",
+        "published_date": "2022-03-03T08:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/economic-impacts-research",
             "feed_type": "rss"
         },
         "objects": []
@@ -7332,24 +7332,6 @@
         "objects": []
     },
     {
-        "id": "f45deb72b26750629da67d21f195561a",
-        "source": "openai",
-        "type": "news",
-        "title": "TruthfulQA: Measuring how models mimic human falsehoods",
-        "description": "",
-        "url": "https://openai.com/index/truthfulqa",
-        "published_date": "2021-09-08T07:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/truthfulqa",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "805092bdfd044d92c0ddc599d26fafaf",
         "source": "openai",
         "type": "news",
@@ -7363,6 +7345,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/helen-toner-joins",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "f45deb72b26750629da67d21f195561a",
+        "source": "openai",
+        "type": "news",
+        "title": "TruthfulQA: Measuring how models mimic human falsehoods",
+        "description": "",
+        "url": "https://openai.com/index/truthfulqa",
+        "published_date": "2021-09-08T07:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/truthfulqa",
             "feed_type": "rss"
         },
         "objects": []
@@ -9150,24 +9150,6 @@
         "objects": []
     },
     {
-        "id": "58a09337c97401eb89540bd6ffd4b74f",
-        "source": "openai",
-        "type": "news",
-        "title": "Ingredients for robotics research",
-        "description": "We\u2019re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We\u2019ve used these environments to train models which work on physical robots. We\u2019re also releasing a set of requests for robotics research.",
-        "url": "https://openai.com/index/ingredients-for-robotics-research",
-        "published_date": "2018-02-26T08:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/ingredients-for-robotics-research",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "657e7c1c17f005d818002885fa23e177",
         "source": "openai",
         "type": "news",
@@ -9181,6 +9163,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/multi-goal-reinforcement-learning",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "58a09337c97401eb89540bd6ffd4b74f",
+        "source": "openai",
+        "type": "news",
+        "title": "Ingredients for robotics research",
+        "description": "We\u2019re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We\u2019ve used these environments to train models which work on physical robots. We\u2019re also releasing a set of requests for robotics research.",
+        "url": "https://openai.com/index/ingredients-for-robotics-research",
+        "published_date": "2018-02-26T08:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/ingredients-for-robotics-research",
             "feed_type": "rss"
         },
         "objects": []
@@ -9402,24 +9402,6 @@
         "objects": []
     },
     {
-        "id": "ae0b0cdc0a6b191d7e566d421f4a6e26",
-        "source": "openai",
-        "type": "news",
-        "title": "Sim-to-real transfer of robotic control with dynamics randomization",
-        "description": "",
-        "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
-        "published_date": "2017-10-18T07:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "0b370dc5185dff5428dc8494a5c16908",
         "source": "openai",
         "type": "news",
@@ -9433,6 +9415,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "ae0b0cdc0a6b191d7e566d421f4a6e26",
+        "source": "openai",
+        "type": "news",
+        "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+        "description": "",
+        "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+        "published_date": "2017-10-18T07:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
             "feed_type": "rss"
         },
         "objects": []
@@ -9456,24 +9456,6 @@
         "objects": []
     },
     {
-        "id": "df6bfe3367a1c6e4675eaadabcc314e8",
-        "source": "openai",
-        "type": "news",
-        "title": "Meta-learning for wrestling",
-        "description": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.",
-        "url": "https://openai.com/index/meta-learning-for-wrestling",
-        "published_date": "2017-10-11T07:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "guid": "https://openai.com/index/meta-learning-for-wrestling",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
         "id": "862c985d9cca240236f29b356768e04f",
         "source": "openai",
         "type": "news",
@@ -9487,6 +9469,24 @@
         "organization": "OpenAI",
         "metadata": {
             "guid": "https://openai.com/index/competitive-self-play",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "df6bfe3367a1c6e4675eaadabcc314e8",
+        "source": "openai",
+        "type": "news",
+        "title": "Meta-learning for wrestling",
+        "description": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.",
+        "url": "https://openai.com/index/meta-learning-for-wrestling",
+        "published_date": "2017-10-11T07:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "guid": "https://openai.com/index/meta-learning-for-wrestling",
             "feed_type": "rss"
         },
         "objects": []

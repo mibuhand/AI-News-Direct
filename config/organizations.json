@@ -45,14 +45,14 @@
     },
     "google": {
         "name": "Google",
-        "patterns": ["google", "deepmind"],
+        "patterns": ["google", "deepmind", "google_deepmind", "google_ai"],
         "scraped_files": [],
         "feed_files": ["google_deepmind_feeds.json", "google_ai_feeds.json"],
         "huggingface_data": "huggingface.json",
         "aggregated_file": "google_aggregated.json",
-        "base_url": "https://deepmind.google",
+        "base_url": "https://ai.google",
         "feed_title": "Google - All Activities",
-        "icon_url": "https://deepmind.google/favicon.ico"
+        "icon_url": "https://www.google.com/favicon.ico"
     },
     "microsoft": {
         "name": "Microsoft",
@@ -64,16 +64,5 @@
         "base_url": "https://www.microsoft.com",
         "feed_title": "Microsoft - All Activities",
         "icon_url": "https://www.microsoft.com/favicon.ico"
-    },
-    "huggingface": {
-        "name": "HuggingFace",
-        "patterns": ["huggingface"],
-        "scraped_files": ["huggingface.json", "huggingface_users.json"],
-        "feed_files": [],
-        "huggingface_data": "huggingface.json",
-        "aggregated_file": "huggingface_aggregated.json",
-        "base_url": "https://huggingface.co",
-        "feed_title": "HuggingFace - All Activities",
-        "icon_url": "https://huggingface.co/favicon.ico"
     }
 }

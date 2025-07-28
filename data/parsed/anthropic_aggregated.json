@@ -184,20 +184,26 @@
         "objects": []
     },
     {
-        "id": "44dcf4df758bf55b49879de5ce638418",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Anthropic Economic Index: AI\u00e2\u0080\u0099s impact on software development",
-        "description": "",
-        "url": "https://www.anthropic.com/research/impact-software-development",
-        "external_url": "",
-        "published_date": "2025-04-28T09:36:00+00:00",
-        "categories": [
-            "Societal Impacts"
+        "id": "91da8849aae93c282dca21071a7e8f42",
+        "source": "anthropic_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a dataset",
+        "description": "huggingface_anthropic: updated a dataset",
+        "url": "https://huggingface.co/huggingface_anthropic",
+        "published_date": "2025-04-28T18:25:47.272959+00:00",
+        "categories": [],
+        "organization": "huggingface_anthropic",
+        "metadata": {
+            "action": "updated a dataset"
+        },
+        "objects": [
+            {
+                "title": "Anthropic/EconomicIndex",
+                "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
+                "type": ""
+            }
         ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
+        "original_source": "huggingface"
     },
     {
         "id": "aabc700736e4a91d10b812a087166928",
@@ -206,7 +212,7 @@
         "title": "[HuggingFace] published a dataset",
         "description": "huggingface_anthropic: published a dataset",
         "url": "https://huggingface.co/huggingface_anthropic",
-        "published_date": "2025-04-27T03:38:34.751733+00:00",
+        "published_date": "2025-04-28T18:25:47.272959+00:00",
         "categories": [],
         "organization": "huggingface_anthropic",
         "metadata": {
@@ -222,26 +228,20 @@
         "original_source": "huggingface"
     },
     {
-        "id": "45899004014fcf49ff9cf560d550e331",
-        "source": "anthropic_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] updated a dataset",
-        "description": "huggingface_anthropic: updated a dataset",
-        "url": "https://huggingface.co/huggingface_anthropic",
-        "published_date": "2025-04-27T03:38:34.751733+00:00",
-        "categories": [],
-        "organization": "huggingface_anthropic",
-        "metadata": {
-            "action": "updated a dataset"
-        },
-        "objects": [
-            {
-                "title": "Anthropic/values-in-the-wild",
-                "url": "https://huggingface.co/datasets/Anthropic/values-in-the-wild",
-                "type": ""
-            }
+        "id": "44dcf4df758bf55b49879de5ce638418",
+        "source": "anthropic",
+        "type": "research",
+        "title": "Anthropic Economic Index: AI\u00e2\u0080\u0099s impact on software development",
+        "description": "",
+        "url": "https://www.anthropic.com/research/impact-software-development",
+        "external_url": "",
+        "published_date": "2025-04-28T09:36:00+00:00",
+        "categories": [
+            "Societal Impacts"
         ],
-        "original_source": "huggingface"
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
     },
     {
         "id": "4e17075ddeded00589b7596b112c439d",
@@ -1125,7 +1125,7 @@
         "title": "[HuggingFace] authored a paper",
         "description": "huggingface_anthropic: authored a paper",
         "url": "https://huggingface.co/huggingface_anthropic",
-        "published_date": "2024-07-27T03:38:34.751733+00:00",
+        "published_date": "2024-07-28T18:25:47.272959+00:00",
         "categories": [],
         "organization": "huggingface_anthropic",
         "metadata": {
@@ -1430,12 +1430,12 @@
         "objects": []
     },
     {
-        "id": "06c712b8844293ef1d0323bef8485e0b",
+        "id": "934d88660a680a53bd669c3b61e979ce",
         "source": "anthropic",
         "type": "news",
-        "title": "Reflections on our Responsible Scaling Policy",
+        "title": "Generate better prompts in the developer console",
         "description": "",
-        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/prompt-generator",
         "published_date": "2024-05-20T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -1443,12 +1443,12 @@
         "objects": []
     },
     {
-        "id": "934d88660a680a53bd669c3b61e979ce",
+        "id": "06c712b8844293ef1d0323bef8485e0b",
         "source": "anthropic",
         "type": "news",
-        "title": "Generate better prompts in the developer console",
+        "title": "Reflections on our Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/prompt-generator",
+        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
         "published_date": "2024-05-20T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -1841,12 +1841,12 @@
         "objects": []
     },
     {
-        "id": "01f9fb8859e1043216b8cfb678ccf770",
+        "id": "427bf5b6881b571233d6e11e3bd406e0",
         "source": "anthropic",
         "type": "research",
-        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+        "title": "Decomposing Language Models Into Understandable Components",
         "description": "",
-        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
+        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -1858,12 +1858,12 @@
         "objects": []
     },
     {
-        "id": "427bf5b6881b571233d6e11e3bd406e0",
+        "id": "01f9fb8859e1043216b8cfb678ccf770",
         "source": "anthropic",
         "type": "research",
-        "title": "Decomposing Language Models Into Understandable Components",
+        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
         "description": "",
-        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
+        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -1930,12 +1930,12 @@
         "objects": []
     },
     {
-        "id": "ee3abdb74b51889f2d21db5406f5a863",
+        "id": "f41d4233ea14521a61911cce7c0ae118",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic's Responsible Scaling Policy",
+        "title": "The Long-Term Benefit Trust",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -1943,12 +1943,12 @@
         "objects": []
     },
     {
-        "id": "f41d4233ea14521a61911cce7c0ae118",
+        "id": "ee3abdb74b51889f2d21db5406f5a863",
         "source": "anthropic",
         "type": "news",
-        "title": "The Long-Term Benefit Trust",
+        "title": "Anthropic's Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [],
         "organization": "Anthropic",
@@ -2055,17 +2055,17 @@
         "objects": []
     },
     {
-        "id": "a98f262c8a93d7ab1bac8c20afed8a5d",
+        "id": "b73fe851e60b1d2594076a0a77758527",
         "source": "anthropic_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] authored 3 papers",
-        "description": "huggingface_anthropic: authored 3 papers",
+        "title": "[HuggingFace] authored 2 papers",
+        "description": "huggingface_anthropic: authored 2 papers",
         "url": "https://huggingface.co/huggingface_anthropic",
-        "published_date": "2023-07-27T03:38:34.751733+00:00",
+        "published_date": "2023-07-28T18:25:47.272959+00:00",
         "categories": [],
         "organization": "huggingface_anthropic",
         "metadata": {
-            "action": "authored 3 papers"
+            "action": "authored 2 papers"
         },
         "objects": [
             {
@@ -2076,11 +2076,6 @@
             {
                 "title": "Towards Understanding Sycophancy in Language Models",
                 "url": "https://huggingface.co/papers/2310.13548",
-                "type": ""
-            },
-            {
-                "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
-                "url": "https://huggingface.co/papers/2307.13702",
                 "type": ""
             }
         ],

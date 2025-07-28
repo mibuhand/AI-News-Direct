@@ -29,10 +29,12 @@ def get_feed_icon(feed_name, source):
         return 'https://www.anthropic.com/favicon.ico'
     elif 'openai' in feed_name:
         return 'https://openai.com/favicon.ico'
-    elif 'google' in feed_name or 'deepmind' in feed_name:
-        return 'https://deepmind.google/favicon.ico'
+    elif 'deepmind' in feed_name:
+        return 'https://deepmind.google/static/icons/google_deepmind_32dp.c67bb05568f4.ico'
+    elif 'google' in feed_name:
+        return 'https://www.google.com/favicon.ico'
     elif 'bytedance' in feed_name:
-        return 'https://seed.bytedance.com/favicon.ico'
+        return 'https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico'
     elif 'microsoft' in feed_name:
         return 'https://www.microsoft.com/favicon.ico'
     elif 'meta' in feed_name or 'facebook' in feed_name:
@@ -41,10 +43,10 @@ def get_feed_icon(feed_name, source):
         return 'https://huggingface.co/favicon.ico'
     else:
         # Default AI News Direct icon
-        return 'https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/icon.png'
+        return 'https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg'
 
 
-def create_atom_feed(entries, feed_title, feed_id, feed_link, feed_name='', source=''):
+def create_atom_feed(entries, feed_title, feed_id, feed_link, base_url, feed_name='', source=''):
     """Create an Atom feed XML from entries using standardized schema"""
     # Create root feed element
     feed = Element('feed')
@@ -57,9 +59,9 @@ def create_atom_feed(entries, feed_title, feed_id, feed_link, feed_name='', sour
     feed_id_elem = SubElement(feed, 'id')
     feed_id_elem.text = feed_id
     
-    link = SubElement(feed, 'link')
-    link.set('href', feed_link)
-    link.set('rel', 'self')
+    # Add main channel link (for favicon detection)
+    main_link = SubElement(feed, 'link')
+    main_link.set('href', base_url)
     
     # Add feed icon
     icon_url = get_feed_icon(feed_name, source)
@@ -245,7 +247,7 @@ def generate_feeds():
             feed_link = f"{base_url}/feed/{feed_name}.xml"
             
             # Create Atom feed
-            feed_xml = create_atom_feed(data, feed_title, feed_id, feed_link, feed_name, source)
+            feed_xml = create_atom_feed(data, feed_title, feed_id, feed_link, base_url, feed_name, source)
             
             # Pretty print XML
             rough_string = tostring(feed_xml, 'utf-8')

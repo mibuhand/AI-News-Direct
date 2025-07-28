@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Anthropic News</title>
   <id>tag:ai-news-direct.local,2025:anthropic_aggregated</id>
-  <link href="https://www.anthropic.com/feed/anthropic_aggregated.xml" rel="self"/>
+  <link href="https://www.anthropic.com"/>
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <logo>https://www.anthropic.com/favicon.ico</logo>
-  <updated>2025-07-27T03:40:18.030448+00:00</updated>
+  <updated>2025-07-28T18:40:51.479555+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -106,26 +106,26 @@
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
   <entry>
+    <title>[HuggingFace] updated a dataset</title>
+    <id>91da8849aae93c282dca21071a7e8f42</id>
+    <link href="https://huggingface.co/huggingface_anthropic"/>
+    <updated>2025-04-28T18:25:47.272959+00:00</updated>
+    <summary>huggingface_anthropic: updated a dataset | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: updated a dataset | Related: Anthropic/EconomicIndex</summary>
+  </entry>
+  <entry>
+    <title>[HuggingFace] published a dataset</title>
+    <id>aabc700736e4a91d10b812a087166928</id>
+    <link href="https://huggingface.co/huggingface_anthropic"/>
+    <updated>2025-04-28T18:25:47.272959+00:00</updated>
+    <summary>huggingface_anthropic: published a dataset | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: published a dataset | Related: Anthropic/values-in-the-wild</summary>
+  </entry>
+  <entry>
     <title>Anthropic Economic Index: AIâs impact on software development</title>
     <id>44dcf4df758bf55b49879de5ce638418</id>
     <link href="https://www.anthropic.com/research/impact-software-development"/>
     <updated>2025-04-28T09:36:00+00:00</updated>
     <category term="Societal Impacts"/>
     <summary>Organization: Anthropic | Source: Anthropic (research)</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] published a dataset</title>
-    <id>aabc700736e4a91d10b812a087166928</id>
-    <link href="https://huggingface.co/huggingface_anthropic"/>
-    <updated>2025-04-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_anthropic: published a dataset | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: published a dataset | Related: Anthropic/values-in-the-wild</summary>
-  </entry>
-  <entry>
-    <title>[HuggingFace] updated a dataset</title>
-    <id>45899004014fcf49ff9cf560d550e331</id>
-    <link href="https://huggingface.co/huggingface_anthropic"/>
-    <updated>2025-04-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_anthropic: updated a dataset | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: updated a dataset | Related: Anthropic/values-in-the-wild</summary>
   </entry>
   <entry>
     <title>Exploring model welfare</title>
@@ -592,7 +592,7 @@
     <title>[HuggingFace] authored a paper</title>
     <id>944a11dfdf8ad7293fba3d535d3b47ac</id>
     <link href="https://huggingface.co/huggingface_anthropic"/>
-    <updated>2024-07-27T03:38:34.751733+00:00</updated>
+    <updated>2024-07-28T18:25:47.272959+00:00</updated>
     <summary>huggingface_anthropic: authored a paper | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: authored a paper | Related: Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</summary>
   </entry>
   <entry>
@@ -749,16 +749,16 @@
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
   <entry>
-    <title>Reflections on our Responsible Scaling Policy</title>
-    <id>06c712b8844293ef1d0323bef8485e0b</id>
-    <link href="https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"/>
+    <title>Generate better prompts in the developer console</title>
+    <id>934d88660a680a53bd669c3b61e979ce</id>
+    <link href="https://www.anthropic.com/news/prompt-generator"/>
     <updated>2024-05-20T00:00:00+00:00</updated>
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
   <entry>
-    <title>Generate better prompts in the developer console</title>
-    <id>934d88660a680a53bd669c3b61e979ce</id>
-    <link href="https://www.anthropic.com/news/prompt-generator"/>
+    <title>Reflections on our Responsible Scaling Policy</title>
+    <id>06c712b8844293ef1d0323bef8485e0b</id>
+    <link href="https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"/>
     <updated>2024-05-20T00:00:00+00:00</updated>
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
@@ -968,18 +968,18 @@
     <summary>Organization: Anthropic | Source: Anthropic (research)</summary>
   </entry>
   <entry>
-    <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
-    <id>01f9fb8859e1043216b8cfb678ccf770</id>
-    <link href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning"/>
+    <title>Decomposing Language Models Into Understandable Components</title>
+    <id>427bf5b6881b571233d6e11e3bd406e0</id>
+    <link href="https://www.anthropic.com/research/decomposing-language-models-into-understandable-components"/>
     <updated>2023-10-05T00:00:00+00:00</updated>
     <category term="Interpretability"/>
     <category term="Research"/>
     <summary>Organization: Anthropic | Source: Anthropic (research)</summary>
   </entry>
   <entry>
-    <title>Decomposing Language Models Into Understandable Components</title>
-    <id>427bf5b6881b571233d6e11e3bd406e0</id>
-    <link href="https://www.anthropic.com/research/decomposing-language-models-into-understandable-components"/>
+    <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
+    <id>01f9fb8859e1043216b8cfb678ccf770</id>
+    <link href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning"/>
     <updated>2023-10-05T00:00:00+00:00</updated>
     <category term="Interpretability"/>
     <category term="Research"/>
@@ -1015,16 +1015,16 @@
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
   <entry>
-    <title>Anthropic's Responsible Scaling Policy</title>
-    <id>ee3abdb74b51889f2d21db5406f5a863</id>
-    <link href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy"/>
+    <title>The Long-Term Benefit Trust</title>
+    <id>f41d4233ea14521a61911cce7c0ae118</id>
+    <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
     <updated>2023-09-19T00:00:00+00:00</updated>
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
   <entry>
-    <title>The Long-Term Benefit Trust</title>
-    <id>f41d4233ea14521a61911cce7c0ae118</id>
-    <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
+    <title>Anthropic's Responsible Scaling Policy</title>
+    <id>ee3abdb74b51889f2d21db5406f5a863</id>
+    <link href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy"/>
     <updated>2023-09-19T00:00:00+00:00</updated>
     <summary>Organization: Anthropic | Source: Anthropic (news)</summary>
   </entry>
@@ -1082,11 +1082,11 @@
     <summary>Organization: Anthropic | Source: Anthropic (research)</summary>
   </entry>
   <entry>
-    <title>[HuggingFace] authored 3 papers</title>
-    <id>a98f262c8a93d7ab1bac8c20afed8a5d</id>
+    <title>[HuggingFace] authored 2 papers</title>
+    <id>b73fe851e60b1d2594076a0a77758527</id>
     <link href="https://huggingface.co/huggingface_anthropic"/>
-    <updated>2023-07-27T03:38:34.751733+00:00</updated>
-    <summary>huggingface_anthropic: authored 3 papers | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: authored 3 papers | Related: Specific versus General Principles for Constitutional AI, Towards Understanding Sycophancy in Language Models, Measuring Faithfulness in Chain-of-Thought Reasoning</summary>
+    <updated>2023-07-28T18:25:47.272959+00:00</updated>
+    <summary>huggingface_anthropic: authored 2 papers | Organization: huggingface_anthropic | Source: Anthropic Aggregated (activity) | Action: authored 2 papers | Related: Specific versus General Principles for Constitutional AI, Towards Understanding Sycophancy in Language Models</summary>
   </entry>
   <entry>
     <title>Frontier Threats Red Teaming for AI Safety</title>

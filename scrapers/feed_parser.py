@@ -248,35 +248,21 @@ def process_all_feeds():
 
 
 def extract_source_from_filename(filename):
-    """Extract source name from filename using organization patterns"""
-    org_configs = load_organization_configs()
+    """Extract organization key from filename using sites config cache file mapping"""
+    sites_config = load_sites_config()
     filename_lower = filename.lower()
     
-    # Check against known organization patterns
-    for org_key, config in org_configs.items():
-        for pattern in config.get('patterns', []):
-            if pattern.lower() in filename_lower:
-                return org_key
+    # Match against specific cache files in sites config
+    for site in sites_config:
+        if site.get('type') == 'feeds':
+            cache_files = site.get('cache_files', {})
+            for cache_key, cache_filename in cache_files.items():
+                cache_base = cache_filename.replace('.xml', '').lower()
+                if filename_lower == cache_base:
+                    return site.get('organization_key')
     
     raise ValueError(f"Cannot extract organization from filename: {filename}")
 
-
-def get_source_org_from_config(source_name):
-    """Get the organization key that matches the source name"""
-    org_configs = load_organization_configs()
-    source_lower = source_name.lower()
-    
-    # Check each organization's patterns
-    for org_key, config in org_configs.items():
-        for pattern in config.get('patterns', []):
-            if pattern.lower() in source_lower:
-                return org_key
-    
-    # Check if source_name matches org key directly
-    if source_lower in org_configs:
-        return source_lower
-    
-    raise ValueError(f"Cannot find organization for source: {source_name}")
 
 
 def load_sites_config():
@@ -328,11 +314,8 @@ def save_parsed_feed(items, source_name):
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
     
     try:
-        # Use organization key for consistent naming
-        org_key = get_source_org_from_config(source_name)
-        
         # Get config-driven filename
-        output_filename = get_feed_output_filename(source_name, org_key)
+        output_filename = get_feed_output_filename(source_name, source_name)
         json_path = parsed_dir / output_filename
             
         with open(json_path, 'w', encoding='utf-8') as f:

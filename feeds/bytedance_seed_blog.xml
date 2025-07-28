@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ByteDance Seed Blog</title>
   <id>tag:ai-news-direct.local,2025:bytedance_seed_blog</id>
-  <link href="https://seed.bytedance.com/feed/bytedance_seed_blog.xml" rel="self"/>
+  <link href="https://seed.bytedance.com"/>
   <icon>https://seed.bytedance.com/favicon.ico</icon>
   <logo>https://seed.bytedance.com/favicon.ico</logo>
-  <updated>2025-07-27T03:40:18.063256+00:00</updated>
+  <updated>2025-07-28T18:40:51.500582+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -16,6 +16,14 @@
     <updated>2025-07-22T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
     <summary>Formalization + Test-time scaling, deep thinking in math reasoning | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+  </entry>
+  <entry>
+    <title>Seed Research￨GR-3 Released: A Generalist Robot Model for Generalization, Long-Horizon Tasks, and Bi-Manual Deformable Object Manipulation</title>
+    <id>f6b99d486ee1bb500ef202a8514fb83d</id>
+    <link href="https://seed.bytedance.com/en/blog/seed-research-gr-3-released-a-generalist-robot-model-for-generalization-long-horizon-tasks-and-bi-manual-deformable-object-manipulation"/>
+    <updated>2025-07-21T11:00:00+00:00</updated>
+    <category term="Seed Research"/>
+    <summary>A generalizable robot operation model that supports long-range and complex tasks | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
   </entry>
   <entry>
     <title>4B Model Rivals 235B Performance in Mathematical Reasoning: Seed’s Latest RL Training Recipe Fully Open-Sourced</title>
@@ -96,13 +104,5 @@
     <updated>2025-05-18T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
     <summary>Dataflow Implementation Released, BF16 Precision Version Now Available for Download. | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
-  </entry>
-  <entry>
-    <title>First Release of Seed VLM Tech Report: Comprehensive Solutions for Image, Video, GUI, and Game</title>
-    <id>0130d1da2f9bc4be85aee57b9841318b</id>
-    <link href="https://seed.bytedance.com/en/blog/first-release-of-seed-vlm-tech-report-comprehensive-solutions-for-image-video-gui-and-game"/>
-    <updated>2025-05-12T11:00:00+00:00</updated>
-    <category term="Technology Launch"/>
-    <summary>Achieves SOTA on 38 Benchmarks | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
   </entry>
 </feed>

@@ -61,7 +61,7 @@
     
     {
         "site": "https://deepmind.google",
-        "organization_key": "google",
+        "organization_key": "google_deepmind",
         "type": "feeds",
         "feeds": [
             {
@@ -79,7 +79,7 @@
     
     {
         "site": "https://blog.google",
-        "organization_key": "google",
+        "organization_key": "google_ai",
         "type": "feeds",
         "feeds": [
             {
@@ -140,7 +140,7 @@
             "/tencent",
             "/baidu",
             "/moonshotai",
-            "/THUDM",
+            "/zai-org",
             "/ByteDance",
             "/ByteDance-Seed",
             "/bytedance-research",
