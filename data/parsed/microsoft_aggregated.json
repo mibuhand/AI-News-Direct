@@ -16,35 +16,13 @@
         "objects": []
     },
     {
-        "id": "e1dc33870c0e9ad11f1f0cb966cfb9d2",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a dataset",
-        "description": "huggingface_microsoft: published a dataset",
-        "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-25T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_microsoft",
-        "metadata": {
-            "action": "published a dataset"
-        },
-        "objects": [
-            {
-                "title": "microsoft/Dayhoff",
-                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "bcf8b372dab4acfb7a4ba90e8c0fa2fc",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published 9 models",
         "description": "huggingface_microsoft: published 9 models",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-25T19:26:54.672456+00:00",
+        "published_date": "2025-07-26T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -100,23 +78,23 @@
         "original_source": "huggingface"
     },
     {
-        "id": "d752db6f093e155f30b8c7b3aed4a5ef",
+        "id": "e1dc33870c0e9ad11f1f0cb966cfb9d2",
         "source": "microsoft_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] updated a model",
-        "description": "huggingface_microsoft: updated a model",
+        "title": "[HuggingFace] published a dataset",
+        "description": "huggingface_microsoft: published a dataset",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-23T19:26:54.672456+00:00",
+        "published_date": "2025-07-26T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
-            "action": "updated a model"
+            "action": "published a dataset"
         },
         "objects": [
             {
-                "title": "microsoft/maira-2-sae",
-                "url": "https://huggingface.co/microsoft/maira-2-sae",
-                "type": "Feature Extraction"
+                "title": "microsoft/Dayhoff",
+                "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
             }
         ],
         "original_source": "huggingface"
@@ -128,7 +106,7 @@
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_microsoft: updated 2 models",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-22T19:26:54.672456+00:00",
+        "published_date": "2025-07-23T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -144,6 +122,28 @@
                 "title": "microsoft/Phi-tiny-MoE-instruct",
                 "url": "https://huggingface.co/microsoft/Phi-tiny-MoE-instruct",
                 "type": "Text Generation"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "883e64c6082c76842bd4a64af416c21d",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] updated a model",
+        "description": "huggingface_microsoft: updated a model",
+        "url": "https://huggingface.co/huggingface_microsoft",
+        "published_date": "2025-07-23T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_microsoft",
+        "metadata": {
+            "action": "updated a model"
+        },
+        "objects": [
+            {
+                "title": "microsoft/maira-2-sae",
+                "url": "https://huggingface.co/microsoft/maira-2-sae",
+                "type": "Feature Extraction"
             }
         ],
         "original_source": "huggingface"
@@ -171,7 +171,7 @@
         "title": "[HuggingFace] updated a dataset",
         "description": "huggingface_microsoft: updated a dataset",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-21T19:26:54.672456+00:00",
+        "published_date": "2025-07-22T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -181,6 +181,53 @@
             {
                 "title": "microsoft/Dayhoff",
                 "url": "https://huggingface.co/datasets/microsoft/Dayhoff",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "eb05de4f332c001db082efa77bb74338",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 6 papers",
+        "description": "huggingface_microsoft: authored 6 papers",
+        "url": "https://huggingface.co/huggingface_microsoft",
+        "published_date": "2025-07-22T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_microsoft",
+        "metadata": {
+            "action": "authored 6 papers"
+        },
+        "objects": [
+            {
+                "title": "MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task",
+                "url": "https://huggingface.co/papers/2502.11684",
+                "type": ""
+            },
+            {
+                "title": "SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation",
+                "url": "https://huggingface.co/papers/2506.03139",
+                "type": ""
+            },
+            {
+                "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+                "url": "https://huggingface.co/papers/2402.17574",
+                "type": ""
+            },
+            {
+                "title": "GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding",
+                "url": "https://huggingface.co/papers/2507.15846",
+                "type": ""
+            },
+            {
+                "title": "LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization",
+                "url": "https://huggingface.co/papers/2507.15758",
+                "type": ""
+            },
+            {
+                "title": "Hierarchical Budget Policy Optimization for Adaptive Reasoning",
+                "url": "https://huggingface.co/papers/2507.15844",
                 "type": ""
             }
         ],
@@ -203,13 +250,13 @@
         "objects": []
     },
     {
-        "id": "31170a3f56dbfc956da40f2ad2bc1811",
+        "id": "0a45083b7ba302cbeaf0f1e7e6c0d816",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] published a model",
         "description": "huggingface_microsoft: published a model",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-18T19:26:54.672456+00:00",
+        "published_date": "2025-07-18T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -241,6 +288,28 @@
         "objects": []
     },
     {
+        "id": "de94250c8e73a068becd064802fd4e33",
+        "source": "microsoft_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "huggingface_microsoft: authored a paper",
+        "url": "https://huggingface.co/huggingface_microsoft",
+        "published_date": "2025-07-17T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_microsoft",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?",
+                "url": "https://huggingface.co/papers/2507.12415",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "fc5b25999af30c35f460f7a70da21b4c",
         "source": "microsoft",
         "type": "news",
@@ -263,7 +332,7 @@
         "title": "[HuggingFace] updated 5 models",
         "description": "huggingface_microsoft: updated 5 models",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-15T19:26:54.672456+00:00",
+        "published_date": "2025-07-16T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -315,28 +384,6 @@
         "objects": []
     },
     {
-        "id": "72b9870861dbc6835f98371a978d4c57",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "huggingface_microsoft: authored a paper",
-        "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-13T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_microsoft",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation",
-                "url": "https://huggingface.co/papers/2506.18349",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "9af6d63927ec1f2e5f3eee5eabcd3c31",
         "source": "microsoft",
         "type": "news",
@@ -359,7 +406,7 @@
         "title": "[HuggingFace] updated 2 datasets",
         "description": "huggingface_microsoft: updated 2 datasets",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-08T19:26:54.672456+00:00",
+        "published_date": "2025-07-09T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -380,13 +427,29 @@
         "original_source": "huggingface"
     },
     {
-        "id": "83a85432243cd8667c5708ecc8ef5567",
+        "id": "2682df3f5fe74a8e298924a7a253c450",
+        "source": "microsoft",
+        "type": "news",
+        "title": "Introducing Deep Research in Azure AI Foundry Agent Service",
+        "description": "<p>Announcing the public preview of Deep Research in Azure AI Foundry\u2014an API and SDK-based offering of OpenAI\u2019s advanced agentic research capability.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/\">Introducing Deep Research in Azure AI Foundry Agent Service</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
+        "url": "https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/",
+        "published_date": "2025-07-07T17:00:00+00:00",
+        "categories": [],
+        "organization": "Microsoft",
+        "metadata": {
+            "guid": "",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "89a662ac068525b4c2d7562e1ed73f41",
         "source": "microsoft_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 3 datasets",
         "description": "huggingface_microsoft: updated 3 datasets",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-07-07T19:26:54.672456+00:00",
+        "published_date": "2025-07-07T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
@@ -410,22 +473,6 @@
             }
         ],
         "original_source": "huggingface"
-    },
-    {
-        "id": "2682df3f5fe74a8e298924a7a253c450",
-        "source": "microsoft",
-        "type": "news",
-        "title": "Introducing Deep Research in Azure AI Foundry Agent Service",
-        "description": "<p>Announcing the public preview of Deep Research in Azure AI Foundry\u2014an API and SDK-based offering of OpenAI\u2019s advanced agentic research capability.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/\">Introducing Deep Research in Azure AI Foundry Agent Service</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-        "url": "https://azure.microsoft.com/en-us/blog/introducing-deep-research-in-azure-ai-foundry-agent-service/",
-        "published_date": "2025-07-07T17:00:00+00:00",
-        "categories": [],
-        "organization": "Microsoft",
-        "metadata": {
-            "guid": "",
-            "feed_type": "rss"
-        },
-        "objects": []
     },
     {
         "id": "6162f7e0f04a0d7a5a936985a1dbb8f0",
@@ -460,121 +507,37 @@
         "objects": []
     },
     {
-        "id": "cca5f58b4a586c84acb02cd1a906a7c9",
+        "id": "27350e5d1d31155625b68873a9d54fa2",
         "source": "microsoft_aggregated",
         "type": "activity",
-        "title": "[HuggingFace] authored 5 papers",
-        "description": "huggingface_microsoft: authored 5 papers",
+        "title": "[HuggingFace] authored 4 papers",
+        "description": "huggingface_microsoft: authored 4 papers",
         "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-05-28T19:26:54.672456+00:00",
+        "published_date": "2025-05-29T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_microsoft",
         "metadata": {
-            "action": "authored 5 papers"
+            "action": "authored 4 papers"
         },
         "objects": [
             {
-                "title": "Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning",
-                "url": "https://huggingface.co/papers/2304.03916",
+                "title": "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models",
+                "url": "https://huggingface.co/papers/2505.21500",
                 "type": ""
             },
             {
-                "title": "Diversity of Thought Improves Reasoning Abilities of Large Language Models",
-                "url": "https://huggingface.co/papers/2310.07088",
+                "title": "Let LLMs Break Free from Overthinking via Self-Braking Tuning",
+                "url": "https://huggingface.co/papers/2505.14604",
                 "type": ""
             },
             {
-                "title": "Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models",
-                "url": "https://huggingface.co/papers/2404.06209",
+                "title": "Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning",
+                "url": "https://huggingface.co/papers/2505.14684",
                 "type": ""
             },
             {
-                "title": "Eureka: Evaluating and Understanding Large Foundation Models",
-                "url": "https://huggingface.co/papers/2409.10566",
-                "type": ""
-            },
-            {
-                "title": "BENCHAGENTS: Automated Benchmark Creation with Agent Interaction",
-                "url": "https://huggingface.co/papers/2410.22584",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "9691c12c524c8ee264ab588c8f0825f3",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 3 papers",
-        "description": "huggingface_microsoft: authored 3 papers",
-        "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-05-28T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_microsoft",
-        "metadata": {
-            "action": "authored 3 papers"
-        },
-        "objects": [
-            {
-                "title": "Closed-Form Bounds for DP-SGD against Record-level Inference",
-                "url": "https://huggingface.co/papers/2402.14397",
-                "type": ""
-            },
-            {
-                "title": "Analyzing Leakage of Personally Identifiable Information in Language Models",
-                "url": "https://huggingface.co/papers/2302.00539",
-                "type": ""
-            },
-            {
-                "title": "Securing AI Agents with Information-Flow Control",
-                "url": "https://huggingface.co/papers/2505.23643",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "1e55f9f9c560c02868cea4700196408d",
-        "source": "microsoft_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 6 papers",
-        "description": "huggingface_microsoft: authored 6 papers",
-        "url": "https://huggingface.co/huggingface_microsoft",
-        "published_date": "2025-05-28T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_microsoft",
-        "metadata": {
-            "action": "authored 6 papers"
-        },
-        "objects": [
-            {
-                "title": "MASS: Masked Sequence to Sequence Pre-training for Language Generation",
-                "url": "https://huggingface.co/papers/1905.02450",
-                "type": ""
-            },
-            {
-                "title": "Learning To Teach Large Language Models Logical Reasoning",
-                "url": "https://huggingface.co/papers/2310.09158",
-                "type": ""
-            },
-            {
-                "title": "MPNet: Masked and Permuted Pre-training for Language Understanding",
-                "url": "https://huggingface.co/papers/2004.09297",
-                "type": ""
-            },
-            {
-                "title": "TaskBench: Benchmarking Large Language Models for Task Automation",
-                "url": "https://huggingface.co/papers/2311.18760",
-                "type": ""
-            },
-            {
-                "title": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions",
-                "url": "https://huggingface.co/papers/2102.12122",
-                "type": ""
-            },
-            {
-                "title": "PVT v2: Improved Baselines with Pyramid Vision Transformer",
-                "url": "https://huggingface.co/papers/2106.13797",
+                "title": "VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models",
+                "url": "https://huggingface.co/papers/2505.15801",
                 "type": ""
             }
         ],

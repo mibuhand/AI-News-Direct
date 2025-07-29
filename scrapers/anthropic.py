@@ -56,9 +56,9 @@ def load_html(filename):
 
 
 def find_article_date(soup, article_title):
-    script_tag = soup.find('script', string=lambda text: 'self.__next_f.push([1,\"1d:[' in text)
+    script_tag = soup.find('script', string=lambda text: text and 'www.anthropic.com' in text)
     if not script_tag:
-        logging.error("Script tag with 'self.__next_f.push([1,\"1d:[ not found")
+        logging.error("Script tag containing 'www.anthropic.com' not found")
         return None
     script_content = script_tag.get_text().strip().lower()
     title_index = script_content.rfind(article_title.lower())
@@ -71,75 +71,125 @@ def extract_html_data(soup, filename):
     base_url = 'https://www.anthropic.com'
 
     if 'news' in filename:
-        tags = {
-            'post_tag': 'a.PostCard_post-card__z_Sqq',
-            'title_tag': 'h3.PostCard_post-heading__Ob1pu',
-            'date_tag': 'div.PostList_post-date__djrOA',
-        }
-        page_type = 'news'
+        return _extract_news_data(soup, base_url)
     elif 'engineering' in filename:
-        tags = {
-            'post_tag': 'a.ArticleList_cardLink__VWIzl',
-            'title_tag': 'h3.display-sans-s',
-            'title_tag_alt': 'h2.display-sans-l',
-            'date_tag': 'div.ArticleList_date__2VTRg',
-        }
-        page_type = 'engineering'
+        return _extract_engineering_data(soup, base_url)
 
+
+def _extract_news_data(soup, base_url):
+    """Extract data from news pages with strict hierarchical tag relationships"""
     post_items = []
-    for post in soup.select(tags['post_tag']):
-        title_element = post.select_one(tags['title_tag'])
-        if not title_element:
-            title_element = post.select_one(tags['title_tag_alt'])
-        title = title_element.get_text(strip=True)
-        url = str(base_url) + str(post['href'])
+    
+    # Process post_tag posts (title_tag and date_tag strictly under post_tag)
+    post_tag_posts = soup.select('a.PostCard_post-card__z_Sqq')
+    for post in post_tag_posts:
+        title_element = post.select_one('h3.PostCard_post-heading__Ob1pu')
+        date_element = post.select_one('div.PostList_post-date__djrOA')
         
-        # Generate unique ID using high-cardinality fields (will be set after published_date)
-        # item_id will be generated after published_date is calculated
-
-        date_element = post.select_one(tags['date_tag'])
-        if not date_element:
-            date_str = find_article_date(soup, title)
-            if date_str:
-                published_date = datetime.strptime(date_str + ' 00:00', '%Y-%m-%d %H:%M').replace(tzinfo=timezone.utc).isoformat()
-            else:
-                published_date = datetime.now(timezone.utc).isoformat()
-        else:
-            date_str = date_element.get_text(strip=True)
-            published_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc).isoformat()
+        # Extract categories from span.text-label under this post
+        category_elements = post.select('span.text-label')
+        categories = [cat.get_text(strip=True) for cat in category_elements]
         
-        # Generate unique ID using high-cardinality fields
-        id_components = [
-            "anthropic",
-            title,
-            url,
-            published_date
-        ]
-        item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+        if title_element:
+            post_item = _create_post_item(
+                post, title_element, date_element, base_url, 'news', soup, categories
+            )
+            if post_item:
+                post_items.append(post_item)
+    
+    # Process post_tag_alt posts (title_tag_alt and date_tag_alt strictly under post_tag_alt)
+    post_tag_alt_posts = soup.select('a.Card_linkRoot__alQfM')
+    for post in post_tag_alt_posts:
+        title_element = post.select_one('h3.Card_headline__reaoT')
+        date_element = post.select_one('p.detail-m.agate')
         
-        out_item = {
-            'id': item_id,
-            'source': 'anthropic',
-            'type': page_type,
-            'title': title,
-            'description': '',
-            'url': url,
-            'published_date': published_date,
-            'categories': [],
-            'organization': 'Anthropic',
-            'metadata': {},
-            'objects': []
-        }
-        post_items.append(out_item)
-
+        # Extract categories from div.Card_headlineSummaryWrapper__iln63 p.detail-m under this post
+        category_elements = post.select('div.Card_headlineSummaryWrapper__iln63 p.detail-m')
+        categories = [cat.get_text(strip=True) for cat in category_elements]
+        
+        if title_element:
+            post_item = _create_post_item(
+                post, title_element, date_element, base_url, 'news', soup, categories
+            )
+            if post_item:
+                post_items.append(post_item)
+    
     return post_items
+
+
+def _extract_engineering_data(soup, base_url):
+    """Extract data from engineering pages with all tags strictly under post_tag section"""
+    post_items = []
+    
+    # Process post_tag posts (all tags strictly under post_tag)
+    post_tag_posts = soup.select('a.ArticleList_cardLink__VWIzl')
+    for post in post_tag_posts:
+        # Try primary title tag first
+        title_element = post.select_one('h3.display-sans-s')
+        # Fallback to alternative title tag if primary not found (still under same post)
+        if not title_element:
+            title_element = post.select_one('h2.display-sans-l')
+        
+        date_element = post.select_one('div.ArticleList_date__2VTRg')
+        
+        if title_element:
+            post_item = _create_post_item(
+                post, title_element, date_element, base_url, 'engineering', soup
+            )
+            if post_item:
+                post_items.append(post_item)
+    
+    return post_items
+
+
+def _create_post_item(post, title_element, date_element, base_url, page_type, soup, categories=None):
+    """Create a post item from extracted elements"""
+    title = title_element.get_text(strip=True) if title_element else ''
+    if not title:
+        return None
+        
+    url = str(base_url) + str(post['href'])
+    
+    # Handle date extraction
+    if not date_element:
+        date_str = find_article_date(soup, title)
+        if date_str:
+            published_date = datetime.strptime(date_str + ' 00:00', '%Y-%m-%d %H:%M').replace(tzinfo=timezone.utc).isoformat()
+        else:
+            published_date = datetime.now(timezone.utc).isoformat()
+    else:
+        date_str = date_element.get_text(strip=True)
+        published_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc).isoformat()
+    
+    # Generate unique ID using high-cardinality fields
+    id_components = [
+        "anthropic",
+        title,
+        url,
+        published_date
+    ]
+    item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+    
+    return {
+        'id': item_id,
+        'source': 'anthropic',
+        'type': page_type,
+        'title': title,
+        'description': '',
+        'url': url,
+        'published_date': published_date,
+        'categories': categories or [],
+        'organization': 'Anthropic',
+        'metadata': {},
+        'objects': []
+    }
 
 
 def extract_script_data(soup):
     # Find the script tag containing the JSON data
-    script_tag = soup.find('script', string=lambda text: 'self.__next_f.push([1,\"1d:[' in text)
+    script_tag = soup.find('script', string=lambda text: text and 'www.anthropic.com' in text)
     if not script_tag:
-        logging.error("Script tag with 'self.__next_f.push([1,\"1d:[ not found")
+        logging.error("Script tag containing 'www.anthropic.com' not found")
         return None
 
     # Extract the JSON string from the script content
@@ -162,53 +212,63 @@ def extract_script_data(soup):
 
 
 def parse_script_data(json_data):
+    if not json_data:
+        logging.error("No JSON data provided to parse_script_data")
+        return []
+    
     base_url = 'https://www.anthropic.com/research/'
     post_items = []
-    for sections in json_data['page']['sections'][1]['tabPages']:
-        if sections.get('label', '') == 'Overview':
-            for section in sections['sections']:
-                if section.get('title', '') == 'Publications':
-                    for post in section['posts']:
-                        title = post['title']
-                        url = base_url + post['slug']['current']
-                        
-                        # Parse published date to ISO format
-                        published_date = parser.isoparse(post['publishedOn']).replace(tzinfo=timezone.utc).isoformat()
-                        
-                        # Extract categories
-                        categories = [subj['label'] for subj in post.get('subjects', [])]
-                        
-                        # Generate unique ID using high-cardinality fields
-                        id_components = [
-                            "anthropic_research",
-                            title,
-                            url,
-                            post['publishedOn'],
-                            "_".join(categories) if categories else ''
-                        ]
-                        item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
-                        
-                        # Check for external URL
-                        external_url = ''
-                        if isinstance(post.get('cta', ''), dict):
-                            if len(post['cta'].get('url', '')) > 0:
-                                external_url = post['cta']['url']
-                        
-                        post_data = {
-                            'id': item_id,
-                            'source': 'anthropic',
-                            'type': 'research',
-                            'title': title,
-                            'description': '',
-                            'url': url,
-                            'external_url': external_url,
-                            'published_date': published_date,
-                            'categories': categories,
-                            'organization': 'Anthropic',
-                            'metadata': {},
-                            'objects': []
-                        }
-                        post_items.append(post_data)
+    
+    try:
+        for sections in json_data['page']['sections'][1]['tabPages']:
+            if sections.get('label', '') == 'Overview':
+                for section in sections['sections']:
+                    if section.get('title', '') == 'Publications':
+                        for post in section['posts']:
+                            title = post['title']
+                            url = base_url + post['slug']['current']
+                            
+                            # Parse published date to ISO format
+                            published_date = parser.isoparse(post['publishedOn']).replace(tzinfo=timezone.utc).isoformat()
+                            
+                            # Extract categories
+                            categories = [subj['label'] for subj in post.get('subjects', [])]
+                            
+                            # Generate unique ID using high-cardinality fields
+                            id_components = [
+                                "anthropic_research",
+                                title,
+                                url,
+                                post['publishedOn'],
+                                "_".join(categories) if categories else ''
+                            ]
+                            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+                            
+                            # Check for external URL
+                            external_url = ''
+                            if isinstance(post.get('cta', ''), dict):
+                                if len(post['cta'].get('url', '')) > 0:
+                                    external_url = post['cta']['url']
+                            
+                            post_data = {
+                                'id': item_id,
+                                'source': 'anthropic',
+                                'type': 'research',
+                                'title': title,
+                                'description': '',
+                                'url': url,
+                                'external_url': external_url,
+                                'published_date': published_date,
+                                'categories': categories,
+                                'organization': 'Anthropic',
+                                'metadata': {},
+                                'objects': []
+                            }
+                            post_items.append(post_data)
+    except Exception as e:
+        logging.error(f"Error parsing script data: {e}")
+        return []
+    
     return post_items
 
 

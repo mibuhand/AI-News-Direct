@@ -85,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "acfa8ee44f0f5131543823257e9ad777",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing Codex",
-        "description": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
-        "url": "https://openai.com/index/introducing-codex/",
-        "published_date": "2025-05-16T08:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
         "id": "e5cd2fde10edce9e29c756b3200a6de9",
         "source": "openai",
         "type": "safety",
@@ -115,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "acfa8ee44f0f5131543823257e9ad777",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing Codex",
+        "description": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
+        "url": "https://openai.com/index/introducing-codex/",
+        "published_date": "2025-05-16T08:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
         },
         "objects": []
     },

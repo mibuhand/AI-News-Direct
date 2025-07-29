@@ -1,5 +1,24 @@
 [
     {
+        "id": "528ad5653cbf779a3f36c1cc48c41083",
+        "source": "google_ai",
+        "type": "news",
+        "title": "Web Guide: An experimental AI-organized search results page",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebGuide_Hero.max-600x600.format-webp.webp\">We\u2019re launching Web Guide, a Search Labs experiment that uses AI to intelligently organize the search results page, making it easier to find information and web pages.",
+        "url": "https://blog.google/products/search/web-guide-labs/",
+        "published_date": "2025-07-24T16:00:00+00:00",
+        "categories": [
+            "Search",
+            "AI"
+        ],
+        "organization": "Google",
+        "metadata": {
+            "guid": "https://blog.google/products/search/web-guide-labs/",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
         "id": "97847da278c00d092dbb8493729b6bf9",
         "source": "google_ai",
         "type": "news",
@@ -15,25 +34,6 @@
         "organization": "Google",
         "metadata": {
             "guid": "https://blog.google/products/shopping/back-to-school-ai-updates-try-on-price-alerts/",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "528ad5653cbf779a3f36c1cc48c41083",
-        "source": "google_ai",
-        "type": "news",
-        "title": "Web Guide: An experimental AI-organized search results page",
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebGuide_Hero.max-600x600.format-webp.webp\">We\u2019re launching Web Guide, a Search Labs experiment that uses AI to intelligently organize the search results page, making it easier to find information and web pages.",
-        "url": "https://blog.google/products/search/web-guide-labs/",
-        "published_date": "2025-07-24T16:00:00+00:00",
-        "categories": [
-            "Search",
-            "AI"
-        ],
-        "organization": "Google",
-        "metadata": {
-            "guid": "https://blog.google/products/search/web-guide-labs/",
             "feed_type": "rss"
         },
         "objects": []
@@ -168,7 +168,7 @@
         "title": "[HuggingFace] updated 4 models",
         "description": "huggingface_google: updated 4 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-17T19:26:54.672456+00:00",
+        "published_date": "2025-07-18T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -194,28 +194,6 @@
                 "title": "google/videoprism-base-f16r288",
                 "url": "https://huggingface.co/google/videoprism-base-f16r288",
                 "type": "Video Classification"
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
-        "id": "6fb56cc1f69749fb74cf6fa63492ade6",
-        "source": "google_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored a paper",
-        "description": "huggingface_google: authored a paper",
-        "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-16T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_google",
-        "metadata": {
-            "action": "authored a paper"
-        },
-        "objects": [
-            {
-                "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
-                "url": "https://huggingface.co/papers/2507.06261",
-                "type": ""
             }
         ],
         "original_source": "huggingface"
@@ -267,7 +245,7 @@
         "title": "[HuggingFace] published 2 models",
         "description": "huggingface_google: published 2 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-15T19:26:54.672456+00:00",
+        "published_date": "2025-07-16T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -333,7 +311,7 @@
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_google: updated a model",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-11T19:26:54.672456+00:00",
+        "published_date": "2025-07-12T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -349,35 +327,13 @@
         "original_source": "huggingface"
     },
     {
-        "id": "c05a6c2f36409bfd948ae532408fab0a",
-        "source": "google_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] published a model",
-        "description": "huggingface_google: published a model",
-        "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-09T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_google",
-        "metadata": {
-            "action": "published a model"
-        },
-        "objects": [
-            {
-                "title": "google/medgemma-27b-it",
-                "url": "https://huggingface.co/google/medgemma-27b-it",
-                "type": "Image-Text-to-Text"
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "d1fa8dbefb0048e8d5601a25c664b78d",
         "source": "google_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_google: updated 2 models",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-09T19:26:54.672456+00:00",
+        "published_date": "2025-07-10T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -393,6 +349,28 @@
                 "title": "google/medsiglip-448",
                 "url": "https://huggingface.co/google/medsiglip-448",
                 "type": "Zero-Shot Image Classification"
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "c05a6c2f36409bfd948ae532408fab0a",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] published a model",
+        "description": "huggingface_google: published a model",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2025-07-10T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "published a model"
+        },
+        "objects": [
+            {
+                "title": "google/medgemma-27b-it",
+                "url": "https://huggingface.co/google/medgemma-27b-it",
+                "type": "Image-Text-to-Text"
             }
         ],
         "original_source": "huggingface"
@@ -443,7 +421,7 @@
         "title": "[HuggingFace] updated a dataset",
         "description": "huggingface_google: updated a dataset",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-07-07T19:26:54.672456+00:00",
+        "published_date": "2025-07-08T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -555,7 +533,7 @@
         "title": "[HuggingFace] published a dataset",
         "description": "huggingface_google: published a dataset",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-06-28T19:26:54.672456+00:00",
+        "published_date": "2025-06-29T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -565,6 +543,28 @@
             {
                 "title": "google/DOCCI-Critique",
                 "url": "https://huggingface.co/datasets/google/DOCCI-Critique",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
+        "id": "619a92bd23dab7ced90b3c170a36c941",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored a paper",
+        "description": "huggingface_google: authored a paper",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2025-06-29T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "authored a paper"
+        },
+        "objects": [
+            {
+                "title": "Robust Reward Modeling via Causal Rubrics",
+                "url": "https://huggingface.co/papers/2506.16507",
                 "type": ""
             }
         ],
@@ -782,6 +782,38 @@
         "objects": []
     },
     {
+        "id": "f10b4378ef75582c653f04ab510ff3f4",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 3 papers",
+        "description": "huggingface_google: authored 3 papers",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2025-05-29T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "authored 3 papers"
+        },
+        "objects": [
+            {
+                "title": "CoDe: Blockwise Control for Denoising Diffusion Models",
+                "url": "https://huggingface.co/papers/2502.00968",
+                "type": ""
+            },
+            {
+                "title": "Asymptotics of Language Model Alignment",
+                "url": "https://huggingface.co/papers/2404.01730",
+                "type": ""
+            },
+            {
+                "title": "Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection",
+                "url": "https://huggingface.co/papers/2504.01931",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "2f9d3d596d285e91c3d0ec57314c7607",
         "source": "google_deepmind",
         "type": "news",
@@ -793,6 +825,38 @@
         "organization": "Google",
         "metadata": {
             "guid": "https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "ab43065b1a105f83a1113df4f8ac6a00",
+        "source": "google_deepmind",
+        "type": "news",
+        "title": "Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI",
+        "description": "Gemma 3n is a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio, empowering developers to build live, interactive applications and sophisticated audio-centric experiences.",
+        "url": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
+        "published_date": "2025-05-20T09:45:00+00:00",
+        "categories": [],
+        "organization": "Google",
+        "metadata": {
+            "guid": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
+            "feed_type": "rss"
+        },
+        "objects": []
+    },
+    {
+        "id": "88d945e52c1d7a91fa573f2c9acef128",
+        "source": "google_deepmind",
+        "type": "news",
+        "title": "Advancing Gemini's security safeguards",
+        "description": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
+        "url": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
+        "published_date": "2025-05-20T09:45:00+00:00",
+        "categories": [],
+        "organization": "Google",
+        "metadata": {
+            "guid": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
             "feed_type": "rss"
         },
         "objects": []
@@ -825,38 +889,6 @@
         "organization": "Google",
         "metadata": {
             "guid": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "88d945e52c1d7a91fa573f2c9acef128",
-        "source": "google_deepmind",
-        "type": "news",
-        "title": "Advancing Gemini's security safeguards",
-        "description": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
-        "url": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
-        "published_date": "2025-05-20T09:45:00+00:00",
-        "categories": [],
-        "organization": "Google",
-        "metadata": {
-            "guid": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
-            "feed_type": "rss"
-        },
-        "objects": []
-    },
-    {
-        "id": "ab43065b1a105f83a1113df4f8ac6a00",
-        "source": "google_deepmind",
-        "type": "news",
-        "title": "Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI",
-        "description": "Gemma 3n is a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio, empowering developers to build live, interactive applications and sophisticated audio-centric experiences.",
-        "url": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
-        "published_date": "2025-05-20T09:45:00+00:00",
-        "categories": [],
-        "organization": "Google",
-        "metadata": {
-            "guid": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
             "feed_type": "rss"
         },
         "objects": []
@@ -1086,13 +1118,65 @@
         "objects": []
     },
     {
+        "id": "d34d2df2b22dca6d52c0d1c548d30973",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 7 papers",
+        "description": "huggingface_google: authored 7 papers",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2025-02-28T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "authored 7 papers"
+        },
+        "objects": [
+            {
+                "title": "Towards Robust Prompts on Vision-Language Models",
+                "url": "https://huggingface.co/papers/2304.08479",
+                "type": ""
+            },
+            {
+                "title": "Enhancing Group Fairness in Online Settings Using Oblique Decision Forests",
+                "url": "https://huggingface.co/papers/2310.11401",
+                "type": ""
+            },
+            {
+                "title": "Situated and Interactive Multimodal Conversations",
+                "url": "https://huggingface.co/papers/2006.01460",
+                "type": ""
+            },
+            {
+                "title": "A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models",
+                "url": "https://huggingface.co/papers/2307.12980",
+                "type": ""
+            },
+            {
+                "title": "Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment",
+                "url": "https://huggingface.co/papers/2411.18688",
+                "type": ""
+            },
+            {
+                "title": "InfAlign: Inference-aware language model alignment",
+                "url": "https://huggingface.co/papers/2412.19792",
+                "type": ""
+            },
+            {
+                "title": "Data-augmented phrase-level alignment for mitigating object hallucination",
+                "url": "https://huggingface.co/papers/2405.18654",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
+    },
+    {
         "id": "1102aa57f03e0c5ae97bb21456045e86",
         "source": "google_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated 2 datasets",
         "description": "huggingface_google: updated 2 datasets",
         "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2025-02-28T19:26:54.672456+00:00",
+        "published_date": "2025-02-28T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_google",
         "metadata": {
@@ -1159,6 +1243,48 @@
             "feed_type": "rss"
         },
         "objects": []
+    },
+    {
+        "id": "59668f15fa22e4bdf93ada768508fd48",
+        "source": "google_aggregated",
+        "type": "activity",
+        "title": "[HuggingFace] authored 5 papers",
+        "description": "huggingface_google: authored 5 papers",
+        "url": "https://huggingface.co/huggingface_google",
+        "published_date": "2024-12-29T02:31:53.906215+00:00",
+        "categories": [],
+        "organization": "huggingface_google",
+        "metadata": {
+            "action": "authored 5 papers"
+        },
+        "objects": [
+            {
+                "title": "Mean-Shifted Contrastive Loss for Anomaly Detection",
+                "url": "https://huggingface.co/papers/2106.03844",
+                "type": ""
+            },
+            {
+                "title": "Recovering the Pre-Fine-Tuning Weights of Generative Models",
+                "url": "https://huggingface.co/papers/2402.10208",
+                "type": ""
+            },
+            {
+                "title": "Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection",
+                "url": "https://huggingface.co/papers/2203.05550",
+                "type": ""
+            },
+            {
+                "title": "Distilling Datasets Into Less Than One Image",
+                "url": "https://huggingface.co/papers/2403.12040",
+                "type": ""
+            },
+            {
+                "title": "ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion",
+                "url": "https://huggingface.co/papers/2403.18818",
+                "type": ""
+            }
+        ],
+        "original_source": "huggingface"
     },
     {
         "id": "4bed85ea409b22a3b17f612726bc5812",
@@ -1423,7 +1549,7 @@
         "title": "[HuggingFace] updated 2 models",
         "description": "huggingface_deepmind: updated 2 models",
         "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-08-28T19:26:54.672456+00:00",
+        "published_date": "2024-08-29T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_deepmind",
         "metadata": {
@@ -1492,60 +1618,13 @@
         "objects": []
     },
     {
-        "id": "94f25d9c6eaccba0398d4ee1ade47102",
-        "source": "google_aggregated",
-        "type": "activity",
-        "title": "[HuggingFace] authored 6 papers",
-        "description": "huggingface_google: authored 6 papers",
-        "url": "https://huggingface.co/huggingface_google",
-        "published_date": "2024-07-28T19:26:54.672456+00:00",
-        "categories": [],
-        "organization": "huggingface_google",
-        "metadata": {
-            "action": "authored 6 papers"
-        },
-        "objects": [
-            {
-                "title": "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains",
-                "url": "https://huggingface.co/papers/2402.00559",
-                "type": ""
-            },
-            {
-                "title": "TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools",
-                "url": "https://huggingface.co/papers/2406.03618",
-                "type": ""
-            },
-            {
-                "title": "Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP",
-                "url": "https://huggingface.co/papers/2407.00402",
-                "type": ""
-            },
-            {
-                "title": "Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations",
-                "url": "https://huggingface.co/papers/2406.13632",
-                "type": ""
-            },
-            {
-                "title": "CoverBench: A Challenging Benchmark for Complex Claim Verification",
-                "url": "https://huggingface.co/papers/2408.03325",
-                "type": ""
-            },
-            {
-                "title": "Data Contamination Report from the 2024 CONDA Shared Task",
-                "url": "https://huggingface.co/papers/2407.21530",
-                "type": ""
-            }
-        ],
-        "original_source": "huggingface"
-    },
-    {
         "id": "b170de0abdcfa8c05f0dbe9359e914e0",
         "source": "google_aggregated",
         "type": "activity",
         "title": "[HuggingFace] updated a model",
         "description": "huggingface_deepmind: updated a model",
         "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-07-28T19:26:54.672456+00:00",
+        "published_date": "2024-07-29T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_deepmind",
         "metadata": {
@@ -1567,7 +1646,7 @@
         "title": "[HuggingFace] authored a paper",
         "description": "huggingface_deepmind: authored a paper",
         "url": "https://huggingface.co/huggingface_deepmind",
-        "published_date": "2024-07-28T19:26:54.672456+00:00",
+        "published_date": "2024-07-29T02:31:53.906215+00:00",
         "categories": [],
         "organization": "huggingface_deepmind",
         "metadata": {
