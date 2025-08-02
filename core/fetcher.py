@@ -5,22 +5,19 @@ from pathlib import Path
 import re
 from datetime import datetime, timezone
 from urllib.parse import urljoin
-from itertools import product
 import logging
 
 # Set up logging configuration
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Define directories for caching HTML files, feeds, and logs
+# Define directories for caching HTML files and logs
 script_dir = Path(__file__).resolve().parent
 project_dir = script_dir.parent
 html_cache_dir = project_dir / "data" / "html_cache"
-feeds_cache_dir = project_dir / "data" / "feeds_cache"
 logs_dir = project_dir / "data" / "logs"
 
 # Ensure the cache and logs directories exist
 html_cache_dir.mkdir(exist_ok=True)
-feeds_cache_dir.mkdir(exist_ok=True)
 logs_dir.mkdir(exist_ok=True)
 
 
@@ -76,20 +73,13 @@ async def fetch_and_save(curl_session, url_data, semaphore):
             if not config_filename:
                 raise ValueError(f"No cache filename configured for URL: {url}")
             
-            # Remove extension since we'll add it based on type
-            filename = config_filename.replace('.html', '').replace('.xml', '')
+            # Remove extension since we'll add .html
+            filename = config_filename.replace('.html', '')
 
-            # Determine file type and save accordingly
-            if url_data.get('type') == 'feed':
-                # Save RSS/Atom feeds with .xml extension
-                with open(feeds_cache_dir / f"{filename}.xml", "w", encoding="utf-8") as f:
-                    f.write(response_text)
-                return {"url": url, "status": "success", "file": filename, "type": "feed"}
-            else:
-                # Save HTML content
-                with open(html_cache_dir / f"{filename}.html", "w", encoding="utf-8") as f:
-                    f.write(response_text)
-                return {"url": url, "status": "success", "file": filename, "type": "html"}
+            # Save HTML content
+            with open(html_cache_dir / f"{filename}.html", "w", encoding="utf-8") as f:
+                f.write(response_text)
+            return {"url": url, "status": "success", "file": filename, "type": "html"}
             
         except Exception as e:
             logging.error(f"Unexpected error fetching {url}: {str(e)}")
@@ -166,122 +156,25 @@ if __name__ == "__main__":
             domain = re.sub(r'[^\w]', '_', base_url.split('//')[-1].split('/')[0])
             client_type = data.get('client_type', 'curl_cffi')  # Default to curl_cffi
             
-            # Handle organization matrix type (HuggingFace organizations)
-            if data.get('type') == 'organization_matrix':
-                base_path = data.get('base_path', '')
-                organizations = data.get('organizations', [])
-                pages = data.get('pages', [''])
-                cache_files = data.get('cache_files', {})
-                
-                # Get cache filename template
-                cache_template = cache_files.get('matrix', '')
-                
-                # Generate all combinations of organizations and pages
-                for org, page in product(organizations, pages):
-                    full_page = f"{base_path}{org}{page}"
-                    page_name = f"{org.strip('/')}{page.replace('/', '_')}"
-                    
-                    # Extract organization name and content type for better filenames
-                    org_name = org.strip('/').replace('-', '').replace('_', '')
-                    page_type = page.strip('/').replace('activity/', '').replace('/', '_')
-                    
-                    # Generate specific cache filename from template
-                    cache_filename = ''
-                    if cache_template:
-                        cache_filename = cache_template.format(
-                            org=org_name,
-                            page_type=page_type
-                        )
-                    
-                    urls_data.append({
-                        'base_url': base_url,
-                        'domain': domain,
-                        'page': full_page,
-                        'content_type': page_type,
-                        'cache_filename': cache_filename,
-                        'client_type': client_type
-                    })
-            
-            # Handle user profiles type (HuggingFace users)
-            elif data.get('type') == 'user_profiles':
-                users = data.get('users', [])
-                pages = data.get('pages', [''])
-                cache_files = data.get('cache_files', {})
-                
-                # Get cache filename template
-                cache_template = cache_files.get('profiles', '')
-                
-                # Generate all combinations of users and pages
-                for user, page in product(users, pages):
-                    full_page = f"{user}{page}"
-                    page_name = f"{user.strip('/')}{page.replace('/', '_')}"
-                    
-                    # Extract user name and content type for better filenames
-                    user_name = user.strip('/').replace('-', '').replace('_', '')
-                    page_type = page.strip('/').replace('activity/', '').replace('/', '_')
-                    
-                    # Generate specific cache filename from template
-                    cache_filename = ''
-                    if cache_template:
-                        cache_filename = cache_template.format(
-                            user=user_name,
-                            page_type=page_type
-                        )
-                    
-                    urls_data.append({
-                        'base_url': base_url,
-                        'domain': domain,
-                        'page': full_page,
-                        'content_type': page_type,
-                        'cache_filename': cache_filename,
-                        'client_type': client_type
-                    })
-            
-            # Handle RSS/Atom feeds
-            elif data.get('type') == 'feeds':
-                feeds = data.get('feeds', [])
-                cache_files = data.get('cache_files', {})
-                for feed in feeds:
-                    feed_name = feed.get('name', 'feed')
-                    feed_url = feed.get('url', '')
-                    if feed_url:
-                        # Extract path from full URL for page parameter
-                        feed_path = feed_url.replace(base_url, '').lstrip('/')
-                        
-                        # Get config-driven cache filename
-                        cache_key = f"{feed_name}_feed"
-                        cache_filename = cache_files.get(cache_key, '')
-                        
-                        urls_data.append({
-                            'base_url': base_url,
-                            'domain': domain,
-                            'page': feed_path,
-                            'type': 'feed',
-                            'feed_name': feed_name,
-                            'cache_filename': cache_filename,
-                            'client_type': client_type
-                        })
-            
             # Handle simple pages list
-            else:
-                pages = data.get('pages', [''])
-                cache_files = data.get('cache_files', {})
+            pages = data.get('pages', [''])
+            cache_files = data.get('cache_files', {})
+            
+            for page in pages:
+                # Extract content type from page path
+                content_type = page.strip('/').replace('/', '_') if page.strip('/') else 'main'
                 
-                for page in pages:
-                    # Extract content type from page path
-                    content_type = page.strip('/').replace('/', '_') if page.strip('/') else 'main'
-                    
-                    # Get config-driven cache filename
-                    cache_filename = cache_files.get(content_type, '')
-                    
-                    urls_data.append({
-                        'base_url': base_url,
-                        'domain': domain,
-                        'page': page,
-                        'content_type': content_type,
-                        'cache_filename': cache_filename,
-                        'client_type': client_type
-                    })
+                # Get config-driven cache filename
+                cache_filename = cache_files.get(content_type, '')
+                
+                urls_data.append({
+                    'base_url': base_url,
+                    'domain': domain,
+                    'page': page,
+                    'content_type': content_type,
+                    'cache_filename': cache_filename,
+                    'client_type': client_type
+                })
     
     logging.info(f"Total URLs to fetch: {len(urls_data)}")
     

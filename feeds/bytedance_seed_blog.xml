@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ByteDance Seed Blog</title>
+  <title>Bytedance Seed Blog</title>
   <id>tag:ai-news-direct.local,2025:bytedance_seed_blog</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-07-29T02:32:11.298250+00:00</updated>
+  <updated>2025-08-02T01:14:46.682384+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
+  <link href="https://seed.bytedance.com/en/feeds/bytedance_seed_blog.xml" rel="self"/>
+  <entry>
+    <title>Seed LiveInterpret 2.0 Released: An End-to-End Simultaneous Interpretation Model Featuring Ultra-High Accuracy Close to Human Interpreters, Low Latency of 3 Seconds, and Real-Time Voice Cloning</title>
+    <id>c5e2f744f99160fe415ca2b50f92b88d</id>
+    <link href="https://seed.bytedance.com/en/blog/seed-liveinterpret-2-0-released-an-end-to-end-simultaneous-interpretation-model-featuring-ultra-high-accuracy-close-to-human-interpreters-low-latency-of-3-seconds-and-real-time-voice-cloning"/>
+    <updated>2025-07-23T11:00:00+00:00</updated>
+    <category term="Technology Launch"/>
+    <summary>Seed LiveInterpret 2.0 achieves SOTA quality in both Chinese-to-English and English-to-Chinese interpretation with ultra-low latency.</summary>
+  </entry>
   <entry>
     <title>ByteDance Seed Prover Achieves Silver Medal Score in IMO 2025</title>
     <id>0a250cd7c4cc2e4f3ae29337b4a499ff</id>
     <link href="https://seed.bytedance.com/en/blog/bytedance-seed-prover-achieves-silver-medal-score-in-imo-2025"/>
     <updated>2025-07-22T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>Formalization + Test-time scaling, deep thinking in math reasoning | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Formalization + Test-time scaling, deep thinking in math reasoning</summary>
   </entry>
   <entry>
     <title>Seed Research￨GR-3 Released: A Generalist Robot Model for Generalization, Long-Horizon Tasks, and Bi-Manual Deformable Object Manipulation</title>
@@ -22,7 +31,7 @@
     <link href="https://seed.bytedance.com/en/blog/seed-research-gr-3-released-a-generalist-robot-model-for-generalization-long-horizon-tasks-and-bi-manual-deformable-object-manipulation"/>
     <updated>2025-07-21T11:00:00+00:00</updated>
     <category term="Seed Research"/>
-    <summary>A generalizable robot operation model that supports long-range and complex tasks | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>A generalizable robot operation model that supports long-range and complex tasks</summary>
   </entry>
   <entry>
     <title>4B Model Rivals 235B Performance in Mathematical Reasoning: Seed’s Latest RL Training Recipe Fully Open-Sourced</title>
@@ -30,7 +39,7 @@
     <link href="https://seed.bytedance.com/en/blog/4b-model-rivals-235b-performance-in-mathematical-reasoning-seed-s-latest-rl-training-recipe-fully-open-sourced"/>
     <updated>2025-07-14T11:00:00+00:00</updated>
     <category term="Seed Research"/>
-    <summary>700-step RL training significantly enhances mathematical reasoning capabilities in smaller models. | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>700-step RL training significantly enhances mathematical reasoning capabilities in smaller models.</summary>
   </entry>
   <entry>
     <title>Meet Seed at ICML 2025: 25 Papers Accepted</title>
@@ -38,7 +47,7 @@
     <link href="https://seed.bytedance.com/en/blog/meet-seed-at-icml-2025-25-papers-accepted"/>
     <updated>2025-07-13T11:00:00+00:00</updated>
     <category term="Academic Collaboration and Events"/>
-    <summary>Welcome on-site communication! | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Welcome on-site communication!</summary>
   </entry>
   <entry>
     <title>Seed-1.6-Embedding Launched: A Powerful Embedding Model Built on Seed1.6-Flash</title>
@@ -46,7 +55,7 @@
     <link href="https://seed.bytedance.com/en/blog/seed-1-6-embedding-launched-a-powerful-embedding-model-built-on-seed1-6-flash"/>
     <updated>2025-06-27T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>It stands out with Multimodal Hybrid Retrieval, SOTA Performance and Flexibility. | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>It stands out with Multimodal Hybrid Retrieval, SOTA Performance and Flexibility.</summary>
   </entry>
   <entry>
     <title>Introduction to Techniques Used in Seed1.6</title>
@@ -54,7 +63,7 @@
     <link href="https://seed.bytedance.com/en/blog/introduction-to-techniques-used-in-seed1-6"/>
     <updated>2025-06-24T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>Adaptive Thinking Powered by Multimodal Capabilities (Including college entrance examination  Scores) | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Adaptive Thinking Powered by Multimodal Capabilities (Including college entrance examination  Scores)</summary>
   </entry>
   <entry>
     <title>ByteDance Seed and BYD Lithium Battery Forge Partnership: AI Joint Laboratory to Accelerate Battery R&amp;D</title>
@@ -62,7 +71,7 @@
     <link href="https://seed.bytedance.com/en/blog/bytedance-seed-and-byd-lithium-battery-forge-partnership-ai-joint-laboratory-to-accelerate-battery-r-d"/>
     <updated>2025-06-17T11:00:00+00:00</updated>
     <category term="Academic cooperation"/>
-    <summary>AI for Science + High-Throughput Experimentation: Tackling Critical Challenges in Power Batteries | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>AI for Science + High-Throughput Experimentation: Tackling Critical Challenges in Power Batteries</summary>
   </entry>
   <entry>
     <title>Tech Report of Seedance 1.0 Is Now Publicly Available</title>
@@ -70,7 +79,7 @@
     <link href="https://seed.bytedance.com/en/blog/tech-report-of-seedance-1-0-is-now-publicly-available"/>
     <updated>2025-06-10T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>Tech Report of Seedance 1.0 Is Now Publicly Available | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Tech Report of Seedance 1.0 Is Now Publicly Available</summary>
   </entry>
   <entry>
     <title>Meet Seed at CVPR 2025: 12 Papers Accepted and 2 Talks</title>
@@ -78,7 +87,7 @@
     <link href="https://seed.bytedance.com/en/blog/meet-seed-at-cvpr-2025-12-papers-accepted-and-2-talks"/>
     <updated>2025-06-09T11:00:00+00:00</updated>
     <category term="Academic Collaboration and Events"/>
-    <summary>Welcome to our booth | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Welcome to our booth</summary>
   </entry>
   <entry>
     <title>ByteDance Released Image Editing Model SeedEdit 3.0: Enhanced Image Consistency and Usability Rate</title>
@@ -86,7 +95,7 @@
     <link href="https://seed.bytedance.com/en/blog/bytedance-released-image-editing-model-seededit-3-0-enhanced-image-consistency-and-usability-rate"/>
     <updated>2025-06-05T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>This model is now open for testing on the web page of Jimeng and will be applied in the Doubao app soon.  | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>This model is now open for testing on the web page of Jimeng and will be applied in the Doubao app soon.</summary>
   </entry>
   <entry>
     <title>Seed Research｜BAGEL: The Open-Source Unified Multimodal Model - An All-in-One Model!</title>
@@ -94,14 +103,6 @@
     <link href="https://seed.bytedance.com/en/blog/seed-research-bagel-the-open-source-unified-multimodal-model-an-all-in-one-model"/>
     <updated>2025-05-27T11:00:00+00:00</updated>
     <category term="Technology Launch"/>
-    <summary>Supports text, images, videos, and multimodal interleaving. | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
-  </entry>
-  <entry>
-    <title>Seed-Coder Released: A Powerful Family of Open-Source Code Models for Curating Code Data Based on LLMs</title>
-    <id>3dea7fdfb8c70c4459a640bab80a198b</id>
-    <link href="https://seed.bytedance.com/en/blog/seed-coder-released-a-powerful-family-of-open-source-code-models-for-curating-code-data-based-on-llms"/>
-    <updated>2025-05-18T11:00:00+00:00</updated>
-    <category term="Technology Launch"/>
-    <summary>Dataflow Implementation Released, BF16 Precision Version Now Available for Download. | Organization: ByteDance Seed | Source: Bytedance Seed (blog)</summary>
+    <summary>Supports text, images, videos, and multimodal interleaving.</summary>
   </entry>
 </feed>

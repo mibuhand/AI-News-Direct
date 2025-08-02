@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>OpenAI Publication</title>
+  <title>Openai Research</title>
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-07-29T02:32:11.420241+00:00</updated>
+  <updated>2025-08-02T01:14:46.698066+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
+  <link href="https://openai.com/research/index/feeds/openai_research.xml" rel="self"/>
   <entry>
     <title>Pioneering an AI clinical copilot with Penda Health</title>
     <id>8d443ec74f68e0b84f522ffce421176b</id>
     <link href="https://openai.com/index/ai-clinical-copilot-penda-health/"/>
     <updated>2025-07-22T10:00:00+00:00</updated>
     <category term="Publication"/>
-    <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare. | Organization: OpenAI | Source: Openai (publication)</summary>
+    <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.</summary>
   </entry>
   <entry>
     <title>Introducing ChatGPT agent</title>
@@ -22,7 +23,7 @@
     <link href="https://openai.com/index/introducing-chatgpt-agent/"/>
     <updated>2025-07-17T10:00:00+00:00</updated>
     <category term="Product"/>
-    <summary>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance. | Organization: OpenAI | Source: Openai (product)</summary>
+    <summary>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.</summary>
   </entry>
   <entry>
     <title>ChatGPT agent System Card</title>
@@ -30,7 +31,7 @@
     <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
     <updated>2025-07-17T10:00:00+00:00</updated>
     <category term="Publication"/>
-    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework. | Organization: OpenAI | Source: Openai (publication)</summary>
+    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.</summary>
   </entry>
   <entry>
     <title>Toward understanding and preventing misalignment generalization</title>
@@ -38,7 +39,7 @@
     <link href="https://openai.com/index/emergent-misalignment/"/>
     <updated>2025-06-18T10:00:00+00:00</updated>
     <category term="Publication"/>
-    <summary>We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning. | Organization: OpenAI | Source: Openai (publication)</summary>
+    <summary>We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.</summary>
   </entry>
   <entry>
     <title>Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator</title>
@@ -46,7 +47,7 @@
     <link href="https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/"/>
     <updated>2025-05-23T00:00:00+00:00</updated>
     <category term="Safety"/>
-    <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o. | Organization: OpenAI | Source: Openai (safety)</summary>
+    <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.</summary>
   </entry>
   <entry>
     <title>Addendum to o3 and o4-mini system card: Codex</title>
@@ -54,7 +55,7 @@
     <link href="https://openai.com/index/o3-o4-mini-codex-system-card-addendum/"/>
     <updated>2025-05-16T08:00:00+00:00</updated>
     <category term="Safety"/>
-    <summary>Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved. | Organization: OpenAI | Source: Openai (safety)</summary>
+    <summary>Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.</summary>
   </entry>
   <entry>
     <title>Introducing Codex</title>
@@ -62,7 +63,7 @@
     <link href="https://openai.com/index/introducing-codex/"/>
     <updated>2025-05-16T08:00:00+00:00</updated>
     <category term="Release"/>
-    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review. | Organization: OpenAI | Source: Openai (release)</summary>
+    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.</summary>
   </entry>
   <entry>
     <title>Introducing HealthBench</title>
@@ -70,7 +71,7 @@
     <link href="https://openai.com/index/healthbench/"/>
     <updated>2025-05-12T10:30:00+00:00</updated>
     <category term="Publication"/>
-    <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health. | Organization: OpenAI | Source: Openai (publication)</summary>
+    <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.</summary>
   </entry>
   <entry>
     <title>Introducing OpenAI o3 and o4-mini</title>
@@ -78,6 +79,6 @@
     <link href="https://openai.com/index/introducing-o3-and-o4-mini/"/>
     <updated>2025-04-16T10:00:00+00:00</updated>
     <category term="Release"/>
-    <summary>Our smartest and most capable models to date with full tool access | Organization: OpenAI | Source: Openai (release)</summary>
+    <summary>Our smartest and most capable models to date with full tool access</summary>
   </entry>
 </feed>

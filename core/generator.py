@@ -5,9 +5,8 @@ from datetime import datetime, timezone
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 import glob
-from aggregator import aggregate_all_organizations, ORGANIZATION_CONFIGS
 
-# Directory containing the parsed JSON files
+# Directory paths
 project_dir = Path(__file__).resolve().parent.parent
 parsed_dir = project_dir / 'data' / 'parsed'
 feeds_dir = project_dir / 'feeds'
@@ -16,7 +15,6 @@ config_dir = project_dir / 'config'
 # Ensure feeds directory exists
 feeds_dir.mkdir(exist_ok=True)
 
-# Load sites configuration
 def load_sites_config():
     """Load sites configuration from JSON file"""
     config_file = config_dir / 'sites_config.json'
@@ -29,162 +27,188 @@ def load_sites_config():
 
 SITES_CONFIG = load_sites_config()
 
-def get_favicon_url_by_key(favicon_key):
-    """Resolve favicon_key to actual URL from sites_config.json"""
-    for site_config in SITES_CONFIG:
-        if site_config.get('organization_key') == favicon_key:
-            return site_config.get('favicon_url', '')
-    return ''
-
-def get_feed_icon(feed_name, source):
-    """Get appropriate icon URL for the feed using config files as source of truth"""
-    # First check if this is an aggregated feed - use organizations.json
-    if '_aggregated' in feed_name:
-        org_key = feed_name.replace('_aggregated', '')
-        if org_key in ORGANIZATION_CONFIGS:
-            config = ORGANIZATION_CONFIGS[org_key]
-            favicon_key = config.get('favicon_key', '')
-            if favicon_key:
-                favicon_url = get_favicon_url_by_key(favicon_key)
-                if favicon_url:
-                    return favicon_url
-    
-    # For non-aggregated feeds, try to find matching site in sites_config.json
+def get_favicon_url(feed_name):
+    """Get favicon URL for feed based on name matching with sites config"""
     for site_config in SITES_CONFIG:
         org_key = site_config.get('organization_key', '')
-        favicon_url = site_config.get('favicon_url', '')
-        
-        # Check if feed name contains the organization key
-        if org_key and org_key in feed_name and favicon_url:
-            return favicon_url
-    
-    # Default AI News Direct icon
+        if org_key and org_key in feed_name.lower():
+            return site_config.get('favicon_url', '')
     return 'https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg'
 
+def get_base_url(feed_name):
+    """Get base URL for feed based on name matching with sites config"""
+    for site_config in SITES_CONFIG:
+        org_key = site_config.get('organization_key', '')
+        if org_key and org_key in feed_name.lower():
+            return site_config.get('site', 'https://example.com')
+    return 'https://ai-news-direct.local'
 
-def create_atom_feed(entries, feed_title, feed_id, feed_link, base_url, feed_name='', source=''):
-    """Create an Atom feed XML from entries using standardized schema"""
+def safe_get_text(data, key, fallback=''):
+    """Safely get text value from data, handling None and non-string types"""
+    value = data.get(key, fallback)
+    if value is None:
+        return fallback
+    return str(value).strip()
+
+def format_date(date_str):
+    """Format date string to ISO format, with fallback to current time"""
+    if not date_str:
+        return datetime.now(timezone.utc).isoformat()
+    
+    try:
+        # Handle various date formats
+        if 'T' in str(date_str):
+            # ISO format
+            dt = datetime.fromisoformat(str(date_str).replace('Z', '+00:00'))
+        else:
+            # Assume it's a simple date, add time
+            dt = datetime.fromisoformat(f"{date_str}T00:00:00+00:00")
+        return dt.isoformat()
+    except (ValueError, TypeError):
+        return datetime.now(timezone.utc).isoformat()
+
+def create_atom_feed(entries, feed_name):
+    """Create an Atom feed from entries with whatever data is available"""
     # Create root feed element
     feed = Element('feed')
     feed.set('xmlns', 'http://www.w3.org/2005/Atom')
     
     # Feed metadata
     title = SubElement(feed, 'title')
-    title.text = feed_title
+    title.text = feed_name.replace('_', ' ').title()
     
     feed_id_elem = SubElement(feed, 'id')
-    feed_id_elem.text = feed_id
+    feed_id_elem.text = f"tag:ai-news-direct.local,2025:{feed_name}"
     
     # Add feed icon
-    icon_url = get_feed_icon(feed_name, source)
-    icon = SubElement(feed, 'icon')
-    icon.text = icon_url
+    icon_url = get_favicon_url(feed_name)
+    if icon_url:
+        icon = SubElement(feed, 'icon')
+        icon.text = icon_url
+        
+        logo = SubElement(feed, 'logo')
+        logo.text = icon_url
     
-    # Add logo (same as icon for now)
-    logo = SubElement(feed, 'logo')
-    logo.text = icon_url
-    
+    # Feed updated time
     updated = SubElement(feed, 'updated')
     updated.text = datetime.now(timezone.utc).isoformat()
     
+    # Author
     author = SubElement(feed, 'author')
     name = SubElement(author, 'name')
     name.text = 'AI News Direct'
     
-    # Add entries
+    # Link to feed
+    link = SubElement(feed, 'link')
+    link.set('href', f"{get_base_url(feed_name)}/feeds/{feed_name}.xml")
+    link.set('rel', 'self')
+    
+    # Process each entry
     for entry_data in entries:
+        if not isinstance(entry_data, dict):
+            continue
+            
         entry = SubElement(feed, 'entry')
         
+        # Entry title
         entry_title = SubElement(entry, 'title')
-        entry_title.text = entry_data.get('title', 'No Title')
+        title_text = safe_get_text(entry_data, 'title', 'Untitled')
+        entry_title.text = title_text
         
+        # Entry ID
         entry_id = SubElement(entry, 'id')
-        entry_id.text = entry_data.get('id', entry_data.get('url', f"urn:uuid:{hash(str(entry_data))}"))
+        id_text = safe_get_text(entry_data, 'id', safe_get_text(entry_data, 'url', f"urn:feed:{feed_name}:{hash(str(entry_data))}"))
+        entry_id.text = id_text
         
-        entry_link = SubElement(entry, 'link')
-        entry_link.set('href', entry_data.get('url', ''))
+        # Entry link
+        url = safe_get_text(entry_data, 'url')
+        if url:
+            entry_link = SubElement(entry, 'link')
+            entry_link.set('href', url)
         
-        # Add external link if available
-        if entry_data.get('external_url'):
+        # External URL if different from main URL
+        external_url = safe_get_text(entry_data, 'external_url')
+        if external_url and external_url != url:
             external_link = SubElement(entry, 'link')
-            external_link.set('href', entry_data['external_url'])
+            external_link.set('href', external_url)
             external_link.set('rel', 'related')
         
+        # Entry updated/published date
         entry_updated = SubElement(entry, 'updated')
-        # Use published_date from standardized schema
-        date_str = entry_data.get('published_date', '')
-        if date_str:
-            try:
-                # Parse ISO format date
-                dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-                entry_updated.text = dt.isoformat()
-            except (ValueError, TypeError):
-                entry_updated.text = datetime.now(timezone.utc).isoformat()
-        else:
-            entry_updated.text = datetime.now(timezone.utc).isoformat()
+        date_str = safe_get_text(entry_data, 'published_date', safe_get_text(entry_data, 'date'))
+        entry_updated.text = format_date(date_str)
         
-        # Add categories
+        # Categories (if available)
         categories = entry_data.get('categories', [])
-        for category in categories:
-            if category:  # Only add non-empty categories
-                cat_elem = SubElement(entry, 'category')
-                cat_elem.set('term', category)
+        if isinstance(categories, list):
+            for category in categories:
+                if category and str(category).strip():
+                    cat_elem = SubElement(entry, 'category')
+                    cat_elem.set('term', str(category).strip())
         
-        # Add summary/content
-        summary = SubElement(entry, 'summary')
-        summary_text = []
+        # Content/Summary - only include meaningful content, not metadata
+        content_parts = []
         
-        # Add description if available
-        description = entry_data.get('description', '')
+        # Description (main content)
+        description = safe_get_text(entry_data, 'description')
         if description:
-            summary_text.append(description)
+            content_parts.append(description)
         
-        # Add organization info
-        organization = entry_data.get('organization', '')
-        if organization:
-            summary_text.append(f"Organization: {organization}")
-        
-        # Add source and type info
-        source = entry_data.get('source', '')
-        entry_type = entry_data.get('type', '')
-        if source and entry_type:
-            source_display = source.replace('_', ' ').title()
-            summary_text.append(f"Source: {source_display} ({entry_type})")
-        
-        # Add metadata action if available
-        metadata = entry_data.get('metadata', {})
-        if metadata.get('action'):
-            summary_text.append(f"Action: {metadata['action']}")
-        
-        # Add objects info
+        # Objects/Related items (actual content)
         objects = entry_data.get('objects', [])
-        if objects:
-            objects_info = []
+        if isinstance(objects, list) and objects:
+            related_items = []
             for obj in objects:
-                obj_str = obj.get('title', '')
-                obj_type = obj.get('type', '')
-                if obj_type:
-                    obj_str += f" ({obj_type})"
-                if obj_str:
-                    objects_info.append(obj_str)
-            if objects_info:
-                summary_text.append(f"Related: {', '.join(objects_info)}")
+                if isinstance(obj, dict):
+                    obj_title = safe_get_text(obj, 'title', safe_get_text(obj, 'obj_title'))
+                    obj_type = safe_get_text(obj, 'type', safe_get_text(obj, 'obj_type'))
+                    obj_url = safe_get_text(obj, 'url', safe_get_text(obj, 'obj_url'))
+                    
+                    if obj_title:
+                        item_text = obj_title
+                        if obj_type:
+                            item_text += f" ({obj_type})"
+                        if obj_url:
+                            item_text += f" - {obj_url}"
+                        related_items.append(item_text)
+            
+            if related_items:
+                content_parts.append(f"Related: {'; '.join(related_items)}")
         
-        # Use description as fallback
-        if not summary_text:
-            summary_text = [entry_data.get('title', 'No Description')]
+        # Any other meaningful content fields (exclude metadata/technical fields)
+        excluded_fields = {
+            'title', 'id', 'url', 'external_url', 'published_date', 'date', 
+            'categories', 'description', 'organization', 'source', 'type', 
+            'metadata', 'objects'
+        }
         
-        summary.text = ' | '.join(summary_text)
+        for key, value in entry_data.items():
+            if key not in excluded_fields and value:
+                if isinstance(value, (str, int, float)) and str(value).strip():
+                    # Only include if it looks like actual content, not technical metadata
+                    value_str = str(value).strip()
+                    if len(value_str) > 10:  # Only include substantial content
+                        content_parts.append(f"{key.replace('_', ' ').title()}: {value_str}")
+        
+        # Create summary - only if we have actual content
+        summary = SubElement(entry, 'summary')
+        if content_parts:
+            summary.text = " | ".join(content_parts)
+        else:
+            # No summary if there's no meaningful content beyond title
+            summary.text = ""
     
     return feed
 
 def generate_feeds():
-    """Generate Atom feeds for all JSON files using standardized schema"""
-    # First, create aggregated feeds for all organizations
-    print("Creating aggregated organization feeds...")
-    aggregate_all_organizations()
-    
+    """Generate Atom feeds for all JSON files in the parsed directory"""
     json_files = glob.glob(str(parsed_dir / "*.json"))
+    
+    if not json_files:
+        print("No JSON files found in data/parsed/ directory")
+        return
+    
+    print(f"Found {len(json_files)} JSON files to process...")
     
     for json_file in json_files:
         filename = os.path.basename(json_file)
@@ -195,71 +219,17 @@ def generate_feeds():
                 data = json.load(f)
             
             if not data:
+                print(f"Skipping {filename} - no data")
                 continue
             
-            # Determine feed metadata from standardized schema
-            first_entry = data[0] if data else {}
-            source = first_entry.get('source', '')
-            entry_type = first_entry.get('type', '')
+            if not isinstance(data, list):
+                print(f"Skipping {filename} - data is not a list")
+                continue
             
-            # Create feed metadata based on source and type
-            if source == 'anthropic':
-                if entry_type == 'news':
-                    feed_title = 'Anthropic News'
-                elif entry_type == 'research':
-                    feed_title = 'Anthropic Research'
-                elif entry_type == 'engineering':
-                    feed_title = 'Anthropic Engineering'
-                else:
-                    feed_title = 'Anthropic Updates'
-                base_url = 'https://www.anthropic.com'
-            elif source == 'huggingface':
-                feed_title = 'Hugging Face Activities'
-                base_url = 'https://huggingface.co'
-            elif source == 'bytedance_seed':
-                if entry_type == 'blog':
-                    feed_title = 'ByteDance Seed Blog'
-                elif entry_type == 'research':
-                    feed_title = 'ByteDance Seed Research'
-                else:
-                    feed_title = 'ByteDance Seed Updates'
-                base_url = 'https://seed.bytedance.com'
-            elif source.endswith('_aggregated'):
-                org_key = source.replace('_aggregated', '')
-                if org_key in ORGANIZATION_CONFIGS:
-                    config = ORGANIZATION_CONFIGS[org_key]
-                    feed_title = config['feed_title']
-                    base_url = config['base_url']
-                else:
-                    feed_title = f'{org_key.title()} - All Activities'
-                    base_url = 'https://example.com'
-            else:
-                # Fallback to filename-based logic
-                if 'anthropic' in feed_name:
-                    feed_title = f'Anthropic {entry_type.title()}'
-                    base_url = 'https://www.anthropic.com'
-                elif 'huggingface' in feed_name:
-                    feed_title = 'Hugging Face Activities'
-                    base_url = 'https://huggingface.co'
-                elif any(org_key in feed_name for org_key in ORGANIZATION_CONFIGS.keys()):
-                    # Find matching organization
-                    for org_key, config in ORGANIZATION_CONFIGS.items():
-                        if org_key in feed_name:
-                            if 'aggregated' in feed_name:
-                                feed_title = config['feed_title']
-                            else:
-                                feed_title = f'{config["name"]} {entry_type.title()}'
-                            base_url = config['base_url']
-                            break
-                else:
-                    feed_title = f'AI News - {feed_name.title()}'
-                    base_url = 'https://example.com'
-            
-            feed_id = f"tag:ai-news-direct.local,2025:{feed_name}"
-            feed_link = f"{base_url}/feed/{feed_name}.xml"
+            print(f"Processing {filename} with {len(data)} entries...")
             
             # Create Atom feed
-            feed_xml = create_atom_feed(data, feed_title, feed_id, feed_link, base_url, feed_name, source)
+            feed_xml = create_atom_feed(data, feed_name)
             
             # Pretty print XML
             rough_string = tostring(feed_xml, 'utf-8')
@@ -271,7 +241,7 @@ def generate_feeds():
             with open(output_file, 'wb') as f:
                 f.write(pretty_xml)
             
-            print(f"Generated: {output_file} ({len(data)} entries)")
+            print(f"Generated: {output_file}")
             
         except Exception as e:
             print(f"Error processing {json_file}: {e}")

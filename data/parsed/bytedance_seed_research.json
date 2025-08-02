@@ -544,40 +544,6 @@
         "external_url": "https://arxiv.org/abs/2411.03884"
     },
     {
-        "id": "5f77273dd97bf3fb11b3ca558865d34f",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs",
-        "description": "Preference alignment in Large Language Models (LLMs) has significantly improved their ability to adhere to human instructions and intentions. However, existing direct alignment algorithms primarily focus on relative preferences and often overlook the qualitative aspects of responses. Striving to maximize the implicit reward gap between the chosen and the slightly inferior rejected responses can cause overfitting and unnecessary unlearning of the high-quality rejected responses. The unawareness of the reward scores also drives the LLM to indiscriminately favor the low-quality chosen responses and fail to generalize to responses with the highest rewards, which are sparse in data. To overcome these shortcomings, our study introduces reward-conditioned LLM policies that discern and learn from the entire spectrum of response quality within the dataset, helping extrapolate to more optimal regions. We propose an effective yet simple data relabeling method that conditions the preference pairs on quality scores to construct a reward-augmented dataset. This dataset is easily integrated with existing direct alignment algorithms and is applicable to any preference dataset. The experimental results across instruction-following benchmarks including AlpacaEval, MT-Bench, and Arena-Hard-Auto demonstrate that our approach consistently boosts the performance of DPO by a considerable margin across diverse models. Additionally, our method improves the average accuracy on various academic benchmarks. When applying our method to on-policy data, the resulting DPO model achieves SOTA results on AlpacaEval. Through ablation studies, we demonstrate that our method not only maximizes the utility of preference data but also mitigates the issue of unlearning, demonstrating its broad effectiveness beyond mere dataset expansion.",
-        "url": "https://seed.bytedance.com/en/research/reward-augmented-data-enhances-direct-preference-alignment-of-llms",
-        "published_date": "2024-10-09T11:00:00+00:00",
-        "categories": [
-            "LLM"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Shenao Zhang, Zhihan Liu, Zhaoran Wang",
-            "journal": "arXiv",
-            "work_team": [
-                "Infrastructures"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Reward-Augmented Data Enhances Direct Preference Alignment of LLMs",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Preference alignment in Large Language Models (LLMs) has significantly improved their ability to adhere to human instructions and intentions. However, existing direct alignment algorithms primarily focus on relative preferences and often overlook the qualitative aspects of responses. Striving to maximize the implicit reward gap between the chosen and the slightly inferior rejected responses can cause overfitting and unnecessary unlearning of the high-quality rejected responses. The unawareness of the reward scores also drives the LLM to indiscriminately favor the low-quality chosen responses and fail to generalize to responses with the highest rewards, which are sparse in data. To overcome these shortcomings, our study introduces reward-conditioned LLM policies that discern and learn from the entire spectrum of response quality within the dataset, helping extrapolate to more optimal regions. We propose an effective yet simple data relabeling method that conditions the preference pairs on quality scores to construct a reward-augmented dataset. This dataset is easily integrated with existing direct alignment algorithms and is applicable to any preference dataset. The experimental results across instruction-following benchmarks including AlpacaEval, MT-Bench, and Arena-Hard-Auto demonstrate that our approach consistently boosts the performance of DPO by a considerable margin across diverse models. Additionally, our method improves the average accuracy on various academic benchmarks. When applying our method to on-policy data, the resulting DPO model achieves SOTA results on AlpacaEval. Through ablation studies, we demonstrate that our method not only maximizes the utility of preference data but also mitigates the issue of unlearning, demonstrating its broad effectiveness beyond mere dataset expansion.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/reward-augmented-data-enhances-direct-preference-alignment-of-llms",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://arxiv.org/abs/2410.08067"
-    },
-    {
         "id": "36c3096dd80939f865809ff47cecf79c",
         "source": "bytedance_seed",
         "type": "research",
