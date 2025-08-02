@@ -1,0 +1,158 @@
+name: AI News Pipeline
+
+on:
+  schedule:
+    # Run at 9:00 AM UTC (9:00)
+    - cron: '0 9 * * *'
+    # Run at 9:00 PM UTC (21:00)
+    - cron: '0 21 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+env:
+  PYTHON_VERSION: '3.12'
+
+jobs:
+  ai-news-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Install uv
+      uses: astral-sh/setup-uv@v4
+      
+    - name: Install dependencies
+      run: |
+        uv sync
+        
+    - name: Create required directories
+      run: |
+        mkdir -p data/html_cache
+        mkdir -p data/parsed
+        mkdir -p data/logs
+        mkdir -p feeds
+        
+    - name: Run fetcher
+      id: fetcher
+      run: |
+        echo "::group::Running fetcher.py"
+        uv run python core/fetcher.py
+        echo "::endgroup::"
+      continue-on-error: true
+      
+    - name: Check fetcher status
+      if: steps.fetcher.outcome == 'failure'
+      run: |
+        echo "::error::Fetcher failed - pipeline will continue but may have incomplete data"
+        
+    - name: Run scrapers
+      id: scrapers
+      run: |
+        echo "::group::Running scrapers"
+        
+        # Run all scrapers
+        echo "Running Anthropic scraper..."
+        uv run python scrapers/anthropic.py || echo "Anthropic scraper failed"
+        
+        echo "Running ByteDance scraper..."
+        uv run python scrapers/bytedance_seed.py || echo "ByteDance scraper failed"
+        
+        echo "Running OpenAI scraper..."
+        uv run python scrapers/openai.py || echo "OpenAI scraper failed"
+        
+        echo "::endgroup::"
+      continue-on-error: true
+      
+    - name: Check scrapers status
+      if: steps.scrapers.outcome == 'failure'
+      run: |
+        echo "::error::One or more scrapers failed - pipeline will continue"
+        
+    - name: Run generator
+      id: generator
+      run: |
+        echo "::group::Running generator.py"
+        uv run python core/generator.py
+        echo "::endgroup::"
+      continue-on-error: true
+      
+    - name: Check generator status
+      if: steps.generator.outcome == 'failure'
+      run: |
+        echo "::error::Generator failed - feeds may not be updated"
+        
+    - name: Upload logs as artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: pipeline-logs-${{ github.run_number }}
+        path: |
+          data/logs/
+        retention-days: 7
+        
+    - name: Upload generated feeds
+      if: steps.generator.outcome == 'success'
+      uses: actions/upload-artifact@v4
+      with:
+        name: generated-feeds-${{ github.run_number }}
+        path: |
+          feeds/
+        retention-days: 30
+        
+    - name: Commit and push changes
+      if: steps.generator.outcome == 'success'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add generated files
+        git add feeds/ data/parsed/ data/logs/
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update AI news feeds - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+        fi
+        
+    - name: Pipeline summary
+      if: always()
+      run: |
+        echo "## Pipeline Execution Summary" >> $GITHUB_STEP_SUMMARY
+        echo "| Step | Status |" >> $GITHUB_STEP_SUMMARY
+        echo "|------|--------|" >> $GITHUB_STEP_SUMMARY
+        echo "| Fetcher | ${{ steps.fetcher.outcome }} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Scrapers | ${{ steps.scrapers.outcome }} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Generator | ${{ steps.generator.outcome }} |" >> $GITHUB_STEP_SUMMARY
+        
+        # Count generated files
+        FEED_COUNT=$(find feeds/ -name "*.xml" -type f 2>/dev/null | wc -l || echo "0")
+        PARSED_COUNT=$(find data/parsed/ -name "*.json" -type f 2>/dev/null | wc -l || echo "0")
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Files Generated:**" >> $GITHUB_STEP_SUMMARY
+        echo "- XML Feeds: $FEED_COUNT" >> $GITHUB_STEP_SUMMARY
+        echo "- Parsed JSON: $PARSED_COUNT" >> $GITHUB_STEP_SUMMARY
+        
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "::error::AI News Pipeline failed. Check the logs for details."
+        echo "Failed steps:"
+        if [[ "${{ steps.fetcher.outcome }}" == "failure" ]]; then
+          echo "- Fetcher failed"
+        fi
+        if [[ "${{ steps.scrapers.outcome }}" == "failure" ]]; then
+          echo "- One or more scrapers failed"
+        fi
+        if [[ "${{ steps.generator.outcome }}" == "failure" ]]; then
+          echo "- Generator failed"
+        fi
