@@ -17,23 +17,6 @@
         "objects": []
     },
     {
-        "id": "ef9a088906a2922e89d9e91b83c4f215",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing ChatGPT agent",
-        "description": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
-        "url": "https://openai.com/index/introducing-chatgpt-agent/",
-        "published_date": "2025-07-17T10:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "254ae0445c748039d0900ccb3b17c18f",
         "source": "openai",
         "type": "publication",
@@ -47,6 +30,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "ef9a088906a2922e89d9e91b83c4f215",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing ChatGPT agent",
+        "description": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
+        "url": "https://openai.com/index/introducing-chatgpt-agent/",
+        "published_date": "2025-07-17T10:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     },
@@ -85,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "e5cd2fde10edce9e29c756b3200a6de9",
-        "source": "openai",
-        "type": "safety",
-        "title": "Addendum to o3 and o4-mini system card: Codex",
-        "description": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.",
-        "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum/",
-        "published_date": "2025-05-16T08:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
         "id": "acfa8ee44f0f5131543823257e9ad777",
         "source": "openai",
         "type": "release",
@@ -115,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "e5cd2fde10edce9e29c756b3200a6de9",
+        "source": "openai",
+        "type": "safety",
+        "title": "Addendum to o3 and o4-mini system card: Codex",
+        "description": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.",
+        "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum/",
+        "published_date": "2025-05-16T08:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
         },
         "objects": []
     },
