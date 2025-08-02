@@ -112,15 +112,30 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add generated files
-        git add feeds/ data/parsed/ data/logs/
+        # Check git status
+        echo "Current git status:"
+        git status
+        
+        # Add generated files (only if they exist)
+        find feeds/ data/parsed/ data/logs/ -type f 2>/dev/null | head -10
+        git add feeds/ data/parsed/ data/logs/ 2>/dev/null || echo "Some directories may not exist yet"
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
+          exit 0
         else
+          echo "Changes detected, committing..."
           git commit -m "Update AI news feeds - $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          
+          echo "Pushing changes..."
+          git push origin main || {
+            echo "Push failed, checking remote status..."
+            git status
+            git remote -v
+            exit 1
+          }
+          echo "Successfully pushed changes"
         fi
         
     - name: Pipeline summary
