@@ -4,11 +4,51 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-08-06T21:19:30.772309+00:00</updated>
+  <updated>2025-08-07T21:19:57.940553+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://openai.com/research/index/feeds/openai_research.xml" rel="self"/>
+  <entry>
+    <title>GPT-5 System Card</title>
+    <id>72949d96db2dc231b2b0557c5bbccb0a</id>
+    <link href="https://openai.com/index/gpt-5-system-card/"/>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>GPT-5 offers high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.</summary>
+  </entry>
+  <entry>
+    <title>Introducing GPT-5</title>
+    <id>998c84220a4d5ea101223a2375550679</id>
+    <link href="https://openai.com/index/introducing-gpt-5/"/>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <category term="Release"/>
+    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
+  </entry>
+  <entry>
+    <title>Introducing gpt-oss</title>
+    <id>94ac6af5adb14e0682d02d2b7d329f69</id>
+    <link href="https://openai.com/index/introducing-gpt-oss/"/>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <category term="Release"/>
+    <summary>We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.</summary>
+  </entry>
+  <entry>
+    <title>Estimating worst case frontier risks of open weight LLMs</title>
+    <id>b9bcb4b71556787bcf276b10204b300b</id>
+    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
+  </entry>
+  <entry>
+    <title>gpt-oss-120b &amp; gpt-oss-20b Model Card</title>
+    <id>62626f2b2a5452b587709d31e9c2d252</id>
+    <link href="https://openai.com/index/gpt-oss-model-card/"/>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.</summary>
+  </entry>
   <entry>
     <title>Pioneering an AI clinical copilot with Penda Health</title>
     <id>8d443ec74f68e0b84f522ffce421176b</id>
@@ -40,45 +80,5 @@
     <updated>2025-06-18T10:00:00+00:00</updated>
     <category term="Publication"/>
     <summary>We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.</summary>
-  </entry>
-  <entry>
-    <title>Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator</title>
-    <id>d5eb82eca283759a2207e23f92a57904</id>
-    <link href="https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/"/>
-    <updated>2025-05-23T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.</summary>
-  </entry>
-  <entry>
-    <title>Introducing Codex</title>
-    <id>acfa8ee44f0f5131543823257e9ad777</id>
-    <link href="https://openai.com/index/introducing-codex/"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.</summary>
-  </entry>
-  <entry>
-    <title>Addendum to o3 and o4-mini system card: Codex</title>
-    <id>e5cd2fde10edce9e29c756b3200a6de9</id>
-    <link href="https://openai.com/index/o3-o4-mini-codex-system-card-addendum/"/>
-    <updated>2025-05-16T08:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.</summary>
-  </entry>
-  <entry>
-    <title>Introducing HealthBench</title>
-    <id>0f554947f23353b9695526d2562cd29b</id>
-    <link href="https://openai.com/index/healthbench/"/>
-    <updated>2025-05-12T10:30:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.</summary>
-  </entry>
-  <entry>
-    <title>Introducing OpenAI o3 and o4-mini</title>
-    <id>70da5dbe3b23c744f883f6bca1796199</id>
-    <link href="https://openai.com/index/introducing-o3-and-o4-mini/"/>
-    <updated>2025-04-16T10:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>Our smartest and most capable models to date with full tool access</summary>
   </entry>
 </feed>
