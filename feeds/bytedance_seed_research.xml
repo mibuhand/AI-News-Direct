@@ -4,11 +4,20 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_research</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-08-12T09:27:08.183516+00:00</updated>
+  <updated>2025-08-12T21:19:48.889285+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://seed.bytedance.com/en/feeds/bytedance_seed_research.xml" rel="self"/>
+  <entry>
+    <title>Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving</title>
+    <id>fa1600a231b65e2a2dbc3cdd326f6eed</id>
+    <link href="https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving"/>
+    <link href="https://arxiv.org/abs/2507.23726" rel="related"/>
+    <updated>2025-07-30T16:00:00+00:00</updated>
+    <category term="LLM"/>
+    <summary>LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.</summary>
+  </entry>
   <entry>
     <title>Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice</title>
     <id>b6095ba19e6ae163727b023559dbcecf</id>
@@ -54,14 +63,5 @@ https://github.com/Gen-Verse/MMaDA</summary>
     <updated>2025-05-16T16:00:00+00:00</updated>
     <category term="LLM"/>
     <summary>Model merging has emerged as a promising technique for enhancing large language models, though its application in large-scale pre-training remains relatively unexplored. In this paper, we present a comprehensive investigation of model merging techniques during the pre-training process. Through extensive experiments with both dense and Mixture-of-Experts (MoE) architectures ranging from millions to over 100 billion parameters, we demonstrate that merging checkpoints trained with constant learning rates not only achieves significant performance improvements but also enables accurate prediction of annealing behavior. These improvements lead to both more efficient model development and significantly lower training costs. Our detailed ablation studies on merging strategies and hyperparameters provide new insights into the underlying mechanisms while uncovering novel applications. Through comprehensive experimental analysis, we offer the open-source community practical pre-training guidelines for effective model merging.</summary>
-  </entry>
-  <entry>
-    <title>Seed1.5-VL Technical Report</title>
-    <id>560133989e4b493c5e6e6a0ccf076fd6</id>
-    <link href="https://seed.bytedance.com/en/research/seed1-5-vl-technical-report"/>
-    <link href="https://arxiv.org/abs/2505.07062" rel="related"/>
-    <updated>2025-05-12T16:00:00+00:00</updated>
-    <category term="LLM"/>
-    <summary>We present Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning. Seed1.5-VL is composed with a 532M-parameter vision encoder and a Mixture-of-Experts (MoE) LLM of 20B active parameters. Despite its relatively compact architecture, it delivers strong performance across a wide spectrum of public VLM benchmarks and internal evaluation suites, achieving the state-of-the-art performance on 38 out of 60 public benchmarks. Moreover, in agent-centric tasks such as GUI control and gameplay, Seed1.5-VL outperforms leading multimodal systems, including OpenAI CUA and Claude 3.7. Beyond visual and video understanding, it also demonstrates strong reasoning abilities, making it particularly effective for multimodal reasoning challenges such as visual puzzles. We believe these capabilities will empower broader applications across diverse tasks. In this report, we mainly provide a comprehensive review of our experiences in building Seed1.5-VL across model design, data construction, and training at various stages, hoping that this report can inspire further research. Seed1.5-VL is now accessible at this https URL (Volcano Engine Model ID: doubao-1-5-thinking-vision-pro-250428)</summary>
   </entry>
 </feed>

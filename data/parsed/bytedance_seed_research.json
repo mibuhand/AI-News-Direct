@@ -1,5 +1,39 @@
 [
     {
+        "id": "fa1600a231b65e2a2dbc3cdd326f6eed",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+        "description": "LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \\textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \\textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.",
+        "url": "https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving",
+        "published_date": "2025-07-30T16:00:00+00:00",
+        "categories": [
+            "LLM"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Luoxin Chen, Jinming Gu, Liankai Huang, Wenhao Huang, Zhicheng Jiang, Allan Jie, Xiaoran Jin, Xing Jin, Chenggang Li, Kaijing Ma, Cheng Ren, Jiawei Shen, Wenlei Shi, Tong Sun, He Sun, Jiahui Wang, Siran Wang, Zhihong Wang, Chenrui Wei, Shufa Wei, Yonghui Wu, Yuchen Wu, Yihang Xia, Huajian Xin, Fan Yang, Huaiyuan Ying, Hongyi Yuan, Zheng Yuan, Tianyang Zhan, Chi Zhang, Yue Zhang, Ge Zhang, Tianyun Zhao, Jianqiu Zhao, Yichi Zhou, Thomas Hanwen Zhu",
+            "journal": "arXiv",
+            "work_team": [
+                "LLM"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \\textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \\textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2507.23726"
+    },
+    {
         "id": "b6095ba19e6ae163727b023559dbcecf",
         "source": "bytedance_seed",
         "type": "research",
@@ -168,39 +202,5 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/abs/2505.12082"
-    },
-    {
-        "id": "560133989e4b493c5e6e6a0ccf076fd6",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Seed1.5-VL Technical Report",
-        "description": "We present Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning. Seed1.5-VL is composed with a 532M-parameter vision encoder and a Mixture-of-Experts (MoE) LLM of 20B active parameters. Despite its relatively compact architecture, it delivers strong performance across a wide spectrum of public VLM benchmarks and internal evaluation suites, achieving the state-of-the-art performance on 38 out of 60 public benchmarks. Moreover, in agent-centric tasks such as GUI control and gameplay, Seed1.5-VL outperforms leading multimodal systems, including OpenAI CUA and Claude 3.7. Beyond visual and video understanding, it also demonstrates strong reasoning abilities, making it particularly effective for multimodal reasoning challenges such as visual puzzles. We believe these capabilities will empower broader applications across diverse tasks. In this report, we mainly provide a comprehensive review of our experiences in building Seed1.5-VL across model design, data construction, and training at various stages, hoping that this report can inspire further research. Seed1.5-VL is now accessible at this https URL (Volcano Engine Model ID: doubao-1-5-thinking-vision-pro-250428)",
-        "url": "https://seed.bytedance.com/en/research/seed1-5-vl-technical-report",
-        "published_date": "2025-05-12T16:00:00+00:00",
-        "categories": [
-            "LLM"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Seed Multimodal Team",
-            "journal": "arXiv",
-            "work_team": [
-                "Multimodal"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Seed1.5-VL Technical Report",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "We present Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning. Seed1.5-VL is composed with a 532M-parameter vision encoder and a Mixture-of-Experts (MoE) LLM of 20B active parameters. Despite its relatively compact architecture, it delivers strong performance across a wide spectrum of public VLM benchmarks and internal evaluation suites, achieving the state-of-the-art performance on 38 out of 60 public benchmarks. Moreover, in agent-centric tasks such as GUI control and gameplay, Seed1.5-VL outperforms leading multimodal systems, including OpenAI CUA and Claude 3.7. Beyond visual and video understanding, it also demonstrates strong reasoning abilities, making it particularly effective for multimodal reasoning challenges such as visual puzzles. We believe these capabilities will empower broader applications across diverse tasks. In this report, we mainly provide a comprehensive review of our experiences in building Seed1.5-VL across model design, data construction, and training at various stages, hoping that this report can inspire further research. Seed1.5-VL is now accessible at this https URL (Volcano Engine Model ID: doubao-1-5-thinking-vision-pro-250428)",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/seed1-5-vl-technical-report",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://arxiv.org/abs/2505.07062"
     }
 ]
