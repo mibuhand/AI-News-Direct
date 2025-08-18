@@ -4,19 +4,11 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-08-18T09:29:40.930768+00:00</updated>
+  <updated>2025-08-18T21:18:12.300158+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://openai.com/research/index/feeds/openai_research.xml" rel="self"/>
-  <entry>
-    <title>Introducing GPT-5</title>
-    <id>998c84220a4d5ea101223a2375550679</id>
-    <link href="https://openai.com/index/introducing-gpt-5/"/>
-    <updated>2025-08-07T00:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
-  </entry>
   <entry>
     <title>GPT-5 System Card</title>
     <id>72949d96db2dc231b2b0557c5bbccb0a</id>
@@ -26,12 +18,28 @@
     <summary>This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.</summary>
   </entry>
   <entry>
+    <title>Introducing GPT-5</title>
+    <id>998c84220a4d5ea101223a2375550679</id>
+    <link href="https://openai.com/index/introducing-gpt-5/"/>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <category term="Release"/>
+    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
+  </entry>
+  <entry>
     <title>From hard refusals to safe-completions: toward output-centric safety training</title>
     <id>99a9f530b7f2a56994e9558be653852f</id>
     <link href="https://openai.com/index/gpt-5-safe-completions/"/>
     <updated>2025-08-07T00:00:00+00:00</updated>
     <category term="Safety"/>
     <summary>Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.</summary>
+  </entry>
+  <entry>
+    <title>Estimating worst case frontier risks of open weight LLMs</title>
+    <id>b9bcb4b71556787bcf276b10204b300b</id>
+    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
   </entry>
   <entry>
     <title>Introducing gpt-oss</title>
@@ -50,14 +58,6 @@
     <summary>We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.</summary>
   </entry>
   <entry>
-    <title>Estimating worst case frontier risks of open weight LLMs</title>
-    <id>b9bcb4b71556787bcf276b10204b300b</id>
-    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
-  </entry>
-  <entry>
     <title>Pioneering an AI clinical copilot with Penda Health</title>
     <id>8d443ec74f68e0b84f522ffce421176b</id>
     <link href="https://openai.com/index/ai-clinical-copilot-penda-health/"/>
@@ -66,19 +66,19 @@
     <summary>OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.</summary>
   </entry>
   <entry>
-    <title>ChatGPT agent System Card</title>
-    <id>254ae0445c748039d0900ccb3b17c18f</id>
-    <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
-    <updated>2025-07-17T10:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.</summary>
-  </entry>
-  <entry>
     <title>Introducing ChatGPT agent</title>
     <id>ef9a088906a2922e89d9e91b83c4f215</id>
     <link href="https://openai.com/index/introducing-chatgpt-agent/"/>
     <updated>2025-07-17T10:00:00+00:00</updated>
     <category term="Product"/>
     <summary>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT agent System Card</title>
+    <id>254ae0445c748039d0900ccb3b17c18f</id>
+    <link href="https://openai.com/index/chatgpt-agent-system-card/"/>
+    <updated>2025-07-17T10:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.</summary>
   </entry>
 </feed>
