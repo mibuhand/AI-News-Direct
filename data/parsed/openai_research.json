@@ -1,22 +1,5 @@
 [
     {
-        "id": "72949d96db2dc231b2b0557c5bbccb0a",
-        "source": "openai",
-        "type": "publication",
-        "title": "GPT-5 System Card",
-        "description": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.",
-        "url": "https://openai.com/index/gpt-5-system-card/",
-        "published_date": "2025-08-07T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "998c84220a4d5ea101223a2375550679",
         "source": "openai",
         "type": "release",
@@ -51,36 +34,19 @@
         "objects": []
     },
     {
-        "id": "b9bcb4b71556787bcf276b10204b300b",
+        "id": "72949d96db2dc231b2b0557c5bbccb0a",
         "source": "openai",
-        "type": "safety",
-        "title": "Estimating worst case frontier risks of open weight LLMs",
-        "description": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
-        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/",
-        "published_date": "2025-08-05T00:00:00+00:00",
+        "type": "publication",
+        "title": "GPT-5 System Card",
+        "description": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.",
+        "url": "https://openai.com/index/gpt-5-system-card/",
+        "published_date": "2025-08-07T00:00:00+00:00",
         "categories": [
-            "Safety"
+            "Publication"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
-        "id": "94ac6af5adb14e0682d02d2b7d329f69",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing gpt-oss",
-        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
-        "url": "https://openai.com/index/introducing-gpt-oss/",
-        "published_date": "2025-08-05T00:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
+            "post_type": "Publication"
         },
         "objects": []
     },
@@ -102,6 +68,40 @@
         "objects": []
     },
     {
+        "id": "94ac6af5adb14e0682d02d2b7d329f69",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing gpt-oss",
+        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+        "url": "https://openai.com/index/introducing-gpt-oss/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "b9bcb4b71556787bcf276b10204b300b",
+        "source": "openai",
+        "type": "safety",
+        "title": "Estimating worst case frontier risks of open weight LLMs",
+        "description": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
+        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
         "id": "8d443ec74f68e0b84f522ffce421176b",
         "source": "openai",
         "type": "publication",
@@ -109,6 +109,23 @@
         "description": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
         "url": "https://openai.com/index/ai-clinical-copilot-penda-health/",
         "published_date": "2025-07-22T10:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "254ae0445c748039d0900ccb3b17c18f",
+        "source": "openai",
+        "type": "publication",
+        "title": "ChatGPT agent System Card",
+        "description": "ChatGPT agent System Card: OpenAI\u2019s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
+        "url": "https://openai.com/index/chatgpt-agent-system-card/",
+        "published_date": "2025-07-17T10:00:00+00:00",
         "categories": [
             "Publication"
         ],
@@ -132,23 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
-        "id": "254ae0445c748039d0900ccb3b17c18f",
-        "source": "openai",
-        "type": "publication",
-        "title": "ChatGPT agent System Card",
-        "description": "ChatGPT agent System Card: OpenAI\u2019s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-        "url": "https://openai.com/index/chatgpt-agent-system-card/",
-        "published_date": "2025-07-17T10:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
         },
         "objects": []
     }
