@@ -68,23 +68,6 @@
         "objects": []
     },
     {
-        "id": "94ac6af5adb14e0682d02d2b7d329f69",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing gpt-oss",
-        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
-        "url": "https://openai.com/index/introducing-gpt-oss/",
-        "published_date": "2025-08-05T00:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
         "id": "b9bcb4b71556787bcf276b10204b300b",
         "source": "openai",
         "type": "safety",
@@ -98,6 +81,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "94ac6af5adb14e0682d02d2b7d329f69",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing gpt-oss",
+        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+        "url": "https://openai.com/index/introducing-gpt-oss/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
         },
         "objects": []
     },
