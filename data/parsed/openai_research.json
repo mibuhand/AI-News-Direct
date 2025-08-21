@@ -51,23 +51,6 @@
         "objects": []
     },
     {
-        "id": "62626f2b2a5452b587709d31e9c2d252",
-        "source": "openai",
-        "type": "publication",
-        "title": "gpt-oss-120b & gpt-oss-20b Model Card",
-        "description": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.",
-        "url": "https://openai.com/index/gpt-oss-model-card/",
-        "published_date": "2025-08-05T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "b9bcb4b71556787bcf276b10204b300b",
         "source": "openai",
         "type": "safety",
@@ -98,6 +81,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "62626f2b2a5452b587709d31e9c2d252",
+        "source": "openai",
+        "type": "publication",
+        "title": "gpt-oss-120b & gpt-oss-20b Model Card",
+        "description": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.",
+        "url": "https://openai.com/index/gpt-oss-model-card/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     },
