@@ -1,18 +1,18 @@
 [
     {
-        "id": "998c84220a4d5ea101223a2375550679",
+        "id": "404e303b8b1839a41e95b2bd60757c63",
         "source": "openai",
-        "type": "release",
-        "title": "Introducing GPT-5",
-        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
-        "url": "https://openai.com/index/introducing-gpt-5/",
-        "published_date": "2025-08-07T00:00:00+00:00",
+        "type": "publication",
+        "title": "Accelerating life sciences research",
+        "description": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
+        "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+        "published_date": "2025-08-22T08:30:00+00:00",
         "categories": [
-            "Release"
+            "Publication"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Release"
+            "post_type": "Publication"
         },
         "objects": []
     },
@@ -30,6 +30,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "998c84220a4d5ea101223a2375550679",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing GPT-5",
+        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
+        "url": "https://openai.com/index/introducing-gpt-5/",
+        "published_date": "2025-08-07T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
         },
         "objects": []
     },
@@ -68,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "94ac6af5adb14e0682d02d2b7d329f69",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing gpt-oss",
-        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
-        "url": "https://openai.com/index/introducing-gpt-oss/",
-        "published_date": "2025-08-05T00:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
         "id": "62626f2b2a5452b587709d31e9c2d252",
         "source": "openai",
         "type": "publication",
@@ -102,6 +102,23 @@
         "objects": []
     },
     {
+        "id": "94ac6af5adb14e0682d02d2b7d329f69",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing gpt-oss",
+        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+        "url": "https://openai.com/index/introducing-gpt-oss/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
         "id": "8d443ec74f68e0b84f522ffce421176b",
         "source": "openai",
         "type": "publication",
@@ -109,23 +126,6 @@
         "description": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
         "url": "https://openai.com/index/ai-clinical-copilot-penda-health/",
         "published_date": "2025-07-22T10:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "254ae0445c748039d0900ccb3b17c18f",
-        "source": "openai",
-        "type": "publication",
-        "title": "ChatGPT agent System Card",
-        "description": "ChatGPT agent System Card: OpenAI\u2019s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-        "url": "https://openai.com/index/chatgpt-agent-system-card/",
-        "published_date": "2025-07-17T10:00:00+00:00",
         "categories": [
             "Publication"
         ],
