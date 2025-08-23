@@ -34,23 +34,6 @@
         "objects": []
     },
     {
-        "id": "998c84220a4d5ea101223a2375550679",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing GPT-5",
-        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
-        "url": "https://openai.com/index/introducing-gpt-5/",
-        "published_date": "2025-08-07T00:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
         "id": "72949d96db2dc231b2b0557c5bbccb0a",
         "source": "openai",
         "type": "publication",
@@ -68,19 +51,19 @@
         "objects": []
     },
     {
-        "id": "b9bcb4b71556787bcf276b10204b300b",
+        "id": "998c84220a4d5ea101223a2375550679",
         "source": "openai",
-        "type": "safety",
-        "title": "Estimating worst case frontier risks of open weight LLMs",
-        "description": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
-        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/",
-        "published_date": "2025-08-05T00:00:00+00:00",
+        "type": "release",
+        "title": "Introducing GPT-5",
+        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
+        "url": "https://openai.com/index/introducing-gpt-5/",
+        "published_date": "2025-08-07T00:00:00+00:00",
         "categories": [
-            "Safety"
+            "Release"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Safety"
+            "post_type": "Release"
         },
         "objects": []
     },
@@ -115,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "b9bcb4b71556787bcf276b10204b300b",
+        "source": "openai",
+        "type": "safety",
+        "title": "Estimating worst case frontier risks of open weight LLMs",
+        "description": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
+        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
         },
         "objects": []
     },
