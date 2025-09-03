@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-09-02T21:16:16.104072+00:00</updated>
+  <updated>2025-09-03T09:22:55.743974+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -34,6 +34,14 @@
     <summary>Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.</summary>
   </entry>
   <entry>
+    <title>Introducing GPT-5</title>
+    <id>998c84220a4d5ea101223a2375550679</id>
+    <link href="https://openai.com/index/introducing-gpt-5/"/>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <category term="Release"/>
+    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
+  </entry>
+  <entry>
     <title>From hard refusals to safe-completions: toward output-centric safety training</title>
     <id>99a9f530b7f2a56994e9558be653852f</id>
     <link href="https://openai.com/index/gpt-5-safe-completions/"/>
@@ -50,22 +58,6 @@
     <summary>This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.</summary>
   </entry>
   <entry>
-    <title>Introducing GPT-5</title>
-    <id>998c84220a4d5ea101223a2375550679</id>
-    <link href="https://openai.com/index/introducing-gpt-5/"/>
-    <updated>2025-08-07T00:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
-  </entry>
-  <entry>
-    <title>Estimating worst case frontier risks of open weight LLMs</title>
-    <id>b9bcb4b71556787bcf276b10204b300b</id>
-    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
-  </entry>
-  <entry>
     <title>gpt-oss-120b &amp; gpt-oss-20b Model Card</title>
     <id>62626f2b2a5452b587709d31e9c2d252</id>
     <link href="https://openai.com/index/gpt-oss-model-card/"/>
@@ -80,5 +72,13 @@
     <updated>2025-08-05T00:00:00+00:00</updated>
     <category term="Release"/>
     <summary>We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.</summary>
+  </entry>
+  <entry>
+    <title>Estimating worst case frontier risks of open weight LLMs</title>
+    <id>b9bcb4b71556787bcf276b10204b300b</id>
+    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
   </entry>
 </feed>
