@@ -1,5 +1,39 @@
 [
     {
+        "id": "dccf1debfc24b5c01efdc33b3731c87d",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Robix: A Unified Model for Robot Interaction, Reasoning and Planning",
+        "description": "We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines\u2014including GPT-4o and Gemini 2.5 Pro\u2014in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.",
+        "url": "https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning",
+        "published_date": "2025-08-31T16:00:00+00:00",
+        "categories": [
+            "Robotics"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Huang Fang, Mengxi Zhang, Heng Dong, Wei Li, Zixuan Wang, Qifeng Zhang, Xueyun Tian, Yucheng Hu, Hang Li",
+            "journal": "arXiv",
+            "work_team": [
+                "Robotics"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Robix: A Unified Model for Robot Interaction, Reasoning and Planning",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines\u2014including GPT-4o and Gemini 2.5 Pro\u2014in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/pdf/2509.01106"
+    },
+    {
         "id": "fa1600a231b65e2a2dbc3cdd326f6eed",
         "source": "bytedance_seed",
         "type": "research",
@@ -168,39 +202,5 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/abs/2505.15809"
-    },
-    {
-        "id": "1c61b776ea7f2d751188a46329c0224c",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Model Merging in Pre-training of Large Language Models",
-        "description": "Model merging has emerged as a promising technique for enhancing large language models, though its application in large-scale pre-training remains relatively unexplored. In this paper, we present a comprehensive investigation of model merging techniques during the pre-training process. Through extensive experiments with both dense and Mixture-of-Experts (MoE) architectures ranging from millions to over 100 billion parameters, we demonstrate that merging checkpoints trained with constant learning rates not only achieves significant performance improvements but also enables accurate prediction of annealing behavior. These improvements lead to both more efficient model development and significantly lower training costs. Our detailed ablation studies on merging strategies and hyperparameters provide new insights into the underlying mechanisms while uncovering novel applications. Through comprehensive experimental analysis, we offer the open-source community practical pre-training guidelines for effective model merging.",
-        "url": "https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models",
-        "published_date": "2025-05-16T16:00:00+00:00",
-        "categories": [
-            "LLM"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Yunshui Li, Yiyuan Ma, Shen Yan, Chaoyi Zhang, Jing Liu, Jianqiao Lu, Ziwen Xu, Mengzhao Chen, Minrui Wang, Shiyi Zhan, Jin Ma, Xunhao Lai, Deyi Liu, Yao Luo, Xingyan Bin, Hongbin Ren, Mingji Han, Wenhao Hao, Bairen Yi, LingJun Liu, Bole Ma, Xiaoying Jia, Xun Zhou, Siyuan Qiao, Liang Xiang, Yonghui Wu",
-            "journal": "arXiv",
-            "work_team": [
-                "LLM"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Model Merging in Pre-training of Large Language Models",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Model merging has emerged as a promising technique for enhancing large language models, though its application in large-scale pre-training remains relatively unexplored. In this paper, we present a comprehensive investigation of model merging techniques during the pre-training process. Through extensive experiments with both dense and Mixture-of-Experts (MoE) architectures ranging from millions to over 100 billion parameters, we demonstrate that merging checkpoints trained with constant learning rates not only achieves significant performance improvements but also enables accurate prediction of annealing behavior. These improvements lead to both more efficient model development and significantly lower training costs. Our detailed ablation studies on merging strategies and hyperparameters provide new insights into the underlying mechanisms while uncovering novel applications. Through comprehensive experimental analysis, we offer the open-source community practical pre-training guidelines for effective model merging.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://arxiv.org/abs/2505.12082"
     }
 ]
