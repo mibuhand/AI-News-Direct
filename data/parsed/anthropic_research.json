@@ -798,12 +798,12 @@
         "objects": []
     },
     {
-        "id": "427bf5b6881b571233d6e11e3bd406e0",
+        "id": "01f9fb8859e1043216b8cfb678ccf770",
         "source": "anthropic",
         "type": "research",
-        "title": "Decomposing Language Models Into Understandable Components",
+        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
         "description": "",
-        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
+        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -815,12 +815,12 @@
         "objects": []
     },
     {
-        "id": "01f9fb8859e1043216b8cfb678ccf770",
+        "id": "427bf5b6881b571233d6e11e3bd406e0",
         "source": "anthropic",
         "type": "research",
-        "title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+        "title": "Decomposing Language Models Into Understandable Components",
         "description": "",
-        "url": "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning",
+        "url": "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components",
         "external_url": "",
         "published_date": "2023-10-05T00:00:00+00:00",
         "categories": [
@@ -848,23 +848,6 @@
         "objects": []
     },
     {
-        "id": "119c9cfbd7889f0e289b85bc618ba1a0",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Tracing Model Outputs to the Training Data",
-        "description": "",
-        "url": "https://www.anthropic.com/research/influence-functions",
-        "external_url": "",
-        "published_date": "2023-08-08T00:00:00+00:00",
-        "categories": [
-            "Alignment",
-            "Research"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "b9db13ac93790ffcfa4ffd47a32fb066",
         "source": "anthropic",
         "type": "research",
@@ -882,14 +865,14 @@
         "objects": []
     },
     {
-        "id": "d7921fb9672d1635e1003165d5373bb3",
+        "id": "119c9cfbd7889f0e289b85bc618ba1a0",
         "source": "anthropic",
         "type": "research",
-        "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
+        "title": "Tracing Model Outputs to the Training Data",
         "description": "",
-        "url": "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning",
+        "url": "https://www.anthropic.com/research/influence-functions",
         "external_url": "",
-        "published_date": "2023-07-18T00:00:00+00:00",
+        "published_date": "2023-08-08T00:00:00+00:00",
         "categories": [
             "Alignment",
             "Research"
@@ -905,6 +888,23 @@
         "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
         "description": "",
         "url": "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning",
+        "external_url": "",
+        "published_date": "2023-07-18T00:00:00+00:00",
+        "categories": [
+            "Alignment",
+            "Research"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "d7921fb9672d1635e1003165d5373bb3",
+        "source": "anthropic",
+        "type": "research",
+        "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
+        "description": "",
+        "url": "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning",
         "external_url": "",
         "published_date": "2023-07-18T00:00:00+00:00",
         "categories": [
