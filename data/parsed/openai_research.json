@@ -1,1 +1,155 @@
-[]
+[
+    {
+        "id": "1b55a44fed2a519a680b3d79dde7e2ce",
+        "source": "openai",
+        "type": "research",
+        "title": "Why language models hallucinate",
+        "description": "OpenAI\u2019s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+        "url": "https://openai.com/index/why-language-models-hallucinate/",
+        "published_date": "2025-09-05T10:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
+        "id": "3f0ab7de2e55ab99133e58a0f29f1f45",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing gpt-realtime and Realtime API updates",
+        "description": "We\u2019re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
+        "url": "https://openai.com/index/introducing-gpt-realtime/",
+        "published_date": "2025-08-28T10:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "225a3fcfb3b1946607f9b85ee634c057",
+        "source": "openai",
+        "type": "publication",
+        "title": "Collective alignment: public input on our Model Spec",
+        "description": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+        "url": "https://openai.com/index/collective-alignment-aug-2025-updates/",
+        "published_date": "2025-08-27T13:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "404e303b8b1839a41e95b2bd60757c63",
+        "source": "openai",
+        "type": "publication",
+        "title": "Accelerating life sciences research",
+        "description": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
+        "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+        "published_date": "2025-08-22T08:30:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "72949d96db2dc231b2b0557c5bbccb0a",
+        "source": "openai",
+        "type": "publication",
+        "title": "GPT-5 System Card",
+        "description": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.",
+        "url": "https://openai.com/index/gpt-5-system-card/",
+        "published_date": "2025-08-07T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "998c84220a4d5ea101223a2375550679",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing GPT-5",
+        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
+        "url": "https://openai.com/index/introducing-gpt-5/",
+        "published_date": "2025-08-07T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "99a9f530b7f2a56994e9558be653852f",
+        "source": "openai",
+        "type": "safety",
+        "title": "From hard refusals to safe-completions: toward output-centric safety training",
+        "description": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses\u2014moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.",
+        "url": "https://openai.com/index/gpt-5-safe-completions/",
+        "published_date": "2025-08-07T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "94ac6af5adb14e0682d02d2b7d329f69",
+        "source": "openai",
+        "type": "release",
+        "title": "Introducing gpt-oss",
+        "description": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+        "url": "https://openai.com/index/introducing-gpt-oss/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Release"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Release"
+        },
+        "objects": []
+    },
+    {
+        "id": "b9bcb4b71556787bcf276b10204b300b",
+        "source": "openai",
+        "type": "safety",
+        "title": "Estimating worst case frontier risks of open weight LLMs",
+        "description": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
+        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
+        },
+        "objects": []
+    }
+]
