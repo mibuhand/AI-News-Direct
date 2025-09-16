@@ -4,11 +4,35 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-09-15T21:17:12.889999+00:00</updated>
+  <updated>2025-09-16T09:24:12.575319+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://openai.com/research/index/feeds/openai_research.xml" rel="self"/>
+  <entry>
+    <title>Introducing upgrades to Codex</title>
+    <id>0536ef5359855e2f0f21db664a18081b</id>
+    <link href="https://openai.com/index/introducing-upgrades-to-codex/"/>
+    <updated>2025-09-15T10:00:00+00:00</updated>
+    <category term="Release"/>
+    <summary>Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.</summary>
+  </entry>
+  <entry>
+    <title>How people are using ChatGPT</title>
+    <id>e898f7382937d7da8636c8ae9de52a62</id>
+    <link href="https://openai.com/index/how-people-are-using-chatgpt/"/>
+    <updated>2025-09-15T03:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.</summary>
+  </entry>
+  <entry>
+    <title>Addendum to GPT-5 system card: GPT-5-Codex</title>
+    <id>ed0c7571c7a73a49cef5265d97ce510c</id>
+    <link href="https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/"/>
+    <updated>2025-09-15T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.</summary>
+  </entry>
   <entry>
     <title>Why language models hallucinate</title>
     <id>1b55a44fed2a519a680b3d79dde7e2ce</id>
@@ -42,14 +66,6 @@
     <summary>Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.</summary>
   </entry>
   <entry>
-    <title>Introducing GPT-5</title>
-    <id>998c84220a4d5ea101223a2375550679</id>
-    <link href="https://openai.com/index/introducing-gpt-5/"/>
-    <updated>2025-08-07T00:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.</summary>
-  </entry>
-  <entry>
     <title>From hard refusals to safe-completions: toward output-centric safety training</title>
     <id>99a9f530b7f2a56994e9558be653852f</id>
     <link href="https://openai.com/index/gpt-5-safe-completions/"/>
@@ -64,21 +80,5 @@
     <updated>2025-08-07T00:00:00+00:00</updated>
     <category term="Publication"/>
     <summary>This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.</summary>
-  </entry>
-  <entry>
-    <title>Estimating worst case frontier risks of open weight LLMs</title>
-    <id>b9bcb4b71556787bcf276b10204b300b</id>
-    <link href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/"/>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.</summary>
-  </entry>
-  <entry>
-    <title>Introducing gpt-oss</title>
-    <id>94ac6af5adb14e0682d02d2b7d329f69</id>
-    <link href="https://openai.com/index/introducing-gpt-oss/"/>
-    <updated>2025-08-05T00:00:00+00:00</updated>
-    <category term="Release"/>
-    <summary>We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.</summary>
   </entry>
 </feed>
