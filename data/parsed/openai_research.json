@@ -1,5 +1,22 @@
 [
     {
+        "id": "aca4dbe0bbebe47c36d11f5a4710396a",
+        "source": "openai",
+        "type": "publication",
+        "title": "Detecting and reducing scheming in AI models",
+        "description": "Apollo Research and OpenAI developed evaluations for hidden misalignment (\u201cscheming\u201d) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
+        "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/",
+        "published_date": "2025-09-17T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
         "id": "0536ef5359855e2f0f21db664a18081b",
         "source": "openai",
         "type": "release",
@@ -119,36 +136,19 @@
         "objects": []
     },
     {
-        "id": "99a9f530b7f2a56994e9558be653852f",
+        "id": "998c84220a4d5ea101223a2375550679",
         "source": "openai",
-        "type": "safety",
-        "title": "From hard refusals to safe-completions: toward output-centric safety training",
-        "description": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses\u2014moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.",
-        "url": "https://openai.com/index/gpt-5-safe-completions/",
+        "type": "release",
+        "title": "Introducing GPT-5",
+        "description": "We are introducing GPT\u20115, our best AI system yet. GPT\u20115 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more.",
+        "url": "https://openai.com/index/introducing-gpt-5/",
         "published_date": "2025-08-07T00:00:00+00:00",
         "categories": [
-            "Safety"
+            "Release"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
-        "id": "72949d96db2dc231b2b0557c5bbccb0a",
-        "source": "openai",
-        "type": "publication",
-        "title": "GPT-5 System Card",
-        "description": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight versions like gpt-5-thinking-nano, optimized for different tasks and developer use.",
-        "url": "https://openai.com/index/gpt-5-system-card/",
-        "published_date": "2025-08-07T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
+            "post_type": "Release"
         },
         "objects": []
     }
