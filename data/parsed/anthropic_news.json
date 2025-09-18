@@ -1,20 +1,5 @@
 [
     {
-        "id": "cd306988f9d972f1967e20f08fc6a13b",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
-        "description": "",
-        "url": "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report",
-        "published_date": "2025-09-15T00:00:00+00:00",
-        "categories": [
-            "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "74d1e88f64344766fc98a80132102a31",
         "source": "anthropic",
         "type": "news",
@@ -24,6 +9,21 @@
         "published_date": "2025-09-15T00:00:00+00:00",
         "categories": [
             "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "cd306988f9d972f1967e20f08fc6a13b",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
+        "description": "",
+        "url": "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report",
+        "published_date": "2025-09-15T00:00:00+00:00",
+        "categories": [
+            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -165,6 +165,21 @@
         "objects": []
     },
     {
+        "id": "e745c20841437cec718134ace7a22424",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Detecting and countering misuse of AI: August 2025",
+        "description": "",
+        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+        "published_date": "2025-08-27T00:00:00+00:00",
+        "categories": [
+            "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "0cccd978d79bae93fceb92cb6b4ffe12",
         "source": "anthropic",
         "type": "news",
@@ -189,21 +204,6 @@
         "published_date": "2025-08-27T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "e745c20841437cec718134ace7a22424",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Detecting and countering misuse of AI: August 2025",
-        "description": "",
-        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-        "published_date": "2025-08-27T00:00:00+00:00",
-        "categories": [
-            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -360,12 +360,12 @@
         "objects": []
     },
     {
-        "id": "f1ec6c6a8c5740483d337b900610f36a",
+        "id": "313fcfbb000e39da32cc1e8494635d21",
         "source": "anthropic",
         "type": "news",
-        "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
+        "title": "Claude Opus 4.1",
         "description": "",
-        "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+        "url": "https://www.anthropic.com/news/claude-opus-4-1",
         "published_date": "2025-08-05T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -375,12 +375,12 @@
         "objects": []
     },
     {
-        "id": "313fcfbb000e39da32cc1e8494635d21",
+        "id": "f1ec6c6a8c5740483d337b900610f36a",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude Opus 4.1",
+        "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-opus-4-1",
+        "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
         "published_date": "2025-08-05T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -540,21 +540,6 @@
         "objects": []
     },
     {
-        "id": "15d61bda9d3e2a5ba4eb9f51dab0b5be",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Discover tools that work with Claude",
-        "description": "",
-        "url": "https://www.anthropic.com/news/connectors-directory",
-        "published_date": "2025-07-14T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "46629fce1176873c699e6a4df1553787",
         "source": "anthropic",
         "type": "news",
@@ -564,6 +549,21 @@
         "published_date": "2025-07-14T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "15d61bda9d3e2a5ba4eb9f51dab0b5be",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Discover tools that work with Claude",
+        "description": "",
+        "url": "https://www.anthropic.com/news/connectors-directory",
+        "published_date": "2025-07-14T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -748,6 +748,21 @@
         "objects": []
     },
     {
+        "id": "b747b724e39517b42f9dd828a948d792",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Activating AI Safety Level 3 protections",
+        "description": "",
+        "url": "https://www.anthropic.com/news/activating-asl3-protections",
+        "published_date": "2025-05-22T00:00:00+00:00",
+        "categories": [
+            "Policy"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "1596e1a191c55870f5763eb937b925e9",
         "source": "anthropic",
         "type": "news",
@@ -772,21 +787,6 @@
         "published_date": "2025-05-22T00:00:00+00:00",
         "categories": [
             "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "b747b724e39517b42f9dd828a948d792",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Activating AI Safety Level 3 protections",
-        "description": "",
-        "url": "https://www.anthropic.com/news/activating-asl3-protections",
-        "published_date": "2025-05-22T00:00:00+00:00",
-        "categories": [
-            "Policy"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1213,12 +1213,12 @@
         "objects": []
     },
     {
-        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
+        "id": "d588293e227ff908f4f28c9f5819981a",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude 3.7 Sonnet and Claude Code",
+        "title": "Claude\u2019s extended thinking",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+        "url": "https://www.anthropic.com/research/visible-extended-thinking",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1228,12 +1228,12 @@
         "objects": []
     },
     {
-        "id": "d588293e227ff908f4f28c9f5819981a",
+        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude\u2019s extended thinking",
+        "title": "Claude 3.7 Sonnet and Claude Code",
         "description": "",
-        "url": "https://www.anthropic.com/research/visible-extended-thinking",
+        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -2298,12 +2298,12 @@
         "objects": []
     },
     {
-        "id": "f41d4233ea14521a61911cce7c0ae118",
+        "id": "ee3abdb74b51889f2d21db5406f5a863",
         "source": "anthropic",
         "type": "news",
-        "title": "The Long-Term Benefit Trust",
+        "title": "Anthropic's Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -2313,12 +2313,12 @@
         "objects": []
     },
     {
-        "id": "ee3abdb74b51889f2d21db5406f5a863",
+        "id": "f41d4233ea14521a61911cce7c0ae118",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic's Responsible Scaling Policy",
+        "title": "The Long-Term Benefit Trust",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
