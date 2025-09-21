@@ -1,5 +1,20 @@
 [
     {
+        "id": "74d1e88f64344766fc98a80132102a31",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Claude is now generally available in Xcode",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-in-xcode",
+        "published_date": "2025-09-15T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "bf7689cd72ad8a89b51d07cf1704da26",
         "source": "anthropic",
         "type": "news",
@@ -24,21 +39,6 @@
         "published_date": "2025-09-15T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "74d1e88f64344766fc98a80132102a31",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude is now generally available in Xcode",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-in-xcode",
-        "published_date": "2025-09-15T00:00:00+00:00",
-        "categories": [
-            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -165,15 +165,15 @@
         "objects": []
     },
     {
-        "id": "e745c20841437cec718134ace7a22424",
+        "id": "4147e8d651ee8bafa84518cacebc3843",
         "source": "anthropic",
         "type": "news",
-        "title": "Detecting and countering misuse of AI: August 2025",
+        "title": "Anthropic Education Report: How educators use Claude",
         "description": "",
-        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+        "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
         "published_date": "2025-08-27T00:00:00+00:00",
         "categories": [
-            "Announcements"
+            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -195,15 +195,15 @@
         "objects": []
     },
     {
-        "id": "4147e8d651ee8bafa84518cacebc3843",
+        "id": "e745c20841437cec718134ace7a22424",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic Education Report: How educators use Claude",
+        "title": "Detecting and countering misuse of AI: August 2025",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
         "published_date": "2025-08-27T00:00:00+00:00",
         "categories": [
-            "Societal Impacts"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -285,15 +285,15 @@
         "objects": []
     },
     {
-        "id": "1c00d6b40b0edab4503537237b0101d4",
+        "id": "857a1a48237ba00f74b59b1b26a184f8",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude Sonnet 4 now supports 1M tokens of context",
+        "title": "Offering expanded Claude access across all three branches of the U.S. government",
         "description": "",
-        "url": "https://www.anthropic.com/news/1m-context",
+        "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
         "published_date": "2025-08-12T00:00:00+00:00",
         "categories": [
-            "Product"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -315,13 +315,28 @@
         "objects": []
     },
     {
-        "id": "857a1a48237ba00f74b59b1b26a184f8",
+        "id": "1c00d6b40b0edab4503537237b0101d4",
         "source": "anthropic",
         "type": "news",
-        "title": "Offering expanded Claude access across all three branches of the U.S. government",
+        "title": "Claude Sonnet 4 now supports 1M tokens of context",
         "description": "",
-        "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+        "url": "https://www.anthropic.com/news/1m-context",
         "published_date": "2025-08-12T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "5a799f89fd5c681eb8a41bba7e5d750d",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Automate security reviews with Claude Code",
+        "description": "",
+        "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
+        "published_date": "2025-08-06T00:00:00+00:00",
         "categories": [
             "Announcements"
         ],
@@ -345,13 +360,13 @@
         "objects": []
     },
     {
-        "id": "5a799f89fd5c681eb8a41bba7e5d750d",
+        "id": "f1ec6c6a8c5740483d337b900610f36a",
         "source": "anthropic",
         "type": "news",
-        "title": "Automate security reviews with Claude Code",
+        "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
         "description": "",
-        "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
-        "published_date": "2025-08-06T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+        "published_date": "2025-08-05T00:00:00+00:00",
         "categories": [
             "Announcements"
         ],
@@ -366,21 +381,6 @@
         "title": "Claude Opus 4.1",
         "description": "",
         "url": "https://www.anthropic.com/news/claude-opus-4-1",
-        "published_date": "2025-08-05T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "f1ec6c6a8c5740483d337b900610f36a",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
-        "description": "",
-        "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
         "published_date": "2025-08-05T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -465,12 +465,12 @@
         "objects": []
     },
     {
-        "id": "9c6814aa5ad8771a4b782ad661a59959",
+        "id": "b18189646d8a7b3e7a095b35e624858f",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic to sign the EU Code of Practice",
+        "title": "Build AI in America",
         "description": "",
-        "url": "https://www.anthropic.com/news/eu-code-practice",
+        "url": "https://www.anthropic.com/news/build-ai-in-america",
         "published_date": "2025-07-21T00:00:00+00:00",
         "categories": [
             "Policy"
@@ -480,12 +480,12 @@
         "objects": []
     },
     {
-        "id": "b18189646d8a7b3e7a095b35e624858f",
+        "id": "9c6814aa5ad8771a4b782ad661a59959",
         "source": "anthropic",
         "type": "news",
-        "title": "Build AI in America",
+        "title": "Anthropic to sign the EU Code of Practice",
         "description": "",
-        "url": "https://www.anthropic.com/news/build-ai-in-america",
+        "url": "https://www.anthropic.com/news/eu-code-practice",
         "published_date": "2025-07-21T00:00:00+00:00",
         "categories": [
             "Policy"
@@ -510,21 +510,6 @@
         "objects": []
     },
     {
-        "id": "d27559ca3bb6fb1f37690046032b202a",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude for Financial Services",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-for-financial-services",
-        "published_date": "2025-07-15T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "1b45ea94e5700f9400ad5a5be853ee1d",
         "source": "anthropic",
         "type": "news",
@@ -534,6 +519,21 @@
         "published_date": "2025-07-15T00:00:00+00:00",
         "categories": [
             "Alignment"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "d27559ca3bb6fb1f37690046032b202a",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Claude for Financial Services",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-for-financial-services",
+        "published_date": "2025-07-15T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -748,21 +748,6 @@
         "objects": []
     },
     {
-        "id": "e7782d14f332ca4ab3aa213a97facd93",
-        "source": "anthropic",
-        "type": "news",
-        "title": "New capabilities for building agents on the Anthropic API",
-        "description": "",
-        "url": "https://www.anthropic.com/news/agent-capabilities-api",
-        "published_date": "2025-05-22T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "1596e1a191c55870f5763eb937b925e9",
         "source": "anthropic",
         "type": "news",
@@ -772,6 +757,21 @@
         "published_date": "2025-05-22T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "e7782d14f332ca4ab3aa213a97facd93",
+        "source": "anthropic",
+        "type": "news",
+        "title": "New capabilities for building agents on the Anthropic API",
+        "description": "",
+        "url": "https://www.anthropic.com/news/agent-capabilities-api",
+        "published_date": "2025-05-22T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1003,21 +1003,6 @@
         "objects": []
     },
     {
-        "id": "10e3f0680f2d2ca55d50949f624d1150",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
-        "published_date": "2025-04-02T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "3b388f912a5677afc8d667ec79a92e03",
         "source": "anthropic",
         "type": "news",
@@ -1027,6 +1012,21 @@
         "published_date": "2025-04-02T00:00:00+00:00",
         "categories": [
             "Education"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "10e3f0680f2d2ca55d50949f624d1150",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+        "published_date": "2025-04-02T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1213,12 +1213,12 @@
         "objects": []
     },
     {
-        "id": "d588293e227ff908f4f28c9f5819981a",
+        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude\u2019s extended thinking",
+        "title": "Claude 3.7 Sonnet and Claude Code",
         "description": "",
-        "url": "https://www.anthropic.com/research/visible-extended-thinking",
+        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1228,12 +1228,12 @@
         "objects": []
     },
     {
-        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
+        "id": "d588293e227ff908f4f28c9f5819981a",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude 3.7 Sonnet and Claude Code",
+        "title": "Claude\u2019s extended thinking",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+        "url": "https://www.anthropic.com/research/visible-extended-thinking",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1922,21 +1922,6 @@
         "objects": []
     },
     {
-        "id": "4142f3015428dc984b5deb11f5e7441c",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
-        "description": "",
-        "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
-        "published_date": "2024-05-21T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "19b23d2b3b811de532002f91bdc8c4bd",
         "source": "anthropic",
         "type": "news",
@@ -1952,15 +1937,15 @@
         "objects": []
     },
     {
-        "id": "06c712b8844293ef1d0323bef8485e0b",
+        "id": "4142f3015428dc984b5deb11f5e7441c",
         "source": "anthropic",
         "type": "news",
-        "title": "Reflections on our Responsible Scaling Policy",
+        "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
         "description": "",
-        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
-        "published_date": "2024-05-20T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+        "published_date": "2024-05-21T00:00:00+00:00",
         "categories": [
-            "Policy"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1976,6 +1961,21 @@
         "published_date": "2024-05-20T00:00:00+00:00",
         "categories": [
             "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "06c712b8844293ef1d0323bef8485e0b",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Reflections on our Responsible Scaling Policy",
+        "description": "",
+        "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+        "published_date": "2024-05-20T00:00:00+00:00",
+        "categories": [
+            "Policy"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -2298,12 +2298,12 @@
         "objects": []
     },
     {
-        "id": "f41d4233ea14521a61911cce7c0ae118",
+        "id": "ee3abdb74b51889f2d21db5406f5a863",
         "source": "anthropic",
         "type": "news",
-        "title": "The Long-Term Benefit Trust",
+        "title": "Anthropic's Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -2313,12 +2313,12 @@
         "objects": []
     },
     {
-        "id": "ee3abdb74b51889f2d21db5406f5a863",
+        "id": "f41d4233ea14521a61911cce7c0ae118",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic's Responsible Scaling Policy",
+        "title": "The Long-Term Benefit Trust",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
