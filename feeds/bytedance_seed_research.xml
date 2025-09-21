@@ -4,16 +4,16 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_research</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-09-21T09:19:12.144298+00:00</updated>
+  <updated>2025-09-21T21:16:07.358251+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
-  <link href="https://seed.bytedance.com/en/feeds/bytedance_seed_research.xml" rel="self"/>
+  <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml" rel="self"/>
   <entry>
     <title>Robix: A Unified Model for Robot Interaction, Reasoning and Planning</title>
     <id>dccf1debfc24b5c01efdc33b3731c87d</id>
     <link href="https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning"/>
-    <link href="https://arxiv.org/pdf/2509.01106" rel="related"/>
+    <link href="https://arxiv.org/pdf/2509.01106" rel="replies" title="Discussion"/>
     <updated>2025-08-31T16:00:00+00:00</updated>
     <category term="Robotics"/>
     <summary>We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines—including GPT-4o and Gemini 2.5 Pro—in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.</summary>
@@ -22,7 +22,7 @@
     <title>Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving</title>
     <id>fa1600a231b65e2a2dbc3cdd326f6eed</id>
     <link href="https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving"/>
-    <link href="https://arxiv.org/abs/2507.23726" rel="related"/>
+    <link href="https://arxiv.org/abs/2507.23726" rel="replies" title="Discussion"/>
     <updated>2025-07-30T16:00:00+00:00</updated>
     <category term="LLM"/>
     <summary>LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.</summary>
@@ -31,7 +31,7 @@
     <title>Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice</title>
     <id>b6095ba19e6ae163727b023559dbcecf</id>
     <link href="https://seed.bytedance.com/en/research/seed-liveinterpret-2-0-end-to-end-simultaneous-speech-to-speech-translation-with-your-voice"/>
-    <link href="https://arxiv.org/pdf/2507.17527" rel="related"/>
+    <link href="https://arxiv.org/pdf/2507.17527" rel="replies" title="Discussion"/>
     <updated>2025-07-23T16:00:00+00:00</updated>
     <category term="Speech&amp;Audio"/>
     <summary>Simultaneous Interpretation (SI) represents one of the most daunting frontiers in the translation industry, with product-level automatic systems long plagued by intractable challenges: subpar transcription and translation quality, lack of real-time speech generation, multi-speaker confusion, and translated speech inflation, especially in long-form discourses. In this study, we introduce Seed-LiveInterpret 2.0, an end-to-end SI model that delivers high-fidelity, ultra-low-latency speech-to-speech generation with voice cloning capabilities. As a fully operational product-level solution, Seed-LiveInterpret 2.0 tackles these challenges head-on through our novel duplex speech-to-speech understanding-generating framework. Experimental results demonstrate that through large-scale pretraining and reinforcement learning, the model achieves a significantly better balance between translation accuracy and latency, validated by human interpreters to exceed 70% correctness in complex scenarios. Notably, Seed-LiveInterpret 2.0 outperforms commercial SI solutions by significant margins in translation quality, while slashing the average latency of cloned speech from nearly 10 seconds to a near-real-time 3 seconds, which is around a near 70% reduction that drastically enhances practical usability.</summary>
@@ -40,7 +40,7 @@
     <title>Seedance 1.0: Exploring the Boundaries of Video Generation Models</title>
     <id>b300005dd642e1d107c0f5161d3f598a</id>
     <link href="https://seed.bytedance.com/en/research/seedance-1-0-exploring-the-boundaries-of-video-generation-models"/>
-    <link href="https://arxiv.org/pdf/2506.09113" rel="related"/>
+    <link href="https://arxiv.org/pdf/2506.09113" rel="replies" title="Discussion"/>
     <updated>2025-06-11T03:08:06+00:00</updated>
     <category term="Computer Vision"/>
     <summary>Notable advances in diffusion modeling have propelled rapid improvements in video generation, yet current foundational model still confront critical challenges in synergistically balancing prompt following, motion plausibility, and visual quality. In this report, we introduce Seedance 1.0, a high-performance and inference-efficient video foundation generation model that integrates several core technical improvements: (i) multi-source data curation augmented with precision and meaningful video captioning, enabling comprehensive learning across diverse scenarios; (ii) an efficient pre-training paradigm that enables multiple features or functions such as interleaved multimodal positional encoding, native multi-shot generation capacity, and multi-task modeling; (iii) carefully-designed post-training optimization leveraging fine-grained supervised fine-tuning, video-specific RLHF with multi-dimensional reward mechanisms for considerable performance improvements; (iv) excellent model acceleration achieving 10× inference speedup through multi- stage distillation strategies and system-level optimizations. Seedance 1.0 can generate a 5-second video at 1080p resolution only with 41.4 seconds. Compared to state-of-the-art video generation models, Seedance 1.0 stands out with high-quality and fast video generation with superior spatiotemporal fluidity with structural stability, precise instruction adherence in complex multi-subject contexts, native multi-shot narrative coherence with consistent subject representation, and ultra-fast inference.</summary>
@@ -49,7 +49,7 @@
     <title>SeedEdit 3.0: Fast and High-Quality Generative Image Editing</title>
     <id>e1aa581108c4694a9e6091df5ebba6fb</id>
     <link href="https://seed.bytedance.com/en/research/seededit-3-0-fast-and-high-quality-generative-image-editing"/>
-    <link href="https://arxiv.org/abs/2506.05083" rel="related"/>
+    <link href="https://arxiv.org/abs/2506.05083" rel="replies" title="Discussion"/>
     <updated>2025-06-04T16:00:00+00:00</updated>
     <category term="Computer Vision"/>
     <summary>We introduce SeedEdit 3.0, in companion with our T2I model Seedream 3.0, which significantly improves over our previous SeedEdit versions in both aspects of edit instruction following and image content (e.g., ID/IP) preservation on real image inputs. Additional to model upgrading with T2I, in this report, we present several key improvements. First, we develop an enhanced data curation pipeline with a meta-info paradigm and meta-info embedding strategy that help mix images from multiple data sources. This allows us to scale editing data effectively, and meta information is helpfult to connect VLM with diffusion model more closely. Second, we introduce a joint learning pipeline for computing a diffusion loss and reward losses. Finally, we evaluate SeedEdit 3.0 on our testing benchmarks, for real/synthetic image editing, where it achieves a best trade-off between multiple aspects, yielding a high usability rate of 56.1%, compared to SeedEdit 1.6 (38.4%), GPT4o (37.1%) and Gemini 2.0 (30.3%).</summary>
@@ -58,7 +58,7 @@
     <title>MMaDA: Multimodal Large Diffusion Language Models</title>
     <id>a017383bd0d40d10b4ca9bf35b20b583</id>
     <link href="https://seed.bytedance.com/en/research/mmada-multimodal-large-diffusion-language-models"/>
-    <link href="https://arxiv.org/abs/2505.15809" rel="related"/>
+    <link href="https://arxiv.org/abs/2505.15809" rel="replies" title="Discussion"/>
     <updated>2025-05-20T16:00:00+00:00</updated>
     <category term="Computer Vision"/>
     <summary>We introduce MMaDA, a novel class of multimodal diffusion foundation models designed to achieve superior performance across diverse domains such as textual reasoning, multimodal understanding, and text-to-image generation. The approach is distinguished by three key innovations: (i) MMaDA adopts a unified diffusion architecture with a shared probabilistic formulation and a modality-agnostic design, eliminating the need for modality-specific components. This architecture ensures seamless integration and processing across different data types. (ii) We implement a mixed long chain-of-thought (CoT) fine-tuning strategy that curates a unified CoT format across modalities. By aligning reasoning processes between textual and visual domains, this strategy facilitates cold-start training for the final reinforcement learning (RL) stage, thereby enhancing the model's ability to handle complex tasks from the outset. (iii) We propose UniGRPO, a unified policy-gradient-based RL algorithm specifically tailored for diffusion foundation models. Utilizing diversified reward modeling, UniGRPO unifies post-training across both reasoning and generation tasks, ensuring consistent performance improvements. Experimental results demonstrate that MMaDA-8B exhibits strong generalization capabilities as a unified multimodal foundation model. It surpasses powerful models like LLaMA-3-7B and Qwen2-7B in textual reasoning, outperforms Show-o and SEED-X in multimodal understanding, and excels over SDXL and Janus in text-to-image generation. These achievements highlight MMaDA's effectiveness in bridging the gap between pretraining and post-training within unified diffusion architectures, providing a comprehensive framework for future research and development. We open-source our code and trained models at:
