@@ -31,7 +31,7 @@ Ready-to-use XML feeds for RSS readers:
 | [NVIDIA Blog](https://blogs.nvidia.com/) | [NVIDIA Blog feed](https://blogs.nvidia.com/feed/) | N/A |
 | [Apple ML Blog](https://machinelearning.apple.com/) | [Apple ML Blog feed](https://machinelearning.apple.com/rss.xml) | N/A |
 | [DeepSeek News](https://api-docs.deepseek.com/) | N/A | To-Do |
-| [深度求索 中文新闻](https://api-docs.deepseek.com/zh-cn/) | N/A | To-Do |
+| [深度求索 新闻](https://api-docs.deepseek.com/zh-cn/) | N/A | To-Do |
 | [Qwen Blog](https://qwenlm.github.io/blog/) | [Qwen Blog feed](https://qwenlm.github.io/blog/index.xml) | N/A |
 | [通义千问 中文博客](https://qwenlm.github.io/zh/blog/) | [Qwen Blog ZH feed](https://qwenlm.github.io/zh/blog/index.xml) | N/A |
 | [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [`bytedance_seed_blog.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
@@ -73,6 +73,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Krita News](https://krita.org/en/categories/news/) | [Krita News feed](https://krita.org/en/categories/news/index.xml) | N/A |
 | [Blender News](https://www.blender.org/news/) | [Blender News feed](https://www.blender.org/feed/) | N/A |
 | [UnReal Engine News](https://www.unrealengine.com/en-US/feed) | [UnReal Engine News feed](https://www.unrealengine.com/en-US/rss) | N/A |
+| [SteamDB Free Promotions](https://steamdb.info/upcoming/free/) | N/A | To-Do |
 
 
 ### Academic Feeds
@@ -91,14 +92,41 @@ To-Do: Appending logic with snapshot timestamps
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
-| []() | N/A | To-Do |
+| [Sebastian Raschka](https://sebastianraschka.com/) | [Sebastian Raschka Feed](https://sebastianraschka.com/rss_feed.xml) | N/A |
+| [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | N/A |
+| [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/feed) | N/A |
+| [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | N/A |
+| [The Batch](https://www.deeplearning.ai/the-batch/) | [The Batch Feed](https://rsshub.app/deeplearning/the-batch) | N/A |
+| [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | N/A |
+| [Turing Post](https://www.turingpost.com/) | [Turing Post Feed](https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml) | N/A |
+| [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | N/A |
+| [12 Grams of Carbon](https://theahura.substack.com/) | [12 Grams of Carbon Feed](https://theahura.substack.com/feed) | N/A |
+| [Quanta Magazine](https://www.quantamagazine.org/) | [Quanta Magazine Feed](https://www.quantamagazine.org/feed) | N/A |
 
 
-### Podcast/YouTube Feeds
+### Tech News
 
-| Channel | Podcast Feed | YouTube Feed |
-|------------------|---------------|--------------|
-| []() | []() | N/A |
+| Original Website | Official/RSSHub Feed | Created Feed |
+|------------------|------------------|--------------|
+| [YCombinator Hacker News](https://news.ycombinator.com/) | [YCombinator Hacker News Feed](https://news.ycombinator.com/rss) | To-Do |
+| [AIBase 资讯](https://news.aibase.com/zh/news) | [AIBase 资讯 Feed](https://rsshub.app/aibase/news) | N/A |
+| [AIBase AI日报](https://news.aibase.com/zh/daily) | [AIBase AI日报 Feed](https://rsshub.app/aibase/daily) | N/A |
+| [News Minimalist](https://www.newsminimalist.com/) | [News Minimalist Feed](https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml) | N/A |
+| [ReadHub 新闻](https://readhub.cn/) | [ReadHub 新闻 Feed](https://readhub.cn/rss) | N/A |
+| [ReadHub 每日早报](https://readhub.cn/daily) | [ReadHub 每日早报 Feed](https://readhub.cn/daily/rss) | N/A |
+| [喷嚏图卦](https://www.dapenti.com/blog/blog.asp?name=xilei&subjectid=70) | [喷嚏图卦 Feed](https://rsshub.rssforever.com/dapenti/tugua) | N/A |
+| [SlashDot](https://slashdot.org/) | [SlashDot Feed](https://rss.slashdot.org/Slashdot/slashdotMain) | N/A |
+| [The Hacker News](https://thehackernews.com/) | [The Hacker News Feed](https://feeds.feedburner.com/TheHackersNews) | N/A |
+| [Venture Beat](https://venturebeat.com/) | N/A | To-Do |
+| [机器之心](https://www.jiqizhixin.com/) | [机器之心 Feed](https://www.jiqizhixin.com/rss) | N/A |
+
+
+### Quantum Computing / Quantum AI
+
+| Original Website | Official/RSSHub Feed | Created Feed |
+|------------------|------------------|--------------|
+| [phys.org Quantum Physics](https://phys.org/physics-news/quantum-physics/) | [phys.org Quantum Physics feed](https://phys.org/rss-feed/physics-news/quantum-physics/) | N/A |
+| [Quantum Computing Report](https://quantumcomputingreport.com/news/) | [phys.org Quantum Physics feed](https://quantumcomputingreport.com/feed/) | N/A |
 
 
 ## Usage
