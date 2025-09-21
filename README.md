@@ -126,7 +126,7 @@ To-Do: Appending logic with snapshot timestamps
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
 | [phys.org Quantum Physics](https://phys.org/physics-news/quantum-physics/) | [phys.org Quantum Physics feed](https://phys.org/rss-feed/physics-news/quantum-physics/) | N/A |
-| [Quantum Computing Report](https://quantumcomputingreport.com/news/) | [phys.org Quantum Physics feed](https://quantumcomputingreport.com/feed/) | N/A |
+| [Quantum Computing Report](https://quantumcomputingreport.com/news/) | [Quantum Computing Report feed](https://quantumcomputingreport.com/feed/) | N/A |
 
 
 ## Usage

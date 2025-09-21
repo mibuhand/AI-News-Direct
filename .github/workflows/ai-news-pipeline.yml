@@ -67,6 +67,9 @@ jobs:
         echo "Running OpenAI scraper..."
         uv run python scrapers/openai.py || echo "OpenAI scraper failed"
         
+        echo "Running Hacker News scraper..."
+        uv run python scrapers/hackernews.py || echo "Hacker News scraper failed"
+        
         echo "::endgroup::"
       continue-on-error: true
       

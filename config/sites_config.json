@@ -42,5 +42,18 @@
         "cache_files": {
             "main": "openai_research.html"
         }
+    },
+    
+    {
+        "site": "https://news.ycombinator.com/best",
+        "organization_key": "hackernews",
+        "favicon_url": "https://news.ycombinator.com/favicon.ico",
+        "pages": ["beststories"],
+        "output_files": {
+            "beststories": "hackernews_best_stories.json"
+        },
+        "cache_files": {
+            "beststories": "hackernews_best_stories.json"
+        }
     }
 ]

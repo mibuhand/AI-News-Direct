@@ -155,6 +155,11 @@ if __name__ == "__main__":
             base_url = data.get('site')
             domain = re.sub(r'[^\w]', '_', base_url.split('//')[-1].split('/')[0])
             client_type = data.get('client_type', 'curl_cffi')  # Default to curl_cffi
+            organization_key = data.get('organization_key', '')
+            
+            # Skip Hacker News as it uses direct API calls
+            if organization_key == 'hackernews':
+                continue
             
             # Handle simple pages list
             pages = data.get('pages', [''])

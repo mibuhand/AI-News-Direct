@@ -98,9 +98,9 @@ def create_atom_feed(entries, feed_name):
     name = SubElement(author, 'name')
     name.text = 'AI News Direct'
     
-    # Link to feed
+    # Link to feed (GitHub raw URL)
     link = SubElement(feed, 'link')
-    link.set('href', f"{get_base_url(feed_name)}/feeds/{feed_name}.xml")
+    link.set('href', f"https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/{feed_name}.xml")
     link.set('rel', 'self')
     
     # Process each entry
@@ -131,7 +131,8 @@ def create_atom_feed(entries, feed_name):
         if external_url and external_url != url:
             external_link = SubElement(entry, 'link')
             external_link.set('href', external_url)
-            external_link.set('rel', 'related')
+            external_link.set('rel', 'replies')
+            external_link.set('title', 'Discussion')
         
         # Entry updated/published date
         entry_updated = SubElement(entry, 'updated')
@@ -192,7 +193,27 @@ def create_atom_feed(entries, feed_name):
         
         # Create summary - only if we have actual content
         summary = SubElement(entry, 'summary')
-        if content_parts:
+        
+        # For Hacker News entries, add discussion link info
+        source = entry_data.get('source', '')
+        if source == 'hackernews' and external_url and external_url != url:
+            metadata = entry_data.get('metadata', {})
+            score = metadata.get('score', 0)
+            comments = metadata.get('comments', 0)
+            author = metadata.get('author', '')
+            
+            hn_info = f"Score: {score}"
+            if comments > 0:
+                hn_info += f" | Comments: {comments}"
+            if author:
+                hn_info += f" | By: {author}"
+            hn_info += f" | Discussion: {external_url}"
+            
+            if content_parts:
+                summary.text = " | ".join(content_parts) + " | " + hn_info
+            else:
+                summary.text = hn_info
+        elif content_parts:
             summary.text = " | ".join(content_parts)
         else:
             # No summary if there's no meaningful content beyond title
