@@ -207,7 +207,7 @@ def create_atom_feed(entries, feed_name):
                 hn_info += f" | Comments: {comments}"
             if author:
                 hn_info += f" | By: {author}"
-            hn_info += f" | Discussion: {external_url}"
+            hn_info += f" | Discussion: <a href=\"{external_url}\">{external_url}</a>"
             
             if content_parts:
                 summary.text = " | ".join(content_parts) + " | " + hn_info
