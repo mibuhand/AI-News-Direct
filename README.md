@@ -13,11 +13,11 @@ Ready-to-use XML feeds for RSS readers:
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
-| [Anthropic News](https://www.anthropic.com/news) | [Antropic News feed (RSSHub)](https://rsshub.app/anthropic/news) | [`anthropic_news.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_news.xml) |
-| [Anthropic Research](https://www.anthropic.com/research) | N/A | [`anthropic_research.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_research.xml) |
-| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [Antropic Engineering feed (RSSHub)](https://rsshub.app/anthropic/engineering) | [`anthropic_engineering.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_engineering.xml) |
+| [Anthropic News](https://www.anthropic.com/news) | [Antropic News feed (RSSHub)](https://rsshub.app/anthropic/news) | [anthropic_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_news.xml) |
+| [Anthropic Research](https://www.anthropic.com/research) | N/A | [anthropic_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_research.xml) |
+| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [Antropic Engineering feed (RSSHub)](https://rsshub.app/anthropic/engineering) | [anthropic_engineering.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_engineering.xml) |
 | [OpenAI News](https://openai.com/news) | [Open AI News feed](https://openai.com/news/rss.xml) | N/A |
-| [OpenAI Research Index](https://openai.com/research) | N/A | [`openai_research.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml) |
+| [OpenAI Research Index](https://openai.com/research) | N/A | [openai_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml) |
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog feed](https://blog.google/technology/rss/) | N/A |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog feed](https://deepmind.google/blog/rss.xml) | N/A |
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research feed](https://deepmind.google/blog/rss.xml) | N/A |
@@ -34,9 +34,9 @@ Ready-to-use XML feeds for RSS readers:
 | [深度求索 新闻](https://api-docs.deepseek.com/zh-cn/) | N/A | To-Do |
 | [Qwen Blog](https://qwenlm.github.io/blog/) | [Qwen Blog feed](https://qwenlm.github.io/blog/index.xml) | N/A |
 | [通义千问 中文博客](https://qwenlm.github.io/zh/blog/) | [Qwen Blog ZH feed](https://qwenlm.github.io/zh/blog/index.xml) | N/A |
-| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [`bytedance_seed_blog.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
-| [字节跳动 Seed 中文博客](https://seed.bytedance.com/zh/blog) | N/A | [`bytedance_seed_blog_zh.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog_zh.xml) |
-| [ByteDance Seed Research](https://seed.bytedance.com/research) | N/A | [`bytedance_seed_research.xml`](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml) |
+| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [bytedance_seed_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
+| [字节跳动 Seed 中文博客](https://seed.bytedance.com/zh/blog) | N/A | [bytedance_seed_blog_zh.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog_zh.xml) |
+| [ByteDance Seed Research](https://seed.bytedance.com/research) | N/A | [bytedance_seed_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml) |
 | [Tencent Hunyuan 腾讯混元 新闻](https://hunyuan.tencent.com/news/home) | N/A | To-Do |
 | [MiniMax News](https://www.minimax.io/) | N/A | To-Do |
 | [Moonshot News](https://www.moonshot.ai/) | N/A | To-Do |
