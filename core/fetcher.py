@@ -157,8 +157,8 @@ if __name__ == "__main__":
             client_type = data.get('client_type', 'curl_cffi')  # Default to curl_cffi
             organization_key = data.get('organization_key', '')
             
-            # Skip Hacker News as it uses direct API calls
-            if organization_key == 'hackernews':
+            # Skip Hacker News and Hugging Face as they use direct API calls
+            if organization_key in ['hackernews', 'huggingface']:
                 continue
             
             # Handle simple pages list

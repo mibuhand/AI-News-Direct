@@ -126,13 +126,6 @@ def create_atom_feed(entries, feed_name):
             entry_link = SubElement(entry, 'link')
             entry_link.set('href', url)
         
-        # External URL if different from main URL
-        external_url = safe_get_text(entry_data, 'external_url')
-        if external_url and external_url != url:
-            external_link = SubElement(entry, 'link')
-            external_link.set('href', external_url)
-            external_link.set('rel', 'replies')
-            external_link.set('title', 'Discussion')
         
         # Entry updated/published date
         entry_updated = SubElement(entry, 'updated')
@@ -196,25 +189,49 @@ def create_atom_feed(entries, feed_name):
         
         # For Hacker News entries, add discussion link info
         source = entry_data.get('source', '')
-        if source == 'hackernews' and external_url and external_url != url:
+        if source == 'hackernews':
             metadata = entry_data.get('metadata', {})
             score = metadata.get('score', 0)
             comments = metadata.get('comments', 0)
             author = metadata.get('author', '')
-            
+
+            # Create discussion URL using HN ID from metadata
+            hn_id = metadata.get('hn_id', 'unknown')
+            discussion_url = f"https://news.ycombinator.com/item?id={hn_id}"
+
             hn_info = f"Score: {score}"
             if comments > 0:
-                hn_info += f" | Comments: {comments}"
+                hn_info += f"<br/>Comments: {comments}"
             if author:
-                hn_info += f" | By: {author}"
-            hn_info += f" | Discussion: <a href=\"{external_url}\">{external_url}</a>"
-            
+                hn_info += f"<br/>By: {author}"
+            hn_info += f"<br/>Discussion: <a href=\"{discussion_url}\">{discussion_url}</a>"
+
             if content_parts:
-                summary.text = " | ".join(content_parts) + " | " + hn_info
+                summary.text = "<br/>".join(content_parts) + "<br/>" + hn_info
             else:
                 summary.text = hn_info
+        elif source == 'github':
+            # For GitHub entries, add repository statistics
+            metadata = entry_data.get('metadata', {})
+            stars = metadata.get('stars', 0)
+            forks = metadata.get('forks', 0)
+            stars_today = metadata.get('stars_today', 0)
+            language = metadata.get('language', '')
+
+            github_info = f"⭐ {stars:,} stars"
+            if forks > 0:
+                github_info += f"<br/>🍴 {forks:,} forks"
+            if stars_today > 0:
+                github_info += f"<br/>📈 {stars_today:,} stars today"
+            if language:
+                github_info += f"<br/>💻 {language}"
+
+            if content_parts:
+                summary.text = "<br/>".join(content_parts) + "<br/>" + github_info
+            else:
+                summary.text = github_info
         elif content_parts:
-            summary.text = " | ".join(content_parts)
+            summary.text = "<br/>".join(content_parts)
         else:
             # No summary if there's no meaningful content beyond title
             summary.text = ""

@@ -62,6 +62,7 @@ Ready-to-use XML feeds for RSS readers:
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
+| [Github Trending](https://github.com/trending) | N/A | [Github Trending Monthly](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trending.xml) |
 | [HuggingFace Blog](https://huggingface.co/blog) | [Huggingface Blog feed](https://huggingface.co/blog/feed.xml) | N/A |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog feed](https://ollama.com/blog/rss.xml) | N/A |
 | [Unsloth Blog](https://unsloth.ai/blog) | N/A | To-Do |
@@ -81,9 +82,9 @@ To-Do: Appending logic with snapshot timestamps
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
-| [HuggingFace Trending Models](https://huggingface.co/models?sort=trending) | N/A | To-Do (Top 20) |
-| [HuggingFace Trending Papers](https://huggingface.co/papers/trending) | N/A | To-Do (Top 5) |
-| [HuggingFace Daily Papers](https://huggingface.co/papers/month/2025-07) | N/A | To-Do (Previous month Top 12) |
+| [HuggingFace Trending Models](https://huggingface.co/models?sort=trending) | N/A | (https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_trending_models.xml) |
+| [HuggingFace Trending Datasets](https://huggingface.co/datasets?sort=trending) | N/A | (https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_trending_datasets.xml) |
+| [HuggingFace Daily Papers](https://huggingface.co/papers) | N/A | [Past 30 Days Top 12 Papers](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_daily_papers.xml) |
 | [alphaXiv Trending Papers](https://www.alphaxiv.org/?sort=Hot&time=30+Days) | N/A | To-Do (Top 5 from past 30 days) |
 | [Cool Papers](https://papers.cool/) | [Cool Papers feed](https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed) | To-Do |
 

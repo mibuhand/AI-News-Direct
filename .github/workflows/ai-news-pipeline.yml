@@ -69,7 +69,13 @@ jobs:
         
         echo "Running Hacker News scraper..."
         uv run python scrapers/hackernews.py || echo "Hacker News scraper failed"
-        
+
+        echo "Running Hugging Face scraper..."
+        uv run python scrapers/huggingface.py || echo "Hugging Face scraper failed"
+
+        echo "Running GitHub trending scraper..."
+        uv run python scrapers/github.py || echo "GitHub scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       

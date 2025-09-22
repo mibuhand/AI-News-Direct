@@ -59,14 +59,14 @@ async def fetch_best_stories(limit=50):
                             "title": story_data.get('title', ''),
                             "description": "",
                             "url": original_url or discussion_url,
-                            "external_url": discussion_url if original_url else None,
                             "published_date": datetime.fromtimestamp(story_data.get('time', 0), tz=timezone.utc).isoformat(),
                             "categories": [],
                             "organization": "Hacker News",
                             "metadata": {
                                 "score": story_data.get('score', 0),
                                 "author": story_data.get('by', ''),
-                                "comments": story_data.get('descendants', 0)
+                                "comments": story_data.get('descendants', 0),
+                                "hn_id": story_data['id']
                             },
                             "objects": []
                         }

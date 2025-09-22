@@ -55,5 +55,35 @@
         "cache_files": {
             "beststories": "hackernews_best_stories.json"
         }
+    },
+
+    {
+        "site": "https://huggingface.co",
+        "organization_key": "huggingface",
+        "favicon_url": "https://huggingface.co/favicon.ico",
+        "pages": ["trending_models", "trending_datasets", "daily_papers"],
+        "output_files": {
+            "trending_models": "huggingface_trending_models.json",
+            "trending_datasets": "huggingface_trending_datasets.json",
+            "daily_papers": "huggingface_daily_papers.json"
+        },
+        "cache_files": {
+            "trending_models": "huggingface_trending_models.json",
+            "trending_datasets": "huggingface_trending_datasets.json",
+            "daily_papers": "huggingface_daily_papers.json"
+        }
+    },
+
+    {
+        "site": "https://github.com",
+        "organization_key": "github",
+        "favicon_url": "https://github.com/favicon.ico",
+        "pages": ["trending?since=monthly"],
+        "output_files": {
+            "trending?since=monthly": "github_trending.json"
+        },
+        "cache_files": {
+            "trending?since=monthly": "github_trending.html"
+        }
     }
 ]
