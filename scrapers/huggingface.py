@@ -89,7 +89,7 @@ async def fetch_trending_items(item_type='model', limit=20):
                         "type": item_type,
                         "title": item_id,
                         "description": description,
-                        "url": f"https://huggingface.co/{item_id}",
+                        "url": f"https://huggingface.co/datasets/{item_id}" if item_type == 'dataset' else f"https://huggingface.co/{item_id}",
                         "published_date": created_at or datetime.now(timezone.utc).isoformat(),
                         "categories": [pipeline_tag] if pipeline_tag else [],
                         "metadata": {
