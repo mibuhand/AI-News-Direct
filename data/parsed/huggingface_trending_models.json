@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/VoxCPM-0.5B",
-    "description": "Type: text-to-speech<br/>Downloads: 3,236<br/>Likes: 631",
+    "description": "Type: text-to-speech<br/>Downloads: 3,236<br/>Likes: 632",
     "url": "https://huggingface.co/openbmb/VoxCPM-0.5B",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737644+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -14,28 +14,8 @@
       "author": "openbmb",
       "item_name": "VoxCPM-0.5B",
       "downloads": 3236,
-      "likes": 631,
+      "likes": 632,
       "last_modified": "2025-09-19T10:48:31.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "966e9f2d67330f7c5f70ddfb83d389c0",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
-    "description": "Type: text-generation<br/>Downloads: 9,146<br/>Likes: 592",
-    "url": "https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Alibaba-NLP",
-      "item_name": "Tongyi-DeepResearch-30B-A3B",
-      "downloads": 9146,
-      "likes": 592,
-      "last_modified": "2025-09-17T09:24:34.000Z",
       "all_tags": []
     }
   },
@@ -46,7 +26,7 @@
     "title": "ibm-granite/granite-docling-258M",
     "description": "Type: image-text-to-text<br/>Downloads: 25,714<br/>Likes: 577",
     "url": "https://huggingface.co/ibm-granite/granite-docling-258M",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737667+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -60,19 +40,39 @@
     }
   },
   {
+    "id": "966e9f2d67330f7c5f70ddfb83d389c0",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
+    "description": "Type: text-generation<br/>Downloads: 9,146<br/>Likes: 593",
+    "url": "https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
+    "published_date": "2025-09-23T21:17:05.737678+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "Alibaba-NLP",
+      "item_name": "Tongyi-DeepResearch-30B-A3B",
+      "downloads": 9146,
+      "likes": 593,
+      "last_modified": "2025-09-17T09:24:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "93ad14529f30e669d0af687fb99e1fea",
     "source": "huggingface",
     "type": "model",
     "title": "Wan-AI/Wan2.2-Animate-14B",
-    "description": "Downloads: 14,432<br/>Likes: 361",
+    "description": "Downloads: 14,432<br/>Likes: 364",
     "url": "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737691+00:00",
     "categories": [],
     "metadata": {
       "author": "Wan-AI",
       "item_name": "Wan2.2-Animate-14B",
       "downloads": 14432,
-      "likes": 361,
+      "likes": 364,
       "last_modified": "2025-09-19T08:22:41.000Z",
       "all_tags": []
     }
@@ -82,9 +82,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-    "description": "Type: any-to-any<br/>Downloads: 1,692<br/>Likes: 272",
+    "description": "Type: any-to-any<br/>Downloads: 1,692<br/>Likes: 275",
     "url": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737698+00:00",
     "categories": [
       "any-to-any"
     ],
@@ -92,8 +92,28 @@
       "author": "Qwen",
       "item_name": "Qwen3-Omni-30B-A3B-Instruct",
       "downloads": 1692,
-      "likes": 272,
+      "likes": 275,
       "last_modified": "2025-09-22T14:17:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "69b013e75585166b1f8584b6158f40f2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen-Image-Edit-2509",
+    "description": "Type: image-to-image<br/>Downloads: 790<br/>Likes: 248",
+    "url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2509",
+    "published_date": "2025-09-23T21:17:05.737705+00:00",
+    "categories": [
+      "image-to-image"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen-Image-Edit-2509",
+      "downloads": 790,
+      "likes": 248,
+      "last_modified": "2025-09-22T13:37:12.000Z",
       "all_tags": []
     }
   },
@@ -104,7 +124,7 @@
     "title": "google/vaultgemma-1b",
     "description": "Type: text-generation<br/>Downloads: 3,690<br/>Likes: 378",
     "url": "https://huggingface.co/google/vaultgemma-1b",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737712+00:00",
     "categories": [
       "text-generation"
     ],
@@ -118,33 +138,13 @@
     }
   },
   {
-    "id": "69b013e75585166b1f8584b6158f40f2",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen-Image-Edit-2509",
-    "description": "Type: image-to-image<br/>Downloads: 790<br/>Likes: 247",
-    "url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2509",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
-    "categories": [
-      "image-to-image"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen-Image-Edit-2509",
-      "downloads": 790,
-      "likes": 247,
-      "last_modified": "2025-09-22T13:37:12.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "29fc3a02e4125e8fceebfb22a45214ef",
     "source": "huggingface",
     "type": "model",
     "title": "moondream/moondream3-preview",
-    "description": "Type: image-text-to-text<br/>Downloads: 3,225<br/>Likes: 243",
+    "description": "Type: image-text-to-text<br/>Downloads: 3,225<br/>Likes: 244",
     "url": "https://huggingface.co/moondream/moondream3-preview",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737718+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -152,7 +152,7 @@
       "author": "moondream",
       "item_name": "moondream3-preview",
       "downloads": 3225,
-      "likes": 243,
+      "likes": 244,
       "last_modified": "2025-09-23T01:18:16.000Z",
       "all_tags": []
     }
@@ -162,9 +162,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "decart-ai/Lucy-Edit-Dev",
-    "description": "Type: video-to-video<br/>Downloads: 1,851<br/>Likes: 221",
+    "description": "Type: video-to-video<br/>Downloads: 1,851<br/>Likes: 222",
     "url": "https://huggingface.co/decart-ai/Lucy-Edit-Dev",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737724+00:00",
     "categories": [
       "video-to-video"
     ],
@@ -172,7 +172,7 @@
       "author": "decart-ai",
       "item_name": "Lucy-Edit-Dev",
       "downloads": 1851,
-      "likes": 221,
+      "likes": 222,
       "last_modified": "2025-09-19T20:50:24.000Z",
       "all_tags": []
     }
@@ -182,9 +182,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V3.1-Terminus",
-    "description": "Type: text-generation<br/>Downloads: 1,317<br/>Likes: 186",
+    "description": "Type: text-generation<br/>Downloads: 1,317<br/>Likes: 188",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Terminus",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737731+00:00",
     "categories": [
       "text-generation"
     ],
@@ -192,7 +192,7 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V3.1-Terminus",
       "downloads": 1317,
-      "likes": 186,
+      "likes": 188,
       "last_modified": "2025-09-23T02:50:39.000Z",
       "all_tags": []
     }
@@ -202,15 +202,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Magistral-Small-2509",
-    "description": "Downloads: 3,427<br/>Likes: 175",
+    "description": "Downloads: 3,427<br/>Likes: 176",
     "url": "https://huggingface.co/mistralai/Magistral-Small-2509",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737737+00:00",
     "categories": [],
     "metadata": {
       "author": "mistralai",
       "item_name": "Magistral-Small-2509",
       "downloads": 3427,
-      "likes": 175,
+      "likes": 176,
       "last_modified": "2025-09-18T15:20:35.000Z",
       "all_tags": []
     }
@@ -222,7 +222,7 @@
     "title": "inclusionAI/Ling-flash-2.0",
     "description": "Type: text-generation<br/>Downloads: 765<br/>Likes: 161",
     "url": "https://huggingface.co/inclusionAI/Ling-flash-2.0",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737743+00:00",
     "categories": [
       "text-generation"
     ],
@@ -242,7 +242,7 @@
     "title": "facebook/MobileLLM-R1-950M",
     "description": "Type: text-generation<br/>Downloads: 4,969<br/>Likes: 324",
     "url": "https://huggingface.co/facebook/MobileLLM-R1-950M",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737749+00:00",
     "categories": [
       "text-generation"
     ],
@@ -262,7 +262,7 @@
     "title": "Qwen/Qwen3-Next-80B-A3B-Instruct",
     "description": "Type: text-generation<br/>Downloads: 1,018,854<br/>Likes: 724",
     "url": "https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737758+00:00",
     "categories": [
       "text-generation"
     ],
@@ -282,7 +282,7 @@
     "title": "tencent/SRPO",
     "description": "Type: text-to-image<br/>Downloads: 8,227<br/>Likes: 885",
     "url": "https://huggingface.co/tencent/SRPO",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737764+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -300,9 +300,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
-    "description": "Type: any-to-any<br/>Downloads: 408<br/>Likes: 109",
+    "description": "Type: any-to-any<br/>Downloads: 408<br/>Likes: 110",
     "url": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737771+00:00",
     "categories": [
       "any-to-any"
     ],
@@ -310,7 +310,7 @@
       "author": "Qwen",
       "item_name": "Qwen3-Omni-30B-A3B-Thinking",
       "downloads": 408,
-      "likes": 109,
+      "likes": 110,
       "last_modified": "2025-09-22T14:17:44.000Z",
       "all_tags": []
     }
@@ -322,7 +322,7 @@
     "title": "meituan-longcat/LongCat-Flash-Thinking",
     "description": "Type: text-generation<br/>Downloads: 115<br/>Likes: 105",
     "url": "https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737780+00:00",
     "categories": [
       "text-generation"
     ],
@@ -340,9 +340,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-Omni-30B-A3B-Captioner",
-    "description": "Type: any-to-any<br/>Downloads: 288<br/>Likes: 95",
+    "description": "Type: any-to-any<br/>Downloads: 288<br/>Likes: 96",
     "url": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737787+00:00",
     "categories": [
       "any-to-any"
     ],
@@ -350,7 +350,7 @@
       "author": "Qwen",
       "item_name": "Qwen3-Omni-30B-A3B-Captioner",
       "downloads": 288,
-      "likes": 95,
+      "likes": 96,
       "last_modified": "2025-09-22T13:46:56.000Z",
       "all_tags": []
     }
@@ -360,9 +360,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "XiaomiMiMo/MiMo-Audio-7B-Instruct",
-    "description": "Type: any-to-any<br/>Downloads: 718<br/>Likes: 94",
+    "description": "Type: any-to-any<br/>Downloads: 718<br/>Likes: 95",
     "url": "https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737793+00:00",
     "categories": [
       "any-to-any"
     ],
@@ -370,7 +370,7 @@
       "author": "XiaomiMiMo",
       "item_name": "MiMo-Audio-7B-Instruct",
       "downloads": 718,
-      "likes": 94,
+      "likes": 95,
       "last_modified": "2025-09-23T11:28:06.000Z",
       "all_tags": []
     }
@@ -380,9 +380,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/VibeVoice-1.5B",
-    "description": "Type: text-to-speech<br/>Downloads: 301,378<br/>Likes: 1801",
+    "description": "Type: text-to-speech<br/>Downloads: 301,378<br/>Likes: 1803",
     "url": "https://huggingface.co/microsoft/VibeVoice-1.5B",
-    "published_date": "2025-09-23T20:27:20.707510+00:00",
+    "published_date": "2025-09-23T21:17:05.737799+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -390,7 +390,7 @@
       "author": "microsoft",
       "item_name": "VibeVoice-1.5B",
       "downloads": 301378,
-      "likes": 1801,
+      "likes": 1803,
       "last_modified": "2025-09-01T07:30:16.000Z",
       "all_tags": []
     }
