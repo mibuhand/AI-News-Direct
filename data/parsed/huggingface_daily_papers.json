@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Sharing is Caring: Efficient LM Post-Training with Collective RL\n  Experience Sharing",
-    "description": "Post-training language models (LMs) with reinforcement learning (RL) can\nenhance their complex reasoning capabilities without supervised fine-tuning, as\ndemonstrated by DeepSeek-R1-Zero. However, effe...<br/>Upvotes: 608<br/>GitHub Stars: 1430<br/>Authors: Jeffrey Amico, Gabriel Passamani Andrade, John Donaghy<br/>🔗 <a href=\"https://github.com/gensyn-ai/rl-swarm\">GitHub</a><br/>🔗 <a href=\"https://blog.gensyn.ai/sapo-efficient-lm-post-training-with-collective-rl/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.08721\">Hugging Face</a>",
+    "description": "Post-training language models (LMs) with reinforcement learning (RL) can\nenhance their complex reasoning capabilities without supervised fine-tuning, as\ndemonstrated by DeepSeek-R1-Zero. However, effe...<br/>Upvotes: 609<br/>GitHub Stars: 1432<br/>Authors: Jeffrey Amico, Gabriel Passamani Andrade, John Donaghy<br/>🔗 <a href=\"https://github.com/gensyn-ai/rl-swarm\">GitHub</a><br/>🔗 <a href=\"https://blog.gensyn.ai/sapo-efficient-lm-post-training-with-collective-rl/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.08721\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.08721",
     "external_url": "https://github.com/gensyn-ai/rl-swarm",
     "published_date": "2025-09-10T12:14:20.000Z",
@@ -14,8 +14,8 @@
     ],
     "metadata": {
       "paper_id": "2509.08721",
-      "upvotes": 608,
-      "github_stars": 1430,
+      "upvotes": 609,
+      "github_stars": 1432,
       "github_url": "https://github.com/gensyn-ai/rl-swarm",
       "project_url": "https://blog.gensyn.ai/sapo-efficient-lm-post-training-with-collective-rl/",
       "authors": [
@@ -59,7 +59,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "A.S.E: A Repository-Level Benchmark for Evaluating Security in\n  AI-Generated Code",
-    "description": "The increasing adoption of large language models (LLMs) in software\nengineering necessitates rigorous security evaluation of their generated code.\nHowever, existing benchmarks often lack relevance to ...<br/>Upvotes: 340<br/>GitHub Stars: 333<br/>Authors: Keke Lian, Bin Wang, Lei Zhang<br/>🔗 <a href=\"https://github.com/Tencent/AICGSecEval\">GitHub</a><br/>🔗 <a href=\"https://aicgseceval.tencent.com/home\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.18106\">Hugging Face</a>",
+    "description": "The increasing adoption of large language models (LLMs) in software\nengineering necessitates rigorous security evaluation of their generated code.\nHowever, existing benchmarks often lack relevance to ...<br/>Upvotes: 340<br/>GitHub Stars: 337<br/>Authors: Keke Lian, Bin Wang, Lei Zhang<br/>🔗 <a href=\"https://github.com/Tencent/AICGSecEval\">GitHub</a><br/>🔗 <a href=\"https://aicgseceval.tencent.com/home\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.18106\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2508.18106",
     "external_url": "https://github.com/Tencent/AICGSecEval",
     "published_date": "2025-08-25T11:11:11.000Z",
@@ -70,7 +70,7 @@
     "metadata": {
       "paper_id": "2508.18106",
       "upvotes": 340,
-      "github_stars": 333,
+      "github_stars": 337,
       "github_url": "https://github.com/Tencent/AICGSecEval",
       "project_url": "https://aicgseceval.tencent.com/home",
       "authors": [
@@ -108,6 +108,62 @@
         "repository-level evaluation",
         "secure coding",
         "reasoning budget"
+      ]
+    }
+  },
+  {
+    "id": "a785dc23394ddf009c4095e44be6b818",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action\n  Model",
+    "description": "Vision-Language-Action (VLA) models typically bridge the gap between\nperceptual and action spaces by pre-training a large-scale Vision-Language\nModel (VLM) on robotic data. While this approach greatly...<br/>Upvotes: 213<br/>GitHub Stars: 287<br/>Authors: Yihao Wang, Pengxiang Ding, Lingxiao Li<br/>🔗 <a href=\"https://github.com/OpenHelix-Team/VLA-Adapter\">GitHub</a><br/>🔗 <a href=\"https://vla-adapter.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.09372\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2509.09372",
+    "external_url": "https://github.com/OpenHelix-Team/VLA-Adapter",
+    "published_date": "2025-09-11T07:42:21.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2509.09372",
+      "upvotes": 213,
+      "github_stars": 287,
+      "github_url": "https://github.com/OpenHelix-Team/VLA-Adapter",
+      "project_url": "https://vla-adapter.github.io/",
+      "authors": [
+        "Yihao Wang",
+        "Pengxiang Ding",
+        "Lingxiao Li",
+        "Can Cui",
+        "Zirui Ge",
+        "Xinyang Tong",
+        "Wenxuan Song",
+        "Han Zhao",
+        "Wei Zhao",
+        "Pengxu Hou",
+        "Siteng Huang",
+        "Yifan Tang",
+        "Wenhui Wang",
+        "Ru Zhang",
+        "Jianyi Liu",
+        "Donglin Wang"
+      ],
+      "summary": "Vision-Language-Action (VLA) models typically bridge the gap between\nperceptual and action spaces by pre-training a large-scale Vision-Language\nModel (VLM) on robotic data. While this approach greatly enhances performance,\nit also incurs significant training costs. In this paper, we investigate how to\neffectively bridge vision-language (VL) representations to action (A). We\nintroduce VLA-Adapter, a novel paradigm designed to reduce the reliance of VLA\nmodels on large-scale VLMs and extensive pre-training. To this end, we first\nsystematically analyze the effectiveness of various VL conditions and present\nkey findings on which conditions are essential for bridging perception and\naction spaces. Based on these insights, we propose a lightweight Policy module\nwith Bridge Attention, which autonomously injects the optimal condition into\nthe action space. In this way, our method achieves high performance using only\na 0.5B-parameter backbone, without any robotic data pre-training. Extensive\nexperiments on both simulated and real-world robotic benchmarks demonstrate\nthat VLA-Adapter not only achieves state-of-the-art level performance, but also\noffers the fast inference speed reported to date. Furthermore, thanks to the\nproposed advanced bridging paradigm, VLA-Adapter enables the training of a\npowerful VLA model in just 8 hours on a single consumer-grade GPU, greatly\nlowering the barrier to deploying the VLA model. Project page:\nhttps://vla-adapter.github.io/.",
+      "fetch_date": "2025-09-12",
+      "num_comments": 5,
+      "ai_summary": "VLA-Adapter reduces reliance on large-scale VLMs and extensive pre-training by using a lightweight Policy module with Bridge Attention, achieving state-of-the-art performance and fast inference speed with minimal computational resources.",
+      "ai_keywords": [
+        "VLA models",
+        "Vision-Language Model (VLM)",
+        "robotic data",
+        "VL conditions",
+        "Policy module",
+        "Bridge Attention",
+        "parameter backbone",
+        "simulated benchmarks",
+        "real-world benchmarks",
+        "inference speed",
+        "consumer-grade GPU"
       ]
     }
   },
@@ -164,7 +220,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
-    "description": "The emergence of agentic reinforcement learning (Agentic RL) marks a paradigm\nshift from conventional reinforcement learning applied to large language models\n(LLM RL), reframing LLMs from passive sequ...<br/>Upvotes: 200<br/>GitHub Stars: 786<br/>Authors: Guibin Zhang, Hejia Geng, Xiaohang Yu<br/>🔗 <a href=\"https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.02547\">Hugging Face</a>",
+    "description": "The emergence of agentic reinforcement learning (Agentic RL) marks a paradigm\nshift from conventional reinforcement learning applied to large language models\n(LLM RL), reframing LLMs from passive sequ...<br/>Upvotes: 201<br/>GitHub Stars: 792<br/>Authors: Guibin Zhang, Hejia Geng, Xiaohang Yu<br/>🔗 <a href=\"https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.02547\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.02547",
     "external_url": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
     "published_date": "2025-09-02T13:46:26.000Z",
@@ -174,8 +230,8 @@
     ],
     "metadata": {
       "paper_id": "2509.02547",
-      "upvotes": 200,
-      "github_stars": 786,
+      "upvotes": 201,
+      "github_stars": 792,
       "github_url": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
       "project_url": "",
       "authors": [
@@ -228,67 +284,11 @@
     }
   },
   {
-    "id": "a785dc23394ddf009c4095e44be6b818",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action\n  Model",
-    "description": "Vision-Language-Action (VLA) models typically bridge the gap between\nperceptual and action spaces by pre-training a large-scale Vision-Language\nModel (VLM) on robotic data. While this approach greatly...<br/>Upvotes: 191<br/>GitHub Stars: 265<br/>Authors: Yihao Wang, Pengxiang Ding, Lingxiao Li<br/>🔗 <a href=\"https://github.com/OpenHelix-Team/VLA-Adapter\">GitHub</a><br/>🔗 <a href=\"https://vla-adapter.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.09372\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2509.09372",
-    "external_url": "https://github.com/OpenHelix-Team/VLA-Adapter",
-    "published_date": "2025-09-11T07:42:21.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2509.09372",
-      "upvotes": 191,
-      "github_stars": 265,
-      "github_url": "https://github.com/OpenHelix-Team/VLA-Adapter",
-      "project_url": "https://vla-adapter.github.io/",
-      "authors": [
-        "Yihao Wang",
-        "Pengxiang Ding",
-        "Lingxiao Li",
-        "Can Cui",
-        "Zirui Ge",
-        "Xinyang Tong",
-        "Wenxuan Song",
-        "Han Zhao",
-        "Wei Zhao",
-        "Pengxu Hou",
-        "Siteng Huang",
-        "Yifan Tang",
-        "Wenhui Wang",
-        "Ru Zhang",
-        "Jianyi Liu",
-        "Donglin Wang"
-      ],
-      "summary": "Vision-Language-Action (VLA) models typically bridge the gap between\nperceptual and action spaces by pre-training a large-scale Vision-Language\nModel (VLM) on robotic data. While this approach greatly enhances performance,\nit also incurs significant training costs. In this paper, we investigate how to\neffectively bridge vision-language (VL) representations to action (A). We\nintroduce VLA-Adapter, a novel paradigm designed to reduce the reliance of VLA\nmodels on large-scale VLMs and extensive pre-training. To this end, we first\nsystematically analyze the effectiveness of various VL conditions and present\nkey findings on which conditions are essential for bridging perception and\naction spaces. Based on these insights, we propose a lightweight Policy module\nwith Bridge Attention, which autonomously injects the optimal condition into\nthe action space. In this way, our method achieves high performance using only\na 0.5B-parameter backbone, without any robotic data pre-training. Extensive\nexperiments on both simulated and real-world robotic benchmarks demonstrate\nthat VLA-Adapter not only achieves state-of-the-art level performance, but also\noffers the fast inference speed reported to date. Furthermore, thanks to the\nproposed advanced bridging paradigm, VLA-Adapter enables the training of a\npowerful VLA model in just 8 hours on a single consumer-grade GPU, greatly\nlowering the barrier to deploying the VLA model. Project page:\nhttps://vla-adapter.github.io/.",
-      "fetch_date": "2025-09-12",
-      "num_comments": 4,
-      "ai_summary": "VLA-Adapter reduces reliance on large-scale VLMs and extensive pre-training by using a lightweight Policy module with Bridge Attention, achieving state-of-the-art performance and fast inference speed with minimal computational resources.",
-      "ai_keywords": [
-        "VLA models",
-        "Vision-Language Model (VLM)",
-        "robotic data",
-        "VL conditions",
-        "Policy module",
-        "Bridge Attention",
-        "parameter backbone",
-        "simulated benchmarks",
-        "real-world benchmarks",
-        "inference speed",
-        "consumer-grade GPU"
-      ]
-    }
-  },
-  {
     "id": "6d87464070be7e367c0d00a7450fa0ba",
     "source": "huggingface",
     "type": "paper",
     "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,\n  Reasoning, and Efficiency",
-    "description": "We introduce InternVL 3.5, a new family of open-source multimodal models that\nsignificantly advances versatility, reasoning capability, and inference\nefficiency along the InternVL series. A key innova...<br/>Upvotes: 191<br/>GitHub Stars: 9219<br/>Authors: Weiyun Wang, Zhangwei Gao, Lixin Gu<br/>🔗 <a href=\"https://github.com/OpenGVLab/InternVL\">GitHub</a><br/>🔗 <a href=\"https://chat.intern-ai.org.cn/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.18265\">Hugging Face</a>",
+    "description": "We introduce InternVL 3.5, a new family of open-source multimodal models that\nsignificantly advances versatility, reasoning capability, and inference\nefficiency along the InternVL series. A key innova...<br/>Upvotes: 191<br/>GitHub Stars: 9230<br/>Authors: Weiyun Wang, Zhangwei Gao, Lixin Gu<br/>🔗 <a href=\"https://github.com/OpenGVLab/InternVL\">GitHub</a><br/>🔗 <a href=\"https://chat.intern-ai.org.cn/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.18265\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2508.18265",
     "external_url": "https://github.com/OpenGVLab/InternVL",
     "published_date": "2025-08-25T13:58:17.000Z",
@@ -299,7 +299,7 @@
     "metadata": {
       "paper_id": "2508.18265",
       "upvotes": 191,
-      "github_stars": 9219,
+      "github_stars": 9230,
       "github_url": "https://github.com/OpenGVLab/InternVL",
       "project_url": "https://chat.intern-ai.org.cn/",
       "authors": [
@@ -386,71 +386,11 @@
     }
   },
   {
-    "id": "27945bd6f1634bfd914ab287d0fdaf8e",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for\n  Open-Ended Deep Research",
-    "description": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold ...<br/>Upvotes: 97<br/>GitHub Stars: 14183<br/>Authors: Zijian Li, Xin Guan, Bo Zhang<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13312\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2509.13312",
-    "external_url": "https://github.com/Alibaba-NLP/DeepResearch",
-    "published_date": "2025-09-16T13:57:21.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2509.13312",
-      "upvotes": 97,
-      "github_stars": 14183,
-      "github_url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "project_url": "https://tongyi-agent.github.io/blog/",
-      "authors": [
-        "Zijian Li",
-        "Xin Guan",
-        "Bo Zhang",
-        "Shen Huang",
-        "Houquan Zhou",
-        "Shaopeng Lai",
-        "Ming Yan",
-        "Yong Jiang",
-        "Pengjun Xie",
-        "Fei Huang",
-        "Jun Zhang",
-        "Jingren Zhou"
-      ],
-      "summary": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold limitations: static research\npipelines that decouple planning from evidence acquisition and one-shot\ngeneration paradigms that easily suffer from long-context failure issues like\n\"loss in the middle\" and hallucinations. To address these challenges, we\nintroduce WebWeaver, a novel dual-agent framework that emulates the human\nresearch process. The planner operates in a dynamic cycle, iteratively\ninterleaving evidence acquisition with outline optimization to produce a\ncomprehensive, source-grounded outline linking to a memory bank of evidence.\nThe writer then executes a hierarchical retrieval and writing process,\ncomposing the report section by section. By performing targeted retrieval of\nonly the necessary evidence from the memory bank for each part, it effectively\nmitigates long-context issues. Our framework establishes a new state-of-the-art\nacross major OEDR benchmarks, including DeepResearch Bench, DeepConsult, and\nDeepResearchGym. These results validate our human-centric, iterative\nmethodology, demonstrating that adaptive planning and focused synthesis are\ncrucial for producing high-quality, reliable, and well-structured reports.",
-      "fetch_date": "2025-09-17",
-      "num_comments": 5,
-      "ai_summary": "WebWeaver, a dual-agent framework, addresses open-ended deep research challenges by integrating adaptive planning and focused synthesis to produce high-quality, reliable reports.",
-      "ai_keywords": [
-        "open-ended deep research",
-        "AI agents",
-        "static research pipelines",
-        "one-shot generation",
-        "long-context failure",
-        "loss in the middle",
-        "hallucinations",
-        "dual-agent framework",
-        "human research process",
-        "planner",
-        "evidence acquisition",
-        "outline optimization",
-        "memory bank",
-        "writer",
-        "hierarchical retrieval",
-        "writing process",
-        "DeepResearch Bench",
-        "DeepConsult",
-        "DeepResearchGym"
-      ]
-    }
-  },
-  {
     "id": "17d435d0d4a4864c8247d4e12399b781",
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Agents via Continual Pre-training",
-    "description": "Large language models (LLMs) have evolved into agentic systems capable of\nautonomous tool use and multi-step reasoning for complex problem-solving.\nHowever, post-training approaches building upon gene...<br/>Upvotes: 97<br/>GitHub Stars: 14183<br/>Authors: Liangcai Su, Zhen Zhang, Guangyu Li<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch///\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13310\">Hugging Face</a>",
+    "description": "Large language models (LLMs) have evolved into agentic systems capable of\nautonomous tool use and multi-step reasoning for complex problem-solving.\nHowever, post-training approaches building upon gene...<br/>Upvotes: 98<br/>GitHub Stars: 14309<br/>Authors: Liangcai Su, Zhen Zhang, Guangyu Li<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch///\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13310\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13310",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch///",
     "published_date": "2025-09-16T13:57:19.000Z",
@@ -460,8 +400,8 @@
     ],
     "metadata": {
       "paper_id": "2509.13310",
-      "upvotes": 97,
-      "github_stars": 14183,
+      "upvotes": 98,
+      "github_stars": 14309,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch///",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -510,11 +450,71 @@
     }
   },
   {
+    "id": "27945bd6f1634bfd914ab287d0fdaf8e",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for\n  Open-Ended Deep Research",
+    "description": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold ...<br/>Upvotes: 97<br/>GitHub Stars: 14309<br/>Authors: Zijian Li, Xin Guan, Bo Zhang<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13312\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2509.13312",
+    "external_url": "https://github.com/Alibaba-NLP/DeepResearch",
+    "published_date": "2025-09-16T13:57:21.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2509.13312",
+      "upvotes": 97,
+      "github_stars": 14309,
+      "github_url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "project_url": "https://tongyi-agent.github.io/blog/",
+      "authors": [
+        "Zijian Li",
+        "Xin Guan",
+        "Bo Zhang",
+        "Shen Huang",
+        "Houquan Zhou",
+        "Shaopeng Lai",
+        "Ming Yan",
+        "Yong Jiang",
+        "Pengjun Xie",
+        "Fei Huang",
+        "Jun Zhang",
+        "Jingren Zhou"
+      ],
+      "summary": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold limitations: static research\npipelines that decouple planning from evidence acquisition and one-shot\ngeneration paradigms that easily suffer from long-context failure issues like\n\"loss in the middle\" and hallucinations. To address these challenges, we\nintroduce WebWeaver, a novel dual-agent framework that emulates the human\nresearch process. The planner operates in a dynamic cycle, iteratively\ninterleaving evidence acquisition with outline optimization to produce a\ncomprehensive, source-grounded outline linking to a memory bank of evidence.\nThe writer then executes a hierarchical retrieval and writing process,\ncomposing the report section by section. By performing targeted retrieval of\nonly the necessary evidence from the memory bank for each part, it effectively\nmitigates long-context issues. Our framework establishes a new state-of-the-art\nacross major OEDR benchmarks, including DeepResearch Bench, DeepConsult, and\nDeepResearchGym. These results validate our human-centric, iterative\nmethodology, demonstrating that adaptive planning and focused synthesis are\ncrucial for producing high-quality, reliable, and well-structured reports.",
+      "fetch_date": "2025-09-17",
+      "num_comments": 5,
+      "ai_summary": "WebWeaver, a dual-agent framework, addresses open-ended deep research challenges by integrating adaptive planning and focused synthesis to produce high-quality, reliable reports.",
+      "ai_keywords": [
+        "open-ended deep research",
+        "AI agents",
+        "static research pipelines",
+        "one-shot generation",
+        "long-context failure",
+        "loss in the middle",
+        "hallucinations",
+        "dual-agent framework",
+        "human research process",
+        "planner",
+        "evidence acquisition",
+        "outline optimization",
+        "memory bank",
+        "writer",
+        "hierarchical retrieval",
+        "writing process",
+        "DeepResearch Bench",
+        "DeepConsult",
+        "DeepResearchGym"
+      ]
+    }
+  },
+  {
     "id": "d4b4f91354d2792a0826158fb9d00e0b",
     "source": "huggingface",
     "type": "paper",
     "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic\n  Data and Scalable Reinforcement Learning",
-    "description": "Transcending human cognitive limitations represents a critical frontier in\nLLM training. Proprietary agentic systems like DeepResearch have demonstrated\nsuperhuman capabilities on extremely complex in...<br/>Upvotes: 78<br/>GitHub Stars: 14183<br/>Authors: Kuan Li, Zhongwang Zhang, Huifeng Yin<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch/\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13305\">Hugging Face</a>",
+    "description": "Transcending human cognitive limitations represents a critical frontier in\nLLM training. Proprietary agentic systems like DeepResearch have demonstrated\nsuperhuman capabilities on extremely complex in...<br/>Upvotes: 79<br/>GitHub Stars: 14309<br/>Authors: Kuan Li, Zhongwang Zhang, Huifeng Yin<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch/\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13305\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13305",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch/",
     "published_date": "2025-09-16T13:57:03.000Z",
@@ -524,8 +524,8 @@
     ],
     "metadata": {
       "paper_id": "2509.13305",
-      "upvotes": 78,
-      "github_stars": 14183,
+      "upvotes": 79,
+      "github_stars": 14309,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch/",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -571,7 +571,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context\n  Summarization",
-    "description": "Large Language Model (LLM)-based web agents demonstrate strong performance on\nknowledge-intensive tasks but are hindered by context window limitations in\nparadigms like ReAct. Complex queries involvin...<br/>Upvotes: 67<br/>GitHub Stars: 14183<br/>Authors: Xixi Wu, Kuan Li, Yida Zhao<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch//\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13313\">Hugging Face</a>",
+    "description": "Large Language Model (LLM)-based web agents demonstrate strong performance on\nknowledge-intensive tasks but are hindered by context window limitations in\nparadigms like ReAct. Complex queries involvin...<br/>Upvotes: 68<br/>GitHub Stars: 14309<br/>Authors: Xixi Wu, Kuan Li, Yida Zhao<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch//\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13313\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13313",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch//",
     "published_date": "2025-09-16T13:57:22.000Z",
@@ -581,8 +581,8 @@
     ],
     "metadata": {
       "paper_id": "2509.13313",
-      "upvotes": 67,
-      "github_stars": 14183,
+      "upvotes": 68,
+      "github_stars": 14309,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch//",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -632,7 +632,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
-    "description": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. I...<br/>Upvotes: 49<br/>GitHub Stars: 12332<br/>Authors: Dawei Gao, Zitao Li, Yuexiang Xie<br/>🔗 <a href=\"https://github.com/agentscope-ai/agentscope\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.16279\">Hugging Face</a>",
+    "description": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. I...<br/>Upvotes: 49<br/>GitHub Stars: 12376<br/>Authors: Dawei Gao, Zitao Li, Yuexiang Xie<br/>🔗 <a href=\"https://github.com/agentscope-ai/agentscope\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2508.16279\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2508.16279",
     "external_url": "https://github.com/agentscope-ai/agentscope",
     "published_date": "2025-08-22T06:35:56.000Z",
@@ -643,7 +643,7 @@
     "metadata": {
       "paper_id": "2508.16279",
       "upvotes": 49,
-      "github_stars": 12332,
+      "github_stars": 12376,
       "github_url": "https://github.com/agentscope-ai/agentscope",
       "project_url": "",
       "authors": [
