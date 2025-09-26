@@ -63,7 +63,7 @@ def extract_html_data(soup):
         return post_items
 
     # Extract each article from the grid
-    articles = grid_container.find_all('div', class_=lambda x: x and 'py-md' in x and 'border-primary-12' in x)
+    articles = grid_container.find_all('div', class_=lambda x: x and 'py-md' in x and 'border-primary-12' in x and 'group' in x)
     
     for article in articles:
         # Extract metadata section
