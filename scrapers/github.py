@@ -122,12 +122,11 @@ def extract_trending_data(soup):
             stars_today_match = re.search(r'(\d+(?:,\d+)*)', stars_today_text)
             stars_today = int(stars_today_match.group(1).replace(',', '')) if stars_today_match else 0
 
-            # Generate unique ID
+            # Generate unique ID based on repository (stable across updates)
             id_components = [
                 "github_trending",
                 repo_name,
-                repo_url,
-                datetime.now(timezone.utc).strftime('%Y-%m-%d')  # Include date for daily trending
+                repo_url
             ]
             item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
 
