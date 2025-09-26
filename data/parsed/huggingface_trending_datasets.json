@@ -4,16 +4,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 48,859<br/>Likes: 9127",
+    "description": "Downloads: 48,859<br/>Likes: 9130",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-09-26T09:23:56.509777+00:00",
+    "published_date": "2025-09-26T21:16:41.962901+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 48859,
-      "likes": 9127,
+      "likes": 9130,
       "last_modified": "2025-01-06T00:02:53.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0d6a7277196739684279c910793daab1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/gdpval",
+    "description": "Downloads: 1,200<br/>Likes: 58",
+    "url": "https://huggingface.co/datasets/openai/gdpval",
+    "published_date": "2025-09-26T21:16:41.962922+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gdpval",
+      "downloads": 1200,
+      "likes": 58,
+      "last_modified": "2025-09-25T16:21:20.000Z",
       "all_tags": []
     }
   },
@@ -22,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Personas-Japan",
-    "description": "Downloads: 4,134<br/>Likes: 50",
+    "description": "Downloads: 4,134<br/>Likes: 54",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Japan",
-    "published_date": "2025-09-26T09:23:56.509794+00:00",
+    "published_date": "2025-09-26T21:16:41.962929+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Personas-Japan",
       "downloads": 4134,
-      "likes": 50,
+      "likes": 54,
       "last_modified": "2025-09-24T00:02:54.000Z",
       "all_tags": []
     }
@@ -42,7 +60,7 @@
     "title": "HuggingFaceFW/finepdfs",
     "description": "Downloads: 89,851<br/>Likes: 574",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2025-09-26T09:23:56.509803+00:00",
+    "published_date": "2025-09-26T21:16:41.962934+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
@@ -54,55 +72,19 @@
     }
   },
   {
-    "id": "0d6a7277196739684279c910793daab1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/gdpval",
-    "description": "Downloads: 1,200<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/openai/gdpval",
-    "published_date": "2025-09-26T09:23:56.509810+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "gdpval",
-      "downloads": 1200,
-      "likes": 46,
-      "last_modified": "2025-09-25T16:21:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "96e26d11e038b1abe3277b6289d3ac0f",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "InternRobotics/OmniWorld",
-    "description": "Downloads: 23,313<br/>Likes: 62",
-    "url": "https://huggingface.co/datasets/InternRobotics/OmniWorld",
-    "published_date": "2025-09-26T09:23:56.509816+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "InternRobotics",
-      "item_name": "OmniWorld",
-      "downloads": 23313,
-      "likes": 62,
-      "last_modified": "2025-09-26T03:59:59.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "b61bc11b4a6cc4bfad68ee17c738e1ce",
     "source": "huggingface",
     "type": "dataset",
     "title": "ScaleAI/SWE-bench_Pro",
-    "description": "Downloads: 1,591<br/>Likes: 24",
+    "description": "Downloads: 1,591<br/>Likes: 25",
     "url": "https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro",
-    "published_date": "2025-09-26T09:23:56.509822+00:00",
+    "published_date": "2025-09-26T21:16:41.962939+00:00",
     "categories": [],
     "metadata": {
       "author": "ScaleAI",
       "item_name": "SWE-bench_Pro",
       "downloads": 1591,
-      "likes": 24,
+      "likes": 25,
       "last_modified": "2025-09-25T02:25:12.000Z",
       "all_tags": []
     }
@@ -114,7 +96,7 @@
     "title": "tencent/WildSpeech-Bench",
     "description": "Downloads: 192<br/>Likes: 27",
     "url": "https://huggingface.co/datasets/tencent/WildSpeech-Bench",
-    "published_date": "2025-09-26T09:23:56.509829+00:00",
+    "published_date": "2025-09-26T21:16:41.962944+00:00",
     "categories": [],
     "metadata": {
       "author": "tencent",
@@ -126,19 +108,37 @@
     }
   },
   {
+    "id": "96e26d11e038b1abe3277b6289d3ac0f",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "InternRobotics/OmniWorld",
+    "description": "Downloads: 23,313<br/>Likes: 62",
+    "url": "https://huggingface.co/datasets/InternRobotics/OmniWorld",
+    "published_date": "2025-09-26T21:16:41.962950+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "InternRobotics",
+      "item_name": "OmniWorld",
+      "downloads": 23313,
+      "likes": 62,
+      "last_modified": "2025-09-26T03:59:59.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "de3086953d63d5b8f47a74b34494e46a",
     "source": "huggingface",
     "type": "dataset",
     "title": "meta-agents-research-environments/gaia2",
-    "description": "Downloads: 11,838<br/>Likes: 20",
+    "description": "Downloads: 11,838<br/>Likes: 22",
     "url": "https://huggingface.co/datasets/meta-agents-research-environments/gaia2",
-    "published_date": "2025-09-26T09:23:56.509835+00:00",
+    "published_date": "2025-09-26T21:16:41.962955+00:00",
     "categories": [],
     "metadata": {
       "author": "meta-agents-research-environments",
       "item_name": "gaia2",
       "downloads": 11838,
-      "likes": 20,
+      "likes": 22,
       "last_modified": "2025-09-25T09:43:02.000Z",
       "all_tags": []
     }
@@ -150,7 +150,7 @@
     "title": "HuggingFaceM4/FineVision",
     "description": "Downloads: 275,921<br/>Likes: 347",
     "url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
-    "published_date": "2025-09-26T09:23:56.509841+00:00",
+    "published_date": "2025-09-26T21:16:41.962961+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceM4",
@@ -162,56 +162,20 @@
     }
   },
   {
-    "id": "ed743df179731fc4e2c05c94ac4da738",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "LucasFang/FLUX-Reason-6M",
-    "description": "Downloads: 43,616<br/>Likes: 80",
-    "url": "https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M",
-    "published_date": "2025-09-26T09:23:56.509847+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "LucasFang",
-      "item_name": "FLUX-Reason-6M",
-      "downloads": 43616,
-      "likes": 80,
-      "last_modified": "2025-09-12T02:31:11.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "5a1ed86114f45e0cc2cedb1a50bf7e40",
     "source": "huggingface",
     "type": "dataset",
     "title": "lmms-lab/LLaVA-OneVision-1.5-Insturct-Data",
     "description": "Downloads: 27,291<br/>Likes: 25",
     "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-1.5-Insturct-Data",
-    "published_date": "2025-09-26T09:23:56.509853+00:00",
+    "published_date": "2025-09-26T21:16:41.962966+00:00",
     "categories": [],
     "metadata": {
       "author": "lmms-lab",
       "item_name": "LLaVA-OneVision-1.5-Insturct-Data",
       "downloads": 27291,
       "likes": 25,
-      "last_modified": "2025-09-26T05:40:44.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "20bd2e44c11d96ae4d406c76c840380c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "OpenGVLab/ScaleCUA-Data",
-    "description": "Downloads: 5,011<br/>Likes: 22",
-    "url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data",
-    "published_date": "2025-09-26T09:23:56.509859+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "OpenGVLab",
-      "item_name": "ScaleCUA-Data",
-      "downloads": 5011,
-      "likes": 22,
-      "last_modified": "2025-09-26T08:30:31.000Z",
+      "last_modified": "2025-09-26T14:40:03.000Z",
       "all_tags": []
     }
   },
@@ -222,14 +186,68 @@
     "title": "lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
     "description": "Downloads: 24,518<br/>Likes: 23",
     "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
-    "published_date": "2025-09-26T09:23:56.509865+00:00",
+    "published_date": "2025-09-26T21:16:41.962971+00:00",
     "categories": [],
     "metadata": {
       "author": "lmms-lab",
       "item_name": "LLaVA-One-Vision-1.5-Mid-Training-85M",
       "downloads": 24518,
       "likes": 23,
-      "last_modified": "2025-09-26T07:31:07.000Z",
+      "last_modified": "2025-09-26T13:33:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3afa2a0b056d8bdefa03c19029bfe636",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "smolagents/aguvis-stage-2",
+    "description": "Downloads: 8,781<br/>Likes: 12",
+    "url": "https://huggingface.co/datasets/smolagents/aguvis-stage-2",
+    "published_date": "2025-09-26T21:16:41.962975+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "smolagents",
+      "item_name": "aguvis-stage-2",
+      "downloads": 8781,
+      "likes": 12,
+      "last_modified": "2025-09-05T00:26:50.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "bdbc69b3de4eb267c587ff8705574b37",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "t-tech/T-ECD",
+    "description": "Downloads: 45<br/>Likes: 12",
+    "url": "https://huggingface.co/datasets/t-tech/T-ECD",
+    "published_date": "2025-09-26T21:16:41.962980+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "t-tech",
+      "item_name": "T-ECD",
+      "downloads": 45,
+      "likes": 12,
+      "last_modified": "2025-09-26T14:29:44.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "9310acaea6c658db495d193ee025c480",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "wikimedia/wikipedia",
+    "description": "Downloads: 73,057<br/>Likes: 929",
+    "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
+    "published_date": "2025-09-26T21:16:41.962985+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "wikimedia",
+      "item_name": "wikipedia",
+      "downloads": 73057,
+      "likes": 929,
+      "last_modified": "2024-01-09T09:40:51.000Z",
       "all_tags": []
     }
   },
@@ -240,7 +258,7 @@
     "title": "HuggingFaceFW/fineweb-2",
     "description": "Downloads: 70,567<br/>Likes: 655",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2",
-    "published_date": "2025-09-26T09:23:56.509870+00:00",
+    "published_date": "2025-09-26T21:16:41.962990+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
@@ -252,20 +270,20 @@
     }
   },
   {
-    "id": "3afa2a0b056d8bdefa03c19029bfe636",
+    "id": "ed743df179731fc4e2c05c94ac4da738",
     "source": "huggingface",
     "type": "dataset",
-    "title": "smolagents/aguvis-stage-2",
-    "description": "Downloads: 8,781<br/>Likes: 11",
-    "url": "https://huggingface.co/datasets/smolagents/aguvis-stage-2",
-    "published_date": "2025-09-26T09:23:56.509883+00:00",
+    "title": "LucasFang/FLUX-Reason-6M",
+    "description": "Downloads: 43,616<br/>Likes: 80",
+    "url": "https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M",
+    "published_date": "2025-09-26T21:16:41.963014+00:00",
     "categories": [],
     "metadata": {
-      "author": "smolagents",
-      "item_name": "aguvis-stage-2",
-      "downloads": 8781,
-      "likes": 11,
-      "last_modified": "2025-09-05T00:26:50.000Z",
+      "author": "LucasFang",
+      "item_name": "FLUX-Reason-6M",
+      "downloads": 43616,
+      "likes": 80,
+      "last_modified": "2025-09-12T02:31:11.000Z",
       "all_tags": []
     }
   },
@@ -276,7 +294,7 @@
     "title": "gaia-benchmark/GAIA",
     "description": "Downloads: 8,745<br/>Likes: 454",
     "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-    "published_date": "2025-09-26T09:23:56.509891+00:00",
+    "published_date": "2025-09-26T21:16:41.963020+00:00",
     "categories": [],
     "metadata": {
       "author": "gaia-benchmark",
@@ -294,7 +312,7 @@
     "title": "DSULT-Core/ShareGPT-X",
     "description": "Downloads: 79<br/>Likes: 11",
     "url": "https://huggingface.co/datasets/DSULT-Core/ShareGPT-X",
-    "published_date": "2025-09-26T09:23:56.509897+00:00",
+    "published_date": "2025-09-26T21:16:41.963026+00:00",
     "categories": [],
     "metadata": {
       "author": "DSULT-Core",
@@ -306,56 +324,38 @@
     }
   },
   {
-    "id": "9310acaea6c658db495d193ee025c480",
+    "id": "20bd2e44c11d96ae4d406c76c840380c",
     "source": "huggingface",
     "type": "dataset",
-    "title": "wikimedia/wikipedia",
-    "description": "Downloads: 73,057<br/>Likes: 928",
-    "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
-    "published_date": "2025-09-26T09:23:56.509903+00:00",
+    "title": "OpenGVLab/ScaleCUA-Data",
+    "description": "Downloads: 5,011<br/>Likes: 22",
+    "url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data",
+    "published_date": "2025-09-26T21:16:41.963031+00:00",
     "categories": [],
     "metadata": {
-      "author": "wikimedia",
-      "item_name": "wikipedia",
-      "downloads": 73057,
-      "likes": 928,
-      "last_modified": "2024-01-09T09:40:51.000Z",
+      "author": "OpenGVLab",
+      "item_name": "ScaleCUA-Data",
+      "downloads": 5011,
+      "likes": 22,
+      "last_modified": "2025-09-26T11:45:30.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
+    "id": "0a33f391af7b68376d930ed5fe7299c5",
     "source": "huggingface",
     "type": "dataset",
-    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
-    "description": "Downloads: 11,433<br/>Likes: 885",
-    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
-    "published_date": "2025-09-26T09:23:56.509910+00:00",
+    "title": "HuggingFaceFW/fineweb",
+    "description": "Downloads: 316,433<br/>Likes: 2374",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+    "published_date": "2025-09-26T21:16:41.963035+00:00",
     "categories": [],
     "metadata": {
-      "author": "FreedomIntelligence",
-      "item_name": "medical-o1-reasoning-SFT",
-      "downloads": 11433,
-      "likes": 885,
-      "last_modified": "2025-04-22T15:11:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "fea1d59bb043ebafd839d0cf4c92c7fb",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "InternRobotics/InternData-A1",
-    "description": "Downloads: 2,625<br/>Likes: 26",
-    "url": "https://huggingface.co/datasets/InternRobotics/InternData-A1",
-    "published_date": "2025-09-26T09:23:56.509916+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "InternRobotics",
-      "item_name": "InternData-A1",
-      "downloads": 2625,
-      "likes": 26,
-      "last_modified": "2025-09-19T05:35:02.000Z",
+      "author": "HuggingFaceFW",
+      "item_name": "fineweb",
+      "downloads": 316433,
+      "likes": 2374,
+      "last_modified": "2025-07-11T20:16:53.000Z",
       "all_tags": []
     }
   }
