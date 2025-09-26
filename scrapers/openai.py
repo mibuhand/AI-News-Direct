@@ -55,94 +55,186 @@ def load_html(filename):
 def extract_html_data(soup):
     base_url = 'https://openai.com'
     post_items = []
-    
-    # Find the grid container with articles
-    grid_container = soup.find('div', class_='grid')
-    if not grid_container:
-        logging.error("Grid container not found")
+
+    # Find the container with research articles - they're not in the main grid but in a different container
+    # Look for containers with multiple time elements and research links
+    containers = soup.find_all('div', class_=lambda x: x and len(x) > 2)
+    research_container = None
+
+    for container in containers:
+        links = container.find_all('a')
+        times = container.find_all('time')
+        if len(links) > 1 and len(times) > 1:  # Likely contains multiple research items
+            research_container = container
+            break
+
+    if not research_container:
+        logging.error("Research container not found")
         return post_items
 
-    # Extract each article from the grid
-    articles = grid_container.find_all('div', class_=lambda x: x and 'py-md' in x and 'border-primary-12' in x and 'group' in x)
-    
-    for article in articles:
-        # Extract metadata section
-        meta_section = article.find('div', class_='text-meta')
-        if not meta_section:
-            continue
-            
-        # Extract post type (Publication, Product, Safety, Release, etc.)
-        type_elem = meta_section.find('div')
-        post_type = type_elem.get_text(strip=True) if type_elem else ''
-        
-        # Extract date
-        time_elem = meta_section.find('time')
-        if not time_elem:
-            continue
-            
-        date_str = time_elem.get('datetime', '')
-        if not date_str:
-            date_str = time_elem.get_text(strip=True)
-            
-        # Parse date to ISO format
-        try:
-            if 'T' in date_str:
-                # Already in ISO format with time
-                published_date = datetime.fromisoformat(date_str.replace('Z', '+00:00')).replace(tzinfo=timezone.utc).isoformat()
-            else:
-                # Date only format like "Jul 22, 2025"
-                parsed_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc)
-                published_date = parsed_date.isoformat()
-        except:
-            # Fallback to current time if parsing fails
-            published_date = datetime.now(timezone.utc).isoformat()
-        
-        # Extract article link and content
-        article_link = article.find('a')
-        if not article_link:
-            continue
-            
-        url = base_url + article_link.get('href', '')
-        
-        # Extract title
-        title_elem = article_link.find('div', class_='text-h5')
-        if not title_elem:
-            continue
-            
-        title = title_elem.get_text(strip=True)
-        
-        # Extract description
-        desc_elem = article_link.find('p', class_='text-p2')
-        description = desc_elem.get_text(strip=True) if desc_elem else ''
-        
-        # Generate unique ID using high-cardinality fields
-        id_components = [
-            "openai",
-            title,
-            url,
-            published_date,
-            post_type
-        ]
-        item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
-        
-        # Create standardized article data
-        out_item = {
-            'id': item_id,
-            'source': 'openai',
-            'type': post_type.lower(),
-            'title': title,
-            'description': description,
-            'url': url,
-            'published_date': published_date,
-            'categories': [post_type] if post_type else [],
-            'organization': 'OpenAI',
-            'metadata': {
-                'post_type': post_type
-            },
-            'objects': []
-        }
-        post_items.append(out_item)
+    # Find all time elements, which indicate research articles
+    time_elements = research_container.find_all('time')
+    logging.info(f"Found {len(time_elements)} time elements in research container")
 
+    for time_elem in time_elements:
+        try:
+            # Extract date
+            date_str = time_elem.get('datetime', '')
+            if not date_str:
+                date_str = time_elem.get_text(strip=True)
+
+            # Parse date to ISO format
+            try:
+                if 'T' in date_str:
+                    # Already in ISO format with time
+                    published_date = datetime.fromisoformat(date_str.replace('Z', '+00:00')).replace(tzinfo=timezone.utc).isoformat()
+                else:
+                    # Date only format like "Jul 22, 2025"
+                    parsed_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc)
+                    published_date = parsed_date.isoformat()
+            except:
+                # Fallback to current time if parsing fails
+                published_date = datetime.now(timezone.utc).isoformat()
+
+            # Find the parent container that holds the complete article info
+            parent = time_elem.parent
+            article_container = None
+            level = 0
+
+            while parent and level < 10:
+                # Look for a container that has both a link and the time element
+                link = parent.find('a')
+                if link and (link.get('href', '').startswith('/research/') or link.get('href', '').startswith('/index/')):
+                    article_container = parent
+                    break
+                parent = parent.parent
+                level += 1
+
+            if not article_container:
+                logging.warning(f"Could not find article container for time element: {date_str}")
+                continue
+
+            # Extract the article link
+            article_link = article_container.find('a')
+            if not article_link:
+                continue
+
+            url = base_url + article_link.get('href', '')
+
+            # Extract title and description from the link content
+            full_text = article_link.get_text(strip=True)
+
+            # Split the text into potential title and description
+            # Look for different text segments within the link
+            text_divs = article_link.find_all('div')
+            text_segments = []
+
+            for div in text_divs:
+                div_text = div.get_text(strip=True)
+                if div_text and len(div_text) > 5 and div_text.lower() not in ['publication', 'research', 'safety', 'product', 'release']:
+                    text_segments.append(div_text)
+
+            # Clean up and separate title from description
+            title = ""
+            description = ""
+
+            if text_segments:
+                # Find the shortest text that's likely the title (usually comes first and is shorter)
+                title_candidates = [seg for seg in text_segments if len(seg) < 100]
+                desc_candidates = [seg for seg in text_segments if len(seg) >= 100]
+
+                if title_candidates:
+                    title = title_candidates[0]  # Take the first short segment as title
+
+                    # For description, try to find a longer segment that's different from title
+                    if desc_candidates:
+                        for desc in desc_candidates:
+                            if not desc.startswith(title):  # Different from title
+                                description = desc
+                                break
+
+                    # If no good description found, try extracting from full text
+                    if not description and full_text and len(full_text) > len(title) + 10:
+                        remaining_text = full_text
+                        if remaining_text.startswith(title):
+                            remaining_text = remaining_text[len(title):].strip()
+
+                        # Take a reasonable portion as description
+                        if len(remaining_text) > 20:
+                            description = remaining_text[:300]  # Limit description length
+
+                else:
+                    # Fallback: use the full text but try to split it
+                    if full_text:
+                        # Try to find a reasonable break point
+                        words = full_text.split()
+                        if len(words) > 10:
+                            # Take first part as title, rest as description
+                            title_words = words[:8]  # First 8 words for title
+                            title = ' '.join(title_words)
+                            description = ' '.join(words[8:])
+                        else:
+                            title = full_text
+
+            # Fallback if no title found
+            if not title and full_text:
+                title = full_text[:80]  # Take first 80 chars as title
+
+            if not title:
+                logging.warning(f"Could not extract title for URL: {url}")
+                continue
+
+            # Clean up description
+            if description and description == title:
+                description = ""  # Avoid duplicate title/description
+
+            # Extract post type from sibling elements near the time
+            post_type = ""
+            if time_elem.parent:
+                siblings = time_elem.parent.find_all(['div'], recursive=False)
+                for sib in siblings:
+                    sib_text = sib.get_text(strip=True).lower()
+                    if sib_text in ['publication', 'research', 'safety', 'product', 'release', 'blog']:
+                        post_type = sib_text.title()
+                        break
+
+            if not post_type:
+                post_type = "Research"  # Default type
+
+            # Generate unique ID using high-cardinality fields
+            id_components = [
+                "openai",
+                title,
+                url,
+                published_date,
+                post_type
+            ]
+            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+
+            # Create standardized article data
+            out_item = {
+                'id': item_id,
+                'source': 'openai',
+                'type': post_type.lower(),
+                'title': title,
+                'description': description,
+                'url': url,
+                'published_date': published_date,
+                'categories': [post_type] if post_type else [],
+                'organization': 'OpenAI',
+                'metadata': {
+                    'post_type': post_type
+                },
+                'objects': []
+            }
+            post_items.append(out_item)
+            logging.info(f"Extracted: {title[:50]}...")
+
+        except Exception as e:
+            logging.error(f"Error processing time element: {e}")
+            continue
+
+    logging.info(f"Successfully extracted {len(post_items)} items")
     return post_items
 
 
