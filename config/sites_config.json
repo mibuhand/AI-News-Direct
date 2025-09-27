@@ -90,5 +90,18 @@
             "trending?since=weekly": "github_trends_weekly.html",
             "trending?since=monthly": "github_trends_monthly.html"
         }
+    },
+
+    {
+        "site": "https://api-docs.deepseek.com/zh-cn",
+        "organization_key": "deepseek",
+        "favicon_url": "https://api-docs.deepseek.com/favicon.ico",
+        "pages": [""],
+        "output_files": {
+            "main": "deepseek_news.json"
+        },
+        "cache_files": {
+            "main": "deepseek_news.html"
+        }
     }
 ]
