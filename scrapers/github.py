@@ -6,6 +6,8 @@ import logging
 from datetime import datetime, timezone
 import hashlib
 import re
+from curl_cffi import requests
+import xml.etree.ElementTree as ET
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -33,6 +35,71 @@ def load_config():
             }
 
     raise ValueError("GitHub configuration not found in sites_config.json")
+
+def fetch_latest_release_date(repo_path):
+    """Fetch the latest release date from GitHub releases atom feed"""
+    try:
+        releases_url = f"https://github.com/{repo_path}/releases.atom"
+        response = requests.get(releases_url, timeout=10)
+        response.raise_for_status()
+
+        # Parse the atom feed
+        root = ET.fromstring(response.content)
+
+        # Find the first entry (latest release)
+        namespace = {'atom': 'http://www.w3.org/2005/Atom'}
+        entries = root.findall('atom:entry', namespace)
+
+        if entries:
+            # Get the updated date of the first entry
+            updated_elem = entries[0].find('atom:updated', namespace)
+            if updated_elem is not None:
+                return updated_elem.text
+
+    except Exception as e:
+        logging.debug(f"Failed to fetch release date for {repo_path}: {e}")
+
+    return None
+
+def fetch_latest_commit_date(repo_path):
+    """Fetch the latest commit date from GitHub commits atom feed"""
+    try:
+        commits_url = f"https://github.com/{repo_path}/commits.atom"
+        response = requests.get(commits_url, timeout=10)
+        response.raise_for_status()
+
+        # Parse the atom feed
+        root = ET.fromstring(response.content)
+
+        # Find the first entry (latest commit)
+        namespace = {'atom': 'http://www.w3.org/2005/Atom'}
+        entries = root.findall('atom:entry', namespace)
+
+        if entries:
+            # Get the updated date of the first entry
+            updated_elem = entries[0].find('atom:updated', namespace)
+            if updated_elem is not None:
+                return updated_elem.text
+
+    except Exception as e:
+        logging.debug(f"Failed to fetch commit date for {repo_path}: {e}")
+
+    return None
+
+def get_repo_date(repo_path):
+    """Get the latest release date, fallback to latest commit date"""
+    # Try to get latest release date first
+    release_date = fetch_latest_release_date(repo_path)
+    if release_date:
+        return release_date
+
+    # Fallback to latest commit date
+    commit_date = fetch_latest_commit_date(repo_path)
+    if commit_date:
+        return commit_date
+
+    # Final fallback to current time
+    return datetime.now(timezone.utc).isoformat()
 
 def load_html(filename):
     file_path = html_dir / filename
@@ -134,6 +201,9 @@ def extract_trending_data(soup, timeframe='monthly'):
             # Generate unique ID based on repository path (stable across updates)
             item_id = hashlib.md5(f"github_trending_{repo_path}".encode()).hexdigest()
 
+            # Get the latest release or commit date for this repository
+            repo_date = get_repo_date(repo_path)
+
             repository = {
                 'id': item_id,
                 'source': 'github',
@@ -141,7 +211,7 @@ def extract_trending_data(soup, timeframe='monthly'):
                 'title': formatted_title,
                 'description': description,
                 'url': repo_url,
-                'published_date': datetime.now(timezone.utc).isoformat(),
+                'published_date': repo_date,
                 'categories': [language] if language else [],
                 'metadata': {
                     'stars': stars_count,
