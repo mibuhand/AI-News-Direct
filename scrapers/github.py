@@ -51,7 +51,7 @@ def load_html(filename):
     soup = BeautifulSoup(html_content, 'html.parser')
     return soup
 
-def extract_trending_data(soup):
+def extract_trending_data(soup, timeframe='monthly'):
     """Extract trending repositories from GitHub trending page"""
     repositories = []
     base_url = 'https://github.com'
@@ -72,6 +72,9 @@ def extract_trending_data(soup):
 
             repo_name = repo_link.get_text(strip=True)
             repo_url = base_url + repo_link.get('href', '')
+
+            # Extract org/repo path for deduplication
+            repo_path = repo_link.get('href', '').strip('/')
 
             # Extract description
             description_element = article.find('p', class_='col-9 color-fg-muted my-1 pr-4')
@@ -122,13 +125,8 @@ def extract_trending_data(soup):
             stars_today_match = re.search(r'(\d+(?:,\d+)*)', stars_today_text)
             stars_today = int(stars_today_match.group(1).replace(',', '')) if stars_today_match else 0
 
-            # Generate unique ID based on repository (stable across updates)
-            id_components = [
-                "github_trending",
-                repo_name,
-                repo_url
-            ]
-            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+            # Generate unique ID based on repository path (stable across updates)
+            item_id = hashlib.md5(f"github_trending_{repo_path}".encode()).hexdigest()
 
             repository = {
                 'id': item_id,
@@ -143,7 +141,9 @@ def extract_trending_data(soup):
                     'stars': stars_count,
                     'forks': forks_count,
                     'stars_today': stars_today,
-                    'language': language
+                    'language': language,
+                    'timeframe': timeframe,
+                    'repo_path': repo_path
                 }
             }
 
@@ -154,6 +154,20 @@ def extract_trending_data(soup):
             continue
 
     return repositories
+
+def deduplicate_repositories(all_repositories):
+    """Deduplicate repositories by repo_path, keeping the one with highest stars_today"""
+    repo_dict = {}
+
+    for repo in all_repositories:
+        repo_path = repo['metadata']['repo_path']
+
+        # If this repo path hasn't been seen or has higher stars_today, keep it
+        if (repo_path not in repo_dict or
+            repo['metadata']['stars_today'] > repo_dict[repo_path]['metadata']['stars_today']):
+            repo_dict[repo_path] = repo
+
+    return list(repo_dict.values())
 
 def save_to_json(repositories, output_filename):
     """Save repositories to JSON file"""
@@ -171,18 +185,43 @@ if __name__ == "__main__":
     cache_files = config['cache_files']
     output_files = config['output_files']
 
-    # Process trending repositories
-    trending_cache = cache_files.get('trending?since=monthly', 'github_trending.html')
-    trending_output = output_files.get('trending?since=monthly', 'github_trending.json')
+    all_repositories = []
+    timeframes = ['daily', 'weekly', 'monthly']
 
-    file_path = html_dir / trending_cache
-    if file_path.exists():
-        logging.info(f"Processing GitHub trending file: {trending_cache}")
-        soup = load_html(trending_cache)
-        if soup:
-            repositories = extract_trending_data(soup)
-            save_to_json(repositories, trending_output)
+    # Process each timeframe
+    for timeframe in timeframes:
+        cache_key = f'trending?since={timeframe}'
+        cache_filename = cache_files.get(cache_key)
+        individual_output = output_files.get(cache_key)
+
+        if not cache_filename:
+            logging.warning(f"No cache file configured for {cache_key}")
+            continue
+
+        file_path = html_dir / cache_filename
+        if file_path.exists():
+            logging.info(f"Processing GitHub trending file: {cache_filename}")
+            soup = load_html(cache_filename)
+            if soup:
+                repositories = extract_trending_data(soup, timeframe)
+                all_repositories.extend(repositories)
+
+                # Save individual timeframe file
+                if individual_output:
+                    save_to_json(repositories, individual_output)
+            else:
+                logging.error(f"Failed to load HTML content for {cache_filename}")
         else:
-            logging.error("Failed to load HTML content")
+            logging.warning(f"Cache file not found: {cache_filename}")
+
+    # Deduplicate and save combined results
+    if all_repositories:
+        logging.info(f"Found {len(all_repositories)} total repositories before deduplication")
+        deduplicated_repositories = deduplicate_repositories(all_repositories)
+        logging.info(f"After deduplication: {len(deduplicated_repositories)} repositories")
+
+        # Save combined deduplicated results
+        combined_output = output_files.get('trending_combined', 'github_trending.json')
+        save_to_json(deduplicated_repositories, combined_output)
     else:
-        logging.error(f"Required cache file not found: {trending_cache}")
+        logging.error("No repositories found to process")

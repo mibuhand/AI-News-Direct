@@ -78,12 +78,17 @@
         "site": "https://github.com",
         "organization_key": "github",
         "favicon_url": "https://github.com/favicon.ico",
-        "pages": ["trending?since=monthly"],
+        "pages": ["trending?since=daily", "trending?since=weekly", "trending?since=monthly"],
         "output_files": {
-            "trending?since=monthly": "github_trending.json"
+            "trending?since=daily": "github_trending_daily.json",
+            "trending?since=weekly": "github_trending_weekly.json",
+            "trending?since=monthly": "github_trending_monthly.json",
+            "trending_combined": "github_trending.json"
         },
         "cache_files": {
-            "trending?since=monthly": "github_trending.html"
+            "trending?since=daily": "github_trending_daily.html",
+            "trending?since=weekly": "github_trending_weekly.html",
+            "trending?since=monthly": "github_trending_monthly.html"
         }
     }
 ]
