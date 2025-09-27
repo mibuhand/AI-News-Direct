@@ -76,6 +76,12 @@ def extract_trending_data(soup, timeframe='monthly'):
             # Extract org/repo path for deduplication
             repo_path = repo_link.get('href', '').strip('/')
 
+            # Format title with proper spacing around forward slash
+            if '/' in repo_path:
+                formatted_title = repo_path.replace('/', ' / ')
+            else:
+                formatted_title = repo_name
+
             # Extract description
             description_element = article.find('p', class_='col-9 color-fg-muted my-1 pr-4')
             description = description_element.get_text(strip=True) if description_element else ''
@@ -132,7 +138,7 @@ def extract_trending_data(soup, timeframe='monthly'):
                 'id': item_id,
                 'source': 'github',
                 'type': 'trending_repository',
-                'title': repo_name,
+                'title': formatted_title,
                 'description': description,
                 'url': repo_url,
                 'published_date': datetime.now(timezone.utc).isoformat(),
