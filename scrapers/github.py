@@ -227,7 +227,7 @@ if __name__ == "__main__":
         logging.info(f"After deduplication: {len(deduplicated_repositories)} repositories")
 
         # Save combined deduplicated results
-        combined_output = output_files.get('trending_combined', 'github_trending.json')
+        combined_output = output_files.get('trending_combined', 'github_trends.json')
         save_to_json(deduplicated_repositories, combined_output)
     else:
         logging.error("No repositories found to process")

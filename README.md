@@ -62,7 +62,7 @@ Ready-to-use XML feeds for RSS readers:
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
-| [Github Trending](https://github.com/trending) | N/A | [github_trending.xml (daily+weekly+monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trending.xml)<br>[github_trending.xml (daily)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trending_daily.xml)<br>[github_trending.xml (weekly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trending_weekly.xml)<br>[github_trending.xml (monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trending_monthly.xml)<br> |
+| [Github Trending](https://github.com/trending) | N/A | [github_trends.xml (daily+weekly+monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends.xml)<br>[github_trends_daily.xml (daily)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_daily.xml)<br>[github_trends_weekly.xml (weekly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_weekly.xml)<br>[github_trends_monthly.xml (monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_monthly.xml)<br> |
 | [HuggingFace Blog](https://huggingface.co/blog) | [Huggingface Blog feed](https://huggingface.co/blog/feed.xml) | N/A |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog feed](https://ollama.com/blog/rss.xml) | N/A |
 | [Unsloth Blog](https://unsloth.ai/blog) | N/A | To-Do |
