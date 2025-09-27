@@ -45,21 +45,6 @@
         "objects": []
     },
     {
-        "id": "74d1e88f64344766fc98a80132102a31",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude is now generally available in Xcode",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-in-xcode",
-        "published_date": "2025-09-15T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "cd306988f9d972f1967e20f08fc6a13b",
         "source": "anthropic",
         "type": "news",
@@ -69,6 +54,21 @@
         "published_date": "2025-09-15T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "74d1e88f64344766fc98a80132102a31",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Claude is now generally available in Xcode",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-in-xcode",
+        "published_date": "2025-09-15T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -195,21 +195,6 @@
         "objects": []
     },
     {
-        "id": "0cccd978d79bae93fceb92cb6b4ffe12",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
-        "description": "",
-        "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
-        "published_date": "2025-08-27T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "4147e8d651ee8bafa84518cacebc3843",
         "source": "anthropic",
         "type": "news",
@@ -219,6 +204,21 @@
         "published_date": "2025-08-27T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "0cccd978d79bae93fceb92cb6b4ffe12",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
+        "description": "",
+        "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+        "published_date": "2025-08-27T00:00:00+00:00",
+        "categories": [
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -255,12 +255,12 @@
         "objects": []
     },
     {
-        "id": "157636585619b763774c911fb60cbe09",
+        "id": "627b8832cd36f93799bd8f9558c2120d",
         "source": "anthropic",
         "type": "news",
-        "title": "Developing nuclear safeguards for AI through public-private partnership",
+        "title": "Anthropic launches higher education advisory board and AI Fluency courses",
         "description": "",
-        "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+        "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
         "published_date": "2025-08-21T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -270,12 +270,12 @@
         "objects": []
     },
     {
-        "id": "627b8832cd36f93799bd8f9558c2120d",
+        "id": "157636585619b763774c911fb60cbe09",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic launches higher education advisory board and AI Fluency courses",
+        "title": "Developing nuclear safeguards for AI through public-private partnership",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+        "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
         "published_date": "2025-08-21T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -315,15 +315,15 @@
         "objects": []
     },
     {
-        "id": "857a1a48237ba00f74b59b1b26a184f8",
+        "id": "1c00d6b40b0edab4503537237b0101d4",
         "source": "anthropic",
         "type": "news",
-        "title": "Offering expanded Claude access across all three branches of the U.S. government",
+        "title": "Claude Sonnet 4 now supports 1M tokens of context",
         "description": "",
-        "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+        "url": "https://www.anthropic.com/news/1m-context",
         "published_date": "2025-08-12T00:00:00+00:00",
         "categories": [
-            "Announcements"
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -345,15 +345,15 @@
         "objects": []
     },
     {
-        "id": "1c00d6b40b0edab4503537237b0101d4",
+        "id": "857a1a48237ba00f74b59b1b26a184f8",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude Sonnet 4 now supports 1M tokens of context",
+        "title": "Offering expanded Claude access across all three branches of the U.S. government",
         "description": "",
-        "url": "https://www.anthropic.com/news/1m-context",
+        "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
         "published_date": "2025-08-12T00:00:00+00:00",
         "categories": [
-            "Product"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -495,21 +495,6 @@
         "objects": []
     },
     {
-        "id": "b18189646d8a7b3e7a095b35e624858f",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Build AI in America",
-        "description": "",
-        "url": "https://www.anthropic.com/news/build-ai-in-america",
-        "published_date": "2025-07-21T00:00:00+00:00",
-        "categories": [
-            "Policy"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "9c6814aa5ad8771a4b782ad661a59959",
         "source": "anthropic",
         "type": "news",
@@ -525,15 +510,15 @@
         "objects": []
     },
     {
-        "id": "d27559ca3bb6fb1f37690046032b202a",
+        "id": "b18189646d8a7b3e7a095b35e624858f",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude for Financial Services",
+        "title": "Build AI in America",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-for-financial-services",
-        "published_date": "2025-07-15T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/build-ai-in-america",
+        "published_date": "2025-07-21T00:00:00+00:00",
         "categories": [
-            "Product"
+            "Policy"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -570,15 +555,15 @@
         "objects": []
     },
     {
-        "id": "46629fce1176873c699e6a4df1553787",
+        "id": "d27559ca3bb6fb1f37690046032b202a",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
+        "title": "Claude for Financial Services",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
-        "published_date": "2025-07-14T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/claude-for-financial-services",
+        "published_date": "2025-07-15T00:00:00+00:00",
         "categories": [
-            "Announcements"
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -600,15 +585,15 @@
         "objects": []
     },
     {
-        "id": "80f41491d97072f0656f5f5e57fdf934",
+        "id": "46629fce1176873c699e6a4df1553787",
         "source": "anthropic",
         "type": "news",
-        "title": "Advancing Claude for Education",
+        "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
         "description": "",
-        "url": "https://www.anthropic.com/news/advancing-claude-for-education",
-        "published_date": "2025-07-09T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
+        "published_date": "2025-07-14T00:00:00+00:00",
         "categories": [
-            "Product"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -624,6 +609,21 @@
         "published_date": "2025-07-09T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "80f41491d97072f0656f5f5e57fdf934",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Advancing Claude for Education",
+        "description": "",
+        "url": "https://www.anthropic.com/news/advancing-claude-for-education",
+        "published_date": "2025-07-09T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -673,12 +673,12 @@
         "objects": []
     },
     {
-        "id": "d6d70059f8b2b87e2c1dc9834578610c",
+        "id": "3013cc3fa43c8c8aaa86733166545dcd",
         "source": "anthropic",
         "type": "news",
-        "title": "Turn ideas into interactive AI-powered apps",
+        "title": "Build and share AI-powered apps with Claude",
         "description": "",
-        "url": "https://www.anthropic.com/news/build-artifacts",
+        "url": "https://www.anthropic.com/news/claude-powered-artifacts",
         "published_date": "2025-06-25T00:00:00+00:00",
         "categories": [
             "Product"
@@ -688,12 +688,12 @@
         "objects": []
     },
     {
-        "id": "3013cc3fa43c8c8aaa86733166545dcd",
+        "id": "d6d70059f8b2b87e2c1dc9834578610c",
         "source": "anthropic",
         "type": "news",
-        "title": "Build and share AI-powered apps with Claude",
+        "title": "Turn ideas into interactive AI-powered apps",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-powered-artifacts",
+        "url": "https://www.anthropic.com/news/build-artifacts",
         "published_date": "2025-06-25T00:00:00+00:00",
         "categories": [
             "Product"
@@ -778,21 +778,6 @@
         "objects": []
     },
     {
-        "id": "b747b724e39517b42f9dd828a948d792",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Activating AI Safety Level 3 protections",
-        "description": "",
-        "url": "https://www.anthropic.com/news/activating-asl3-protections",
-        "published_date": "2025-05-22T00:00:00+00:00",
-        "categories": [
-            "Policy"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "e7782d14f332ca4ab3aa213a97facd93",
         "source": "anthropic",
         "type": "news",
@@ -802,6 +787,21 @@
         "published_date": "2025-05-22T00:00:00+00:00",
         "categories": [
             "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "b747b724e39517b42f9dd828a948d792",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Activating AI Safety Level 3 protections",
+        "description": "",
+        "url": "https://www.anthropic.com/news/activating-asl3-protections",
+        "published_date": "2025-05-22T00:00:00+00:00",
+        "categories": [
+            "Policy"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1033,21 +1033,6 @@
         "objects": []
     },
     {
-        "id": "10e3f0680f2d2ca55d50949f624d1150",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
-        "published_date": "2025-04-02T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "3b388f912a5677afc8d667ec79a92e03",
         "source": "anthropic",
         "type": "news",
@@ -1063,15 +1048,15 @@
         "objects": []
     },
     {
-        "id": "0eb3f2c4196d50a4b23dce9e1e93ec8a",
+        "id": "10e3f0680f2d2ca55d50949f624d1150",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+        "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
-        "published_date": "2025-03-27T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+        "published_date": "2025-04-02T00:00:00+00:00",
         "categories": [
-            "Announcements"
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1093,6 +1078,21 @@
         "objects": []
     },
     {
+        "id": "0eb3f2c4196d50a4b23dce9e1e93ec8a",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+        "description": "",
+        "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+        "published_date": "2025-03-27T00:00:00+00:00",
+        "categories": [
+            "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "4ec33f8a62f797328904d8403f6cf479",
         "source": "anthropic",
         "type": "news",
@@ -1102,21 +1102,6 @@
         "published_date": "2025-03-20T00:00:00+00:00",
         "categories": [
             "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "86c9c2391c594ccb82eacf94ac529b12",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Anthropic\u2019s response to Governor Newsom\u2019s AI working group draft report",
-        "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
-        "published_date": "2025-03-19T00:00:00+00:00",
-        "categories": [
-            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1138,6 +1123,21 @@
         "objects": []
     },
     {
+        "id": "86c9c2391c594ccb82eacf94ac529b12",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Anthropic\u2019s response to Governor Newsom\u2019s AI working group draft report",
+        "description": "",
+        "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+        "published_date": "2025-03-19T00:00:00+00:00",
+        "categories": [
+            "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "565b205094cfcc18e8f2a3e8620b9cd5",
         "source": "anthropic",
         "type": "news",
@@ -1145,21 +1145,6 @@
         "description": "",
         "url": "https://www.anthropic.com/news/token-saving-updates",
         "published_date": "2025-03-13T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "99dffbce04da586611d5872546e5ad2d",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Get to production faster with the upgraded Anthropic Console",
-        "description": "",
-        "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
-        "published_date": "2025-03-06T00:00:00+00:00",
         "categories": [
             "Product"
         ],
@@ -1177,6 +1162,21 @@
         "published_date": "2025-03-06T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "99dffbce04da586611d5872546e5ad2d",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Get to production faster with the upgraded Anthropic Console",
+        "description": "",
+        "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
+        "published_date": "2025-03-06T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1529,6 +1529,21 @@
         "objects": []
     },
     {
+        "id": "d62944dfa66b29ed5db2a62386f5741c",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+        "description": "",
+        "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+        "published_date": "2024-10-22T00:00:00+00:00",
+        "categories": [
+            "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "2f319d2cd818f437152544e53c96a248",
         "source": "anthropic",
         "type": "news",
@@ -1539,21 +1554,6 @@
         "categories": [
             "Announcements",
             "\u00b7Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "d62944dfa66b29ed5db2a62386f5741c",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-        "description": "",
-        "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
-        "published_date": "2024-10-22T00:00:00+00:00",
-        "categories": [
-            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1575,21 +1575,6 @@
         "objects": []
     },
     {
-        "id": "b886d525e141aab2eaa611c30560a60b",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing the Message Batches API",
-        "description": "",
-        "url": "https://www.anthropic.com/news/message-batches-api",
-        "published_date": "2024-10-08T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "df2c692bf1bca1f672377bb1865e77a6",
         "source": "anthropic",
         "type": "news",
@@ -1599,6 +1584,21 @@
         "published_date": "2024-10-08T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "b886d525e141aab2eaa611c30560a60b",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing the Message Batches API",
+        "description": "",
+        "url": "https://www.anthropic.com/news/message-batches-api",
+        "published_date": "2024-10-08T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1952,21 +1952,6 @@
         "objects": []
     },
     {
-        "id": "4142f3015428dc984b5deb11f5e7441c",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
-        "description": "",
-        "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
-        "published_date": "2024-05-21T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "19b23d2b3b811de532002f91bdc8c4bd",
         "source": "anthropic",
         "type": "news",
@@ -1976,6 +1961,21 @@
         "published_date": "2024-05-21T00:00:00+00:00",
         "categories": [
             "Interpretability"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "4142f3015428dc984b5deb11f5e7441c",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
+        "description": "",
+        "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+        "published_date": "2024-05-21T00:00:00+00:00",
+        "categories": [
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -2328,12 +2328,12 @@
         "objects": []
     },
     {
-        "id": "ee3abdb74b51889f2d21db5406f5a863",
+        "id": "f41d4233ea14521a61911cce7c0ae118",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic's Responsible Scaling Policy",
+        "title": "The Long-Term Benefit Trust",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -2343,12 +2343,12 @@
         "objects": []
     },
     {
-        "id": "f41d4233ea14521a61911cce7c0ae118",
+        "id": "ee3abdb74b51889f2d21db5406f5a863",
         "source": "anthropic",
         "type": "news",
-        "title": "The Long-Term Benefit Trust",
+        "title": "Anthropic's Responsible Scaling Policy",
         "description": "",
-        "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+        "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
         "published_date": "2023-09-19T00:00:00+00:00",
         "categories": [
             "Announcements"
