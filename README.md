@@ -30,12 +30,10 @@ Ready-to-use XML feeds for RSS readers:
 | [Microsoft AI Blog](https://www.microsoft.com/en-us/ai/blog/) | [Microsoft AI Blog feed](https://www.microsoft.com/en-us/ai/blog/feed/) | N/A |
 | [NVIDIA Blog](https://blogs.nvidia.com/) | [NVIDIA Blog feed](https://blogs.nvidia.com/feed/) | N/A |
 | [Apple ML Blog](https://machinelearning.apple.com/) | [Apple ML Blog feed](https://machinelearning.apple.com/rss.xml) | N/A |
-| [DeepSeek News](https://api-docs.deepseek.com/) | N/A | To-Do |
-| [深度求索 新闻](https://api-docs.deepseek.com/zh-cn/) | N/A | To-Do |
+| [DeepSeek 深度求索 News](https://api-docs.deepseek.com/) | N/A | [deepseek_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/deepseek_news.xml) |
 | [Qwen Blog](https://qwenlm.github.io/blog/) | [Qwen Blog feed](https://qwenlm.github.io/blog/index.xml) | N/A |
 | [通义千问 中文博客](https://qwenlm.github.io/zh/blog/) | [Qwen Blog ZH feed](https://qwenlm.github.io/zh/blog/index.xml) | N/A |
 | [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [bytedance_seed_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
-| [字节跳动 Seed 中文博客](https://seed.bytedance.com/zh/blog) | N/A | [bytedance_seed_blog_zh.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog_zh.xml) |
 | [ByteDance Seed Research](https://seed.bytedance.com/research) | N/A | [bytedance_seed_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml) |
 | [Tencent Hunyuan 腾讯混元 新闻](https://hunyuan.tencent.com/news/home) | N/A | To-Do |
 | [MiniMax News](https://www.minimax.io/) | N/A | To-Do |
