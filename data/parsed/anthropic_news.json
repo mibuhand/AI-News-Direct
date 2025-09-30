@@ -1,20 +1,5 @@
 [
     {
-        "id": "5fd7f4668399fbf8633d9be112d5d0ec",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Enabling Claude Code to work more autonomously",
-        "description": "",
-        "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
-        "published_date": "2025-09-29T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "271193d186835988b1cf7aaec6a8f14a",
         "source": "anthropic",
         "type": "news",
@@ -36,6 +21,21 @@
         "title": "Managing context on the Claude Developer Platform",
         "description": "",
         "url": "https://www.anthropic.com/news/context-management",
+        "published_date": "2025-09-29T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "5fd7f4668399fbf8633d9be112d5d0ec",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Enabling Claude Code to work more autonomously",
+        "description": "",
+        "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
         "published_date": "2025-09-29T00:00:00+00:00",
         "categories": [
             "Product"
@@ -75,15 +75,15 @@
         "objects": []
     },
     {
-        "id": "cd306988f9d972f1967e20f08fc6a13b",
+        "id": "74d1e88f64344766fc98a80132102a31",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
+        "title": "Claude is now generally available in Xcode",
         "description": "",
-        "url": "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report",
+        "url": "https://www.anthropic.com/news/claude-in-xcode",
         "published_date": "2025-09-15T00:00:00+00:00",
         "categories": [
-            "Societal Impacts"
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -105,15 +105,15 @@
         "objects": []
     },
     {
-        "id": "74d1e88f64344766fc98a80132102a31",
+        "id": "cd306988f9d972f1967e20f08fc6a13b",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude is now generally available in Xcode",
+        "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-in-xcode",
+        "url": "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report",
         "published_date": "2025-09-15T00:00:00+00:00",
         "categories": [
-            "Product"
+            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -240,21 +240,6 @@
         "objects": []
     },
     {
-        "id": "e745c20841437cec718134ace7a22424",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Detecting and countering misuse of AI: August 2025",
-        "description": "",
-        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
-        "published_date": "2025-08-27T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "4147e8d651ee8bafa84518cacebc3843",
         "source": "anthropic",
         "type": "news",
@@ -264,6 +249,21 @@
         "published_date": "2025-08-27T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "e745c20841437cec718134ace7a22424",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Detecting and countering misuse of AI: August 2025",
+        "description": "",
+        "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+        "published_date": "2025-08-27T00:00:00+00:00",
+        "categories": [
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -405,21 +405,6 @@
         "objects": []
     },
     {
-        "id": "5a799f89fd5c681eb8a41bba7e5d750d",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Automate security reviews with Claude Code",
-        "description": "",
-        "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
-        "published_date": "2025-08-06T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "0c2d132fa99b4a82ab6523cc84cc0682",
         "source": "anthropic",
         "type": "news",
@@ -435,13 +420,13 @@
         "objects": []
     },
     {
-        "id": "313fcfbb000e39da32cc1e8494635d21",
+        "id": "5a799f89fd5c681eb8a41bba7e5d750d",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude Opus 4.1",
+        "title": "Automate security reviews with Claude Code",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-opus-4-1",
-        "published_date": "2025-08-05T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
+        "published_date": "2025-08-06T00:00:00+00:00",
         "categories": [
             "Announcements"
         ],
@@ -456,6 +441,21 @@
         "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
         "description": "",
         "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+        "published_date": "2025-08-05T00:00:00+00:00",
+        "categories": [
+            "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "313fcfbb000e39da32cc1e8494635d21",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Claude Opus 4.1",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-opus-4-1",
         "published_date": "2025-08-05T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -585,21 +585,6 @@
         "objects": []
     },
     {
-        "id": "d27559ca3bb6fb1f37690046032b202a",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Claude for Financial Services",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-for-financial-services",
-        "published_date": "2025-07-15T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "1b45ea94e5700f9400ad5a5be853ee1d",
         "source": "anthropic",
         "type": "news",
@@ -615,13 +600,13 @@
         "objects": []
     },
     {
-        "id": "15d61bda9d3e2a5ba4eb9f51dab0b5be",
+        "id": "d27559ca3bb6fb1f37690046032b202a",
         "source": "anthropic",
         "type": "news",
-        "title": "Discover tools that work with Claude",
+        "title": "Claude for Financial Services",
         "description": "",
-        "url": "https://www.anthropic.com/news/connectors-directory",
-        "published_date": "2025-07-14T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/claude-for-financial-services",
+        "published_date": "2025-07-15T00:00:00+00:00",
         "categories": [
             "Product"
         ],
@@ -645,13 +630,13 @@
         "objects": []
     },
     {
-        "id": "80f41491d97072f0656f5f5e57fdf934",
+        "id": "15d61bda9d3e2a5ba4eb9f51dab0b5be",
         "source": "anthropic",
         "type": "news",
-        "title": "Advancing Claude for Education",
+        "title": "Discover tools that work with Claude",
         "description": "",
-        "url": "https://www.anthropic.com/news/advancing-claude-for-education",
-        "published_date": "2025-07-09T00:00:00+00:00",
+        "url": "https://www.anthropic.com/news/connectors-directory",
+        "published_date": "2025-07-14T00:00:00+00:00",
         "categories": [
             "Product"
         ],
@@ -669,6 +654,21 @@
         "published_date": "2025-07-09T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "80f41491d97072f0656f5f5e57fdf934",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Advancing Claude for Education",
+        "description": "",
+        "url": "https://www.anthropic.com/news/advancing-claude-for-education",
+        "published_date": "2025-07-09T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -718,12 +718,12 @@
         "objects": []
     },
     {
-        "id": "3013cc3fa43c8c8aaa86733166545dcd",
+        "id": "d6d70059f8b2b87e2c1dc9834578610c",
         "source": "anthropic",
         "type": "news",
-        "title": "Build and share AI-powered apps with Claude",
+        "title": "Turn ideas into interactive AI-powered apps",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-powered-artifacts",
+        "url": "https://www.anthropic.com/news/build-artifacts",
         "published_date": "2025-06-25T00:00:00+00:00",
         "categories": [
             "Product"
@@ -733,12 +733,12 @@
         "objects": []
     },
     {
-        "id": "d6d70059f8b2b87e2c1dc9834578610c",
+        "id": "3013cc3fa43c8c8aaa86733166545dcd",
         "source": "anthropic",
         "type": "news",
-        "title": "Turn ideas into interactive AI-powered apps",
+        "title": "Build and share AI-powered apps with Claude",
         "description": "",
-        "url": "https://www.anthropic.com/news/build-artifacts",
+        "url": "https://www.anthropic.com/news/claude-powered-artifacts",
         "published_date": "2025-06-25T00:00:00+00:00",
         "categories": [
             "Product"
@@ -823,21 +823,6 @@
         "objects": []
     },
     {
-        "id": "1596e1a191c55870f5763eb937b925e9",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing Claude 4",
-        "description": "",
-        "url": "https://www.anthropic.com/news/claude-4",
-        "published_date": "2025-05-22T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "b747b724e39517b42f9dd828a948d792",
         "source": "anthropic",
         "type": "news",
@@ -862,6 +847,21 @@
         "published_date": "2025-05-22T00:00:00+00:00",
         "categories": [
             "Product"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "1596e1a191c55870f5763eb937b925e9",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing Claude 4",
+        "description": "",
+        "url": "https://www.anthropic.com/news/claude-4",
+        "published_date": "2025-05-22T00:00:00+00:00",
+        "categories": [
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -943,21 +943,6 @@
         "objects": []
     },
     {
-        "id": "e256c2a529975fbea80f90714e93dc8f",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Anthropic Economic Index: AI\u2019s impact on software development",
-        "description": "",
-        "url": "https://www.anthropic.com/research/impact-software-development",
-        "published_date": "2025-04-28T00:00:00+00:00",
-        "categories": [
-            "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "7809fdb12fb299541ff108d39090c796",
         "source": "anthropic",
         "type": "news",
@@ -967,6 +952,21 @@
         "published_date": "2025-04-28T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "e256c2a529975fbea80f90714e93dc8f",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Anthropic Economic Index: AI\u2019s impact on software development",
+        "description": "",
+        "url": "https://www.anthropic.com/research/impact-software-development",
+        "published_date": "2025-04-28T00:00:00+00:00",
+        "categories": [
+            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1033,12 +1033,12 @@
         "objects": []
     },
     {
-        "id": "2db849761b7e46ec539ac124ffae6caa",
+        "id": "c04b1ec17ef0a794d63797c67b8be06f",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region",
+        "title": "Anthropic Education Report: How university students use Claude",
         "description": "",
-        "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+        "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
         "published_date": "2025-04-08T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1048,12 +1048,12 @@
         "objects": []
     },
     {
-        "id": "c04b1ec17ef0a794d63797c67b8be06f",
+        "id": "2db849761b7e46ec539ac124ffae6caa",
         "source": "anthropic",
         "type": "news",
-        "title": "Anthropic Education Report: How university students use Claude",
+        "title": "Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region",
         "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+        "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
         "published_date": "2025-04-08T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1108,21 +1108,6 @@
         "objects": []
     },
     {
-        "id": "1dbcbbb35b503949d42a38c05c57bf3b",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Tracing the thoughts of a large language model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
-        "published_date": "2025-03-27T00:00:00+00:00",
-        "categories": [
-            "Interpretability"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "0eb3f2c4196d50a4b23dce9e1e93ec8a",
         "source": "anthropic",
         "type": "news",
@@ -1132,6 +1117,21 @@
         "published_date": "2025-03-27T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "1dbcbbb35b503949d42a38c05c57bf3b",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Tracing the thoughts of a large language model",
+        "description": "",
+        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+        "published_date": "2025-03-27T00:00:00+00:00",
+        "categories": [
+            "Interpretability"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1153,21 +1153,6 @@
         "objects": []
     },
     {
-        "id": "86c9c2391c594ccb82eacf94ac529b12",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Anthropic\u2019s response to Governor Newsom\u2019s AI working group draft report",
-        "description": "",
-        "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
-        "published_date": "2025-03-19T00:00:00+00:00",
-        "categories": [
-            "Societal Impacts"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "c78f4e9a7e70e2fd0ca878e9a4d5d5bd",
         "source": "anthropic",
         "type": "news",
@@ -1177,6 +1162,21 @@
         "published_date": "2025-03-19T00:00:00+00:00",
         "categories": [
             "Policy"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "86c9c2391c594ccb82eacf94ac529b12",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Anthropic\u2019s response to Governor Newsom\u2019s AI working group draft report",
+        "description": "",
+        "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+        "published_date": "2025-03-19T00:00:00+00:00",
+        "categories": [
+            "Societal Impacts"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1288,12 +1288,12 @@
         "objects": []
     },
     {
-        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
+        "id": "d588293e227ff908f4f28c9f5819981a",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude 3.7 Sonnet and Claude Code",
+        "title": "Claude\u2019s extended thinking",
         "description": "",
-        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+        "url": "https://www.anthropic.com/research/visible-extended-thinking",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1303,12 +1303,12 @@
         "objects": []
     },
     {
-        "id": "d588293e227ff908f4f28c9f5819981a",
+        "id": "46e3e7f2f99c09be34acf0cdb8a04859",
         "source": "anthropic",
         "type": "news",
-        "title": "Claude\u2019s extended thinking",
+        "title": "Claude 3.7 Sonnet and Claude Code",
         "description": "",
-        "url": "https://www.anthropic.com/research/visible-extended-thinking",
+        "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
         "published_date": "2025-02-24T00:00:00+00:00",
         "categories": [
             "Announcements"
@@ -1574,6 +1574,21 @@
         "objects": []
     },
     {
+        "id": "d62944dfa66b29ed5db2a62386f5741c",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+        "description": "",
+        "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+        "published_date": "2024-10-22T00:00:00+00:00",
+        "categories": [
+            "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "2f319d2cd818f437152544e53c96a248",
         "source": "anthropic",
         "type": "news",
@@ -1584,21 +1599,6 @@
         "categories": [
             "Announcements",
             "\u00b7Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "d62944dfa66b29ed5db2a62386f5741c",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-        "description": "",
-        "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
-        "published_date": "2024-10-22T00:00:00+00:00",
-        "categories": [
-            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1620,21 +1620,6 @@
         "objects": []
     },
     {
-        "id": "b886d525e141aab2eaa611c30560a60b",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Introducing the Message Batches API",
-        "description": "",
-        "url": "https://www.anthropic.com/news/message-batches-api",
-        "published_date": "2024-10-08T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "df2c692bf1bca1f672377bb1865e77a6",
         "source": "anthropic",
         "type": "news",
@@ -1644,6 +1629,21 @@
         "published_date": "2024-10-08T00:00:00+00:00",
         "categories": [
             "Societal Impacts"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "b886d525e141aab2eaa611c30560a60b",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Introducing the Message Batches API",
+        "description": "",
+        "url": "https://www.anthropic.com/news/message-batches-api",
+        "published_date": "2024-10-08T00:00:00+00:00",
+        "categories": [
+            "Product"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -1997,21 +1997,6 @@
         "objects": []
     },
     {
-        "id": "19b23d2b3b811de532002f91bdc8c4bd",
-        "source": "anthropic",
-        "type": "news",
-        "title": "Mapping the Mind of a Large Language Model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/mapping-mind-language-model",
-        "published_date": "2024-05-21T00:00:00+00:00",
-        "categories": [
-            "Interpretability"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "4142f3015428dc984b5deb11f5e7441c",
         "source": "anthropic",
         "type": "news",
@@ -2021,6 +2006,21 @@
         "published_date": "2024-05-21T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "19b23d2b3b811de532002f91bdc8c4bd",
+        "source": "anthropic",
+        "type": "news",
+        "title": "Mapping the Mind of a Large Language Model",
+        "description": "",
+        "url": "https://www.anthropic.com/research/mapping-mind-language-model",
+        "published_date": "2024-05-21T00:00:00+00:00",
+        "categories": [
+            "Interpretability"
         ],
         "organization": "Anthropic",
         "metadata": {},
