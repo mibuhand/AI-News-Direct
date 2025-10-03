@@ -4,11 +4,27 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-10-02T21:17:37.855017+00:00</updated>
+  <updated>2025-10-03T09:22:25.201798+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml" rel="self"/>
+  <entry>
+    <title>Sora 2 System Card</title>
+    <id>2a0868a53977d4037f6e3c736298134c</id>
+    <link href="https://openai.com/index/sora-2-system-card/"/>
+    <updated>2025-09-30T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.</summary>
+  </entry>
+  <entry>
+    <title>Sora 2 is here</title>
+    <id>46e9bb4fd850bff9a07c7ca3f6ae5e2d</id>
+    <link href="https://openai.com/index/sora-2/"/>
+    <updated>2025-09-30T00:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.</summary>
+  </entry>
   <entry>
     <title>Measuring the performance of our models on real-world tasks</title>
     <id>26670c67b9bec0773a4f12068a53a83e</id>
@@ -64,21 +80,5 @@
     <updated>2025-08-28T10:00:00+00:00</updated>
     <category term="Product"/>
     <summary>We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.</summary>
-  </entry>
-  <entry>
-    <title>Collective alignment: public input on our Model Spec</title>
-    <id>225a3fcfb3b1946607f9b85ee634c057</id>
-    <link href="https://openai.com/index/collective-alignment-aug-2025-updates/"/>
-    <updated>2025-08-27T13:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.</summary>
-  </entry>
-  <entry>
-    <title>Accelerating life sciences research</title>
-    <id>404e303b8b1839a41e95b2bd60757c63</id>
-    <link href="https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/"/>
-    <updated>2025-08-22T08:30:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.</summary>
   </entry>
 </feed>
