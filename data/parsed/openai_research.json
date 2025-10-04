@@ -1,22 +1,5 @@
 [
     {
-        "id": "2a0868a53977d4037f6e3c736298134c",
-        "source": "openai",
-        "type": "publication",
-        "title": "Sora 2 System Card",
-        "description": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve\u2013 such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
-        "url": "https://openai.com/index/sora-2-system-card/",
-        "published_date": "2025-09-30T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
         "source": "openai",
         "type": "research",
@@ -30,6 +13,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
+        "id": "2a0868a53977d4037f6e3c736298134c",
+        "source": "openai",
+        "type": "publication",
+        "title": "Sora 2 System Card",
+        "description": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve\u2013 such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
+        "url": "https://openai.com/index/sora-2-system-card/",
+        "published_date": "2025-09-30T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     },
