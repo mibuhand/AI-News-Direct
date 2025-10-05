@@ -1,32 +1,12 @@
 [
   {
-    "id": "055da3c20baf8b80956d6b3d32d95291",
-    "source": "huggingface",
-    "type": "model",
-    "title": "tencent/HunyuanImage-3.0",
-    "description": "Type: text-to-image<br/>Downloads: 1,258<br/>Likes: 766",
-    "url": "https://huggingface.co/tencent/HunyuanImage-3.0",
-    "published_date": "2025-10-05T09:18:55.313744+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "HunyuanImage-3.0",
-      "downloads": 1258,
-      "likes": 766,
-      "last_modified": "2025-10-02T13:19:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "55509742f1a143c42626724657c2596c",
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "description": "Type: text-generation<br/>Downloads: 16,199<br/>Likes: 528",
+    "description": "Type: text-generation<br/>Downloads: 16,199<br/>Likes: 536",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
-    "published_date": "2025-10-05T09:18:55.313767+00:00",
+    "published_date": "2025-10-05T21:16:02.008539+00:00",
     "categories": [
       "text-generation"
     ],
@@ -34,26 +14,28 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V3.2-Exp",
       "downloads": 16199,
-      "likes": 528,
+      "likes": 536,
       "last_modified": "2025-09-29T13:41:46.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "82dcdee0fc01d40b986f224c296cdaa7",
+    "id": "055da3c20baf8b80956d6b3d32d95291",
     "source": "huggingface",
     "type": "model",
-    "title": "tencent/Hunyuan3D-Part",
-    "description": "Downloads: 2,882<br/>Likes: 479",
-    "url": "https://huggingface.co/tencent/Hunyuan3D-Part",
-    "published_date": "2025-10-05T09:18:55.313778+00:00",
-    "categories": [],
+    "title": "tencent/HunyuanImage-3.0",
+    "description": "Type: text-to-image<br/>Downloads: 1,258<br/>Likes: 785",
+    "url": "https://huggingface.co/tencent/HunyuanImage-3.0",
+    "published_date": "2025-10-05T21:16:02.008562+00:00",
+    "categories": [
+      "text-to-image"
+    ],
     "metadata": {
       "author": "tencent",
-      "item_name": "Hunyuan3D-Part",
-      "downloads": 2882,
-      "likes": 479,
-      "last_modified": "2025-09-28T11:12:47.000Z",
+      "item_name": "HunyuanImage-3.0",
+      "downloads": 1258,
+      "likes": 785,
+      "last_modified": "2025-10-02T13:19:01.000Z",
       "all_tags": []
     }
   },
@@ -62,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.6",
-    "description": "Type: text-generation<br/>Downloads: 12,846<br/>Likes: 417",
+    "description": "Type: text-generation<br/>Downloads: 12,846<br/>Likes: 428",
     "url": "https://huggingface.co/zai-org/GLM-4.6",
-    "published_date": "2025-10-05T09:18:55.313784+00:00",
+    "published_date": "2025-10-05T21:16:02.008573+00:00",
     "categories": [
       "text-generation"
     ],
@@ -72,7 +54,7 @@
       "author": "zai-org",
       "item_name": "GLM-4.6",
       "downloads": 12846,
-      "likes": 417,
+      "likes": 428,
       "last_modified": "2025-09-30T10:17:45.000Z",
       "all_tags": []
     }
@@ -82,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "description": "Type: text-generation<br/>Downloads: 4,510<br/>Likes: 245",
+    "description": "Type: text-generation<br/>Downloads: 4,510<br/>Likes: 249",
     "url": "https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "published_date": "2025-10-05T09:18:55.313790+00:00",
+    "published_date": "2025-10-05T21:16:02.008582+00:00",
     "categories": [
       "text-generation"
     ],
@@ -92,7 +74,7 @@
       "author": "ServiceNow-AI",
       "item_name": "Apriel-1.5-15b-Thinker",
       "downloads": 4510,
-      "likes": 245,
+      "likes": 249,
       "last_modified": "2025-10-02T11:00:16.000Z",
       "all_tags": []
     }
@@ -104,7 +86,7 @@
     "title": "inclusionAI/Ring-1T-preview",
     "description": "Type: text-generation<br/>Downloads: 1,431<br/>Likes: 233",
     "url": "https://huggingface.co/inclusionAI/Ring-1T-preview",
-    "published_date": "2025-10-05T09:18:55.313796+00:00",
+    "published_date": "2025-10-05T21:16:02.008588+00:00",
     "categories": [
       "text-generation"
     ],
@@ -118,13 +100,31 @@
     }
   },
   {
+    "id": "82dcdee0fc01d40b986f224c296cdaa7",
+    "source": "huggingface",
+    "type": "model",
+    "title": "tencent/Hunyuan3D-Part",
+    "description": "Downloads: 2,882<br/>Likes: 481",
+    "url": "https://huggingface.co/tencent/Hunyuan3D-Part",
+    "published_date": "2025-10-05T21:16:02.008594+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "Hunyuan3D-Part",
+      "downloads": 2882,
+      "likes": 481,
+      "last_modified": "2025-09-28T11:12:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "0955a017f227692f051e9dc7f8c7d61f",
     "source": "huggingface",
     "type": "model",
     "title": "LiquidAI/LFM2-Audio-1.5B",
-    "description": "Type: audio-to-audio<br/>Downloads: 641<br/>Likes: 175",
+    "description": "Type: audio-to-audio<br/>Downloads: 641<br/>Likes: 181",
     "url": "https://huggingface.co/LiquidAI/LFM2-Audio-1.5B",
-    "published_date": "2025-10-05T09:18:55.313801+00:00",
+    "published_date": "2025-10-05T21:16:02.008599+00:00",
     "categories": [
       "audio-to-audio"
     ],
@@ -132,7 +132,7 @@
       "author": "LiquidAI",
       "item_name": "LFM2-Audio-1.5B",
       "downloads": 641,
-      "likes": 175,
+      "likes": 181,
       "last_modified": "2025-09-19T00:41:48.000Z",
       "all_tags": []
     }
@@ -142,9 +142,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "neuphonic/neutts-air",
-    "description": "Type: text-to-speech<br/>Downloads: 2,798<br/>Likes: 140",
+    "description": "Type: text-to-speech<br/>Downloads: 2,798<br/>Likes: 151",
     "url": "https://huggingface.co/neuphonic/neutts-air",
-    "published_date": "2025-10-05T09:18:55.313806+00:00",
+    "published_date": "2025-10-05T21:16:02.008604+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -152,7 +152,7 @@
       "author": "neuphonic",
       "item_name": "neutts-air",
       "downloads": 2798,
-      "likes": 140,
+      "likes": 151,
       "last_modified": "2025-10-02T17:30:51.000Z",
       "all_tags": []
     }
@@ -162,9 +162,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "opendatalab/MinerU2.5-2509-1.2B",
-    "description": "Type: image-text-to-text<br/>Downloads: 26,613<br/>Likes: 162",
+    "description": "Type: image-text-to-text<br/>Downloads: 26,613<br/>Likes: 170",
     "url": "https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B",
-    "published_date": "2025-10-05T09:18:55.313811+00:00",
+    "published_date": "2025-10-05T21:16:02.008610+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -172,7 +172,7 @@
       "author": "opendatalab",
       "item_name": "MinerU2.5-2509-1.2B",
       "downloads": 26613,
-      "likes": 162,
+      "likes": 170,
       "last_modified": "2025-09-29T06:58:38.000Z",
       "all_tags": []
     }
@@ -182,9 +182,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ibm-granite/granite-4.0-h-small",
-    "description": "Type: text-generation<br/>Downloads: 2,537<br/>Likes: 105",
+    "description": "Type: text-generation<br/>Downloads: 2,537<br/>Likes: 129",
     "url": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
-    "published_date": "2025-10-05T09:18:55.313815+00:00",
+    "published_date": "2025-10-05T21:16:02.008615+00:00",
     "categories": [
       "text-generation"
     ],
@@ -192,7 +192,7 @@
       "author": "ibm-granite",
       "item_name": "granite-4.0-h-small",
       "downloads": 2537,
-      "likes": 105,
+      "likes": 129,
       "last_modified": "2025-10-01T03:19:30.000Z",
       "all_tags": []
     }
@@ -202,16 +202,94 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "description": "Downloads: 4,138<br/>Likes: 98",
+    "description": "Downloads: 4,138<br/>Likes: 116",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "published_date": "2025-10-05T09:18:55.313820+00:00",
+    "published_date": "2025-10-05T21:16:02.008620+00:00",
     "categories": [],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-30B-A3B-Instruct",
       "downloads": 4138,
-      "likes": 98,
+      "likes": 116,
       "last_modified": "2025-10-04T00:11:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "da08246183189d7910f1459790a3a90b",
+    "source": "huggingface",
+    "type": "model",
+    "title": "ibm-granite/granite-4.0-micro",
+    "description": "Type: text-generation<br/>Downloads: 3,635<br/>Likes: 114",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-micro",
+    "published_date": "2025-10-05T21:16:02.008625+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "ibm-granite",
+      "item_name": "granite-4.0-micro",
+      "downloads": 3635,
+      "likes": 114,
+      "last_modified": "2025-10-01T03:16:14.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "03275897ea6eac60f90a4129af692913",
+    "source": "huggingface",
+    "type": "model",
+    "title": "chetwinlow1/Ovi",
+    "description": "Type: image-to-video<br/>Downloads: 43<br/>Likes: 97",
+    "url": "https://huggingface.co/chetwinlow1/Ovi",
+    "published_date": "2025-10-05T21:16:02.008632+00:00",
+    "categories": [
+      "image-to-video"
+    ],
+    "metadata": {
+      "author": "chetwinlow1",
+      "item_name": "Ovi",
+      "downloads": 43,
+      "likes": 97,
+      "last_modified": "2025-10-04T15:00:17.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "93ad14529f30e669d0af687fb99e1fea",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Wan-AI/Wan2.2-Animate-14B",
+    "description": "Downloads: 47,345<br/>Likes: 625",
+    "url": "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B",
+    "published_date": "2025-10-05T21:16:02.008638+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Wan-AI",
+      "item_name": "Wan2.2-Animate-14B",
+      "downloads": 47345,
+      "likes": 625,
+      "last_modified": "2025-09-19T08:22:41.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0b37ff0992342d8bd0399425a7e41568",
+    "source": "huggingface",
+    "type": "model",
+    "title": "ibm-granite/granite-docling-258M",
+    "description": "Type: image-text-to-text<br/>Downloads: 159,642<br/>Likes: 829",
+    "url": "https://huggingface.co/ibm-granite/granite-docling-258M",
+    "published_date": "2025-10-05T21:16:02.008643+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "ibm-granite",
+      "item_name": "granite-docling-258M",
+      "downloads": 159642,
+      "likes": 829,
+      "last_modified": "2025-09-23T08:52:16.000Z",
       "all_tags": []
     }
   },
@@ -220,9 +298,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-    "description": "Type: any-to-any<br/>Downloads: 251,157<br/>Likes: 592",
+    "description": "Type: any-to-any<br/>Downloads: 251,157<br/>Likes: 595",
     "url": "https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct",
-    "published_date": "2025-10-05T09:18:55.313825+00:00",
+    "published_date": "2025-10-05T21:16:02.008648+00:00",
     "categories": [
       "any-to-any"
     ],
@@ -230,7 +308,7 @@
       "author": "Qwen",
       "item_name": "Qwen3-Omni-30B-A3B-Instruct",
       "downloads": 251157,
-      "likes": 592,
+      "likes": 595,
       "last_modified": "2025-09-22T14:17:52.000Z",
       "all_tags": []
     }
@@ -240,74 +318,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "eddy1111111/WAN22.XX_Palingenesis",
-    "description": "Likes: 148",
+    "description": "Likes: 149",
     "url": "https://huggingface.co/eddy1111111/WAN22.XX_Palingenesis",
-    "published_date": "2025-10-05T09:18:55.313832+00:00",
+    "published_date": "2025-10-05T21:16:02.008654+00:00",
     "categories": [],
     "metadata": {
       "author": "eddy1111111",
       "item_name": "WAN22.XX_Palingenesis",
       "downloads": 0,
-      "likes": 148,
+      "likes": 149,
       "last_modified": "2025-09-28T14:56:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "93ad14529f30e669d0af687fb99e1fea",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Wan-AI/Wan2.2-Animate-14B",
-    "description": "Downloads: 47,345<br/>Likes: 620",
-    "url": "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B",
-    "published_date": "2025-10-05T09:18:55.313839+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Wan-AI",
-      "item_name": "Wan2.2-Animate-14B",
-      "downloads": 47345,
-      "likes": 620,
-      "last_modified": "2025-09-19T08:22:41.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "da08246183189d7910f1459790a3a90b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "ibm-granite/granite-4.0-micro",
-    "description": "Type: text-generation<br/>Downloads: 3,635<br/>Likes: 89",
-    "url": "https://huggingface.co/ibm-granite/granite-4.0-micro",
-    "published_date": "2025-10-05T09:18:55.313844+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "ibm-granite",
-      "item_name": "granite-4.0-micro",
-      "downloads": 3635,
-      "likes": 89,
-      "last_modified": "2025-10-01T03:16:14.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0b37ff0992342d8bd0399425a7e41568",
-    "source": "huggingface",
-    "type": "model",
-    "title": "ibm-granite/granite-docling-258M",
-    "description": "Type: image-text-to-text<br/>Downloads: 159,642<br/>Likes: 824",
-    "url": "https://huggingface.co/ibm-granite/granite-docling-258M",
-    "published_date": "2025-10-05T09:18:55.313849+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "ibm-granite",
-      "item_name": "granite-docling-258M",
-      "downloads": 159642,
-      "likes": 824,
-      "last_modified": "2025-09-23T08:52:16.000Z",
       "all_tags": []
     }
   },
@@ -316,9 +336,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen-Image-Edit-2509",
-    "description": "Type: image-to-image<br/>Downloads: 50,319<br/>Likes: 514",
+    "description": "Type: image-to-image<br/>Downloads: 50,319<br/>Likes: 516",
     "url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2509",
-    "published_date": "2025-10-05T09:18:55.313854+00:00",
+    "published_date": "2025-10-05T21:16:02.008659+00:00",
     "categories": [
       "image-to-image"
     ],
@@ -326,28 +346,28 @@
       "author": "Qwen",
       "item_name": "Qwen-Image-Edit-2509",
       "downloads": 50319,
-      "likes": 514,
+      "likes": 516,
       "last_modified": "2025-09-22T13:37:12.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "03275897ea6eac60f90a4129af692913",
+    "id": "a0bbab09ca67159c51ff29c2dd44e578",
     "source": "huggingface",
     "type": "model",
-    "title": "chetwinlow1/Ovi",
-    "description": "Type: image-to-video<br/>Downloads: 43<br/>Likes: 80",
-    "url": "https://huggingface.co/chetwinlow1/Ovi",
-    "published_date": "2025-10-05T09:18:55.313859+00:00",
+    "title": "ibm-granite/granite-4.0-h-tiny",
+    "description": "Type: text-generation<br/>Downloads: 5,325<br/>Likes: 68",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-tiny",
+    "published_date": "2025-10-05T21:16:02.008664+00:00",
     "categories": [
-      "image-to-video"
+      "text-generation"
     ],
     "metadata": {
-      "author": "chetwinlow1",
-      "item_name": "Ovi",
-      "downloads": 43,
-      "likes": 80,
-      "last_modified": "2025-10-04T15:00:17.000Z",
+      "author": "ibm-granite",
+      "item_name": "granite-4.0-h-tiny",
+      "downloads": 5325,
+      "likes": 68,
+      "last_modified": "2025-10-01T03:17:41.000Z",
       "all_tags": []
     }
   },
@@ -358,7 +378,7 @@
     "title": "tencent/Hunyuan3D-Omni",
     "description": "Type: image-to-3d<br/>Downloads: 1,692<br/>Likes: 113",
     "url": "https://huggingface.co/tencent/Hunyuan3D-Omni",
-    "published_date": "2025-10-05T09:18:55.313864+00:00",
+    "published_date": "2025-10-05T21:16:02.008669+00:00",
     "categories": [
       "image-to-3d"
     ],
@@ -368,26 +388,6 @@
       "downloads": 1692,
       "likes": 113,
       "last_modified": "2025-09-29T07:37:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "997e122f4457178b44387e0e733728ef",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Kwaipilot/KAT-Dev",
-    "description": "Type: text-generation<br/>Downloads: 5,179<br/>Likes: 146",
-    "url": "https://huggingface.co/Kwaipilot/KAT-Dev",
-    "published_date": "2025-10-05T09:18:55.313868+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Kwaipilot",
-      "item_name": "KAT-Dev",
-      "downloads": 5179,
-      "likes": 146,
-      "last_modified": "2025-10-03T13:47:48.000Z",
       "all_tags": []
     }
   }
