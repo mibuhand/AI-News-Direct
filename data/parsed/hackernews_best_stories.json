@@ -1,23 +1,5 @@
 [
   {
-    "id": "aeccf6188b115e5d07c0fd867c0a9799",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Apple takes down ICE tracking apps after pressure from DOJ",
-    "description": "",
-    "url": "https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi",
-    "published_date": "2025-10-03T00:34:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 641,
-      "author": "aspenmayer",
-      "comments": 497,
-      "hn_id": 45457333
-    },
-    "objects": []
-  },
-  {
     "id": "19ef03b35e320056e462c986fa0af529",
     "source": "hackernews",
     "type": "story",
@@ -28,7 +10,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 559,
+      "score": 572,
       "author": "greyface-",
       "comments": 131,
       "hn_id": 45464921
@@ -46,9 +28,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 456,
+      "score": 484,
       "author": "sebiw",
-      "comments": 527,
+      "comments": 548,
       "hn_id": 45467500
     },
     "objects": []
@@ -64,9 +46,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 454,
+      "score": 461,
       "author": "atlintots",
-      "comments": 219,
+      "comments": 220,
       "hn_id": 45461500
     },
     "objects": []
@@ -82,9 +64,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 390,
+      "score": 414,
       "author": "emschwartz",
-      "comments": 183,
+      "comments": 198,
       "hn_id": 45468698
     },
     "objects": []
@@ -95,105 +77,69 @@
     "type": "story",
     "title": "PEP 810 – Explicit lazy imports",
     "description": "",
-    "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+    "url": "https://peps.python.org/pep-0810/",
     "published_date": "2025-10-03T18:24:58+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 377,
+      "score": 405,
       "author": "azhenley",
-      "comments": 222,
+      "comments": 231,
       "hn_id": 45466086
     },
     "objects": []
   },
   {
-    "id": "022cc59116863808def3dcb6e1165bcf",
+    "id": "26fb190f53161955023d1c68f00dba0f",
     "source": "hackernews",
     "type": "story",
-    "title": "Where it's at://",
+    "title": "The UK is still trying to backdoor encryption for Apple users",
     "description": "",
-    "url": "https://overreacted.io/where-its-at/",
-    "published_date": "2025-10-02T20:31:43+00:00",
+    "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
+    "published_date": "2025-10-04T20:07:11+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 367,
-      "author": "steveklabnik",
-      "comments": 225,
-      "hn_id": 45455164
+      "score": 333,
+      "author": "CharlesW",
+      "comments": 125,
+      "hn_id": 45476273
     },
     "objects": []
   },
   {
-    "id": "912851cb155f766298321c6fb2804e72",
+    "id": "bcc22b6b857b27ddd00ae2be31877187",
     "source": "hackernews",
     "type": "story",
-    "title": "I spent the day teaching seniors how to use an iPhone",
+    "title": "How I influence tech company politics as a staff software engineer",
     "description": "",
-    "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
-    "published_date": "2025-10-03T01:20:32+00:00",
+    "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+    "published_date": "2025-10-04T15:09:41+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 358,
-      "author": "dabinat",
-      "comments": 515,
-      "hn_id": 45457670
+      "score": 317,
+      "author": "facundo_olano",
+      "comments": 174,
+      "hn_id": 45473852
     },
     "objects": []
   },
   {
-    "id": "ee88fad3e526835dc7018eab44558169",
+    "id": "3e9a4558e177a3c2cc44131abc9bdd04",
     "source": "hackernews",
     "type": "story",
-    "title": "In Praise of RSS and Controlled Feeds of Information",
+    "title": "Flock's gunshot detection microphones will start listening for human voices",
     "description": "",
-    "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
-    "published_date": "2025-10-03T05:13:47+00:00",
+    "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+    "published_date": "2025-10-04T14:49:30+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 347,
-      "author": "curioussquirrel",
-      "comments": 137,
-      "hn_id": 45459233
-    },
-    "objects": []
-  },
-  {
-    "id": "b597fb413f5d023d8256492d03b5f85d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
-    "description": "",
-    "url": "https://github.com/triton-lang/triton/pull/7298",
-    "published_date": "2025-10-03T04:21:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 334,
-      "author": "mmastrac",
-      "comments": 152,
-      "hn_id": 45458948
-    },
-    "objects": []
-  },
-  {
-    "id": "a779ab4c22b3aa7d0a72b204840cc1ae",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The strangest letter of the alphabet: The rise and fall of yogh",
-    "description": "",
-    "url": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
-    "published_date": "2025-10-02T21:34:42+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 310,
-      "author": "penetralium",
-      "comments": 295,
-      "hn_id": 45455882
+      "score": 312,
+      "author": "hhs",
+      "comments": 244,
+      "hn_id": 45473698
     },
     "objects": []
   },
@@ -208,9 +154,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 268,
+      "score": 280,
       "author": "belter",
-      "comments": 564,
+      "comments": 589,
       "hn_id": 45464429
     },
     "objects": []
@@ -226,46 +172,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 263,
+      "score": 266,
       "author": "Timothee",
-      "comments": 18,
+      "comments": 20,
       "hn_id": 45463319
     },
     "objects": []
   },
   {
-    "id": "e4271369bb386d726947d3f553b1dfb0",
+    "id": "08c0d41afbfb4bb77cef0668e4c96d22",
     "source": "hackernews",
     "type": "story",
-    "title": "FyneDesk: A full desktop environment for Linux written in Go",
+    "title": "Paged Out Issue #7 [pdf]",
     "description": "",
-    "url": "https://github.com/FyshOS/fynedesk",
-    "published_date": "2025-10-03T02:13:17+00:00",
+    "url": "https://pagedout.institute/download/PagedOut_007.pdf",
+    "published_date": "2025-10-04T10:38:06+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 254,
-      "author": "xk3",
-      "comments": 142,
-      "hn_id": 45458122
+      "score": 260,
+      "author": "todsacerdoti",
+      "comments": 21,
+      "hn_id": 45472319
     },
     "objects": []
   },
   {
-    "id": "3e9a4558e177a3c2cc44131abc9bdd04",
+    "id": "9c13f1b5d89cbfb162d158115ed4000a",
     "source": "hackernews",
     "type": "story",
-    "title": "Flock's gunshot detection microphones will start listening for human voices",
+    "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
     "description": "",
-    "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
-    "published_date": "2025-10-04T14:49:30+00:00",
+    "url": "https://github.com/DebarghaG/proofofthought",
+    "published_date": "2025-10-04T18:34:23+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 245,
-      "author": "hhs",
-      "comments": 167,
-      "hn_id": 45473698
+      "score": 259,
+      "author": "barthelomew",
+      "comments": 135,
+      "hn_id": 45475529
     },
     "objects": []
   },
@@ -280,28 +226,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 230,
+      "score": 250,
       "author": "rohmanhakim",
-      "comments": 190,
+      "comments": 205,
       "hn_id": 45463656
-    },
-    "objects": []
-  },
-  {
-    "id": "5afb2bf98601779a67955423c9eb45ac",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Cancellations in async Rust",
-    "description": "",
-    "url": "https://sunshowers.io/posts/cancelling-async-rust/",
-    "published_date": "2025-10-03T16:18:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 229,
-      "author": "todsacerdoti",
-      "comments": 77,
-      "hn_id": 45464632
     },
     "objects": []
   },
@@ -316,28 +244,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 221,
+      "score": 248,
       "author": "signa11",
-      "comments": 68,
+      "comments": 90,
       "hn_id": 45471136
     },
     "objects": []
   },
   {
-    "id": "bcc22b6b857b27ddd00ae2be31877187",
+    "id": "8a72b1630a9054efea48a85d782bde79",
     "source": "hackernews",
     "type": "story",
-    "title": "How I influence tech company politics as a staff software engineer",
+    "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
     "description": "",
-    "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-    "published_date": "2025-10-04T15:09:41+00:00",
+    "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+    "published_date": "2025-10-04T15:10:49+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 216,
-      "author": "facundo_olano",
-      "comments": 132,
-      "hn_id": 45473852
+      "score": 239,
+      "author": "andsoitis",
+      "comments": 159,
+      "hn_id": 45473861
+    },
+    "objects": []
+  },
+  {
+    "id": "9ef712abe4e243f7bb70961e80df584c",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Self-hosting email like it's 1984",
+    "description": "",
+    "url": "https://maxadamski.com/blog/2025/10/email.html",
+    "published_date": "2025-10-04T14:53:32+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 235,
+      "author": "xmx98",
+      "comments": 157,
+      "hn_id": 45473730
+    },
+    "objects": []
+  },
+  {
+    "id": "5afb2bf98601779a67955423c9eb45ac",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Cancellations in async Rust",
+    "description": "",
+    "url": "https://sunshowers.io/posts/cancelling-async-rust/",
+    "published_date": "2025-10-03T16:18:29+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 232,
+      "author": "todsacerdoti",
+      "comments": 81,
+      "hn_id": 45464632
     },
     "objects": []
   },
@@ -352,28 +316,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 213,
+      "score": 224,
       "author": "loteck",
-      "comments": 125,
+      "comments": 126,
       "hn_id": 45465964
-    },
-    "objects": []
-  },
-  {
-    "id": "ba94b306437a363048bd3e789c5e629e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "OpenAI Is Just Another Boring, Desperate AI Startup",
-    "description": "",
-    "url": "https://www.wheresyoured.at/sora2-openai/",
-    "published_date": "2025-10-03T16:37:01+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 211,
-      "author": "speckx",
-      "comments": 248,
-      "hn_id": 45464849
     },
     "objects": []
   },
@@ -388,9 +334,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 211,
+      "score": 216,
       "author": "gok",
-      "comments": 89,
+      "comments": 93,
       "hn_id": 45464269
     },
     "objects": []
@@ -406,10 +352,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 206,
+      "score": 215,
       "author": "miltava",
-      "comments": 184,
+      "comments": 196,
       "hn_id": 45473033
+    },
+    "objects": []
+  },
+  {
+    "id": "ba94b306437a363048bd3e789c5e629e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "OpenAI Is Just Another Boring, Desperate AI Startup",
+    "description": "",
+    "url": "https://www.wheresyoured.at/sora2-openai/",
+    "published_date": "2025-10-03T16:37:01+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 215,
+      "author": "speckx",
+      "comments": 249,
+      "hn_id": 45464849
     },
     "objects": []
   },
@@ -424,64 +388,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 204,
+      "score": 213,
       "author": "watkajtys",
-      "comments": 67,
+      "comments": 72,
       "hn_id": 45466588
     },
     "objects": []
   },
   {
-    "id": "21987f30ee2f60708387dc4673f49e51",
+    "id": "199b78aa78c2baacbd9b1d1c98c5dc30",
     "source": "hackernews",
     "type": "story",
-    "title": "Blender 4.5 LTS",
+    "title": "Way past its prime: how did Amazon get so rubbish?",
     "description": "",
-    "url": "https://lwn.net/Articles/1036262/",
-    "published_date": "2025-10-03T03:52:43+00:00",
+    "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
+    "published_date": "2025-10-05T05:47:55+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 203,
-      "author": "pykello",
-      "comments": 109,
-      "hn_id": 45458791
-    },
-    "objects": []
-  },
-  {
-    "id": "08c0d41afbfb4bb77cef0668e4c96d22",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Paged Out Issue #7 [pdf]",
-    "description": "",
-    "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-    "published_date": "2025-10-04T10:38:06+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 197,
-      "author": "todsacerdoti",
-      "comments": 13,
-      "hn_id": 45472319
-    },
-    "objects": []
-  },
-  {
-    "id": "975918c1270aa8bd11f3ba01fd839954",
-    "source": "hackernews",
-    "type": "story",
-    "title": "10k pushups and other silly exercise quests that changed my life",
-    "description": "",
-    "url": "https://wjgilmore.com/articles/10000-pushups",
-    "published_date": "2025-10-02T22:06:57+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 196,
-      "author": "wjgilmore",
-      "comments": 110,
-      "hn_id": 45456188
+      "score": 210,
+      "author": "sandebert",
+      "comments": 184,
+      "hn_id": 45479103
     },
     "objects": []
   },
@@ -496,28 +424,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 185,
+      "score": 201,
       "author": "KLK2019",
-      "comments": 70,
+      "comments": 82,
       "hn_id": 45469579
-    },
-    "objects": []
-  },
-  {
-    "id": "6c9d0497f3a31ae6b275307ea65a082a",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
-    "description": "",
-    "url": "https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html",
-    "published_date": "2025-10-03T14:48:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 184,
-      "author": "fork-bomber",
-      "comments": 128,
-      "hn_id": 45463642
     },
     "objects": []
   },
@@ -532,10 +442,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 183,
+      "score": 198,
       "author": "Ozarkian",
-      "comments": 284,
+      "comments": 323,
       "hn_id": 45464984
+    },
+    "objects": []
+  },
+  {
+    "id": "6c9d0497f3a31ae6b275307ea65a082a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
+    "description": "",
+    "url": "https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html",
+    "published_date": "2025-10-03T14:48:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 186,
+      "author": "fork-bomber",
+      "comments": 129,
+      "hn_id": 45463642
     },
     "objects": []
   },
@@ -550,9 +478,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 175,
+      "score": 181,
       "author": "jandrewrogers",
-      "comments": 124,
+      "comments": 131,
       "hn_id": 45467543
     },
     "objects": []
@@ -568,82 +496,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 173,
+      "score": 178,
       "author": "speckx",
-      "comments": 93,
+      "comments": 94,
       "hn_id": 45462297
-    },
-    "objects": []
-  },
-  {
-    "id": "c6eee9eadd8b9df99fc911aca10e27a0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Discord customer service data breach leaks user info and scanned photo IDs",
-    "description": "",
-    "url": "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack",
-    "published_date": "2025-10-04T00:39:04+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 158,
-      "author": "healsdata",
-      "comments": 36,
-      "hn_id": 45469436
-    },
-    "objects": []
-  },
-  {
-    "id": "3164ca721147032187bb5f986285e78b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
-    "description": "",
-    "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
-    "published_date": "2025-10-03T20:01:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 158,
-      "author": "rbanffy",
-      "comments": 39,
-      "hn_id": 45467166
-    },
-    "objects": []
-  },
-  {
-    "id": "8a72b1630a9054efea48a85d782bde79",
-    "source": "hackernews",
-    "type": "story",
-    "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
-    "description": "",
-    "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-    "published_date": "2025-10-04T15:10:49+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 152,
-      "author": "andsoitis",
-      "comments": 89,
-      "hn_id": 45473861
-    },
-    "objects": []
-  },
-  {
-    "id": "ac0d39bb5409c8a032401d5b4864b280",
-    "source": "hackernews",
-    "type": "story",
-    "title": "When private practices merge with hospital systems, costs go up",
-    "description": "",
-    "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
-    "published_date": "2025-10-03T22:58:20+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 148,
-      "author": "hhs",
-      "comments": 91,
-      "hn_id": 45468781
     },
     "objects": []
   },
@@ -658,10 +514,154 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 145,
+      "score": 176,
       "author": "t-vi",
-      "comments": 44,
+      "comments": 56,
       "hn_id": 45472678
+    },
+    "objects": []
+  },
+  {
+    "id": "6bb3ca2832ee4bc85e46413050dcdd4b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Blog Feeds",
+    "description": "",
+    "url": "https://blogfeeds.net",
+    "published_date": "2025-10-04T19:08:46+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 171,
+      "author": "stevedsimkins",
+      "comments": 56,
+      "hn_id": 45475808
+    },
+    "objects": []
+  },
+  {
+    "id": "c6eee9eadd8b9df99fc911aca10e27a0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Discord customer service data breach leaks user info and scanned photo IDs",
+    "description": "",
+    "url": "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack",
+    "published_date": "2025-10-04T00:39:04+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 170,
+      "author": "healsdata",
+      "comments": 36,
+      "hn_id": 45469436
+    },
+    "objects": []
+  },
+  {
+    "id": "b4f2050906ec944017b3041b4297d15b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "$912 energy independence without red tape",
+    "description": "",
+    "url": "https://sunboxlabs.com/",
+    "published_date": "2025-10-04T21:22:05+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 168,
+      "author": "nikodunk",
+      "comments": 118,
+      "hn_id": 45476820
+    },
+    "objects": []
+  },
+  {
+    "id": "3164ca721147032187bb5f986285e78b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+    "description": "",
+    "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
+    "published_date": "2025-10-03T20:01:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 160,
+      "author": "rbanffy",
+      "comments": 42,
+      "hn_id": 45467166
+    },
+    "objects": []
+  },
+  {
+    "id": "e4c0f4dbda2cc43a05370a3366df19c5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
+    "description": "",
+    "url": "https://www.folklore.org/Thunderscan.html",
+    "published_date": "2025-10-04T12:16:37+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 153,
+      "author": "dtgriscom",
+      "comments": 31,
+      "hn_id": 45472765
+    },
+    "objects": []
+  },
+  {
+    "id": "94d500893ffb0ea525a0fc7cff862b66",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Scientists are discovering a powerful new way to prevent cancer",
+    "description": "",
+    "url": "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer",
+    "published_date": "2025-10-04T11:44:15+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 150,
+      "author": "Earw0rm",
+      "comments": 114,
+      "hn_id": 45472614
+    },
+    "objects": []
+  },
+  {
+    "id": "ac0d39bb5409c8a032401d5b4864b280",
+    "source": "hackernews",
+    "type": "story",
+    "title": "When private practices merge with hospital systems, costs go up",
+    "description": "",
+    "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
+    "published_date": "2025-10-03T22:58:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 149,
+      "author": "hhs",
+      "comments": 103,
+      "hn_id": 45468781
+    },
+    "objects": []
+  },
+  {
+    "id": "3db908376048802a304c194e04b96ac7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Microsoft 365 Copilot's commercial failure",
+    "description": "",
+    "url": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
+    "published_date": "2025-10-04T19:39:00+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 147,
+      "author": "jukkan",
+      "comments": 107,
+      "hn_id": 45476045
     },
     "objects": []
   },
@@ -676,28 +676,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 143,
+      "score": 144,
       "author": "mikamika83",
-      "comments": 128,
+      "comments": 136,
       "hn_id": 45469468
-    },
-    "objects": []
-  },
-  {
-    "id": "fc5c4a52f9ff9099487f16f9512cd119",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Digital ID – The New Chains of Capitalist Surveillance",
-    "description": "",
-    "url": "https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/",
-    "published_date": "2025-10-03T04:15:41+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 139,
-      "author": "Refreeze5224",
-      "comments": 204,
-      "hn_id": 45458909
     },
     "objects": []
   },
@@ -712,10 +694,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 135,
+      "score": 140,
       "author": "funkyfourier",
-      "comments": 109,
+      "comments": 120,
       "hn_id": 45472799
+    },
+    "objects": []
+  },
+  {
+    "id": "bd00dbea0bca582323cf63c5296256bb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "WireGuard topologies for self-hosting at home",
+    "description": "",
+    "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+    "published_date": "2025-10-03T19:43:34+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 138,
+      "author": "todsacerdoti",
+      "comments": 53,
+      "hn_id": 45466980
+    },
+    "objects": []
+  },
+  {
+    "id": "fa1fef3c7379a25d6fde99d8f6ba4c57",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Americans increasingly see legal sports betting as a bad thing for society",
+    "description": "",
+    "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+    "published_date": "2025-10-05T04:01:57+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 136,
+      "author": "aloukissas",
+      "comments": 137,
+      "hn_id": 45478749
+    },
+    "objects": []
+  },
+  {
+    "id": "c7fbea53f0505d73dd867875096ee5da",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Social Cooling",
+    "description": "",
+    "url": "https://www.socialcooling.com/",
+    "published_date": "2025-10-05T06:01:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 134,
+      "author": "laurex",
+      "comments": 36,
+      "hn_id": 45479165
+    },
+    "objects": []
+  },
+  {
+    "id": "3a3001335d0f47a92c1b7c69914a82d7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Toyota runs a car-hacking event to boost security (2024)",
+    "description": "",
+    "url": "https://toyotatimes.jp/en/spotlights/1061.html",
+    "published_date": "2025-10-04T03:11:28+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 134,
+      "author": "octagons",
+      "comments": 107,
+      "hn_id": 45470206
     },
     "objects": []
   },
@@ -730,9 +784,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 131,
+      "score": 133,
       "author": "simonpure",
-      "comments": 49,
+      "comments": 51,
       "hn_id": 45463251
     },
     "objects": []
@@ -748,82 +802,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 130,
+      "score": 131,
       "author": "welovebunnies",
-      "comments": 84,
+      "comments": 91,
       "hn_id": 45467032
     },
     "objects": []
   },
   {
-    "id": "94d500893ffb0ea525a0fc7cff862b66",
+    "id": "c50f96e25102771576fad8d8749568f1",
     "source": "hackernews",
     "type": "story",
-    "title": "Scientists are discovering a powerful new way to prevent cancer",
+    "title": "How functional programming shaped and twisted front end development",
     "description": "",
-    "url": "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer",
-    "published_date": "2025-10-04T11:44:15+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 128,
-      "author": "Earw0rm",
-      "comments": 97,
-      "hn_id": 45472614
-    },
-    "objects": []
-  },
-  {
-    "id": "3a3001335d0f47a92c1b7c69914a82d7",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Toyota runs a car-hacking event to boost security (2024)",
-    "description": "",
-    "url": "https://toyotatimes.jp/en/spotlights/1061.html",
-    "published_date": "2025-10-04T03:11:28+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 128,
-      "author": "octagons",
-      "comments": 96,
-      "hn_id": 45470206
-    },
-    "objects": []
-  },
-  {
-    "id": "bd00dbea0bca582323cf63c5296256bb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "WireGuard topologies for self-hosting at home",
-    "description": "",
-    "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-    "published_date": "2025-10-03T19:43:34+00:00",
+    "url": "https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html",
+    "published_date": "2025-10-04T13:04:15+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
       "score": 127,
-      "author": "todsacerdoti",
-      "comments": 50,
-      "hn_id": 45466980
-    },
-    "objects": []
-  },
-  {
-    "id": "5fb7a5e9c3afff616aafa2c97aae072d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ants trapped in a Soviet nuclear bunker survived for years (2019)",
-    "description": "",
-    "url": "https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own",
-    "published_date": "2025-10-03T17:01:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 125,
-      "author": "MaysonL",
-      "comments": 26,
-      "hn_id": 45465091
+      "author": "jicea",
+      "comments": 104,
+      "hn_id": 45473019
     },
     "objects": []
   },
@@ -838,10 +838,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 121,
+      "score": 126,
       "author": "davidbarker",
-      "comments": 154,
+      "comments": 164,
       "hn_id": 45469437
+    },
+    "objects": []
+  },
+  {
+    "id": "5fb7a5e9c3afff616aafa2c97aae072d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Ants trapped in a Soviet nuclear bunker survived for years (2019)",
+    "description": "",
+    "url": "https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own",
+    "published_date": "2025-10-03T17:01:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 126,
+      "author": "MaysonL",
+      "comments": 26,
+      "hn_id": 45465091
     },
     "objects": []
   },
@@ -856,46 +874,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 119,
+      "score": 121,
       "author": "toomuchtodo",
-      "comments": 219,
+      "comments": 234,
       "hn_id": 45462863
     },
     "objects": []
   },
   {
-    "id": "e4c0f4dbda2cc43a05370a3366df19c5",
+    "id": "9db80245fa61ba6a92f8b88242e43b26",
     "source": "hackernews",
     "type": "story",
-    "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
+    "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
     "description": "",
-    "url": "https://www.folklore.org/Thunderscan.html",
-    "published_date": "2025-10-04T12:16:37+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 118,
-      "author": "dtgriscom",
-      "comments": 23,
-      "hn_id": 45472765
-    },
-    "objects": []
-  },
-  {
-    "id": "80901b8e444911956b4f7b6f779b0094",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
-    "description": "",
-    "url": "https://debuggingleadership.com/stdlib",
-    "published_date": "2025-10-03T02:33:21+00:00",
+    "url": "https://blog.cr.yp.to/20251004-weakened.html",
+    "published_date": "2025-10-04T22:16:33+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
       "score": 117,
-      "author": "mooreds",
-      "comments": 18,
-      "hn_id": 45458249
+      "author": "zdw",
+      "comments": 51,
+      "hn_id": 45477206
     },
     "objects": []
   }
