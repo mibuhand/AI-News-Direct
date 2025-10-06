@@ -1,22 +1,5 @@
 [
     {
-        "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
-        "source": "openai",
-        "type": "research",
-        "title": "Sora 2 is here",
-        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
-        "url": "https://openai.com/index/sora-2/",
-        "published_date": "2025-09-30T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
         "id": "2a0868a53977d4037f6e3c736298134c",
         "source": "openai",
         "type": "publication",
@@ -30,6 +13,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
+        "source": "openai",
+        "type": "research",
+        "title": "Sora 2 is here",
+        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+        "url": "https://openai.com/index/sora-2/",
+        "published_date": "2025-09-30T00:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
         },
         "objects": []
     },
