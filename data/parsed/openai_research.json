@@ -1,5 +1,22 @@
 [
     {
+        "id": "ce22613b413df56e8aef16bec72be34e",
+        "source": "openai",
+        "type": "product",
+        "title": "Codex is now generally available",
+        "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management\u2014making Codex easier to use and manage at scale.",
+        "url": "https://openai.com/index/codex-now-generally-available/",
+        "published_date": "2025-10-06T10:50:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
         "id": "2a0868a53977d4037f6e3c736298134c",
         "source": "openai",
         "type": "publication",
@@ -132,23 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "3f0ab7de2e55ab99133e58a0f29f1f45",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-realtime and Realtime API updates",
-        "description": "We\u2019re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
-        "url": "https://openai.com/index/introducing-gpt-realtime/",
-        "published_date": "2025-08-28T10:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     }
