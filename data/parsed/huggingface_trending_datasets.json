@@ -1,37 +1,37 @@
 [
   {
-    "id": "0d6a7277196739684279c910793daab1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/gdpval",
-    "description": "Downloads: 26,062<br/>Likes: 203",
-    "url": "https://huggingface.co/datasets/openai/gdpval",
-    "published_date": "2025-10-08T09:24:24.672198+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "gdpval",
-      "downloads": 26062,
-      "likes": 203,
-      "last_modified": "2025-09-25T16:21:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "99d9fac40a7c8abd8fd4dc4f8a05af5b",
     "source": "huggingface",
     "type": "dataset",
     "title": "Agent-Ark/Toucan-1.5M",
-    "description": "Downloads: 2,236<br/>Likes: 58",
+    "description": "Downloads: 2,236<br/>Likes: 63",
     "url": "https://huggingface.co/datasets/Agent-Ark/Toucan-1.5M",
-    "published_date": "2025-10-08T09:24:24.672219+00:00",
+    "published_date": "2025-10-08T21:17:42.619053+00:00",
     "categories": [],
     "metadata": {
       "author": "Agent-Ark",
       "item_name": "Toucan-1.5M",
       "downloads": 2236,
-      "likes": 58,
+      "likes": 63,
       "last_modified": "2025-10-04T00:51:18.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0d6a7277196739684279c910793daab1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/gdpval",
+    "description": "Downloads: 26,062<br/>Likes: 209",
+    "url": "https://huggingface.co/datasets/openai/gdpval",
+    "published_date": "2025-10-08T21:17:42.619071+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gdpval",
+      "downloads": 26062,
+      "likes": 209,
+      "last_modified": "2025-09-25T16:21:20.000Z",
       "all_tags": []
     }
   },
@@ -40,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 45,147<br/>Likes: 9209",
+    "description": "Downloads: 45,147<br/>Likes: 9213",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-10-08T09:24:24.672226+00:00",
+    "published_date": "2025-10-08T21:17:42.619079+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 45147,
-      "likes": 9209,
+      "likes": 9213,
       "last_modified": "2025-01-06T00:02:53.000Z",
       "all_tags": []
     }
@@ -58,16 +58,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Jr23xd23/ArabicText-Large",
-    "description": "Downloads: 1,184<br/>Likes: 27",
+    "description": "Downloads: 1,184<br/>Likes: 29",
     "url": "https://huggingface.co/datasets/Jr23xd23/ArabicText-Large",
-    "published_date": "2025-10-08T09:24:24.672231+00:00",
+    "published_date": "2025-10-08T21:17:42.619086+00:00",
     "categories": [],
     "metadata": {
       "author": "Jr23xd23",
       "item_name": "ArabicText-Large",
       "downloads": 1184,
-      "likes": 27,
+      "likes": 29,
       "last_modified": "2025-10-02T15:14:41.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d3e8736d5ec41cf17b044b0e98f2248e",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "omniretarget/OmniRetarget_Dataset",
+    "description": "Downloads: 1,178<br/>Likes: 22",
+    "url": "https://huggingface.co/datasets/omniretarget/OmniRetarget_Dataset",
+    "published_date": "2025-10-08T21:17:42.619098+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "omniretarget",
+      "item_name": "OmniRetarget_Dataset",
+      "downloads": 1178,
+      "likes": 22,
+      "last_modified": "2025-10-03T13:47:49.000Z",
       "all_tags": []
     }
   },
@@ -78,7 +96,7 @@
     "title": "facebook/seamless-interaction",
     "description": "Downloads: 16,323<br/>Likes: 160",
     "url": "https://huggingface.co/datasets/facebook/seamless-interaction",
-    "published_date": "2025-10-08T09:24:24.672241+00:00",
+    "published_date": "2025-10-08T21:17:42.619104+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
@@ -90,20 +108,20 @@
     }
   },
   {
-    "id": "d3e8736d5ec41cf17b044b0e98f2248e",
+    "id": "7eab1553bf70eca654f038a2fbc4fb99",
     "source": "huggingface",
     "type": "dataset",
-    "title": "omniretarget/OmniRetarget_Dataset",
-    "description": "Downloads: 1,178<br/>Likes: 21",
-    "url": "https://huggingface.co/datasets/omniretarget/OmniRetarget_Dataset",
-    "published_date": "2025-10-08T09:24:24.672246+00:00",
+    "title": "HuggingFaceFW/finepdfs",
+    "description": "Downloads: 104,271<br/>Likes: 600",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
+    "published_date": "2025-10-08T21:17:42.619110+00:00",
     "categories": [],
     "metadata": {
-      "author": "omniretarget",
-      "item_name": "OmniRetarget_Dataset",
-      "downloads": 1178,
-      "likes": 21,
-      "last_modified": "2025-10-03T13:47:49.000Z",
+      "author": "HuggingFaceFW",
+      "item_name": "finepdfs",
+      "downloads": 104271,
+      "likes": 600,
+      "last_modified": "2025-09-08T13:36:38.000Z",
       "all_tags": []
     }
   },
@@ -114,7 +132,7 @@
     "title": "lmms-lab/LLaVA-OneVision-1.5-Insturct-Data",
     "description": "Downloads: 73,490<br/>Likes: 49",
     "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-1.5-Insturct-Data",
-    "published_date": "2025-10-08T09:24:24.672251+00:00",
+    "published_date": "2025-10-08T21:17:42.619116+00:00",
     "categories": [],
     "metadata": {
       "author": "lmms-lab",
@@ -126,67 +144,13 @@
     }
   },
   {
-    "id": "7eab1553bf70eca654f038a2fbc4fb99",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "HuggingFaceFW/finepdfs",
-    "description": "Downloads: 104,271<br/>Likes: 598",
-    "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2025-10-08T09:24:24.672256+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HuggingFaceFW",
-      "item_name": "finepdfs",
-      "downloads": 104271,
-      "likes": 598,
-      "last_modified": "2025-09-08T13:36:38.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "29f447f06eba9ab248746d1a4320fe7d",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "HenriqueGodoy/extract-0",
-    "description": "Downloads: 1,054<br/>Likes: 15",
-    "url": "https://huggingface.co/datasets/HenriqueGodoy/extract-0",
-    "published_date": "2025-10-08T09:24:24.672260+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HenriqueGodoy",
-      "item_name": "extract-0",
-      "downloads": 1054,
-      "likes": 15,
-      "last_modified": "2025-09-30T15:55:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/gsm8k",
-    "description": "Downloads: 389,382<br/>Likes: 890",
-    "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-10-08T09:24:24.672264+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "gsm8k",
-      "downloads": 389382,
-      "likes": 890,
-      "last_modified": "2024-01-04T12:05:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "ec0d492fa927ed1b4573b27a2840a2cd",
     "source": "huggingface",
     "type": "dataset",
     "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
     "description": "Downloads: 9,996<br/>Likes: 901",
     "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
-    "published_date": "2025-10-08T09:24:24.672270+00:00",
+    "published_date": "2025-10-08T21:17:42.619122+00:00",
     "categories": [],
     "metadata": {
       "author": "FreedomIntelligence",
@@ -198,38 +162,20 @@
     }
   },
   {
-    "id": "8aa9eb1b4a15d42402000175d60bc2fa",
+    "id": "29f447f06eba9ab248746d1a4320fe7d",
     "source": "huggingface",
     "type": "dataset",
-    "title": "HuggingFaceM4/FineVision",
-    "description": "Downloads: 308,172<br/>Likes: 358",
-    "url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
-    "published_date": "2025-10-08T09:24:24.672274+00:00",
+    "title": "HenriqueGodoy/extract-0",
+    "description": "Downloads: 1,054<br/>Likes: 15",
+    "url": "https://huggingface.co/datasets/HenriqueGodoy/extract-0",
+    "published_date": "2025-10-08T21:17:42.619128+00:00",
     "categories": [],
     "metadata": {
-      "author": "HuggingFaceM4",
-      "item_name": "FineVision",
-      "downloads": 308172,
-      "likes": 358,
-      "last_modified": "2025-09-04T19:54:22.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "838548d22a69013469e75f60c2cda7a2",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "zai-org/CC-Bench-trajectories",
-    "description": "Downloads: 3,745<br/>Likes: 72",
-    "url": "https://huggingface.co/datasets/zai-org/CC-Bench-trajectories",
-    "published_date": "2025-10-08T09:24:24.672279+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "CC-Bench-trajectories",
-      "downloads": 3745,
-      "likes": 72,
-      "last_modified": "2025-09-30T04:10:55.000Z",
+      "author": "HenriqueGodoy",
+      "item_name": "extract-0",
+      "downloads": 1054,
+      "likes": 15,
+      "last_modified": "2025-09-30T15:55:00.000Z",
       "all_tags": []
     }
   },
@@ -238,34 +184,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "biglam/doab-metadata-extraction",
-    "description": "Downloads: 107<br/>Likes: 9",
+    "description": "Downloads: 107<br/>Likes: 10",
     "url": "https://huggingface.co/datasets/biglam/doab-metadata-extraction",
-    "published_date": "2025-10-08T09:24:24.672284+00:00",
+    "published_date": "2025-10-08T21:17:42.619134+00:00",
     "categories": [],
     "metadata": {
       "author": "biglam",
       "item_name": "doab-metadata-extraction",
       "downloads": 107,
-      "likes": 9,
+      "likes": 10,
       "last_modified": "2025-10-02T18:28:39.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "be1859eb49d89342b2ef634916b316f7",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
-    "description": "Downloads: 77,785<br/>Likes: 36",
-    "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
-    "published_date": "2025-10-08T09:24:24.672292+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "lmms-lab",
-      "item_name": "LLaVA-One-Vision-1.5-Mid-Training-85M",
-      "downloads": 77785,
-      "likes": 36,
-      "last_modified": "2025-10-08T09:22:01.000Z",
       "all_tags": []
     }
   },
@@ -274,16 +202,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "wikimedia/wikipedia",
-    "description": "Downloads: 67,292<br/>Likes: 939",
+    "description": "Downloads: 67,292<br/>Likes: 941",
     "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
-    "published_date": "2025-10-08T09:24:24.672298+00:00",
+    "published_date": "2025-10-08T21:17:42.619139+00:00",
     "categories": [],
     "metadata": {
       "author": "wikimedia",
       "item_name": "wikipedia",
       "downloads": 67292,
-      "likes": 939,
+      "likes": 941,
       "last_modified": "2024-01-09T09:40:51.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "838548d22a69013469e75f60c2cda7a2",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "zai-org/CC-Bench-trajectories",
+    "description": "Downloads: 3,745<br/>Likes: 73",
+    "url": "https://huggingface.co/datasets/zai-org/CC-Bench-trajectories",
+    "published_date": "2025-10-08T21:17:42.619145+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "CC-Bench-trajectories",
+      "downloads": 3745,
+      "likes": 73,
+      "last_modified": "2025-09-30T04:10:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "7381efcf18caf5856515807a5f0b90f5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "neuphonic/emilia-yodas-english-neucodec",
+    "description": "Downloads: 407<br/>Likes: 14",
+    "url": "https://huggingface.co/datasets/neuphonic/emilia-yodas-english-neucodec",
+    "published_date": "2025-10-08T21:17:42.619151+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "neuphonic",
+      "item_name": "emilia-yodas-english-neucodec",
+      "downloads": 407,
+      "likes": 14,
+      "last_modified": "2025-08-14T10:48:01.000Z",
       "all_tags": []
     }
   },
@@ -294,7 +258,7 @@
     "title": "Anthropic/hh-rlhf",
     "description": "Downloads: 24,110<br/>Likes: 1443",
     "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
-    "published_date": "2025-10-08T09:24:24.672302+00:00",
+    "published_date": "2025-10-08T21:17:42.619157+00:00",
     "categories": [],
     "metadata": {
       "author": "Anthropic",
@@ -306,31 +270,13 @@
     }
   },
   {
-    "id": "721b77ef5d0be15a6dcd4fc5fb3fd23a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Personas-Japan",
-    "description": "Downloads: 12,099<br/>Likes: 76",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Japan",
-    "published_date": "2025-10-08T09:24:24.672307+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Personas-Japan",
-      "downloads": 12099,
-      "likes": 76,
-      "last_modified": "2025-09-24T00:02:54.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "dbfed40a2c9dbdd729a093c31a184064",
     "source": "huggingface",
     "type": "dataset",
     "title": "zwhe99/DeepMath-103K",
     "description": "Downloads: 6,119<br/>Likes: 233",
     "url": "https://huggingface.co/datasets/zwhe99/DeepMath-103K",
-    "published_date": "2025-10-08T09:24:24.672311+00:00",
+    "published_date": "2025-10-08T21:17:42.619164+00:00",
     "categories": [],
     "metadata": {
       "author": "zwhe99",
@@ -342,13 +288,67 @@
     }
   },
   {
+    "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/gsm8k",
+    "description": "Downloads: 389,382<br/>Likes: 890",
+    "url": "https://huggingface.co/datasets/openai/gsm8k",
+    "published_date": "2025-10-08T21:17:42.619170+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gsm8k",
+      "downloads": 389382,
+      "likes": 890,
+      "last_modified": "2024-01-04T12:05:15.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8aa9eb1b4a15d42402000175d60bc2fa",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "HuggingFaceM4/FineVision",
+    "description": "Downloads: 308,172<br/>Likes: 358",
+    "url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
+    "published_date": "2025-10-08T21:17:42.619176+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HuggingFaceM4",
+      "item_name": "FineVision",
+      "downloads": 308172,
+      "likes": 358,
+      "last_modified": "2025-09-04T19:54:22.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "be1859eb49d89342b2ef634916b316f7",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
+    "description": "Downloads: 77,785<br/>Likes: 36",
+    "url": "https://huggingface.co/datasets/lmms-lab/LLaVA-One-Vision-1.5-Mid-Training-85M",
+    "published_date": "2025-10-08T21:17:42.619183+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "lmms-lab",
+      "item_name": "LLaVA-One-Vision-1.5-Mid-Training-85M",
+      "downloads": 77785,
+      "likes": 36,
+      "last_modified": "2025-10-08T21:14:50.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "e0945183378953a78f6c7674a7aa68b9",
     "source": "huggingface",
     "type": "dataset",
     "title": "WINDop/OpenGPT-4o-Image",
     "description": "Downloads: 1,491<br/>Likes: 13",
     "url": "https://huggingface.co/datasets/WINDop/OpenGPT-4o-Image",
-    "published_date": "2025-10-08T09:24:24.672316+00:00",
+    "published_date": "2025-10-08T21:17:42.619188+00:00",
     "categories": [],
     "metadata": {
       "author": "WINDop",
