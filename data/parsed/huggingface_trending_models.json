@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "neuphonic/neutts-air",
-    "description": "Type: text-to-speech<br/>Downloads: 11,395<br/>Likes: 398",
+    "description": "Type: text-to-speech<br/>Downloads: 11,395<br/>Likes: 422",
     "url": "https://huggingface.co/neuphonic/neutts-air",
-    "published_date": "2025-10-10T09:24:20.891273+00:00",
+    "published_date": "2025-10-10T21:16:35.110454+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -14,8 +14,8 @@
       "author": "neuphonic",
       "item_name": "neutts-air",
       "downloads": 11395,
-      "likes": 398,
-      "last_modified": "2025-10-09T17:20:22.000Z",
+      "likes": 422,
+      "last_modified": "2025-10-10T13:18:52.000Z",
       "all_tags": []
     }
   },
@@ -24,9 +24,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.6",
-    "description": "Type: text-generation<br/>Downloads: 24,650<br/>Likes: 652",
+    "description": "Type: text-generation<br/>Downloads: 24,650<br/>Likes: 672",
     "url": "https://huggingface.co/zai-org/GLM-4.6",
-    "published_date": "2025-10-10T09:24:20.891299+00:00",
+    "published_date": "2025-10-10T21:16:35.110479+00:00",
     "categories": [
       "text-generation"
     ],
@@ -34,7 +34,7 @@
       "author": "zai-org",
       "item_name": "GLM-4.6",
       "downloads": 24650,
-      "likes": 652,
+      "likes": 672,
       "last_modified": "2025-09-30T10:17:45.000Z",
       "all_tags": []
     }
@@ -44,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 412,396<br/>Likes: 204",
+    "description": "Type: image-text-to-text<br/>Downloads: 412,396<br/>Likes: 209",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "published_date": "2025-10-10T09:24:20.891307+00:00",
+    "published_date": "2025-10-10T21:16:35.110488+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -54,28 +54,8 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-30B-A3B-Instruct",
       "downloads": 412396,
-      "likes": 204,
+      "likes": 209,
       "last_modified": "2025-10-09T04:32:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b57b4415522b1da9e4d557497dc793db",
-    "source": "huggingface",
-    "type": "model",
-    "title": "ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "description": "Type: image-text-to-text<br/>Downloads: 9,244<br/>Likes: 350",
-    "url": "https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "published_date": "2025-10-10T09:24:20.891313+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "ServiceNow-AI",
-      "item_name": "Apriel-1.5-15b-Thinker",
-      "downloads": 9244,
-      "likes": 350,
-      "last_modified": "2025-10-06T18:55:51.000Z",
       "all_tags": []
     }
   },
@@ -84,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ling-1T",
-    "description": "Type: text-generation<br/>Downloads: 715<br/>Likes: 180",
+    "description": "Type: text-generation<br/>Downloads: 715<br/>Likes: 197",
     "url": "https://huggingface.co/inclusionAI/Ling-1T",
-    "published_date": "2025-10-10T09:24:20.891318+00:00",
+    "published_date": "2025-10-10T21:16:35.110494+00:00",
     "categories": [
       "text-generation"
     ],
@@ -94,8 +74,28 @@
       "author": "inclusionAI",
       "item_name": "Ling-1T",
       "downloads": 715,
-      "likes": 180,
+      "likes": 197,
       "last_modified": "2025-10-09T02:19:38.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b57b4415522b1da9e4d557497dc793db",
+    "source": "huggingface",
+    "type": "model",
+    "title": "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+    "description": "Type: image-text-to-text<br/>Downloads: 9,244<br/>Likes: 352",
+    "url": "https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker",
+    "published_date": "2025-10-10T21:16:35.110500+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "ServiceNow-AI",
+      "item_name": "Apriel-1.5-15b-Thinker",
+      "downloads": 9244,
+      "likes": 352,
+      "last_modified": "2025-10-06T18:55:51.000Z",
       "all_tags": []
     }
   },
@@ -104,9 +104,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ibm-granite/granite-4.0-h-small",
-    "description": "Type: text-generation<br/>Downloads: 22,119<br/>Likes: 236",
+    "description": "Type: text-generation<br/>Downloads: 22,119<br/>Likes: 241",
     "url": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
-    "published_date": "2025-10-10T09:24:20.891324+00:00",
+    "published_date": "2025-10-10T21:16:35.110506+00:00",
     "categories": [
       "text-generation"
     ],
@@ -114,8 +114,28 @@
       "author": "ibm-granite",
       "item_name": "granite-4.0-h-small",
       "downloads": 22119,
-      "likes": 236,
+      "likes": 241,
       "last_modified": "2025-10-07T06:03:09.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e944cc0752ae293a3dfe3e96d9d1c21f",
+    "source": "huggingface",
+    "type": "model",
+    "title": "LiquidAI/LFM2-8B-A1B",
+    "description": "Type: text-generation<br/>Downloads: 2,417<br/>Likes: 152",
+    "url": "https://huggingface.co/LiquidAI/LFM2-8B-A1B",
+    "published_date": "2025-10-10T21:16:35.110511+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "LiquidAI",
+      "item_name": "LFM2-8B-A1B",
+      "downloads": 2417,
+      "likes": 152,
+      "last_modified": "2025-10-09T04:59:56.000Z",
       "all_tags": []
     }
   },
@@ -124,9 +144,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "chetwinlow1/Ovi",
-    "description": "Type: image-to-video<br/>Downloads: 152<br/>Likes: 177",
+    "description": "Type: image-to-video<br/>Downloads: 152<br/>Likes: 179",
     "url": "https://huggingface.co/chetwinlow1/Ovi",
-    "published_date": "2025-10-10T09:24:20.891329+00:00",
+    "published_date": "2025-10-10T21:16:35.110515+00:00",
     "categories": [
       "image-to-video"
     ],
@@ -134,7 +154,7 @@
       "author": "chetwinlow1",
       "item_name": "Ovi",
       "downloads": 152,
-      "likes": 177,
+      "likes": 179,
       "last_modified": "2025-10-06T08:19:50.000Z",
       "all_tags": []
     }
@@ -144,9 +164,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ibm-granite/granite-4.0-micro",
-    "description": "Type: text-generation<br/>Downloads: 9,419<br/>Likes: 203",
+    "description": "Type: text-generation<br/>Downloads: 9,419<br/>Likes: 207",
     "url": "https://huggingface.co/ibm-granite/granite-4.0-micro",
-    "published_date": "2025-10-10T09:24:20.891334+00:00",
+    "published_date": "2025-10-10T21:16:35.110520+00:00",
     "categories": [
       "text-generation"
     ],
@@ -154,28 +174,48 @@
       "author": "ibm-granite",
       "item_name": "granite-4.0-micro",
       "downloads": 9419,
-      "likes": 203,
+      "likes": 207,
       "last_modified": "2025-10-07T05:57:24.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e944cc0752ae293a3dfe3e96d9d1c21f",
+    "id": "5343aaad184b14f65167b85a0e377e7b",
     "source": "huggingface",
     "type": "model",
-    "title": "LiquidAI/LFM2-8B-A1B",
-    "description": "Type: text-generation<br/>Downloads: 2,417<br/>Likes: 146",
-    "url": "https://huggingface.co/LiquidAI/LFM2-8B-A1B",
-    "published_date": "2025-10-10T09:24:20.891338+00:00",
+    "title": "microsoft/UserLM-8b",
+    "description": "Type: text-generation<br/>Downloads: 231<br/>Likes: 139",
+    "url": "https://huggingface.co/microsoft/UserLM-8b",
+    "published_date": "2025-10-10T21:16:35.110525+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "LiquidAI",
-      "item_name": "LFM2-8B-A1B",
-      "downloads": 2417,
-      "likes": 146,
-      "last_modified": "2025-10-09T04:59:56.000Z",
+      "author": "microsoft",
+      "item_name": "UserLM-8b",
+      "downloads": 231,
+      "likes": 139,
+      "last_modified": "2025-10-09T21:59:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "90616da303fdbacae0fa4078ed3375be",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+    "description": "Type: text-to-image<br/>Likes: 130",
+    "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
+    "published_date": "2025-10-10T21:16:35.110532+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "Phr00t",
+      "item_name": "Qwen-Image-Edit-Rapid-AIO",
+      "downloads": 0,
+      "likes": 130,
+      "last_modified": "2025-10-07T16:00:07.000Z",
       "all_tags": []
     }
   },
@@ -184,9 +224,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HunyuanImage-3.0",
-    "description": "Type: text-to-image<br/>Downloads: 2,559<br/>Likes: 851",
+    "description": "Type: text-to-image<br/>Downloads: 2,559<br/>Likes: 853",
     "url": "https://huggingface.co/tencent/HunyuanImage-3.0",
-    "published_date": "2025-10-10T09:24:20.891343+00:00",
+    "published_date": "2025-10-10T21:16:35.110539+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -194,7 +234,7 @@
       "author": "tencent",
       "item_name": "HunyuanImage-3.0",
       "downloads": 2559,
-      "likes": 851,
+      "likes": 853,
       "last_modified": "2025-10-02T13:19:01.000Z",
       "all_tags": []
     }
@@ -204,9 +244,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "description": "Type: text-generation<br/>Downloads: 42,892<br/>Likes: 604",
+    "description": "Type: text-generation<br/>Downloads: 42,892<br/>Likes: 607",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
-    "published_date": "2025-10-10T09:24:20.891357+00:00",
+    "published_date": "2025-10-10T21:16:35.110544+00:00",
     "categories": [
       "text-generation"
     ],
@@ -214,48 +254,8 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V3.2-Exp",
       "downloads": 42892,
-      "likes": 604,
+      "likes": 607,
       "last_modified": "2025-10-09T06:19:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a0bbab09ca67159c51ff29c2dd44e578",
-    "source": "huggingface",
-    "type": "model",
-    "title": "ibm-granite/granite-4.0-h-tiny",
-    "description": "Type: text-generation<br/>Downloads: 24,133<br/>Likes: 128",
-    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-tiny",
-    "published_date": "2025-10-10T09:24:20.891387+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "ibm-granite",
-      "item_name": "granite-4.0-h-tiny",
-      "downloads": 24133,
-      "likes": 128,
-      "last_modified": "2025-10-07T06:01:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "90616da303fdbacae0fa4078ed3375be",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "description": "Type: text-to-image<br/>Likes: 113",
-    "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "published_date": "2025-10-10T09:24:20.891392+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "Phr00t",
-      "item_name": "Qwen-Image-Edit-Rapid-AIO",
-      "downloads": 0,
-      "likes": 113,
-      "last_modified": "2025-10-07T16:00:07.000Z",
       "all_tags": []
     }
   },
@@ -264,9 +264,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-30B-A3B-Thinking",
-    "description": "Type: image-text-to-text<br/>Downloads: 7,870<br/>Likes: 101",
+    "description": "Type: image-text-to-text<br/>Downloads: 7,870<br/>Likes: 103",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking",
-    "published_date": "2025-10-10T09:24:20.891397+00:00",
+    "published_date": "2025-10-10T21:16:35.110549+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -274,28 +274,48 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-30B-A3B-Thinking",
       "downloads": 7870,
-      "likes": 101,
+      "likes": 103,
       "last_modified": "2025-10-09T04:35:04.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "5343aaad184b14f65167b85a0e377e7b",
+    "id": "a0bbab09ca67159c51ff29c2dd44e578",
     "source": "huggingface",
     "type": "model",
-    "title": "microsoft/UserLM-8b",
-    "description": "Type: text-generation<br/>Downloads: 231<br/>Likes: 100",
-    "url": "https://huggingface.co/microsoft/UserLM-8b",
-    "published_date": "2025-10-10T09:24:20.891401+00:00",
+    "title": "ibm-granite/granite-4.0-h-tiny",
+    "description": "Type: text-generation<br/>Downloads: 24,133<br/>Likes: 129",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-tiny",
+    "published_date": "2025-10-10T21:16:35.110553+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "microsoft",
-      "item_name": "UserLM-8b",
-      "downloads": 231,
-      "likes": 100,
-      "last_modified": "2025-10-09T21:59:47.000Z",
+      "author": "ibm-granite",
+      "item_name": "granite-4.0-h-tiny",
+      "downloads": 24133,
+      "likes": 129,
+      "last_modified": "2025-10-07T06:01:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "eaa4cc43a00844f22af38b63e114d80c",
+    "source": "huggingface",
+    "type": "model",
+    "title": "lovis93/next-scene-qwen-image-lora-2509",
+    "description": "Type: image-to-image<br/>Downloads: 1,416<br/>Likes: 88",
+    "url": "https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509",
+    "published_date": "2025-10-10T21:16:35.110558+00:00",
+    "categories": [
+      "image-to-image"
+    ],
+    "metadata": {
+      "author": "lovis93",
+      "item_name": "next-scene-qwen-image-lora-2509",
+      "downloads": 1416,
+      "likes": 88,
+      "last_modified": "2025-10-09T16:26:09.000Z",
       "all_tags": []
     }
   },
@@ -304,9 +324,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ibm-granite/granite-docling-258M",
-    "description": "Type: image-text-to-text<br/>Downloads: 211,927<br/>Likes: 890",
+    "description": "Type: image-text-to-text<br/>Downloads: 211,927<br/>Likes: 895",
     "url": "https://huggingface.co/ibm-granite/granite-docling-258M",
-    "published_date": "2025-10-10T09:24:20.891406+00:00",
+    "published_date": "2025-10-10T21:16:35.110562+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -314,7 +334,7 @@
       "author": "ibm-granite",
       "item_name": "granite-docling-258M",
       "downloads": 211927,
-      "likes": 890,
+      "likes": 895,
       "last_modified": "2025-09-23T08:52:16.000Z",
       "all_tags": []
     }
@@ -326,7 +346,7 @@
     "title": "LiquidAI/LFM2-Audio-1.5B",
     "description": "Type: audio-to-audio<br/>Downloads: 990<br/>Likes: 232",
     "url": "https://huggingface.co/LiquidAI/LFM2-Audio-1.5B",
-    "published_date": "2025-10-10T09:24:20.891411+00:00",
+    "published_date": "2025-10-10T21:16:35.110567+00:00",
     "categories": [
       "audio-to-audio"
     ],
@@ -340,33 +360,13 @@
     }
   },
   {
-    "id": "67877cf92844661da15e29f6c4a78bf6",
-    "source": "huggingface",
-    "type": "model",
-    "title": "ibm-granite/granite-4.0-h-micro",
-    "description": "Type: text-generation<br/>Downloads: 11,706<br/>Likes: 94",
-    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-micro",
-    "published_date": "2025-10-10T09:24:20.891416+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "ibm-granite",
-      "item_name": "granite-4.0-h-micro",
-      "downloads": 11706,
-      "likes": 94,
-      "last_modified": "2025-10-07T05:59:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "59c802783c68fc2c923ed796fa10e33b",
     "source": "huggingface",
     "type": "model",
     "title": "nineninesix/kani-tts-370m",
-    "description": "Type: text-to-speech<br/>Downloads: 4,863<br/>Likes: 95",
+    "description": "Type: text-to-speech<br/>Downloads: 4,863<br/>Likes: 99",
     "url": "https://huggingface.co/nineninesix/kani-tts-370m",
-    "published_date": "2025-10-10T09:24:20.891420+00:00",
+    "published_date": "2025-10-10T21:16:35.110571+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -374,28 +374,28 @@
       "author": "nineninesix",
       "item_name": "kani-tts-370m",
       "downloads": 4863,
-      "likes": 95,
+      "likes": 99,
       "last_modified": "2025-09-30T23:24:07.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "eaa4cc43a00844f22af38b63e114d80c",
+    "id": "67877cf92844661da15e29f6c4a78bf6",
     "source": "huggingface",
     "type": "model",
-    "title": "lovis93/next-scene-qwen-image-lora-2509",
-    "description": "Type: image-to-image<br/>Downloads: 1,416<br/>Likes: 72",
-    "url": "https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509",
-    "published_date": "2025-10-10T09:24:20.891425+00:00",
+    "title": "ibm-granite/granite-4.0-h-micro",
+    "description": "Type: text-generation<br/>Downloads: 11,706<br/>Likes: 96",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-micro",
+    "published_date": "2025-10-10T21:16:35.110576+00:00",
     "categories": [
-      "image-to-image"
+      "text-generation"
     ],
     "metadata": {
-      "author": "lovis93",
-      "item_name": "next-scene-qwen-image-lora-2509",
-      "downloads": 1416,
-      "likes": 72,
-      "last_modified": "2025-10-09T16:26:09.000Z",
+      "author": "ibm-granite",
+      "item_name": "granite-4.0-h-micro",
+      "downloads": 11706,
+      "likes": 96,
+      "last_modified": "2025-10-07T05:59:20.000Z",
       "all_tags": []
     }
   }
