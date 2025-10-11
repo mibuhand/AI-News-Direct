@@ -4,11 +4,21 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_research</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-10-10T21:17:12.402926+00:00</updated>
+  <updated>2025-10-11T09:20:08.689079+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml" rel="self"/>
+  <entry>
+    <title>PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders</title>
+    <id>1e036357cdb955e85a05415daa514173</id>
+    <link href="https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders"/>
+    <updated>2025-09-01T16:00:00+00:00</updated>
+    <category term="Molecular Biology"/>
+    <summary>PXDesign achieves nanomolar binder hit rates of 20–73% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.
+
+To support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.</summary>
+  </entry>
   <entry>
     <title>Robix: A Unified Model for Robot Interaction, Reasoning and Planning</title>
     <id>dccf1debfc24b5c01efdc33b3731c87d</id>
@@ -48,14 +58,5 @@
     <updated>2025-06-04T16:00:00+00:00</updated>
     <category term="Computer Vision"/>
     <summary>We introduce SeedEdit 3.0, in companion with our T2I model Seedream 3.0, which significantly improves over our previous SeedEdit versions in both aspects of edit instruction following and image content (e.g., ID/IP) preservation on real image inputs. Additional to model upgrading with T2I, in this report, we present several key improvements. First, we develop an enhanced data curation pipeline with a meta-info paradigm and meta-info embedding strategy that help mix images from multiple data sources. This allows us to scale editing data effectively, and meta information is helpfult to connect VLM with diffusion model more closely. Second, we introduce a joint learning pipeline for computing a diffusion loss and reward losses. Finally, we evaluate SeedEdit 3.0 on our testing benchmarks, for real/synthetic image editing, where it achieves a best trade-off between multiple aspects, yielding a high usability rate of 56.1%, compared to SeedEdit 1.6 (38.4%), GPT4o (37.1%) and Gemini 2.0 (30.3%).</summary>
-  </entry>
-  <entry>
-    <title>MMaDA: Multimodal Large Diffusion Language Models</title>
-    <id>a017383bd0d40d10b4ca9bf35b20b583</id>
-    <link href="https://seed.bytedance.com/en/research/mmada-multimodal-large-diffusion-language-models"/>
-    <updated>2025-05-20T16:00:00+00:00</updated>
-    <category term="Computer Vision"/>
-    <summary>We introduce MMaDA, a novel class of multimodal diffusion foundation models designed to achieve superior performance across diverse domains such as textual reasoning, multimodal understanding, and text-to-image generation. The approach is distinguished by three key innovations: (i) MMaDA adopts a unified diffusion architecture with a shared probabilistic formulation and a modality-agnostic design, eliminating the need for modality-specific components. This architecture ensures seamless integration and processing across different data types. (ii) We implement a mixed long chain-of-thought (CoT) fine-tuning strategy that curates a unified CoT format across modalities. By aligning reasoning processes between textual and visual domains, this strategy facilitates cold-start training for the final reinforcement learning (RL) stage, thereby enhancing the model's ability to handle complex tasks from the outset. (iii) We propose UniGRPO, a unified policy-gradient-based RL algorithm specifically tailored for diffusion foundation models. Utilizing diversified reward modeling, UniGRPO unifies post-training across both reasoning and generation tasks, ensuring consistent performance improvements. Experimental results demonstrate that MMaDA-8B exhibits strong generalization capabilities as a unified multimodal foundation model. It surpasses powerful models like LLaMA-3-7B and Qwen2-7B in textual reasoning, outperforms Show-o and SEED-X in multimodal understanding, and excels over SDXL and Janus in text-to-image generation. These achievements highlight MMaDA's effectiveness in bridging the gap between pretraining and post-training within unified diffusion architectures, providing a comprehensive framework for future research and development. We open-source our code and trained models at:
-https://github.com/Gen-Verse/MMaDA</summary>
   </entry>
 </feed>
