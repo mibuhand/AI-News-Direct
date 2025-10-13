@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:anthropic_news</id>
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <logo>https://www.anthropic.com/favicon.ico</logo>
-  <updated>2025-10-13T09:27:52.099070+00:00</updated>
+  <updated>2025-10-13T21:17:47.842780+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -50,14 +50,6 @@
     <summary/>
   </entry>
   <entry>
-    <title>Claude and Slack</title>
-    <id>faf58e2e0ff801c9f373c39502cd85af</id>
-    <link href="https://www.anthropic.com/news/claude-and-slack"/>
-    <updated>2025-10-01T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>How enterprises are driving AI transformation with Claude</title>
     <id>5ee4b5236680f10d38e7c1bc2a063911</id>
     <link href="https://www.anthropic.com/news/driving-ai-transformation-with-claude"/>
@@ -66,10 +58,10 @@
     <summary/>
   </entry>
   <entry>
-    <title>Enabling Claude Code to work more autonomously</title>
-    <id>5fd7f4668399fbf8633d9be112d5d0ec</id>
-    <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
-    <updated>2025-09-29T00:00:00+00:00</updated>
+    <title>Claude and Slack</title>
+    <id>faf58e2e0ff801c9f373c39502cd85af</id>
+    <link href="https://www.anthropic.com/news/claude-and-slack"/>
+    <updated>2025-10-01T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary/>
   </entry>
@@ -85,6 +77,14 @@
     <title>Managing context on the Claude Developer Platform</title>
     <id>a654f1a0324e243b02e9f69fcab03f06</id>
     <link href="https://www.anthropic.com/news/context-management"/>
+    <updated>2025-09-29T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Enabling Claude Code to work more autonomously</title>
+    <id>5fd7f4668399fbf8633d9be112d5d0ec</id>
+    <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
     <updated>2025-09-29T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary/>
@@ -106,11 +106,11 @@
     <summary/>
   </entry>
   <entry>
-    <title>Claude is now generally available in Xcode</title>
-    <id>74d1e88f64344766fc98a80132102a31</id>
-    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
+    <title>Anthropic Economic Index report: Uneven geographic and enterprise AI adoption</title>
+    <id>cd306988f9d972f1967e20f08fc6a13b</id>
+    <link href="https://www.anthropic.com/research/anthropic-economic-index-september-2025-report"/>
     <updated>2025-09-15T00:00:00+00:00</updated>
-    <category term="Product"/>
+    <category term="Economic Research"/>
     <summary/>
   </entry>
   <entry>
@@ -122,11 +122,11 @@
     <summary/>
   </entry>
   <entry>
-    <title>Anthropic Economic Index report: Uneven geographic and enterprise AI adoption</title>
-    <id>cd306988f9d972f1967e20f08fc6a13b</id>
-    <link href="https://www.anthropic.com/research/anthropic-economic-index-september-2025-report"/>
+    <title>Claude is now generally available in Xcode</title>
+    <id>74d1e88f64344766fc98a80132102a31</id>
+    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
     <updated>2025-09-15T00:00:00+00:00</updated>
-    <category term="Economic Research"/>
+    <category term="Product"/>
     <summary/>
   </entry>
   <entry>
@@ -202,19 +202,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>Anthropic Education Report: How educators use Claude</title>
-    <id>4147e8d651ee8bafa84518cacebc3843</id>
-    <link href="https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude"/>
-    <updated>2025-08-27T00:00:00+00:00</updated>
-    <category term="Societal Impacts"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Detecting and countering misuse of AI: August 2025</title>
     <id>e745c20841437cec718134ace7a22424</id>
     <link href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"/>
     <updated>2025-08-27T00:00:00+00:00</updated>
     <category term="Announcements"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Anthropic Education Report: How educators use Claude</title>
+    <id>4147e8d651ee8bafa84518cacebc3843</id>
+    <link href="https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude"/>
+    <updated>2025-08-27T00:00:00+00:00</updated>
+    <category term="Societal Impacts"/>
     <summary/>
   </entry>
   <entry>
@@ -258,14 +258,6 @@
     <summary/>
   </entry>
   <entry>
-    <title>Building safeguards for Claude</title>
-    <id>32f7e54781551f17176f89a243246da8</id>
-    <link href="https://www.anthropic.com/news/building-safeguards-for-claude"/>
-    <updated>2025-08-12T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Offering expanded Claude access across all three branches of the U.S. government</title>
     <id>857a1a48237ba00f74b59b1b26a184f8</id>
     <link href="https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government"/>
@@ -277,6 +269,14 @@
     <title>Claude Sonnet 4 now supports 1M tokens of context</title>
     <id>1c00d6b40b0edab4503537237b0101d4</id>
     <link href="https://www.anthropic.com/news/1m-context"/>
+    <updated>2025-08-12T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Building safeguards for Claude</title>
+    <id>32f7e54781551f17176f89a243246da8</id>
+    <link href="https://www.anthropic.com/news/building-safeguards-for-claude"/>
     <updated>2025-08-12T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary/>
@@ -338,14 +338,6 @@
     <summary/>
   </entry>
   <entry>
-    <title>Thoughts on America’s AI Action Plan</title>
-    <id>3edec55a8b939e3e0cf787521ec9ce71</id>
-    <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <category term="Policy"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
     <id>4e8356ed7cc889cf1066833bd4937e17</id>
     <link href="https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic"/>
@@ -354,10 +346,10 @@
     <summary/>
   </entry>
   <entry>
-    <title>Build AI in America</title>
-    <id>b18189646d8a7b3e7a095b35e624858f</id>
-    <link href="https://www.anthropic.com/news/build-ai-in-america"/>
-    <updated>2025-07-21T00:00:00+00:00</updated>
+    <title>Thoughts on America’s AI Action Plan</title>
+    <id>3edec55a8b939e3e0cf787521ec9ce71</id>
+    <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
+    <updated>2025-07-23T00:00:00+00:00</updated>
     <category term="Policy"/>
     <summary/>
   </entry>
@@ -365,6 +357,14 @@
     <title>Anthropic to sign the EU Code of Practice</title>
     <id>9c6814aa5ad8771a4b782ad661a59959</id>
     <link href="https://www.anthropic.com/news/eu-code-practice"/>
+    <updated>2025-07-21T00:00:00+00:00</updated>
+    <category term="Policy"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Build AI in America</title>
+    <id>b18189646d8a7b3e7a095b35e624858f</id>
+    <link href="https://www.anthropic.com/news/build-ai-in-america"/>
     <updated>2025-07-21T00:00:00+00:00</updated>
     <category term="Policy"/>
     <summary/>
@@ -378,19 +378,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>Paul Smith to join Anthropic as Chief Commercial Officer</title>
-    <id>0eb8bd61db291ac1c698d8f79737d98b</id>
-    <link href="https://www.anthropic.com/news/paul-smith-to-join-anthropic"/>
-    <updated>2025-07-15T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Investing in energy to secure America's AI future</title>
     <id>1b45ea94e5700f9400ad5a5be853ee1d</id>
     <link href="https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future"/>
     <updated>2025-07-15T00:00:00+00:00</updated>
     <category term="Alignment"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Paul Smith to join Anthropic as Chief Commercial Officer</title>
+    <id>0eb8bd61db291ac1c698d8f79737d98b</id>
+    <link href="https://www.anthropic.com/news/paul-smith-to-join-anthropic"/>
+    <updated>2025-07-15T00:00:00+00:00</updated>
+    <category term="Announcements"/>
     <summary/>
   </entry>
   <entry>
@@ -410,19 +410,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers</title>
-    <id>6f5fabe072e3578613741e38c6fefc9f</id>
-    <link href="https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and"/>
-    <updated>2025-07-09T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Advancing Claude for Education</title>
     <id>80f41491d97072f0656f5f5e57fdf934</id>
     <link href="https://www.anthropic.com/news/advancing-claude-for-education"/>
     <updated>2025-07-09T00:00:00+00:00</updated>
     <category term="Product"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers</title>
+    <id>6f5fabe072e3578613741e38c6fefc9f</id>
+    <link href="https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and"/>
+    <updated>2025-07-09T00:00:00+00:00</updated>
+    <category term="Announcements"/>
     <summary/>
   </entry>
   <entry>
@@ -434,19 +434,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>How people use Claude for support, advice, and companionship</title>
-    <id>55e6c269c3174ff9f657f506eafc3f5e</id>
-    <link href="https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"/>
-    <updated>2025-06-27T00:00:00+00:00</updated>
-    <category term="Societal Impacts"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Introducing the Anthropic Economic Futures Program</title>
     <id>ab0a5259bced190e24b9072061eedba2</id>
     <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"/>
     <updated>2025-06-27T00:00:00+00:00</updated>
     <category term="Announcements"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>How people use Claude for support, advice, and companionship</title>
+    <id>55e6c269c3174ff9f657f506eafc3f5e</id>
+    <link href="https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"/>
+    <updated>2025-06-27T00:00:00+00:00</updated>
+    <category term="Societal Impacts"/>
     <summary/>
   </entry>
   <entry>
@@ -570,19 +570,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>Introducing the Anthropic Economic Advisory Council</title>
-    <id>7809fdb12fb299541ff108d39090c796</id>
-    <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council"/>
-    <updated>2025-04-28T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Anthropic Economic Index: AI’s impact on software development</title>
     <id>e256c2a529975fbea80f90714e93dc8f</id>
     <link href="https://www.anthropic.com/research/impact-software-development"/>
     <updated>2025-04-28T00:00:00+00:00</updated>
     <category term="Societal Impacts"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Introducing the Anthropic Economic Advisory Council</title>
+    <id>7809fdb12fb299541ff108d39090c796</id>
+    <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council"/>
+    <updated>2025-04-28T00:00:00+00:00</updated>
+    <category term="Announcements"/>
     <summary/>
   </entry>
   <entry>
@@ -754,17 +754,17 @@
     <summary/>
   </entry>
   <entry>
-    <title>Claude’s extended thinking</title>
-    <id>d588293e227ff908f4f28c9f5819981a</id>
-    <link href="https://www.anthropic.com/research/visible-extended-thinking"/>
+    <title>Claude 3.7 Sonnet and Claude Code</title>
+    <id>46e3e7f2f99c09be34acf0cdb8a04859</id>
+    <link href="https://www.anthropic.com/news/claude-3-7-sonnet"/>
     <updated>2025-02-24T00:00:00+00:00</updated>
     <category term="Announcements"/>
     <summary/>
   </entry>
   <entry>
-    <title>Claude 3.7 Sonnet and Claude Code</title>
-    <id>46e3e7f2f99c09be34acf0cdb8a04859</id>
-    <link href="https://www.anthropic.com/news/claude-3-7-sonnet"/>
+    <title>Claude’s extended thinking</title>
+    <id>d588293e227ff908f4f28c9f5819981a</id>
+    <link href="https://www.anthropic.com/research/visible-extended-thinking"/>
     <updated>2025-02-24T00:00:00+00:00</updated>
     <category term="Announcements"/>
     <summary/>
@@ -1150,19 +1150,19 @@
     <summary/>
   </entry>
   <entry>
-    <title>Reflections on our Responsible Scaling Policy</title>
-    <id>06c712b8844293ef1d0323bef8485e0b</id>
-    <link href="https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"/>
-    <updated>2024-05-20T00:00:00+00:00</updated>
-    <category term="Policy"/>
-    <summary/>
-  </entry>
-  <entry>
     <title>Generate better prompts in the developer console</title>
     <id>934d88660a680a53bd669c3b61e979ce</id>
     <link href="https://www.anthropic.com/news/prompt-generator"/>
     <updated>2024-05-20T00:00:00+00:00</updated>
     <category term="Product"/>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Reflections on our Responsible Scaling Policy</title>
+    <id>06c712b8844293ef1d0323bef8485e0b</id>
+    <link href="https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"/>
+    <updated>2024-05-20T00:00:00+00:00</updated>
+    <category term="Policy"/>
     <summary/>
   </entry>
   <entry>
@@ -1335,17 +1335,17 @@
     <summary/>
   </entry>
   <entry>
-    <title>The Long-Term Benefit Trust</title>
-    <id>f41d4233ea14521a61911cce7c0ae118</id>
-    <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
+    <title>Anthropic's Responsible Scaling Policy</title>
+    <id>ee3abdb74b51889f2d21db5406f5a863</id>
+    <link href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy"/>
     <updated>2023-09-19T00:00:00+00:00</updated>
     <category term="Announcements"/>
     <summary/>
   </entry>
   <entry>
-    <title>Anthropic's Responsible Scaling Policy</title>
-    <id>ee3abdb74b51889f2d21db5406f5a863</id>
-    <link href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy"/>
+    <title>The Long-Term Benefit Trust</title>
+    <id>f41d4233ea14521a61911cce7c0ae118</id>
+    <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
     <updated>2023-09-19T00:00:00+00:00</updated>
     <category term="Announcements"/>
     <summary/>
