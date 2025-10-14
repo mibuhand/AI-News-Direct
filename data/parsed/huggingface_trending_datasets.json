@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Agent-Ark/Toucan-1.5M",
-    "description": "Downloads: 7,262<br/>Likes: 112",
+    "description": "Downloads: 7,262<br/>Likes: 115",
     "url": "https://huggingface.co/datasets/Agent-Ark/Toucan-1.5M",
-    "published_date": "2025-10-14T09:25:05.208908+00:00",
+    "published_date": "2025-10-14T21:17:11.076182+00:00",
     "categories": [],
     "metadata": {
       "author": "Agent-Ark",
       "item_name": "Toucan-1.5M",
       "downloads": 7262,
-      "likes": 112,
+      "likes": 115,
       "last_modified": "2025-10-04T00:51:18.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Salesforce/Webscale-RL",
-    "description": "Downloads: 2,187<br/>Likes: 42",
+    "description": "Downloads: 2,187<br/>Likes: 45",
     "url": "https://huggingface.co/datasets/Salesforce/Webscale-RL",
-    "published_date": "2025-10-14T09:25:05.208923+00:00",
+    "published_date": "2025-10-14T21:17:11.076207+00:00",
     "categories": [],
     "metadata": {
       "author": "Salesforce",
       "item_name": "Webscale-RL",
       "downloads": 2187,
-      "likes": 42,
+      "likes": 45,
       "last_modified": "2025-10-14T03:20:17.000Z",
       "all_tags": []
     }
@@ -40,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 39,255<br/>Likes: 9243",
+    "description": "Downloads: 39,255<br/>Likes: 9248",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-10-14T09:25:05.208931+00:00",
+    "published_date": "2025-10-14T21:17:11.076216+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 39255,
-      "likes": 9243,
+      "likes": 9248,
       "last_modified": "2025-01-06T00:02:53.000Z",
       "all_tags": []
     }
@@ -60,7 +60,7 @@
     "title": "openai/gdpval",
     "description": "Downloads: 36,203<br/>Likes: 229",
     "url": "https://huggingface.co/datasets/openai/gdpval",
-    "published_date": "2025-10-14T09:25:05.208938+00:00",
+    "published_date": "2025-10-14T21:17:11.076223+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -78,7 +78,7 @@
     "title": "Jr23xd23/ArabicText-Large",
     "description": "Downloads: 3,158<br/>Likes: 51",
     "url": "https://huggingface.co/datasets/Jr23xd23/ArabicText-Large",
-    "published_date": "2025-10-14T09:25:05.208950+00:00",
+    "published_date": "2025-10-14T21:17:11.076237+00:00",
     "categories": [],
     "metadata": {
       "author": "Jr23xd23",
@@ -90,13 +90,31 @@
     }
   },
   {
+    "id": "be651b051e15d806a09eb5fb64cb66b3",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "karpathy/fineweb-edu-100b-shuffle",
+    "description": "Downloads: 2,279<br/>Likes: 20",
+    "url": "https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle",
+    "published_date": "2025-10-14T21:17:11.076244+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "karpathy",
+      "item_name": "fineweb-edu-100b-shuffle",
+      "downloads": 2279,
+      "likes": 20,
+      "last_modified": "2025-09-25T11:25:20.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "bf1c74dfcad4c32e10781871f7570500",
     "source": "huggingface",
     "type": "dataset",
     "title": "WNJXYK/MATH-Reasoning-Paths",
     "description": "Downloads: 76<br/>Likes: 20",
     "url": "https://huggingface.co/datasets/WNJXYK/MATH-Reasoning-Paths",
-    "published_date": "2025-10-14T09:25:05.208957+00:00",
+    "published_date": "2025-10-14T21:17:11.076298+00:00",
     "categories": [],
     "metadata": {
       "author": "WNJXYK",
@@ -108,13 +126,31 @@
     }
   },
   {
+    "id": "2cd92d1d7ae66ecd5225db2e47b50276",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "google/svq",
+    "description": "Downloads: 514<br/>Likes: 22",
+    "url": "https://huggingface.co/datasets/google/svq",
+    "published_date": "2025-10-14T21:17:11.076309+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "google",
+      "item_name": "svq",
+      "downloads": 514,
+      "likes": 22,
+      "last_modified": "2025-10-14T17:51:27.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "c28ee51e7b6e9f9b9a634fc403996591",
     "source": "huggingface",
     "type": "dataset",
     "title": "WNJXYK/MathOdyssey-Reasoning-Paths",
     "description": "Downloads: 218<br/>Likes: 16",
     "url": "https://huggingface.co/datasets/WNJXYK/MathOdyssey-Reasoning-Paths",
-    "published_date": "2025-10-14T09:25:05.208963+00:00",
+    "published_date": "2025-10-14T21:17:11.076316+00:00",
     "categories": [],
     "metadata": {
       "author": "WNJXYK",
@@ -126,56 +162,38 @@
     }
   },
   {
+    "id": "6f7c345a0043b7cef8c9df35c468f84c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Personas-India",
+    "description": "Downloads: 212<br/>Likes: 15",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-India",
+    "published_date": "2025-10-14T21:17:11.076322+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Personas-India",
+      "downloads": 212,
+      "likes": 15,
+      "last_modified": "2025-10-14T04:55:17.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "7eab1553bf70eca654f038a2fbc4fb99",
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finepdfs",
-    "description": "Downloads: 65,546<br/>Likes: 607",
+    "description": "Downloads: 65,546<br/>Likes: 609",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2025-10-14T09:25:05.208969+00:00",
+    "published_date": "2025-10-14T21:17:11.076328+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finepdfs",
       "downloads": 65546,
-      "likes": 607,
+      "likes": 609,
       "last_modified": "2025-09-08T13:36:38.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "be651b051e15d806a09eb5fb64cb66b3",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "karpathy/fineweb-edu-100b-shuffle",
-    "description": "Downloads: 2,279<br/>Likes: 14",
-    "url": "https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle",
-    "published_date": "2025-10-14T09:25:05.208975+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "karpathy",
-      "item_name": "fineweb-edu-100b-shuffle",
-      "downloads": 2279,
-      "likes": 14,
-      "last_modified": "2025-09-25T11:25:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "2cd92d1d7ae66ecd5225db2e47b50276",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "google/svq",
-    "description": "Downloads: 514<br/>Likes: 19",
-    "url": "https://huggingface.co/datasets/google/svq",
-    "published_date": "2025-10-14T09:25:05.208981+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "google",
-      "item_name": "svq",
-      "downloads": 514,
-      "likes": 19,
-      "last_modified": "2025-10-14T03:17:43.000Z",
       "all_tags": []
     }
   },
@@ -186,7 +204,7 @@
     "title": "WNJXYK/OlympiadBench-Reasoning-Paths",
     "description": "Downloads: 48<br/>Likes: 14",
     "url": "https://huggingface.co/datasets/WNJXYK/OlympiadBench-Reasoning-Paths",
-    "published_date": "2025-10-14T09:25:05.208986+00:00",
+    "published_date": "2025-10-14T21:17:11.076334+00:00",
     "categories": [],
     "metadata": {
       "author": "WNJXYK",
@@ -204,7 +222,7 @@
     "title": "zwhe99/DeepMath-103K",
     "description": "Downloads: 7,300<br/>Likes: 245",
     "url": "https://huggingface.co/datasets/zwhe99/DeepMath-103K",
-    "published_date": "2025-10-14T09:25:05.208992+00:00",
+    "published_date": "2025-10-14T21:17:11.076340+00:00",
     "categories": [],
     "metadata": {
       "author": "zwhe99",
@@ -216,38 +234,20 @@
     }
   },
   {
-    "id": "6f7c345a0043b7cef8c9df35c468f84c",
+    "id": "4ea205174c4f3d7a4149fb32fb27d27c",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nvidia/Nemotron-Personas-India",
-    "description": "Downloads: 212<br/>Likes: 13",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-India",
-    "published_date": "2025-10-14T09:25:05.208997+00:00",
+    "title": "MTSAIR/MWS-Vision-Bench",
+    "description": "Downloads: 940<br/>Likes: 12",
+    "url": "https://huggingface.co/datasets/MTSAIR/MWS-Vision-Bench",
+    "published_date": "2025-10-14T21:17:11.076346+00:00",
     "categories": [],
     "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Personas-India",
-      "downloads": 212,
-      "likes": 13,
-      "last_modified": "2025-10-14T04:55:17.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e3d688f00cd0714f9516857b954eaaac",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Anthropic/hh-rlhf",
-    "description": "Downloads: 27,354<br/>Likes: 1453",
-    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
-    "published_date": "2025-10-14T09:25:05.209003+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Anthropic",
-      "item_name": "hh-rlhf",
-      "downloads": 27354,
-      "likes": 1453,
-      "last_modified": "2023-05-26T18:47:34.000Z",
+      "author": "MTSAIR",
+      "item_name": "MWS-Vision-Bench",
+      "downloads": 940,
+      "likes": 12,
+      "last_modified": "2025-10-11T10:36:37.000Z",
       "all_tags": []
     }
   },
@@ -258,7 +258,7 @@
     "title": "allenai/WildChat-1M",
     "description": "Downloads: 11,014<br/>Likes: 394",
     "url": "https://huggingface.co/datasets/allenai/WildChat-1M",
-    "published_date": "2025-10-14T09:25:05.209009+00:00",
+    "published_date": "2025-10-14T21:17:11.076353+00:00",
     "categories": [],
     "metadata": {
       "author": "allenai",
@@ -276,7 +276,7 @@
     "title": "WNJXYK/AIME_1983_2024-Reasoning-Paths",
     "description": "Downloads: 84<br/>Likes: 11",
     "url": "https://huggingface.co/datasets/WNJXYK/AIME_1983_2024-Reasoning-Paths",
-    "published_date": "2025-10-14T09:25:05.209015+00:00",
+    "published_date": "2025-10-14T21:17:11.076360+00:00",
     "categories": [],
     "metadata": {
       "author": "WNJXYK",
@@ -288,38 +288,56 @@
     }
   },
   {
-    "id": "df9d2c1078b750b1d0a85e214443e084",
+    "id": "6fc01848b131fce8bc6f34355b941ef0",
     "source": "huggingface",
     "type": "dataset",
-    "title": "cais/mmlu",
-    "description": "Downloads: 290,468<br/>Likes: 564",
-    "url": "https://huggingface.co/datasets/cais/mmlu",
-    "published_date": "2025-10-14T09:25:05.209022+00:00",
+    "title": "0v01111/StatEval-Statistical-Research",
+    "description": "Downloads: 43<br/>Likes: 11",
+    "url": "https://huggingface.co/datasets/0v01111/StatEval-Statistical-Research",
+    "published_date": "2025-10-14T21:17:11.076366+00:00",
     "categories": [],
     "metadata": {
-      "author": "cais",
-      "item_name": "mmlu",
-      "downloads": 290468,
-      "likes": 564,
-      "last_modified": "2024-03-08T20:36:26.000Z",
+      "author": "0v01111",
+      "item_name": "StatEval-Statistical-Research",
+      "downloads": 43,
+      "likes": 11,
+      "last_modified": "2025-10-09T06:25:27.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "4ea205174c4f3d7a4149fb32fb27d27c",
+    "id": "e3d688f00cd0714f9516857b954eaaac",
     "source": "huggingface",
     "type": "dataset",
-    "title": "MTSAIR/MWS-Vision-Bench",
-    "description": "Downloads: 940<br/>Likes: 10",
-    "url": "https://huggingface.co/datasets/MTSAIR/MWS-Vision-Bench",
-    "published_date": "2025-10-14T09:25:05.209028+00:00",
+    "title": "Anthropic/hh-rlhf",
+    "description": "Downloads: 27,354<br/>Likes: 1453",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "published_date": "2025-10-14T21:17:11.076373+00:00",
     "categories": [],
     "metadata": {
-      "author": "MTSAIR",
-      "item_name": "MWS-Vision-Bench",
-      "downloads": 940,
-      "likes": 10,
-      "last_modified": "2025-10-11T10:36:37.000Z",
+      "author": "Anthropic",
+      "item_name": "hh-rlhf",
+      "downloads": 27354,
+      "likes": 1453,
+      "last_modified": "2023-05-26T18:47:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "56644fdfdd9bf1fa0d3effdc1fef867d",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "jbarrow/CommonForms",
+    "description": "Downloads: 99<br/>Likes: 12",
+    "url": "https://huggingface.co/datasets/jbarrow/CommonForms",
+    "published_date": "2025-10-14T21:17:11.076379+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "jbarrow",
+      "item_name": "CommonForms",
+      "downloads": 99,
+      "likes": 12,
+      "last_modified": "2025-09-30T02:43:13.000Z",
       "all_tags": []
     }
   },
@@ -328,34 +346,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/fineweb-edu",
-    "description": "Downloads: 627,129<br/>Likes: 771",
+    "description": "Downloads: 627,129<br/>Likes: 772",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu",
-    "published_date": "2025-10-14T09:25:05.209034+00:00",
+    "published_date": "2025-10-14T21:17:11.076385+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "fineweb-edu",
       "downloads": 627129,
-      "likes": 771,
+      "likes": 772,
       "last_modified": "2025-07-11T20:16:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1d30240582e8de76cd0098f2f259486f",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "hotpotqa/hotpot_qa",
-    "description": "Downloads: 23,109<br/>Likes: 174",
-    "url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa",
-    "published_date": "2025-10-14T09:25:05.209040+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "hotpotqa",
-      "item_name": "hotpot_qa",
-      "downloads": 23109,
-      "likes": 174,
-      "last_modified": "2025-08-11T10:16:27.000Z",
       "all_tags": []
     }
   }
