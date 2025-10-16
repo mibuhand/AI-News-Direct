@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ling-1T",
-    "description": "Type: text-generation<br/>Downloads: 1,636<br/>Likes: 394",
+    "description": "Type: text-generation<br/>Downloads: 2,373<br/>Likes: 403",
     "url": "https://huggingface.co/inclusionAI/Ling-1T",
-    "published_date": "2025-10-15T21:17:52.283082+00:00",
+    "published_date": "2025-10-16T09:25:31.914354+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ling-1T",
-      "downloads": 1636,
-      "likes": 394,
+      "downloads": 2373,
+      "likes": 403,
       "last_modified": "2025-10-14T11:27:40.000Z",
       "all_tags": []
     }
@@ -24,38 +24,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/UserLM-8b",
-    "description": "Type: text-generation<br/>Downloads: 1,583<br/>Likes: 262",
+    "description": "Type: text-generation<br/>Downloads: 2,476<br/>Likes: 277",
     "url": "https://huggingface.co/microsoft/UserLM-8b",
-    "published_date": "2025-10-15T21:17:52.283110+00:00",
+    "published_date": "2025-10-16T09:25:31.914372+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "microsoft",
       "item_name": "UserLM-8b",
-      "downloads": 1583,
-      "likes": 262,
+      "downloads": 2476,
+      "likes": 277,
       "last_modified": "2025-10-09T21:59:47.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "901254cf6721dc7d44612e149cdb5ee8",
-    "source": "huggingface",
-    "type": "model",
-    "title": "neuphonic/neutts-air",
-    "description": "Type: text-to-speech<br/>Downloads: 18,543<br/>Likes: 577",
-    "url": "https://huggingface.co/neuphonic/neutts-air",
-    "published_date": "2025-10-15T21:17:52.283119+00:00",
-    "categories": [
-      "text-to-speech"
-    ],
-    "metadata": {
-      "author": "neuphonic",
-      "item_name": "neutts-air",
-      "downloads": 18543,
-      "likes": 577,
-      "last_modified": "2025-10-10T13:18:52.000Z",
       "all_tags": []
     }
   },
@@ -64,18 +44,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "lovis93/next-scene-qwen-image-lora-2509",
-    "description": "Type: image-to-image<br/>Downloads: 7,174<br/>Likes: 236",
+    "description": "Type: image-to-image<br/>Downloads: 11,654<br/>Likes: 253",
     "url": "https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509",
-    "published_date": "2025-10-15T21:17:52.283130+00:00",
+    "published_date": "2025-10-16T09:25:31.914386+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
       "author": "lovis93",
       "item_name": "next-scene-qwen-image-lora-2509",
-      "downloads": 7174,
-      "likes": 236,
+      "downloads": 11654,
+      "likes": 253,
       "last_modified": "2025-10-09T16:26:09.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "901254cf6721dc7d44612e149cdb5ee8",
+    "source": "huggingface",
+    "type": "model",
+    "title": "neuphonic/neutts-air",
+    "description": "Type: text-to-speech<br/>Downloads: 23,004<br/>Likes: 588",
+    "url": "https://huggingface.co/neuphonic/neutts-air",
+    "published_date": "2025-10-16T09:25:31.914392+00:00",
+    "categories": [
+      "text-to-speech"
+    ],
+    "metadata": {
+      "author": "neuphonic",
+      "item_name": "neutts-air",
+      "downloads": 23004,
+      "likes": 588,
+      "last_modified": "2025-10-10T13:18:52.000Z",
       "all_tags": []
     }
   },
@@ -84,38 +84,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "nanonets/Nanonets-OCR2-3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 314<br/>Likes: 212",
+    "description": "Type: image-text-to-text<br/>Downloads: 5,885<br/>Likes: 223",
     "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
-    "published_date": "2025-10-15T21:17:52.283137+00:00",
+    "published_date": "2025-10-16T09:25:31.914397+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "nanonets",
       "item_name": "Nanonets-OCR2-3B",
-      "downloads": 314,
-      "likes": 212,
+      "downloads": 5885,
+      "likes": 223,
       "last_modified": "2025-10-14T07:36:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "49dd7944603ce8fc77e5f5300c79363b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-4.6",
-    "description": "Type: text-generation<br/>Downloads: 32,433<br/>Likes: 770",
-    "url": "https://huggingface.co/zai-org/GLM-4.6",
-    "published_date": "2025-10-15T21:17:52.283144+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-4.6",
-      "downloads": 32433,
-      "likes": 770,
-      "last_modified": "2025-09-30T10:17:45.000Z",
       "all_tags": []
     }
   },
@@ -124,9 +104,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "description": "Type: text-to-image<br/>Likes: 271",
+    "description": "Type: text-to-image<br/>Likes: 286",
     "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "published_date": "2025-10-15T21:17:52.283149+00:00",
+    "published_date": "2025-10-16T09:25:31.914402+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -134,8 +114,28 @@
       "author": "Phr00t",
       "item_name": "Qwen-Image-Edit-Rapid-AIO",
       "downloads": 0,
-      "likes": 271,
-      "last_modified": "2025-10-15T18:20:03.000Z",
+      "likes": 286,
+      "last_modified": "2025-10-16T01:39:12.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "49dd7944603ce8fc77e5f5300c79363b",
+    "source": "huggingface",
+    "type": "model",
+    "title": "zai-org/GLM-4.6",
+    "description": "Type: text-generation<br/>Downloads: 39,184<br/>Likes: 779",
+    "url": "https://huggingface.co/zai-org/GLM-4.6",
+    "published_date": "2025-10-16T09:25:31.914407+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "GLM-4.6",
+      "downloads": 39184,
+      "likes": 779,
+      "last_modified": "2025-09-30T10:17:45.000Z",
       "all_tags": []
     }
   },
@@ -144,38 +144,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ring-1T",
-    "description": "Type: text-generation<br/>Downloads: 35<br/>Likes: 140",
+    "description": "Type: text-generation<br/>Downloads: 226<br/>Likes: 143",
     "url": "https://huggingface.co/inclusionAI/Ring-1T",
-    "published_date": "2025-10-15T21:17:52.283156+00:00",
+    "published_date": "2025-10-16T09:25:31.914412+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ring-1T",
-      "downloads": 35,
-      "likes": 140,
+      "downloads": 226,
+      "likes": 143,
       "last_modified": "2025-10-14T11:11:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b1b5e125eb60c1f2fcbab13875836afe",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Kwaipilot/KAT-Dev-72B-Exp",
-    "description": "Type: text-generation<br/>Downloads: 1,781<br/>Likes: 129",
-    "url": "https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp",
-    "published_date": "2025-10-15T21:17:52.283162+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Kwaipilot",
-      "item_name": "KAT-Dev-72B-Exp",
-      "downloads": 1781,
-      "likes": 129,
-      "last_modified": "2025-10-13T07:34:45.000Z",
       "all_tags": []
     }
   },
@@ -184,58 +164,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-8B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 6<br/>Likes: 108",
+    "description": "Type: image-text-to-text<br/>Downloads: 18,274<br/>Likes: 131",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
-    "published_date": "2025-10-15T21:17:52.283168+00:00",
+    "published_date": "2025-10-16T09:25:31.914417+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-8B-Instruct",
-      "downloads": 6,
-      "likes": 108,
+      "downloads": 18274,
+      "likes": 131,
       "last_modified": "2025-10-15T16:16:59.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e88410b237045009dbb2f72b39c693c0",
+    "id": "b1b5e125eb60c1f2fcbab13875836afe",
     "source": "huggingface",
     "type": "model",
-    "title": "Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,283,483<br/>Likes: 266",
-    "url": "https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct",
-    "published_date": "2025-10-15T21:17:52.283202+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-VL-30B-A3B-Instruct",
-      "downloads": 1283483,
-      "likes": 266,
-      "last_modified": "2025-10-09T04:32:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e944cc0752ae293a3dfe3e96d9d1c21f",
-    "source": "huggingface",
-    "type": "model",
-    "title": "LiquidAI/LFM2-8B-A1B",
-    "description": "Type: text-generation<br/>Downloads: 5,469<br/>Likes: 205",
-    "url": "https://huggingface.co/LiquidAI/LFM2-8B-A1B",
-    "published_date": "2025-10-15T21:17:52.283210+00:00",
+    "title": "Kwaipilot/KAT-Dev-72B-Exp",
+    "description": "Type: text-generation<br/>Downloads: 2,136<br/>Likes: 130",
+    "url": "https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp",
+    "published_date": "2025-10-16T09:25:31.914422+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "LiquidAI",
-      "item_name": "LFM2-8B-A1B",
-      "downloads": 5469,
-      "likes": 205,
-      "last_modified": "2025-10-14T04:21:10.000Z",
+      "author": "Kwaipilot",
+      "item_name": "KAT-Dev-72B-Exp",
+      "downloads": 2136,
+      "likes": 130,
+      "last_modified": "2025-10-13T07:34:45.000Z",
       "all_tags": []
     }
   },
@@ -244,17 +204,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-4B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 156<br/>Likes: 95",
+    "description": "Type: image-text-to-text<br/>Downloads: 23,907<br/>Likes: 106",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct",
-    "published_date": "2025-10-15T21:17:52.283239+00:00",
+    "published_date": "2025-10-16T09:25:31.914426+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-4B-Instruct",
-      "downloads": 156,
-      "likes": 95,
+      "downloads": 23907,
+      "likes": 106,
       "last_modified": "2025-10-15T16:15:55.000Z",
       "all_tags": []
     }
@@ -264,18 +224,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "vngrs-ai/Kumru-2B",
-    "description": "Type: text-generation<br/>Downloads: 11,563<br/>Likes: 91",
+    "description": "Type: text-generation<br/>Downloads: 13,452<br/>Likes: 91",
     "url": "https://huggingface.co/vngrs-ai/Kumru-2B",
-    "published_date": "2025-10-15T21:17:52.283245+00:00",
+    "published_date": "2025-10-16T09:25:31.914432+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "vngrs-ai",
       "item_name": "Kumru-2B",
-      "downloads": 11563,
+      "downloads": 13452,
       "likes": 91,
       "last_modified": "2025-09-26T07:29:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e88410b237045009dbb2f72b39c693c0",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,600,806<br/>Likes: 274",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "published_date": "2025-10-16T09:25:31.914437+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3-VL-30B-A3B-Instruct",
+      "downloads": 1600806,
+      "likes": 274,
+      "last_modified": "2025-10-09T04:32:42.000Z",
       "all_tags": []
     }
   },
@@ -284,18 +264,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "FractalAIResearch/Fathom-Search-4B",
-    "description": "Type: text-generation<br/>Downloads: 723<br/>Likes: 89",
+    "description": "Type: text-generation<br/>Downloads: 1,112<br/>Likes: 92",
     "url": "https://huggingface.co/FractalAIResearch/Fathom-Search-4B",
-    "published_date": "2025-10-15T21:17:52.283250+00:00",
+    "published_date": "2025-10-16T09:25:31.914442+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "FractalAIResearch",
       "item_name": "Fathom-Search-4B",
-      "downloads": 723,
-      "likes": 89,
+      "downloads": 1112,
+      "likes": 92,
       "last_modified": "2025-10-10T21:48:36.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e944cc0752ae293a3dfe3e96d9d1c21f",
+    "source": "huggingface",
+    "type": "model",
+    "title": "LiquidAI/LFM2-8B-A1B",
+    "description": "Type: text-generation<br/>Downloads: 6,811<br/>Likes: 206",
+    "url": "https://huggingface.co/LiquidAI/LFM2-8B-A1B",
+    "published_date": "2025-10-16T09:25:31.914448+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "LiquidAI",
+      "item_name": "LFM2-8B-A1B",
+      "downloads": 6811,
+      "likes": 206,
+      "last_modified": "2025-10-14T04:21:10.000Z",
       "all_tags": []
     }
   },
@@ -304,18 +304,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "KORMo-Team/KORMo-10B-sft",
-    "description": "Type: text-generation<br/>Downloads: 274<br/>Likes: 79",
+    "description": "Type: text-generation<br/>Downloads: 648<br/>Likes: 83",
     "url": "https://huggingface.co/KORMo-Team/KORMo-10B-sft",
-    "published_date": "2025-10-15T21:17:52.283255+00:00",
+    "published_date": "2025-10-16T09:25:31.914452+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "KORMo-Team",
       "item_name": "KORMo-10B-sft",
-      "downloads": 274,
-      "likes": 79,
+      "downloads": 648,
+      "likes": 83,
       "last_modified": "2025-10-14T02:55:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8f7e3654c828148a9a85f77dabc1dadb",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3-VL-8B-Thinking",
+    "description": "Type: image-text-to-text<br/>Downloads: 5,670<br/>Likes: 71",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking",
+    "published_date": "2025-10-16T09:25:31.914457+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3-VL-8B-Thinking",
+      "downloads": 5670,
+      "likes": 71,
+      "last_modified": "2025-10-15T16:13:13.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ff77fd9d043e6f1b0866a1120f4b9387",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
+    "description": "Type: image-to-video<br/>Likes: 873",
+    "url": "https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne",
+    "published_date": "2025-10-16T09:25:31.914461+00:00",
+    "categories": [
+      "image-to-video"
+    ],
+    "metadata": {
+      "author": "Phr00t",
+      "item_name": "WAN2.2-14B-Rapid-AllInOne",
+      "downloads": 0,
+      "likes": 873,
+      "last_modified": "2025-10-12T18:47:14.000Z",
       "all_tags": []
     }
   },
@@ -324,16 +364,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "description": "Type: image-text-to-text<br/>Downloads: 10,320<br/>Likes: 403",
+    "description": "Type: image-text-to-text<br/>Downloads: 11,284<br/>Likes: 403",
     "url": "https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker",
-    "published_date": "2025-10-15T21:17:52.283259+00:00",
+    "published_date": "2025-10-16T09:25:31.914465+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "ServiceNow-AI",
       "item_name": "Apriel-1.5-15b-Thinker",
-      "downloads": 10320,
+      "downloads": 11284,
       "likes": 403,
       "last_modified": "2025-10-06T18:55:51.000Z",
       "all_tags": []
@@ -344,58 +384,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "description": "Type: text-generation<br/>Downloads: 55,410<br/>Likes: 651",
+    "description": "Type: text-generation<br/>Downloads: 64,784<br/>Likes: 653",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
-    "published_date": "2025-10-15T21:17:52.283264+00:00",
+    "published_date": "2025-10-16T09:25:31.914470+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V3.2-Exp",
-      "downloads": 55410,
-      "likes": 651,
+      "downloads": 64784,
+      "likes": 653,
       "last_modified": "2025-10-09T06:19:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "03275897ea6eac60f90a4129af692913",
-    "source": "huggingface",
-    "type": "model",
-    "title": "chetwinlow1/Ovi",
-    "description": "Type: image-to-video<br/>Downloads: 203<br/>Likes: 218",
-    "url": "https://huggingface.co/chetwinlow1/Ovi",
-    "published_date": "2025-10-15T21:17:52.283268+00:00",
-    "categories": [
-      "image-to-video"
-    ],
-    "metadata": {
-      "author": "chetwinlow1",
-      "item_name": "Ovi",
-      "downloads": 203,
-      "likes": 218,
-      "last_modified": "2025-10-06T08:19:50.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ff77fd9d043e6f1b0866a1120f4b9387",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "description": "Type: image-to-video<br/>Likes: 867",
-    "url": "https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "published_date": "2025-10-15T21:17:52.283273+00:00",
-    "categories": [
-      "image-to-video"
-    ],
-    "metadata": {
-      "author": "Phr00t",
-      "item_name": "WAN2.2-14B-Rapid-AllInOne",
-      "downloads": 0,
-      "likes": 867,
-      "last_modified": "2025-10-12T18:47:14.000Z",
       "all_tags": []
     }
   }
