@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "The Dragon Hatchling: The Missing Link between the Transformer and\n  Models of the Brain",
-    "description": "The relationship between computing systems and the brain has served as\nmotivation for pioneering theoreticians since John von Neumann and Alan Turing.\nUniform, scale-free biological networks, such as ...<br/>Upvotes: 475<br/>GitHub Stars: 3068<br/>Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski<br/>🔗 <a href=\"https://github.com/pathwaycom/bdh\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.26507\">Hugging Face</a>",
+    "description": "The relationship between computing systems and the brain has served as\nmotivation for pioneering theoreticians since John von Neumann and Alan Turing.\nUniform, scale-free biological networks, such as ...<br/>Upvotes: 478<br/>GitHub Stars: 3072<br/>Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski<br/>🔗 <a href=\"https://github.com/pathwaycom/bdh\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.26507\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.26507",
     "external_url": "https://github.com/pathwaycom/bdh",
     "published_date": "2025-09-30T12:49:01.000Z",
@@ -14,8 +14,8 @@
     ],
     "metadata": {
       "paper_id": "2509.26507",
-      "upvotes": 475,
-      "github_stars": 3068,
+      "upvotes": 478,
+      "github_stars": 3072,
       "github_url": "https://github.com/pathwaycom/bdh",
       "project_url": "",
       "authors": [
@@ -48,7 +48,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 393<br/>GitHub Stars: 4510<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
+    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 395<br/>GitHub Stars: 4572<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.04871",
     "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "published_date": "2025-10-06T10:58:08.000Z",
@@ -58,8 +58,8 @@
     ],
     "metadata": {
       "paper_id": "2510.04871",
-      "upvotes": 393,
-      "github_stars": 4510,
+      "upvotes": 395,
+      "github_stars": 4572,
       "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
       "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
       "authors": [
@@ -67,7 +67,7 @@
       ],
       "summary": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard puzzle tasks such as Sudoku, Maze,\nand ARC-AGI while trained with small models (27M parameters) on small data\n(around 1000 examples). HRM holds great promise for solving hard problems with\nsmall networks, but it is not yet well understood and may be suboptimal. We\npropose Tiny Recursive Model (TRM), a much simpler recursive reasoning approach\nthat achieves significantly higher generalization than HRM, while using a\nsingle tiny network with only 2 layers. With only 7M parameters, TRM obtains\n45% test-accuracy on ARC-AGI-1 and 8% on ARC-AGI-2, higher than most LLMs\n(e.g., Deepseek R1, o3-mini, Gemini 2.5 Pro) with less than 0.01% of the\nparameters.",
       "fetch_date": "2025-10-08",
-      "num_comments": 22,
+      "num_comments": 24,
       "ai_summary": "Tiny Recursive Model (TRM) achieves high generalization on complex puzzle tasks using a small, two-layer network with minimal parameters, outperforming larger language models.",
       "ai_keywords": [
         "Hierarchical Reasoning Model",
@@ -88,7 +88,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Agent Learning via Early Experience",
-    "description": "A long-term goal of language agents is to learn and improve through their own\nexperience, ultimately outperforming humans in complex, real-world tasks.\nHowever, training agents from experience data wi...<br/>Upvotes: 216<br/>Authors: Kai Zhang, Xiangchao Chen, Bo Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2510.08558\">Hugging Face</a>",
+    "description": "A long-term goal of language agents is to learn and improve through their own\nexperience, ultimately outperforming humans in complex, real-world tasks.\nHowever, training agents from experience data wi...<br/>Upvotes: 221<br/>Authors: Kai Zhang, Xiangchao Chen, Bo Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2510.08558\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.08558",
     "external_url": "",
     "published_date": "2025-10-09T13:59:17.000Z",
@@ -98,7 +98,7 @@
     ],
     "metadata": {
       "paper_id": "2510.08558",
-      "upvotes": 216,
+      "upvotes": 221,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -152,7 +152,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "LongLive: Real-time Interactive Long Video Generation",
-    "description": "We present LongLive, a frame-level autoregressive (AR) framework for\nreal-time and interactive long video generation. Long video generation presents\nchallenges in both efficiency and quality. Diffusio...<br/>Upvotes: 175<br/>GitHub Stars: 691<br/>Authors: Shuai Yang, Wei Huang, Ruihang Chu<br/>🔗 <a href=\"https://github.com/NVlabs/LongLive\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/LongLive/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22622\">Hugging Face</a>",
+    "description": "We present LongLive, a frame-level autoregressive (AR) framework for\nreal-time and interactive long video generation. Long video generation presents\nchallenges in both efficiency and quality. Diffusio...<br/>Upvotes: 175<br/>GitHub Stars: 695<br/>Authors: Shuai Yang, Wei Huang, Ruihang Chu<br/>🔗 <a href=\"https://github.com/NVlabs/LongLive\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/LongLive/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22622\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.22622",
     "external_url": "https://github.com/NVlabs/LongLive",
     "published_date": "2025-09-26T13:48:24.000Z",
@@ -163,7 +163,7 @@
     "metadata": {
       "paper_id": "2509.22622",
       "upvotes": 175,
-      "github_stars": 691,
+      "github_stars": 695,
       "github_url": "https://github.com/NVlabs/LongLive",
       "project_url": "https://nvlabs.github.io/LongLive/",
       "authors": [
@@ -209,7 +209,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP\n  Use",
-    "description": "MCP standardizes how LLMs interact with external systems, forming the\nfoundation for general agents. However, existing MCP benchmarks remain narrow\nin scope: they focus on read-heavy tasks or tasks wi...<br/>Upvotes: 163<br/>GitHub Stars: 275<br/>Authors: Zijian Wu, Xiangyan Liu, Xinyuan Zhang<br/>🔗 <a href=\"https://github.com/eval-sys/mcpmark\">GitHub</a><br/>🔗 <a href=\"https://mcpmark.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.24002\">Hugging Face</a>",
+    "description": "MCP standardizes how LLMs interact with external systems, forming the\nfoundation for general agents. However, existing MCP benchmarks remain narrow\nin scope: they focus on read-heavy tasks or tasks wi...<br/>Upvotes: 164<br/>GitHub Stars: 277<br/>Authors: Zijian Wu, Xiangyan Liu, Xinyuan Zhang<br/>🔗 <a href=\"https://github.com/eval-sys/mcpmark\">GitHub</a><br/>🔗 <a href=\"https://mcpmark.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.24002\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.24002",
     "external_url": "https://github.com/eval-sys/mcpmark",
     "published_date": "2025-09-28T13:53:27.000Z",
@@ -219,8 +219,8 @@
     ],
     "metadata": {
       "paper_id": "2509.24002",
-      "upvotes": 163,
-      "github_stars": 275,
+      "upvotes": 164,
+      "github_stars": 277,
       "github_url": "https://github.com/eval-sys/mcpmark",
       "project_url": "https://mcpmark.ai/",
       "authors": [
@@ -274,7 +274,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 144<br/>GitHub Stars: 285<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 148<br/>GitHub Stars: 292<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -284,8 +284,8 @@
     ],
     "metadata": {
       "paper_id": "2510.11696",
-      "upvotes": 144,
-      "github_stars": 285,
+      "upvotes": 148,
+      "github_stars": 292,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
       "authors": [
@@ -328,7 +328,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-    "description": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach...<br/>Upvotes: 118<br/>GitHub Stars: 46624<br/>Authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu<br/>🔗 <a href=\"https://github.com/opendatalab/MinerU\">GitHub</a><br/>🔗 <a href=\"https://opendatalab.github.io/MinerU/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22186\">Hugging Face</a>",
+    "description": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach...<br/>Upvotes: 118<br/>GitHub Stars: 46685<br/>Authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu<br/>🔗 <a href=\"https://github.com/opendatalab/MinerU\">GitHub</a><br/>🔗 <a href=\"https://opendatalab.github.io/MinerU/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22186\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.22186",
     "external_url": "https://github.com/opendatalab/MinerU",
     "published_date": "2025-09-26T06:45:48.000Z",
@@ -339,7 +339,7 @@
     "metadata": {
       "paper_id": "2509.22186",
       "upvotes": 118,
-      "github_stars": 46624,
+      "github_stars": 46685,
       "github_url": "https://github.com/opendatalab/MinerU",
       "project_url": "https://opendatalab.github.io/MinerU/",
       "authors": [
@@ -431,7 +431,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and\n  Training Recipe",
-    "description": "Multimodal Large Language Models (MLLMs) are undergoing rapid progress and\nrepresent the frontier of AI development. However, their training and inference\nefficiency have emerged as a core bottleneck ...<br/>Upvotes: 47<br/>GitHub Stars: 22081<br/>Authors: Tianyu Yu, Zefan Wang, Chongyi Wang<br/>🔗 <a href=\"https://github.com/OpenBMB/MiniCPM-V\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.18154\">Hugging Face</a>",
+    "description": "Multimodal Large Language Models (MLLMs) are undergoing rapid progress and\nrepresent the frontier of AI development. However, their training and inference\nefficiency have emerged as a core bottleneck ...<br/>Upvotes: 47<br/>GitHub Stars: 22082<br/>Authors: Tianyu Yu, Zefan Wang, Chongyi Wang<br/>🔗 <a href=\"https://github.com/OpenBMB/MiniCPM-V\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.18154\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.18154",
     "external_url": "https://github.com/OpenBMB/MiniCPM-V",
     "published_date": "2025-09-16T15:41:48.000Z",
@@ -442,7 +442,7 @@
     "metadata": {
       "paper_id": "2509.18154",
       "upvotes": 47,
-      "github_stars": 22081,
+      "github_stars": 22082,
       "github_url": "https://github.com/OpenBMB/MiniCPM-V",
       "project_url": "",
       "authors": [
@@ -500,7 +500,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Agents via Continual Pre-training",
-    "description": "Large language models (LLMs) have evolved into agentic systems capable of\nautonomous tool use and multi-step reasoning for complex problem-solving.\nHowever, post-training approaches building upon gene...<br/>Upvotes: 112<br/>GitHub Stars: 16083<br/>Authors: Liangcai Su, Zhen Zhang, Guangyu Li<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch///\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13310\">Hugging Face</a>",
+    "description": "Large language models (LLMs) have evolved into agentic systems capable of\nautonomous tool use and multi-step reasoning for complex problem-solving.\nHowever, post-training approaches building upon gene...<br/>Upvotes: 112<br/>GitHub Stars: 16123<br/>Authors: Liangcai Su, Zhen Zhang, Guangyu Li<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch///\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13310\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13310",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch///",
     "published_date": "2025-09-16T13:57:19.000Z",
@@ -511,7 +511,7 @@
     "metadata": {
       "paper_id": "2509.13310",
       "upvotes": 112,
-      "github_stars": 16083,
+      "github_stars": 16123,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch///",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -564,7 +564,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for\n  Open-Ended Deep Research",
-    "description": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold ...<br/>Upvotes: 104<br/>GitHub Stars: 16083<br/>Authors: Zijian Li, Xin Guan, Bo Zhang<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13312\">Hugging Face</a>",
+    "description": "This paper tackles open-ended deep research (OEDR), a complex challenge where\nAI agents must synthesize vast web-scale information into insightful reports.\nCurrent approaches are plagued by dual-fold ...<br/>Upvotes: 104<br/>GitHub Stars: 16123<br/>Authors: Zijian Li, Xin Guan, Bo Zhang<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13312\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13312",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch",
     "published_date": "2025-09-16T13:57:21.000Z",
@@ -575,7 +575,7 @@
     "metadata": {
       "paper_id": "2509.13312",
       "upvotes": 104,
-      "github_stars": 16083,
+      "github_stars": 16123,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -624,7 +624,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic\n  Data and Scalable Reinforcement Learning",
-    "description": "Transcending human cognitive limitations represents a critical frontier in\nLLM training. Proprietary agentic systems like DeepResearch have demonstrated\nsuperhuman capabilities on extremely complex in...<br/>Upvotes: 87<br/>GitHub Stars: 16083<br/>Authors: Kuan Li, Zhongwang Zhang, Huifeng Yin<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch/\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13305\">Hugging Face</a>",
+    "description": "Transcending human cognitive limitations represents a critical frontier in\nLLM training. Proprietary agentic systems like DeepResearch have demonstrated\nsuperhuman capabilities on extremely complex in...<br/>Upvotes: 87<br/>GitHub Stars: 16123<br/>Authors: Kuan Li, Zhongwang Zhang, Huifeng Yin<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch/\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13305\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13305",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch/",
     "published_date": "2025-09-16T13:57:03.000Z",
@@ -635,7 +635,7 @@
     "metadata": {
       "paper_id": "2509.13305",
       "upvotes": 87,
-      "github_stars": 16083,
+      "github_stars": 16123,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch/",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
@@ -681,7 +681,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context\n  Summarization",
-    "description": "Large Language Model (LLM)-based web agents demonstrate strong performance on\nknowledge-intensive tasks but are hindered by context window limitations in\nparadigms like ReAct. Complex queries involvin...<br/>Upvotes: 78<br/>GitHub Stars: 16083<br/>Authors: Xixi Wu, Kuan Li, Yida Zhao<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch//\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13313\">Hugging Face</a>",
+    "description": "Large Language Model (LLM)-based web agents demonstrate strong performance on\nknowledge-intensive tasks but are hindered by context window limitations in\nparadigms like ReAct. Complex queries involvin...<br/>Upvotes: 78<br/>GitHub Stars: 16123<br/>Authors: Xixi Wu, Kuan Li, Yida Zhao<br/>🔗 <a href=\"https://github.com/Alibaba-NLP/DeepResearch//\">GitHub</a><br/>🔗 <a href=\"https://tongyi-agent.github.io/blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.13313\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.13313",
     "external_url": "https://github.com/Alibaba-NLP/DeepResearch//",
     "published_date": "2025-09-16T13:57:22.000Z",
@@ -692,7 +692,7 @@
     "metadata": {
       "paper_id": "2509.13313",
       "upvotes": 78,
-      "github_stars": 16083,
+      "github_stars": 16123,
       "github_url": "https://github.com/Alibaba-NLP/DeepResearch//",
       "project_url": "https://tongyi-agent.github.io/blog/",
       "authors": [
