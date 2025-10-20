@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "The Dragon Hatchling: The Missing Link between the Transformer and\n  Models of the Brain",
-    "description": "The relationship between computing systems and the brain has served as\nmotivation for pioneering theoreticians since John von Neumann and Alan Turing.\nUniform, scale-free biological networks, such as ...<br/>Upvotes: 491<br/>GitHub Stars: 3117<br/>Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski<br/>🔗 <a href=\"https://github.com/pathwaycom/bdh\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.26507\">Hugging Face</a>",
+    "description": "The relationship between computing systems and the brain has served as\nmotivation for pioneering theoreticians since John von Neumann and Alan Turing.\nUniform, scale-free biological networks, such as ...<br/>Upvotes: 493<br/>GitHub Stars: 3122<br/>Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski<br/>🔗 <a href=\"https://github.com/pathwaycom/bdh\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.26507\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.26507",
     "external_url": "https://github.com/pathwaycom/bdh",
     "published_date": "2025-09-30T12:49:01.000Z",
@@ -14,8 +14,8 @@
     ],
     "metadata": {
       "paper_id": "2509.26507",
-      "upvotes": 491,
-      "github_stars": 3117,
+      "upvotes": 493,
+      "github_stars": 3122,
       "github_url": "https://github.com/pathwaycom/bdh",
       "project_url": "",
       "authors": [
@@ -27,7 +27,7 @@
       ],
       "summary": "The relationship between computing systems and the brain has served as\nmotivation for pioneering theoreticians since John von Neumann and Alan Turing.\nUniform, scale-free biological networks, such as the brain, have powerful\nproperties, including generalizing over time, which is the main barrier for\nMachine Learning on the path to Universal Reasoning Models.\n  We introduce `Dragon Hatchling' (BDH), a new Large Language Model\narchitecture based on a scale-free biologically inspired network of \\n\nlocally-interacting neuron particles. BDH couples strong theoretical\nfoundations and inherent interpretability without sacrificing Transformer-like\nperformance.\n  BDH is a practical, performant state-of-the-art attention-based state space\nsequence learning architecture. In addition to being a graph model, BDH admits\na GPU-friendly formulation. It exhibits Transformer-like scaling laws:\nempirically BDH rivals GPT2 performance on language and translation tasks, at\nthe same number of parameters (10M to 1B), for the same training data.\n  BDH can be represented as a brain model. The working memory of BDH during\ninference entirely relies on synaptic plasticity with Hebbian learning using\nspiking neurons. We confirm empirically that specific, individual synapses\nstrengthen connection whenever BDH hears or reasons about a specific concept\nwhile processing language inputs. The neuron interaction network of BDH is a\ngraph of high modularity with heavy-tailed degree distribution. The BDH model\nis biologically plausible, explaining one possible mechanism which human\nneurons could use to achieve speech.\n  BDH is designed for interpretability. Activation vectors of BDH are sparse\nand positive. We demonstrate monosemanticity in BDH on language tasks.\nInterpretability of state, which goes beyond interpretability of neurons and\nmodel parameters, is an inherent feature of the BDH architecture.",
       "fetch_date": "2025-10-01",
-      "num_comments": 19,
+      "num_comments": 20,
       "ai_summary": "BDH, a biologically inspired Large Language Model, combines scale-free network architecture with Hebbian learning to achieve Transformer-like performance while maintaining interpretability.",
       "ai_keywords": [
         "Large Language Model",
@@ -48,7 +48,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 409<br/>GitHub Stars: 4877<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
+    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 412<br/>GitHub Stars: 4941<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.04871",
     "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "published_date": "2025-10-06T10:58:08.000Z",
@@ -58,8 +58,8 @@
     ],
     "metadata": {
       "paper_id": "2510.04871",
-      "upvotes": 409,
-      "github_stars": 4877,
+      "upvotes": 412,
+      "github_stars": 4941,
       "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
       "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
       "authors": [
@@ -88,7 +88,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Agent Learning via Early Experience",
-    "description": "A long-term goal of language agents is to learn and improve through their own\nexperience, ultimately outperforming humans in complex, real-world tasks.\nHowever, training agents from experience data wi...<br/>Upvotes: 228<br/>Authors: Kai Zhang, Xiangchao Chen, Bo Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2510.08558\">Hugging Face</a>",
+    "description": "A long-term goal of language agents is to learn and improve through their own\nexperience, ultimately outperforming humans in complex, real-world tasks.\nHowever, training agents from experience data wi...<br/>Upvotes: 229<br/>Authors: Kai Zhang, Xiangchao Chen, Bo Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2510.08558\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.08558",
     "external_url": "",
     "published_date": "2025-10-09T13:59:17.000Z",
@@ -98,7 +98,7 @@
     ],
     "metadata": {
       "paper_id": "2510.08558",
-      "upvotes": 228,
+      "upvotes": 229,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -152,7 +152,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "LongLive: Real-time Interactive Long Video Generation",
-    "description": "We present LongLive, a frame-level autoregressive (AR) framework for\nreal-time and interactive long video generation. Long video generation presents\nchallenges in both efficiency and quality. Diffusio...<br/>Upvotes: 176<br/>GitHub Stars: 708<br/>Authors: Shuai Yang, Wei Huang, Ruihang Chu<br/>🔗 <a href=\"https://github.com/NVlabs/LongLive\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/LongLive/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22622\">Hugging Face</a>",
+    "description": "We present LongLive, a frame-level autoregressive (AR) framework for\nreal-time and interactive long video generation. Long video generation presents\nchallenges in both efficiency and quality. Diffusio...<br/>Upvotes: 176<br/>GitHub Stars: 713<br/>Authors: Shuai Yang, Wei Huang, Ruihang Chu<br/>🔗 <a href=\"https://github.com/NVlabs/LongLive\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/LongLive/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22622\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.22622",
     "external_url": "https://github.com/NVlabs/LongLive",
     "published_date": "2025-09-26T13:48:24.000Z",
@@ -163,7 +163,7 @@
     "metadata": {
       "paper_id": "2509.22622",
       "upvotes": 176,
-      "github_stars": 708,
+      "github_stars": 713,
       "github_url": "https://github.com/NVlabs/LongLive",
       "project_url": "https://nvlabs.github.io/LongLive/",
       "authors": [
@@ -209,7 +209,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP\n  Use",
-    "description": "MCP standardizes how LLMs interact with external systems, forming the\nfoundation for general agents. However, existing MCP benchmarks remain narrow\nin scope: they focus on read-heavy tasks or tasks wi...<br/>Upvotes: 165<br/>GitHub Stars: 284<br/>Authors: Zijian Wu, Xiangyan Liu, Xinyuan Zhang<br/>🔗 <a href=\"https://github.com/eval-sys/mcpmark\">GitHub</a><br/>🔗 <a href=\"https://mcpmark.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.24002\">Hugging Face</a>",
+    "description": "MCP standardizes how LLMs interact with external systems, forming the\nfoundation for general agents. However, existing MCP benchmarks remain narrow\nin scope: they focus on read-heavy tasks or tasks wi...<br/>Upvotes: 165<br/>GitHub Stars: 285<br/>Authors: Zijian Wu, Xiangyan Liu, Xinyuan Zhang<br/>🔗 <a href=\"https://github.com/eval-sys/mcpmark\">GitHub</a><br/>🔗 <a href=\"https://mcpmark.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.24002\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.24002",
     "external_url": "https://github.com/eval-sys/mcpmark",
     "published_date": "2025-09-28T13:53:27.000Z",
@@ -220,7 +220,7 @@
     "metadata": {
       "paper_id": "2509.24002",
       "upvotes": 165,
-      "github_stars": 284,
+      "github_stars": 285,
       "github_url": "https://github.com/eval-sys/mcpmark",
       "project_url": "https://mcpmark.ai/",
       "authors": [
@@ -274,7 +274,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 160<br/>GitHub Stars: 333<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 162<br/>GitHub Stars: 343<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -284,8 +284,8 @@
     ],
     "metadata": {
       "paper_id": "2510.11696",
-      "upvotes": 160,
-      "github_stars": 333,
+      "upvotes": 162,
+      "github_stars": 343,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
       "authors": [
@@ -328,7 +328,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 39<br/>GitHub Stars: 59138<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 43<br/>GitHub Stars: 59454<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -338,8 +338,8 @@
     ],
     "metadata": {
       "paper_id": "2510.14528",
-      "upvotes": 39,
-      "github_stars": 59138,
+      "upvotes": 43,
+      "github_stars": 59454,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -383,7 +383,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-    "description": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach...<br/>Upvotes: 119<br/>GitHub Stars: 46894<br/>Authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu<br/>🔗 <a href=\"https://github.com/opendatalab/MinerU\">GitHub</a><br/>🔗 <a href=\"https://opendatalab.github.io/MinerU/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22186\">Hugging Face</a>",
+    "description": "We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language\nmodel that achieves state-of-the-art recognition accuracy while maintaining\nexceptional computational efficiency. Our approach...<br/>Upvotes: 119<br/>GitHub Stars: 46993<br/>Authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu<br/>🔗 <a href=\"https://github.com/opendatalab/MinerU\">GitHub</a><br/>🔗 <a href=\"https://opendatalab.github.io/MinerU/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.22186\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.22186",
     "external_url": "https://github.com/opendatalab/MinerU",
     "published_date": "2025-09-26T06:45:48.000Z",
@@ -394,7 +394,7 @@
     "metadata": {
       "paper_id": "2509.22186",
       "upvotes": 119,
-      "github_stars": 46894,
+      "github_stars": 46993,
       "github_url": "https://github.com/opendatalab/MinerU",
       "project_url": "https://opendatalab.github.io/MinerU/",
       "authors": [
@@ -486,7 +486,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 42<br/>GitHub Stars: 24241<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 43<br/>GitHub Stars: 24254<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -496,8 +496,8 @@
     ],
     "metadata": {
       "paper_id": "2510.13998",
-      "upvotes": 42,
-      "github_stars": 24241,
+      "upvotes": 43,
+      "github_stars": 24254,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -532,7 +532,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and\n  Training Recipe",
-    "description": "Multimodal Large Language Models (MLLMs) are undergoing rapid progress and\nrepresent the frontier of AI development. However, their training and inference\nefficiency have emerged as a core bottleneck ...<br/>Upvotes: 47<br/>GitHub Stars: 22090<br/>Authors: Tianyu Yu, Zefan Wang, Chongyi Wang<br/>🔗 <a href=\"https://github.com/OpenBMB/MiniCPM-V\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.18154\">Hugging Face</a>",
+    "description": "Multimodal Large Language Models (MLLMs) are undergoing rapid progress and\nrepresent the frontier of AI development. However, their training and inference\nefficiency have emerged as a core bottleneck ...<br/>Upvotes: 47<br/>GitHub Stars: 22094<br/>Authors: Tianyu Yu, Zefan Wang, Chongyi Wang<br/>🔗 <a href=\"https://github.com/OpenBMB/MiniCPM-V\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2509.18154\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2509.18154",
     "external_url": "https://github.com/OpenBMB/MiniCPM-V",
     "published_date": "2025-09-16T15:41:48.000Z",
@@ -543,7 +543,7 @@
     "metadata": {
       "paper_id": "2509.18154",
       "upvotes": 47,
-      "github_stars": 22090,
+      "github_stars": 22094,
       "github_url": "https://github.com/OpenBMB/MiniCPM-V",
       "project_url": "",
       "authors": [
@@ -601,7 +601,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "JoyAgent-JDGenie: Technical Report on the GAIA",
-    "description": "Large Language Models are increasingly deployed as autonomous agents for\ncomplex real-world tasks, yet existing systems often focus on isolated\nimprovements without a unifying design for robustness an...<br/>Upvotes: 3<br/>GitHub Stars: 11045<br/>Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu<br/>🔗 <a href=\"https://github.com/jd-opensource/joyagent-jdgenie\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.00510\">Hugging Face</a>",
+    "description": "Large Language Models are increasingly deployed as autonomous agents for\ncomplex real-world tasks, yet existing systems often focus on isolated\nimprovements without a unifying design for robustness an...<br/>Upvotes: 3<br/>GitHub Stars: 11062<br/>Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu<br/>🔗 <a href=\"https://github.com/jd-opensource/joyagent-jdgenie\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.00510\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.00510",
     "external_url": "https://github.com/jd-opensource/joyagent-jdgenie",
     "published_date": "2025-10-01T00:41:58.000Z",
@@ -612,7 +612,7 @@
     "metadata": {
       "paper_id": "2510.00510",
       "upvotes": 3,
-      "github_stars": 11045,
+      "github_stars": 11062,
       "github_url": "https://github.com/jd-opensource/joyagent-jdgenie",
       "project_url": "",
       "authors": [
@@ -658,7 +658,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 22<br/>GitHub Stars: 8875<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 24<br/>GitHub Stars: 8999<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -668,8 +668,8 @@
     ],
     "metadata": {
       "paper_id": "2510.12323",
-      "upvotes": 22,
-      "github_stars": 8875,
+      "upvotes": 24,
+      "github_stars": 8999,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
