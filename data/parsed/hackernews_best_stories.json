@@ -1,5 +1,23 @@
 [
   {
+    "id": "d6123d88dc09737273260b4bdd5c2c45",
+    "source": "hackernews",
+    "type": "story",
+    "title": "AWS multiple services outage in us-east-1",
+    "description": "",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "published_date": "2025-10-20T07:22:28+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 1932,
+      "author": "kondro",
+      "comments": 1886,
+      "hn_id": 45640838
+    },
+    "objects": []
+  },
+  {
     "id": "d96fbc2e682d4f1542ddbcfffdb00d8c",
     "source": "hackernews",
     "type": "story",
@@ -10,28 +28,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1393,
+      "score": 1596,
       "author": "kaonwarb",
-      "comments": 313,
+      "comments": 371,
       "hn_id": 45640226
-    },
-    "objects": []
-  },
-  {
-    "id": "d6123d88dc09737273260b4bdd5c2c45",
-    "source": "hackernews",
-    "type": "story",
-    "title": "AWS Multiple Services Down in us-east-1",
-    "description": "",
-    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
-    "published_date": "2025-10-20T07:22:28+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 1381,
-      "author": "kondro",
-      "comments": 1668,
-      "hn_id": 45640838
     },
     "objects": []
   },
@@ -46,9 +46,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1068,
+      "score": 1073,
       "author": "vvoyer",
-      "comments": 10,
+      "comments": 11,
       "hn_id": 45640772
     },
     "objects": []
@@ -64,9 +64,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 974,
+      "score": 982,
       "author": "wh313",
-      "comments": 655,
+      "comments": 662,
       "hn_id": 45634095
     },
     "objects": []
@@ -82,9 +82,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 818,
+      "score": 919,
       "author": "pierre",
-      "comments": 214,
+      "comments": 226,
       "hn_id": 45640594
     },
     "objects": []
@@ -100,10 +100,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 629,
+      "score": 648,
       "author": "peterkshultz",
-      "comments": 190,
+      "comments": 193,
       "hn_id": 45635533
+    },
+    "objects": []
+  },
+  {
+    "id": "413bc038e802647f54d22c880a4fa5b0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Today is when the Amazon brain drain sent AWS down the spout",
+    "description": "",
+    "url": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
+    "published_date": "2025-10-20T20:50:03+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 632,
+      "author": "raw_anon_1111",
+      "comments": 282,
+      "hn_id": 45649178
     },
     "objects": []
   },
@@ -118,9 +136,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 538,
+      "score": 568,
       "author": "hhutw",
-      "comments": 45,
+      "comments": 50,
       "hn_id": 45639995
     },
     "objects": []
@@ -136,10 +154,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 420,
+      "score": 524,
       "author": "undeveloper",
-      "comments": 115,
+      "comments": 173,
       "hn_id": 45643357
+    },
+    "objects": []
+  },
+  {
+    "id": "7b61413e4e23062c7400411fabadfdfc",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Claude Code on the web",
+    "description": "",
+    "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+    "published_date": "2025-10-20T18:12:23+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 467,
+      "author": "adocomplete",
+      "comments": 287,
+      "hn_id": 45647166
+    },
+    "objects": []
+  },
+  {
+    "id": "89b279155857cfbc15022f56bf369a0d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Postman which I thought worked locally on my computer, is down",
+    "description": "",
+    "url": "https://status.postman.com",
+    "published_date": "2025-10-20T15:40:40+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 440,
+      "author": "helloguillecl",
+      "comments": 234,
+      "hn_id": 45645172
+    },
+    "objects": []
+  },
+  {
+    "id": "9e855d8cb3b60f71a97193f8aa807e2f",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+    "description": "",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+    "published_date": "2025-10-20T12:31:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 426,
+      "author": "hd4",
+      "comments": 265,
+      "hn_id": 45643163
     },
     "objects": []
   },
@@ -154,9 +226,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 414,
+      "score": 419,
       "author": "Topfi",
-      "comments": 230,
+      "comments": 233,
       "hn_id": 45633482
     },
     "objects": []
@@ -172,10 +244,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 407,
+      "score": 416,
       "author": "jbm",
-      "comments": 214,
+      "comments": 224,
       "hn_id": 45637744
+    },
+    "objects": []
+  },
+  {
+    "id": "7f8e96ee8b6ecfdadd934426172212b5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Production RAG: what I learned from processing 5M+ documents",
+    "description": "",
+    "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+    "published_date": "2025-10-20T15:55:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 413,
+      "author": "tifa2up",
+      "comments": 95,
+      "hn_id": 45645349
+    },
+    "objects": []
+  },
+  {
+    "id": "6afed869048256892ef9d07251ee1f86",
+    "source": "hackernews",
+    "type": "story",
+    "title": "BERT is just a single text diffusion step",
+    "description": "",
+    "url": "https://nathan.rs/posts/roberta-diffusion/",
+    "published_date": "2025-10-20T14:31:16+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 396,
+      "author": "nathan-barry",
+      "comments": 94,
+      "hn_id": 45644328
     },
     "objects": []
   },
@@ -190,9 +298,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 388,
+      "score": 395,
       "author": "d_silin",
-      "comments": 211,
+      "comments": 221,
       "hn_id": 45636285
     },
     "objects": []
@@ -208,9 +316,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 358,
+      "score": 360,
       "author": "kekqqq",
-      "comments": 154,
+      "comments": 156,
       "hn_id": 45634367
     },
     "objects": []
@@ -226,10 +334,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 337,
+      "score": 340,
       "author": "atymic",
       "comments": 1,
       "hn_id": 45640754
+    },
+    "objects": []
+  },
+  {
+    "id": "406b5673916d97b90570023ec973ca7b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Chess grandmaster Daniel Naroditsky has died",
+    "description": "",
+    "url": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
+    "published_date": "2025-10-20T17:24:58+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 335,
+      "author": "ntnbr",
+      "comments": 75,
+      "hn_id": 45646561
     },
     "objects": []
   },
@@ -244,28 +370,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 311,
+      "score": 334,
       "author": "l2dy",
-      "comments": 122,
+      "comments": 130,
       "hn_id": 45640877
-    },
-    "objects": []
-  },
-  {
-    "id": "6afed869048256892ef9d07251ee1f86",
-    "source": "hackernews",
-    "type": "story",
-    "title": "BERT is just a single text diffusion step",
-    "description": "",
-    "url": "https://nathan.rs/posts/roberta-diffusion/",
-    "published_date": "2025-10-20T14:31:16+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 303,
-      "author": "nathan-barry",
-      "comments": 73,
-      "hn_id": 45644328
     },
     "objects": []
   },
@@ -280,9 +388,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 302,
+      "score": 316,
       "author": "suioir",
-      "comments": 138,
+      "comments": 157,
       "hn_id": 45639250
     },
     "objects": []
@@ -298,7 +406,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 294,
+      "score": 297,
       "author": "eon01",
       "comments": 13,
       "hn_id": 45642951
@@ -306,56 +414,38 @@
     "objects": []
   },
   {
-    "id": "9e855d8cb3b60f71a97193f8aa807e2f",
+    "id": "15a8664fabc30d91e43548ecb01d3f47",
     "source": "hackernews",
     "type": "story",
-    "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+    "title": "Dutch spy services have restricted intelligence-sharing with the United States",
     "description": "",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
-    "published_date": "2025-10-20T12:31:22+00:00",
+    "url": "https://intelnews.org/2025/10/20/01-3416/",
+    "published_date": "2025-10-20T17:25:45+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 273,
-      "author": "hd4",
-      "comments": 189,
-      "hn_id": 45643163
+      "score": 276,
+      "author": "Refreeze5224",
+      "comments": 186,
+      "hn_id": 45646572
     },
     "objects": []
   },
   {
-    "id": "406b5673916d97b90570023ec973ca7b",
+    "id": "3a1c8667ee8ca5f1777e7dd8aea12703",
     "source": "hackernews",
     "type": "story",
-    "title": "Chess grandmaster Daniel Naroditsky has died",
+    "title": "AWS outage shows internet users 'at mercy' of too few providers, experts say",
     "description": "",
-    "url": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
-    "published_date": "2025-10-20T17:24:58+00:00",
+    "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+    "published_date": "2025-10-20T17:32:46+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 260,
-      "author": "ntnbr",
-      "comments": 62,
-      "hn_id": 45646561
-    },
-    "objects": []
-  },
-  {
-    "id": "7f8e96ee8b6ecfdadd934426172212b5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Production RAG: what I learned from processing 5M+ documents",
-    "description": "",
-    "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
-    "published_date": "2025-10-20T15:55:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 229,
-      "author": "tifa2up",
-      "comments": 65,
-      "hn_id": 45645349
+      "score": 249,
+      "author": "evolve2k",
+      "comments": 183,
+      "hn_id": 45646649
     },
     "objects": []
   },
@@ -370,9 +460,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 227,
+      "score": 231,
       "author": "m-hodges",
-      "comments": 102,
+      "comments": 111,
       "hn_id": 45639498
     },
     "objects": []
@@ -388,46 +478,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 227,
+      "score": 230,
       "author": "birdculture",
-      "comments": 93,
+      "comments": 100,
       "hn_id": 45637880
     },
     "objects": []
   },
   {
-    "id": "3a1c8667ee8ca5f1777e7dd8aea12703",
+    "id": "6c1dc349fdeea457d8760be6940dd046",
     "source": "hackernews",
     "type": "story",
-    "title": "AWS outage shows internet users 'at mercy' of too few providers, experts say",
+    "title": "J.P. Morgan's OpenAI loan is strange",
     "description": "",
-    "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
-    "published_date": "2025-10-20T17:32:46+00:00",
+    "url": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
+    "published_date": "2025-10-20T19:38:52+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 223,
-      "author": "evolve2k",
-      "comments": 154,
-      "hn_id": 45646649
+      "score": 228,
+      "author": "vrnvu",
+      "comments": 146,
+      "hn_id": 45648258
     },
     "objects": []
   },
   {
-    "id": "15a8664fabc30d91e43548ecb01d3f47",
+    "id": "dd31b9b1e13f378a3030344660f2163a",
     "source": "hackernews",
     "type": "story",
-    "title": "Dutch spy services have restricted intelligence-sharing with the United States",
+    "title": "Compare Single Board Computers",
     "description": "",
-    "url": "https://intelnews.org/2025/10/20/01-3416/",
-    "published_date": "2025-10-20T17:25:45+00:00",
+    "url": "https://sbc.compare/",
+    "published_date": "2025-10-19T18:02:00+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 223,
-      "author": "Refreeze5224",
-      "comments": 127,
-      "hn_id": 45646572
+      "score": 217,
+      "author": "todsacerdoti",
+      "comments": 80,
+      "hn_id": 45636365
+    },
+    "objects": []
+  },
+  {
+    "id": "fb81982824b621bdf1572664dded7657",
+    "source": "hackernews",
+    "type": "story",
+    "title": "US Government Uptime Monitor",
+    "description": "",
+    "url": "https://usa-status.com/",
+    "published_date": "2025-10-19T19:16:59+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 214,
+      "author": "exr0n",
+      "comments": 72,
+      "hn_id": 45637049
     },
     "objects": []
   },
@@ -450,24 +558,6 @@
     "objects": []
   },
   {
-    "id": "fb81982824b621bdf1572664dded7657",
-    "source": "hackernews",
-    "type": "story",
-    "title": "US Government Uptime Monitor",
-    "description": "",
-    "url": "https://usa-status.com/",
-    "published_date": "2025-10-19T19:16:59+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 209,
-      "author": "exr0n",
-      "comments": 72,
-      "hn_id": 45637049
-    },
-    "objects": []
-  },
-  {
     "id": "e1d3580323e650d7594cda93ffe1a84a",
     "source": "hackernews",
     "type": "story",
@@ -478,46 +568,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 208,
+      "score": 209,
       "author": "codebolt",
       "comments": 1,
       "hn_id": 45641143
-    },
-    "objects": []
-  },
-  {
-    "id": "dd31b9b1e13f378a3030344660f2163a",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Compare Single Board Computers",
-    "description": "",
-    "url": "https://sbc.compare/",
-    "published_date": "2025-10-19T18:02:00+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 207,
-      "author": "todsacerdoti",
-      "comments": 79,
-      "hn_id": 45636365
-    },
-    "objects": []
-  },
-  {
-    "id": "7b61413e4e23062c7400411fabadfdfc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Claude Code on the web",
-    "description": "",
-    "url": "https://www.anthropic.com/news/claude-code-on-the-web",
-    "published_date": "2025-10-20T18:12:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 195,
-      "author": "adocomplete",
-      "comments": 113,
-      "hn_id": 45647166
     },
     "objects": []
   },
@@ -532,9 +586,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 183,
+      "score": 187,
       "author": "jmillikin",
-      "comments": 24,
+      "comments": 25,
       "hn_id": 45639860
     },
     "objects": []
@@ -550,9 +604,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 182,
+      "score": 187,
       "author": "TheWiggles",
-      "comments": 82,
+      "comments": 83,
       "hn_id": 45638588
     },
     "objects": []
@@ -568,10 +622,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 181,
+      "score": 183,
       "author": "jwithington",
-      "comments": 158,
+      "comments": 161,
       "hn_id": 45635940
+    },
+    "objects": []
+  },
+  {
+    "id": "29fd9999cebd117e1d09923f9d2bce1b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "iOS 26.1 lets users control Liquid Glass transparency",
+    "description": "",
+    "url": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/",
+    "published_date": "2025-10-20T19:39:46+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 179,
+      "author": "dabinat",
+      "comments": 194,
+      "hn_id": 45648266
     },
     "objects": []
   },
@@ -586,46 +658,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 168,
+      "score": 173,
       "author": "bauta-steen",
       "comments": 41,
       "hn_id": 45635069
-    },
-    "objects": []
-  },
-  {
-    "id": "14b0bd715777bd32ec0112b7f28a99b1",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Friendship Begins at Home",
-    "description": "",
-    "url": "https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html",
-    "published_date": "2025-10-19T01:23:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 163,
-      "author": "herbertl",
-      "comments": 91,
-      "hn_id": 45631503
-    },
-    "objects": []
-  },
-  {
-    "id": "10c64e2f71490249efdadc8b12b88a45",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The case for the return of fine-tuning",
-    "description": "",
-    "url": "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning",
-    "published_date": "2025-10-19T09:41:25+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 162,
-      "author": "nanark",
-      "comments": 81,
-      "hn_id": 45633081
     },
     "objects": []
   },
@@ -640,10 +676,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 161,
+      "score": 171,
       "author": "KolmogorovComp",
       "comments": 197,
       "hn_id": 45643040
+    },
+    "objects": []
+  },
+  {
+    "id": "10c64e2f71490249efdadc8b12b88a45",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The case for the return of fine-tuning",
+    "description": "",
+    "url": "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning",
+    "published_date": "2025-10-19T09:41:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 164,
+      "author": "nanark",
+      "comments": 81,
+      "hn_id": 45633081
     },
     "objects": []
   },
@@ -658,28 +712,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 160,
+      "score": 161,
       "author": "indigodaddy",
-      "comments": 64,
+      "comments": 68,
       "hn_id": 45637133
-    },
-    "objects": []
-  },
-  {
-    "id": "4109a63d471b0494436ea27a8583fb80",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Thieves steal crown jewels in 4 minutes from Louvre Museum",
-    "description": "",
-    "url": "https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b",
-    "published_date": "2025-10-19T16:31:37+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 157,
-      "author": "malshe",
-      "comments": 155,
-      "hn_id": 45635528
     },
     "objects": []
   },
@@ -694,10 +730,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 153,
+      "score": 158,
       "author": "kristianp",
-      "comments": 57,
+      "comments": 64,
       "hn_id": 45639654
+    },
+    "objects": []
+  },
+  {
+    "id": "4109a63d471b0494436ea27a8583fb80",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Thieves steal crown jewels in 4 minutes from Louvre Museum",
+    "description": "",
+    "url": "https://apnews.com/article/france-louvre-museum-robbery-a3687f330a43e0aaff68c732c4b2585b",
+    "published_date": "2025-10-19T16:31:37+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 158,
+      "author": "malshe",
+      "comments": 156,
+      "hn_id": 45635528
+    },
+    "objects": []
+  },
+  {
+    "id": "2057199bf63f5bf3aabc5f3f715a59f1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
+    "description": "",
+    "url": "https://github.com/lackeyjb/playwright-skill",
+    "published_date": "2025-10-20T11:58:35+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 157,
+      "author": "syntax-sherlock",
+      "comments": 41,
+      "hn_id": 45642911
     },
     "objects": []
   },
@@ -712,10 +784,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 151,
+      "score": 154,
       "author": "PaulHoule",
-      "comments": 155,
+      "comments": 159,
       "hn_id": 45634026
+    },
+    "objects": []
+  },
+  {
+    "id": "ccfad55ffc66280c0a301a664ff11de0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
+    "description": "",
+    "url": "https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/",
+    "published_date": "2025-10-21T03:53:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 152,
+      "author": "zdw",
+      "comments": 140,
+      "hn_id": 45652307
+    },
+    "objects": []
+  },
+  {
+    "id": "ee01336048a51d8c2a9c8d2e9cc0a880",
+    "source": "hackernews",
+    "type": "story",
+    "title": "How much Anthropic and Cursor spend on Amazon Web Services",
+    "description": "",
+    "url": "https://www.wheresyoured.at/costs/",
+    "published_date": "2025-10-20T15:05:30+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 150,
+      "author": "isoprophlex",
+      "comments": 144,
+      "hn_id": 45644777
     },
     "objects": []
   },
@@ -732,7 +840,7 @@
     "metadata": {
       "score": 150,
       "author": "herbertl",
-      "comments": 105,
+      "comments": 106,
       "hn_id": 45634641
     },
     "objects": []
@@ -748,64 +856,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 145,
+      "score": 146,
       "author": "MaximilianEmel",
-      "comments": 109,
+      "comments": 111,
       "hn_id": 45635287
-    },
-    "objects": []
-  },
-  {
-    "id": "6c1dc349fdeea457d8760be6940dd046",
-    "source": "hackernews",
-    "type": "story",
-    "title": "J.P. Morgan's OpenAI loan is strange",
-    "description": "",
-    "url": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
-    "published_date": "2025-10-20T19:38:52+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 142,
-      "author": "vrnvu",
-      "comments": 104,
-      "hn_id": 45648258
-    },
-    "objects": []
-  },
-  {
-    "id": "610622040fc91687735021f97d1e1048",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The Accountability Problem",
-    "description": "",
-    "url": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
-    "published_date": "2025-10-19T02:22:53+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 141,
-      "author": "FrancoisBosun",
-      "comments": 58,
-      "hn_id": 45631678
-    },
-    "objects": []
-  },
-  {
-    "id": "ee01336048a51d8c2a9c8d2e9cc0a880",
-    "source": "hackernews",
-    "type": "story",
-    "title": "How much Anthropic and Cursor spend on Amazon Web Services",
-    "description": "",
-    "url": "https://www.wheresyoured.at/costs/",
-    "published_date": "2025-10-20T15:05:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 140,
-      "author": "isoprophlex",
-      "comments": 130,
-      "hn_id": 45644777
     },
     "objects": []
   },
@@ -820,82 +874,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 135,
+      "score": 144,
       "author": "indentit",
-      "comments": 66,
+      "comments": 71,
       "hn_id": 45640678
     },
     "objects": []
   },
   {
-    "id": "56698979f251bd34296598b96a0be8e4",
+    "id": "72d4b2520ae671f4e3b231a8b28f8901",
     "source": "hackernews",
     "type": "story",
-    "title": "Commodore 64 Ultimate",
+    "title": "When a stadium adds AI to everything, it's worse experience for everyone",
     "description": "",
-    "url": "https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1",
-    "published_date": "2025-10-20T14:55:52+00:00",
+    "url": "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/",
+    "published_date": "2025-10-20T19:38:02+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 127,
-      "author": "guerrilla",
-      "comments": 69,
-      "hn_id": 45644654
-    },
-    "objects": []
-  },
-  {
-    "id": "f713946e8ee34b487158e8ccf63c18bc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Matrix Conference 2025 Highlights",
-    "description": "",
-    "url": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/",
-    "published_date": "2025-10-20T12:00:28+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 122,
-      "author": "Arathorn",
-      "comments": 96,
-      "hn_id": 45642923
-    },
-    "objects": []
-  },
-  {
-    "id": "b45610cbbd216a68277545d2f815451c",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The zipper is getting its first major upgrade in 100 years",
-    "description": "",
-    "url": "https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/",
-    "published_date": "2025-10-19T15:16:51+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 121,
-      "author": "bookofjoe",
-      "comments": 139,
-      "hn_id": 45634797
-    },
-    "objects": []
-  },
-  {
-    "id": "2057199bf63f5bf3aabc5f3f715a59f1",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
-    "description": "",
-    "url": "https://github.com/lackeyjb/playwright-skill",
-    "published_date": "2025-10-20T11:58:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 117,
-      "author": "syntax-sherlock",
-      "comments": 39,
-      "hn_id": 45642911
+      "score": 142,
+      "author": "wawayanda",
+      "comments": 72,
+      "hn_id": 45648249
     },
     "objects": []
   }
