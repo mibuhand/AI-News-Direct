@@ -103,5 +103,18 @@
         "cache_files": {
             "main": "deepseek_news.html"
         }
+    },
+
+    {
+        "site": "https://thinkingmachines.ai",
+        "organization_key": "thinkingmachines",
+        "favicon_url": "https://thinkingmachines.ai/favicon.ico",
+        "pages": ["blog"],
+        "output_files": {
+            "blog": "thinkingmachines_blog.json"
+        },
+        "cache_files": {
+            "blog": "thinkingmachines_blog.html"
+        }
     }
 ]

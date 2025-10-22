@@ -79,6 +79,9 @@ jobs:
         echo "Running DeepSeek scraper..."
         uv run python scrapers/deepseek.py || echo "DeepSeek scraper failed"
 
+        echo "Running Thinking Machines scraper..."
+        uv run python scrapers/thinkingmachines.py || echo "Thinking Machines scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       

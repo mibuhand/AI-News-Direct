@@ -54,6 +54,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Hume AI Research](https://www.hume.ai/research) | N/A | To-Do |
 | [Kyutai Lab Blog](https://kyutai.org/blog.html) | N/A | To-Do |
 | [Boson AI Blog](https://www.boson.ai/blog) | N/A | To-Do |
+| [Thinking Machines Lab Blog](https://thinkingmachines.ai/blog/) | N/A | [thinkingmachines_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/thinkingmachines_blog.xml) |
 
 
 ### Tool/Platform Feeds
