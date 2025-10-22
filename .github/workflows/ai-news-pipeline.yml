@@ -76,6 +76,9 @@ jobs:
         echo "Running GitHub trending scraper..."
         uv run python scrapers/github.py || echo "GitHub scraper failed"
 
+        echo "Running DeepSeek scraper..."
+        uv run python scrapers/deepseek.py || echo "DeepSeek scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       
