@@ -1,25 +1,5 @@
 [
   {
-    "id": "8eb1bee1bf49078a03329cc52fcfb34f",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "anthropics / prompt-eng-interactive-tutorial",
-    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-    "published_date": "2024-04-08T03:17:07Z",
-    "categories": [
-      "Jupyter Notebook"
-    ],
-    "metadata": {
-      "stars": 24798,
-      "forks": 2261,
-      "stars_today": 4649,
-      "language": "Jupyter Notebook",
-      "timeframe": "weekly",
-      "repo_path": "anthropics/prompt-eng-interactive-tutorial"
-    }
-  },
-  {
     "id": "442c2e2aafae4b0e836280402b3285bb",
     "source": "github",
     "type": "trending_repository",
@@ -31,9 +11,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 30965,
-      "forks": 3563,
-      "stars_today": 3426,
+      "stars": 31091,
+      "forks": 3580,
+      "stars_today": 3574,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "jingyaogong/minimind"
@@ -46,17 +26,37 @@
     "title": "anthropics / claude-cookbooks",
     "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
     "url": "https://github.com/anthropics/claude-cookbooks",
-    "published_date": "2025-10-21T19:46:28Z",
+    "published_date": "2025-10-21T23:34:42Z",
     "categories": [
       "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 24297,
-      "forks": 2455,
-      "stars_today": 2125,
+      "stars": 24477,
+      "forks": 2469,
+      "stars_today": 3300,
       "language": "Jupyter Notebook",
       "timeframe": "weekly",
       "repo_path": "anthropics/claude-cookbooks"
+    }
+  },
+  {
+    "id": "8eb1bee1bf49078a03329cc52fcfb34f",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "anthropics / prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "published_date": "2024-04-08T03:17:07Z",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "metadata": {
+      "stars": 24844,
+      "forks": 2264,
+      "stars_today": 2805,
+      "language": "Jupyter Notebook",
+      "timeframe": "weekly",
+      "repo_path": "anthropics/prompt-eng-interactive-tutorial"
     }
   },
   {
@@ -71,72 +71,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 47295,
-      "forks": 7941,
-      "stars_today": 1983,
+      "stars": 47408,
+      "forks": 7951,
+      "stars_today": 1908,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "karpathy/nanoGPT"
-    }
-  },
-  {
-    "id": "dcfad3ba6353659751fb7f9cc6b9108e",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "dair-ai / Prompt-Engineering-Guide",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-    "published_date": "2025-10-16T15:44:07Z",
-    "categories": [
-      "MDX"
-    ],
-    "metadata": {
-      "stars": 64904,
-      "forks": 6750,
-      "stars_today": 1680,
-      "language": "MDX",
-      "timeframe": "weekly",
-      "repo_path": "dair-ai/Prompt-Engineering-Guide"
-    }
-  },
-  {
-    "id": "fe08aa2135d329ec485ccd7073df66d2",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "davila7 / claude-code-templates",
-    "description": "CLI tool for configuring and monitoring Claude Code",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "published_date": "2025-10-21T00:07:11Z",
-    "categories": [
-      "JavaScript"
-    ],
-    "metadata": {
-      "stars": 9097,
-      "forks": 763,
-      "stars_today": 1245,
-      "language": "JavaScript",
-      "timeframe": "weekly",
-      "repo_path": "davila7/claude-code-templates"
-    }
-  },
-  {
-    "id": "602d3b970bd54570d9e99300bde517ad",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "nitrojs / nitro",
-    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
-    "url": "https://github.com/nitrojs/nitro",
-    "published_date": "2025-10-11T17:29:44Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 9251,
-      "forks": 728,
-      "stars_today": 1244,
-      "language": "TypeScript",
-      "timeframe": "weekly",
-      "repo_path": "nitrojs/nitro"
     }
   },
   {
@@ -151,12 +91,52 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 6702,
-      "forks": 678,
-      "stars_today": 1238,
+      "stars": 6977,
+      "forks": 700,
+      "stars_today": 1681,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "lfnovo/open-notebook"
+    }
+  },
+  {
+    "id": "18d9740caa6822e5a74ba2e93b6d9a7a",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "mountain-loop / yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "url": "https://github.com/mountain-loop/yaak",
+    "published_date": "2025-10-22T03:40:05Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 10988,
+      "forks": 379,
+      "stars_today": 1438,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "mountain-loop/yaak"
+    }
+  },
+  {
+    "id": "dcfad3ba6353659751fb7f9cc6b9108e",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "dair-ai / Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "published_date": "2025-10-16T15:44:07Z",
+    "categories": [
+      "MDX"
+    ],
+    "metadata": {
+      "stars": 64990,
+      "forks": 6764,
+      "stars_today": 1396,
+      "language": "MDX",
+      "timeframe": "weekly",
+      "repo_path": "dair-ai/Prompt-Engineering-Guide"
     }
   },
   {
@@ -171,12 +151,32 @@
       "Shell"
     ],
     "metadata": {
-      "stars": 88490,
-      "forks": 9474,
-      "stars_today": 1117,
+      "stars": 88501,
+      "forks": 9477,
+      "stars_today": 1119,
       "language": "Shell",
       "timeframe": "weekly",
       "repo_path": "nvm-sh/nvm"
+    }
+  },
+  {
+    "id": "fe08aa2135d329ec485ccd7073df66d2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "davila7 / claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "published_date": "2025-10-21T00:07:11Z",
+    "categories": [
+      "JavaScript"
+    ],
+    "metadata": {
+      "stars": 9146,
+      "forks": 769,
+      "stars_today": 1105,
+      "language": "JavaScript",
+      "timeframe": "weekly",
+      "repo_path": "davila7/claude-code-templates"
     }
   },
   {
@@ -186,17 +186,37 @@
     "title": "QwenLM / Qwen3-VL",
     "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
     "url": "https://github.com/QwenLM/Qwen3-VL",
-    "published_date": "2025-10-15T06:07:47Z",
+    "published_date": "2025-10-22T09:24:40Z",
     "categories": [
       "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 15246,
-      "forks": 1177,
-      "stars_today": 1010,
+      "stars": 15280,
+      "forks": 1184,
+      "stars_today": 1036,
       "language": "Jupyter Notebook",
       "timeframe": "weekly",
       "repo_path": "QwenLM/Qwen3-VL"
+    }
+  },
+  {
+    "id": "602d3b970bd54570d9e99300bde517ad",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "nitrojs / nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+    "url": "https://github.com/nitrojs/nitro",
+    "published_date": "2025-10-11T17:29:44Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 9277,
+      "forks": 728,
+      "stars_today": 901,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "nitrojs/nitro"
     }
   },
   {
@@ -211,32 +231,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 2421,
-      "forks": 128,
-      "stars_today": 905,
+      "stars": 2484,
+      "forks": 134,
+      "stars_today": 838,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "volcengine/MineContext"
-    }
-  },
-  {
-    "id": "18d9740caa6822e5a74ba2e93b6d9a7a",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "mountain-loop / yaak",
-    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
-    "url": "https://github.com/mountain-loop/yaak",
-    "published_date": "2025-10-21T15:57:38Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 10142,
-      "forks": 358,
-      "stars_today": 773,
-      "language": "TypeScript",
-      "timeframe": "weekly",
-      "repo_path": "mountain-loop/yaak"
     }
   },
   {
@@ -251,32 +251,12 @@
       "C#"
     ],
     "metadata": {
-      "stars": 124987,
+      "stars": 125010,
       "forks": 7433,
-      "stars_today": 714,
+      "stars_today": 740,
       "language": "C#",
       "timeframe": "weekly",
       "repo_path": "microsoft/PowerToys"
-    }
-  },
-  {
-    "id": "b67a2db7db9364972f0a2c282a3a3cbb",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "sapientinc / HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "published_date": "2025-09-09T08:23:13Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 11489,
-      "forks": 1667,
-      "stars_today": 473,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "sapientinc/HRM"
     }
   },
   {
@@ -291,12 +271,32 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 32440,
-      "forks": 3288,
-      "stars_today": 387,
+      "stars": 32635,
+      "forks": 3292,
+      "stars_today": 611,
       "language": "Rust",
       "timeframe": "weekly",
       "repo_path": "servo/servo"
+    }
+  },
+  {
+    "id": "b67a2db7db9364972f0a2c282a3a3cbb",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "sapientinc / HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "published_date": "2025-09-09T08:23:13Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 11512,
+      "forks": 1669,
+      "stars_today": 517,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "sapientinc/HRM"
     }
   },
   {
@@ -311,9 +311,9 @@
       "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 13266,
-      "forks": 1959,
-      "stars_today": 256,
+      "stars": 13292,
+      "forks": 1960,
+      "stars_today": 337,
       "language": "Jupyter Notebook",
       "timeframe": "weekly",
       "repo_path": "karpathy/micrograd"
@@ -331,9 +331,9 @@
       "C++"
     ],
     "metadata": {
-      "stars": 100681,
+      "stars": 100693,
       "forks": 8872,
-      "stars_today": 196,
+      "stars_today": 207,
       "language": "C++",
       "timeframe": "weekly",
       "repo_path": "microsoft/terminal"
@@ -351,9 +351,9 @@
       "C++"
     ],
     "metadata": {
-      "stars": 26882,
+      "stars": 26892,
       "forks": 5115,
-      "stars_today": 194,
+      "stars_today": 197,
       "language": "C++",
       "timeframe": "weekly",
       "repo_path": "envoyproxy/envoy"
