@@ -55,6 +55,10 @@ Ready-to-use XML feeds for RSS readers:
 | [Kyutai Lab Blog](https://kyutai.org/blog.html) | N/A | To-Do |
 | [Boson AI Blog](https://www.boson.ai/blog) | N/A | To-Do |
 | [Thinking Machines Lab Blog](https://thinkingmachines.ai/blog/) | N/A | [thinkingmachines_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/thinkingmachines_blog.xml) |
+| [Arc Prize Blog](https://arcprize.org/blog) | N/A | To-Do |
+| [World Labs AI Blog](https://www.worldlabs.ai/blog) | N/A | To-Do |
+| [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | To-Do (add main page url in feed) |
+
 
 
 ### Tool/Platform Feeds
@@ -118,7 +122,7 @@ To-Do: Appending logic with snapshot timestamps
 | [SlashDot](https://slashdot.org/) | [SlashDot Feed](https://rss.slashdot.org/Slashdot/slashdotMain) | N/A |
 | [The Hacker News](https://thehackernews.com/) | [The Hacker News Feed](https://feeds.feedburner.com/TheHackersNews) | N/A |
 | [Venture Beat](https://venturebeat.com/) | N/A | To-Do |
-| [机器之心](https://www.jiqizhixin.com/) | [机器之心 Feed](https://www.jiqizhixin.com/rss) | N/A |
+| [机器之心](https://www.jiqizhixin.com/) | N/A | To-Do |
 
 
 ### Quantum Computing / Quantum AI
