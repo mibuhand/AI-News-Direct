@@ -1,5 +1,41 @@
 [
   {
+    "id": "d41338146cd0287d40e54cfbbdc08e34",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Google flags Immich sites as dangerous",
+    "description": "",
+    "url": "https://immich.app/blog/google-flags-immich-as-dangerous",
+    "published_date": "2025-10-22T20:53:49+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 844,
+      "author": "janpio",
+      "comments": 318,
+      "hn_id": 45675015
+    },
+    "objects": []
+  },
+  {
+    "id": "c2291a44ccd1b5407d6d11e483c87c9e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Scripts I wrote that I use all the time",
+    "description": "",
+    "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
+    "published_date": "2025-10-22T14:53:54+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 824,
+      "author": "speckx",
+      "comments": 239,
+      "hn_id": 45670052
+    },
+    "objects": []
+  },
+  {
     "id": "a2d4bd4a22f35e23541bc1522aed9702",
     "source": "hackernews",
     "type": "story",
@@ -10,9 +46,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 781,
+      "score": 792,
       "author": "jryio",
-      "comments": 532,
+      "comments": 544,
       "hn_id": 45661253
     },
     "objects": []
@@ -28,7 +64,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 749,
+      "score": 757,
       "author": "easton",
       "comments": 717,
       "hn_id": 45658479
@@ -46,46 +82,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 642,
+      "score": 672,
       "author": "LexSiga",
-      "comments": 377,
+      "comments": 392,
       "hn_id": 45665452
-    },
-    "objects": []
-  },
-  {
-    "id": "b1b6f4a9896fc744d4a144e697543e82",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Build your own database",
-    "description": "",
-    "url": "https://www.nan.fyi/database",
-    "published_date": "2025-10-21T16:31:51+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 531,
-      "author": "nansdotio",
-      "comments": 85,
-      "hn_id": 45657827
-    },
-    "objects": []
-  },
-  {
-    "id": "480f143be9f136be60793222a8829ffb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
-    "description": "",
-    "url": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
-    "published_date": "2025-10-22T12:12:28+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 524,
-      "author": "SweetSoftPillow",
-      "comments": 511,
-      "hn_id": 45667866
     },
     "objects": []
   },
@@ -100,28 +100,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 504,
+      "score": 588,
       "author": "ron_k",
-      "comments": 69,
+      "comments": 89,
       "hn_id": 45666510
     },
     "objects": []
   },
   {
-    "id": "0522702cdf0786c799fd104b2e9a5b86",
+    "id": "480f143be9f136be60793222a8829ffb",
     "source": "hackernews",
     "type": "story",
-    "title": "LLMs can get \"brain rot\"",
+    "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
     "description": "",
-    "url": "https://llm-brain-rot.github.io/",
-    "published_date": "2025-10-21T14:24:26+00:00",
+    "url": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
+    "published_date": "2025-10-22T12:12:28+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 458,
-      "author": "tamnd",
-      "comments": 282,
-      "hn_id": 45656223
+      "score": 570,
+      "author": "SweetSoftPillow",
+      "comments": 540,
+      "hn_id": 45667866
+    },
+    "objects": []
+  },
+  {
+    "id": "b1b6f4a9896fc744d4a144e697543e82",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Build your own database",
+    "description": "",
+    "url": "https://www.nan.fyi/database",
+    "published_date": "2025-10-21T16:31:51+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 537,
+      "author": "nansdotio",
+      "comments": 86,
+      "hn_id": 45657827
     },
     "objects": []
   },
@@ -136,28 +154,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 433,
+      "score": 485,
       "author": "Lionga",
-      "comments": 366,
+      "comments": 434,
       "hn_id": 45671778
     },
     "objects": []
   },
   {
-    "id": "775da3122fa71710885262c92bf44f04",
+    "id": "0522702cdf0786c799fd104b2e9a5b86",
     "source": "hackernews",
     "type": "story",
-    "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+    "title": "LLMs can get \"brain rot\"",
     "description": "",
-    "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
-    "published_date": "2025-10-21T01:29:03+00:00",
+    "url": "https://llm-brain-rot.github.io/",
+    "published_date": "2025-10-21T14:24:26+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 426,
-      "author": "gmays",
-      "comments": 417,
-      "hn_id": 45651485
+      "score": 464,
+      "author": "tamnd",
+      "comments": 285,
+      "hn_id": 45656223
+    },
+    "objects": []
+  },
+  {
+    "id": "83a9b062df502e19aa6a0adbbc0eaf54",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
+    "description": "",
+    "url": "https://ian.sh/fia",
+    "published_date": "2025-10-22T18:21:54+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 431,
+      "author": "galnagli",
+      "comments": 79,
+      "hn_id": 45673130
+    },
+    "objects": []
+  },
+  {
+    "id": "323de6c3278cb9a3e236bec26d634184",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
+    "description": "",
+    "url": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+    "published_date": "2025-10-22T15:16:19+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 431,
+      "author": "AbhishekParmar",
+      "comments": 216,
+      "hn_id": 45670443
     },
     "objects": []
   },
@@ -172,9 +226,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 422,
+      "score": 428,
       "author": "zdw",
-      "comments": 354,
+      "comments": 363,
       "hn_id": 45657287
     },
     "objects": []
@@ -190,46 +244,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 420,
+      "score": 421,
       "author": "karimf",
-      "comments": 115,
+      "comments": 117,
       "hn_id": 45655161
-    },
-    "objects": []
-  },
-  {
-    "id": "c2291a44ccd1b5407d6d11e483c87c9e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Scripts I wrote that I use all the time",
-    "description": "",
-    "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-    "published_date": "2025-10-22T14:53:54+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 407,
-      "author": "speckx",
-      "comments": 141,
-      "hn_id": 45670052
-    },
-    "objects": []
-  },
-  {
-    "id": "dd1b4bb808a31121e1ad4a145ce10924",
-    "source": "hackernews",
-    "type": "story",
-    "title": "NASA chief suggests SpaceX may be booted from moon mission",
-    "description": "",
-    "url": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
-    "published_date": "2025-10-21T12:58:43+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 398,
-      "author": "voxleone",
-      "comments": 1095,
-      "hn_id": 45655188
     },
     "objects": []
   },
@@ -244,10 +262,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 390,
+      "score": 416,
       "author": "sohkamyung",
-      "comments": 274,
+      "comments": 285,
       "hn_id": 45668990
+    },
+    "objects": []
+  },
+  {
+    "id": "dd1b4bb808a31121e1ad4a145ce10924",
+    "source": "hackernews",
+    "type": "story",
+    "title": "NASA chief suggests SpaceX may be booted from moon mission",
+    "description": "",
+    "url": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
+    "published_date": "2025-10-21T12:58:43+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 401,
+      "author": "voxleone",
+      "comments": 1118,
+      "hn_id": 45655188
     },
     "objects": []
   },
@@ -262,7 +298,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 385,
+      "score": 390,
       "author": "kinj28",
       "comments": 92,
       "hn_id": 45657345
@@ -280,28 +316,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 383,
+      "score": 385,
       "author": "saubeidl",
-      "comments": 235,
+      "comments": 238,
       "hn_id": 45665796
-    },
-    "objects": []
-  },
-  {
-    "id": "323de6c3278cb9a3e236bec26d634184",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-    "description": "",
-    "url": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-    "published_date": "2025-10-22T15:16:19+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 354,
-      "author": "AbhishekParmar",
-      "comments": 165,
-      "hn_id": 45670443
     },
     "objects": []
   },
@@ -316,28 +334,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 349,
+      "score": 368,
       "author": "begueradj",
-      "comments": 472,
+      "comments": 484,
       "hn_id": 45665311
     },
     "objects": []
   },
   {
-    "id": "ccfad55ffc66280c0a301a664ff11de0",
+    "id": "d40432a649f990d834243abd19d7bacc",
     "source": "hackernews",
     "type": "story",
-    "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
+    "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
     "description": "",
-    "url": "https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/",
-    "published_date": "2025-10-21T03:53:20+00:00",
+    "url": "https://stalw.art/blog/jmap-collaboration/",
+    "published_date": "2025-10-22T17:26:06+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 349,
-      "author": "zdw",
-      "comments": 337,
-      "hn_id": 45652307
+      "score": 324,
+      "author": "StalwartLabs",
+      "comments": 142,
+      "hn_id": 45672336
+    },
+    "objects": []
+  },
+  {
+    "id": "0b618fe240cac68c59c4b7202dc7494d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I see a future in jj",
+    "description": "",
+    "url": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
+    "published_date": "2025-10-22T17:21:54+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 308,
+      "author": "steveklabnik",
+      "comments": 218,
+      "hn_id": 45672280
     },
     "objects": []
   },
@@ -352,10 +388,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 282,
+      "score": 285,
       "author": "speckx",
-      "comments": 141,
+      "comments": 144,
       "hn_id": 45657302
+    },
+    "objects": []
+  },
+  {
+    "id": "851c4d967debab837d20fda5146cdc3b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
+    "description": "",
+    "url": "https://github.com/character-ai/Ovi",
+    "published_date": "2025-10-22T19:42:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 283,
+      "author": "montyanderson",
+      "comments": 105,
+      "hn_id": 45674166
     },
     "objects": []
   },
@@ -370,9 +424,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 271,
+      "score": 275,
       "author": "paulnpace",
-      "comments": 119,
+      "comments": 126,
       "hn_id": 45664147
     },
     "objects": []
@@ -388,10 +442,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 257,
+      "score": 260,
       "author": "imasl42",
-      "comments": 272,
+      "comments": 279,
       "hn_id": 45658019
+    },
+    "objects": []
+  },
+  {
+    "id": "713d91c08caaa0e5a2977c6e9fe24806",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Criticisms of “The Body Keeps the Score”",
+    "description": "",
+    "url": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
+    "published_date": "2025-10-22T18:49:04+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 255,
+      "author": "adityaathalye",
+      "comments": 284,
+      "hn_id": 45673479
+    },
+    "objects": []
+  },
+  {
+    "id": "5ac6853e9908bb600c5eeafb4ac4c6b8",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
+    "description": "",
+    "url": "https://twitter.com/karpathy/status/1980397031542989305",
+    "published_date": "2025-10-21T17:43:16+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 255,
+      "author": "JnBrymn",
+      "comments": 80,
+      "hn_id": 45658928
     },
     "objects": []
   },
@@ -406,9 +496,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 249,
+      "score": 251,
       "author": "jerlam",
-      "comments": 260,
+      "comments": 262,
       "hn_id": 45658056
     },
     "objects": []
@@ -424,7 +514,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 239,
+      "score": 240,
       "author": "fschuett",
       "comments": 94,
       "hn_id": 45661638
@@ -444,7 +534,7 @@
     "metadata": {
       "score": 238,
       "author": "ndsipa_pomu",
-      "comments": 331,
+      "comments": 335,
       "hn_id": 45654635
     },
     "objects": []
@@ -460,10 +550,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 228,
+      "score": 231,
       "author": "diymaker",
-      "comments": 137,
+      "comments": 140,
       "hn_id": 45661084
+    },
+    "objects": []
+  },
+  {
+    "id": "a2a23cb97ea788d69645f1703eb0bf5d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "VST3 audio plugin format is now MIT",
+    "description": "",
+    "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+    "published_date": "2025-10-23T05:48:02+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 230,
+      "author": "rock_artist",
+      "comments": 51,
+      "hn_id": 45678549
     },
     "objects": []
   },
@@ -478,46 +586,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 228,
+      "score": 230,
       "author": "philips",
-      "comments": 263,
+      "comments": 266,
       "hn_id": 45657431
-    },
-    "objects": []
-  },
-  {
-    "id": "851c4d967debab837d20fda5146cdc3b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
-    "description": "",
-    "url": "https://github.com/character-ai/Ovi",
-    "published_date": "2025-10-22T19:42:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 221,
-      "author": "montyanderson",
-      "comments": 68,
-      "hn_id": 45674166
-    },
-    "objects": []
-  },
-  {
-    "id": "d40432a649f990d834243abd19d7bacc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
-    "description": "",
-    "url": "https://stalw.art/blog/jmap-collaboration/",
-    "published_date": "2025-10-22T17:26:06+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 221,
-      "author": "StalwartLabs",
-      "comments": 95,
-      "hn_id": 45672336
     },
     "objects": []
   },
@@ -532,7 +604,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 219,
+      "score": 220,
       "author": "c420",
       "comments": 109,
       "hn_id": 45656044
@@ -552,8 +624,26 @@
     "metadata": {
       "score": 218,
       "author": "elcapithanos",
-      "comments": 248,
+      "comments": 249,
       "hn_id": 45656916
+    },
+    "objects": []
+  },
+  {
+    "id": "df2a65a21b7a74cbae0374c6ebe86b9f",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Look, Another AI Browser",
+    "description": "",
+    "url": "https://manuelmoreale.com/thoughts/look-another-ai-browser",
+    "published_date": "2025-10-22T17:15:38+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 209,
+      "author": "v3am",
+      "comments": 126,
+      "hn_id": 45672199
     },
     "objects": []
   },
@@ -576,6 +666,24 @@
     "objects": []
   },
   {
+    "id": "59bcd0862331c8b083cb210d3a76828e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
+    "description": "",
+    "url": "https://www.erowid.org",
+    "published_date": "2025-10-21T20:31:47+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 201,
+      "author": "slow_typist",
+      "comments": 47,
+      "hn_id": 45661306
+    },
+    "objects": []
+  },
+  {
     "id": "07217fd44a2e071c796f325324fcb4aa",
     "source": "hackernews",
     "type": "story",
@@ -594,74 +702,38 @@
     "objects": []
   },
   {
-    "id": "83a9b062df502e19aa6a0adbbc0eaf54",
+    "id": "c03b750b9fe47266896597ef182bf817",
     "source": "hackernews",
     "type": "story",
-    "title": "Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII",
+    "title": "Rivian's TM-B electric bike",
     "description": "",
-    "url": "https://ian.sh/fia",
-    "published_date": "2025-10-22T18:21:54+00:00",
+    "url": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
+    "published_date": "2025-10-22T18:00:20+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 199,
-      "author": "galnagli",
-      "comments": 45,
-      "hn_id": 45673130
+      "score": 198,
+      "author": "hasheddan",
+      "comments": 322,
+      "hn_id": 45672844
     },
     "objects": []
   },
   {
-    "id": "59bcd0862331c8b083cb210d3a76828e",
+    "id": "f42722ef1e4aae0f20f811aa288a6b26",
     "source": "hackernews",
     "type": "story",
-    "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
+    "title": "Linux Capabilities Revisited",
     "description": "",
-    "url": "https://www.erowid.org",
-    "published_date": "2025-10-21T20:31:47+00:00",
+    "url": "https://dfir.ch/posts/linux_capabilities/",
+    "published_date": "2025-10-22T13:50:20+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
       "score": 194,
-      "author": "slow_typist",
-      "comments": 43,
-      "hn_id": 45661306
-    },
-    "objects": []
-  },
-  {
-    "id": "df2a65a21b7a74cbae0374c6ebe86b9f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Look, Another AI Browser",
-    "description": "",
-    "url": "https://manuelmoreale.com/thoughts/look-another-ai-browser",
-    "published_date": "2025-10-22T17:15:38+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 193,
-      "author": "v3am",
-      "comments": 114,
-      "hn_id": 45672199
-    },
-    "objects": []
-  },
-  {
-    "id": "0b618fe240cac68c59c4b7202dc7494d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "I see a future in jj",
-    "description": "",
-    "url": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
-    "published_date": "2025-10-22T17:21:54+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 186,
-      "author": "steveklabnik",
-      "comments": 111,
-      "hn_id": 45672280
+      "author": "Harvesterify",
+      "comments": 38,
+      "hn_id": 45669142
     },
     "objects": []
   },
@@ -676,28 +748,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 184,
+      "score": 186,
       "author": "ilamont",
       "comments": 88,
       "hn_id": 45662053
-    },
-    "objects": []
-  },
-  {
-    "id": "713d91c08caaa0e5a2977c6e9fe24806",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Criticisms of “The Body Keeps the Score”",
-    "description": "",
-    "url": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
-    "published_date": "2025-10-22T18:49:04+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 179,
-      "author": "adityaathalye",
-      "comments": 184,
-      "hn_id": 45673479
     },
     "objects": []
   },
@@ -712,9 +766,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 179,
+      "score": 183,
       "author": "chmaynard",
-      "comments": 22,
+      "comments": 23,
       "hn_id": 45662668
     },
     "objects": []
@@ -730,10 +784,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 178,
+      "score": 182,
       "author": "zerosizedweasle",
-      "comments": 165,
+      "comments": 167,
       "hn_id": 45668022
+    },
+    "objects": []
+  },
+  {
+    "id": "99890fe27e73c81fc50b978233212ea4",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Element: setHTML() method",
+    "description": "",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
+    "published_date": "2025-10-22T09:03:40+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 179,
+      "author": "todsacerdoti",
+      "comments": 98,
+      "hn_id": 45666497
     },
     "objects": []
   },
@@ -756,74 +828,38 @@
     "objects": []
   },
   {
-    "id": "41de945f30e15568b7121ac9f5bf9064",
+    "id": "059cc71ae429ae4b0acd3dea2964e70f",
     "source": "hackernews",
     "type": "story",
-    "title": "Language Support for Marginalia Search",
+    "title": "HP SitePrint",
     "description": "",
-    "url": "https://www.marginalia.nu/log/a_126_multilingual/",
-    "published_date": "2025-10-21T06:48:53+00:00",
+    "url": "https://www.hp.com/us-en/printers/site-print/layout-robot.html",
+    "published_date": "2025-10-22T17:18:33+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 175,
-      "author": "Bogdanp",
-      "comments": 26,
-      "hn_id": 45653143
+      "score": 176,
+      "author": "gjvc",
+      "comments": 116,
+      "hn_id": 45672235
     },
     "objects": []
   },
   {
-    "id": "45d20a7ea6f40a1c3d08fde31c02ef3b",
+    "id": "cc673477ddb320b48a2bd3b08a9f9a03",
     "source": "hackernews",
     "type": "story",
-    "title": "Magit Is Amazing",
+    "title": "Galaxy XR: The first Android XR headset",
     "description": "",
-    "url": "https://heiwiper.com/posts/magit-is-awesome/",
-    "published_date": "2025-10-21T18:39:18+00:00",
+    "url": "https://blog.google/products/android/samsung-galaxy-xr/",
+    "published_date": "2025-10-22T16:50:28+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 168,
-      "author": "Bogdanp",
-      "comments": 90,
-      "hn_id": 45659812
-    },
-    "objects": []
-  },
-  {
-    "id": "e89d44faf2da41dad517dbc041000cf2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Just Use Curl",
-    "description": "",
-    "url": "https://justuse.org/curl/",
-    "published_date": "2025-10-21T12:50:38+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 168,
-      "author": "imiric",
-      "comments": 142,
-      "hn_id": 45655121
-    },
-    "objects": []
-  },
-  {
-    "id": "f42722ef1e4aae0f20f811aa288a6b26",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Linux Capabilities Revisited",
-    "description": "",
-    "url": "https://dfir.ch/posts/linux_capabilities/",
-    "published_date": "2025-10-22T13:50:20+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 162,
-      "author": "Harvesterify",
-      "comments": 33,
-      "hn_id": 45669142
+      "score": 172,
+      "author": "thelastgallon",
+      "comments": 190,
+      "hn_id": 45671871
     },
     "objects": []
   },
@@ -838,64 +874,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 162,
+      "score": 172,
       "author": "jonbaer",
-      "comments": 218,
+      "comments": 220,
       "hn_id": 45667458
     },
     "objects": []
   },
   {
-    "id": "83b76e24aa41122340651a4e86c54cf3",
+    "id": "45d20a7ea6f40a1c3d08fde31c02ef3b",
     "source": "hackernews",
     "type": "story",
-    "title": "Rectal oxygen delivery might soon be a real medical treatment",
+    "title": "Magit Is Amazing",
     "description": "",
-    "url": "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/",
-    "published_date": "2025-10-21T23:00:40+00:00",
+    "url": "https://heiwiper.com/posts/magit-is-awesome/",
+    "published_date": "2025-10-21T18:39:18+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 155,
-      "author": "zdw",
-      "comments": 31,
-      "hn_id": 45662831
-    },
-    "objects": []
-  },
-  {
-    "id": "aae24ac28456d33f8906a1a95756d10e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Designing software for things that rot",
-    "description": "",
-    "url": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
-    "published_date": "2025-10-21T22:10:18+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 152,
-      "author": "valzevul",
-      "comments": 37,
-      "hn_id": 45662368
-    },
-    "objects": []
-  },
-  {
-    "id": "89d895b8360113a396f1fc82815de2b6",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Practical Scheme",
-    "description": "",
-    "url": "https://practical-scheme.net/index.html#docs",
-    "published_date": "2025-10-21T05:47:39+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 151,
-      "author": "ufko_org",
-      "comments": 54,
-      "hn_id": 45652859
+      "score": 171,
+      "author": "Bogdanp",
+      "comments": 93,
+      "hn_id": 45659812
     },
     "objects": []
   }
