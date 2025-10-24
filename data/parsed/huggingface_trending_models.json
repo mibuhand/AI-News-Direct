@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-OCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 487,614<br/>Likes: 1670",
+    "description": "Type: image-text-to-text<br/>Downloads: 487,614<br/>Likes: 1730",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
-    "published_date": "2025-10-24T09:24:54.959127+00:00",
+    "published_date": "2025-10-24T21:17:36.169230+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -14,7 +14,7 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-OCR",
       "downloads": 487614,
-      "likes": 1670,
+      "likes": 1730,
       "last_modified": "2025-10-23T04:55:52.000Z",
       "all_tags": []
     }
@@ -24,9 +24,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "PaddlePaddle/PaddleOCR-VL",
-    "description": "Type: image-text-to-text<br/>Downloads: 13,579<br/>Likes: 1018",
+    "description": "Type: image-text-to-text<br/>Downloads: 13,579<br/>Likes: 1037",
     "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
-    "published_date": "2025-10-24T09:24:54.959154+00:00",
+    "published_date": "2025-10-24T21:17:36.169252+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -34,7 +34,7 @@
       "author": "PaddlePaddle",
       "item_name": "PaddleOCR-VL",
       "downloads": 13579,
-      "likes": 1018,
+      "likes": 1037,
       "last_modified": "2025-10-24T06:39:55.000Z",
       "all_tags": []
     }
@@ -44,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HunyuanWorld-Mirror",
-    "description": "Type: image-to-3d<br/>Downloads: 4,491<br/>Likes: 300",
+    "description": "Type: image-to-3d<br/>Downloads: 4,491<br/>Likes: 314",
     "url": "https://huggingface.co/tencent/HunyuanWorld-Mirror",
-    "published_date": "2025-10-24T09:24:54.959162+00:00",
+    "published_date": "2025-10-24T21:17:36.169260+00:00",
     "categories": [
       "image-to-3d"
     ],
@@ -54,28 +54,8 @@
       "author": "tencent",
       "item_name": "HunyuanWorld-Mirror",
       "downloads": 4491,
-      "likes": 300,
+      "likes": 314,
       "last_modified": "2025-10-22T06:48:12.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "37926a1692867d26def90534521bb9a3",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3-VL-8B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 215,864<br/>Likes: 312",
-    "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
-    "published_date": "2025-10-24T09:24:54.959168+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-VL-8B-Instruct",
-      "downloads": 215864,
-      "likes": 312,
-      "last_modified": "2025-10-15T16:16:59.000Z",
       "all_tags": []
     }
   },
@@ -84,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "krea/krea-realtime-video",
-    "description": "Type: text-to-video<br/>Downloads: 894<br/>Likes: 154",
+    "description": "Type: text-to-video<br/>Downloads: 894<br/>Likes: 161",
     "url": "https://huggingface.co/krea/krea-realtime-video",
-    "published_date": "2025-10-24T09:24:54.959174+00:00",
+    "published_date": "2025-10-24T21:17:36.169266+00:00",
     "categories": [
       "text-to-video"
     ],
@@ -94,8 +74,28 @@
       "author": "krea",
       "item_name": "krea-realtime-video",
       "downloads": 894,
-      "likes": 154,
+      "likes": 161,
       "last_modified": "2025-10-20T20:03:12.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "37926a1692867d26def90534521bb9a3",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3-VL-8B-Instruct",
+    "description": "Type: image-text-to-text<br/>Downloads: 215,864<br/>Likes: 319",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+    "published_date": "2025-10-24T21:17:36.169271+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3-VL-8B-Instruct",
+      "downloads": 215864,
+      "likes": 319,
+      "last_modified": "2025-10-15T16:16:59.000Z",
       "all_tags": []
     }
   },
@@ -104,9 +104,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "nanonets/Nanonets-OCR2-3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 21,640<br/>Likes: 397",
+    "description": "Type: image-text-to-text<br/>Downloads: 21,640<br/>Likes: 399",
     "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
-    "published_date": "2025-10-24T09:24:54.959180+00:00",
+    "published_date": "2025-10-24T21:17:36.169280+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -114,7 +114,7 @@
       "author": "nanonets",
       "item_name": "Nanonets-OCR2-3B",
       "downloads": 21640,
-      "likes": 397,
+      "likes": 399,
       "last_modified": "2025-10-16T09:56:02.000Z",
       "all_tags": []
     }
@@ -124,9 +124,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "description": "Type: text-to-image<br/>Likes: 415",
+    "description": "Type: text-to-image<br/>Likes: 417",
     "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "published_date": "2025-10-24T09:24:54.959184+00:00",
+    "published_date": "2025-10-24T21:17:36.169284+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -134,7 +134,7 @@
       "author": "Phr00t",
       "item_name": "Qwen-Image-Edit-Rapid-AIO",
       "downloads": 0,
-      "likes": 415,
+      "likes": 417,
       "last_modified": "2025-10-21T23:16:00.000Z",
       "all_tags": []
     }
@@ -144,9 +144,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "lovis93/next-scene-qwen-image-lora-2509",
-    "description": "Type: image-to-image<br/>Downloads: 25,473<br/>Likes: 376",
+    "description": "Type: image-to-image<br/>Downloads: 25,473<br/>Likes: 380",
     "url": "https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509",
-    "published_date": "2025-10-24T09:24:54.959190+00:00",
+    "published_date": "2025-10-24T21:17:36.169289+00:00",
     "categories": [
       "image-to-image"
     ],
@@ -154,28 +154,8 @@
       "author": "lovis93",
       "item_name": "next-scene-qwen-image-lora-2509",
       "downloads": 25473,
-      "likes": 376,
+      "likes": 380,
       "last_modified": "2025-10-21T13:28:48.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "2ffd786f170dfdd8a6cfa186cc8eaa2b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "facebook/MobileLLM-Pro",
-    "description": "Type: text-generation<br/>Downloads: 1,459<br/>Likes: 124",
-    "url": "https://huggingface.co/facebook/MobileLLM-Pro",
-    "published_date": "2025-10-24T09:24:54.959195+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "facebook",
-      "item_name": "MobileLLM-Pro",
-      "downloads": 1459,
-      "likes": 124,
-      "last_modified": "2025-10-22T18:12:04.000Z",
       "all_tags": []
     }
   },
@@ -184,9 +164,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-32B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 11,957<br/>Likes: 77",
+    "description": "Type: image-text-to-text<br/>Downloads: 11,957<br/>Likes: 79",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct",
-    "published_date": "2025-10-24T09:24:54.959202+00:00",
+    "published_date": "2025-10-24T21:17:36.169296+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -194,8 +174,28 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-32B-Instruct",
       "downloads": 11957,
-      "likes": 77,
+      "likes": 79,
       "last_modified": "2025-10-21T18:26:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "7b42d9fe222ee886404382750e4dea63",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/omnivinci",
+    "description": "Type: feature-extraction<br/>Downloads: 383<br/>Likes: 77",
+    "url": "https://huggingface.co/nvidia/omnivinci",
+    "published_date": "2025-10-24T21:17:36.169302+00:00",
+    "categories": [
+      "feature-extraction"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "omnivinci",
+      "downloads": 383,
+      "likes": 77,
+      "last_modified": "2025-10-23T18:37:20.000Z",
       "all_tags": []
     }
   },
@@ -204,9 +204,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "katanemo/Arch-Router-1.5B",
-    "description": "Type: text-generation<br/>Downloads: 1,743<br/>Likes: 197",
+    "description": "Type: text-generation<br/>Downloads: 1,743<br/>Likes: 202",
     "url": "https://huggingface.co/katanemo/Arch-Router-1.5B",
-    "published_date": "2025-10-24T09:24:54.959207+00:00",
+    "published_date": "2025-10-24T21:17:36.169306+00:00",
     "categories": [
       "text-generation"
     ],
@@ -214,7 +214,7 @@
       "author": "katanemo",
       "item_name": "Arch-Router-1.5B",
       "downloads": 1743,
-      "likes": 197,
+      "likes": 202,
       "last_modified": "2025-10-22T17:37:04.000Z",
       "all_tags": []
     }
@@ -224,9 +224,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "JunhaoZhuang/FlashVSR",
-    "description": "Type: video-to-video<br/>Likes: 100",
+    "description": "Type: video-to-video<br/>Likes: 103",
     "url": "https://huggingface.co/JunhaoZhuang/FlashVSR",
-    "published_date": "2025-10-24T09:24:54.959212+00:00",
+    "published_date": "2025-10-24T21:17:36.169311+00:00",
     "categories": [
       "video-to-video"
     ],
@@ -234,7 +234,7 @@
       "author": "JunhaoZhuang",
       "item_name": "FlashVSR",
       "downloads": 0,
-      "likes": 100,
+      "likes": 103,
       "last_modified": "2025-10-18T10:29:42.000Z",
       "all_tags": []
     }
@@ -244,9 +244,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.6",
-    "description": "Type: text-generation<br/>Downloads: 57,639<br/>Likes: 865",
+    "description": "Type: text-generation<br/>Downloads: 57,639<br/>Likes: 870",
     "url": "https://huggingface.co/zai-org/GLM-4.6",
-    "published_date": "2025-10-24T09:24:54.959217+00:00",
+    "published_date": "2025-10-24T21:17:36.169316+00:00",
     "categories": [
       "text-generation"
     ],
@@ -254,88 +254,8 @@
       "author": "zai-org",
       "item_name": "GLM-4.6",
       "downloads": 57639,
-      "likes": 865,
+      "likes": 870,
       "last_modified": "2025-09-30T10:17:45.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "7b42d9fe222ee886404382750e4dea63",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/omnivinci",
-    "description": "Type: feature-extraction<br/>Downloads: 383<br/>Likes: 71",
-    "url": "https://huggingface.co/nvidia/omnivinci",
-    "published_date": "2025-10-24T09:24:54.959222+00:00",
-    "categories": [
-      "feature-extraction"
-    ],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "omnivinci",
-      "downloads": 383,
-      "likes": 71,
-      "last_modified": "2025-10-23T18:37:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "901254cf6721dc7d44612e149cdb5ee8",
-    "source": "huggingface",
-    "type": "model",
-    "title": "neuphonic/neutts-air",
-    "description": "Type: text-to-speech<br/>Downloads: 34,372<br/>Likes: 675",
-    "url": "https://huggingface.co/neuphonic/neutts-air",
-    "published_date": "2025-10-24T09:24:54.959229+00:00",
-    "categories": [
-      "text-to-speech"
-    ],
-    "metadata": {
-      "author": "neuphonic",
-      "item_name": "neutts-air",
-      "downloads": 34372,
-      "likes": 675,
-      "last_modified": "2025-10-10T13:18:52.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "706f652e89064bc693115017a80f167b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3-VL-4B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 149,877<br/>Likes: 191",
-    "url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct",
-    "published_date": "2025-10-24T09:24:54.959233+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-VL-4B-Instruct",
-      "downloads": 149877,
-      "likes": 191,
-      "last_modified": "2025-10-15T16:15:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0849cfe2cd4b2b6a4bd8e4598df72f69",
-    "source": "huggingface",
-    "type": "model",
-    "title": "inference-net/Schematron-3B",
-    "description": "Type: text-generation<br/>Downloads: 1,685,378<br/>Likes: 82",
-    "url": "https://huggingface.co/inference-net/Schematron-3B",
-    "published_date": "2025-10-24T09:24:54.959238+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "inference-net",
-      "item_name": "Schematron-3B",
-      "downloads": 1685378,
-      "likes": 82,
-      "last_modified": "2025-09-09T08:30:16.000Z",
       "all_tags": []
     }
   },
@@ -344,9 +264,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 15,925<br/>Likes: 63",
+    "description": "Type: image-text-to-text<br/>Downloads: 15,925<br/>Likes: 70",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_date": "2025-10-24T09:24:54.959243+00:00",
+    "published_date": "2025-10-24T21:17:36.169321+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -354,28 +274,48 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-2B-Instruct",
       "downloads": 15925,
-      "likes": 63,
+      "likes": 70,
       "last_modified": "2025-10-23T11:30:44.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "ff77fd9d043e6f1b0866a1120f4b9387",
+    "id": "706f652e89064bc693115017a80f167b",
     "source": "huggingface",
     "type": "model",
-    "title": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "description": "Type: image-to-video<br/>Likes: 939",
-    "url": "https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "published_date": "2025-10-24T09:24:54.959247+00:00",
+    "title": "Qwen/Qwen3-VL-4B-Instruct",
+    "description": "Type: image-text-to-text<br/>Downloads: 149,877<br/>Likes: 193",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct",
+    "published_date": "2025-10-24T21:17:36.169325+00:00",
     "categories": [
-      "image-to-video"
+      "image-text-to-text"
     ],
     "metadata": {
-      "author": "Phr00t",
-      "item_name": "WAN2.2-14B-Rapid-AllInOne",
-      "downloads": 0,
-      "likes": 939,
-      "last_modified": "2025-10-22T04:55:42.000Z",
+      "author": "Qwen",
+      "item_name": "Qwen3-VL-4B-Instruct",
+      "downloads": 149877,
+      "likes": 193,
+      "last_modified": "2025-10-15T16:15:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "901254cf6721dc7d44612e149cdb5ee8",
+    "source": "huggingface",
+    "type": "model",
+    "title": "neuphonic/neutts-air",
+    "description": "Type: text-to-speech<br/>Downloads: 34,372<br/>Likes: 676",
+    "url": "https://huggingface.co/neuphonic/neutts-air",
+    "published_date": "2025-10-24T21:17:36.169332+00:00",
+    "categories": [
+      "text-to-speech"
+    ],
+    "metadata": {
+      "author": "neuphonic",
+      "item_name": "neutts-air",
+      "downloads": 34372,
+      "likes": 676,
+      "last_modified": "2025-10-10T13:18:52.000Z",
       "all_tags": []
     }
   },
@@ -384,9 +324,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Open-Bee/Bee-8B-RL",
-    "description": "Type: image-text-to-text<br/>Downloads: 4,598<br/>Likes: 60",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,598<br/>Likes: 64",
     "url": "https://huggingface.co/Open-Bee/Bee-8B-RL",
-    "published_date": "2025-10-24T09:24:54.959257+00:00",
+    "published_date": "2025-10-24T21:17:36.169336+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -394,8 +334,68 @@
       "author": "Open-Bee",
       "item_name": "Bee-8B-RL",
       "downloads": 4598,
-      "likes": 60,
+      "likes": 64,
       "last_modified": "2025-10-20T04:41:45.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "2c7a08f46bbddeb3cfb139923bef475e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "allenai/olmOCR-2-7B-1025-FP8",
+    "description": "Type: image-to-text<br/>Downloads: 2,285<br/>Likes: 63",
+    "url": "https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8",
+    "published_date": "2025-10-24T21:17:36.169341+00:00",
+    "categories": [
+      "image-to-text"
+    ],
+    "metadata": {
+      "author": "allenai",
+      "item_name": "olmOCR-2-7B-1025-FP8",
+      "downloads": 2285,
+      "likes": 63,
+      "last_modified": "2025-10-22T15:31:25.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "9ca63d9fb441ed04cb49a9dc3a217c52",
+    "source": "huggingface",
+    "type": "model",
+    "title": "openai/gpt-oss-20b",
+    "description": "Type: text-generation<br/>Downloads: 5,340,785<br/>Likes: 3778",
+    "url": "https://huggingface.co/openai/gpt-oss-20b",
+    "published_date": "2025-10-24T21:17:36.169348+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gpt-oss-20b",
+      "downloads": 5340785,
+      "likes": 3778,
+      "last_modified": "2025-08-26T17:25:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "55509742f1a143c42626724657c2596c",
+    "source": "huggingface",
+    "type": "model",
+    "title": "deepseek-ai/DeepSeek-V3.2-Exp",
+    "description": "Type: text-generation<br/>Downloads: 91,222<br/>Likes: 725",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
+    "published_date": "2025-10-24T21:17:36.169384+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "deepseek-ai",
+      "item_name": "DeepSeek-V3.2-Exp",
+      "downloads": 91222,
+      "likes": 725,
+      "last_modified": "2025-10-09T06:19:53.000Z",
       "all_tags": []
     }
   }
