@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-OCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 730,692<br/>Likes: 1901",
+    "description": "Type: image-text-to-text<br/>Downloads: 841,106<br/>Likes: 1962",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
-    "published_date": "2025-10-26T21:17:01.810694+00:00",
+    "published_date": "2025-10-27T09:28:08.419996+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "deepseek-ai",
       "item_name": "DeepSeek-OCR",
-      "downloads": 730692,
-      "likes": 1901,
+      "downloads": 841106,
+      "likes": 1962,
       "last_modified": "2025-10-25T02:43:48.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "PaddlePaddle/PaddleOCR-VL",
-    "description": "Type: image-text-to-text<br/>Downloads: 15,605<br/>Likes: 1085",
+    "description": "Type: image-text-to-text<br/>Downloads: 17,266<br/>Likes: 1099",
     "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
-    "published_date": "2025-10-26T21:17:01.810718+00:00",
+    "published_date": "2025-10-27T09:28:08.420021+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "PaddlePaddle",
       "item_name": "PaddleOCR-VL",
-      "downloads": 15605,
-      "likes": 1085,
+      "downloads": 17266,
+      "likes": 1099,
       "last_modified": "2025-10-24T06:39:55.000Z",
       "all_tags": []
     }
@@ -44,18 +44,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HunyuanWorld-Mirror",
-    "description": "Type: image-to-3d<br/>Downloads: 8,307<br/>Likes: 345",
+    "description": "Type: image-to-3d<br/>Downloads: 12,512<br/>Likes: 351",
     "url": "https://huggingface.co/tencent/HunyuanWorld-Mirror",
-    "published_date": "2025-10-26T21:17:01.810726+00:00",
+    "published_date": "2025-10-27T09:28:08.420029+00:00",
     "categories": [
       "image-to-3d"
     ],
     "metadata": {
       "author": "tencent",
       "item_name": "HunyuanWorld-Mirror",
-      "downloads": 8307,
-      "likes": 345,
+      "downloads": 12512,
+      "likes": 351,
       "last_modified": "2025-10-25T07:42:13.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "53d78c8864f6978c2685bf5f7876114e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "MiniMaxAI/MiniMax-M2",
+    "description": "Type: text-generation<br/>Downloads: 570<br/>Likes: 286",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2",
+    "published_date": "2025-10-27T09:28:08.420034+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "MiniMaxAI",
+      "item_name": "MiniMax-M2",
+      "downloads": 570,
+      "likes": 286,
+      "last_modified": "2025-10-27T07:38:45.000Z",
       "all_tags": []
     }
   },
@@ -64,18 +84,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "krea/krea-realtime-video",
-    "description": "Type: text-to-video<br/>Downloads: 1,148<br/>Likes: 199",
+    "description": "Type: text-to-video<br/>Downloads: 1,596<br/>Likes: 209",
     "url": "https://huggingface.co/krea/krea-realtime-video",
-    "published_date": "2025-10-26T21:17:01.810732+00:00",
+    "published_date": "2025-10-27T09:28:08.420040+00:00",
     "categories": [
       "text-to-video"
     ],
     "metadata": {
       "author": "krea",
       "item_name": "krea-realtime-video",
-      "downloads": 1148,
-      "likes": 199,
+      "downloads": 1596,
+      "likes": 209,
       "last_modified": "2025-10-20T20:03:12.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3f29242f876b5bf6179a9b562b032316",
+    "source": "huggingface",
+    "type": "model",
+    "title": "meituan-longcat/LongCat-Video",
+    "description": "Type: text-to-video<br/>Downloads: 156<br/>Likes: 139",
+    "url": "https://huggingface.co/meituan-longcat/LongCat-Video",
+    "published_date": "2025-10-27T09:28:08.420047+00:00",
+    "categories": [
+      "text-to-video"
+    ],
+    "metadata": {
+      "author": "meituan-longcat",
+      "item_name": "LongCat-Video",
+      "downloads": 156,
+      "likes": 139,
+      "last_modified": "2025-10-25T16:56:31.000Z",
       "all_tags": []
     }
   },
@@ -84,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-8B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 289,915<br/>Likes: 331",
+    "description": "Type: image-text-to-text<br/>Downloads: 318,725<br/>Likes: 336",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
-    "published_date": "2025-10-26T21:17:01.810740+00:00",
+    "published_date": "2025-10-27T09:28:08.420055+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-8B-Instruct",
-      "downloads": 289915,
-      "likes": 331,
+      "downloads": 318725,
+      "likes": 336,
       "last_modified": "2025-10-15T16:16:59.000Z",
       "all_tags": []
     }
@@ -104,38 +144,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "lovis93/next-scene-qwen-image-lora-2509",
-    "description": "Type: image-to-image<br/>Downloads: 27,989<br/>Likes: 395",
+    "description": "Type: image-to-image<br/>Downloads: 29,299<br/>Likes: 401",
     "url": "https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509",
-    "published_date": "2025-10-26T21:17:01.810746+00:00",
+    "published_date": "2025-10-27T09:28:08.420061+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
       "author": "lovis93",
       "item_name": "next-scene-qwen-image-lora-2509",
-      "downloads": 27989,
-      "likes": 395,
+      "downloads": 29299,
+      "likes": 401,
       "last_modified": "2025-10-21T13:28:48.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3f29242f876b5bf6179a9b562b032316",
-    "source": "huggingface",
-    "type": "model",
-    "title": "meituan-longcat/LongCat-Video",
-    "description": "Type: text-to-video<br/>Downloads: 54<br/>Likes: 104",
-    "url": "https://huggingface.co/meituan-longcat/LongCat-Video",
-    "published_date": "2025-10-26T21:17:01.810751+00:00",
-    "categories": [
-      "text-to-video"
-    ],
-    "metadata": {
-      "author": "meituan-longcat",
-      "item_name": "LongCat-Video",
-      "downloads": 54,
-      "likes": 104,
-      "last_modified": "2025-10-25T16:56:31.000Z",
       "all_tags": []
     }
   },
@@ -144,17 +164,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 29,304<br/>Likes: 95",
+    "description": "Type: image-text-to-text<br/>Downloads: 34,649<br/>Likes: 103",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_date": "2025-10-26T21:17:01.810757+00:00",
+    "published_date": "2025-10-27T09:28:08.420066+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-2B-Instruct",
-      "downloads": 29304,
-      "likes": 95,
+      "downloads": 34649,
+      "likes": 103,
       "last_modified": "2025-10-23T11:30:44.000Z",
       "all_tags": []
     }
@@ -164,9 +184,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "description": "Type: text-to-image<br/>Likes: 440",
+    "description": "Type: text-to-image<br/>Likes: 448",
     "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "published_date": "2025-10-26T21:17:01.810762+00:00",
+    "published_date": "2025-10-27T09:28:08.420071+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -174,8 +194,28 @@
       "author": "Phr00t",
       "item_name": "Qwen-Image-Edit-Rapid-AIO",
       "downloads": 0,
-      "likes": 440,
+      "likes": 448,
       "last_modified": "2025-10-25T00:45:22.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "2c7a08f46bbddeb3cfb139923bef475e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "allenai/olmOCR-2-7B-1025-FP8",
+    "description": "Type: image-to-text<br/>Downloads: 6,155<br/>Likes: 91",
+    "url": "https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8",
+    "published_date": "2025-10-27T09:28:08.420077+00:00",
+    "categories": [
+      "image-to-text"
+    ],
+    "metadata": {
+      "author": "allenai",
+      "item_name": "olmOCR-2-7B-1025-FP8",
+      "downloads": 6155,
+      "likes": 91,
+      "last_modified": "2025-10-22T15:31:25.000Z",
       "all_tags": []
     }
   },
@@ -184,17 +224,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "nanonets/Nanonets-OCR2-3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 30,317<br/>Likes: 413",
+    "description": "Type: image-text-to-text<br/>Downloads: 36,350<br/>Likes: 416",
     "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
-    "published_date": "2025-10-26T21:17:01.810769+00:00",
+    "published_date": "2025-10-27T09:28:08.420082+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "nanonets",
       "item_name": "Nanonets-OCR2-3B",
-      "downloads": 30317,
-      "likes": 413,
+      "downloads": 36350,
+      "likes": 416,
       "last_modified": "2025-10-16T09:56:02.000Z",
       "all_tags": []
     }
@@ -204,16 +244,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-32B-Instruct",
-    "description": "Type: image-text-to-text<br/>Downloads: 20,590<br/>Likes: 90",
+    "description": "Type: image-text-to-text<br/>Downloads: 24,361<br/>Likes: 90",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct",
-    "published_date": "2025-10-26T21:17:01.810774+00:00",
+    "published_date": "2025-10-27T09:28:08.420087+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-VL-32B-Instruct",
-      "downloads": 20590,
+      "downloads": 24361,
       "likes": 90,
       "last_modified": "2025-10-21T18:26:34.000Z",
       "all_tags": []
@@ -224,98 +264,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/omnivinci",
-    "description": "Type: feature-extraction<br/>Downloads: 779<br/>Likes: 88",
+    "description": "Type: feature-extraction<br/>Downloads: 990<br/>Likes: 94",
     "url": "https://huggingface.co/nvidia/omnivinci",
-    "published_date": "2025-10-26T21:17:01.810779+00:00",
+    "published_date": "2025-10-27T09:28:08.420092+00:00",
     "categories": [
       "feature-extraction"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "omnivinci",
-      "downloads": 779,
-      "likes": 88,
+      "downloads": 990,
+      "likes": 94,
       "last_modified": "2025-10-23T18:37:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "2c7a08f46bbddeb3cfb139923bef475e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "allenai/olmOCR-2-7B-1025-FP8",
-    "description": "Type: image-to-text<br/>Downloads: 4,244<br/>Likes: 85",
-    "url": "https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8",
-    "published_date": "2025-10-26T21:17:01.810784+00:00",
-    "categories": [
-      "image-to-text"
-    ],
-    "metadata": {
-      "author": "allenai",
-      "item_name": "olmOCR-2-7B-1025-FP8",
-      "downloads": 4244,
-      "likes": 85,
-      "last_modified": "2025-10-22T15:31:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "fe06015c5b5e11d43c2e7e31aacc5245",
-    "source": "huggingface",
-    "type": "model",
-    "title": "PokeeAI/pokee_research_7b",
-    "description": "Type: text-generation<br/>Downloads: 3,288<br/>Likes: 74",
-    "url": "https://huggingface.co/PokeeAI/pokee_research_7b",
-    "published_date": "2025-10-26T21:17:01.810789+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "PokeeAI",
-      "item_name": "pokee_research_7b",
-      "downloads": 3288,
-      "likes": 74,
-      "last_modified": "2025-10-23T07:26:48.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "49dd7944603ce8fc77e5f5300c79363b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-4.6",
-    "description": "Type: text-generation<br/>Downloads: 60,208<br/>Likes: 885",
-    "url": "https://huggingface.co/zai-org/GLM-4.6",
-    "published_date": "2025-10-26T21:17:01.810794+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-4.6",
-      "downloads": 60208,
-      "likes": 885,
-      "last_modified": "2025-09-30T10:17:45.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "09ba164c2a8ca53807824b99b0a62aed",
-    "source": "huggingface",
-    "type": "model",
-    "title": "JunhaoZhuang/FlashVSR",
-    "description": "Type: video-to-video<br/>Likes: 110",
-    "url": "https://huggingface.co/JunhaoZhuang/FlashVSR",
-    "published_date": "2025-10-26T21:17:01.810798+00:00",
-    "categories": [
-      "video-to-video"
-    ],
-    "metadata": {
-      "author": "JunhaoZhuang",
-      "item_name": "FlashVSR",
-      "downloads": 0,
-      "likes": 110,
-      "last_modified": "2025-10-18T10:29:42.000Z",
       "all_tags": []
     }
   },
@@ -324,38 +284,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "datalab-to/chandra",
-    "description": "Type: image-to-text<br/>Downloads: 4,662<br/>Likes: 69",
+    "description": "Type: image-to-text<br/>Downloads: 5,355<br/>Likes: 81",
     "url": "https://huggingface.co/datalab-to/chandra",
-    "published_date": "2025-10-26T21:17:01.810805+00:00",
+    "published_date": "2025-10-27T09:28:08.420096+00:00",
     "categories": [
       "image-to-text"
     ],
     "metadata": {
       "author": "datalab-to",
       "item_name": "chandra",
-      "downloads": 4662,
-      "likes": 69,
+      "downloads": 5355,
+      "likes": 81,
       "last_modified": "2025-10-21T14:44:25.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "0fc91c3fd0d560948b0367f42a576b4f",
+    "id": "fe06015c5b5e11d43c2e7e31aacc5245",
     "source": "huggingface",
     "type": "model",
-    "title": "cerebras/GLM-4.5-Air-REAP-82B-A12B",
-    "description": "Type: text-generation<br/>Downloads: 679<br/>Likes: 67",
-    "url": "https://huggingface.co/cerebras/GLM-4.5-Air-REAP-82B-A12B",
-    "published_date": "2025-10-26T21:17:01.810810+00:00",
+    "title": "PokeeAI/pokee_research_7b",
+    "description": "Type: text-generation<br/>Downloads: 3,491<br/>Likes: 80",
+    "url": "https://huggingface.co/PokeeAI/pokee_research_7b",
+    "published_date": "2025-10-27T09:28:08.420101+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "cerebras",
-      "item_name": "GLM-4.5-Air-REAP-82B-A12B",
-      "downloads": 679,
-      "likes": 67,
-      "last_modified": "2025-10-21T20:28:42.000Z",
+      "author": "PokeeAI",
+      "item_name": "pokee_research_7b",
+      "downloads": 3491,
+      "likes": 80,
+      "last_modified": "2025-10-23T07:26:48.000Z",
       "all_tags": []
     }
   },
@@ -364,9 +324,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "description": "Type: image-to-video<br/>Likes: 956",
+    "description": "Type: image-to-video<br/>Likes: 968",
     "url": "https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne",
-    "published_date": "2025-10-26T21:17:01.810815+00:00",
+    "published_date": "2025-10-27T09:28:08.420106+00:00",
     "categories": [
       "image-to-video"
     ],
@@ -374,28 +334,66 @@
       "author": "Phr00t",
       "item_name": "WAN2.2-14B-Rapid-AllInOne",
       "downloads": 0,
-      "likes": 956,
+      "likes": 968,
       "last_modified": "2025-10-25T17:13:41.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "020de307b5b0fb6bc46c1021ccff2d57",
+    "id": "49dd7944603ce8fc77e5f5300c79363b",
     "source": "huggingface",
     "type": "model",
-    "title": "Qwen/Qwen3-VL-2B-Thinking",
-    "description": "Type: image-text-to-text<br/>Downloads: 7,806<br/>Likes: 65",
-    "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking",
-    "published_date": "2025-10-26T21:17:01.810821+00:00",
+    "title": "zai-org/GLM-4.6",
+    "description": "Type: text-generation<br/>Downloads: 60,870<br/>Likes: 888",
+    "url": "https://huggingface.co/zai-org/GLM-4.6",
+    "published_date": "2025-10-27T09:28:08.420111+00:00",
     "categories": [
-      "image-text-to-text"
+      "text-generation"
     ],
     "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-VL-2B-Thinking",
-      "downloads": 7806,
-      "likes": 65,
-      "last_modified": "2025-10-20T19:15:08.000Z",
+      "author": "zai-org",
+      "item_name": "GLM-4.6",
+      "downloads": 60870,
+      "likes": 888,
+      "last_modified": "2025-09-30T10:17:45.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0fc91c3fd0d560948b0367f42a576b4f",
+    "source": "huggingface",
+    "type": "model",
+    "title": "cerebras/GLM-4.5-Air-REAP-82B-A12B",
+    "description": "Type: text-generation<br/>Downloads: 938<br/>Likes: 69",
+    "url": "https://huggingface.co/cerebras/GLM-4.5-Air-REAP-82B-A12B",
+    "published_date": "2025-10-27T09:28:08.420117+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "cerebras",
+      "item_name": "GLM-4.5-Air-REAP-82B-A12B",
+      "downloads": 938,
+      "likes": 69,
+      "last_modified": "2025-10-21T20:28:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d4346fc8fcbaf8c0a3bb457d36cb680e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "lightonai/LightOnOCR-1B-1025",
+    "description": "Downloads: 2,268<br/>Likes: 67",
+    "url": "https://huggingface.co/lightonai/LightOnOCR-1B-1025",
+    "published_date": "2025-10-27T09:28:08.420122+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "lightonai",
+      "item_name": "LightOnOCR-1B-1025",
+      "downloads": 2268,
+      "likes": 67,
+      "last_modified": "2025-10-25T14:35:42.000Z",
       "all_tags": []
     }
   }
