@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finewiki",
-    "description": "Downloads: 8,257<br/>Likes: 167",
+    "description": "Downloads: 8,257<br/>Likes: 172",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finewiki",
-    "published_date": "2025-10-30T09:25:12.105463+00:00",
+    "published_date": "2025-10-30T21:19:12.504660+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finewiki",
       "downloads": 8257,
-      "likes": 167,
+      "likes": 172,
       "last_modified": "2025-10-22T11:02:22.000Z",
       "all_tags": []
     }
@@ -22,34 +22,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 618<br/>Likes: 68",
+    "description": "Downloads: 618<br/>Likes: 77",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2025-10-30T09:25:12.105486+00:00",
+    "published_date": "2025-10-30T21:19:12.504680+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "PhysicalAI-Autonomous-Vehicles",
       "downloads": 618,
-      "likes": 68,
+      "likes": 77,
       "last_modified": "2025-10-28T20:31:51.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "be651b051e15d806a09eb5fb64cb66b3",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "karpathy/fineweb-edu-100b-shuffle",
-    "description": "Downloads: 45,992<br/>Likes: 118",
-    "url": "https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle",
-    "published_date": "2025-10-30T09:25:12.105493+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "karpathy",
-      "item_name": "fineweb-edu-100b-shuffle",
-      "downloads": 45992,
-      "likes": 118,
-      "last_modified": "2025-09-25T11:25:20.000Z",
       "all_tags": []
     }
   },
@@ -58,34 +40,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceM4/FineVision",
-    "description": "Downloads: 242,559<br/>Likes: 422",
+    "description": "Downloads: 242,559<br/>Likes: 424",
     "url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
-    "published_date": "2025-10-30T09:25:12.105499+00:00",
+    "published_date": "2025-10-30T21:19:12.504686+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceM4",
       "item_name": "FineVision",
       "downloads": 242559,
-      "likes": 422,
+      "likes": 424,
       "last_modified": "2025-10-21T10:12:56.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "a69fdc2e8280e38cb2b527ace9c82a53",
+    "id": "be651b051e15d806a09eb5fb64cb66b3",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nick007x/github-code-2025",
-    "description": "Downloads: 13,554<br/>Likes: 86",
-    "url": "https://huggingface.co/datasets/nick007x/github-code-2025",
-    "published_date": "2025-10-30T09:25:12.105515+00:00",
+    "title": "karpathy/fineweb-edu-100b-shuffle",
+    "description": "Downloads: 45,992<br/>Likes: 119",
+    "url": "https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle",
+    "published_date": "2025-10-30T21:19:12.504692+00:00",
     "categories": [],
     "metadata": {
-      "author": "nick007x",
-      "item_name": "github-code-2025",
-      "downloads": 13554,
-      "likes": 86,
-      "last_modified": "2025-10-15T15:38:10.000Z",
+      "author": "karpathy",
+      "item_name": "fineweb-edu-100b-shuffle",
+      "downloads": 45992,
+      "likes": 119,
+      "last_modified": "2025-09-25T11:25:20.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ae12e20d3a372d762a81ac3a7757d045",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "neulab/agent-data-collection",
+    "description": "Downloads: 2,327<br/>Likes: 33",
+    "url": "https://huggingface.co/datasets/neulab/agent-data-collection",
+    "published_date": "2025-10-30T21:19:12.504702+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "neulab",
+      "item_name": "agent-data-collection",
+      "downloads": 2327,
+      "likes": 33,
+      "last_modified": "2025-09-09T22:04:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "421f637ba1ba89d2c4b102ef10bba64c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-VLM-Dataset-v2",
+    "description": "Downloads: 612<br/>Likes: 27",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-VLM-Dataset-v2",
+    "published_date": "2025-10-30T21:19:12.504707+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-VLM-Dataset-v2",
+      "downloads": 612,
+      "likes": 27,
+      "last_modified": "2025-10-30T13:41:39.000Z",
       "all_tags": []
     }
   },
@@ -94,16 +112,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "AlicanKiraz0/Turkish-SFT-Dataset-v1.0",
-    "description": "Downloads: 440<br/>Likes: 25",
+    "description": "Downloads: 440<br/>Likes: 27",
     "url": "https://huggingface.co/datasets/AlicanKiraz0/Turkish-SFT-Dataset-v1.0",
-    "published_date": "2025-10-30T09:25:12.105520+00:00",
+    "published_date": "2025-10-30T21:19:12.504712+00:00",
     "categories": [],
     "metadata": {
       "author": "AlicanKiraz0",
       "item_name": "Turkish-SFT-Dataset-v1.0",
       "downloads": 440,
-      "likes": 25,
+      "likes": 27,
       "last_modified": "2025-10-26T17:22:53.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a69fdc2e8280e38cb2b527ace9c82a53",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nick007x/github-code-2025",
+    "description": "Downloads: 13,554<br/>Likes: 87",
+    "url": "https://huggingface.co/datasets/nick007x/github-code-2025",
+    "published_date": "2025-10-30T21:19:12.504717+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nick007x",
+      "item_name": "github-code-2025",
+      "downloads": 13554,
+      "likes": 87,
+      "last_modified": "2025-10-15T15:38:10.000Z",
       "all_tags": []
     }
   },
@@ -112,15 +148,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finepdfs",
-    "description": "Downloads: 50,153<br/>Likes: 640",
+    "description": "Downloads: 50,153<br/>Likes: 642",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2025-10-30T09:25:12.105525+00:00",
+    "published_date": "2025-10-30T21:19:12.504721+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finepdfs",
       "downloads": 50153,
-      "likes": 640,
+      "likes": 642,
       "last_modified": "2025-09-08T13:36:38.000Z",
       "all_tags": []
     }
@@ -132,7 +168,7 @@
     "title": "RUC-DataLab/DataScience-Instruct-500K",
     "description": "Downloads: 4,787<br/>Likes: 34",
     "url": "https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K",
-    "published_date": "2025-10-30T09:25:12.105529+00:00",
+    "published_date": "2025-10-30T21:19:12.504726+00:00",
     "categories": [],
     "metadata": {
       "author": "RUC-DataLab",
@@ -144,56 +180,20 @@
     }
   },
   {
-    "id": "ae12e20d3a372d762a81ac3a7757d045",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "neulab/agent-data-collection",
-    "description": "Downloads: 2,327<br/>Likes: 26",
-    "url": "https://huggingface.co/datasets/neulab/agent-data-collection",
-    "published_date": "2025-10-30T09:25:12.105534+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "neulab",
-      "item_name": "agent-data-collection",
-      "downloads": 2327,
-      "likes": 26,
-      "last_modified": "2025-09-09T22:04:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "a27cbe9e5f2d626fdf475af5194a2c9a",
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 34,534<br/>Likes: 9317",
+    "description": "Downloads: 34,534<br/>Likes: 9318",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-10-30T09:25:12.105538+00:00",
+    "published_date": "2025-10-30T21:19:12.504731+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 34534,
-      "likes": 9317,
+      "likes": 9318,
       "last_modified": "2025-01-06T00:02:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "421f637ba1ba89d2c4b102ef10bba64c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-VLM-Dataset-v2",
-    "description": "Downloads: 612<br/>Likes: 19",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-VLM-Dataset-v2",
-    "published_date": "2025-10-30T09:25:12.105543+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-VLM-Dataset-v2",
-      "downloads": 612,
-      "likes": 19,
-      "last_modified": "2025-10-28T15:11:50.000Z",
       "all_tags": []
     }
   },
@@ -202,34 +202,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nick007x/arxiv-papers",
-    "description": "Downloads: 8,732<br/>Likes: 52",
+    "description": "Downloads: 8,732<br/>Likes: 53",
     "url": "https://huggingface.co/datasets/nick007x/arxiv-papers",
-    "published_date": "2025-10-30T09:25:12.105547+00:00",
+    "published_date": "2025-10-30T21:19:12.504735+00:00",
     "categories": [],
     "metadata": {
       "author": "nick007x",
       "item_name": "arxiv-papers",
       "downloads": 8732,
-      "likes": 52,
+      "likes": 53,
       "last_modified": "2025-10-14T11:55:28.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "f5cdaccbcef722040a63ec7f411bb5e0",
+    "id": "9c29bb970568b506e65e7a74bf51f434",
     "source": "huggingface",
     "type": "dataset",
-    "title": "ash56/ShiftySpeech",
-    "description": "Downloads: 711<br/>Likes: 19",
-    "url": "https://huggingface.co/datasets/ash56/ShiftySpeech",
-    "published_date": "2025-10-30T09:25:12.105551+00:00",
+    "title": "mrlbenchmarks/global-piqa-nonparallel",
+    "description": "Downloads: 990<br/>Likes: 16",
+    "url": "https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel",
+    "published_date": "2025-10-30T21:19:12.504740+00:00",
     "categories": [],
     "metadata": {
-      "author": "ash56",
-      "item_name": "ShiftySpeech",
-      "downloads": 711,
-      "likes": 19,
-      "last_modified": "2025-10-24T03:17:11.000Z",
+      "author": "mrlbenchmarks",
+      "item_name": "global-piqa-nonparallel",
+      "downloads": 990,
+      "likes": 16,
+      "last_modified": "2025-10-29T00:39:36.000Z",
       "all_tags": []
     }
   },
@@ -240,7 +240,7 @@
     "title": "openai/gsm8k",
     "description": "Downloads: 432,493<br/>Likes: 923",
     "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-10-30T09:25:12.105556+00:00",
+    "published_date": "2025-10-30T21:19:12.504745+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -252,74 +252,38 @@
     }
   },
   {
+    "id": "bb5d8ee2960b87605d9106867ae66192",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Personas-USA",
+    "description": "Downloads: 16,309<br/>Likes: 215",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-USA",
+    "published_date": "2025-10-30T21:19:12.504750+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Personas-USA",
+      "downloads": 16309,
+      "likes": 215,
+      "last_modified": "2025-10-28T17:02:25.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "a9c718785542dad9f7c4b07058570619",
     "source": "huggingface",
     "type": "dataset",
     "title": "Open-Bee/Honey-Data-15M",
     "description": "Downloads: 103<br/>Likes: 46",
     "url": "https://huggingface.co/datasets/Open-Bee/Honey-Data-15M",
-    "published_date": "2025-10-30T09:25:12.105562+00:00",
+    "published_date": "2025-10-30T21:19:12.504756+00:00",
     "categories": [],
     "metadata": {
       "author": "Open-Bee",
       "item_name": "Honey-Data-15M",
       "downloads": 103,
       "likes": 46,
-      "last_modified": "2025-10-16T04:04:05.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "bb5d8ee2960b87605d9106867ae66192",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Personas-USA",
-    "description": "Downloads: 16,309<br/>Likes: 214",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-USA",
-    "published_date": "2025-10-30T09:25:12.105567+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Personas-USA",
-      "downloads": 16309,
-      "likes": 214,
-      "last_modified": "2025-10-28T17:02:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "9c29bb970568b506e65e7a74bf51f434",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "mrlbenchmarks/global-piqa-nonparallel",
-    "description": "Downloads: 990<br/>Likes: 13",
-    "url": "https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel",
-    "published_date": "2025-10-30T09:25:12.105572+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "mrlbenchmarks",
-      "item_name": "global-piqa-nonparallel",
-      "downloads": 990,
-      "likes": 13,
-      "last_modified": "2025-10-29T00:39:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "99d9fac40a7c8abd8fd4dc4f8a05af5b",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Agent-Ark/Toucan-1.5M",
-    "description": "Downloads: 15,487<br/>Likes: 159",
-    "url": "https://huggingface.co/datasets/Agent-Ark/Toucan-1.5M",
-    "published_date": "2025-10-30T09:25:12.105577+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Agent-Ark",
-      "item_name": "Toucan-1.5M",
-      "downloads": 15487,
-      "likes": 159,
-      "last_modified": "2025-10-04T00:51:18.000Z",
+      "last_modified": "2025-10-30T16:21:05.000Z",
       "all_tags": []
     }
   },
@@ -328,16 +292,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "BianYx/VAP-Data",
-    "description": "Downloads: 7,098<br/>Likes: 13",
+    "description": "Downloads: 7,098<br/>Likes: 14",
     "url": "https://huggingface.co/datasets/BianYx/VAP-Data",
-    "published_date": "2025-10-30T09:25:12.105582+00:00",
+    "published_date": "2025-10-30T21:19:12.504762+00:00",
     "categories": [],
     "metadata": {
       "author": "BianYx",
       "item_name": "VAP-Data",
       "downloads": 7098,
-      "likes": 13,
-      "last_modified": "2025-10-27T00:17:12.000Z",
+      "likes": 14,
+      "last_modified": "2025-10-30T13:36:51.000Z",
       "all_tags": []
     }
   },
@@ -346,16 +310,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "coral-nlp/german-commons",
-    "description": "Downloads: 2,671<br/>Likes: 19",
+    "description": "Downloads: 2,671<br/>Likes: 20",
     "url": "https://huggingface.co/datasets/coral-nlp/german-commons",
-    "published_date": "2025-10-30T09:25:12.105587+00:00",
+    "published_date": "2025-10-30T21:19:12.504767+00:00",
     "categories": [],
     "metadata": {
       "author": "coral-nlp",
       "item_name": "german-commons",
       "downloads": 2671,
-      "likes": 19,
+      "likes": 20,
       "last_modified": "2025-10-20T14:14:00.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "954947cb075cf1b0705a00183aaa1629",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "zhihefang/UltraHR-100K",
+    "description": "Downloads: 1,929<br/>Likes: 11",
+    "url": "https://huggingface.co/datasets/zhihefang/UltraHR-100K",
+    "published_date": "2025-10-30T21:19:12.504771+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "zhihefang",
+      "item_name": "UltraHR-100K",
+      "downloads": 1929,
+      "likes": 11,
+      "last_modified": "2025-10-30T20:56:49.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0a33f391af7b68376d930ed5fe7299c5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "HuggingFaceFW/fineweb",
+    "description": "Downloads: 293,189<br/>Likes: 2412",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+    "published_date": "2025-10-30T21:19:12.504776+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HuggingFaceFW",
+      "item_name": "fineweb",
+      "downloads": 293189,
+      "likes": 2412,
+      "last_modified": "2025-07-11T20:16:53.000Z",
       "all_tags": []
     }
   }
