@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:huggingface_daily_papers</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2025-10-29T21:18:58.835991+00:00</updated>
+  <updated>2025-10-30T09:25:30.943027+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -19,7 +19,7 @@
     <category term="paper"/>
     <summary>The relationship between computing systems and the brain has served as
 motivation for pioneering theoreticians since John von Neumann and Alan Turing.
-Uniform, scale-free biological networks, such as ...&lt;br/&gt;Upvotes: 516&lt;br/&gt;GitHub Stars: 3247&lt;br/&gt;Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/pathwaycom/bdh&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.26507&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+Uniform, scale-free biological networks, such as ...&lt;br/&gt;Upvotes: 516&lt;br/&gt;GitHub Stars: 3251&lt;br/&gt;Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/pathwaycom/bdh&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.26507&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Less is More: Recursive Reasoning with Tiny Networks</title>
@@ -30,7 +30,7 @@ Uniform, scale-free biological networks, such as ...&lt;br/&gt;Upvotes: 516&lt;b
     <category term="paper"/>
     <summary>Hierarchical Reasoning Model (HRM) is a novel approach using two small neural
 networks recursing at different frequencies. This biologically inspired method
-beats Large Language models (LLMs) on hard ...&lt;br/&gt;Upvotes: 455&lt;br/&gt;GitHub Stars: 5270&lt;br/&gt;Authors: Alexia Jolicoeur-Martineau&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/SamsungSAILMontreal/TinyRecursiveModels&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.04871&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+beats Large Language models (LLMs) on hard ...&lt;br/&gt;Upvotes: 455&lt;br/&gt;GitHub Stars: 5294&lt;br/&gt;Authors: Alexia Jolicoeur-Martineau&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/SamsungSAILMontreal/TinyRecursiveModels&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.04871&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Agent Learning via Early Experience</title>
@@ -41,18 +41,7 @@ beats Large Language models (LLMs) on hard ...&lt;br/&gt;Upvotes: 455&lt;br/&gt;
     <category term="paper"/>
     <summary>A long-term goal of language agents is to learn and improve through their own
 experience, ultimately outperforming humans in complex, real-world tasks.
-However, training agents from experience data wi...&lt;br/&gt;Upvotes: 252&lt;br/&gt;Authors: Kai Zhang, Xiangchao Chen, Bo Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.08558&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
-    <title>LongLive: Real-time Interactive Long Video Generation</title>
-    <id>4618188e5babf65ab96739c065ddfd61</id>
-    <link href="https://arxiv.org/abs/2509.22622"/>
-    <updated>2025-09-26T13:48:24+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>We present LongLive, a frame-level autoregressive (AR) framework for
-real-time and interactive long video generation. Long video generation presents
-challenges in both efficiency and quality. Diffusio...&lt;br/&gt;Upvotes: 178&lt;br/&gt;GitHub Stars: 759&lt;br/&gt;Authors: Shuai Yang, Wei Huang, Ruihang Chu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/NVlabs/LongLive&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://nvlabs.github.io/LongLive/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.22622&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+However, training agents from experience data wi...&lt;br/&gt;Upvotes: 253&lt;br/&gt;Authors: Kai Zhang, Xiangchao Chen, Bo Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.08558&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
@@ -79,6 +68,18 @@ large language models (LLMs). While RL is essential for LLMs' reasoning
 capabilities, it is resource-intensive, requiring ...&lt;br/&gt;Upvotes: 168&lt;br/&gt;GitHub Stars: 381&lt;br/&gt;Authors: Wei Huang, Yi Ge, Shuai Yang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/NVlabs/QeRL&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/NVlabs/QeRL&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.11696&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
+    <title>Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
+  Representations</title>
+    <id>9f97533076b36bd588d78f78c4352369</id>
+    <link href="https://arxiv.org/abs/2510.23607"/>
+    <updated>2025-10-27T13:59:59+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>Humans learn abstract concepts through multisensory synergy, and once formed,
+such representations can often be recalled from a single modality. Inspired by
+this principle, we introduce Concerto, a mi...&lt;br/&gt;Upvotes: 161&lt;br/&gt;GitHub Stars: 2583&lt;br/&gt;Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Pointcept/Pointcept&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://pointcept.github.io/Concerto/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23607&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
     <title>PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
   Ultra-Compact Vision-Language Model</title>
     <id>d98bf11f4930fd1159bb5f90e3f76afd</id>
@@ -88,19 +89,7 @@ capabilities, it is resource-intensive, requiring ...&lt;br/&gt;Upvotes: 168&lt;
     <category term="paper"/>
     <summary>In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model
 tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a
-compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 75&lt;br/&gt;GitHub Stars: 61888&lt;br/&gt;Authors: Cheng Cui, Ting Sun, Suyin Liang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/PaddlePaddle/PaddleOCR&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.14528&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
-    <title>MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing</title>
-    <id>b1fe8132db01bc9650eda3e26023bc30</id>
-    <link href="https://arxiv.org/abs/2509.22186"/>
-    <updated>2025-09-26T06:45:48+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>We introduce MinerU2.5, a 1.2B-parameter document parsing vision-language
-model that achieves state-of-the-art recognition accuracy while maintaining
-exceptional computational efficiency. Our approach...&lt;br/&gt;Upvotes: 126&lt;br/&gt;GitHub Stars: 47682&lt;br/&gt;Authors: Junbo Niu, Zheng Liu, Zhuangcheng Gu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/opendatalab/MinerU&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://opendatalab.github.io/MinerU/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.22186&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 75&lt;br/&gt;GitHub Stars: 61910&lt;br/&gt;Authors: Cheng Cui, Ting Sun, Suyin Liang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/PaddlePaddle/PaddleOCR&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.14528&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>BitNet Distillation</title>
@@ -111,7 +100,7 @@ exceptional computational efficiency. Our approach...&lt;br/&gt;Upvotes: 126&lt;
     <category term="paper"/>
     <summary>In this paper, we present BitNet Distillation (BitDistill), a lightweight
 pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
-1.58-bit precision (i.e., ternary weights {-1, 0,...&lt;br/&gt;Upvotes: 51&lt;br/&gt;GitHub Stars: 24318&lt;br/&gt;Authors: Xun Wu, Shaohan Huang, Wenhui Wang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.13998&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+1.58-bit precision (i.e., ternary weights {-1, 0,...&lt;br/&gt;Upvotes: 51&lt;br/&gt;GitHub Stars: 24317&lt;br/&gt;Authors: Xun Wu, Shaohan Huang, Wenhui Wang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.13998&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>JoyAgent-JDGenie: Technical Report on the GAIA</title>
@@ -122,7 +111,7 @@ pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
     <category term="paper"/>
     <summary>Large Language Models are increasingly deployed as autonomous agents for
 complex real-world tasks, yet existing systems often focus on isolated
-improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3&lt;br/&gt;GitHub Stars: 10772&lt;br/&gt;Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/jd-opensource/joyagent-jdgenie&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.00510&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3&lt;br/&gt;GitHub Stars: 10792&lt;br/&gt;Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/jd-opensource/joyagent-jdgenie&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.00510&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>RAG-Anything: All-in-One RAG Framework</title>
@@ -133,7 +122,7 @@ improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3
     <category term="paper"/>
     <summary>Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm
 for expanding Large Language Models beyond their static training limitations.
-However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&gt;GitHub Stars: 9738&lt;br/&gt;Authors: Zirui Guo, Xubin Ren, Lingrui Xu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/HKUDS/RAG-Anything&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.12323&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&gt;GitHub Stars: 9748&lt;br/&gt;Authors: Zirui Guo, Xubin Ren, Lingrui Xu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/HKUDS/RAG-Anything&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.12323&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>The Unreasonable Effectiveness of Scaling Agents for Computer Use</title>
@@ -144,6 +133,6 @@ However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&
     <category term="paper"/>
     <summary>Computer-use agents (CUAs) hold promise for automating everyday digital
 tasks, but their unreliability and high variance hinder their application to
-long-horizon, complex tasks. We introduce Behavior ...&lt;br/&gt;Upvotes: 23&lt;br/&gt;GitHub Stars: 7703&lt;br/&gt;Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/simular-ai/Agent-S/&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://www.simular.ai/articles/agent-s3&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.02250&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+long-horizon, complex tasks. We introduce Behavior ...&lt;br/&gt;Upvotes: 23&lt;br/&gt;GitHub Stars: 7730&lt;br/&gt;Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/simular-ai/Agent-S/&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://www.simular.ai/articles/agent-s3&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.02250&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
 </feed>
