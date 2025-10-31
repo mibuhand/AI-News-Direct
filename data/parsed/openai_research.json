@@ -1,5 +1,39 @@
 [
     {
+        "id": "3601f3ad341eb27939506c0f5e361225",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing gpt-oss-safeguard",
+        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "954f63c357c5dc716c95f20c1fc7d84f",
+        "source": "openai",
+        "type": "safety",
+        "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b",
+        "description": "and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard\u2019s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card\u2060.",
+        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
         "id": "2fad364d831037ee94c4b914d2314855",
         "source": "openai",
         "type": "safety",
@@ -51,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
-        "source": "openai",
-        "type": "research",
-        "title": "Sora 2 is here",
-        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
-        "url": "https://openai.com/index/sora-2/",
-        "published_date": "2025-09-30T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
         "id": "2a0868a53977d4037f6e3c736298134c",
         "source": "openai",
         "type": "publication",
@@ -81,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
+        "source": "openai",
+        "type": "research",
+        "title": "Sora 2 is here",
+        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+        "url": "https://openai.com/index/sora-2/",
+        "published_date": "2025-09-30T00:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
         },
         "objects": []
     },
@@ -115,40 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "0536ef5359855e2f0f21db664a18081b",
-        "source": "openai",
-        "type": "release",
-        "title": "Introducing upgrades to Codex",
-        "description": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop\u2014whether via the terminal, IDE, web, or even your phone.",
-        "url": "https://openai.com/index/introducing-upgrades-to-codex/",
-        "published_date": "2025-09-15T10:00:00+00:00",
-        "categories": [
-            "Release"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Release"
-        },
-        "objects": []
-    },
-    {
-        "id": "e898f7382937d7da8636c8ae9de52a62",
-        "source": "openai",
-        "type": "research",
-        "title": "How people are using ChatGPT",
-        "description": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-        "url": "https://openai.com/index/how-people-are-using-chatgpt/",
-        "published_date": "2025-09-15T03:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
         },
         "objects": []
     }
