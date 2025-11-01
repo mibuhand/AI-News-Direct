@@ -4,23 +4,11 @@
   <id>tag:ai-news-direct.local,2025:huggingface_daily_papers</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2025-10-31T21:17:00.295595+00:00</updated>
+  <updated>2025-11-01T09:21:17.957822+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_daily_papers.xml" rel="self"/>
-  <entry>
-    <title>The Dragon Hatchling: The Missing Link between the Transformer and
-  Models of the Brain</title>
-    <id>7a9ae43171e964d5b9a58c9a76f8c373</id>
-    <link href="https://arxiv.org/abs/2509.26507"/>
-    <updated>2025-09-30T12:49:01+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>The relationship between computing systems and the brain has served as
-motivation for pioneering theoreticians since John von Neumann and Alan Turing.
-Uniform, scale-free biological networks, such as ...&lt;br/&gt;Upvotes: 518&lt;br/&gt;GitHub Stars: 3261&lt;br/&gt;Authors: Adrian Kosowski, Przemysław Uznański, Jan Chorowski&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/pathwaycom/bdh&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.26507&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
   <entry>
     <title>Less is More: Recursive Reasoning with Tiny Networks</title>
     <id>3d55a02b14bdc7a04256ce32475eb075</id>
@@ -30,7 +18,7 @@ Uniform, scale-free biological networks, such as ...&lt;br/&gt;Upvotes: 518&lt;b
     <category term="paper"/>
     <summary>Hierarchical Reasoning Model (HRM) is a novel approach using two small neural
 networks recursing at different frequencies. This biologically inspired method
-beats Large Language models (LLMs) on hard ...&lt;br/&gt;Upvotes: 460&lt;br/&gt;GitHub Stars: 5323&lt;br/&gt;Authors: Alexia Jolicoeur-Martineau&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/SamsungSAILMontreal/TinyRecursiveModels&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.04871&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+beats Large Language models (LLMs) on hard ...&lt;br/&gt;Upvotes: 461&lt;br/&gt;GitHub Stars: 5336&lt;br/&gt;Authors: Alexia Jolicoeur-Martineau&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/SamsungSAILMontreal/TinyRecursiveModels&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.04871&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Agent Learning via Early Experience</title>
@@ -44,16 +32,15 @@ experience, ultimately outperforming humans in complex, real-world tasks.
 However, training agents from experience data wi...&lt;br/&gt;Upvotes: 255&lt;br/&gt;Authors: Kai Zhang, Xiangchao Chen, Bo Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.08558&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
-    <title>MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
-  Use</title>
-    <id>652276de74e8a80281a665d98165228d</id>
-    <link href="https://arxiv.org/abs/2509.24002"/>
-    <updated>2025-09-28T13:53:27+00:00</updated>
+    <title>Scaling Latent Reasoning via Looped Language Models</title>
+    <id>8c7bb673a7c23605ce494554bc937b12</id>
+    <link href="https://arxiv.org/abs/2510.25741"/>
+    <updated>2025-10-29T13:45:42+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>MCP standardizes how LLMs interact with external systems, forming the
-foundation for general agents. However, existing MCP benchmarks remain narrow
-in scope: they focus on read-heavy tasks or tasks wi...&lt;br/&gt;Upvotes: 170&lt;br/&gt;GitHub Stars: 290&lt;br/&gt;Authors: Zijian Wu, Xiangyan Liu, Xinyuan Zhang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/eval-sys/mcpmark&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://mcpmark.ai/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2509.24002&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Modern LLMs are trained to &quot;think&quot; primarily via explicit text generation,
+such as chain-of-thought (CoT), which defers reasoning to post-training and
+under-leverages pre-training data. We present and...&lt;br/&gt;Upvotes: 173&lt;br/&gt;Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua&lt;br/&gt;🔗 &lt;a href=&quot;https://ouro-llm.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.25741&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
@@ -77,7 +64,18 @@ capabilities, it is resource-intensive, requiring ...&lt;br/&gt;Upvotes: 168&lt;
     <category term="paper"/>
     <summary>Humans learn abstract concepts through multisensory synergy, and once formed,
 such representations can often be recalled from a single modality. Inspired by
-this principle, we introduce Concerto, a mi...&lt;br/&gt;Upvotes: 165&lt;br/&gt;GitHub Stars: 2589&lt;br/&gt;Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Pointcept/Pointcept&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://pointcept.github.io/Concerto/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23607&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+this principle, we introduce Concerto, a mi...&lt;br/&gt;Upvotes: 166&lt;br/&gt;GitHub Stars: 2592&lt;br/&gt;Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Pointcept/Pointcept&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://pointcept.github.io/Concerto/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23607&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
+    <title>Diffusion Transformers with Representation Autoencoders</title>
+    <id>1f97c06c73ceb6a2aa9ee2bb5f344034</id>
+    <link href="https://arxiv.org/abs/2510.11690"/>
+    <updated>2025-10-13T13:51:39+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>Latent generative modeling, where a pretrained autoencoder maps pixels into a
+latent space for the diffusion process, has become the standard strategy for
+Diffusion Transformers (DiT); however, the au...&lt;br/&gt;Upvotes: 160&lt;br/&gt;GitHub Stars: 1437&lt;br/&gt;Authors: Boyang Zheng, Nanye Ma, Shengbang Tong&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/bytetriper/RAE&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://rae-dit.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.11690&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
@@ -89,7 +87,7 @@ this principle, we introduce Concerto, a mi...&lt;br/&gt;Upvotes: 165&lt;br/&gt;
     <category term="paper"/>
     <summary>In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model
 tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a
-compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 78&lt;br/&gt;GitHub Stars: 62176&lt;br/&gt;Authors: Cheng Cui, Ting Sun, Suyin Liang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/PaddlePaddle/PaddleOCR&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.14528&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 78&lt;br/&gt;GitHub Stars: 62204&lt;br/&gt;Authors: Cheng Cui, Ting Sun, Suyin Liang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/PaddlePaddle/PaddleOCR&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.14528&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>BitNet Distillation</title>
@@ -100,7 +98,7 @@ compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 78&lt;br
     <category term="paper"/>
     <summary>In this paper, we present BitNet Distillation (BitDistill), a lightweight
 pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
-1.58-bit precision (i.e., ternary weights {-1, 0,...&lt;br/&gt;Upvotes: 52&lt;br/&gt;GitHub Stars: 24327&lt;br/&gt;Authors: Xun Wu, Shaohan Huang, Wenhui Wang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.13998&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+1.58-bit precision (i.e., ternary weights {-1, 0,...&lt;br/&gt;Upvotes: 52&lt;br/&gt;GitHub Stars: 24332&lt;br/&gt;Authors: Xun Wu, Shaohan Huang, Wenhui Wang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.13998&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
@@ -112,7 +110,7 @@ pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
     <category term="paper"/>
     <summary>Reinforcement learning with verifiable rewards (RLVR) has emerged as a
 promising paradigm for enhancing the reasoning capabilities of large language
-models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 4&lt;br/&gt;GitHub Stars: 14979&lt;br/&gt;Authors: Yuyang Ding, Chi Zhang, Juntao Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/volcengine/verl/tree/main/recipe/fapo&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://fapo-rl.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.22543&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 4&lt;br/&gt;GitHub Stars: 14990&lt;br/&gt;Authors: Yuyang Ding, Chi Zhang, Juntao Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/volcengine/verl/tree/main/recipe/fapo&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://fapo-rl.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.22543&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>JoyAgent-JDGenie: Technical Report on the GAIA</title>
@@ -123,7 +121,7 @@ models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 4&lt;b
     <category term="paper"/>
     <summary>Large Language Models are increasingly deployed as autonomous agents for
 complex real-world tasks, yet existing systems often focus on isolated
-improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3&lt;br/&gt;GitHub Stars: 10609&lt;br/&gt;Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/jd-opensource/joyagent-jdgenie&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.00510&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3&lt;br/&gt;GitHub Stars: 10610&lt;br/&gt;Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/jd-opensource/joyagent-jdgenie&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.00510&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>RAG-Anything: All-in-One RAG Framework</title>
@@ -134,7 +132,7 @@ improvements without a unifying design for robustness an...&lt;br/&gt;Upvotes: 3
     <category term="paper"/>
     <summary>Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm
 for expanding Large Language Models beyond their static training limitations.
-However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&gt;GitHub Stars: 9813&lt;br/&gt;Authors: Zirui Guo, Xubin Ren, Lingrui Xu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/HKUDS/RAG-Anything&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.12323&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&gt;GitHub Stars: 9817&lt;br/&gt;Authors: Zirui Guo, Xubin Ren, Lingrui Xu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/HKUDS/RAG-Anything&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.12323&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>The Unreasonable Effectiveness of Scaling Agents for Computer Use</title>
@@ -145,6 +143,6 @@ However, a critical misalignment exists between...&lt;br/&gt;Upvotes: 42&lt;br/&
     <category term="paper"/>
     <summary>Computer-use agents (CUAs) hold promise for automating everyday digital
 tasks, but their unreliability and high variance hinder their application to
-long-horizon, complex tasks. We introduce Behavior ...&lt;br/&gt;Upvotes: 23&lt;br/&gt;GitHub Stars: 7817&lt;br/&gt;Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/simular-ai/Agent-S/&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://www.simular.ai/articles/agent-s3&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.02250&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+long-horizon, complex tasks. We introduce Behavior ...&lt;br/&gt;Upvotes: 23&lt;br/&gt;GitHub Stars: 7833&lt;br/&gt;Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/simular-ai/Agent-S/&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://www.simular.ai/articles/agent-s3&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.02250&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
 </feed>

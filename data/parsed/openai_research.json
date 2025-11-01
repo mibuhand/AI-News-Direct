@@ -1,22 +1,5 @@
 [
     {
-        "id": "3601f3ad341eb27939506c0f5e361225",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-oss-safeguard",
-        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "954f63c357c5dc716c95f20c1fc7d84f",
         "source": "openai",
         "type": "safety",
@@ -30,6 +13,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "3601f3ad341eb27939506c0f5e361225",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing gpt-oss-safeguard",
+        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     },
