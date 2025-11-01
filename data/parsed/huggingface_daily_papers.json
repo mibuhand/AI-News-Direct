@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 461<br/>GitHub Stars: 5336<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
+    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 461<br/>GitHub Stars: 5344<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.04871",
     "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "published_date": "2025-10-06T10:58:08.000Z",
@@ -15,7 +15,7 @@
     "metadata": {
       "paper_id": "2510.04871",
       "upvotes": 461,
-      "github_stars": 5336,
+      "github_stars": 5344,
       "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
       "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
       "authors": [
@@ -108,7 +108,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Latent Reasoning via Looped Language Models",
-    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 173<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
+    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 176<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.25741",
     "external_url": "",
     "published_date": "2025-10-29T13:45:42.000Z",
@@ -118,7 +118,7 @@
     ],
     "metadata": {
       "paper_id": "2510.25741",
-      "upvotes": 173,
+      "upvotes": 176,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://ouro-llm.github.io/",
@@ -169,7 +169,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 168<br/>GitHub Stars: 384<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 169<br/>GitHub Stars: 384<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -179,7 +179,7 @@
     ],
     "metadata": {
       "paper_id": "2510.11696",
-      "upvotes": 168,
+      "upvotes": 169,
       "github_stars": 384,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
@@ -223,7 +223,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 166<br/>GitHub Stars: 2592<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Pointcept\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 166<br/>GitHub Stars: 2595<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Pointcept\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
     "external_url": "https://github.com/Pointcept/Pointcept",
     "published_date": "2025-10-27T13:59:59.000Z",
@@ -234,7 +234,7 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 166,
-      "github_stars": 2592,
+      "github_stars": 2595,
       "github_url": "https://github.com/Pointcept/Pointcept",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
@@ -270,7 +270,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1437<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
+    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1441<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11690",
     "external_url": "https://github.com/bytetriper/RAE",
     "published_date": "2025-10-13T13:51:39.000Z",
@@ -281,7 +281,7 @@
     "metadata": {
       "paper_id": "2510.11690",
       "upvotes": 160,
-      "github_stars": 1437,
+      "github_stars": 1441,
       "github_url": "https://github.com/bytetriper/RAE",
       "project_url": "https://rae-dit.github.io/",
       "authors": [
@@ -317,7 +317,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 78<br/>GitHub Stars: 62204<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 78<br/>GitHub Stars: 62275<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -328,7 +328,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 78,
-      "github_stars": 62204,
+      "github_stars": 62275,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -372,7 +372,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24332<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24333<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -383,7 +383,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 52,
-      "github_stars": 24332,
+      "github_stars": 24333,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -418,7 +418,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 4<br/>GitHub Stars: 14990<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 4<br/>GitHub Stars: 14996<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -429,7 +429,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 4,
-      "github_stars": 14990,
+      "github_stars": 14996,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -466,7 +466,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "JoyAgent-JDGenie: Technical Report on the GAIA",
-    "description": "Large Language Models are increasingly deployed as autonomous agents for\ncomplex real-world tasks, yet existing systems often focus on isolated\nimprovements without a unifying design for robustness an...<br/>Upvotes: 3<br/>GitHub Stars: 10610<br/>Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu<br/>🔗 <a href=\"https://github.com/jd-opensource/joyagent-jdgenie\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.00510\">Hugging Face</a>",
+    "description": "Large Language Models are increasingly deployed as autonomous agents for\ncomplex real-world tasks, yet existing systems often focus on isolated\nimprovements without a unifying design for robustness an...<br/>Upvotes: 3<br/>GitHub Stars: 10616<br/>Authors: Jiarun Liu, Shiyue Xu, Shangkun Liu<br/>🔗 <a href=\"https://github.com/jd-opensource/joyagent-jdgenie\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.00510\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.00510",
     "external_url": "https://github.com/jd-opensource/joyagent-jdgenie",
     "published_date": "2025-10-01T00:41:58.000Z",
@@ -477,7 +477,7 @@
     "metadata": {
       "paper_id": "2510.00510",
       "upvotes": 3,
-      "github_stars": 10610,
+      "github_stars": 10616,
       "github_url": "https://github.com/jd-opensource/joyagent-jdgenie",
       "project_url": "",
       "authors": [
@@ -523,7 +523,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 42<br/>GitHub Stars: 9817<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 42<br/>GitHub Stars: 9829<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -534,7 +534,7 @@
     "metadata": {
       "paper_id": "2510.12323",
       "upvotes": 42,
-      "github_stars": 9817,
+      "github_stars": 9829,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -571,7 +571,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "The Unreasonable Effectiveness of Scaling Agents for Computer Use",
-    "description": "Computer-use agents (CUAs) hold promise for automating everyday digital\ntasks, but their unreliability and high variance hinder their application to\nlong-horizon, complex tasks. We introduce Behavior ...<br/>Upvotes: 23<br/>GitHub Stars: 7833<br/>Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee<br/>🔗 <a href=\"https://github.com/simular-ai/Agent-S/\">GitHub</a><br/>🔗 <a href=\"https://www.simular.ai/articles/agent-s3\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.02250\">Hugging Face</a>",
+    "description": "Computer-use agents (CUAs) hold promise for automating everyday digital\ntasks, but their unreliability and high variance hinder their application to\nlong-horizon, complex tasks. We introduce Behavior ...<br/>Upvotes: 23<br/>GitHub Stars: 7862<br/>Authors: Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee<br/>🔗 <a href=\"https://github.com/simular-ai/Agent-S/\">GitHub</a><br/>🔗 <a href=\"https://www.simular.ai/articles/agent-s3\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.02250\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.02250",
     "external_url": "https://github.com/simular-ai/Agent-S/",
     "published_date": "2025-10-02T13:37:08.000Z",
@@ -582,7 +582,7 @@
     "metadata": {
       "paper_id": "2510.02250",
       "upvotes": 23,
-      "github_stars": 7833,
+      "github_stars": 7862,
       "github_url": "https://github.com/simular-ai/Agent-S/",
       "project_url": "https://www.simular.ai/articles/agent-s3",
       "authors": [
