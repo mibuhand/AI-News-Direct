@@ -1,22 +1,5 @@
 [
     {
-        "id": "954f63c357c5dc716c95f20c1fc7d84f",
-        "source": "openai",
-        "type": "safety",
-        "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b",
-        "description": "and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard\u2019s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card\u2060.",
-        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
         "id": "3601f3ad341eb27939506c0f5e361225",
         "source": "openai",
         "type": "product",
@@ -30,6 +13,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "954f63c357c5dc716c95f20c1fc7d84f",
+        "source": "openai",
+        "type": "safety",
+        "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b",
+        "description": "and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard\u2019s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card\u2060.",
+        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
         },
         "objects": []
     },
