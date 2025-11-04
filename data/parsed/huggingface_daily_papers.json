@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 463<br/>GitHub Stars: 5400<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
+    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 463<br/>GitHub Stars: 5414<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.04871",
     "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "published_date": "2025-10-06T10:58:08.000Z",
@@ -15,7 +15,7 @@
     "metadata": {
       "paper_id": "2510.04871",
       "upvotes": 463,
-      "github_stars": 5400,
+      "github_stars": 5414,
       "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
       "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
       "authors": [
@@ -108,7 +108,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Latent Reasoning via Looped Language Models",
-    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 187<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
+    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 191<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.25741",
     "external_url": "",
     "published_date": "2025-10-29T13:45:42.000Z",
@@ -118,7 +118,7 @@
     ],
     "metadata": {
       "paper_id": "2510.25741",
-      "upvotes": 187,
+      "upvotes": 191,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://ouro-llm.github.io/",
@@ -160,8 +160,18 @@
       "summary": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and open-source Ouro, named after\nthe recursive Ouroboros, a family of pre-trained Looped Language Models\n(LoopLM) that instead build reasoning into the pre-training phase through (i)\niterative computation in latent space, (ii) an entropy-regularized objective\nfor learned depth allocation, and (iii) scaling to 7.7T tokens. Ouro 1.4B and\n2.6B models enjoy superior performance that match the results of up to 12B SOTA\nLLMs across a wide range of benchmarks. Through controlled experiments, we show\nthis advantage stems not from increased knowledge capacity, but from superior\nknowledge manipulation capabilities. We also show that LoopLM yields reasoning\ntraces more aligned with final outputs than explicit CoT. We hope our results\nshow the potential of LoopLM as a novel scaling direction in the reasoning era.\nOur model could be found in: http://ouro-llm.github.io.",
       "fetch_date": "2025-10-30",
       "num_comments": 3,
-      "ai_summary": "",
-      "ai_keywords": []
+      "ai_summary": "LoopLM, a family of pre-trained Looped Language Models, enhances reasoning by integrating iterative computation and entropy regularization during pre-training, achieving superior performance with better knowledge manipulation.",
+      "ai_keywords": [
+        "Looped Language Models",
+        "LoopLM",
+        "iterative computation",
+        "latent space",
+        "entropy-regularized objective",
+        "learned depth allocation",
+        "chain-of-thought",
+        "knowledge manipulation",
+        "reasoning traces"
+      ]
     }
   },
   {
@@ -169,9 +179,9 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 2608<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Pointcept\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 313<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
-    "external_url": "https://github.com/Pointcept/Pointcept",
+    "external_url": "https://github.com/Pointcept/Concerto",
     "published_date": "2025-10-27T13:59:59.000Z",
     "categories": [
       "research",
@@ -180,8 +190,8 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 172,
-      "github_stars": 2608,
-      "github_url": "https://github.com/Pointcept/Pointcept",
+      "github_stars": 313,
+      "github_url": "https://github.com/Pointcept/Concerto",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
         "Yujia Zhang",
@@ -216,7 +226,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 169<br/>GitHub Stars: 400<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 172<br/>GitHub Stars: 405<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -226,8 +236,8 @@
     ],
     "metadata": {
       "paper_id": "2510.11696",
-      "upvotes": 169,
-      "github_stars": 400,
+      "upvotes": 172,
+      "github_stars": 405,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
       "authors": [
@@ -270,7 +280,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1462<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
+    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1471<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11690",
     "external_url": "https://github.com/bytetriper/RAE",
     "published_date": "2025-10-13T13:51:39.000Z",
@@ -281,7 +291,7 @@
     "metadata": {
       "paper_id": "2510.11690",
       "upvotes": 160,
-      "github_stars": 1462,
+      "github_stars": 1471,
       "github_url": "https://github.com/bytetriper/RAE",
       "project_url": "https://rae-dit.github.io/",
       "authors": [
@@ -317,7 +327,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 80<br/>GitHub Stars: 62547<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 80<br/>GitHub Stars: 62587<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -328,7 +338,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 80,
-      "github_stars": 62547,
+      "github_stars": 62587,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -372,7 +382,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24346<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24347<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -383,7 +393,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 52,
-      "github_stars": 24346,
+      "github_stars": 24347,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -418,7 +428,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15049<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15091<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -429,7 +439,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15049,
+      "github_stars": 15091,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -443,7 +453,7 @@
       "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reasoning trajectories and\nexploit rollouts with correct answers as positive signals for policy\noptimization. However, these rollouts might involve flawed patterns such as\nanswer-guessing and jump-in-reasoning. Such flawed-positive rollouts are\nrewarded identically to fully correct ones, causing policy models to\ninternalize these unreliable reasoning patterns. In this work, we first conduct\na systematic study of flawed-positive rollouts in RL and find that they enable\nrapid capability gains during the early optimization stage, while constraining\nreasoning capability later by reinforcing unreliable patterns. Building on\nthese insights, we propose Flawed-Aware Policy Optimization (FAPO), which\npresents a parameter-free reward penalty for flawed-positive rollouts, enabling\nthe policy to leverage them as useful shortcuts in the warm-up stage, securing\nstable early gains, while gradually shifting optimization toward reliable\nreasoning in the later refinement stage. To accurately and comprehensively\ndetect flawed-positive rollouts, we introduce a generative reward model (GenRM)\nwith a process-level reward that precisely localizes reasoning errors.\nExperiments show that FAPO is effective in broad domains, improving outcome\ncorrectness, process reliability, and training stability without increasing the\ntoken budget.",
       "fetch_date": "2025-10-30",
       "num_comments": 1,
-      "ai_summary": "Flawed-Aware Policy Optimization (FAPO) improves reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, enhancing reasoning capability and training stability without increasing computational cost.",
+      "ai_summary": "Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.",
       "ai_keywords": [
         "reinforcement learning",
         "verifiable rewards",
@@ -454,10 +464,7 @@
         "parameter-free reward penalty",
         "generative reward model",
         "process-level reward",
-        "reasoning errors",
-        "outcome correctness",
-        "process reliability",
-        "training stability"
+        "reasoning errors"
       ]
     }
   },
@@ -466,7 +473,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 46<br/>GitHub Stars: 9926<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 46<br/>GitHub Stars: 9940<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -477,7 +484,7 @@
     "metadata": {
       "paper_id": "2510.12323",
       "upvotes": 46,
-      "github_stars": 9926,
+      "github_stars": 9940,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -510,57 +517,65 @@
     }
   },
   {
-    "id": "a88f84734a51625761ecb06d3d2f8410",
+    "id": "32811c5aee11a368e90161a3c41bd70b",
     "source": "huggingface",
     "type": "paper",
-    "title": "Training-Free Group Relative Policy Optimization",
-    "description": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challeng...<br/>Upvotes: 44<br/>GitHub Stars: 3741<br/>Authors: Yuzheng Cai, Siqi Cai, Yuchen Shi<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.08191\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.08191",
-    "external_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
-    "published_date": "2025-10-09T09:18:17.000Z",
+    "title": "Chronos-2: From Univariate to Universal Forecasting",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4191<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.15821",
+    "external_url": "https://github.com/amazon-science/chronos-forecasting",
+    "published_date": "2025-10-17T13:00:53.000Z",
     "categories": [
       "research",
       "paper"
     ],
     "metadata": {
-      "paper_id": "2510.08191",
-      "upvotes": 44,
-      "github_stars": 3741,
-      "github_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
-      "project_url": "",
+      "paper_id": "2510.15821",
+      "upvotes": 17,
+      "github_stars": 4191,
+      "github_url": "https://github.com/amazon-science/chronos-forecasting",
+      "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
-        "Yuzheng Cai",
-        "Siqi Cai",
-        "Yuchen Shi",
-        "Zihan Xu",
-        "Lichao Chen",
-        "Yulei Qin",
-        "Xiaoyu Tan",
-        "Gang Li",
-        "Zongyi Li",
-        "Haojia Lin",
-        "Yong Mao",
-        "Ke Li",
-        "Xing Sun"
+        "Abdul Fatir Ansari",
+        "Oleksandr Shchur",
+        "Jaris Küken",
+        "Andreas Auer",
+        "Boran Han",
+        "Pedro Mercado",
+        "Syama Sundar Rangapuram",
+        "Huibin Shen",
+        "Lorenzo Stella",
+        "Xiyuan Zhang",
+        "Mononito Goswami",
+        "Shubham Kapoor",
+        "Danielle C. Maddix",
+        "Pablo Guerron",
+        "Tony Hu",
+        "Junming Yin",
+        "Nick Erickson",
+        "Prateek Mutalik Desai",
+        "Hao Wang",
+        "Huzefa Rangwala",
+        "George Karypis",
+        "Yuyang Wang",
+        "Michael Bohlke-Schneider"
       ],
-      "summary": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challenges in effectively integrating\nexternal tools and specific prompting strategies. While methods like agentic\nreinforcement learning have been proposed to address this, they typically rely\non costly parameter updates, for example, through a process that uses\nSupervised Fine-Tuning (SFT) followed by a Reinforcement Learning (RL) phase\nwith Group Relative Policy Optimization (GRPO) to alter the output\ndistribution. However, we argue that LLMs can achieve a similar effect on the\noutput distribution by learning experiential knowledge as a token prior, which\nis a far more lightweight approach that not only addresses practical data\nscarcity but also avoids the common issue of overfitting. To this end, we\npropose Training-Free Group Relative Policy Optimization (Training-Free GRPO),\na cost-effective solution that enhances LLM agent performance without any\nparameter updates. Our method leverages the group relative semantic advantage\ninstead of numerical ones within each group of rollouts, iteratively distilling\nhigh-quality experiential knowledge during multi-epoch learning on a minimal\nground-truth data. Such knowledge serves as the learned token prior, which is\nseamlessly integrated during LLM API calls to guide model behavior. Experiments\non mathematical reasoning and web searching tasks demonstrate that\nTraining-Free GRPO, when applied to DeepSeek-V3.1-Terminus, significantly\nimproves out-of-domain performance. With just a few dozen training samples,\nTraining-Free GRPO outperforms fine-tuned small LLMs with marginal training\ndata and cost.",
-      "fetch_date": "2025-10-10",
-      "num_comments": 2,
-      "ai_summary": "Training-Free GRPO enhances LLM agent performance in specialized domains by learning experiential knowledge as a token prior without parameter updates, improving out-of-domain tasks with minimal data.",
+      "summary": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate forecasting, limiting their\napplicability in real-world scenarios where multivariate data and covariates\nplay a crucial role. We present Chronos-2, a pretrained model capable of\nhandling univariate, multivariate, and covariate-informed forecasting tasks in\na zero-shot manner. Chronos-2 employs a group attention mechanism that\nfacilitates in-context learning (ICL) through efficient information sharing\nacross multiple time series within a group, which may represent sets of related\nseries, variates of a multivariate series, or targets and covariates in a\nforecasting task. These general capabilities are achieved through training on\nsynthetic datasets that impose diverse multivariate structures on univariate\nseries. Chronos-2 delivers state-of-the-art performance across three\ncomprehensive benchmarks: fev-bench, GIFT-Eval, and Chronos Benchmark II. On\nfev-bench, which emphasizes multivariate and covariate-informed forecasting,\nChronos-2's universal ICL capabilities lead to substantial improvements over\nexisting models. On tasks involving covariates, it consistently outperforms\nbaselines by a wide margin. Case studies in the energy and retail domains\nfurther highlight its practical advantages. The in-context learning\ncapabilities of Chronos-2 establish it as a general-purpose forecasting model\nthat can be used \"as is\" in real-world forecasting pipelines.",
+      "fetch_date": "2025-10-21",
+      "num_comments": 3,
+      "ai_summary": "Chronos-2, a pretrained model with a group attention mechanism, achieves state-of-the-art performance in zero-shot univariate, multivariate, and covariate-informed forecasting tasks.",
       "ai_keywords": [
-        "Large Language Model (LLM)",
-        "agentic reinforcement learning",
-        "Supervised Fine-Tuning (SFT)",
-        "Reinforcement Learning (RL)",
-        "Group Relative Policy Optimization (GRPO)",
-        "token prior",
-        "Training-Free GRPO",
-        "group relative semantic advantage",
-        "multi-epoch learning",
-        "minimal ground-truth data",
-        "DeepSeek-V3.1-Terminus",
-        "mathematical reasoning",
-        "web searching tasks"
+        "pretrained model",
+        "group attention mechanism",
+        "in-context learning",
+        "ICL",
+        "synthetic datasets",
+        "multivariate structures",
+        "fev-bench",
+        "GIFT-Eval",
+        "Chronos Benchmark II",
+        "energy domain",
+        "retail domain"
       ]
     }
   }
