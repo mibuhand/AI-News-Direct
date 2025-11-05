@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 463<br/>GitHub Stars: 5423<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
+    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 464<br/>GitHub Stars: 5429<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.04871",
     "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "published_date": "2025-10-06T10:58:08.000Z",
@@ -14,8 +14,8 @@
     ],
     "metadata": {
       "paper_id": "2510.04871",
-      "upvotes": 463,
-      "github_stars": 5423,
+      "upvotes": 464,
+      "github_stars": 5429,
       "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
       "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
       "authors": [
@@ -108,7 +108,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Latent Reasoning via Looped Language Models",
-    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 193<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
+    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 198<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.25741",
     "external_url": "",
     "published_date": "2025-10-29T13:45:42.000Z",
@@ -118,7 +118,7 @@
     ],
     "metadata": {
       "paper_id": "2510.25741",
-      "upvotes": 193,
+      "upvotes": 198,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://ouro-llm.github.io/",
@@ -175,58 +175,11 @@
     }
   },
   {
-    "id": "9f97533076b36bd588d78f78c4352369",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 318<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.23607",
-    "external_url": "https://github.com/Pointcept/Concerto",
-    "published_date": "2025-10-27T13:59:59.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.23607",
-      "upvotes": 172,
-      "github_stars": 318,
-      "github_url": "https://github.com/Pointcept/Concerto",
-      "project_url": "https://pointcept.github.io/Concerto/",
-      "authors": [
-        "Yujia Zhang",
-        "Xiaoyang Wu",
-        "Yixing Lao",
-        "Chengyao Wang",
-        "Zhuotao Tian",
-        "Naiyan Wang",
-        "Hengshuang Zhao"
-      ],
-      "summary": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a minimalist simulation of human concept\nlearning for spatial cognition, combining 3D intra-modal self-distillation with\n2D-3D cross-modal joint embedding. Despite its simplicity, Concerto learns more\ncoherent and informative spatial features, as demonstrated by zero-shot\nvisualizations. It outperforms both standalone SOTA 2D and 3D self-supervised\nmodels by 14.2% and 4.8%, respectively, as well as their feature concatenation,\nin linear probing for 3D scene perception. With full fine-tuning, Concerto sets\nnew SOTA results across multiple scene understanding benchmarks (e.g., 80.7%\nmIoU on ScanNet). We further present a variant of Concerto tailored for\nvideo-lifted point cloud spatial understanding, and a translator that linearly\nprojects Concerto representations into CLIP's language space, enabling\nopen-world perception. These results highlight that Concerto emerges spatial\nrepresentations with superior fine-grained geometric and semantic consistency.",
-      "fetch_date": "2025-10-28",
-      "num_comments": 4,
-      "ai_summary": "Concerto, a minimalist model combining 3D self-distillation and 2D-3D joint embedding, achieves superior spatial feature learning and outperforms existing models in scene understanding and open-world perception.",
-      "ai_keywords": [
-        "3D intra-modal self-distillation",
-        "2D-3D cross-modal joint embedding",
-        "zero-shot visualizations",
-        "linear probing",
-        "3D scene perception",
-        "ScanNet",
-        "mIoU",
-        "video-lifted point cloud",
-        "CLIP's language space",
-        "open-world perception",
-        "fine-grained geometric and semantic consistency"
-      ]
-    }
-  },
-  {
     "id": "f5ecd82d2d6a90e1b4eb7c0d2afe9c3e",
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 172<br/>GitHub Stars: 409<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 173<br/>GitHub Stars: 410<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -236,8 +189,8 @@
     ],
     "metadata": {
       "paper_id": "2510.11696",
-      "upvotes": 172,
-      "github_stars": 409,
+      "upvotes": 173,
+      "github_stars": 410,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
       "authors": [
@@ -276,11 +229,58 @@
     }
   },
   {
+    "id": "9f97533076b36bd588d78f78c4352369",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 328<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.23607",
+    "external_url": "https://github.com/Pointcept/Concerto",
+    "published_date": "2025-10-27T13:59:59.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.23607",
+      "upvotes": 172,
+      "github_stars": 328,
+      "github_url": "https://github.com/Pointcept/Concerto",
+      "project_url": "https://pointcept.github.io/Concerto/",
+      "authors": [
+        "Yujia Zhang",
+        "Xiaoyang Wu",
+        "Yixing Lao",
+        "Chengyao Wang",
+        "Zhuotao Tian",
+        "Naiyan Wang",
+        "Hengshuang Zhao"
+      ],
+      "summary": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a minimalist simulation of human concept\nlearning for spatial cognition, combining 3D intra-modal self-distillation with\n2D-3D cross-modal joint embedding. Despite its simplicity, Concerto learns more\ncoherent and informative spatial features, as demonstrated by zero-shot\nvisualizations. It outperforms both standalone SOTA 2D and 3D self-supervised\nmodels by 14.2% and 4.8%, respectively, as well as their feature concatenation,\nin linear probing for 3D scene perception. With full fine-tuning, Concerto sets\nnew SOTA results across multiple scene understanding benchmarks (e.g., 80.7%\nmIoU on ScanNet). We further present a variant of Concerto tailored for\nvideo-lifted point cloud spatial understanding, and a translator that linearly\nprojects Concerto representations into CLIP's language space, enabling\nopen-world perception. These results highlight that Concerto emerges spatial\nrepresentations with superior fine-grained geometric and semantic consistency.",
+      "fetch_date": "2025-10-28",
+      "num_comments": 4,
+      "ai_summary": "Concerto, a minimalist model combining 3D self-distillation and 2D-3D joint embedding, achieves superior spatial feature learning and outperforms existing models in scene understanding and open-world perception.",
+      "ai_keywords": [
+        "3D intra-modal self-distillation",
+        "2D-3D cross-modal joint embedding",
+        "zero-shot visualizations",
+        "linear probing",
+        "3D scene perception",
+        "ScanNet",
+        "mIoU",
+        "video-lifted point cloud",
+        "CLIP's language space",
+        "open-world perception",
+        "fine-grained geometric and semantic consistency"
+      ]
+    }
+  },
+  {
     "id": "1f97c06c73ceb6a2aa9ee2bb5f344034",
     "source": "huggingface",
     "type": "paper",
     "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1475<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
+    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1479<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11690",
     "external_url": "https://github.com/bytetriper/RAE",
     "published_date": "2025-10-13T13:51:39.000Z",
@@ -291,7 +291,7 @@
     "metadata": {
       "paper_id": "2510.11690",
       "upvotes": 160,
-      "github_stars": 1475,
+      "github_stars": 1479,
       "github_url": "https://github.com/bytetriper/RAE",
       "project_url": "https://rae-dit.github.io/",
       "authors": [
@@ -327,7 +327,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 81<br/>GitHub Stars: 62672<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 81<br/>GitHub Stars: 62711<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -338,7 +338,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 81,
-      "github_stars": 62672,
+      "github_stars": 62711,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -382,7 +382,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24350<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24352<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -393,7 +393,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 52,
-      "github_stars": 24350,
+      "github_stars": 24352,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -428,7 +428,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15104<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15137<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -439,7 +439,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15104,
+      "github_stars": 15137,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -473,7 +473,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 46<br/>GitHub Stars: 9968<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 46<br/>GitHub Stars: 9979<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -484,7 +484,7 @@
     "metadata": {
       "paper_id": "2510.12323",
       "upvotes": 46,
-      "github_stars": 9968,
+      "github_stars": 9979,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -521,7 +521,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4199<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4203<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -532,7 +532,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 17,
-      "github_stars": 4199,
+      "github_stars": 4203,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
