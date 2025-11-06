@@ -68,40 +68,6 @@
         "external_url": "https://www.nature.com/articles/s41467-025-64374-2"
     },
     {
-        "id": "1e036357cdb955e85a05415daa514173",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
-        "description": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
-        "url": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
-        "published_date": "2025-09-01T16:00:00+00:00",
-        "categories": [
-            "Molecular Biology"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Milong Ren,  Jinyuan Sun, Jiaqi Guan,  Cong Liu,  Chengyue Gong,  Yuzhe Wang, Lan Wang, Qixu Cai,  Xinshi Chen, Wenzhi Xiao, Protenix Team",
-            "journal": "arXiv",
-            "work_team": [
-                "AI for Science"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://www.biorxiv.org/content/10.1101/2025.08.15.670450v2.article-info"
-    },
-    {
         "id": "dccf1debfc24b5c01efdc33b3731c87d",
         "source": "bytedance_seed",
         "type": "research",
@@ -134,6 +100,40 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/pdf/2509.01106"
+    },
+    {
+        "id": "8f1e44e3aac7cd5fa04c560f77ce7d73",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference",
+        "description": "We present Seed Diffusion Preview, a large-scale language model based on discrete-state diffusion, offering remarkably fast inference speed. Thanks to non-sequential, parallel generation, discrete diffusion models provide a notable speedup to mitigate the inherent latency of token-by-token decoding, as demonstrated recently (e.g., Mercury Coder, Gemini Diffusion). Seed Diffusion Preview achieves an inference speed of 2,146 token/s over H20 GPUs while maintaining competitive performance across a sweep of standard code evaluation benchmarks, significantly faster than contemporary Mercury and Gemini Diffusion, establishing new state of the art on the speed-quality Pareto frontier for code models.",
+        "url": "https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference",
+        "published_date": "2025-08-03T16:00:00+00:00",
+        "categories": [
+            "Computation and Language"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Yuxuan Song, Zheng Zhang, Cheng Luo, Pengyang Gao, Fan Xia, Hao Luo, Zheng Li, Yuehang Yang, Hongli Yu, Xingwei Qu, Yuwei Fu, Jing Su, Ge Zhang, Wenhao Huang, Mingxuan Wang, Lin Yan, Xiaoying Jia, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Yonghui Wu, Hao Zhou",
+            "journal": "arXiv",
+            "work_team": [
+                "LLM"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "We present Seed Diffusion Preview, a large-scale language model based on discrete-state diffusion, offering remarkably fast inference speed. Thanks to non-sequential, parallel generation, discrete diffusion models provide a notable speedup to mitigate the inherent latency of token-by-token decoding, as demonstrated recently (e.g., Mercury Coder, Gemini Diffusion). Seed Diffusion Preview achieves an inference speed of 2,146 token/s over H20 GPUs while maintaining competitive performance across a sweep of standard code evaluation benchmarks, significantly faster than contemporary Mercury and Gemini Diffusion, establishing new state of the art on the speed-quality Pareto frontier for code models.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/pdf/2508.02193"
     },
     {
         "id": "fa1600a231b65e2a2dbc3cdd326f6eed",
