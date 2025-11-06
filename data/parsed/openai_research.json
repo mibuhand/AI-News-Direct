@@ -1,18 +1,35 @@
 [
     {
-        "id": "3601f3ad341eb27939506c0f5e361225",
+        "id": "f76988be9f427fe14d5d5feaf1f5ef98",
         "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-oss-safeguard",
-        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
-        "published_date": "2025-10-29T00:00:00+00:00",
+        "type": "research",
+        "title": "Introducing IndQA",
+        "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+        "url": "https://openai.com/index/introducing-indqa/",
+        "published_date": "2025-11-03T22:30:00+00:00",
         "categories": [
-            "Product"
+            "Research"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Product"
+            "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
+        "id": "005c42f69c4969517b32b0b141cec5ab",
+        "source": "openai",
+        "type": "research",
+        "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
+        "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta\u2014sign up to join early testing.",
+        "url": "https://openai.com/index/introducing-aardvark/",
+        "published_date": "2025-10-30T11:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
         },
         "objects": []
     },
@@ -30,6 +47,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "3601f3ad341eb27939506c0f5e361225",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing gpt-oss-safeguard",
+        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     },
@@ -115,40 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "26670c67b9bec0773a4f12068a53a83e",
-        "source": "openai",
-        "type": "publication",
-        "title": "Measuring the performance of our models on real-world tasks",
-        "description": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
-        "url": "https://openai.com/index/gdpval/",
-        "published_date": "2025-09-25T09:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "aca4dbe0bbebe47c36d11f5a4710396a",
-        "source": "openai",
-        "type": "publication",
-        "title": "Detecting and reducing scheming in AI models",
-        "description": "Apollo Research and OpenAI developed evaluations for hidden misalignment (\u201cscheming\u201d) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
-        "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/",
-        "published_date": "2025-09-17T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
         },
         "objects": []
     }

@@ -4,18 +4,26 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-11-06T09:26:59.019913+00:00</updated>
+  <updated>2025-11-06T21:18:59.341325+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml" rel="self"/>
   <entry>
-    <title>Introducing gpt-oss-safeguard</title>
-    <id>3601f3ad341eb27939506c0f5e361225</id>
-    <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
+    <title>Introducing IndQA</title>
+    <id>f76988be9f427fe14d5d5feaf1f5ef98</id>
+    <link href="https://openai.com/index/introducing-indqa/"/>
+    <updated>2025-11-03T22:30:00+00:00</updated>
+    <category term="Research"/>
+    <summary>OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.</summary>
+  </entry>
+  <entry>
+    <title>Introducing Aardvark: OpenAI’s agentic security researcher</title>
+    <id>005c42f69c4969517b32b0b141cec5ab</id>
+    <link href="https://openai.com/index/introducing-aardvark/"/>
+    <updated>2025-10-30T11:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</summary>
   </entry>
   <entry>
     <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
@@ -24,6 +32,14 @@
     <updated>2025-10-29T00:00:00+00:00</updated>
     <category term="Safety"/>
     <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
+  </entry>
+  <entry>
+    <title>Introducing gpt-oss-safeguard</title>
+    <id>3601f3ad341eb27939506c0f5e361225</id>
+    <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
   </entry>
   <entry>
     <title>Addendum to GPT-5 System Card: Sensitive conversations</title>
@@ -64,21 +80,5 @@
     <updated>2025-09-30T00:00:00+00:00</updated>
     <category term="Research"/>
     <summary>Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.</summary>
-  </entry>
-  <entry>
-    <title>Measuring the performance of our models on real-world tasks</title>
-    <id>26670c67b9bec0773a4f12068a53a83e</id>
-    <link href="https://openai.com/index/gdpval/"/>
-    <updated>2025-09-25T09:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.</summary>
-  </entry>
-  <entry>
-    <title>Detecting and reducing scheming in AI models</title>
-    <id>aca4dbe0bbebe47c36d11f5a4710396a</id>
-    <link href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/"/>
-    <updated>2025-09-17T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.</summary>
   </entry>
 </feed>
