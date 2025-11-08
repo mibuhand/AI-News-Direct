@@ -1,45 +1,5 @@
 [
   {
-    "id": "3d55a02b14bdc7a04256ce32475eb075",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Less is More: Recursive Reasoning with Tiny Networks",
-    "description": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard ...<br/>Upvotes: 467<br/>GitHub Stars: 5472<br/>Authors: Alexia Jolicoeur-Martineau<br/>🔗 <a href=\"https://github.com/SamsungSAILMontreal/TinyRecursiveModels\">GitHub</a><br/>🔗 <a href=\"https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.04871\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.04871",
-    "external_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-    "published_date": "2025-10-06T10:58:08.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.04871",
-      "upvotes": 467,
-      "github_stars": 5472,
-      "github_url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-      "project_url": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html#",
-      "authors": [
-        "Alexia Jolicoeur-Martineau"
-      ],
-      "summary": "Hierarchical Reasoning Model (HRM) is a novel approach using two small neural\nnetworks recursing at different frequencies. This biologically inspired method\nbeats Large Language models (LLMs) on hard puzzle tasks such as Sudoku, Maze,\nand ARC-AGI while trained with small models (27M parameters) on small data\n(around 1000 examples). HRM holds great promise for solving hard problems with\nsmall networks, but it is not yet well understood and may be suboptimal. We\npropose Tiny Recursive Model (TRM), a much simpler recursive reasoning approach\nthat achieves significantly higher generalization than HRM, while using a\nsingle tiny network with only 2 layers. With only 7M parameters, TRM obtains\n45% test-accuracy on ARC-AGI-1 and 8% on ARC-AGI-2, higher than most LLMs\n(e.g., Deepseek R1, o3-mini, Gemini 2.5 Pro) with less than 0.01% of the\nparameters.",
-      "fetch_date": "2025-10-08",
-      "num_comments": 41,
-      "ai_summary": "Tiny Recursive Model (TRM) achieves high generalization on complex puzzle tasks using a small, two-layer network with minimal parameters, outperforming larger language models.",
-      "ai_keywords": [
-        "Hierarchical Reasoning Model",
-        "HRM",
-        "Tiny Recursive Model",
-        "TRM",
-        "recursive reasoning",
-        "neural networks",
-        "ARC-AGI",
-        "Deepseek R1",
-        "o3-mini",
-        "Gemini 2.5 Pro"
-      ]
-    }
-  },
-  {
     "id": "b5eadc2228eda785fe3e8da98ea25174",
     "source": "huggingface",
     "type": "paper",
@@ -179,7 +139,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 173<br/>GitHub Stars: 417<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
+    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 173<br/>GitHub Stars: 419<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11696",
     "external_url": "https://github.com/NVlabs/QeRL",
     "published_date": "2025-10-13T13:55:09.000Z",
@@ -190,7 +150,7 @@
     "metadata": {
       "paper_id": "2510.11696",
       "upvotes": 173,
-      "github_stars": 417,
+      "github_stars": 419,
       "github_url": "https://github.com/NVlabs/QeRL",
       "project_url": "https://github.com/NVlabs/QeRL",
       "authors": [
@@ -233,7 +193,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 364<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 370<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
     "external_url": "https://github.com/Pointcept/Concerto",
     "published_date": "2025-10-27T13:59:59.000Z",
@@ -244,7 +204,7 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 172,
-      "github_stars": 364,
+      "github_stars": 370,
       "github_url": "https://github.com/Pointcept/Concerto",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
@@ -280,7 +240,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1494<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
+    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1496<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.11690",
     "external_url": "https://github.com/bytetriper/RAE",
     "published_date": "2025-10-13T13:51:39.000Z",
@@ -291,7 +251,7 @@
     "metadata": {
       "paper_id": "2510.11690",
       "upvotes": 160,
-      "github_stars": 1494,
+      "github_stars": 1496,
       "github_url": "https://github.com/bytetriper/RAE",
       "project_url": "https://rae-dit.github.io/",
       "authors": [
@@ -323,11 +283,56 @@
     }
   },
   {
+    "id": "fa71d4f57dc7d25049e28fe9f9644922",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "A Theoretical Study on Bridging Internal Probability and\n  Self-Consistency for LLM Reasoning",
+    "description": "Test-time scaling seeks to improve the reasoning performance of large\nlanguage models (LLMs) by adding computational resources. A prevalent approach\nwithin the field is sampling-based test-time scalin...<br/>Upvotes: 145<br/>GitHub Stars: 10<br/>Authors: Zhi Zhou, Yuhao Tan, Zenan Li<br/>🔗 <a href=\"https://github.com/WNJXYK/RPC\">GitHub</a><br/>🔗 <a href=\"https://wnjxyk.github.io/RPC\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15444\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.15444",
+    "external_url": "https://github.com/WNJXYK/RPC",
+    "published_date": "2025-10-17T04:59:30.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.15444",
+      "upvotes": 145,
+      "github_stars": 10,
+      "github_url": "https://github.com/WNJXYK/RPC",
+      "project_url": "https://wnjxyk.github.io/RPC",
+      "authors": [
+        "Zhi Zhou",
+        "Yuhao Tan",
+        "Zenan Li",
+        "Yuan Yao",
+        "Lan-Zhe Guo",
+        "Yu-Feng Li",
+        "Xiaoxing Ma"
+      ],
+      "summary": "Test-time scaling seeks to improve the reasoning performance of large\nlanguage models (LLMs) by adding computational resources. A prevalent approach\nwithin the field is sampling-based test-time scaling methods, which enhance\nreasoning by generating multiple reasoning paths for a given input during\ninference. However, despite its practical success, the theoretical foundations\nremain underexplored. In this paper, we provide the first theoretical framework\nfor analyzing sampling-based test-time scaling methods, grounded in the\nperspective of confidence estimation. Based on the framework, we analyze two\ndominant paradigms: self-consistency and perplexity, and reveal key\nlimitations: self-consistency suffers from high estimation error while\nperplexity exhibits substantial modeling error and possible degradation of the\nestimation error convergence. To address these limitations, we introduce RPC, a\nhybrid method that leverages our theoretical insights through two key\ncomponents: Perplexity Consistency and Reasoning Pruning. Perplexity\nConsistency combines the strengths of self-consistency and perplexity, boosting\nthe convergence rate of estimation error from linear to exponential while\npreserving model error. Reasoning Pruning prevents degradation by eliminating\nlow-probability reasoning paths. Both theoretical analysis and empirical\nresults across seven benchmark datasets demonstrate that RPC has a strong\npotential for reducing reasoning error. Notably, RPC achieves reasoning\nperformance comparable to self-consistency while not only enhancing confidence\nreliability but also reducing sampling costs by 50%. The code and resources are\navailable at https://wnjxyk.github.io/RPC.",
+      "fetch_date": "2025-10-20",
+      "num_comments": 6,
+      "ai_summary": "A theoretical framework for sampling-based test-time scaling in large language models reveals limitations in self-consistency and perplexity, and introduces RPC to improve reasoning performance and reduce sampling costs.",
+      "ai_keywords": [
+        "sampling-based test-time scaling",
+        "large language models",
+        "self-consistency",
+        "perplexity",
+        "Perplexity Consistency",
+        "Reasoning Pruning",
+        "confidence estimation",
+        "reasoning error",
+        "benchmark datasets"
+      ]
+    }
+  },
+  {
     "id": "d98bf11f4930fd1159bb5f90e3f76afd",
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 84<br/>GitHub Stars: 62960<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 84<br/>GitHub Stars: 62990<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -338,7 +343,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 84,
-      "github_stars": 62960,
+      "github_stars": 62990,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -428,7 +433,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15217<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15229<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -439,7 +444,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15217,
+      "github_stars": 15229,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -473,7 +478,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 46<br/>GitHub Stars: 10035<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 47<br/>GitHub Stars: 10039<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -483,8 +488,8 @@
     ],
     "metadata": {
       "paper_id": "2510.12323",
-      "upvotes": 46,
-      "github_stars": 10035,
+      "upvotes": 47,
+      "github_stars": 10039,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -576,6 +581,61 @@
         "Chronos Benchmark II",
         "energy domain",
         "retail domain"
+      ]
+    }
+  },
+  {
+    "id": "a88f84734a51625761ecb06d3d2f8410",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Training-Free Group Relative Policy Optimization",
+    "description": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challeng...<br/>Upvotes: 44<br/>GitHub Stars: 3770<br/>Authors: Yuzheng Cai, Siqi Cai, Yuchen Shi<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.08191\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.08191",
+    "external_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
+    "published_date": "2025-10-09T09:18:17.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.08191",
+      "upvotes": 44,
+      "github_stars": 3770,
+      "github_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
+      "project_url": "",
+      "authors": [
+        "Yuzheng Cai",
+        "Siqi Cai",
+        "Yuchen Shi",
+        "Zihan Xu",
+        "Lichao Chen",
+        "Yulei Qin",
+        "Xiaoyu Tan",
+        "Gang Li",
+        "Zongyi Li",
+        "Haojia Lin",
+        "Yong Mao",
+        "Ke Li",
+        "Xing Sun"
+      ],
+      "summary": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challenges in effectively integrating\nexternal tools and specific prompting strategies. While methods like agentic\nreinforcement learning have been proposed to address this, they typically rely\non costly parameter updates, for example, through a process that uses\nSupervised Fine-Tuning (SFT) followed by a Reinforcement Learning (RL) phase\nwith Group Relative Policy Optimization (GRPO) to alter the output\ndistribution. However, we argue that LLMs can achieve a similar effect on the\noutput distribution by learning experiential knowledge as a token prior, which\nis a far more lightweight approach that not only addresses practical data\nscarcity but also avoids the common issue of overfitting. To this end, we\npropose Training-Free Group Relative Policy Optimization (Training-Free GRPO),\na cost-effective solution that enhances LLM agent performance without any\nparameter updates. Our method leverages the group relative semantic advantage\ninstead of numerical ones within each group of rollouts, iteratively distilling\nhigh-quality experiential knowledge during multi-epoch learning on a minimal\nground-truth data. Such knowledge serves as the learned token prior, which is\nseamlessly integrated during LLM API calls to guide model behavior. Experiments\non mathematical reasoning and web searching tasks demonstrate that\nTraining-Free GRPO, when applied to DeepSeek-V3.1-Terminus, significantly\nimproves out-of-domain performance. With just a few dozen training samples,\nTraining-Free GRPO outperforms fine-tuned small LLMs with marginal training\ndata and cost.",
+      "fetch_date": "2025-10-10",
+      "num_comments": 2,
+      "ai_summary": "Training-Free GRPO enhances LLM agent performance in specialized domains by learning experiential knowledge as a token prior without parameter updates, improving out-of-domain tasks with minimal data.",
+      "ai_keywords": [
+        "Large Language Model (LLM)",
+        "agentic reinforcement learning",
+        "Supervised Fine-Tuning (SFT)",
+        "Reinforcement Learning (RL)",
+        "Group Relative Policy Optimization (GRPO)",
+        "token prior",
+        "Training-Free GRPO",
+        "group relative semantic advantage",
+        "multi-epoch learning",
+        "minimal ground-truth data",
+        "DeepSeek-V3.1-Terminus",
+        "mathematical reasoning",
+        "web searching tasks"
       ]
     }
   }
