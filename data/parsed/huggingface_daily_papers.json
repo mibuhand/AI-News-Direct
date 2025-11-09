@@ -193,7 +193,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 379<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 387<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
     "external_url": "https://github.com/Pointcept/Concerto",
     "published_date": "2025-10-27T13:59:59.000Z",
@@ -204,7 +204,7 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 172,
-      "github_stars": 379,
+      "github_stars": 387,
       "github_url": "https://github.com/Pointcept/Concerto",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
@@ -236,58 +236,11 @@
     }
   },
   {
-    "id": "1f97c06c73ceb6a2aa9ee2bb5f344034",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1498<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.11690",
-    "external_url": "https://github.com/bytetriper/RAE",
-    "published_date": "2025-10-13T13:51:39.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.11690",
-      "upvotes": 160,
-      "github_stars": 1498,
-      "github_url": "https://github.com/bytetriper/RAE",
-      "project_url": "https://rae-dit.github.io/",
-      "authors": [
-        "Boyang Zheng",
-        "Nanye Ma",
-        "Shengbang Tong",
-        "Saining Xie"
-      ],
-      "summary": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the autoencoder component has barely\nevolved. Most DiTs continue to rely on the original VAE encoder, which\nintroduces several limitations: outdated backbones that compromise\narchitectural simplicity, low-dimensional latent spaces that restrict\ninformation capacity, and weak representations that result from purely\nreconstruction-based training and ultimately limit generative quality. In this\nwork, we explore replacing the VAE with pretrained representation encoders\n(e.g., DINO, SigLIP, MAE) paired with trained decoders, forming what we term\nRepresentation Autoencoders (RAEs). These models provide both high-quality\nreconstructions and semantically rich latent spaces, while allowing for a\nscalable transformer-based architecture. Since these latent spaces are\ntypically high-dimensional, a key challenge is enabling diffusion transformers\nto operate effectively within them. We analyze the sources of this difficulty,\npropose theoretically motivated solutions, and validate them empirically. Our\napproach achieves faster convergence without auxiliary representation alignment\nlosses. Using a DiT variant equipped with a lightweight, wide DDT head, we\nachieve strong image generation results on ImageNet: 1.51 FID at 256x256 (no\nguidance) and 1.13 at both 256x256 and 512x512 (with guidance). RAE offers\nclear advantages and should be the new default for diffusion transformer\ntraining.",
-      "fetch_date": "2025-10-14",
-      "num_comments": 5,
-      "ai_summary": "Replacing VAEs with pretrained representation encoders in Diffusion Transformers enhances generative quality and convergence speed without auxiliary losses.",
-      "ai_keywords": [
-        "Latent generative modeling",
-        "Diffusion Transformers (DiT)",
-        "VAE encoder",
-        "Representation Autoencoders (RAEs)",
-        "pretrained representation encoders",
-        "DINO",
-        "SigLIP",
-        "MAE",
-        "high-dimensional latent spaces",
-        "transformer-based architecture",
-        "diffusion transformers",
-        "image generation",
-        "ImageNet",
-        "FID"
-      ]
-    }
-  },
-  {
     "id": "b81e62a9e2bd28a9fe78c760c27308b6",
     "source": "huggingface",
     "type": "paper",
     "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
-    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 151<br/>GitHub Stars: 109<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
+    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 160<br/>GitHub Stars: 120<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.04570",
     "external_url": "https://github.com/tongjingqi/Thinking-with-Video",
     "published_date": "2025-11-06T12:25:23.000Z",
@@ -297,8 +250,8 @@
     ],
     "metadata": {
       "paper_id": "2511.04570",
-      "upvotes": 151,
-      "github_stars": 109,
+      "upvotes": 160,
+      "github_stars": 120,
       "github_url": "https://github.com/tongjingqi/Thinking-with-Video",
       "project_url": "https://thinking-with-video.github.io/",
       "authors": [
@@ -340,11 +293,58 @@
     }
   },
   {
+    "id": "1f97c06c73ceb6a2aa9ee2bb5f344034",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Diffusion Transformers with Representation Autoencoders",
+    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 160<br/>GitHub Stars: 1500<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.11690",
+    "external_url": "https://github.com/bytetriper/RAE",
+    "published_date": "2025-10-13T13:51:39.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.11690",
+      "upvotes": 160,
+      "github_stars": 1500,
+      "github_url": "https://github.com/bytetriper/RAE",
+      "project_url": "https://rae-dit.github.io/",
+      "authors": [
+        "Boyang Zheng",
+        "Nanye Ma",
+        "Shengbang Tong",
+        "Saining Xie"
+      ],
+      "summary": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the autoencoder component has barely\nevolved. Most DiTs continue to rely on the original VAE encoder, which\nintroduces several limitations: outdated backbones that compromise\narchitectural simplicity, low-dimensional latent spaces that restrict\ninformation capacity, and weak representations that result from purely\nreconstruction-based training and ultimately limit generative quality. In this\nwork, we explore replacing the VAE with pretrained representation encoders\n(e.g., DINO, SigLIP, MAE) paired with trained decoders, forming what we term\nRepresentation Autoencoders (RAEs). These models provide both high-quality\nreconstructions and semantically rich latent spaces, while allowing for a\nscalable transformer-based architecture. Since these latent spaces are\ntypically high-dimensional, a key challenge is enabling diffusion transformers\nto operate effectively within them. We analyze the sources of this difficulty,\npropose theoretically motivated solutions, and validate them empirically. Our\napproach achieves faster convergence without auxiliary representation alignment\nlosses. Using a DiT variant equipped with a lightweight, wide DDT head, we\nachieve strong image generation results on ImageNet: 1.51 FID at 256x256 (no\nguidance) and 1.13 at both 256x256 and 512x512 (with guidance). RAE offers\nclear advantages and should be the new default for diffusion transformer\ntraining.",
+      "fetch_date": "2025-10-14",
+      "num_comments": 5,
+      "ai_summary": "Replacing VAEs with pretrained representation encoders in Diffusion Transformers enhances generative quality and convergence speed without auxiliary losses.",
+      "ai_keywords": [
+        "Latent generative modeling",
+        "Diffusion Transformers (DiT)",
+        "VAE encoder",
+        "Representation Autoencoders (RAEs)",
+        "pretrained representation encoders",
+        "DINO",
+        "SigLIP",
+        "MAE",
+        "high-dimensional latent spaces",
+        "transformer-based architecture",
+        "diffusion transformers",
+        "image generation",
+        "ImageNet",
+        "FID"
+      ]
+    }
+  },
+  {
     "id": "d98bf11f4930fd1159bb5f90e3f76afd",
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 85<br/>GitHub Stars: 63094<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 85<br/>GitHub Stars: 63144<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -355,7 +355,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 85,
-      "github_stars": 63094,
+      "github_stars": 63144,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -399,7 +399,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24368<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 52<br/>GitHub Stars: 24374<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -410,7 +410,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 52,
-      "github_stars": 24368,
+      "github_stars": 24374,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -445,7 +445,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15252<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15263<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -456,7 +456,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15252,
+      "github_stars": 15263,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -490,7 +490,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 47<br/>GitHub Stars: 10045<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 47<br/>GitHub Stars: 10056<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -501,7 +501,7 @@
     "metadata": {
       "paper_id": "2510.12323",
       "upvotes": 47,
-      "github_stars": 10045,
+      "github_stars": 10056,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -538,7 +538,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4233<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4235<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -549,7 +549,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 17,
-      "github_stars": 4233,
+      "github_stars": 4235,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -601,7 +601,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Training-Free Group Relative Policy Optimization",
-    "description": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challeng...<br/>Upvotes: 44<br/>GitHub Stars: 3773<br/>Authors: Yuzheng Cai, Siqi Cai, Yuchen Shi<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.08191\">Hugging Face</a>",
+    "description": "Recent advances in Large Language Model (LLM) agents have demonstrated their\npromising general capabilities. However, their performance in specialized\nreal-world domains often degrades due to challeng...<br/>Upvotes: 44<br/>GitHub Stars: 3777<br/>Authors: Yuzheng Cai, Siqi Cai, Yuchen Shi<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.08191\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.08191",
     "external_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
     "published_date": "2025-10-09T09:18:17.000Z",
@@ -612,7 +612,7 @@
     "metadata": {
       "paper_id": "2510.08191",
       "upvotes": 44,
-      "github_stars": 3773,
+      "github_stars": 3777,
       "github_url": "https://github.com/TencentCloudADP/youtu-agent/tree/training_free_GRPO",
       "project_url": "",
       "authors": [
