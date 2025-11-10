@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-11-10T09:28:40.462773+00:00</updated>
+  <updated>2025-11-10T21:19:23.501661+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -26,20 +26,20 @@
     <summary>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</summary>
   </entry>
   <entry>
-    <title>Introducing gpt-oss-safeguard</title>
-    <id>3601f3ad341eb27939506c0f5e361225</id>
-    <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
-  </entry>
-  <entry>
     <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
     <id>954f63c357c5dc716c95f20c1fc7d84f</id>
     <link href="https://openai.com/index/gpt-oss-safeguard-technical-report/"/>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <category term="Safety"/>
     <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
+  </entry>
+  <entry>
+    <title>Introducing gpt-oss-safeguard</title>
+    <id>3601f3ad341eb27939506c0f5e361225</id>
+    <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
   </entry>
   <entry>
     <title>Addendum to GPT-5 System Card: Sensitive conversations</title>
@@ -66,19 +66,19 @@
     <summary>OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.</summary>
   </entry>
   <entry>
-    <title>Sora 2 System Card</title>
-    <id>2a0868a53977d4037f6e3c736298134c</id>
-    <link href="https://openai.com/index/sora-2-system-card/"/>
-    <updated>2025-09-30T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.</summary>
-  </entry>
-  <entry>
     <title>Sora 2 is here</title>
     <id>46e9bb4fd850bff9a07c7ca3f6ae5e2d</id>
     <link href="https://openai.com/index/sora-2/"/>
     <updated>2025-09-30T00:00:00+00:00</updated>
     <category term="Research"/>
     <summary>Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.</summary>
+  </entry>
+  <entry>
+    <title>Sora 2 System Card</title>
+    <id>2a0868a53977d4037f6e3c736298134c</id>
+    <link href="https://openai.com/index/sora-2-system-card/"/>
+    <updated>2025-09-30T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.</summary>
   </entry>
 </feed>

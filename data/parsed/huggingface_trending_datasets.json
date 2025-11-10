@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 44,148<br/>Likes: 286",
+    "description": "Downloads: 44,148<br/>Likes: 292",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2025-11-10T09:27:59.242896+00:00",
+    "published_date": "2025-11-10T21:19:03.561685+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "PhysicalAI-Autonomous-Vehicles",
       "downloads": 44148,
-      "likes": 286,
+      "likes": 292,
       "last_modified": "2025-10-28T20:31:51.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 39,260<br/>Likes: 9372",
+    "description": "Downloads: 39,260<br/>Likes: 9374",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-11-10T09:27:59.242910+00:00",
+    "published_date": "2025-11-10T21:19:03.561708+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 39260,
-      "likes": 9372,
+      "likes": 9374,
       "last_modified": "2025-01-06T00:02:53.000Z",
       "all_tags": []
     }
@@ -40,34 +40,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finewiki",
-    "description": "Downloads: 19,137<br/>Likes: 238",
+    "description": "Downloads: 19,137<br/>Likes: 240",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finewiki",
-    "published_date": "2025-11-10T09:27:59.242917+00:00",
+    "published_date": "2025-11-10T21:19:03.561717+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finewiki",
       "downloads": 19137,
-      "likes": 238,
+      "likes": 240,
       "last_modified": "2025-10-22T11:02:22.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ae12e20d3a372d762a81ac3a7757d045",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "neulab/agent-data-collection",
-    "description": "Downloads: 7,045<br/>Likes: 81",
-    "url": "https://huggingface.co/datasets/neulab/agent-data-collection",
-    "published_date": "2025-11-10T09:27:59.242923+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "neulab",
-      "item_name": "agent-data-collection",
-      "downloads": 7045,
-      "likes": 81,
-      "last_modified": "2025-09-09T22:04:42.000Z",
       "all_tags": []
     }
   },
@@ -76,16 +58,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Open-Bee/Honey-Data-15M",
-    "description": "Downloads: 67,142<br/>Likes: 75",
+    "description": "Downloads: 67,142<br/>Likes: 77",
     "url": "https://huggingface.co/datasets/Open-Bee/Honey-Data-15M",
-    "published_date": "2025-11-10T09:27:59.242928+00:00",
+    "published_date": "2025-11-10T21:19:03.561724+00:00",
     "categories": [],
     "metadata": {
       "author": "Open-Bee",
       "item_name": "Honey-Data-15M",
       "downloads": 67142,
-      "likes": 75,
+      "likes": 77,
       "last_modified": "2025-11-05T09:21:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ae12e20d3a372d762a81ac3a7757d045",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "neulab/agent-data-collection",
+    "description": "Downloads: 7,045<br/>Likes: 82",
+    "url": "https://huggingface.co/datasets/neulab/agent-data-collection",
+    "published_date": "2025-11-10T21:19:03.561730+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "neulab",
+      "item_name": "agent-data-collection",
+      "downloads": 7045,
+      "likes": 82,
+      "last_modified": "2025-09-09T22:04:42.000Z",
       "all_tags": []
     }
   },
@@ -96,7 +96,7 @@
     "title": "Bingguang/FunReason-MT",
     "description": "Downloads: 646<br/>Likes: 32",
     "url": "https://huggingface.co/datasets/Bingguang/FunReason-MT",
-    "published_date": "2025-11-10T09:27:59.242932+00:00",
+    "published_date": "2025-11-10T21:19:03.561736+00:00",
     "categories": [],
     "metadata": {
       "author": "Bingguang",
@@ -108,13 +108,31 @@
     }
   },
   {
+    "id": "79deff91e5a40945e70a8910b856f3a7",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "facebook/omnilingual-asr-corpus",
+    "description": "Downloads: 403<br/>Likes: 17",
+    "url": "https://huggingface.co/datasets/facebook/omnilingual-asr-corpus",
+    "published_date": "2025-11-10T21:19:03.561742+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "facebook",
+      "item_name": "omnilingual-asr-corpus",
+      "downloads": 403,
+      "likes": 17,
+      "last_modified": "2025-11-10T18:04:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "0a33f391af7b68376d930ed5fe7299c5",
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/fineweb",
     "description": "Downloads: 313,013<br/>Likes: 2431",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
-    "published_date": "2025-11-10T09:27:59.242937+00:00",
+    "published_date": "2025-11-10T21:19:03.561748+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
@@ -126,13 +144,31 @@
     }
   },
   {
+    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
+    "description": "Downloads: 7,835<br/>Likes: 941",
+    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
+    "published_date": "2025-11-10T21:19:03.561755+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FreedomIntelligence",
+      "item_name": "medical-o1-reasoning-SFT",
+      "downloads": 7835,
+      "likes": 941,
+      "last_modified": "2025-04-22T15:11:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "421f637ba1ba89d2c4b102ef10bba64c",
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-VLM-Dataset-v2",
     "description": "Downloads: 7,467<br/>Likes: 57",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-VLM-Dataset-v2",
-    "published_date": "2025-11-10T09:27:59.242942+00:00",
+    "published_date": "2025-11-10T21:19:03.561761+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -144,37 +180,19 @@
     }
   },
   {
-    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
-    "description": "Downloads: 7,835<br/>Likes: 939",
-    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
-    "published_date": "2025-11-10T09:27:59.242947+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FreedomIntelligence",
-      "item_name": "medical-o1-reasoning-SFT",
-      "downloads": 7835,
-      "likes": 939,
-      "last_modified": "2025-04-22T15:11:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "773ade6cf7c358386961c525bce92dbc",
     "source": "huggingface",
     "type": "dataset",
     "title": "tokyotech-llm/swallow-code-v2",
-    "description": "Downloads: 3,336<br/>Likes: 15",
+    "description": "Downloads: 3,336<br/>Likes: 16",
     "url": "https://huggingface.co/datasets/tokyotech-llm/swallow-code-v2",
-    "published_date": "2025-11-10T09:27:59.242951+00:00",
+    "published_date": "2025-11-10T21:19:03.561766+00:00",
     "categories": [],
     "metadata": {
       "author": "tokyotech-llm",
       "item_name": "swallow-code-v2",
       "downloads": 3336,
-      "likes": 15,
+      "likes": 16,
       "last_modified": "2025-11-08T01:27:37.000Z",
       "all_tags": []
     }
@@ -186,7 +204,7 @@
     "title": "RUC-DataLab/DataScience-Instruct-500K",
     "description": "Downloads: 7,870<br/>Likes: 57",
     "url": "https://huggingface.co/datasets/RUC-DataLab/DataScience-Instruct-500K",
-    "published_date": "2025-11-10T09:27:59.242956+00:00",
+    "published_date": "2025-11-10T21:19:03.561772+00:00",
     "categories": [],
     "metadata": {
       "author": "RUC-DataLab",
@@ -198,13 +216,31 @@
     }
   },
   {
+    "id": "0c2b68277eec9565fdbc7398bb329610",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "facebook/principia-collection",
+    "description": "Downloads: 179<br/>Likes: 14",
+    "url": "https://huggingface.co/datasets/facebook/principia-collection",
+    "published_date": "2025-11-10T21:19:03.561777+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "facebook",
+      "item_name": "principia-collection",
+      "downloads": 179,
+      "likes": 14,
+      "last_modified": "2025-11-09T05:12:14.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
     "source": "huggingface",
     "type": "dataset",
     "title": "openai/gsm8k",
     "description": "Downloads: 466,671<br/>Likes: 939",
     "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-11-10T09:27:59.242960+00:00",
+    "published_date": "2025-11-10T21:19:03.561784+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -222,7 +258,7 @@
     "title": "HuggingFaceFW/fineweb-edu",
     "description": "Downloads: 209,718<br/>Likes: 806",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu",
-    "published_date": "2025-11-10T09:27:59.242965+00:00",
+    "published_date": "2025-11-10T21:19:03.561792+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
@@ -234,38 +270,20 @@
     }
   },
   {
-    "id": "b4d5a3440d4003ea7d2c2d65ff8cc7a7",
+    "id": "36e798b66d8ea9b9a7fdc6935644e3d4",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nampdn-ai/tiny-codes",
-    "description": "Downloads: 338<br/>Likes: 274",
-    "url": "https://huggingface.co/datasets/nampdn-ai/tiny-codes",
-    "published_date": "2025-11-10T09:27:59.242969+00:00",
+    "title": "PleIAs/SYNTH",
+    "description": "Likes: 13",
+    "url": "https://huggingface.co/datasets/PleIAs/SYNTH",
+    "published_date": "2025-11-10T21:19:03.561798+00:00",
     "categories": [],
     "metadata": {
-      "author": "nampdn-ai",
-      "item_name": "tiny-codes",
-      "downloads": 338,
-      "likes": 274,
-      "last_modified": "2023-09-30T04:14:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0c2b68277eec9565fdbc7398bb329610",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "facebook/principia-collection",
-    "description": "Downloads: 179<br/>Likes: 11",
-    "url": "https://huggingface.co/datasets/facebook/principia-collection",
-    "published_date": "2025-11-10T09:27:59.242975+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "facebook",
-      "item_name": "principia-collection",
-      "downloads": 179,
-      "likes": 11,
-      "last_modified": "2025-11-09T05:12:14.000Z",
+      "author": "PleIAs",
+      "item_name": "SYNTH",
+      "downloads": 0,
+      "likes": 13,
+      "last_modified": "2025-11-10T16:20:03.000Z",
       "all_tags": []
     }
   },
@@ -276,7 +294,7 @@
     "title": "cais/hle",
     "description": "Downloads: 11,997<br/>Likes: 509",
     "url": "https://huggingface.co/datasets/cais/hle",
-    "published_date": "2025-11-10T09:27:59.242980+00:00",
+    "published_date": "2025-11-10T21:19:03.561805+00:00",
     "categories": [],
     "metadata": {
       "author": "cais",
@@ -292,15 +310,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Open-Bee/Honey-Data-1M",
-    "description": "Downloads: 2,461<br/>Likes: 12",
+    "description": "Downloads: 2,461<br/>Likes: 13",
     "url": "https://huggingface.co/datasets/Open-Bee/Honey-Data-1M",
-    "published_date": "2025-11-10T09:27:59.242985+00:00",
+    "published_date": "2025-11-10T21:19:03.561811+00:00",
     "categories": [],
     "metadata": {
       "author": "Open-Bee",
       "item_name": "Honey-Data-1M",
       "downloads": 2461,
-      "likes": 12,
+      "likes": 13,
       "last_modified": "2025-11-01T18:13:46.000Z",
       "all_tags": []
     }
@@ -312,7 +330,7 @@
     "title": "tokyotech-llm/swallow-math-v2",
     "description": "Downloads: 1,414<br/>Likes: 10",
     "url": "https://huggingface.co/datasets/tokyotech-llm/swallow-math-v2",
-    "published_date": "2025-11-10T09:27:59.242990+00:00",
+    "published_date": "2025-11-10T21:19:03.561817+00:00",
     "categories": [],
     "metadata": {
       "author": "tokyotech-llm",
@@ -324,38 +342,20 @@
     }
   },
   {
-    "id": "8aa9eb1b4a15d42402000175d60bc2fa",
+    "id": "0833d5dd3b9f6cd692e0785669dc4662",
     "source": "huggingface",
     "type": "dataset",
-    "title": "HuggingFaceM4/FineVision",
-    "description": "Downloads: 281,457<br/>Likes: 435",
-    "url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
-    "published_date": "2025-11-10T09:27:59.242995+00:00",
+    "title": "nvidia/Nemotron-PII",
+    "description": "Downloads: 457<br/>Likes: 21",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-PII",
+    "published_date": "2025-11-10T21:19:03.561823+00:00",
     "categories": [],
     "metadata": {
-      "author": "HuggingFaceM4",
-      "item_name": "FineVision",
-      "downloads": 281457,
-      "likes": 435,
-      "last_modified": "2025-10-21T10:12:56.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "96799da04aa2777e20b3e93bddcfecde",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "meituan-longcat/UNO-Bench",
-    "description": "Downloads: 4,030<br/>Likes: 15",
-    "url": "https://huggingface.co/datasets/meituan-longcat/UNO-Bench",
-    "published_date": "2025-11-10T09:27:59.242999+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "meituan-longcat",
-      "item_name": "UNO-Bench",
-      "downloads": 4030,
-      "likes": 15,
-      "last_modified": "2025-11-07T11:18:38.000Z",
+      "author": "nvidia",
+      "item_name": "Nemotron-PII",
+      "downloads": 457,
+      "likes": 21,
+      "last_modified": "2025-10-28T17:05:23.000Z",
       "all_tags": []
     }
   }
