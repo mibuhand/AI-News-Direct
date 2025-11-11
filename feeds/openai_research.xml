@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-11-11T09:27:13.291044+00:00</updated>
+  <updated>2025-11-11T21:19:06.575857+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -26,20 +26,20 @@
     <summary>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</summary>
   </entry>
   <entry>
-    <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
-    <id>954f63c357c5dc716c95f20c1fc7d84f</id>
-    <link href="https://openai.com/index/gpt-oss-safeguard-technical-report/"/>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
-  </entry>
-  <entry>
     <title>Introducing gpt-oss-safeguard</title>
     <id>3601f3ad341eb27939506c0f5e361225</id>
     <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
+  </entry>
+  <entry>
+    <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
+    <id>954f63c357c5dc716c95f20c1fc7d84f</id>
+    <link href="https://openai.com/index/gpt-oss-safeguard-technical-report/"/>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
   </entry>
   <entry>
     <title>Addendum to GPT-5 System Card: Sensitive conversations</title>
