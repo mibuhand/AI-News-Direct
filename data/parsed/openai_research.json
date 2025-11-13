@@ -1,5 +1,39 @@
 [
     {
+        "id": "a37acfed24a908a166f997aceb9fcb06",
+        "source": "openai",
+        "type": "publication",
+        "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+        "description": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
+        "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/",
+        "published_date": "2025-11-12T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "c3387415a5e1df503bd503201d90ecaa",
+        "source": "openai",
+        "type": "product",
+        "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+        "description": "We\u2019re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT\u2019s tone and style. GPT-5.1 starts rolling out today to paid users.",
+        "url": "https://openai.com/index/gpt-5-1/",
+        "published_date": "2025-11-12T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
         "id": "f76988be9f427fe14d5d5feaf1f5ef98",
         "source": "openai",
         "type": "research",
@@ -34,23 +68,6 @@
         "objects": []
     },
     {
-        "id": "3601f3ad341eb27939506c0f5e361225",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-oss-safeguard",
-        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "954f63c357c5dc716c95f20c1fc7d84f",
         "source": "openai",
         "type": "safety",
@@ -64,6 +81,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
+        },
+        "objects": []
+    },
+    {
+        "id": "3601f3ad341eb27939506c0f5e361225",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing gpt-oss-safeguard",
+        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     },
@@ -115,40 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
-        "id": "2a0868a53977d4037f6e3c736298134c",
-        "source": "openai",
-        "type": "publication",
-        "title": "Sora 2 System Card",
-        "description": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve\u2013 such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
-        "url": "https://openai.com/index/sora-2-system-card/",
-        "published_date": "2025-09-30T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "46e9bb4fd850bff9a07c7ca3f6ae5e2d",
-        "source": "openai",
-        "type": "research",
-        "title": "Sora 2 is here",
-        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
-        "url": "https://openai.com/index/sora-2/",
-        "published_date": "2025-09-30T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
         },
         "objects": []
     }
