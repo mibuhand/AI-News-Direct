@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Latent Reasoning via Looped Language Models",
-    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 208<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
+    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 210<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.25741",
     "external_url": "",
     "published_date": "2025-10-29T13:45:42.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2510.25741",
-      "upvotes": 208,
+      "upvotes": 210,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://ouro-llm.github.io/",
@@ -128,60 +128,6 @@
     }
   },
   {
-    "id": "f5ecd82d2d6a90e1b4eb7c0d2afe9c3e",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
-    "description": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring ...<br/>Upvotes: 173<br/>GitHub Stars: 431<br/>Authors: Wei Huang, Yi Ge, Shuai Yang<br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">GitHub</a><br/>🔗 <a href=\"https://github.com/NVlabs/QeRL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11696\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.11696",
-    "external_url": "https://github.com/NVlabs/QeRL",
-    "published_date": "2025-10-13T13:55:09.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.11696",
-      "upvotes": 173,
-      "github_stars": 431,
-      "github_url": "https://github.com/NVlabs/QeRL",
-      "project_url": "https://github.com/NVlabs/QeRL",
-      "authors": [
-        "Wei Huang",
-        "Yi Ge",
-        "Shuai Yang",
-        "Yicheng Xiao",
-        "Huizi Mao",
-        "Yujun Lin",
-        "Hanrong Ye",
-        "Sifei Liu",
-        "Ka Chun Cheung",
-        "Hongxu Yin",
-        "Yao Lu",
-        "Xiaojuan Qi",
-        "Song Han",
-        "Yukang Chen"
-      ],
-      "summary": "We propose QeRL, a Quantization-enhanced Reinforcement Learning framework for\nlarge language models (LLMs). While RL is essential for LLMs' reasoning\ncapabilities, it is resource-intensive, requiring substantial GPU memory and\nlong rollout durations. QeRL addresses these issues by combining NVFP4\nquantization with Low-Rank Adaptation (LoRA), accelerating rollout phase of RL\nwhile reducing memory overhead. Beyond efficiency, our findings show that\nquantization noise increases policy entropy, enhancing exploration, and\nenabling the discovery of better strategies during RL. To further optimize\nexploration, QeRL introduces an Adaptive Quantization Noise (AQN) mechanism,\nwhich dynamically adjusts noise during training. Experiments demonstrate that\nQeRL delivers over 1.5 times speedup in the rollout phase. Moreover, this is\nthe first framework to enable RL training of a 32B LLM on a single H100 80GB\nGPU, while delivering overall speedups for RL training. It also achieves faster\nreward growth and higher final accuracy than 16-bit LoRA and QLoRA, while\nmatching the performance of full-parameter fine-tuning on mathematical\nbenchmarks such as GSM8K (90.8%) and MATH 500 (77.4%) in the 7B model. These\nresults establish QeRL as an efficient and effective framework for RL training\nin LLMs.",
-      "fetch_date": "2025-10-14",
-      "num_comments": 4,
-      "ai_summary": "QeRL, a quantization-enhanced reinforcement learning framework, accelerates RL training for large language models by combining NVFP4 quantization with Low-Rank Adaptation and an Adaptive Quantization Noise mechanism, achieving significant speedups and improved performance.",
-      "ai_keywords": [
-        "NVFP4 quantization",
-        "Low-Rank Adaptation (LoRA)",
-        "Adaptive Quantization Noise (AQN)",
-        "reinforcement learning",
-        "large language models (LLMs)",
-        "rollout phase",
-        "policy entropy",
-        "exploration",
-        "reward growth",
-        "GSM8K",
-        "MATH 500"
-      ]
-    }
-  },
-  {
     "id": "9f97533076b36bd588d78f78c4352369",
     "source": "huggingface",
     "type": "paper",
@@ -225,53 +171,6 @@
         "CLIP's language space",
         "open-world perception",
         "fine-grained geometric and semantic consistency"
-      ]
-    }
-  },
-  {
-    "id": "1f97c06c73ceb6a2aa9ee2bb5f344034",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Diffusion Transformers with Representation Autoencoders",
-    "description": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the au...<br/>Upvotes: 161<br/>GitHub Stars: 1542<br/>Authors: Boyang Zheng, Nanye Ma, Shengbang Tong<br/>🔗 <a href=\"https://github.com/bytetriper/RAE\">GitHub</a><br/>🔗 <a href=\"https://rae-dit.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.11690\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.11690",
-    "external_url": "https://github.com/bytetriper/RAE",
-    "published_date": "2025-10-13T13:51:39.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.11690",
-      "upvotes": 161,
-      "github_stars": 1542,
-      "github_url": "https://github.com/bytetriper/RAE",
-      "project_url": "https://rae-dit.github.io/",
-      "authors": [
-        "Boyang Zheng",
-        "Nanye Ma",
-        "Shengbang Tong",
-        "Saining Xie"
-      ],
-      "summary": "Latent generative modeling, where a pretrained autoencoder maps pixels into a\nlatent space for the diffusion process, has become the standard strategy for\nDiffusion Transformers (DiT); however, the autoencoder component has barely\nevolved. Most DiTs continue to rely on the original VAE encoder, which\nintroduces several limitations: outdated backbones that compromise\narchitectural simplicity, low-dimensional latent spaces that restrict\ninformation capacity, and weak representations that result from purely\nreconstruction-based training and ultimately limit generative quality. In this\nwork, we explore replacing the VAE with pretrained representation encoders\n(e.g., DINO, SigLIP, MAE) paired with trained decoders, forming what we term\nRepresentation Autoencoders (RAEs). These models provide both high-quality\nreconstructions and semantically rich latent spaces, while allowing for a\nscalable transformer-based architecture. Since these latent spaces are\ntypically high-dimensional, a key challenge is enabling diffusion transformers\nto operate effectively within them. We analyze the sources of this difficulty,\npropose theoretically motivated solutions, and validate them empirically. Our\napproach achieves faster convergence without auxiliary representation alignment\nlosses. Using a DiT variant equipped with a lightweight, wide DDT head, we\nachieve strong image generation results on ImageNet: 1.51 FID at 256x256 (no\nguidance) and 1.13 at both 256x256 and 512x512 (with guidance). RAE offers\nclear advantages and should be the new default for diffusion transformer\ntraining.",
-      "fetch_date": "2025-10-14",
-      "num_comments": 5,
-      "ai_summary": "Replacing VAEs with pretrained representation encoders in Diffusion Transformers enhances generative quality and convergence speed without auxiliary losses.",
-      "ai_keywords": [
-        "Latent generative modeling",
-        "Diffusion Transformers (DiT)",
-        "VAE encoder",
-        "Representation Autoencoders (RAEs)",
-        "pretrained representation encoders",
-        "DINO",
-        "SigLIP",
-        "MAE",
-        "high-dimensional latent spaces",
-        "transformer-based architecture",
-        "diffusion transformers",
-        "image generation",
-        "ImageNet",
-        "FID"
       ]
     }
   },
@@ -321,11 +220,100 @@
     }
   },
   {
+    "id": "568daa0c590cd925d9037e3aa953c40c",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Spatial Forcing: Implicit Spatial Representation Alignment for\n  Vision-language-action Model",
+    "description": "Vision-language-action (VLA) models have recently shown strong potential in\nenabling robots to follow language instructions and execute precise actions.\nHowever, most VLAs are built upon vision-langua...<br/>Upvotes: 142<br/>GitHub Stars: 124<br/>Authors: Fuhao Li, Wenxuan Song, Han Zhao<br/>🔗 <a href=\"https://github.com/OpenHelix-Team/Spatial-Forcing\">GitHub</a><br/>🔗 <a href=\"https://spatial-forcing.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12276\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.12276",
+    "external_url": "https://github.com/OpenHelix-Team/Spatial-Forcing",
+    "published_date": "2025-10-14T04:27:10.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.12276",
+      "upvotes": 142,
+      "github_stars": 124,
+      "github_url": "https://github.com/OpenHelix-Team/Spatial-Forcing",
+      "project_url": "https://spatial-forcing.github.io/",
+      "authors": [
+        "Fuhao Li",
+        "Wenxuan Song",
+        "Han Zhao",
+        "Jingbo Wang",
+        "Pengxiang Ding",
+        "Donglin Wang",
+        "Long Zeng",
+        "Haoang Li"
+      ],
+      "summary": "Vision-language-action (VLA) models have recently shown strong potential in\nenabling robots to follow language instructions and execute precise actions.\nHowever, most VLAs are built upon vision-language models pretrained solely on\n2D data, which lack accurate spatial awareness and hinder their ability to\noperate in the 3D physical world. Existing solutions attempt to incorporate\nexplicit 3D sensor inputs such as depth maps or point clouds, but these\napproaches face challenges due to sensor noise, hardware heterogeneity, and\nincomplete depth coverage in existing datasets. Alternative methods that\nestimate 3D cues from 2D images also suffer from the limited performance of\ndepth estimators.We propose Spatial Forcing (SF), a simple yet effective\nalignment strategy that implicitly forces VLA models to develop spatial\ncomprehension capabilities without relying on explicit 3D inputs or depth\nestimators. SF aligns intermediate visual embeddings of VLAs with geometric\nrepresentations produced by pretrained 3D foundation models. By enforcing\nalignment at intermediate layers, SF guides VLAs to encode richer spatial\nrepresentations that enhance action precision.Extensive experiments in\nsimulation and real-world environments demonstrate that SF achieves\nstate-of-the-art results, surpassing both 2D- and 3D-based VLAs. SF further\naccelerates training by up to 3.8x and improves data efficiency across diverse\nrobotic tasks. Project page is at https://spatial-forcing.github.io/",
+      "fetch_date": "2025-10-15",
+      "num_comments": 4,
+      "ai_summary": "",
+      "ai_keywords": []
+    }
+  },
+  {
+    "id": "cb1e895dc25b82e9e2f05366ceb1adbe",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
+    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 399<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.23564",
+    "external_url": "https://github.com/FoundationAgents/ReCode",
+    "published_date": "2025-10-27T13:35:15.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.23564",
+      "upvotes": 119,
+      "github_stars": 399,
+      "github_url": "https://github.com/FoundationAgents/ReCode",
+      "project_url": "",
+      "authors": [
+        "Zhaoyang Yu",
+        "Jiayi Zhang",
+        "Huixue Su",
+        "Yufan Zhao",
+        "Yifan Wu",
+        "Mingyi Deng",
+        "Jinyu Xiang",
+        "Yizhang Lin",
+        "Lingxiao Tang",
+        "Yingchao Li",
+        "Yuyu Luo",
+        "Bang Liu",
+        "Chenglin Wu"
+      ],
+      "summary": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form of action. However, current Large\nLanguage Model (LLM)-based agents lack this crucial capability to operate\nfluidly across decision granularities. This limitation stems from existing\nparadigms that enforce a rigid separation between high-level planning and\nlow-level action, which impairs dynamic adaptability and limits generalization.\nWe propose ReCode (Recursive Code Generation), a novel paradigm that addresses\nthis limitation by unifying planning and action within a single code\nrepresentation. In this representation, ReCode treats high-level plans as\nabstract placeholder functions, which the agent then recursively decomposes\ninto finer-grained sub-functions until reaching primitive actions. This\nrecursive approach dissolves the rigid boundary between plan and action,\nenabling the agent to dynamically control its decision granularity.\nFurthermore, the recursive structure inherently generates rich,\nmulti-granularity training data, enabling models to learn hierarchical\ndecision-making processes. Extensive experiments show ReCode significantly\nsurpasses advanced baselines in inference performance and demonstrates\nexceptional data efficiency in training, validating our core insight that\nunifying planning and action through recursive code generation is a powerful\nand effective approach to achieving universal granularity control. The code is\navailable at https://github.com/FoundationAgents/ReCode.",
+      "fetch_date": "2025-10-28",
+      "num_comments": 1,
+      "ai_summary": "ReCode, a recursive code generation paradigm, unifies high-level planning and low-level action in a single representation, enhancing decision granularity and data efficiency in LLM-based agents.",
+      "ai_keywords": [
+        "Large Language Model",
+        "ReCode",
+        "Recursive Code Generation",
+        "high-level planning",
+        "low-level action",
+        "decision granularity",
+        "abstract placeholder functions",
+        "primitive actions",
+        "hierarchical decision-making processes",
+        "inference performance",
+        "data efficiency"
+      ]
+    }
+  },
+  {
     "id": "d98bf11f4930fd1159bb5f90e3f76afd",
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63744<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63764<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -336,7 +324,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 90,
-      "github_stars": 63744,
+      "github_stars": 63764,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -380,7 +368,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24401<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24402<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -391,7 +379,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 53,
-      "github_stars": 24401,
+      "github_stars": 24402,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -426,7 +414,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15544<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15599<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -437,7 +425,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15544,
+      "github_stars": 15599,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -471,7 +459,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 48<br/>GitHub Stars: 10174<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
+    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 48<br/>GitHub Stars: 10198<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.12323",
     "external_url": "https://github.com/HKUDS/RAG-Anything",
     "published_date": "2025-10-14T05:25:35.000Z",
@@ -482,7 +470,7 @@
     "metadata": {
       "paper_id": "2510.12323",
       "upvotes": 48,
-      "github_stars": 10174,
+      "github_stars": 10198,
       "github_url": "https://github.com/HKUDS/RAG-Anything",
       "project_url": "",
       "authors": [
@@ -519,7 +507,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4286<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4287<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -530,7 +518,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 17,
-      "github_stars": 4286,
+      "github_stars": 4287,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -582,7 +570,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 96<br/>GitHub Stars: 2003<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 97<br/>GitHub Stars: 2013<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -592,8 +580,8 @@
     ],
     "metadata": {
       "paper_id": "2510.16872",
-      "upvotes": 96,
-      "github_stars": 2003,
+      "upvotes": 97,
+      "github_stars": 2013,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [
