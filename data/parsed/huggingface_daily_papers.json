@@ -75,7 +75,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
-    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 188<br/>GitHub Stars: 181<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
+    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 188<br/>GitHub Stars: 182<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.04570",
     "external_url": "https://github.com/tongjingqi/Thinking-with-Video",
     "published_date": "2025-11-06T12:25:23.000Z",
@@ -86,7 +86,7 @@
     "metadata": {
       "paper_id": "2511.04570",
       "upvotes": 188,
-      "github_stars": 181,
+      "github_stars": 182,
       "github_url": "https://github.com/tongjingqi/Thinking-with-Video",
       "project_url": "https://thinking-with-video.github.io/",
       "authors": [
@@ -224,7 +224,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 135<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 137<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.08892",
     "external_url": "",
     "published_date": "2025-11-11T21:01:26.000Z",
@@ -234,7 +234,7 @@
     ],
     "metadata": {
       "paper_id": "2511.08892",
-      "upvotes": 135,
+      "upvotes": 137,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://www.lumine-ai.org/",
@@ -326,7 +326,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63868<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63892<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -337,7 +337,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 90,
-      "github_stars": 63868,
+      "github_stars": 63892,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -381,7 +381,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24404<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24406<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -392,7 +392,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 53,
-      "github_stars": 24404,
+      "github_stars": 24406,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -427,7 +427,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15692<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15725<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -438,7 +438,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15692,
+      "github_stars": 15725,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -472,7 +472,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4303<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4305<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -483,7 +483,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 17,
-      "github_stars": 4303,
+      "github_stars": 4305,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -535,7 +535,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Black-Box On-Policy Distillation of Large Language Models",
-    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 22<br/>GitHub Stars: 4173<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
+    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 30<br/>GitHub Stars: 4175<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.10643",
     "external_url": "https://github.com/microsoft/LMOps/tree/main/gad",
     "published_date": "2025-11-13T13:58:37.000Z",
@@ -545,8 +545,8 @@
     ],
     "metadata": {
       "paper_id": "2511.10643",
-      "upvotes": 22,
-      "github_stars": 4173,
+      "upvotes": 30,
+      "github_stars": 4175,
       "github_url": "https://github.com/microsoft/LMOps/tree/main/gad",
       "project_url": "https://aka.ms/GAD-project",
       "authors": [
@@ -579,7 +579,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 97<br/>GitHub Stars: 2043<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2059<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -589,8 +589,8 @@
     ],
     "metadata": {
       "paper_id": "2510.16872",
-      "upvotes": 97,
-      "github_stars": 2043,
+      "upvotes": 98,
+      "github_stars": 2059,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [

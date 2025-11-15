@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "moonshotai/Kimi-K2-Thinking",
-    "description": "Type: text-generation<br/>Downloads: 137,406<br/>Likes: 1179",
+    "description": "Type: text-generation<br/>Downloads: 137,406<br/>Likes: 1192",
     "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
-    "published_date": "2025-11-15T09:21:11.321989+00:00",
+    "published_date": "2025-11-15T21:16:45.944580+00:00",
     "categories": [
       "text-generation"
     ],
@@ -14,7 +14,7 @@
       "author": "moonshotai",
       "item_name": "Kimi-K2-Thinking",
       "downloads": 137406,
-      "likes": 1179,
+      "likes": 1192,
       "last_modified": "2025-11-08T07:48:46.000Z",
       "all_tags": []
     }
@@ -24,9 +24,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "baidu/ERNIE-4.5-VL-28B-A3B-Thinking",
-    "description": "Type: image-text-to-text<br/>Downloads: 7,853<br/>Likes: 411",
+    "description": "Type: image-text-to-text<br/>Downloads: 7,853<br/>Likes: 424",
     "url": "https://huggingface.co/baidu/ERNIE-4.5-VL-28B-A3B-Thinking",
-    "published_date": "2025-11-15T09:21:11.322013+00:00",
+    "published_date": "2025-11-15T21:16:45.944605+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -34,7 +34,7 @@
       "author": "baidu",
       "item_name": "ERNIE-4.5-VL-28B-A3B-Thinking",
       "downloads": 7853,
-      "likes": 411,
+      "likes": 424,
       "last_modified": "2025-11-14T10:15:29.000Z",
       "all_tags": []
     }
@@ -44,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "maya-research/maya1",
-    "description": "Type: text-to-speech<br/>Downloads: 24,569<br/>Likes: 584",
+    "description": "Type: text-to-speech<br/>Downloads: 24,569<br/>Likes: 593",
     "url": "https://huggingface.co/maya-research/maya1",
-    "published_date": "2025-11-15T09:21:11.322025+00:00",
+    "published_date": "2025-11-15T21:16:45.944615+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -54,28 +54,8 @@
       "author": "maya-research",
       "item_name": "maya1",
       "downloads": 24569,
-      "likes": 584,
+      "likes": 593,
       "last_modified": "2025-11-12T00:53:50.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "564a26ab32416af40a08016fbbbc7fb3",
-    "source": "huggingface",
-    "type": "model",
-    "title": "dx8152/Qwen-Edit-2509-Multiple-angles",
-    "description": "Type: image-to-image<br/>Downloads: 55,742<br/>Likes: 594",
-    "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles",
-    "published_date": "2025-11-15T09:21:11.322031+00:00",
-    "categories": [
-      "image-to-image"
-    ],
-    "metadata": {
-      "author": "dx8152",
-      "item_name": "Qwen-Edit-2509-Multiple-angles",
-      "downloads": 55742,
-      "likes": 594,
-      "last_modified": "2025-11-12T09:16:16.000Z",
       "all_tags": []
     }
   },
@@ -84,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "WeiboAI/VibeThinker-1.5B",
-    "description": "Type: text-generation<br/>Downloads: 3,839<br/>Likes: 230",
+    "description": "Type: text-generation<br/>Downloads: 3,839<br/>Likes: 243",
     "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
-    "published_date": "2025-11-15T09:21:11.322037+00:00",
+    "published_date": "2025-11-15T21:16:45.944623+00:00",
     "categories": [
       "text-generation"
     ],
@@ -94,26 +74,28 @@
       "author": "WeiboAI",
       "item_name": "VibeThinker-1.5B",
       "downloads": 3839,
-      "likes": 230,
+      "likes": 243,
       "last_modified": "2025-11-15T05:18:10.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "9d36bf682406a356fd90c022ccc567b8",
+    "id": "564a26ab32416af40a08016fbbbc7fb3",
     "source": "huggingface",
     "type": "model",
-    "title": "vafipas663/Qwen-Edit-2509-Upscale-LoRA",
-    "description": "Downloads: 22,177<br/>Likes: 158",
-    "url": "https://huggingface.co/vafipas663/Qwen-Edit-2509-Upscale-LoRA",
-    "published_date": "2025-11-15T09:21:11.322042+00:00",
-    "categories": [],
+    "title": "dx8152/Qwen-Edit-2509-Multiple-angles",
+    "description": "Type: image-to-image<br/>Downloads: 55,742<br/>Likes: 600",
+    "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles",
+    "published_date": "2025-11-15T21:16:45.944629+00:00",
+    "categories": [
+      "image-to-image"
+    ],
     "metadata": {
-      "author": "vafipas663",
-      "item_name": "Qwen-Edit-2509-Upscale-LoRA",
-      "downloads": 22177,
-      "likes": 158,
-      "last_modified": "2025-11-14T02:49:59.000Z",
+      "author": "dx8152",
+      "item_name": "Qwen-Edit-2509-Multiple-angles",
+      "downloads": 55742,
+      "likes": 600,
+      "last_modified": "2025-11-12T09:16:16.000Z",
       "all_tags": []
     }
   },
@@ -122,9 +104,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-OCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 4,271,464<br/>Likes: 2688",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,271,464<br/>Likes: 2696",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
-    "published_date": "2025-11-15T09:21:11.322050+00:00",
+    "published_date": "2025-11-15T21:16:45.944635+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -132,88 +114,26 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-OCR",
       "downloads": 4271464,
-      "likes": 2688,
+      "likes": 2696,
       "last_modified": "2025-11-04T02:36:12.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e9382ac96ebf521d0d7dea7893080a87",
+    "id": "9d36bf682406a356fd90c022ccc567b8",
     "source": "huggingface",
     "type": "model",
-    "title": "dx8152/Qwen-Image-Edit-2509-Light_restoration",
-    "description": "Type: image-to-image<br/>Downloads: 4,727<br/>Likes: 157",
-    "url": "https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration",
-    "published_date": "2025-11-15T09:21:11.322056+00:00",
-    "categories": [
-      "image-to-image"
-    ],
+    "title": "vafipas663/Qwen-Edit-2509-Upscale-LoRA",
+    "description": "Downloads: 22,177<br/>Likes: 162",
+    "url": "https://huggingface.co/vafipas663/Qwen-Edit-2509-Upscale-LoRA",
+    "published_date": "2025-11-15T21:16:45.944640+00:00",
+    "categories": [],
     "metadata": {
-      "author": "dx8152",
-      "item_name": "Qwen-Image-Edit-2509-Light_restoration",
-      "downloads": 4727,
-      "likes": 157,
-      "last_modified": "2025-11-12T09:14:26.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "53d78c8864f6978c2685bf5f7876114e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "MiniMaxAI/MiniMax-M2",
-    "description": "Type: text-generation<br/>Downloads: 897,605<br/>Likes: 1296",
-    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2",
-    "published_date": "2025-11-15T09:21:11.322061+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "MiniMax-M2",
-      "downloads": 897605,
-      "likes": 1296,
-      "last_modified": "2025-11-13T13:55:28.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1cb762a281a49bf2db29d07a69935fc0",
-    "source": "huggingface",
-    "type": "model",
-    "title": "PleIAs/Baguettotron",
-    "description": "Type: text-generation<br/>Downloads: 3,173<br/>Likes: 114",
-    "url": "https://huggingface.co/PleIAs/Baguettotron",
-    "published_date": "2025-11-15T09:21:11.322066+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "PleIAs",
-      "item_name": "Baguettotron",
-      "downloads": 3173,
-      "likes": 114,
-      "last_modified": "2025-11-14T10:31:46.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "90616da303fdbacae0fa4078ed3375be",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "description": "Type: text-to-image<br/>Likes: 706",
-    "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-    "published_date": "2025-11-15T09:21:11.322070+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "Phr00t",
-      "item_name": "Qwen-Image-Edit-Rapid-AIO",
-      "downloads": 0,
-      "likes": 706,
-      "last_modified": "2025-11-11T07:01:33.000Z",
+      "author": "vafipas663",
+      "item_name": "Qwen-Edit-2509-Upscale-LoRA",
+      "downloads": 22177,
+      "likes": 162,
+      "last_modified": "2025-11-14T02:49:59.000Z",
       "all_tags": []
     }
   },
@@ -222,9 +142,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "salakash/SamKash-Tolstoy",
-    "description": "Type: text-generation<br/>Downloads: 1,231<br/>Likes: 161",
+    "description": "Type: text-generation<br/>Downloads: 1,231<br/>Likes: 198",
     "url": "https://huggingface.co/salakash/SamKash-Tolstoy",
-    "published_date": "2025-11-15T09:21:11.322075+00:00",
+    "published_date": "2025-11-15T21:16:45.944645+00:00",
     "categories": [
       "text-generation"
     ],
@@ -232,88 +152,88 @@
       "author": "salakash",
       "item_name": "SamKash-Tolstoy",
       "downloads": 1231,
-      "likes": 161,
+      "likes": 198,
       "last_modified": "2025-11-06T16:40:41.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "1fea650dd5170c2f5f7bd9ab7a3156aa",
+    "id": "e9382ac96ebf521d0d7dea7893080a87",
     "source": "huggingface",
     "type": "model",
-    "title": "PaddlePaddle/PaddleOCR-VL",
-    "description": "Type: image-text-to-text<br/>Downloads: 41,584<br/>Likes: 1307",
-    "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
-    "published_date": "2025-11-15T09:21:11.322082+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "PaddlePaddle",
-      "item_name": "PaddleOCR-VL",
-      "downloads": 41584,
-      "likes": 1307,
-      "last_modified": "2025-11-13T09:02:22.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cc17c6c3819ce9477ee0a4f3a02b5000",
-    "source": "huggingface",
-    "type": "model",
-    "title": "datalab-to/chandra",
-    "description": "Type: image-to-text<br/>Downloads: 78,090<br/>Likes: 352",
-    "url": "https://huggingface.co/datalab-to/chandra",
-    "published_date": "2025-11-15T09:21:11.322086+00:00",
-    "categories": [
-      "image-to-text"
-    ],
-    "metadata": {
-      "author": "datalab-to",
-      "item_name": "chandra",
-      "downloads": 78090,
-      "likes": 352,
-      "last_modified": "2025-10-21T14:44:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "d1c84e995bc808b6615ed53392cf0ebc",
-    "source": "huggingface",
-    "type": "model",
-    "title": "google/embeddinggemma-300m",
-    "description": "Type: sentence-similarity<br/>Downloads: 433,887<br/>Likes: 1186",
-    "url": "https://huggingface.co/google/embeddinggemma-300m",
-    "published_date": "2025-11-15T09:21:11.322091+00:00",
-    "categories": [
-      "sentence-similarity"
-    ],
-    "metadata": {
-      "author": "google",
-      "item_name": "embeddinggemma-300m",
-      "downloads": 433887,
-      "likes": 1186,
-      "last_modified": "2025-09-25T15:11:17.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b2cf9e80008b9e391119bfb3b82a8e77",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora",
-    "description": "Type: image-to-image<br/>Downloads: 1,029<br/>Likes: 76",
-    "url": "https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora",
-    "published_date": "2025-11-15T09:21:11.322096+00:00",
+    "title": "dx8152/Qwen-Image-Edit-2509-Light_restoration",
+    "description": "Type: image-to-image<br/>Downloads: 4,727<br/>Likes: 159",
+    "url": "https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration",
+    "published_date": "2025-11-15T21:16:45.944650+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
-      "author": "nvidia",
-      "item_name": "ChronoEdit-14B-Diffusers-Upscaler-Lora",
-      "downloads": 1029,
-      "likes": 76,
-      "last_modified": "2025-11-13T01:58:08.000Z",
+      "author": "dx8152",
+      "item_name": "Qwen-Image-Edit-2509-Light_restoration",
+      "downloads": 4727,
+      "likes": 159,
+      "last_modified": "2025-11-12T09:14:26.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1cb762a281a49bf2db29d07a69935fc0",
+    "source": "huggingface",
+    "type": "model",
+    "title": "PleIAs/Baguettotron",
+    "description": "Type: text-generation<br/>Downloads: 3,173<br/>Likes: 122",
+    "url": "https://huggingface.co/PleIAs/Baguettotron",
+    "published_date": "2025-11-15T21:16:45.944655+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "PleIAs",
+      "item_name": "Baguettotron",
+      "downloads": 3173,
+      "likes": 122,
+      "last_modified": "2025-11-14T10:31:46.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "53d78c8864f6978c2685bf5f7876114e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "MiniMaxAI/MiniMax-M2",
+    "description": "Type: text-generation<br/>Downloads: 897,605<br/>Likes: 1301",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2",
+    "published_date": "2025-11-15T21:16:45.944660+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "MiniMaxAI",
+      "item_name": "MiniMax-M2",
+      "downloads": 897605,
+      "likes": 1301,
+      "last_modified": "2025-11-13T13:55:28.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "90616da303fdbacae0fa4078ed3375be",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+    "description": "Type: text-to-image<br/>Likes: 709",
+    "url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
+    "published_date": "2025-11-15T21:16:45.944664+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "Phr00t",
+      "item_name": "Qwen-Image-Edit-Rapid-AIO",
+      "downloads": 0,
+      "likes": 709,
+      "last_modified": "2025-11-15T18:17:46.000Z",
       "all_tags": []
     }
   },
@@ -322,9 +242,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "eigen-ai-labs/eigen-banana-qwen-image-edit",
-    "description": "Type: text-to-image<br/>Downloads: 95<br/>Likes: 81",
+    "description": "Type: text-to-image<br/>Downloads: 95<br/>Likes: 89",
     "url": "https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit",
-    "published_date": "2025-11-15T09:21:11.322100+00:00",
+    "published_date": "2025-11-15T21:16:45.944672+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -332,8 +252,88 @@
       "author": "eigen-ai-labs",
       "item_name": "eigen-banana-qwen-image-edit",
       "downloads": 95,
-      "likes": 81,
+      "likes": 89,
       "last_modified": "2025-11-15T03:48:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1fea650dd5170c2f5f7bd9ab7a3156aa",
+    "source": "huggingface",
+    "type": "model",
+    "title": "PaddlePaddle/PaddleOCR-VL",
+    "description": "Type: image-text-to-text<br/>Downloads: 41,584<br/>Likes: 1312",
+    "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+    "published_date": "2025-11-15T21:16:45.944677+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "PaddlePaddle",
+      "item_name": "PaddleOCR-VL",
+      "downloads": 41584,
+      "likes": 1312,
+      "last_modified": "2025-11-13T09:02:22.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b2cf9e80008b9e391119bfb3b82a8e77",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora",
+    "description": "Type: image-to-image<br/>Downloads: 1,029<br/>Likes: 80",
+    "url": "https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora",
+    "published_date": "2025-11-15T21:16:45.944682+00:00",
+    "categories": [
+      "image-to-image"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "ChronoEdit-14B-Diffusers-Upscaler-Lora",
+      "downloads": 1029,
+      "likes": 80,
+      "last_modified": "2025-11-13T01:58:08.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d1c84e995bc808b6615ed53392cf0ebc",
+    "source": "huggingface",
+    "type": "model",
+    "title": "google/embeddinggemma-300m",
+    "description": "Type: sentence-similarity<br/>Downloads: 433,887<br/>Likes: 1188",
+    "url": "https://huggingface.co/google/embeddinggemma-300m",
+    "published_date": "2025-11-15T21:16:45.944686+00:00",
+    "categories": [
+      "sentence-similarity"
+    ],
+    "metadata": {
+      "author": "google",
+      "item_name": "embeddinggemma-300m",
+      "downloads": 433887,
+      "likes": 1188,
+      "last_modified": "2025-09-25T15:11:17.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cc17c6c3819ce9477ee0a4f3a02b5000",
+    "source": "huggingface",
+    "type": "model",
+    "title": "datalab-to/chandra",
+    "description": "Type: image-to-text<br/>Downloads: 78,090<br/>Likes: 353",
+    "url": "https://huggingface.co/datalab-to/chandra",
+    "published_date": "2025-11-15T21:16:45.944693+00:00",
+    "categories": [
+      "image-to-text"
+    ],
+    "metadata": {
+      "author": "datalab-to",
+      "item_name": "chandra",
+      "downloads": 78090,
+      "likes": 353,
+      "last_modified": "2025-10-21T14:44:25.000Z",
       "all_tags": []
     }
   },
@@ -344,7 +344,7 @@
     "title": "autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime",
     "description": "Type: image-to-image<br/>Downloads: 1,758<br/>Likes: 75",
     "url": "https://huggingface.co/autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime",
-    "published_date": "2025-11-15T09:21:11.322107+00:00",
+    "published_date": "2025-11-15T21:16:45.944699+00:00",
     "categories": [
       "image-to-image"
     ],
@@ -362,9 +362,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "jzhang533/PaddleOCR-VL-For-Manga",
-    "description": "Type: image-text-to-text<br/>Downloads: 195<br/>Likes: 102",
+    "description": "Type: image-text-to-text<br/>Downloads: 195<br/>Likes: 103",
     "url": "https://huggingface.co/jzhang533/PaddleOCR-VL-For-Manga",
-    "published_date": "2025-11-15T09:21:11.322114+00:00",
+    "published_date": "2025-11-15T21:16:45.944705+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -372,7 +372,7 @@
       "author": "jzhang533",
       "item_name": "PaddleOCR-VL-For-Manga",
       "downloads": 195,
-      "likes": 102,
+      "likes": 103,
       "last_modified": "2025-11-12T07:50:30.000Z",
       "all_tags": []
     }
@@ -382,9 +382,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "black-forest-labs/FLUX.1-dev",
-    "description": "Type: text-to-image<br/>Downloads: 1,570,008<br/>Likes: 11807",
+    "description": "Type: text-to-image<br/>Downloads: 1,570,008<br/>Likes: 11810",
     "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-    "published_date": "2025-11-15T09:21:11.322119+00:00",
+    "published_date": "2025-11-15T21:16:45.944710+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -392,7 +392,7 @@
       "author": "black-forest-labs",
       "item_name": "FLUX.1-dev",
       "downloads": 1570008,
-      "likes": 11807,
+      "likes": 11810,
       "last_modified": "2025-06-27T16:22:19.000Z",
       "all_tags": []
     }
