@@ -55,7 +55,7 @@
       ],
       "summary": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and open-source Ouro, named after\nthe recursive Ouroboros, a family of pre-trained Looped Language Models\n(LoopLM) that instead build reasoning into the pre-training phase through (i)\niterative computation in latent space, (ii) an entropy-regularized objective\nfor learned depth allocation, and (iii) scaling to 7.7T tokens. Ouro 1.4B and\n2.6B models enjoy superior performance that match the results of up to 12B SOTA\nLLMs across a wide range of benchmarks. Through controlled experiments, we show\nthis advantage stems not from increased knowledge capacity, but from superior\nknowledge manipulation capabilities. We also show that LoopLM yields reasoning\ntraces more aligned with final outputs than explicit CoT. We hope our results\nshow the potential of LoopLM as a novel scaling direction in the reasoning era.\nOur model could be found in: http://ouro-llm.github.io.",
       "fetch_date": "2025-10-30",
-      "num_comments": 3,
+      "num_comments": 4,
       "ai_summary": "LoopLM, a family of pre-trained Looped Language Models, enhances reasoning by integrating iterative computation and entropy regularization during pre-training, achieving superior performance with better knowledge manipulation.",
       "ai_keywords": [
         "Looped Language Models",
@@ -75,7 +75,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
-    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 187<br/>GitHub Stars: 179<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
+    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 188<br/>GitHub Stars: 181<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.04570",
     "external_url": "https://github.com/tongjingqi/Thinking-with-Video",
     "published_date": "2025-11-06T12:25:23.000Z",
@@ -85,8 +85,8 @@
     ],
     "metadata": {
       "paper_id": "2511.04570",
-      "upvotes": 187,
-      "github_stars": 179,
+      "upvotes": 188,
+      "github_stars": 181,
       "github_url": "https://github.com/tongjingqi/Thinking-with-Video",
       "project_url": "https://thinking-with-video.github.io/",
       "authors": [
@@ -220,47 +220,11 @@
     }
   },
   {
-    "id": "568daa0c590cd925d9037e3aa953c40c",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Spatial Forcing: Implicit Spatial Representation Alignment for\n  Vision-language-action Model",
-    "description": "Vision-language-action (VLA) models have recently shown strong potential in\nenabling robots to follow language instructions and execute precise actions.\nHowever, most VLAs are built upon vision-langua...<br/>Upvotes: 142<br/>GitHub Stars: 125<br/>Authors: Fuhao Li, Wenxuan Song, Han Zhao<br/>🔗 <a href=\"https://github.com/OpenHelix-Team/Spatial-Forcing\">GitHub</a><br/>🔗 <a href=\"https://spatial-forcing.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12276\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.12276",
-    "external_url": "https://github.com/OpenHelix-Team/Spatial-Forcing",
-    "published_date": "2025-10-14T04:27:10.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.12276",
-      "upvotes": 142,
-      "github_stars": 125,
-      "github_url": "https://github.com/OpenHelix-Team/Spatial-Forcing",
-      "project_url": "https://spatial-forcing.github.io/",
-      "authors": [
-        "Fuhao Li",
-        "Wenxuan Song",
-        "Han Zhao",
-        "Jingbo Wang",
-        "Pengxiang Ding",
-        "Donglin Wang",
-        "Long Zeng",
-        "Haoang Li"
-      ],
-      "summary": "Vision-language-action (VLA) models have recently shown strong potential in\nenabling robots to follow language instructions and execute precise actions.\nHowever, most VLAs are built upon vision-language models pretrained solely on\n2D data, which lack accurate spatial awareness and hinder their ability to\noperate in the 3D physical world. Existing solutions attempt to incorporate\nexplicit 3D sensor inputs such as depth maps or point clouds, but these\napproaches face challenges due to sensor noise, hardware heterogeneity, and\nincomplete depth coverage in existing datasets. Alternative methods that\nestimate 3D cues from 2D images also suffer from the limited performance of\ndepth estimators.We propose Spatial Forcing (SF), a simple yet effective\nalignment strategy that implicitly forces VLA models to develop spatial\ncomprehension capabilities without relying on explicit 3D inputs or depth\nestimators. SF aligns intermediate visual embeddings of VLAs with geometric\nrepresentations produced by pretrained 3D foundation models. By enforcing\nalignment at intermediate layers, SF guides VLAs to encode richer spatial\nrepresentations that enhance action precision.Extensive experiments in\nsimulation and real-world environments demonstrate that SF achieves\nstate-of-the-art results, surpassing both 2D- and 3D-based VLAs. SF further\naccelerates training by up to 3.8x and improves data efficiency across diverse\nrobotic tasks. Project page is at https://spatial-forcing.github.io/",
-      "fetch_date": "2025-10-15",
-      "num_comments": 4,
-      "ai_summary": "",
-      "ai_keywords": []
-    }
-  },
-  {
     "id": "4622a47084403f1652a1baac4335b4fa",
     "source": "huggingface",
     "type": "paper",
     "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 124<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 135<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.08892",
     "external_url": "",
     "published_date": "2025-11-11T21:01:26.000Z",
@@ -270,7 +234,7 @@
     ],
     "metadata": {
       "paper_id": "2511.08892",
-      "upvotes": 124,
+      "upvotes": 135,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://www.lumine-ai.org/",
@@ -305,11 +269,64 @@
     }
   },
   {
+    "id": "cb1e895dc25b82e9e2f05366ceb1adbe",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
+    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 401<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.23564",
+    "external_url": "https://github.com/FoundationAgents/ReCode",
+    "published_date": "2025-10-27T13:35:15.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.23564",
+      "upvotes": 119,
+      "github_stars": 401,
+      "github_url": "https://github.com/FoundationAgents/ReCode",
+      "project_url": "",
+      "authors": [
+        "Zhaoyang Yu",
+        "Jiayi Zhang",
+        "Huixue Su",
+        "Yufan Zhao",
+        "Yifan Wu",
+        "Mingyi Deng",
+        "Jinyu Xiang",
+        "Yizhang Lin",
+        "Lingxiao Tang",
+        "Yingchao Li",
+        "Yuyu Luo",
+        "Bang Liu",
+        "Chenglin Wu"
+      ],
+      "summary": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form of action. However, current Large\nLanguage Model (LLM)-based agents lack this crucial capability to operate\nfluidly across decision granularities. This limitation stems from existing\nparadigms that enforce a rigid separation between high-level planning and\nlow-level action, which impairs dynamic adaptability and limits generalization.\nWe propose ReCode (Recursive Code Generation), a novel paradigm that addresses\nthis limitation by unifying planning and action within a single code\nrepresentation. In this representation, ReCode treats high-level plans as\nabstract placeholder functions, which the agent then recursively decomposes\ninto finer-grained sub-functions until reaching primitive actions. This\nrecursive approach dissolves the rigid boundary between plan and action,\nenabling the agent to dynamically control its decision granularity.\nFurthermore, the recursive structure inherently generates rich,\nmulti-granularity training data, enabling models to learn hierarchical\ndecision-making processes. Extensive experiments show ReCode significantly\nsurpasses advanced baselines in inference performance and demonstrates\nexceptional data efficiency in training, validating our core insight that\nunifying planning and action through recursive code generation is a powerful\nand effective approach to achieving universal granularity control. The code is\navailable at https://github.com/FoundationAgents/ReCode.",
+      "fetch_date": "2025-10-28",
+      "num_comments": 1,
+      "ai_summary": "ReCode, a recursive code generation paradigm, unifies high-level planning and low-level action in a single representation, enhancing decision granularity and data efficiency in LLM-based agents.",
+      "ai_keywords": [
+        "Large Language Model",
+        "ReCode",
+        "Recursive Code Generation",
+        "high-level planning",
+        "low-level action",
+        "decision granularity",
+        "abstract placeholder functions",
+        "primitive actions",
+        "hierarchical decision-making processes",
+        "inference performance",
+        "data efficiency"
+      ]
+    }
+  },
+  {
     "id": "d98bf11f4930fd1159bb5f90e3f76afd",
     "source": "huggingface",
     "type": "paper",
     "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63844<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
+    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63868<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.14528",
     "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "published_date": "2025-10-16T06:18:48.000Z",
@@ -320,7 +337,7 @@
     "metadata": {
       "paper_id": "2510.14528",
       "upvotes": 90,
-      "github_stars": 63844,
+      "github_stars": 63868,
       "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
       "project_url": "",
       "authors": [
@@ -364,7 +381,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24405<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
+    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24404<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.13998",
     "external_url": "https://github.com/microsoft/BitNet",
     "published_date": "2025-10-15T14:28:12.000Z",
@@ -375,7 +392,7 @@
     "metadata": {
       "paper_id": "2510.13998",
       "upvotes": 53,
-      "github_stars": 24405,
+      "github_stars": 24404,
       "github_url": "https://github.com/microsoft/BitNet",
       "project_url": "",
       "authors": [
@@ -410,7 +427,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15644<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15692<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -421,7 +438,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15644,
+      "github_stars": 15692,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -451,59 +468,11 @@
     }
   },
   {
-    "id": "2431e39c5ab567b865fe3f25b69b4d35",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "RAG-Anything: All-in-One RAG Framework",
-    "description": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between...<br/>Upvotes: 48<br/>GitHub Stars: 10250<br/>Authors: Zirui Guo, Xubin Ren, Lingrui Xu<br/>🔗 <a href=\"https://github.com/HKUDS/RAG-Anything\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.12323\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.12323",
-    "external_url": "https://github.com/HKUDS/RAG-Anything",
-    "published_date": "2025-10-14T05:25:35.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.12323",
-      "upvotes": 48,
-      "github_stars": 10250,
-      "github_url": "https://github.com/HKUDS/RAG-Anything",
-      "project_url": "",
-      "authors": [
-        "Zirui Guo",
-        "Xubin Ren",
-        "Lingrui Xu",
-        "Jiahao Zhang",
-        "Chao Huang"
-      ],
-      "summary": "Retrieval-Augmented Generation (RAG) has emerged as a fundamental paradigm\nfor expanding Large Language Models beyond their static training limitations.\nHowever, a critical misalignment exists between current RAG capabilities and\nreal-world information environments. Modern knowledge repositories are\ninherently multimodal, containing rich combinations of textual content, visual\nelements, structured tables, and mathematical expressions. Yet existing RAG\nframeworks are limited to textual content, creating fundamental gaps when\nprocessing multimodal documents. We present RAG-Anything, a unified framework\nthat enables comprehensive knowledge retrieval across all modalities. Our\napproach reconceptualizes multimodal content as interconnected knowledge\nentities rather than isolated data types. The framework introduces dual-graph\nconstruction to capture both cross-modal relationships and textual semantics\nwithin a unified representation. We develop cross-modal hybrid retrieval that\ncombines structural knowledge navigation with semantic matching. This enables\neffective reasoning over heterogeneous content where relevant evidence spans\nmultiple modalities. RAG-Anything demonstrates superior performance on\nchallenging multimodal benchmarks, achieving significant improvements over\nstate-of-the-art methods. Performance gains become particularly pronounced on\nlong documents where traditional approaches fail. Our framework establishes a\nnew paradigm for multimodal knowledge access, eliminating the architectural\nfragmentation that constrains current systems. Our framework is open-sourced\nat: https://github.com/HKUDS/RAG-Anything.",
-      "fetch_date": "2025-10-15",
-      "num_comments": 5,
-      "ai_summary": "RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.",
-      "ai_keywords": [
-        "Retrieval-Augmented Generation",
-        "RAG",
-        "Large Language Models",
-        "multimodal",
-        "textual content",
-        "visual elements",
-        "structured tables",
-        "mathematical expressions",
-        "dual-graph construction",
-        "cross-modal hybrid retrieval",
-        "structural knowledge navigation",
-        "semantic matching",
-        "multimodal benchmarks",
-        "long documents"
-      ]
-    }
-  },
-  {
     "id": "32811c5aee11a368e90161a3c41bd70b",
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4301<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4303<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -514,7 +483,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 17,
-      "github_stars": 4301,
+      "github_stars": 4303,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -562,11 +531,55 @@
     }
   },
   {
+    "id": "56964b5c4b70a7c48e204a4541b8da35",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Black-Box On-Policy Distillation of Large Language Models",
+    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 22<br/>GitHub Stars: 4173<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2511.10643",
+    "external_url": "https://github.com/microsoft/LMOps/tree/main/gad",
+    "published_date": "2025-11-13T13:58:37.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2511.10643",
+      "upvotes": 22,
+      "github_stars": 4173,
+      "github_url": "https://github.com/microsoft/LMOps/tree/main/gad",
+      "project_url": "https://aka.ms/GAD-project",
+      "authors": [
+        "Tianzhu Ye",
+        "Li Dong",
+        "Zewen Chi",
+        "Xun Wu",
+        "Shaohan Huang",
+        "Furu Wei"
+      ],
+      "summary": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work, we introduce Generative Adversarial Distillation (GAD), which enables on-policy and black-box distillation. GAD frames the student LLM as a generator and trains a discriminator to distinguish its responses from the teacher LLM's, creating a minimax game. The discriminator acts as an on-policy reward model that co-evolves with the student, providing stable, adaptive feedback. Experimental results show that GAD consistently surpasses the commonly used sequence-level knowledge distillation. In particular, Qwen2.5-14B-Instruct (student) trained with GAD becomes comparable to its teacher, GPT-5-Chat, on the LMSYS-Chat automatic evaluation. The results establish GAD as a promising and effective paradigm for black-box LLM distillation.",
+      "fetch_date": "2025-11-14",
+      "num_comments": 2,
+      "ai_summary": "Generative Adversarial Distillation (GAD) enhances black-box distillation by framing the student model as a generator and using a discriminator to provide adaptive feedback, surpassing traditional sequence-level knowledge distillation.",
+      "ai_keywords": [
+        "black-box distillation",
+        "large language models (LLMs)",
+        "Generative Adversarial Distillation (GAD)",
+        "generator",
+        "discriminator",
+        "minimax game",
+        "on-policy reward model",
+        "sequence-level knowledge distillation",
+        "LMSYS-Chat automatic evaluation"
+      ]
+    }
+  },
+  {
     "id": "1f8425376c830b061c351b993f70d01b",
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 97<br/>GitHub Stars: 2036<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 97<br/>GitHub Stars: 2043<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -577,7 +590,7 @@
     "metadata": {
       "paper_id": "2510.16872",
       "upvotes": 97,
-      "github_stars": 2036,
+      "github_stars": 2043,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [
