@@ -75,7 +75,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
-    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 188<br/>GitHub Stars: 183<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
+    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 188<br/>GitHub Stars: 185<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.04570",
     "external_url": "https://github.com/tongjingqi/Thinking-with-Video",
     "published_date": "2025-11-06T12:25:23.000Z",
@@ -86,7 +86,7 @@
     "metadata": {
       "paper_id": "2511.04570",
       "upvotes": 188,
-      "github_stars": 183,
+      "github_stars": 185,
       "github_url": "https://github.com/tongjingqi/Thinking-with-Video",
       "project_url": "https://thinking-with-video.github.io/",
       "authors": [
@@ -175,6 +175,55 @@
     }
   },
   {
+    "id": "4622a47084403f1652a1baac4335b4fa",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 149<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2511.08892",
+    "external_url": "",
+    "published_date": "2025-11-11T21:01:26.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2511.08892",
+      "upvotes": 149,
+      "github_stars": 0,
+      "github_url": "",
+      "project_url": "https://www.lumine-ai.org/",
+      "authors": [
+        "Weihao Tan",
+        "Xiangyang Li",
+        "Yunhao Fang",
+        "Heyuan Yao",
+        "Shi Yan",
+        "Hao Luo",
+        "Tenglong Ao",
+        "Huihui Li",
+        "Hongbin Ren",
+        "Bairen Yi",
+        "Yujia Qin",
+        "Bo An",
+        "Libin Liu",
+        "Guang Shi"
+      ],
+      "summary": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts a human-like interaction paradigm that unifies perception, reasoning, and action in an end-to-end manner, powered by a vision-language model. It processes raw pixels at 5 Hz to produce precise 30 Hz keyboard-mouse actions and adaptively invokes reasoning only when necessary. Trained in Genshin Impact, Lumine successfully completes the entire five-hour Mondstadt main storyline on par with human-level efficiency and follows natural language instructions to perform a broad spectrum of tasks in both 3D open-world exploration and 2D GUI manipulation across collection, combat, puzzle-solving, and NPC interaction. In addition to its in-domain performance, Lumine demonstrates strong zero-shot cross-game generalization. Without any fine-tuning, it accomplishes 100-minute missions in Wuthering Waves and the full five-hour first chapter of Honkai: Star Rail. These promising results highlight Lumine's effectiveness across distinct worlds and interaction dynamics, marking a concrete step toward generalist agents in open-ended environments.",
+      "fetch_date": "2025-11-13",
+      "num_comments": 10,
+      "ai_summary": "Lumine, a vision-language model-based agent, completes complex missions in real-time across different 3D open-world environments with human-like efficiency and zero-shot cross-game generalization.",
+      "ai_keywords": [
+        "vision-language model",
+        "end-to-end",
+        "3D open-world environments",
+        "human-like interaction",
+        "real-time",
+        "zero-shot cross-game generalization"
+      ]
+    }
+  },
+  {
     "id": "fa71d4f57dc7d25049e28fe9f9644922",
     "source": "huggingface",
     "type": "paper",
@@ -220,60 +269,11 @@
     }
   },
   {
-    "id": "4622a47084403f1652a1baac4335b4fa",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 144<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2511.08892",
-    "external_url": "",
-    "published_date": "2025-11-11T21:01:26.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2511.08892",
-      "upvotes": 144,
-      "github_stars": 0,
-      "github_url": "",
-      "project_url": "https://www.lumine-ai.org/",
-      "authors": [
-        "Weihao Tan",
-        "Xiangyang Li",
-        "Yunhao Fang",
-        "Heyuan Yao",
-        "Shi Yan",
-        "Hao Luo",
-        "Tenglong Ao",
-        "Huihui Li",
-        "Hongbin Ren",
-        "Bairen Yi",
-        "Yujia Qin",
-        "Bo An",
-        "Libin Liu",
-        "Guang Shi"
-      ],
-      "summary": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts a human-like interaction paradigm that unifies perception, reasoning, and action in an end-to-end manner, powered by a vision-language model. It processes raw pixels at 5 Hz to produce precise 30 Hz keyboard-mouse actions and adaptively invokes reasoning only when necessary. Trained in Genshin Impact, Lumine successfully completes the entire five-hour Mondstadt main storyline on par with human-level efficiency and follows natural language instructions to perform a broad spectrum of tasks in both 3D open-world exploration and 2D GUI manipulation across collection, combat, puzzle-solving, and NPC interaction. In addition to its in-domain performance, Lumine demonstrates strong zero-shot cross-game generalization. Without any fine-tuning, it accomplishes 100-minute missions in Wuthering Waves and the full five-hour first chapter of Honkai: Star Rail. These promising results highlight Lumine's effectiveness across distinct worlds and interaction dynamics, marking a concrete step toward generalist agents in open-ended environments.",
-      "fetch_date": "2025-11-13",
-      "num_comments": 10,
-      "ai_summary": "Lumine, a vision-language model-based agent, completes complex missions in real-time across different 3D open-world environments with human-like efficiency and zero-shot cross-game generalization.",
-      "ai_keywords": [
-        "vision-language model",
-        "end-to-end",
-        "3D open-world environments",
-        "human-like interaction",
-        "real-time",
-        "zero-shot cross-game generalization"
-      ]
-    }
-  },
-  {
     "id": "cb1e895dc25b82e9e2f05366ceb1adbe",
     "source": "huggingface",
     "type": "paper",
     "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
-    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 413<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
+    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 418<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23564",
     "external_url": "https://github.com/FoundationAgents/ReCode",
     "published_date": "2025-10-27T13:35:15.000Z",
@@ -284,7 +284,7 @@
     "metadata": {
       "paper_id": "2510.23564",
       "upvotes": 119,
-      "github_stars": 413,
+      "github_stars": 418,
       "github_url": "https://github.com/FoundationAgents/ReCode",
       "project_url": "",
       "authors": [
@@ -322,112 +322,11 @@
     }
   },
   {
-    "id": "d98bf11f4930fd1159bb5f90e3f76afd",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-    "description": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) ...<br/>Upvotes: 90<br/>GitHub Stars: 63982<br/>Authors: Cheng Cui, Ting Sun, Suyin Liang<br/>🔗 <a href=\"https://github.com/PaddlePaddle/PaddleOCR\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.14528\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.14528",
-    "external_url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "published_date": "2025-10-16T06:18:48.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.14528",
-      "upvotes": 90,
-      "github_stars": 63982,
-      "github_url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "project_url": "",
-      "authors": [
-        "Cheng Cui",
-        "Ting Sun",
-        "Suyin Liang",
-        "Tingquan Gao",
-        "Zelun Zhang",
-        "Jiaxuan Liu",
-        "Xueqing Wang",
-        "Changda Zhou",
-        "Hongen Liu",
-        "Manhui Lin",
-        "Yue Zhang",
-        "Yubo Zhang",
-        "Handong Zheng",
-        "Jing Zhang",
-        "Jun Zhang",
-        "Yi Liu",
-        "Dianhai Yu",
-        "Yanjun Ma"
-      ],
-      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
-      "fetch_date": "2025-10-17",
-      "num_comments": 6,
-      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
-      "ai_keywords": [
-        "vision-language model",
-        "NaViT-style",
-        "dynamic resolution visual encoder",
-        "ERNIE-4.5",
-        "element recognition",
-        "page-level document parsing",
-        "element-level recognition",
-        "inference speeds"
-      ]
-    }
-  },
-  {
-    "id": "4477d6ceb0f6af4c535f87fb4c3e55f5",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "BitNet Distillation",
-    "description": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0,...<br/>Upvotes: 53<br/>GitHub Stars: 24412<br/>Authors: Xun Wu, Shaohan Huang, Wenhui Wang<br/>🔗 <a href=\"https://github.com/microsoft/BitNet\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.13998\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.13998",
-    "external_url": "https://github.com/microsoft/BitNet",
-    "published_date": "2025-10-15T14:28:12.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.13998",
-      "upvotes": 53,
-      "github_stars": 24412,
-      "github_url": "https://github.com/microsoft/BitNet",
-      "project_url": "",
-      "authors": [
-        "Xun Wu",
-        "Shaohan Huang",
-        "Wenhui Wang",
-        "Ting Song",
-        "Li Dong",
-        "Yan Xia",
-        "Furu Wei"
-      ],
-      "summary": "In this paper, we present BitNet Distillation (BitDistill), a lightweight\npipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into\n1.58-bit precision (i.e., ternary weights {-1, 0, 1}) for specific downstream\ntasks, achieving strong task-specific performance with minimal computational\ncost. Specifically, BitDistill incorporates three key techniques: the SubLN\nmodule, as introduced in BitNet; multi-head attention distillation, based on\nMiniLM; and continual pre-training, which serves as a crucial warm-up step to\nmitigate the scalability issue of the performance gap between finetuned\nfull-precision and 1.58-bit LLMs on specific tasks. Experimental results show\nthat BitDistill achieves performance comparable to the full-precision\ncounterpart models across model size, while enabling up to 10x memory savings\nand 2.65x faster inference on CPUs. Code is available at\nhttps://github.com/microsoft/BitNet.",
-      "fetch_date": "2025-10-17",
-      "num_comments": 4,
-      "ai_summary": "BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.",
-      "ai_keywords": [
-        "BitNet Distillation",
-        "BitDistill",
-        "SubLN",
-        "multi-head attention distillation",
-        "continual pre-training",
-        "LLMs",
-        "Qwen",
-        "ternary weights",
-        "memory savings",
-        "inference speed"
-      ]
-    }
-  },
-  {
     "id": "bf88f955951ceb1c5ba0121481fe4bf5",
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15796<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 6<br/>GitHub Stars: 15829<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -438,7 +337,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 6,
-      "github_stars": 15796,
+      "github_stars": 15829,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -472,7 +371,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 17<br/>GitHub Stars: 4310<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 18<br/>GitHub Stars: 4315<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -482,8 +381,8 @@
     ],
     "metadata": {
       "paper_id": "2510.15821",
-      "upvotes": 17,
-      "github_stars": 4310,
+      "upvotes": 18,
+      "github_stars": 4315,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -535,7 +434,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Black-Box On-Policy Distillation of Large Language Models",
-    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 34<br/>GitHub Stars: 4181<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
+    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 36<br/>GitHub Stars: 4182<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.10643",
     "external_url": "https://github.com/microsoft/LMOps/tree/main/gad",
     "published_date": "2025-11-13T13:58:37.000Z",
@@ -545,8 +444,8 @@
     ],
     "metadata": {
       "paper_id": "2511.10643",
-      "upvotes": 34,
-      "github_stars": 4181,
+      "upvotes": 36,
+      "github_stars": 4182,
       "github_url": "https://github.com/microsoft/LMOps/tree/main/gad",
       "project_url": "https://aka.ms/GAD-project",
       "authors": [
@@ -579,7 +478,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2077<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2095<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -590,7 +489,7 @@
     "metadata": {
       "paper_id": "2510.16872",
       "upvotes": 98,
-      "github_stars": 2077,
+      "github_stars": 2095,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [
@@ -614,6 +513,97 @@
         "data question answering",
         "specialized analytical tasks",
         "open-ended data research"
+      ]
+    }
+  },
+  {
+    "id": "c05ced7c8c8c10f6c2cd73380416f67d",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "PokeeResearch: Effective Deep Research via Reinforcement Learning from\n  AI Feedback and Robust Reasoning Scaffold",
+    "description": "Tool-augmented large language models (LLMs) are emerging as deep research\nagents, systems that decompose complex queries, retrieve external evidence, and\nsynthesize grounded responses. Yet current age...<br/>Upvotes: 9<br/>GitHub Stars: 1655<br/>Authors: Yi Wan, Jiuqi Wang, Liam Li<br/>🔗 <a href=\"https://github.com/Pokee-AI/PokeeResearchOSS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15862\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.15862",
+    "external_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+    "published_date": "2025-10-17T13:53:06.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.15862",
+      "upvotes": 9,
+      "github_stars": 1655,
+      "github_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+      "project_url": "",
+      "authors": [
+        "Yi Wan",
+        "Jiuqi Wang",
+        "Liam Li",
+        "Jinsong Liu",
+        "Ruihao Zhu",
+        "Zheqing Zhu"
+      ],
+      "summary": "Tool-augmented large language models (LLMs) are emerging as deep research\nagents, systems that decompose complex queries, retrieve external evidence, and\nsynthesize grounded responses. Yet current agents remain limited by shallow\nretrieval, weak alignment metrics, and brittle tool-use behavior. We introduce\nPokeeResearch-7B, a 7B-parameter deep research agent built under a unified\nreinforcement learning framework for robustness, alignment, and scalability.\nPokeeResearch-7B is trained by an annotation-free Reinforcement Learning from\nAI Feedback (RLAIF) framework to optimize policies using LLM-based reward\nsignals that capture factual accuracy, citation faithfulness, and instruction\nadherence. A chain-of-thought-driven multi-call reasoning scaffold further\nenhances robustness through self-verification and adaptive recovery from tool\nfailures. Among 10 popular deep research benchmarks, PokeeResearch-7B achieves\nstate-of-the-art performance among 7B-scale deep research agents. This\nhighlights that careful reinforcement learning and reasoning design can produce\nefficient, resilient, and research-grade AI agents. The model and inference\ncode is open-sourced under MIT license at\nhttps://github.com/Pokee-AI/PokeeResearchOSS.",
+      "fetch_date": "2025-10-22",
+      "num_comments": 2,
+      "ai_summary": "PokeeResearch-7B, a 7B-parameter deep research agent, achieves state-of-the-art performance using reinforcement learning and chain-of-thought reasoning to enhance robustness and alignment.",
+      "ai_keywords": [
+        "deep research agents",
+        "reinforcement learning",
+        "annotation-free Reinforcement Learning from AI Feedback (RLAIF)",
+        "LLM-based reward signals",
+        "chain-of-thought-driven reasoning",
+        "self-verification",
+        "adaptive recovery",
+        "deep research benchmarks"
+      ]
+    }
+  },
+  {
+    "id": "c1f2367c73a40263de9e1d62da95aa34",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing",
+    "description": "Recent advances in multimodal models have demonstrated remarkable text-guided\nimage editing capabilities, with systems like GPT-4o and Nano-Banana setting\nnew benchmarks. However, the research communi...<br/>Upvotes: 28<br/>GitHub Stars: 1653<br/>Authors: Yusu Qian, Eli Bocek-Rivele, Liangchen Song<br/>🔗 <a href=\"https://github.com/apple/pico-banana-400k\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.19808\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.19808",
+    "external_url": "https://github.com/apple/pico-banana-400k",
+    "published_date": "2025-10-22T13:43:15.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2510.19808",
+      "upvotes": 28,
+      "github_stars": 1653,
+      "github_url": "https://github.com/apple/pico-banana-400k",
+      "project_url": "",
+      "authors": [
+        "Yusu Qian",
+        "Eli Bocek-Rivele",
+        "Liangchen Song",
+        "Jialing Tong",
+        "Yinfei Yang",
+        "Jiasen Lu",
+        "Wenze Hu",
+        "Zhe Gan"
+      ],
+      "summary": "Recent advances in multimodal models have demonstrated remarkable text-guided\nimage editing capabilities, with systems like GPT-4o and Nano-Banana setting\nnew benchmarks. However, the research community's progress remains constrained\nby the absence of large-scale, high-quality, and openly accessible datasets\nbuilt from real images. We introduce Pico-Banana-400K, a comprehensive\n400K-image dataset for instruction-based image editing. Our dataset is\nconstructed by leveraging Nano-Banana to generate diverse edit pairs from real\nphotographs in the OpenImages collection. What distinguishes Pico-Banana-400K\nfrom previous synthetic datasets is our systematic approach to quality and\ndiversity. We employ a fine-grained image editing taxonomy to ensure\ncomprehensive coverage of edit types while maintaining precise content\npreservation and instruction faithfulness through MLLM-based quality scoring\nand careful curation. Beyond single turn editing, Pico-Banana-400K enables\nresearch into complex editing scenarios. The dataset includes three specialized\nsubsets: (1) a 72K-example multi-turn collection for studying sequential\nediting, reasoning, and planning across consecutive modifications; (2) a\n56K-example preference subset for alignment research and reward model training;\nand (3) paired long-short editing instructions for developing instruction\nrewriting and summarization capabilities. By providing this large-scale,\nhigh-quality, and task-rich resource, Pico-Banana-400K establishes a robust\nfoundation for training and benchmarking the next generation of text-guided\nimage editing models.",
+      "fetch_date": "2025-10-23",
+      "num_comments": 2,
+      "ai_summary": "Pico-Banana-400K is a large-scale, high-quality dataset for instruction-based image editing, featuring diverse edit pairs, multi-turn editing, preference subsets, and long-short instruction pairs, enabling comprehensive research and benchmarking.",
+      "ai_keywords": [
+        "multimodal models",
+        "text-guided image editing",
+        "GPT-4o",
+        "Nano-Banana",
+        "OpenImages",
+        "fine-grained image editing taxonomy",
+        "MLLM-based quality scoring",
+        "multi-turn editing",
+        "preference subset",
+        "instruction rewriting",
+        "instruction summarization"
       ]
     }
   }

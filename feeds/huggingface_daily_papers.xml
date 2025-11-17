@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:huggingface_daily_papers</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2025-11-16T21:18:25.730472+00:00</updated>
+  <updated>2025-11-17T09:29:33.171873+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -30,7 +30,7 @@ under-leverages pre-training data. We present and...&lt;br/&gt;Upvotes: 211&lt;b
     <category term="paper"/>
     <summary>&quot;Thinking with Text&quot; and &quot;Thinking with Images&quot; paradigm significantly
 improve the reasoning ability of large language models (LLMs) and Vision
-Language Models (VLMs). However, these paradigms have in...&lt;br/&gt;Upvotes: 188&lt;br/&gt;GitHub Stars: 183&lt;br/&gt;Authors: Jingqi Tong, Yurong Mou, Hangcheng Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/tongjingqi/Thinking-with-Video&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://thinking-with-video.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.04570&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+Language Models (VLMs). However, these paradigms have in...&lt;br/&gt;Upvotes: 188&lt;br/&gt;GitHub Stars: 185&lt;br/&gt;Authors: Jingqi Tong, Yurong Mou, Hangcheng Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/tongjingqi/Thinking-with-Video&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://thinking-with-video.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.04570&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
@@ -45,6 +45,15 @@ such representations can often be recalled from a single modality. Inspired by
 this principle, we introduce Concerto, a mi...&lt;br/&gt;Upvotes: 172&lt;br/&gt;GitHub Stars: 415&lt;br/&gt;Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Pointcept/Concerto&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://pointcept.github.io/Concerto/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23607&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
+    <title>Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds</title>
+    <id>4622a47084403f1652a1baac4335b4fa</id>
+    <link href="https://arxiv.org/abs/2511.08892"/>
+    <updated>2025-11-11T21:01:26+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...&lt;br/&gt;Upvotes: 149&lt;br/&gt;Authors: Weihao Tan, Xiangyang Li, Yunhao Fang&lt;br/&gt;🔗 &lt;a href=&quot;https://www.lumine-ai.org/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.08892&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
     <title>A Theoretical Study on Bridging Internal Probability and
   Self-Consistency for LLM Reasoning</title>
     <id>fa71d4f57dc7d25049e28fe9f9644922</id>
@@ -57,15 +66,6 @@ language models (LLMs) by adding computational resources. A prevalent approach
 within the field is sampling-based test-time scalin...&lt;br/&gt;Upvotes: 145&lt;br/&gt;GitHub Stars: 12&lt;br/&gt;Authors: Zhi Zhou, Yuhao Tan, Zenan Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/WNJXYK/RPC&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://wnjxyk.github.io/RPC&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.15444&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
-    <title>Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds</title>
-    <id>4622a47084403f1652a1baac4335b4fa</id>
-    <link href="https://arxiv.org/abs/2511.08892"/>
-    <updated>2025-11-11T21:01:26+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...&lt;br/&gt;Upvotes: 144&lt;br/&gt;Authors: Weihao Tan, Xiangyang Li, Yunhao Fang&lt;br/&gt;🔗 &lt;a href=&quot;https://www.lumine-ai.org/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.08892&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
     <title>ReCode: Unify Plan and Action for Universal Granularity Control</title>
     <id>cb1e895dc25b82e9e2f05366ceb1adbe</id>
     <link href="https://arxiv.org/abs/2510.23564"/>
@@ -74,30 +74,7 @@ within the field is sampling-based test-time scalin...&lt;br/&gt;Upvotes: 145&lt
     <category term="paper"/>
     <summary>Real-world tasks require decisions at varying granularities, and humans excel
 at this by leveraging a unified cognitive representation where planning is
-fundamentally understood as a high-level form o...&lt;br/&gt;Upvotes: 119&lt;br/&gt;GitHub Stars: 413&lt;br/&gt;Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/FoundationAgents/ReCode&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23564&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
-    <title>PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
-  Ultra-Compact Vision-Language Model</title>
-    <id>d98bf11f4930fd1159bb5f90e3f76afd</id>
-    <link href="https://arxiv.org/abs/2510.14528"/>
-    <updated>2025-10-16T06:18:48+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model
-tailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a
-compact yet powerful vision-language model (VLM) ...&lt;br/&gt;Upvotes: 90&lt;br/&gt;GitHub Stars: 63982&lt;br/&gt;Authors: Cheng Cui, Ting Sun, Suyin Liang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/PaddlePaddle/PaddleOCR&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.14528&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
-    <title>BitNet Distillation</title>
-    <id>4477d6ceb0f6af4c535f87fb4c3e55f5</id>
-    <link href="https://arxiv.org/abs/2510.13998"/>
-    <updated>2025-10-15T14:28:12+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>In this paper, we present BitNet Distillation (BitDistill), a lightweight
-pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
-1.58-bit precision (i.e., ternary weights {-1, 0,...&lt;br/&gt;Upvotes: 53&lt;br/&gt;GitHub Stars: 24412&lt;br/&gt;Authors: Xun Wu, Shaohan Huang, Wenhui Wang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.13998&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+fundamentally understood as a high-level form o...&lt;br/&gt;Upvotes: 119&lt;br/&gt;GitHub Stars: 418&lt;br/&gt;Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/FoundationAgents/ReCode&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.23564&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
@@ -109,7 +86,7 @@ pipeline that fine-tunes off-the-shelf full-precision LLMs (e.g., Qwen) into
     <category term="paper"/>
     <summary>Reinforcement learning with verifiable rewards (RLVR) has emerged as a
 promising paradigm for enhancing the reasoning capabilities of large language
-models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 6&lt;br/&gt;GitHub Stars: 15796&lt;br/&gt;Authors: Yuyang Ding, Chi Zhang, Juntao Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/volcengine/verl/tree/main/recipe/fapo&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://fapo-rl.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.22543&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 6&lt;br/&gt;GitHub Stars: 15829&lt;br/&gt;Authors: Yuyang Ding, Chi Zhang, Juntao Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/volcengine/verl/tree/main/recipe/fapo&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://fapo-rl.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.22543&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Chronos-2: From Univariate to Universal Forecasting</title>
@@ -120,7 +97,7 @@ models (LLMs). In this context, models explore reas...&lt;br/&gt;Upvotes: 6&lt;b
     <category term="paper"/>
     <summary>Pretrained time series models have enabled inference-only forecasting systems
 that produce accurate predictions without task-specific training. However,
-existing approaches largely focus on univariate...&lt;br/&gt;Upvotes: 17&lt;br/&gt;GitHub Stars: 4310&lt;br/&gt;Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/amazon-science/chronos-forecasting&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/amazon/chronos-2&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.15821&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+existing approaches largely focus on univariate...&lt;br/&gt;Upvotes: 18&lt;br/&gt;GitHub Stars: 4315&lt;br/&gt;Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/amazon-science/chronos-forecasting&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/amazon/chronos-2&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.15821&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Black-Box On-Policy Distillation of Large Language Models</title>
@@ -129,7 +106,7 @@ existing approaches largely focus on univariate...&lt;br/&gt;Upvotes: 17&lt;br/&
     <updated>2025-11-13T13:58:37+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...&lt;br/&gt;Upvotes: 34&lt;br/&gt;GitHub Stars: 4181&lt;br/&gt;Authors: Tianzhu Ye, Li Dong, Zewen Chi&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/LMOps/tree/main/gad&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://aka.ms/GAD-project&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.10643&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...&lt;br/&gt;Upvotes: 36&lt;br/&gt;GitHub Stars: 4182&lt;br/&gt;Authors: Tianzhu Ye, Li Dong, Zewen Chi&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/microsoft/LMOps/tree/main/gad&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://aka.ms/GAD-project&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2511.10643&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>DeepAnalyze: Agentic Large Language Models for Autonomous Data Science</title>
@@ -140,6 +117,29 @@ existing approaches largely focus on univariate...&lt;br/&gt;Upvotes: 17&lt;br/&
     <category term="paper"/>
     <summary>Autonomous data science, from raw data sources to analyst-grade deep research
 reports, has been a long-standing challenge, and is now becoming feasible with
-the emergence of powerful large language mo...&lt;br/&gt;Upvotes: 98&lt;br/&gt;GitHub Stars: 2077&lt;br/&gt;Authors: Shaolei Zhang, Ju Fan, Meihao Fan&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ruc-datalab/DeepAnalyze&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ruc-deepanalyze.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.16872&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+the emergence of powerful large language mo...&lt;br/&gt;Upvotes: 98&lt;br/&gt;GitHub Stars: 2095&lt;br/&gt;Authors: Shaolei Zhang, Ju Fan, Meihao Fan&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ruc-datalab/DeepAnalyze&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ruc-deepanalyze.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.16872&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
+    <title>PokeeResearch: Effective Deep Research via Reinforcement Learning from
+  AI Feedback and Robust Reasoning Scaffold</title>
+    <id>c05ced7c8c8c10f6c2cd73380416f67d</id>
+    <link href="https://arxiv.org/abs/2510.15862"/>
+    <updated>2025-10-17T13:53:06+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>Tool-augmented large language models (LLMs) are emerging as deep research
+agents, systems that decompose complex queries, retrieve external evidence, and
+synthesize grounded responses. Yet current age...&lt;br/&gt;Upvotes: 9&lt;br/&gt;GitHub Stars: 1655&lt;br/&gt;Authors: Yi Wan, Jiuqi Wang, Liam Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Pokee-AI/PokeeResearchOSS&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.15862&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing</title>
+    <id>c1f2367c73a40263de9e1d62da95aa34</id>
+    <link href="https://arxiv.org/abs/2510.19808"/>
+    <updated>2025-10-22T13:43:15+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>Recent advances in multimodal models have demonstrated remarkable text-guided
+image editing capabilities, with systems like GPT-4o and Nano-Banana setting
+new benchmarks. However, the research communi...&lt;br/&gt;Upvotes: 28&lt;br/&gt;GitHub Stars: 1653&lt;br/&gt;Authors: Yusu Qian, Eli Bocek-Rivele, Liangchen Song&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/apple/pico-banana-400k&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2510.19808&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
 </feed>
