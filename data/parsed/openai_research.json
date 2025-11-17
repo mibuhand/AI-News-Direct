@@ -1,18 +1,18 @@
 [
     {
-        "id": "a37acfed24a908a166f997aceb9fcb06",
+        "id": "76786030386ff19d3670fbfb28012430",
         "source": "openai",
-        "type": "publication",
-        "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
-        "description": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
-        "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/",
-        "published_date": "2025-11-12T00:00:00+00:00",
+        "type": "research",
+        "title": "Understanding neural networks through sparse circuits",
+        "description": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
+        "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits/",
+        "published_date": "2025-11-13T10:00:00+00:00",
         "categories": [
-            "Publication"
+            "Research"
         ],
         "organization": "OpenAI",
         "metadata": {
-            "post_type": "Publication"
+            "post_type": "Research"
         },
         "objects": []
     },
@@ -30,6 +30,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "a37acfed24a908a166f997aceb9fcb06",
+        "source": "openai",
+        "type": "publication",
+        "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+        "description": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
+        "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/",
+        "published_date": "2025-11-12T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     },
@@ -68,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "954f63c357c5dc716c95f20c1fc7d84f",
-        "source": "openai",
-        "type": "safety",
-        "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b",
-        "description": "and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard\u2019s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card\u2060.",
-        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
         "id": "3601f3ad341eb27939506c0f5e361225",
         "source": "openai",
         "type": "product",
@@ -98,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "954f63c357c5dc716c95f20c1fc7d84f",
+        "source": "openai",
+        "type": "safety",
+        "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b",
+        "description": "and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard\u2019s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card\u2060.",
+        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report/",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Safety"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Safety"
         },
         "objects": []
     },
@@ -132,23 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "ce22613b413df56e8aef16bec72be34e",
-        "source": "openai",
-        "type": "product",
-        "title": "Codex is now generally available",
-        "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management\u2014making Codex easier to use and manage at scale.",
-        "url": "https://openai.com/index/codex-now-generally-available/",
-        "published_date": "2025-10-06T10:50:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     }

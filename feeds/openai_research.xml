@@ -4,18 +4,18 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-11-17T09:29:33.153720+00:00</updated>
+  <updated>2025-11-17T21:19:25.421921+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml" rel="self"/>
   <entry>
-    <title>GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum</title>
-    <id>a37acfed24a908a166f997aceb9fcb06</id>
-    <link href="https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/"/>
-    <updated>2025-11-12T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.</summary>
+    <title>Understanding neural networks through sparse circuits</title>
+    <id>76786030386ff19d3670fbfb28012430</id>
+    <link href="https://openai.com/index/understanding-neural-networks-through-sparse-circuits/"/>
+    <updated>2025-11-13T10:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.</summary>
   </entry>
   <entry>
     <title>GPT-5.1: A smarter, more conversational ChatGPT</title>
@@ -24,6 +24,14 @@
     <updated>2025-11-12T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary>We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.</summary>
+  </entry>
+  <entry>
+    <title>GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum</title>
+    <id>a37acfed24a908a166f997aceb9fcb06</id>
+    <link href="https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/"/>
+    <updated>2025-11-12T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.</summary>
   </entry>
   <entry>
     <title>Introducing IndQA</title>
@@ -42,20 +50,20 @@
     <summary>OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.</summary>
   </entry>
   <entry>
-    <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
-    <id>954f63c357c5dc716c95f20c1fc7d84f</id>
-    <link href="https://openai.com/index/gpt-oss-safeguard-technical-report/"/>
-    <updated>2025-10-29T00:00:00+00:00</updated>
-    <category term="Safety"/>
-    <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
-  </entry>
-  <entry>
     <title>Introducing gpt-oss-safeguard</title>
     <id>3601f3ad341eb27939506c0f5e361225</id>
     <link href="https://openai.com/index/introducing-gpt-oss-safeguard/"/>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</summary>
+  </entry>
+  <entry>
+    <title>Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b</title>
+    <id>954f63c357c5dc716c95f20c1fc7d84f</id>
+    <link href="https://openai.com/index/gpt-oss-safeguard-technical-report/"/>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <category term="Safety"/>
+    <summary>and gpt-oss-safeguard-20bgpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.</summary>
   </entry>
   <entry>
     <title>Addendum to GPT-5 System Card: Sensitive conversations</title>
@@ -72,13 +80,5 @@
     <updated>2025-10-09T13:00:00+00:00</updated>
     <category term="Research"/>
     <summary>Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.</summary>
-  </entry>
-  <entry>
-    <title>Codex is now generally available</title>
-    <id>ce22613b413df56e8aef16bec72be34e</id>
-    <link href="https://openai.com/index/codex-now-generally-available/"/>
-    <updated>2025-10-06T10:50:00+00:00</updated>
-    <category term="Product"/>
-    <summary>OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.</summary>
   </entry>
 </feed>
