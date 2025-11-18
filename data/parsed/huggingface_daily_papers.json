@@ -132,7 +132,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 416<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 417<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
     "external_url": "https://github.com/Pointcept/Concerto",
     "published_date": "2025-10-27T13:59:59.000Z",
@@ -143,7 +143,7 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 172,
-      "github_stars": 416,
+      "github_stars": 417,
       "github_url": "https://github.com/Pointcept/Concerto",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
@@ -179,7 +179,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 153<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 157<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.08892",
     "external_url": "",
     "published_date": "2025-11-11T21:01:26.000Z",
@@ -189,7 +189,7 @@
     ],
     "metadata": {
       "paper_id": "2511.08892",
-      "upvotes": 153,
+      "upvotes": 157,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://www.lumine-ai.org/",
@@ -211,7 +211,7 @@
       ],
       "summary": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts a human-like interaction paradigm that unifies perception, reasoning, and action in an end-to-end manner, powered by a vision-language model. It processes raw pixels at 5 Hz to produce precise 30 Hz keyboard-mouse actions and adaptively invokes reasoning only when necessary. Trained in Genshin Impact, Lumine successfully completes the entire five-hour Mondstadt main storyline on par with human-level efficiency and follows natural language instructions to perform a broad spectrum of tasks in both 3D open-world exploration and 2D GUI manipulation across collection, combat, puzzle-solving, and NPC interaction. In addition to its in-domain performance, Lumine demonstrates strong zero-shot cross-game generalization. Without any fine-tuning, it accomplishes 100-minute missions in Wuthering Waves and the full five-hour first chapter of Honkai: Star Rail. These promising results highlight Lumine's effectiveness across distinct worlds and interaction dynamics, marking a concrete step toward generalist agents in open-ended environments.",
       "fetch_date": "2025-11-13",
-      "num_comments": 10,
+      "num_comments": 11,
       "ai_summary": "Lumine, a vision-language model-based agent, completes complex missions in real-time across different 3D open-world environments with human-like efficiency and zero-shot cross-game generalization.",
       "ai_keywords": [
         "vision-language model",
@@ -273,7 +273,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
-    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 421<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
+    "description": "Real-world tasks require decisions at varying granularities, and humans excel\nat this by leveraging a unified cognitive representation where planning is\nfundamentally understood as a high-level form o...<br/>Upvotes: 119<br/>GitHub Stars: 423<br/>Authors: Zhaoyang Yu, Jiayi Zhang, Huixue Su<br/>🔗 <a href=\"https://github.com/FoundationAgents/ReCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23564\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23564",
     "external_url": "https://github.com/FoundationAgents/ReCode",
     "published_date": "2025-10-27T13:35:15.000Z",
@@ -284,7 +284,7 @@
     "metadata": {
       "paper_id": "2510.23564",
       "upvotes": 119,
-      "github_stars": 421,
+      "github_stars": 423,
       "github_url": "https://github.com/FoundationAgents/ReCode",
       "project_url": "",
       "authors": [
@@ -326,7 +326,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 7<br/>GitHub Stars: 15925<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 7<br/>GitHub Stars: 15963<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -337,7 +337,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 7,
-      "github_stars": 15925,
+      "github_stars": 15963,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -371,7 +371,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 18<br/>GitHub Stars: 4322<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 19<br/>GitHub Stars: 4325<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -381,8 +381,8 @@
     ],
     "metadata": {
       "paper_id": "2510.15821",
-      "upvotes": 18,
-      "github_stars": 4322,
+      "upvotes": 19,
+      "github_stars": 4325,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -434,7 +434,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Black-Box On-Policy Distillation of Large Language Models",
-    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 38<br/>GitHub Stars: 4185<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
+    "description": "Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work...<br/>Upvotes: 39<br/>GitHub Stars: 4186<br/>Authors: Tianzhu Ye, Li Dong, Zewen Chi<br/>🔗 <a href=\"https://github.com/microsoft/LMOps/tree/main/gad\">GitHub</a><br/>🔗 <a href=\"https://aka.ms/GAD-project\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10643\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.10643",
     "external_url": "https://github.com/microsoft/LMOps/tree/main/gad",
     "published_date": "2025-11-13T13:58:37.000Z",
@@ -444,8 +444,8 @@
     ],
     "metadata": {
       "paper_id": "2511.10643",
-      "upvotes": 38,
-      "github_stars": 4185,
+      "upvotes": 39,
+      "github_stars": 4186,
       "github_url": "https://github.com/microsoft/LMOps/tree/main/gad",
       "project_url": "https://aka.ms/GAD-project",
       "authors": [
@@ -478,7 +478,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2107<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2121<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -489,7 +489,7 @@
     "metadata": {
       "paper_id": "2510.16872",
       "upvotes": 98,
-      "github_stars": 2107,
+      "github_stars": 2121,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [
@@ -521,7 +521,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
-    "description": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA...<br/>Upvotes: 49<br/>GitHub Stars: 1762<br/>Authors: Haotong Lin, Sili Chen, Junhao Liew<br/>🔗 <a href=\"https://github.com/ByteDance-Seed/depth-anything-3\">GitHub</a><br/>🔗 <a href=\"https://depth-anything-3.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10647\">Hugging Face</a>",
+    "description": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA...<br/>Upvotes: 54<br/>GitHub Stars: 1837<br/>Authors: Haotong Lin, Sili Chen, Junhao Liew<br/>🔗 <a href=\"https://github.com/ByteDance-Seed/depth-anything-3\">GitHub</a><br/>🔗 <a href=\"https://depth-anything-3.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10647\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.10647",
     "external_url": "https://github.com/ByteDance-Seed/depth-anything-3",
     "published_date": "2025-11-13T13:59:53.000Z",
@@ -531,8 +531,8 @@
     ],
     "metadata": {
       "paper_id": "2511.10647",
-      "upvotes": 49,
-      "github_stars": 1762,
+      "upvotes": 54,
+      "github_stars": 1837,
       "github_url": "https://github.com/ByteDance-Seed/depth-anything-3",
       "project_url": "https://depth-anything-3.github.io/",
       "authors": [
@@ -565,45 +565,50 @@
     }
   },
   {
-    "id": "c05ced7c8c8c10f6c2cd73380416f67d",
+    "id": "c1f2367c73a40263de9e1d62da95aa34",
     "source": "huggingface",
     "type": "paper",
-    "title": "PokeeResearch: Effective Deep Research via Reinforcement Learning from\n  AI Feedback and Robust Reasoning Scaffold",
-    "description": "Tool-augmented large language models (LLMs) are emerging as deep research\nagents, systems that decompose complex queries, retrieve external evidence, and\nsynthesize grounded responses. Yet current age...<br/>Upvotes: 9<br/>GitHub Stars: 1658<br/>Authors: Yi Wan, Jiuqi Wang, Liam Li<br/>🔗 <a href=\"https://github.com/Pokee-AI/PokeeResearchOSS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15862\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.15862",
-    "external_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
-    "published_date": "2025-10-17T13:53:06.000Z",
+    "title": "Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing",
+    "description": "Recent advances in multimodal models have demonstrated remarkable text-guided\nimage editing capabilities, with systems like GPT-4o and Nano-Banana setting\nnew benchmarks. However, the research communi...<br/>Upvotes: 28<br/>GitHub Stars: 1662<br/>Authors: Yusu Qian, Eli Bocek-Rivele, Liangchen Song<br/>🔗 <a href=\"https://github.com/apple/pico-banana-400k\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.19808\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2510.19808",
+    "external_url": "https://github.com/apple/pico-banana-400k",
+    "published_date": "2025-10-22T13:43:15.000Z",
     "categories": [
       "research",
       "paper"
     ],
     "metadata": {
-      "paper_id": "2510.15862",
-      "upvotes": 9,
-      "github_stars": 1658,
-      "github_url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+      "paper_id": "2510.19808",
+      "upvotes": 28,
+      "github_stars": 1662,
+      "github_url": "https://github.com/apple/pico-banana-400k",
       "project_url": "",
       "authors": [
-        "Yi Wan",
-        "Jiuqi Wang",
-        "Liam Li",
-        "Jinsong Liu",
-        "Ruihao Zhu",
-        "Zheqing Zhu"
+        "Yusu Qian",
+        "Eli Bocek-Rivele",
+        "Liangchen Song",
+        "Jialing Tong",
+        "Yinfei Yang",
+        "Jiasen Lu",
+        "Wenze Hu",
+        "Zhe Gan"
       ],
-      "summary": "Tool-augmented large language models (LLMs) are emerging as deep research\nagents, systems that decompose complex queries, retrieve external evidence, and\nsynthesize grounded responses. Yet current agents remain limited by shallow\nretrieval, weak alignment metrics, and brittle tool-use behavior. We introduce\nPokeeResearch-7B, a 7B-parameter deep research agent built under a unified\nreinforcement learning framework for robustness, alignment, and scalability.\nPokeeResearch-7B is trained by an annotation-free Reinforcement Learning from\nAI Feedback (RLAIF) framework to optimize policies using LLM-based reward\nsignals that capture factual accuracy, citation faithfulness, and instruction\nadherence. A chain-of-thought-driven multi-call reasoning scaffold further\nenhances robustness through self-verification and adaptive recovery from tool\nfailures. Among 10 popular deep research benchmarks, PokeeResearch-7B achieves\nstate-of-the-art performance among 7B-scale deep research agents. This\nhighlights that careful reinforcement learning and reasoning design can produce\nefficient, resilient, and research-grade AI agents. The model and inference\ncode is open-sourced under MIT license at\nhttps://github.com/Pokee-AI/PokeeResearchOSS.",
-      "fetch_date": "2025-10-22",
+      "summary": "Recent advances in multimodal models have demonstrated remarkable text-guided\nimage editing capabilities, with systems like GPT-4o and Nano-Banana setting\nnew benchmarks. However, the research community's progress remains constrained\nby the absence of large-scale, high-quality, and openly accessible datasets\nbuilt from real images. We introduce Pico-Banana-400K, a comprehensive\n400K-image dataset for instruction-based image editing. Our dataset is\nconstructed by leveraging Nano-Banana to generate diverse edit pairs from real\nphotographs in the OpenImages collection. What distinguishes Pico-Banana-400K\nfrom previous synthetic datasets is our systematic approach to quality and\ndiversity. We employ a fine-grained image editing taxonomy to ensure\ncomprehensive coverage of edit types while maintaining precise content\npreservation and instruction faithfulness through MLLM-based quality scoring\nand careful curation. Beyond single turn editing, Pico-Banana-400K enables\nresearch into complex editing scenarios. The dataset includes three specialized\nsubsets: (1) a 72K-example multi-turn collection for studying sequential\nediting, reasoning, and planning across consecutive modifications; (2) a\n56K-example preference subset for alignment research and reward model training;\nand (3) paired long-short editing instructions for developing instruction\nrewriting and summarization capabilities. By providing this large-scale,\nhigh-quality, and task-rich resource, Pico-Banana-400K establishes a robust\nfoundation for training and benchmarking the next generation of text-guided\nimage editing models.",
+      "fetch_date": "2025-10-23",
       "num_comments": 2,
-      "ai_summary": "PokeeResearch-7B, a 7B-parameter deep research agent, achieves state-of-the-art performance using reinforcement learning and chain-of-thought reasoning to enhance robustness and alignment.",
+      "ai_summary": "Pico-Banana-400K is a large-scale, high-quality dataset for instruction-based image editing, featuring diverse edit pairs, multi-turn editing, preference subsets, and long-short instruction pairs, enabling comprehensive research and benchmarking.",
       "ai_keywords": [
-        "deep research agents",
-        "reinforcement learning",
-        "annotation-free Reinforcement Learning from AI Feedback (RLAIF)",
-        "LLM-based reward signals",
-        "chain-of-thought-driven reasoning",
-        "self-verification",
-        "adaptive recovery",
-        "deep research benchmarks"
+        "multimodal models",
+        "text-guided image editing",
+        "GPT-4o",
+        "Nano-Banana",
+        "OpenImages",
+        "fine-grained image editing taxonomy",
+        "MLLM-based quality scoring",
+        "multi-turn editing",
+        "preference subset",
+        "instruction rewriting",
+        "instruction summarization"
       ]
     }
   }
