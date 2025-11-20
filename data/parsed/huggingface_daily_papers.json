@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Scaling Latent Reasoning via Looped Language Models",
-    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 212<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
+    "description": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and...<br/>Upvotes: 213<br/>Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua<br/>🔗 <a href=\"https://ouro-llm.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.25741\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.25741",
     "external_url": "",
     "published_date": "2025-10-29T13:45:42.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2510.25741",
-      "upvotes": 212,
+      "upvotes": 213,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://ouro-llm.github.io/",
@@ -55,7 +55,7 @@
       ],
       "summary": "Modern LLMs are trained to \"think\" primarily via explicit text generation,\nsuch as chain-of-thought (CoT), which defers reasoning to post-training and\nunder-leverages pre-training data. We present and open-source Ouro, named after\nthe recursive Ouroboros, a family of pre-trained Looped Language Models\n(LoopLM) that instead build reasoning into the pre-training phase through (i)\niterative computation in latent space, (ii) an entropy-regularized objective\nfor learned depth allocation, and (iii) scaling to 7.7T tokens. Ouro 1.4B and\n2.6B models enjoy superior performance that match the results of up to 12B SOTA\nLLMs across a wide range of benchmarks. Through controlled experiments, we show\nthis advantage stems not from increased knowledge capacity, but from superior\nknowledge manipulation capabilities. We also show that LoopLM yields reasoning\ntraces more aligned with final outputs than explicit CoT. We hope our results\nshow the potential of LoopLM as a novel scaling direction in the reasoning era.\nOur model could be found in: http://ouro-llm.github.io.",
       "fetch_date": "2025-10-30",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "LoopLM, a family of pre-trained Looped Language Models, enhances reasoning by integrating iterative computation and entropy regularization during pre-training, achieving superior performance with better knowledge manipulation.",
       "ai_keywords": [
         "Looped Language Models",
@@ -75,7 +75,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
-    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 192<br/>GitHub Stars: 191<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
+    "description": "\"Thinking with Text\" and \"Thinking with Images\" paradigm significantly\nimprove the reasoning ability of large language models (LLMs) and Vision\nLanguage Models (VLMs). However, these paradigms have in...<br/>Upvotes: 195<br/>GitHub Stars: 192<br/>Authors: Jingqi Tong, Yurong Mou, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/Thinking-with-Video\">GitHub</a><br/>🔗 <a href=\"https://thinking-with-video.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.04570\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.04570",
     "external_url": "https://github.com/tongjingqi/Thinking-with-Video",
     "published_date": "2025-11-06T12:25:23.000Z",
@@ -85,8 +85,8 @@
     ],
     "metadata": {
       "paper_id": "2511.04570",
-      "upvotes": 192,
-      "github_stars": 191,
+      "upvotes": 195,
+      "github_stars": 192,
       "github_url": "https://github.com/tongjingqi/Thinking-with-Video",
       "project_url": "https://thinking-with-video.github.io/",
       "authors": [
@@ -132,7 +132,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
-    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 419<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
+    "description": "Humans learn abstract concepts through multisensory synergy, and once formed,\nsuch representations can often be recalled from a single modality. Inspired by\nthis principle, we introduce Concerto, a mi...<br/>Upvotes: 172<br/>GitHub Stars: 421<br/>Authors: Yujia Zhang, Xiaoyang Wu, Yixing Lao<br/>🔗 <a href=\"https://github.com/Pointcept/Concerto\">GitHub</a><br/>🔗 <a href=\"https://pointcept.github.io/Concerto/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.23607\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.23607",
     "external_url": "https://github.com/Pointcept/Concerto",
     "published_date": "2025-10-27T13:59:59.000Z",
@@ -143,7 +143,7 @@
     "metadata": {
       "paper_id": "2510.23607",
       "upvotes": 172,
-      "github_stars": 419,
+      "github_stars": 421,
       "github_url": "https://github.com/Pointcept/Concerto",
       "project_url": "https://pointcept.github.io/Concerto/",
       "authors": [
@@ -179,7 +179,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 167<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 170<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.08892",
     "external_url": "",
     "published_date": "2025-11-11T21:01:26.000Z",
@@ -189,7 +189,7 @@
     ],
     "metadata": {
       "paper_id": "2511.08892",
-      "upvotes": 167,
+      "upvotes": 170,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://www.lumine-ai.org/",
@@ -224,56 +224,11 @@
     }
   },
   {
-    "id": "fa71d4f57dc7d25049e28fe9f9644922",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "A Theoretical Study on Bridging Internal Probability and\n  Self-Consistency for LLM Reasoning",
-    "description": "Test-time scaling seeks to improve the reasoning performance of large\nlanguage models (LLMs) by adding computational resources. A prevalent approach\nwithin the field is sampling-based test-time scalin...<br/>Upvotes: 145<br/>GitHub Stars: 12<br/>Authors: Zhi Zhou, Yuhao Tan, Zenan Li<br/>🔗 <a href=\"https://github.com/WNJXYK/RPC\">GitHub</a><br/>🔗 <a href=\"https://wnjxyk.github.io/RPC\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15444\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2510.15444",
-    "external_url": "https://github.com/WNJXYK/RPC",
-    "published_date": "2025-10-17T04:59:30.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2510.15444",
-      "upvotes": 145,
-      "github_stars": 12,
-      "github_url": "https://github.com/WNJXYK/RPC",
-      "project_url": "https://wnjxyk.github.io/RPC",
-      "authors": [
-        "Zhi Zhou",
-        "Yuhao Tan",
-        "Zenan Li",
-        "Yuan Yao",
-        "Lan-Zhe Guo",
-        "Yu-Feng Li",
-        "Xiaoxing Ma"
-      ],
-      "summary": "Test-time scaling seeks to improve the reasoning performance of large\nlanguage models (LLMs) by adding computational resources. A prevalent approach\nwithin the field is sampling-based test-time scaling methods, which enhance\nreasoning by generating multiple reasoning paths for a given input during\ninference. However, despite its practical success, the theoretical foundations\nremain underexplored. In this paper, we provide the first theoretical framework\nfor analyzing sampling-based test-time scaling methods, grounded in the\nperspective of confidence estimation. Based on the framework, we analyze two\ndominant paradigms: self-consistency and perplexity, and reveal key\nlimitations: self-consistency suffers from high estimation error while\nperplexity exhibits substantial modeling error and possible degradation of the\nestimation error convergence. To address these limitations, we introduce RPC, a\nhybrid method that leverages our theoretical insights through two key\ncomponents: Perplexity Consistency and Reasoning Pruning. Perplexity\nConsistency combines the strengths of self-consistency and perplexity, boosting\nthe convergence rate of estimation error from linear to exponential while\npreserving model error. Reasoning Pruning prevents degradation by eliminating\nlow-probability reasoning paths. Both theoretical analysis and empirical\nresults across seven benchmark datasets demonstrate that RPC has a strong\npotential for reducing reasoning error. Notably, RPC achieves reasoning\nperformance comparable to self-consistency while not only enhancing confidence\nreliability but also reducing sampling costs by 50%. The code and resources are\navailable at https://wnjxyk.github.io/RPC.",
-      "fetch_date": "2025-10-20",
-      "num_comments": 6,
-      "ai_summary": "A theoretical framework for sampling-based test-time scaling in large language models reveals limitations in self-consistency and perplexity, and introduces RPC to improve reasoning performance and reduce sampling costs.",
-      "ai_keywords": [
-        "sampling-based test-time scaling",
-        "large language models",
-        "self-consistency",
-        "perplexity",
-        "Perplexity Consistency",
-        "Reasoning Pruning",
-        "confidence estimation",
-        "reasoning error",
-        "benchmark datasets"
-      ]
-    }
-  },
-  {
     "id": "0a60cb0f535685cc7eb12b1b01de62bc",
     "source": "huggingface",
     "type": "paper",
     "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
-    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 136<br/>GitHub Stars: 818<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
+    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 140<br/>GitHub Stars: 895<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.11793",
     "external_url": "https://github.com/MiroMindAI/MiroThinker",
     "published_date": "2025-11-14T13:52:07.000Z",
@@ -283,8 +238,8 @@
     ],
     "metadata": {
       "paper_id": "2511.11793",
-      "upvotes": 136,
-      "github_stars": 818,
+      "upvotes": 140,
+      "github_stars": 895,
       "github_url": "https://github.com/MiroMindAI/MiroThinker",
       "project_url": "https://dr.miromind.ai/",
       "authors": [
@@ -351,11 +306,67 @@
     }
   },
   {
+    "id": "424a73db8c586219f2baa40321f653bc",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "P1: Mastering Physics Olympiads with Reinforcement Learning",
+    "description": "Recent progress in large language models (LLMs) has moved the frontier from puzzle-solving to science-grade reasoning-the kind needed to tackle problems whose answers must stand against nature, not me...<br/>Upvotes: 121<br/>GitHub Stars: 54<br/>Authors: Jiacheng Chen, Qianjia Cheng, Fangchen Yu<br/>🔗 <a href=\"https://github.com/PRIME-RL/P1\">GitHub</a><br/>🔗 <a href=\"https://prime-rl.github.io/P1/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.13612\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2511.13612",
+    "external_url": "https://github.com/PRIME-RL/P1",
+    "published_date": "2025-11-17T12:18:13.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2511.13612",
+      "upvotes": 121,
+      "github_stars": 54,
+      "github_url": "https://github.com/PRIME-RL/P1",
+      "project_url": "https://prime-rl.github.io/P1/",
+      "authors": [
+        "Jiacheng Chen",
+        "Qianjia Cheng",
+        "Fangchen Yu",
+        "Haiyuan Wan",
+        "Yuchen Zhang",
+        "Shenghe Zheng",
+        "Junchi Yao",
+        "Qingyang Zhang",
+        "Haonan He",
+        "Yun Luo",
+        "Yufeng Zhao",
+        "Futing Wang",
+        "Li Sheng",
+        "Chengxing Xie",
+        "Yuxin Zuo",
+        "Yizhuo Li",
+        "Wenxauan Zeng",
+        "Yulun Wu",
+        "Rui Huang",
+        "Dongzhan Zhou",
+        "Kai Chen",
+        "Yu Qiao",
+        "Lei Bai",
+        "Yu Cheng",
+        "Ning Ding",
+        "Bowen Zhou",
+        "Peng Ye",
+        "Ganqu Cui"
+      ],
+      "summary": "Recent progress in large language models (LLMs) has moved the frontier from puzzle-solving to science-grade reasoning-the kind needed to tackle problems whose answers must stand against nature, not merely fit a rubric. Physics is the sharpest test of this shift, which binds symbols to reality in a fundamental way, serving as the cornerstone of most modern technologies. In this work, we manage to advance physics research by developing large language models with exceptional physics reasoning capabilities, especially excel at solving Olympiad-level physics problems. We introduce P1, a family of open-source physics reasoning models trained entirely through reinforcement learning (RL). Among them, P1-235B-A22B is the first open-source model with Gold-medal performance at the latest International Physics Olympiad (IPhO 2025), and wins 12 gold medals out of 13 international/regional physics competitions in 2024/2025. P1-30B-A3B also surpasses almost all other open-source models on IPhO 2025, getting a silver medal. Further equipped with an agentic framework PhysicsMinions, P1-235B-A22B+PhysicsMinions achieves overall No.1 on IPhO 2025, and obtains the highest average score over the 13 physics competitions. Besides physics, P1 models also present great performance on other reasoning tasks like math and coding, showing the great generalibility of P1 series.",
+      "fetch_date": "2025-11-18",
+      "num_comments": 4,
+      "ai_summary": "",
+      "ai_keywords": []
+    }
+  },
+  {
     "id": "bf88f955951ceb1c5ba0121481fe4bf5",
     "source": "huggingface",
     "type": "paper",
     "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 8<br/>GitHub Stars: 16106<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reas...<br/>Upvotes: 8<br/>GitHub Stars: 16152<br/>Authors: Yuyang Ding, Chi Zhang, Juntao Li<br/>🔗 <a href=\"https://github.com/volcengine/verl/tree/main/recipe/fapo\">GitHub</a><br/>🔗 <a href=\"https://fapo-rl.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.22543\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.22543",
     "external_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
     "published_date": "2025-10-26T01:49:38.000Z",
@@ -366,7 +377,7 @@
     "metadata": {
       "paper_id": "2510.22543",
       "upvotes": 8,
-      "github_stars": 16106,
+      "github_stars": 16152,
       "github_url": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "project_url": "https://fapo-rl.github.io/",
       "authors": [
@@ -452,7 +463,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Chronos-2: From Univariate to Universal Forecasting",
-    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 19<br/>GitHub Stars: 4342<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
+    "description": "Pretrained time series models have enabled inference-only forecasting systems\nthat produce accurate predictions without task-specific training. However,\nexisting approaches largely focus on univariate...<br/>Upvotes: 19<br/>GitHub Stars: 4343<br/>Authors: Abdul Fatir Ansari, Oleksandr Shchur, Jaris Küken<br/>🔗 <a href=\"https://github.com/amazon-science/chronos-forecasting\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/amazon/chronos-2\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.15821\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.15821",
     "external_url": "https://github.com/amazon-science/chronos-forecasting",
     "published_date": "2025-10-17T13:00:53.000Z",
@@ -463,7 +474,7 @@
     "metadata": {
       "paper_id": "2510.15821",
       "upvotes": 19,
-      "github_stars": 4342,
+      "github_stars": 4343,
       "github_url": "https://github.com/amazon-science/chronos-forecasting",
       "project_url": "https://huggingface.co/amazon/chronos-2",
       "authors": [
@@ -559,7 +570,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
-    "description": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA...<br/>Upvotes: 67<br/>GitHub Stars: 2268<br/>Authors: Haotong Lin, Sili Chen, Junhao Liew<br/>🔗 <a href=\"https://github.com/ByteDance-Seed/depth-anything-3\">GitHub</a><br/>🔗 <a href=\"https://depth-anything-3.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10647\">Hugging Face</a>",
+    "description": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA...<br/>Upvotes: 69<br/>GitHub Stars: 2309<br/>Authors: Haotong Lin, Sili Chen, Junhao Liew<br/>🔗 <a href=\"https://github.com/ByteDance-Seed/depth-anything-3\">GitHub</a><br/>🔗 <a href=\"https://depth-anything-3.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.10647\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.10647",
     "external_url": "https://github.com/ByteDance-Seed/depth-anything-3",
     "published_date": "2025-11-13T13:59:53.000Z",
@@ -569,8 +580,8 @@
     ],
     "metadata": {
       "paper_id": "2511.10647",
-      "upvotes": 67,
-      "github_stars": 2268,
+      "upvotes": 69,
+      "github_stars": 2309,
       "github_url": "https://github.com/ByteDance-Seed/depth-anything-3",
       "project_url": "https://depth-anything-3.github.io/",
       "authors": [
@@ -585,7 +596,7 @@
       ],
       "summary": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA3 yields two key insights: a single plain transformer (e.g., vanilla DINO encoder) is sufficient as a backbone without architectural specialization, and a singular depth-ray prediction target obviates the need for complex multi-task learning. Through our teacher-student training paradigm, the model achieves a level of detail and generalization on par with Depth Anything 2 (DA2). We establish a new visual geometry benchmark covering camera pose estimation, any-view geometry and visual rendering. On this benchmark, DA3 sets a new state-of-the-art across all tasks, surpassing prior SOTA VGGT by an average of 44.3% in camera pose accuracy and 25.1% in geometric accuracy. Moreover, it outperforms DA2 in monocular depth estimation. All models are trained exclusively on public academic datasets.",
       "fetch_date": "2025-11-14",
-      "num_comments": 2,
+      "num_comments": 4,
       "ai_summary": "Depth Anything 3 (DA3) uses a plain transformer for geometry prediction from visual inputs, achieving state-of-the-art results in camera pose estimation, any-view geometry, visual rendering, and monocular depth estimation.",
       "ai_keywords": [
         "plain transformer",
@@ -607,7 +618,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
-    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 98<br/>GitHub Stars: 2161<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
+    "description": "Autonomous data science, from raw data sources to analyst-grade deep research\nreports, has been a long-standing challenge, and is now becoming feasible with\nthe emergence of powerful large language mo...<br/>Upvotes: 99<br/>GitHub Stars: 2186<br/>Authors: Shaolei Zhang, Ju Fan, Meihao Fan<br/>🔗 <a href=\"https://github.com/ruc-datalab/DeepAnalyze\">GitHub</a><br/>🔗 <a href=\"https://ruc-deepanalyze.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2510.16872\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2510.16872",
     "external_url": "https://github.com/ruc-datalab/DeepAnalyze",
     "published_date": "2025-10-19T11:13:42.000Z",
@@ -617,8 +628,8 @@
     ],
     "metadata": {
       "paper_id": "2510.16872",
-      "upvotes": 98,
-      "github_stars": 2161,
+      "upvotes": 99,
+      "github_stars": 2186,
       "github_url": "https://github.com/ruc-datalab/DeepAnalyze",
       "project_url": "https://ruc-deepanalyze.github.io/",
       "authors": [
