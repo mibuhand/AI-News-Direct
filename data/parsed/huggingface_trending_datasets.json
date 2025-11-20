@@ -4,16 +4,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "tensonaut/EPSTEIN_FILES_20K",
-    "description": "Downloads: 6,279<br/>Likes: 68",
+    "description": "Downloads: 6,279<br/>Likes: 91",
     "url": "https://huggingface.co/datasets/tensonaut/EPSTEIN_FILES_20K",
-    "published_date": "2025-11-20T09:25:22.034264+00:00",
+    "published_date": "2025-11-20T21:19:32.086874+00:00",
     "categories": [],
     "metadata": {
       "author": "tensonaut",
       "item_name": "EPSTEIN_FILES_20K",
       "downloads": 6279,
-      "likes": 68,
-      "last_modified": "2025-11-18T05:50:43.000Z",
+      "likes": 91,
+      "last_modified": "2025-11-20T18:19:06.000Z",
       "all_tags": []
     }
   },
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "PleIAs/SYNTH",
-    "description": "Downloads: 37,123<br/>Likes: 147",
+    "description": "Downloads: 37,123<br/>Likes: 150",
     "url": "https://huggingface.co/datasets/PleIAs/SYNTH",
-    "published_date": "2025-11-20T09:25:22.034280+00:00",
+    "published_date": "2025-11-20T21:19:32.086897+00:00",
     "categories": [],
     "metadata": {
       "author": "PleIAs",
       "item_name": "SYNTH",
       "downloads": 37123,
-      "likes": 147,
+      "likes": 150,
       "last_modified": "2025-11-11T14:38:51.000Z",
       "all_tags": []
     }
@@ -40,34 +40,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "builddotai/Egocentric-10K",
-    "description": "Downloads: 52,102<br/>Likes: 251",
+    "description": "Downloads: 52,102<br/>Likes: 255",
     "url": "https://huggingface.co/datasets/builddotai/Egocentric-10K",
-    "published_date": "2025-11-20T09:25:22.034288+00:00",
+    "published_date": "2025-11-20T21:19:32.086905+00:00",
     "categories": [],
     "metadata": {
       "author": "builddotai",
       "item_name": "Egocentric-10K",
       "downloads": 52102,
-      "likes": 251,
+      "likes": 255,
       "last_modified": "2025-11-11T00:28:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "79deff91e5a40945e70a8910b856f3a7",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "facebook/omnilingual-asr-corpus",
-    "description": "Downloads: 29,247<br/>Likes: 137",
-    "url": "https://huggingface.co/datasets/facebook/omnilingual-asr-corpus",
-    "published_date": "2025-11-20T09:25:22.034294+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "facebook",
-      "item_name": "omnilingual-asr-corpus",
-      "downloads": 29247,
-      "likes": 137,
-      "last_modified": "2025-11-14T18:52:06.000Z",
       "all_tags": []
     }
   },
@@ -76,15 +58,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 99,849<br/>Likes: 357",
+    "description": "Downloads: 99,849<br/>Likes: 361",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2025-11-20T09:25:22.034307+00:00",
+    "published_date": "2025-11-20T21:19:32.086913+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "PhysicalAI-Autonomous-Vehicles",
       "downloads": 99849,
-      "likes": 357,
+      "likes": 361,
       "last_modified": "2025-11-20T01:09:57.000Z",
       "all_tags": []
     }
@@ -96,7 +78,7 @@
     "title": "moondream/refcoco-m",
     "description": "Downloads: 33,881<br/>Likes: 37",
     "url": "https://huggingface.co/datasets/moondream/refcoco-m",
-    "published_date": "2025-11-20T09:25:22.034313+00:00",
+    "published_date": "2025-11-20T21:19:32.086924+00:00",
     "categories": [],
     "metadata": {
       "author": "moondream",
@@ -108,13 +90,31 @@
     }
   },
   {
+    "id": "79deff91e5a40945e70a8910b856f3a7",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "facebook/omnilingual-asr-corpus",
+    "description": "Downloads: 29,247<br/>Likes: 141",
+    "url": "https://huggingface.co/datasets/facebook/omnilingual-asr-corpus",
+    "published_date": "2025-11-20T21:19:32.086931+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "facebook",
+      "item_name": "omnilingual-asr-corpus",
+      "downloads": 29247,
+      "likes": 141,
+      "last_modified": "2025-11-14T18:52:06.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
     "source": "huggingface",
     "type": "dataset",
     "title": "openai/gsm8k",
     "description": "Downloads: 510,821<br/>Likes: 969",
     "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-11-20T09:25:22.034319+00:00",
+    "published_date": "2025-11-20T21:19:32.086937+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -126,56 +126,38 @@
     }
   },
   {
-    "id": "98eddb1556a5d2ed8a6021dc0c5a7995",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "HuggingFaceFW/finepdfs-edu",
-    "description": "Downloads: 9,180<br/>Likes: 40",
-    "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs-edu",
-    "published_date": "2025-11-20T09:25:22.034325+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HuggingFaceFW",
-      "item_name": "finepdfs-edu",
-      "downloads": 9180,
-      "likes": 40,
-      "last_modified": "2025-11-11T18:49:02.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a27cbe9e5f2d626fdf475af5194a2c9a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 38,576<br/>Likes: 9405",
-    "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-11-20T09:25:22.034330+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "fka",
-      "item_name": "awesome-chatgpt-prompts",
-      "downloads": 38576,
-      "likes": 9405,
-      "last_modified": "2025-01-06T00:02:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "08f827f19c6850d5a65a3422638502a4",
     "source": "huggingface",
     "type": "dataset",
     "title": "ytz20/LMSYS-Chat-GPT-5-Chat-Response",
-    "description": "Downloads: 193<br/>Likes: 17",
+    "description": "Downloads: 193<br/>Likes: 18",
     "url": "https://huggingface.co/datasets/ytz20/LMSYS-Chat-GPT-5-Chat-Response",
-    "published_date": "2025-11-20T09:25:22.034337+00:00",
+    "published_date": "2025-11-20T21:19:32.086942+00:00",
     "categories": [],
     "metadata": {
       "author": "ytz20",
       "item_name": "LMSYS-Chat-GPT-5-Chat-Response",
       "downloads": 193,
-      "likes": 17,
+      "likes": 18,
       "last_modified": "2025-11-17T03:52:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c648596bebda4ede449209de6d87f13b",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "eve-bio/drug-target-activity",
+    "description": "Downloads: 131<br/>Likes: 18",
+    "url": "https://huggingface.co/datasets/eve-bio/drug-target-activity",
+    "published_date": "2025-11-20T21:19:32.086947+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "eve-bio",
+      "item_name": "drug-target-activity",
+      "downloads": 131,
+      "likes": 18,
+      "last_modified": "2025-11-11T18:56:09.000Z",
       "all_tags": []
     }
   },
@@ -184,16 +166,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nex-agi/agent-sft",
-    "description": "Downloads: 96<br/>Likes: 15",
+    "description": "Downloads: 96<br/>Likes: 16",
     "url": "https://huggingface.co/datasets/nex-agi/agent-sft",
-    "published_date": "2025-11-20T09:25:22.034342+00:00",
+    "published_date": "2025-11-20T21:19:32.086951+00:00",
     "categories": [],
     "metadata": {
       "author": "nex-agi",
       "item_name": "agent-sft",
       "downloads": 96,
-      "likes": 15,
+      "likes": 16,
       "last_modified": "2025-11-19T07:28:48.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a27cbe9e5f2d626fdf475af5194a2c9a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "fka/awesome-chatgpt-prompts",
+    "description": "Downloads: 38,576<br/>Likes: 9406",
+    "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
+    "published_date": "2025-11-20T21:19:32.086957+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "fka",
+      "item_name": "awesome-chatgpt-prompts",
+      "downloads": 38576,
+      "likes": 9406,
+      "last_modified": "2025-01-06T00:02:53.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "98eddb1556a5d2ed8a6021dc0c5a7995",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "HuggingFaceFW/finepdfs-edu",
+    "description": "Downloads: 9,180<br/>Likes: 41",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs-edu",
+    "published_date": "2025-11-20T21:19:32.086962+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HuggingFaceFW",
+      "item_name": "finepdfs-edu",
+      "downloads": 9180,
+      "likes": 41,
+      "last_modified": "2025-11-11T18:49:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3cc5c9f25549e2648367de02a2dc6605",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "ArtificialAnalysis/AA-Omniscience-Public",
+    "description": "Downloads: 1,031<br/>Likes: 13",
+    "url": "https://huggingface.co/datasets/ArtificialAnalysis/AA-Omniscience-Public",
+    "published_date": "2025-11-20T21:19:32.086966+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "ArtificialAnalysis",
+      "item_name": "AA-Omniscience-Public",
+      "downloads": 1031,
+      "likes": 13,
+      "last_modified": "2025-11-20T11:52:11.000Z",
       "all_tags": []
     }
   },
@@ -202,15 +238,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Open-Bee/Honey-Data-15M",
-    "description": "Downloads: 119,856<br/>Likes: 94",
+    "description": "Downloads: 119,856<br/>Likes: 95",
     "url": "https://huggingface.co/datasets/Open-Bee/Honey-Data-15M",
-    "published_date": "2025-11-20T09:25:22.034348+00:00",
+    "published_date": "2025-11-20T21:19:32.086971+00:00",
     "categories": [],
     "metadata": {
       "author": "Open-Bee",
       "item_name": "Honey-Data-15M",
       "downloads": 119856,
-      "likes": 94,
+      "likes": 95,
       "last_modified": "2025-11-05T09:21:52.000Z",
       "all_tags": []
     }
@@ -220,70 +256,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finepdfs",
-    "description": "Downloads: 58,006<br/>Likes: 670",
+    "description": "Downloads: 58,006<br/>Likes: 672",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2025-11-20T09:25:22.034354+00:00",
+    "published_date": "2025-11-20T21:19:32.086976+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finepdfs",
       "downloads": 58006,
-      "likes": 670,
+      "likes": 672,
       "last_modified": "2025-11-11T18:49:22.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "1765335f32a9e870707da9c37eabb560",
+    "id": "384c4987d529b54a5332482b12faf7cf",
     "source": "huggingface",
     "type": "dataset",
-    "title": "HuggingFaceFW/finewiki",
-    "description": "Downloads: 27,384<br/>Likes: 258",
-    "url": "https://huggingface.co/datasets/HuggingFaceFW/finewiki",
-    "published_date": "2025-11-20T09:25:22.034359+00:00",
+    "title": "cais/hle",
+    "description": "Downloads: 14,041<br/>Likes: 524",
+    "url": "https://huggingface.co/datasets/cais/hle",
+    "published_date": "2025-11-20T21:19:32.086982+00:00",
     "categories": [],
     "metadata": {
-      "author": "HuggingFaceFW",
-      "item_name": "finewiki",
-      "downloads": 27384,
-      "likes": 258,
-      "last_modified": "2025-10-22T11:02:22.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3cc5c9f25549e2648367de02a2dc6605",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ArtificialAnalysis/AA-Omniscience-Public",
-    "description": "Downloads: 1,031<br/>Likes: 12",
-    "url": "https://huggingface.co/datasets/ArtificialAnalysis/AA-Omniscience-Public",
-    "published_date": "2025-11-20T09:25:22.034365+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ArtificialAnalysis",
-      "item_name": "AA-Omniscience-Public",
-      "downloads": 1031,
-      "likes": 12,
-      "last_modified": "2025-11-17T07:10:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c648596bebda4ede449209de6d87f13b",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "eve-bio/drug-target-activity",
-    "description": "Downloads: 131<br/>Likes: 14",
-    "url": "https://huggingface.co/datasets/eve-bio/drug-target-activity",
-    "published_date": "2025-11-20T09:25:22.034371+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "eve-bio",
-      "item_name": "drug-target-activity",
-      "downloads": 131,
-      "likes": 14,
-      "last_modified": "2025-11-11T18:56:09.000Z",
+      "author": "cais",
+      "item_name": "hle",
+      "downloads": 14041,
+      "likes": 524,
+      "last_modified": "2025-09-10T19:27:11.000Z",
       "all_tags": []
     }
   },
@@ -294,7 +294,7 @@
     "title": "nvidia/Nemotron-RL-instruction_following-structured_outputs",
     "description": "Downloads: 380<br/>Likes: 11",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-RL-instruction_following-structured_outputs",
-    "published_date": "2025-11-20T09:25:22.034378+00:00",
+    "published_date": "2025-11-20T21:19:32.086987+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -312,7 +312,7 @@
     "title": "Seikaijyu/Beautiful-Chinese",
     "description": "Downloads: 350<br/>Likes: 81",
     "url": "https://huggingface.co/datasets/Seikaijyu/Beautiful-Chinese",
-    "published_date": "2025-11-20T09:25:22.034384+00:00",
+    "published_date": "2025-11-20T21:19:32.086992+00:00",
     "categories": [],
     "metadata": {
       "author": "Seikaijyu",
@@ -324,38 +324,38 @@
     }
   },
   {
-    "id": "0c2b68277eec9565fdbc7398bb329610",
+    "id": "1765335f32a9e870707da9c37eabb560",
     "source": "huggingface",
     "type": "dataset",
-    "title": "facebook/principia-collection",
-    "description": "Downloads: 2,296<br/>Likes: 37",
-    "url": "https://huggingface.co/datasets/facebook/principia-collection",
-    "published_date": "2025-11-20T09:25:22.034390+00:00",
+    "title": "HuggingFaceFW/finewiki",
+    "description": "Downloads: 27,384<br/>Likes: 258",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/finewiki",
+    "published_date": "2025-11-20T21:19:32.086997+00:00",
     "categories": [],
     "metadata": {
-      "author": "facebook",
-      "item_name": "principia-collection",
-      "downloads": 2296,
-      "likes": 37,
-      "last_modified": "2025-11-09T05:12:14.000Z",
+      "author": "HuggingFaceFW",
+      "item_name": "finewiki",
+      "downloads": 27384,
+      "likes": 258,
+      "last_modified": "2025-10-22T11:02:22.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "384c4987d529b54a5332482b12faf7cf",
+    "id": "79e06212f14a15251743c51dae6752b1",
     "source": "huggingface",
     "type": "dataset",
-    "title": "cais/hle",
-    "description": "Downloads: 14,041<br/>Likes: 522",
-    "url": "https://huggingface.co/datasets/cais/hle",
-    "published_date": "2025-11-20T09:25:22.034396+00:00",
+    "title": "miromind-ai/MiroVerse-v0.1",
+    "description": "Downloads: 493<br/>Likes: 85",
+    "url": "https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1",
+    "published_date": "2025-11-20T21:19:32.087001+00:00",
     "categories": [],
     "metadata": {
-      "author": "cais",
-      "item_name": "hle",
-      "downloads": 14041,
-      "likes": 522,
-      "last_modified": "2025-09-10T19:27:11.000Z",
+      "author": "miromind-ai",
+      "item_name": "MiroVerse-v0.1",
+      "downloads": 493,
+      "likes": 85,
+      "last_modified": "2025-11-19T02:57:14.000Z",
       "all_tags": []
     }
   }
