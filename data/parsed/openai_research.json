@@ -1,5 +1,56 @@
 [
     {
+        "id": "3a40213ef23ea9cb083d60f173b66831",
+        "source": "openai",
+        "type": "research",
+        "title": "Early experiments in accelerating science with GPT-5",
+        "description": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
+        "url": "https://openai.com/index/accelerating-science-gpt-5/",
+        "published_date": "2025-11-20T00:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
+        "id": "87486d1e9b976754ee6cf23212d14dc7",
+        "source": "openai",
+        "type": "publication",
+        "title": "GPT-5.1-Codex-Max System Card",
+        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+        "url": "https://openai.com/index/gpt-5-1-codex-max-system-card/",
+        "published_date": "2025-11-19T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "49046311c4be2fcb23f716f2a199926d",
+        "source": "openai",
+        "type": "product",
+        "title": "Building more with GPT-5.1-Codex-Max",
+        "description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+        "url": "https://openai.com/index/gpt-5-1-codex-max/",
+        "published_date": "2025-11-19T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
         "id": "76786030386ff19d3670fbfb28012430",
         "source": "openai",
         "type": "research",
@@ -85,23 +136,6 @@
         "objects": []
     },
     {
-        "id": "3601f3ad341eb27939506c0f5e361225",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-oss-safeguard",
-        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "954f63c357c5dc716c95f20c1fc7d84f",
         "source": "openai",
         "type": "safety",
@@ -115,40 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
-        "id": "2fad364d831037ee94c4b914d2314855",
-        "source": "openai",
-        "type": "safety",
-        "title": "Addendum to GPT-5 System Card: Sensitive conversations",
-        "description": "This system card details GPT-5\u2019s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-        "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations/",
-        "published_date": "2025-10-27T10:00:00+00:00",
-        "categories": [
-            "Safety"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Safety"
-        },
-        "objects": []
-    },
-    {
-        "id": "d1962a3e021e8e22e6986ad0c3c73d35",
-        "source": "openai",
-        "type": "research",
-        "title": "Defining and evaluating political bias in LLMs",
-        "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-        "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms/",
-        "published_date": "2025-10-09T13:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
         },
         "objects": []
     }

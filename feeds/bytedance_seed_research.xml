@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_research</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-11-21T09:25:41.217700+00:00</updated>
+  <updated>2025-11-21T21:19:22.086312+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -26,12 +26,14 @@
     <summary>Predictive simulation of surface chemistry is critical in fields from catalysis to electrochemistry and clean energy generation. Ab-initio quantum many-body methods should offer deep insights into these systems at the electronic level but are limited by their steep computational cost. Here, we build upon state-of-the-art correlated wavefunctions to reliably reach ‘gold standard’ accuracy in quantum chemistry for extended surface chemistry. Efficiently harnessing graphics processing unit acceleration along with systematically improvable multi-resolution techniques, we achieve linear computational scaling up to 392 atoms. These large-scale simulations demonstrate the importance of converging to these extended system sizes, achieving consistency between simulations with different boundary conditions for the interaction of water on a graphene surface. We provide a benchmark for this water-graphene interaction that clarifies the preference for water orientations at the graphene interface. This is extended to the adsorption of carbonaceous molecules on chemically complex surfaces, including metal oxides and metal-organic frameworks, where we consistently achieve chemical accuracy compared to experimental references. This advances the simulation of molecular adsorption on surfaces, enabling reliable and improvable first-principles modeling of such problems by ab-initio quantum many-body methods.</summary>
   </entry>
   <entry>
-    <title>Robix: A Unified Model for Robot Interaction, Reasoning and Planning</title>
-    <id>dccf1debfc24b5c01efdc33b3731c87d</id>
-    <link href="https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning"/>
-    <updated>2025-08-31T16:00:00+00:00</updated>
-    <category term="Robotics"/>
-    <summary>We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines—including GPT-4o and Gemini 2.5 Pro—in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.</summary>
+    <title>PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders</title>
+    <id>1e036357cdb955e85a05415daa514173</id>
+    <link href="https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders"/>
+    <updated>2025-09-01T16:00:00+00:00</updated>
+    <category term="Molecular Biology"/>
+    <summary>PXDesign achieves nanomolar binder hit rates of 20–73% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.
+
+To support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.</summary>
   </entry>
   <entry>
     <title>Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference</title>

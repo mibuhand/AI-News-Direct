@@ -68,38 +68,38 @@
         "external_url": "https://www.nature.com/articles/s41467-025-64374-2"
     },
     {
-        "id": "dccf1debfc24b5c01efdc33b3731c87d",
+        "id": "1e036357cdb955e85a05415daa514173",
         "source": "bytedance_seed",
         "type": "research",
-        "title": "Robix: A Unified Model for Robot Interaction, Reasoning and Planning",
-        "description": "We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines\u2014including GPT-4o and Gemini 2.5 Pro\u2014in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.",
-        "url": "https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning",
-        "published_date": "2025-08-31T16:00:00+00:00",
+        "title": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
+        "description": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
+        "url": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
+        "published_date": "2025-09-01T16:00:00+00:00",
         "categories": [
-            "Robotics"
+            "Molecular Biology"
         ],
         "organization": "ByteDance Seed",
         "metadata": {
-            "author": "Huang Fang, Mengxi Zhang, Heng Dong, Wei Li, Zixuan Wang, Qifeng Zhang, Xueyun Tian, Yucheng Hu, Hang Li",
+            "author": "Milong Ren,  Jinyuan Sun, Jiaqi Guan,  Cong Liu,  Chengyue Gong,  Yuzhe Wang, Lan Wang, Qixu Cai,  Xinshi Chen, Wenzhi Xiao, Protenix Team",
             "journal": "arXiv",
             "work_team": [
-                "Robotics"
+                "AI for Science"
             ]
         },
         "objects": [],
         "title_localized": {
-            "en": "Robix: A Unified Model for Robot Interaction, Reasoning and Planning",
+            "en": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
             "zh": ""
         },
         "description_localized": {
-            "en": "We introduce Robix, a unified vision-language model designed to serve as the high-level cognitive layer in a hierarchical robot system, integrating robot reasoning, task planning, and natural language interaction within a single architecture. Robix dynamically generates atomic commands for low-level controllers alongside verbal responses for human interaction, enabling end-to-end execution of complex instructions, long-horizon task planning, and natural human-robot collaboration. The model also introduces novel capabilities such as proactive dialogue, real-time interruption handling, and context-aware commonsense reasoning during task execution. At its core, Robix employs chain-of-thought reasoning and is trained through a three-stage strategy: (1) continued pretraining to enhance embodied reasoning skills like 3D spatial understanding, visual grounding, and task-centric reasoning; (2) supervised finetuning to model human-robot interaction and task planning as a unified reasoning-action sequence; and (3) reinforcement learning to improve reasoning-action consistency and long-horizon task coherence. Extensive experiments show that Robix outperforms both open-source and commercial baselines\u2014including GPT-4o and Gemini 2.5 Pro\u2014in interactive task execution, demonstrating strong generalization across diverse instruction types (e.g., open-ended, multi-stage, constrained, invalid, and interrupted) and various user-involved tasks such as table bussing, grocery shopping, and dietary filtering.",
+            "en": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
             "zh": ""
         },
         "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning",
+            "en": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
             "zh": "https://seed.bytedance.com/zh/research/"
         },
-        "external_url": "https://arxiv.org/pdf/2509.01106"
+        "external_url": "https://www.biorxiv.org/content/10.1101/2025.08.15.670450v2.article-info"
     },
     {
         "id": "8f1e44e3aac7cd5fa04c560f77ce7d73",
