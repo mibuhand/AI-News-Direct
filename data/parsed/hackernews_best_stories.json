@@ -10,9 +10,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 877,
+      "score": 1095,
       "author": "ChrisArchitect",
-      "comments": 117,
+      "comments": 135,
       "hn_id": 46025942
     },
     "objects": []
@@ -28,28 +28,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 877,
+      "score": 922,
       "author": "eatitraw",
-      "comments": 402,
+      "comments": 423,
       "hn_id": 46021825
     },
     "objects": []
   },
   {
-    "id": "d3a4119d81bee5ede236061549edfe29",
+    "id": "41536cdb59cbadf3aacfd5797b517bb8",
     "source": "hackernews",
     "type": "story",
-    "title": "The privacy nightmare of browser fingerprinting",
+    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
     "description": "",
-    "url": "https://kevinboone.me/fingerprinting.html",
-    "published_date": "2025-11-22T17:08:36+00:00",
+    "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "published_date": "2025-11-24T10:40:22+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 724,
-      "author": "ingve",
-      "comments": 416,
-      "hn_id": 46016249
+      "score": 740,
+      "author": "mrdosija",
+      "comments": 639,
+      "hn_id": 46032539
     },
     "objects": []
   },
@@ -64,9 +64,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 651,
+      "score": 672,
       "author": "pseudolus",
-      "comments": 280,
+      "comments": 289,
       "hn_id": 46019817
     },
     "objects": []
@@ -82,10 +82,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 601,
+      "score": 611,
       "author": "vedmed",
-      "comments": 318,
+      "comments": 325,
       "hn_id": 46019685
+    },
+    "objects": []
+  },
+  {
+    "id": "deeb1892df22740719215015ebc7ed2b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+    "description": "",
+    "url": "https://mamot.fr/@LaQuadrature/115581775965025042",
+    "published_date": "2025-11-24T17:00:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 552,
+      "author": "nabakin",
+      "comments": 1,
+      "hn_id": 46036217
     },
     "objects": []
   },
@@ -100,100 +118,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 433,
+      "score": 519,
       "author": "ourmandave",
-      "comments": 218,
+      "comments": 277,
       "hn_id": 46028422
     },
     "objects": []
   },
   {
-    "id": "f0e59c35d46fd034ae3a3e4925a15376",
+    "id": "a5e5634e11e573b2f7530efa85afbd29",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+    "title": "Claude Opus 4.5",
     "description": "",
-    "url": "https://forty.news",
-    "published_date": "2025-11-22T18:47:08+00:00",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5",
+    "published_date": "2025-11-24T18:53:05+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 422,
-      "author": "foxbarrington",
-      "comments": 168,
-      "hn_id": 46017175
-    },
-    "objects": []
-  },
-  {
-    "id": "4171634a77a35cf1cb223bb6ed8ae397",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Agent design is still hard",
-    "description": "",
-    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-    "published_date": "2025-11-22T11:27:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 409,
-      "author": "the_mitsuhiko",
-      "comments": 246,
-      "hn_id": 46013935
-    },
-    "objects": []
-  },
-  {
-    "id": "0efb82cc91e61c5c6cdde483a5095800",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Native Secure Enclave backed SSH keys on macOS",
-    "description": "",
-    "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
-    "published_date": "2025-11-23T17:55:11+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 378,
-      "author": "arianvanp",
-      "comments": 159,
-      "hn_id": 46025721
-    },
-    "objects": []
-  },
-  {
-    "id": "99c5bbbb37f4e42f2c9cc277c8d30ca2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
-    "description": "",
-    "url": "https://www.makingsoftware.com/chapters/shaders",
-    "published_date": "2025-11-23T12:26:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 376,
-      "author": "Garbage",
-      "comments": 82,
-      "hn_id": 46023013
-    },
-    "objects": []
-  },
-  {
-    "id": "6fa02f114c6ed02ddf672db7ec0af1bc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Court filings allege Meta downplayed risks to children and misled the public",
-    "description": "",
-    "url": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
-    "published_date": "2025-11-23T15:18:00+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 373,
-      "author": "binning",
-      "comments": 151,
-      "hn_id": 46024184
+      "score": 508,
+      "author": "adocomplete",
+      "comments": 206,
+      "hn_id": 46037637
     },
     "objects": []
   },
@@ -208,82 +154,100 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 367,
+      "score": 459,
       "author": "bookofjoe",
-      "comments": 415,
+      "comments": 556,
       "hn_id": 46027833
     },
     "objects": []
   },
   {
-    "id": "134131b4f2a66c265492b7e1689c19da",
+    "id": "0efb82cc91e61c5c6cdde483a5095800",
     "source": "hackernews",
     "type": "story",
-    "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
+    "title": "Native Secure Enclave backed SSH keys on macOS",
     "description": "",
-    "url": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
-    "published_date": "2025-11-22T17:49:27+00:00",
+    "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+    "published_date": "2025-11-23T17:55:11+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 334,
-      "author": "surprisetalk",
-      "comments": 297,
-      "hn_id": 46016639
+      "score": 446,
+      "author": "arianvanp",
+      "comments": 186,
+      "hn_id": 46025721
     },
     "objects": []
   },
   {
-    "id": "3aff40364e17a70bdef3af39bc3cf79d",
+    "id": "6fa02f114c6ed02ddf672db7ec0af1bc",
     "source": "hackernews",
     "type": "story",
-    "title": "The realities of being a pop star",
+    "title": "Court filings allege Meta downplayed risks to children and misled the public",
     "description": "",
-    "url": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
-    "published_date": "2025-11-22T17:47:23+00:00",
+    "url": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
+    "published_date": "2025-11-23T15:18:00+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 330,
-      "author": "lovestory",
-      "comments": 227,
-      "hn_id": 46016613
+      "score": 394,
+      "author": "binning",
+      "comments": 161,
+      "hn_id": 46024184
     },
     "objects": []
   },
   {
-    "id": "f7440f433488f11f2e22f00e6e46d624",
+    "id": "99c5bbbb37f4e42f2c9cc277c8d30ca2",
     "source": "hackernews",
     "type": "story",
-    "title": "In a U.S. First, New Mexico Opens Doors to Free Child Care for All",
+    "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
     "description": "",
-    "url": "https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96",
-    "published_date": "2025-11-22T16:11:12+00:00",
+    "url": "https://www.makingsoftware.com/chapters/shaders",
+    "published_date": "2025-11-23T12:26:30+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 312,
-      "author": "nairteashop",
-      "comments": 506,
-      "hn_id": 46015763
+      "score": 388,
+      "author": "Garbage",
+      "comments": 85,
+      "hn_id": 46023013
     },
     "objects": []
   },
   {
-    "id": "d794e408d15aa216e19837e9fdf752e4",
+    "id": "825596bec5c07ec09195837e63285e34",
     "source": "hackernews",
     "type": "story",
-    "title": "Racket v9.0",
+    "title": "Pebble Watch software is now 100% open source",
     "description": "",
-    "url": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
-    "published_date": "2025-11-23T13:35:27+00:00",
+    "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+    "published_date": "2025-11-24T18:52:12+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 311,
-      "author": "Fice",
-      "comments": 106,
-      "hn_id": 46023460
+      "score": 373,
+      "author": "Larrikin",
+      "comments": 75,
+      "hn_id": 46037626
+    },
+    "objects": []
+  },
+  {
+    "id": "bb62bcfef5b37a4cf476a8ac0dd7d967",
+    "source": "hackernews",
+    "type": "story",
+    "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+    "description": "",
+    "url": "https://microcad.xyz/",
+    "published_date": "2025-11-23T20:51:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 370,
+      "author": "todsacerdoti",
+      "comments": 120,
+      "hn_id": 46027216
     },
     "objects": []
   },
@@ -298,46 +262,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 293,
+      "score": 345,
       "author": "o4c",
-      "comments": 67,
+      "comments": 73,
       "hn_id": 46024773
     },
     "objects": []
   },
   {
-    "id": "f9bb720ce7e9bf85b7c369c77844279e",
+    "id": "45d6a3c9cbf6d8193dfe3e17ae60b503",
     "source": "hackernews",
     "type": "story",
-    "title": "WorldGen – Text to Immersive 3D Worlds",
+    "title": "Shai Hulud launches second supply-chain attack",
     "description": "",
-    "url": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
-    "published_date": "2025-11-22T21:20:24+00:00",
+    "url": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
+    "published_date": "2025-11-24T16:03:36+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 249,
-      "author": "smusamashah",
-      "comments": 81,
-      "hn_id": 46018380
+      "score": 337,
+      "author": "birdculture",
+      "comments": 19,
+      "hn_id": 46035533
     },
     "objects": []
   },
   {
-    "id": "888cee6895da4b1148b9ad5dad6d58c4",
+    "id": "a22f616530e16bca4be4a754c49c45f0",
     "source": "hackernews",
     "type": "story",
-    "title": "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
+    "title": "Ask HN: Hearing aid wearers, what's hot?",
     "description": "",
-    "url": "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082",
-    "published_date": "2025-11-22T21:11:15+00:00",
+    "url": "https://news.ycombinator.com/item?id=46029699",
+    "published_date": "2025-11-24T02:25:39+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 249,
-      "author": "donsupreme",
-      "comments": 99,
-      "hn_id": 46018292
+      "score": 327,
+      "author": "pugworthy",
+      "comments": 194,
+      "hn_id": 46029699
+    },
+    "objects": []
+  },
+  {
+    "id": "d794e408d15aa216e19837e9fdf752e4",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Racket v9.0",
+    "description": "",
+    "url": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
+    "published_date": "2025-11-23T13:35:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 327,
+      "author": "Fice",
+      "comments": 120,
+      "hn_id": 46023460
+    },
+    "objects": []
+  },
+  {
+    "id": "ecd85d7e4a34085412b9669708d0aa89",
+    "source": "hackernews",
+    "type": "story",
+    "title": "RuBee",
+    "description": "",
+    "url": "https://computer.rip/2025-11-22-RuBee.html",
+    "published_date": "2025-11-24T03:08:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 325,
+      "author": "Sniffnoy",
+      "comments": 56,
+      "hn_id": 46029932
     },
     "objects": []
   },
@@ -352,10 +352,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 246,
+      "score": 285,
       "author": "dwohnitmok",
-      "comments": 46,
+      "comments": 75,
       "hn_id": 46017972
+    },
+    "objects": []
+  },
+  {
+    "id": "8515ba0853d85194cd7a71a1c91c4662",
+    "source": "hackernews",
+    "type": "story",
+    "title": "NSA and IETF, part 3: Dodging the issues at hand",
+    "description": "",
+    "url": "https://blog.cr.yp.to/20251123-dodging.html",
+    "published_date": "2025-11-24T12:00:55+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 275,
+      "author": "upofadown",
+      "comments": 139,
+      "hn_id": 46033151
+    },
+    "objects": []
+  },
+  {
+    "id": "b637f85dcaca511762e309bdf942849e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/c8676qpxgnqo",
+    "published_date": "2025-11-24T03:07:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 272,
+      "author": "1659447091",
+      "comments": 404,
+      "hn_id": 46029929
     },
     "objects": []
   },
@@ -370,10 +406,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 242,
+      "score": 264,
       "author": "m463",
-      "comments": 219,
+      "comments": 251,
       "hn_id": 46026579
+    },
+    "objects": []
+  },
+  {
+    "id": "dc17069d31b9f8f69b1bb3526e834eb1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "X Just Accidentally Exposed a Covert Influence Network Targeting Americans",
+    "description": "",
+    "url": "https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast",
+    "published_date": "2025-11-24T16:07:40+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 258,
+      "author": "adriand",
+      "comments": 172,
+      "hn_id": 46035574
+    },
+    "objects": []
+  },
+  {
+    "id": "888cee6895da4b1148b9ad5dad6d58c4",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
+    "description": "",
+    "url": "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082",
+    "published_date": "2025-11-22T21:11:15+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 253,
+      "author": "donsupreme",
+      "comments": 103,
+      "hn_id": 46018292
+    },
+    "objects": []
+  },
+  {
+    "id": "f9bb720ce7e9bf85b7c369c77844279e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "WorldGen – Text to Immersive 3D Worlds",
+    "description": "",
+    "url": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+    "published_date": "2025-11-22T21:20:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 251,
+      "author": "smusamashah",
+      "comments": 81,
+      "hn_id": 46018380
     },
     "objects": []
   },
@@ -388,9 +478,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 237,
+      "score": 248,
       "author": "ingve",
-      "comments": 198,
+      "comments": 221,
       "hn_id": 46025196
     },
     "objects": []
@@ -406,10 +496,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 228,
+      "score": 238,
       "author": "kllrnohj",
-      "comments": 189,
+      "comments": 196,
       "hn_id": 46024644
+    },
+    "objects": []
+  },
+  {
+    "id": "014ec47262e20c1f8b3b80c70d60f593",
+    "source": "hackernews",
+    "type": "story",
+    "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+    "description": "",
+    "url": "https://mamot.fr/@LaQuadrature/115581775965025042",
+    "published_date": "2025-11-24T16:40:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 233,
+      "author": "nabakin",
+      "comments": 284,
+      "hn_id": 46035977
+    },
+    "objects": []
+  },
+  {
+    "id": "afbb9170f410783717c15e037ecc1bbe",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The Cloudflare outage might be a good thing",
+    "description": "",
+    "url": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+    "published_date": "2025-11-24T03:04:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 230,
+      "author": "radeeyate",
+      "comments": 165,
+      "hn_id": 46029908
+    },
+    "objects": []
+  },
+  {
+    "id": "b5d64d9f1e3e4d9f5c33f01f8b44668a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "We stopped roadmap work for a week and fixed bugs",
+    "description": "",
+    "url": "https://lalitm.com/fixits-are-good-for-the-soul/",
+    "published_date": "2025-11-23T16:06:46+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 228,
+      "author": "lalitmaganti",
+      "comments": 295,
+      "hn_id": 46024541
     },
     "objects": []
   },
@@ -424,28 +568,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 222,
+      "score": 225,
       "author": "edelsohn",
-      "comments": 98,
+      "comments": 109,
       "hn_id": 46020151
-    },
-    "objects": []
-  },
-  {
-    "id": "5d688956c1fbec873848d1a4fe94194f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Markdown is holding you back",
-    "description": "",
-    "url": "https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/",
-    "published_date": "2025-11-22T20:03:14+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 222,
-      "author": "zdw",
-      "comments": 174,
-      "hn_id": 46017782
     },
     "objects": []
   },
@@ -460,64 +586,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 215,
+      "score": 216,
       "author": "Stratoscope",
-      "comments": 52,
+      "comments": 56,
       "hn_id": 46020543
-    },
-    "objects": []
-  },
-  {
-    "id": "bb62bcfef5b37a4cf476a8ac0dd7d967",
-    "source": "hackernews",
-    "type": "story",
-    "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
-    "description": "",
-    "url": "https://microcad.xyz/",
-    "published_date": "2025-11-23T20:51:22+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 206,
-      "author": "todsacerdoti",
-      "comments": 55,
-      "hn_id": 46027216
-    },
-    "objects": []
-  },
-  {
-    "id": "ecd85d7e4a34085412b9669708d0aa89",
-    "source": "hackernews",
-    "type": "story",
-    "title": "RuBee",
-    "description": "",
-    "url": "https://computer.rip/2025-11-22-RuBee.html",
-    "published_date": "2025-11-24T03:08:10+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 204,
-      "author": "Sniffnoy",
-      "comments": 31,
-      "hn_id": 46029932
-    },
-    "objects": []
-  },
-  {
-    "id": "6daa5f626eb53cb1f1216f733a1f1255",
-    "source": "hackernews",
-    "type": "story",
-    "title": "'The French people want to save us': help pours in for glassmaker Duralex",
-    "description": "",
-    "url": "https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex",
-    "published_date": "2025-11-22T15:14:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 196,
-      "author": "n1b0m",
-      "comments": 130,
-      "hn_id": 46015379
     },
     "objects": []
   },
@@ -532,28 +604,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 194,
+      "score": 208,
       "author": "jkbyc",
-      "comments": 95,
+      "comments": 109,
       "hn_id": 46026939
-    },
-    "objects": []
-  },
-  {
-    "id": "4b3cc601bfc65a0c2db512cf495b86af",
-    "source": "hackernews",
-    "type": "story",
-    "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
-    "description": "",
-    "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
-    "published_date": "2025-11-23T00:35:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 187,
-      "author": "bmurray7jhu",
-      "comments": 89,
-      "hn_id": 46019636
     },
     "objects": []
   },
@@ -568,9 +622,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 183,
+      "score": 201,
       "author": "eln1",
-      "comments": 81,
+      "comments": 92,
       "hn_id": 46021179
     },
     "objects": []
@@ -586,10 +640,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 183,
+      "score": 189,
       "author": "mercury24aug",
-      "comments": 117,
+      "comments": 119,
       "hn_id": 46020502
+    },
+    "objects": []
+  },
+  {
+    "id": "4b3cc601bfc65a0c2db512cf495b86af",
+    "source": "hackernews",
+    "type": "story",
+    "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
+    "description": "",
+    "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+    "published_date": "2025-11-23T00:35:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 188,
+      "author": "bmurray7jhu",
+      "comments": 91,
+      "hn_id": 46019636
+    },
+    "objects": []
+  },
+  {
+    "id": "b6a19471492360985fdc106278964a90",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
+    "description": "",
+    "url": "https://gibberifier.com",
+    "published_date": "2025-11-24T03:00:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 181,
+      "author": "wdpatti",
+      "comments": 96,
+      "hn_id": 46029889
+    },
+    "objects": []
+  },
+  {
+    "id": "ceae6af53f12302a2434d46cbf2565f6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Chrome Jpegxl Issue Reopened",
+    "description": "",
+    "url": "https://issues.chromium.org/issues/40168998",
+    "published_date": "2025-11-24T12:23:02+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 178,
+      "author": "markdog12",
+      "comments": 66,
+      "hn_id": 46033330
     },
     "objects": []
   },
@@ -612,24 +720,6 @@
     "objects": []
   },
   {
-    "id": "a22f616530e16bca4be4a754c49c45f0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ask HN: Hearing aid wearers, what's hot?",
-    "description": "",
-    "url": "https://news.ycombinator.com/item?id=46029699",
-    "published_date": "2025-11-24T02:25:39+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 171,
-      "author": "pugworthy",
-      "comments": 87,
-      "hn_id": 46029699
-    },
-    "objects": []
-  },
-  {
     "id": "56a03127cdbfd3dc6cbea928a2e03138",
     "source": "hackernews",
     "type": "story",
@@ -640,28 +730,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 164,
+      "score": 172,
       "author": "signa11",
-      "comments": 1,
+      "comments": 2,
       "hn_id": 46029772
-    },
-    "objects": []
-  },
-  {
-    "id": "90196c82e881f29b5a637fb5bf095cdd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Silicon Valley startups: being evil, again and again",
-    "description": "",
-    "url": "https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again",
-    "published_date": "2025-11-23T11:32:15+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 157,
-      "author": "iSpiderman",
-      "comments": 116,
-      "hn_id": 46022704
     },
     "objects": []
   },
@@ -676,28 +748,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 143,
+      "score": 160,
       "author": "redpenguin101",
-      "comments": 36,
+      "comments": 50,
       "hn_id": 46024032
     },
     "objects": []
   },
   {
-    "id": "afbb9170f410783717c15e037ecc1bbe",
+    "id": "90196c82e881f29b5a637fb5bf095cdd",
     "source": "hackernews",
     "type": "story",
-    "title": "The Cloudflare outage might be a good thing",
+    "title": "Silicon Valley startups: being evil, again and again",
     "description": "",
-    "url": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
-    "published_date": "2025-11-24T03:04:10+00:00",
+    "url": "https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again",
+    "published_date": "2025-11-23T11:32:15+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 139,
-      "author": "radeeyate",
-      "comments": 111,
-      "hn_id": 46029908
+      "score": 159,
+      "author": "iSpiderman",
+      "comments": 121,
+      "hn_id": 46022704
     },
     "objects": []
   },
@@ -712,10 +784,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 133,
+      "score": 149,
       "author": "byko3y",
-      "comments": 213,
+      "comments": 273,
       "hn_id": 46027709
+    },
+    "objects": []
+  },
+  {
+    "id": "0487229068a60df31e85d7c59d9e7f25",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Ego, empathy, and humility at work",
+    "description": "",
+    "url": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
+    "published_date": "2025-11-24T02:01:02+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 148,
+      "author": "mrmatthogg",
+      "comments": 49,
+      "hn_id": 46029534
     },
     "objects": []
   },
@@ -730,118 +820,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 133,
+      "score": 140,
       "author": "cf100clunk",
-      "comments": 49,
+      "comments": 54,
       "hn_id": 46024584
     },
     "objects": []
   },
   {
-    "id": "a3f60363d727d32f89a4704b72dd2e5d",
+    "id": "95a28c8f8eec116867f1e305e531c606",
     "source": "hackernews",
     "type": "story",
-    "title": "Germany to classify date rape drugs as weapons to ensure justice for survivors",
+    "title": "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
     "description": "",
-    "url": "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors",
-    "published_date": "2025-11-23T01:00:04+00:00",
+    "url": "https://cruzgodar.com/applets/lambda-calculus",
+    "published_date": "2025-11-24T05:17:15+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 121,
-      "author": "binning",
-      "comments": 60,
-      "hn_id": 46019760
-    },
-    "objects": []
-  },
-  {
-    "id": "93b4cb9da2cb7b28aa5e739f841900cf",
-    "source": "hackernews",
-    "type": "story",
-    "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
-    "description": "",
-    "url": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
-    "published_date": "2025-11-22T20:54:02+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 119,
-      "author": "19h",
-      "comments": 45,
-      "hn_id": 46018158
-    },
-    "objects": []
-  },
-  {
-    "id": "cc125eac91e5bcbf22874a544086555f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ask HN: Good resources to learn financial systems engineering?",
-    "description": "",
-    "url": "https://news.ycombinator.com/item?id=46024753",
-    "published_date": "2025-11-23T16:30:08+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 118,
-      "author": "_1tan",
-      "comments": 23,
-      "hn_id": 46024753
-    },
-    "objects": []
-  },
-  {
-    "id": "e598725c0f315eee9afd8e810e06bb4b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Apple to focus on 'quality and underlying performance' with iOS 27 next year",
-    "description": "",
-    "url": "https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/",
-    "published_date": "2025-11-23T18:19:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 114,
-      "author": "jb1991",
-      "comments": 96,
-      "hn_id": 46025933
-    },
-    "objects": []
-  },
-  {
-    "id": "5cb768dc0eacb9f248f5d901573e80c5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "An Economy of AI Agents",
-    "description": "",
-    "url": "https://arxiv.org/abs/2509.01063",
-    "published_date": "2025-11-23T02:08:00+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 114,
-      "author": "nerder92",
-      "comments": 73,
-      "hn_id": 46020096
-    },
-    "objects": []
-  },
-  {
-    "id": "1d42d2f5b8d0589ddf218bd3557cc170",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Signal knows who you're talking to (2023)",
-    "description": "",
-    "url": "https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/",
-    "published_date": "2025-11-23T10:22:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 112,
-      "author": "kekqqq",
-      "comments": 145,
-      "hn_id": 46022279
+      "score": 134,
+      "author": "perryprog",
+      "comments": 8,
+      "hn_id": 46030613
     },
     "objects": []
   },
@@ -856,46 +856,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 109,
+      "score": 134,
       "author": "the_mitsuhiko",
-      "comments": 104,
+      "comments": 125,
       "hn_id": 46028721
     },
     "objects": []
   },
   {
-    "id": "41ef52f9a5669c29d97e67a7a0afae99",
+    "id": "cc125eac91e5bcbf22874a544086555f",
     "source": "hackernews",
     "type": "story",
-    "title": "ADHD and monotropism (2023)",
+    "title": "Ask HN: Good resources to learn financial systems engineering?",
     "description": "",
-    "url": "https://monotropism.org/adhd/",
-    "published_date": "2025-11-22T11:31:30+00:00",
+    "url": "https://news.ycombinator.com/item?id=46024753",
+    "published_date": "2025-11-23T16:30:08+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 109,
-      "author": "wonger_",
-      "comments": 85,
-      "hn_id": 46013960
+      "score": 129,
+      "author": "_1tan",
+      "comments": 24,
+      "hn_id": 46024753
     },
     "objects": []
   },
   {
-    "id": "1de850e864e52d57345f203549577489",
+    "id": "5cb768dc0eacb9f248f5d901573e80c5",
     "source": "hackernews",
     "type": "story",
-    "title": "Dark Mode Sucks",
+    "title": "An Economy of AI Agents",
     "description": "",
-    "url": "https://www.tomechangosubanana.com/2025/dark-mode-sucks/",
-    "published_date": "2025-11-23T16:45:33+00:00",
+    "url": "https://arxiv.org/abs/2509.01063",
+    "published_date": "2025-11-23T02:08:00+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 106,
-      "author": "4dm1r4lg3n3r4l",
-      "comments": 150,
-      "hn_id": 46024894
+      "score": 128,
+      "author": "nerder92",
+      "comments": 89,
+      "hn_id": 46020096
     },
     "objects": []
   }
