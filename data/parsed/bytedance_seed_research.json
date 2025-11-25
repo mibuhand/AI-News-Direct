@@ -102,40 +102,6 @@
         "external_url": "https://www.biorxiv.org/content/10.1101/2025.08.15.670450v2.article-info"
     },
     {
-        "id": "8f1e44e3aac7cd5fa04c560f77ce7d73",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference",
-        "description": "We present Seed Diffusion Preview, a large-scale language model based on discrete-state diffusion, offering remarkably fast inference speed. Thanks to non-sequential, parallel generation, discrete diffusion models provide a notable speedup to mitigate the inherent latency of token-by-token decoding, as demonstrated recently (e.g., Mercury Coder, Gemini Diffusion). Seed Diffusion Preview achieves an inference speed of 2,146 token/s over H20 GPUs while maintaining competitive performance across a sweep of standard code evaluation benchmarks, significantly faster than contemporary Mercury and Gemini Diffusion, establishing new state of the art on the speed-quality Pareto frontier for code models.",
-        "url": "https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference",
-        "published_date": "2025-08-03T16:00:00+00:00",
-        "categories": [
-            "Computation and Language"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Yuxuan Song, Zheng Zhang, Cheng Luo, Pengyang Gao, Fan Xia, Hao Luo, Zheng Li, Yuehang Yang, Hongli Yu, Xingwei Qu, Yuwei Fu, Jing Su, Ge Zhang, Wenhao Huang, Mingxuan Wang, Lin Yan, Xiaoying Jia, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Yonghui Wu, Hao Zhou",
-            "journal": "arXiv",
-            "work_team": [
-                "LLM"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "We present Seed Diffusion Preview, a large-scale language model based on discrete-state diffusion, offering remarkably fast inference speed. Thanks to non-sequential, parallel generation, discrete diffusion models provide a notable speedup to mitigate the inherent latency of token-by-token decoding, as demonstrated recently (e.g., Mercury Coder, Gemini Diffusion). Seed Diffusion Preview achieves an inference speed of 2,146 token/s over H20 GPUs while maintaining competitive performance across a sweep of standard code evaluation benchmarks, significantly faster than contemporary Mercury and Gemini Diffusion, establishing new state of the art on the speed-quality Pareto frontier for code models.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://arxiv.org/pdf/2508.02193"
-    },
-    {
         "id": "fa1600a231b65e2a2dbc3cdd326f6eed",
         "source": "bytedance_seed",
         "type": "research",
@@ -202,5 +168,39 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/pdf/2507.17527"
+    },
+    {
+        "id": "9dda18f5eed207192692ce971bef448b",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
+        "description": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
+        "url": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
+        "published_date": "2025-03-13T16:00:00+00:00",
+        "categories": [
+            " Strongly Correlated Electrons"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Xiang Li, Yixiao Chen, Bohao Li, Haoxiang Chen, Fengcheng Wu, Ji Chen, Weiluo Ren",
+            "journal": "arXiv",
+            "work_team": [
+                "AI for Science"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2503.11756"
     }
 ]
