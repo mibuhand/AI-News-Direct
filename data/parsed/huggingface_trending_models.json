@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Tongyi-MAI/Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 31,451<br/>Likes: 1299",
+    "description": "Type: text-to-image<br/>Downloads: 44,531<br/>Likes: 1368",
     "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-    "published_date": "2025-11-29T21:17:55.709939+00:00",
+    "published_date": "2025-11-30T09:22:09.078075+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "Tongyi-MAI",
       "item_name": "Z-Image-Turbo",
-      "downloads": 31451,
-      "likes": 1299,
+      "downloads": 44531,
+      "likes": 1368,
       "last_modified": "2025-11-28T13:15:09.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "black-forest-labs/FLUX.2-dev",
-    "description": "Type: image-to-image<br/>Downloads: 168,078<br/>Likes: 718",
+    "description": "Type: image-to-image<br/>Downloads: 171,322<br/>Likes: 733",
     "url": "https://huggingface.co/black-forest-labs/FLUX.2-dev",
-    "published_date": "2025-11-29T21:17:55.709961+00:00",
+    "published_date": "2025-11-30T09:22:09.078100+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
       "author": "black-forest-labs",
       "item_name": "FLUX.2-dev",
-      "downloads": 168078,
-      "likes": 718,
+      "downloads": 171322,
+      "likes": 733,
       "last_modified": "2025-11-27T11:17:09.000Z",
       "all_tags": []
     }
@@ -44,17 +44,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HunyuanOCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 59,610<br/>Likes: 507",
+    "description": "Type: image-text-to-text<br/>Downloads: 92,907<br/>Likes: 521",
     "url": "https://huggingface.co/tencent/HunyuanOCR",
-    "published_date": "2025-11-29T21:17:55.709975+00:00",
+    "published_date": "2025-11-30T09:22:09.078111+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "tencent",
       "item_name": "HunyuanOCR",
-      "downloads": 59610,
-      "likes": 507,
+      "downloads": 92907,
+      "likes": 521,
       "last_modified": "2025-11-27T14:01:50.000Z",
       "all_tags": []
     }
@@ -64,38 +64,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-Math-V2",
-    "description": "Type: text-generation<br/>Downloads: 2,642<br/>Likes: 455",
+    "description": "Type: text-generation<br/>Downloads: 3,531<br/>Likes: 477",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
-    "published_date": "2025-11-29T21:17:55.709982+00:00",
+    "published_date": "2025-11-30T09:22:09.078116+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "deepseek-ai",
       "item_name": "DeepSeek-Math-V2",
-      "downloads": 2642,
-      "likes": 455,
+      "downloads": 3531,
+      "likes": 477,
       "last_modified": "2025-11-27T10:35:52.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "34c4a10d0fabe27dcb8510a7c1a4ff2d",
-    "source": "huggingface",
-    "type": "model",
-    "title": "facebook/sam3",
-    "description": "Type: mask-generation<br/>Downloads: 234,428<br/>Likes: 774",
-    "url": "https://huggingface.co/facebook/sam3",
-    "published_date": "2025-11-29T21:17:55.709988+00:00",
-    "categories": [
-      "mask-generation"
-    ],
-    "metadata": {
-      "author": "facebook",
-      "item_name": "sam3",
-      "downloads": 234428,
-      "likes": 774,
-      "last_modified": "2025-11-20T22:05:08.000Z",
       "all_tags": []
     }
   },
@@ -104,18 +84,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/Fara-7B",
-    "description": "Type: image-text-to-text<br/>Downloads: 5,926<br/>Likes: 289",
+    "description": "Type: image-text-to-text<br/>Downloads: 10,716<br/>Likes: 297",
     "url": "https://huggingface.co/microsoft/Fara-7B",
-    "published_date": "2025-11-29T21:17:55.709994+00:00",
+    "published_date": "2025-11-30T09:22:09.078144+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "microsoft",
       "item_name": "Fara-7B",
-      "downloads": 5926,
-      "likes": 289,
+      "downloads": 10716,
+      "likes": 297,
       "last_modified": "2025-11-28T22:44:30.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "34c4a10d0fabe27dcb8510a7c1a4ff2d",
+    "source": "huggingface",
+    "type": "model",
+    "title": "facebook/sam3",
+    "description": "Type: mask-generation<br/>Downloads: 249,505<br/>Likes: 783",
+    "url": "https://huggingface.co/facebook/sam3",
+    "published_date": "2025-11-30T09:22:09.078157+00:00",
+    "categories": [
+      "mask-generation"
+    ],
+    "metadata": {
+      "author": "facebook",
+      "item_name": "sam3",
+      "downloads": 249505,
+      "likes": 783,
+      "last_modified": "2025-11-20T22:05:08.000Z",
       "all_tags": []
     }
   },
@@ -124,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HunyuanVideo-1.5",
-    "description": "Type: text-to-video<br/>Downloads: 2,337<br/>Likes: 765",
+    "description": "Type: text-to-video<br/>Downloads: 2,383<br/>Likes: 769",
     "url": "https://huggingface.co/tencent/HunyuanVideo-1.5",
-    "published_date": "2025-11-29T21:17:55.710003+00:00",
+    "published_date": "2025-11-30T09:22:09.078166+00:00",
     "categories": [
       "text-to-video"
     ],
     "metadata": {
       "author": "tencent",
       "item_name": "HunyuanVideo-1.5",
-      "downloads": 2337,
-      "likes": 765,
+      "downloads": 2383,
+      "likes": 769,
       "last_modified": "2025-11-26T11:23:16.000Z",
       "all_tags": []
     }
@@ -144,15 +144,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "Comfy-Org/z_image_turbo",
-    "description": "Downloads: 679,715<br/>Likes: 249",
+    "description": "Downloads: 855,039<br/>Likes: 263",
     "url": "https://huggingface.co/Comfy-Org/z_image_turbo",
-    "published_date": "2025-11-29T21:17:55.710009+00:00",
+    "published_date": "2025-11-30T09:22:09.078192+00:00",
     "categories": [],
     "metadata": {
       "author": "Comfy-Org",
       "item_name": "z_image_turbo",
-      "downloads": 679715,
-      "likes": 249,
+      "downloads": 855039,
+      "likes": 263,
       "last_modified": "2025-11-27T04:15:24.000Z",
       "all_tags": []
     }
@@ -162,17 +162,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Supertone/supertonic",
-    "description": "Type: text-to-speech<br/>Downloads: 10,545<br/>Likes: 341",
+    "description": "Type: text-to-speech<br/>Downloads: 12,060<br/>Likes: 345",
     "url": "https://huggingface.co/Supertone/supertonic",
-    "published_date": "2025-11-29T21:17:55.710023+00:00",
+    "published_date": "2025-11-30T09:22:09.078197+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "Supertone",
       "item_name": "supertonic",
-      "downloads": 10545,
-      "likes": 341,
+      "downloads": 12060,
+      "likes": 345,
       "last_modified": "2025-11-22T01:39:33.000Z",
       "all_tags": []
     }
@@ -182,18 +182,36 @@
     "source": "huggingface",
     "type": "model",
     "title": "PrimeIntellect/INTELLECT-3",
-    "description": "Type: text-generation<br/>Downloads: 1,561<br/>Likes: 138",
+    "description": "Type: text-generation<br/>Downloads: 1,758<br/>Likes: 143",
     "url": "https://huggingface.co/PrimeIntellect/INTELLECT-3",
-    "published_date": "2025-11-29T21:17:55.710029+00:00",
+    "published_date": "2025-11-30T09:22:09.078203+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "PrimeIntellect",
       "item_name": "INTELLECT-3",
-      "downloads": 1561,
-      "likes": 138,
+      "downloads": 1758,
+      "likes": 143,
       "last_modified": "2025-11-27T03:51:19.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e0076a4103c7b8e4d084cc21b56db31e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/Orchestrator-8B",
+    "description": "Downloads: 258<br/>Likes: 125",
+    "url": "https://huggingface.co/nvidia/Orchestrator-8B",
+    "published_date": "2025-11-30T09:22:09.078208+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Orchestrator-8B",
+      "downloads": 258,
+      "likes": 125,
+      "last_modified": "2025-11-27T04:02:34.000Z",
       "all_tags": []
     }
   },
@@ -202,16 +220,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "salakash/SamKash-Tolstoy",
-    "description": "Type: text-generation<br/>Downloads: 6,407<br/>Likes: 422",
+    "description": "Type: text-generation<br/>Downloads: 6,681<br/>Likes: 422",
     "url": "https://huggingface.co/salakash/SamKash-Tolstoy",
-    "published_date": "2025-11-29T21:17:55.710036+00:00",
+    "published_date": "2025-11-30T09:22:09.078213+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "salakash",
       "item_name": "SamKash-Tolstoy",
-      "downloads": 6407,
+      "downloads": 6681,
       "likes": 422,
       "last_modified": "2025-11-27T14:21:04.000Z",
       "all_tags": []
@@ -222,34 +240,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "Comfy-Org/flux2-dev",
-    "description": "Downloads: 439,317<br/>Likes: 101",
+    "description": "Downloads: 510,572<br/>Likes: 102",
     "url": "https://huggingface.co/Comfy-Org/flux2-dev",
-    "published_date": "2025-11-29T21:17:55.710041+00:00",
+    "published_date": "2025-11-30T09:22:09.078218+00:00",
     "categories": [],
     "metadata": {
       "author": "Comfy-Org",
       "item_name": "flux2-dev",
-      "downloads": 439317,
-      "likes": 101,
+      "downloads": 510572,
+      "likes": 102,
       "last_modified": "2025-11-25T16:55:48.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e0076a4103c7b8e4d084cc21b56db31e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/Orchestrator-8B",
-    "description": "Downloads: 84<br/>Likes: 101",
-    "url": "https://huggingface.co/nvidia/Orchestrator-8B",
-    "published_date": "2025-11-29T21:17:55.710048+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Orchestrator-8B",
-      "downloads": 84,
-      "likes": 101,
-      "last_modified": "2025-11-27T04:02:34.000Z",
       "all_tags": []
     }
   },
@@ -258,17 +258,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "moonshotai/Kimi-K2-Thinking",
-    "description": "Type: text-generation<br/>Downloads: 303,715<br/>Likes: 1450",
+    "description": "Type: text-generation<br/>Downloads: 311,621<br/>Likes: 1454",
     "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
-    "published_date": "2025-11-29T21:17:55.710054+00:00",
+    "published_date": "2025-11-30T09:22:09.078223+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "moonshotai",
       "item_name": "Kimi-K2-Thinking",
-      "downloads": 303715,
-      "likes": 1450,
+      "downloads": 311621,
+      "likes": 1454,
       "last_modified": "2025-11-08T07:48:46.000Z",
       "all_tags": []
     }
@@ -278,15 +278,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "facebook/sam-3d-objects",
-    "description": "Likes: 220",
+    "description": "Likes: 224",
     "url": "https://huggingface.co/facebook/sam-3d-objects",
-    "published_date": "2025-11-29T21:17:55.710059+00:00",
+    "published_date": "2025-11-30T09:22:09.078227+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
       "item_name": "sam-3d-objects",
       "downloads": 0,
-      "likes": 220,
+      "likes": 224,
       "last_modified": "2025-11-21T12:08:20.000Z",
       "all_tags": []
     }
@@ -296,38 +296,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "jayn7/Z-Image-Turbo-GGUF",
-    "description": "Type: text-to-image<br/>Downloads: 25,021<br/>Likes: 77",
+    "description": "Type: text-to-image<br/>Downloads: 36,246<br/>Likes: 85",
     "url": "https://huggingface.co/jayn7/Z-Image-Turbo-GGUF",
-    "published_date": "2025-11-29T21:17:55.710065+00:00",
+    "published_date": "2025-11-30T09:22:09.078233+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "jayn7",
       "item_name": "Z-Image-Turbo-GGUF",
-      "downloads": 25021,
-      "likes": 77,
+      "downloads": 36246,
+      "likes": 85,
       "last_modified": "2025-11-28T06:52:19.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3c5a84c3ea5da6a6d346d15a17377e46",
-    "source": "huggingface",
-    "type": "model",
-    "title": "deepseek-ai/DeepSeek-OCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 5,437,105<br/>Likes: 2882",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
-    "published_date": "2025-11-29T21:17:55.710073+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "deepseek-ai",
-      "item_name": "DeepSeek-OCR",
-      "downloads": 5437105,
-      "likes": 2882,
-      "last_modified": "2025-11-04T02:36:12.000Z",
       "all_tags": []
     }
   },
@@ -336,18 +316,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "nari-labs/Dia2-2B",
-    "description": "Type: text-to-speech<br/>Downloads: 5,533<br/>Likes: 89",
+    "description": "Type: text-to-speech<br/>Downloads: 5,937<br/>Likes: 89",
     "url": "https://huggingface.co/nari-labs/Dia2-2B",
-    "published_date": "2025-11-29T21:17:55.710080+00:00",
+    "published_date": "2025-11-30T09:22:09.078240+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "nari-labs",
       "item_name": "Dia2-2B",
-      "downloads": 5533,
+      "downloads": 5937,
       "likes": 89,
       "last_modified": "2025-11-19T05:12:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3c5a84c3ea5da6a6d346d15a17377e46",
+    "source": "huggingface",
+    "type": "model",
+    "title": "deepseek-ai/DeepSeek-OCR",
+    "description": "Type: image-text-to-text<br/>Downloads: 5,449,574<br/>Likes: 2885",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
+    "published_date": "2025-11-30T09:22:09.078245+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "deepseek-ai",
+      "item_name": "DeepSeek-OCR",
+      "downloads": 5449574,
+      "likes": 2885,
+      "last_modified": "2025-11-04T02:36:12.000Z",
       "all_tags": []
     }
   },
@@ -356,17 +356,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "T5B/Z-Image-Turbo-FP8",
-    "description": "Type: text-to-image<br/>Downloads: 58,914<br/>Likes: 72",
+    "description": "Type: text-to-image<br/>Downloads: 71,507<br/>Likes: 73",
     "url": "https://huggingface.co/T5B/Z-Image-Turbo-FP8",
-    "published_date": "2025-11-29T21:17:55.710086+00:00",
+    "published_date": "2025-11-30T09:22:09.078255+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "T5B",
       "item_name": "Z-Image-Turbo-FP8",
-      "downloads": 58914,
-      "likes": 72,
+      "downloads": 71507,
+      "likes": 73,
       "last_modified": "2025-11-27T16:17:01.000Z",
       "all_tags": []
     }
@@ -376,17 +376,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "stepfun-ai/Step-Audio-R1",
-    "description": "Type: audio-text-to-text<br/>Downloads: 175<br/>Likes: 66",
+    "description": "Type: audio-text-to-text<br/>Downloads: 209<br/>Likes: 72",
     "url": "https://huggingface.co/stepfun-ai/Step-Audio-R1",
-    "published_date": "2025-11-29T21:17:55.710094+00:00",
+    "published_date": "2025-11-30T09:22:09.078260+00:00",
     "categories": [
       "audio-text-to-text"
     ],
     "metadata": {
       "author": "stepfun-ai",
       "item_name": "Step-Audio-R1",
-      "downloads": 175,
-      "likes": 66,
+      "downloads": 209,
+      "likes": 72,
       "last_modified": "2025-11-27T07:56:49.000Z",
       "all_tags": []
     }
