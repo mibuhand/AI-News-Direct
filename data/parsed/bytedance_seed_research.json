@@ -68,40 +68,6 @@
         "external_url": "https://arxiv.org/abs/2510.19944"
     },
     {
-        "id": "06cc4038d93752479b96c7eac8bfcbd3",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "A Multi-Resolution Systematically Improvable Quantum Embedding Scheme for Large-scale Surface Chemistry Calculations",
-        "description": "Predictive simulation of surface chemistry is critical in fields from catalysis to electrochemistry and clean energy generation. Ab-initio quantum many-body methods should offer deep insights into these systems at the electronic level but are limited by their steep computational cost. Here, we build upon state-of-the-art correlated wavefunctions to reliably reach \u2018gold standard\u2019 accuracy in quantum chemistry for extended surface chemistry. Efficiently harnessing graphics processing unit acceleration along with systematically improvable multi-resolution techniques, we achieve linear computational scaling up to 392 atoms. These large-scale simulations demonstrate the importance of converging to these extended system sizes, achieving consistency between simulations with different boundary conditions for the interaction of water on a graphene surface. We provide a benchmark for this water-graphene interaction that clarifies the preference for water orientations at the graphene interface. This is extended to the adsorption of carbonaceous molecules on chemically complex surfaces, including metal oxides and metal-organic frameworks, where we consistently achieve chemical accuracy compared to experimental references. This advances the simulation of molecular adsorption on surfaces, enabling reliable and improvable first-principles modeling of such problems by ab-initio quantum many-body methods.",
-        "url": "https://seed.bytedance.com/en/research/a-multi-resolution-systematically-improvable-quantum-embedding-scheme-for-large-scale-surface-chemistry-calculations",
-        "published_date": "2025-10-20T16:00:00+00:00",
-        "categories": [
-            "AI for Science"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Zigeng Huang, Zhen Guo, Changsu Cao, Hung Q. Pham, Xuelan Wen, George H. Booth, Ji Chen & Dingshun Lv",
-            "journal": "Nature Communications",
-            "work_team": [
-                "AI for Science"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "A Multi-Resolution Systematically Improvable Quantum Embedding Scheme for Large-scale Surface Chemistry Calculations",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Predictive simulation of surface chemistry is critical in fields from catalysis to electrochemistry and clean energy generation. Ab-initio quantum many-body methods should offer deep insights into these systems at the electronic level but are limited by their steep computational cost. Here, we build upon state-of-the-art correlated wavefunctions to reliably reach \u2018gold standard\u2019 accuracy in quantum chemistry for extended surface chemistry. Efficiently harnessing graphics processing unit acceleration along with systematically improvable multi-resolution techniques, we achieve linear computational scaling up to 392 atoms. These large-scale simulations demonstrate the importance of converging to these extended system sizes, achieving consistency between simulations with different boundary conditions for the interaction of water on a graphene surface. We provide a benchmark for this water-graphene interaction that clarifies the preference for water orientations at the graphene interface. This is extended to the adsorption of carbonaceous molecules on chemically complex surfaces, including metal oxides and metal-organic frameworks, where we consistently achieve chemical accuracy compared to experimental references. This advances the simulation of molecular adsorption on surfaces, enabling reliable and improvable first-principles modeling of such problems by ab-initio quantum many-body methods.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/a-multi-resolution-systematically-improvable-quantum-embedding-scheme-for-large-scale-surface-chemistry-calculations",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://www.nature.com/articles/s41467-025-64374-2"
-    },
-    {
         "id": "1e036357cdb955e85a05415daa514173",
         "source": "bytedance_seed",
         "type": "research",
@@ -170,37 +136,37 @@
         "external_url": "https://arxiv.org/abs/2507.23726"
     },
     {
-        "id": "b6095ba19e6ae163727b023559dbcecf",
+        "id": "9dda18f5eed207192692ce971bef448b",
         "source": "bytedance_seed",
         "type": "research",
-        "title": "Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice",
-        "description": "Simultaneous Interpretation (SI) represents one of the most daunting frontiers in the translation industry, with product-level automatic systems long plagued by intractable challenges: subpar transcription and translation quality, lack of real-time speech generation, multi-speaker confusion, and translated speech inflation, especially in long-form discourses. In this study, we introduce Seed-LiveInterpret 2.0, an end-to-end SI model that delivers high-fidelity, ultra-low-latency speech-to-speech generation with voice cloning capabilities. As a fully operational product-level solution, Seed-LiveInterpret 2.0 tackles these challenges head-on through our novel duplex speech-to-speech understanding-generating framework. Experimental results demonstrate that through large-scale pretraining and reinforcement learning, the model achieves a significantly better balance between translation accuracy and latency, validated by human interpreters to exceed 70% correctness in complex scenarios. Notably, Seed-LiveInterpret 2.0 outperforms commercial SI solutions by significant margins in translation quality, while slashing the average latency of cloned speech from nearly 10 seconds to a near-real-time 3 seconds, which is around a near 70% reduction that drastically enhances practical usability.",
-        "url": "https://seed.bytedance.com/en/research/seed-liveinterpret-2-0-end-to-end-simultaneous-speech-to-speech-translation-with-your-voice",
-        "published_date": "2025-07-23T16:00:00+00:00",
+        "title": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
+        "description": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
+        "url": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
+        "published_date": "2025-03-13T16:00:00+00:00",
         "categories": [
-            "Speech&Audio"
+            " Strongly Correlated Electrons"
         ],
         "organization": "ByteDance Seed",
         "metadata": {
-            "author": "Seed Speech Team",
+            "author": "Xiang Li, Yixiao Chen, Bohao Li, Haoxiang Chen, Fengcheng Wu, Ji Chen, Weiluo Ren",
             "journal": "arXiv",
             "work_team": [
-                "Speech"
+                "AI for Science"
             ]
         },
         "objects": [],
         "title_localized": {
-            "en": "Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice",
+            "en": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
             "zh": ""
         },
         "description_localized": {
-            "en": "Simultaneous Interpretation (SI) represents one of the most daunting frontiers in the translation industry, with product-level automatic systems long plagued by intractable challenges: subpar transcription and translation quality, lack of real-time speech generation, multi-speaker confusion, and translated speech inflation, especially in long-form discourses. In this study, we introduce Seed-LiveInterpret 2.0, an end-to-end SI model that delivers high-fidelity, ultra-low-latency speech-to-speech generation with voice cloning capabilities. As a fully operational product-level solution, Seed-LiveInterpret 2.0 tackles these challenges head-on through our novel duplex speech-to-speech understanding-generating framework. Experimental results demonstrate that through large-scale pretraining and reinforcement learning, the model achieves a significantly better balance between translation accuracy and latency, validated by human interpreters to exceed 70% correctness in complex scenarios. Notably, Seed-LiveInterpret 2.0 outperforms commercial SI solutions by significant margins in translation quality, while slashing the average latency of cloned speech from nearly 10 seconds to a near-real-time 3 seconds, which is around a near 70% reduction that drastically enhances practical usability.",
+            "en": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
             "zh": ""
         },
         "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/seed-liveinterpret-2-0-end-to-end-simultaneous-speech-to-speech-translation-with-your-voice",
+            "en": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
             "zh": "https://seed.bytedance.com/zh/research/"
         },
-        "external_url": "https://arxiv.org/pdf/2507.17527"
+        "external_url": "https://arxiv.org/abs/2503.11756"
     }
 ]
