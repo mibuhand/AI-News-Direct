@@ -4,11 +4,19 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_research</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-12-01T21:18:33.939517+00:00</updated>
+  <updated>2025-12-02T09:31:03.466897+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml" rel="self"/>
+  <entry>
+    <title>GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation</title>
+    <id>c332c50c3c22b1d40d638f88a5156a13</id>
+    <link href="https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation"/>
+    <updated>2025-12-01T16:00:00+00:00</updated>
+    <category term="Robotics"/>
+    <summary>We present GR-RL, a robotic learning framework that turns a generalist vision-language-action (VLA) policy into a highly capable specialist for long-horizon dexterous manipulation. Assuming the optimality of human demonstrations is core to existing VLA policies. However, we claim that in highly dexterous and precise manipulation tasks, human demonstrations are noisy and suboptimal. GR-RL proposes a multi-stage training pipeline that filters, augments, and reinforces the demonstrations by reinforcement learning. First, GR-RL learns a vision-language-conditioned task progress, filters the demonstration trajectories, and only keeps the transitions that contribute positively to the progress. Specifically, we show that by directly applying offline RL with sparse reward, the resulting Q-values can be treated as a robust progress function. Next, we introduce morphological symmetry augmentation that greatly improves the generalization and performance of GR-RL. Lastly, to better align the VLA policy with its deployment behaviors for high-precision control, we perform online RL by learning a latent space noise predictor. With this pipeline, GR-RL is, to our knowledge, the first learning-based policy that can autonomously lace up a shoe by threading shoelaces through multiple eyelets with an 83.3% success rate, a task requiring long-horizon reasoning, millimeter-level precision, and compliant soft-body interaction. We hope GR-RL provides a step toward enabling generalist robot foundations models to specialize into reliable real-world experts.</summary>
+  </entry>
   <entry>
     <title>Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets</title>
     <id>222e1c7c586fe380fee83060044abcbd</id>
@@ -50,13 +58,5 @@ To support future work and community use, we release a unified benchmarking fram
     <updated>2025-07-23T16:00:00+00:00</updated>
     <category term="Speech&amp;Audio"/>
     <summary>Simultaneous Interpretation (SI) represents one of the most daunting frontiers in the translation industry, with product-level automatic systems long plagued by intractable challenges: subpar transcription and translation quality, lack of real-time speech generation, multi-speaker confusion, and translated speech inflation, especially in long-form discourses. In this study, we introduce Seed-LiveInterpret 2.0, an end-to-end SI model that delivers high-fidelity, ultra-low-latency speech-to-speech generation with voice cloning capabilities. As a fully operational product-level solution, Seed-LiveInterpret 2.0 tackles these challenges head-on through our novel duplex speech-to-speech understanding-generating framework. Experimental results demonstrate that through large-scale pretraining and reinforcement learning, the model achieves a significantly better balance between translation accuracy and latency, validated by human interpreters to exceed 70% correctness in complex scenarios. Notably, Seed-LiveInterpret 2.0 outperforms commercial SI solutions by significant margins in translation quality, while slashing the average latency of cloned speech from nearly 10 seconds to a near-real-time 3 seconds, which is around a near 70% reduction that drastically enhances practical usability.</summary>
-  </entry>
-  <entry>
-    <title>Deep Learning Sheds Light on Integer and Fractional Topological Insulators</title>
-    <id>9dda18f5eed207192692ce971bef448b</id>
-    <link href="https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators"/>
-    <updated>2025-03-13T16:00:00+00:00</updated>
-    <category term="Strongly Correlated Electrons"/>
-    <summary>Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.</summary>
   </entry>
 </feed>

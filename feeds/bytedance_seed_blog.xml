@@ -4,11 +4,19 @@
   <id>tag:ai-news-direct.local,2025:bytedance_seed_blog</id>
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <logo>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</logo>
-  <updated>2025-12-01T21:18:33.923711+00:00</updated>
+  <updated>2025-12-02T09:31:03.448535+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml" rel="self"/>
+  <entry>
+    <title>Seed Research | Depth Anything 3: A Single-Transformer Architecture for Space Reconstruction from Any Views</title>
+    <id>cb874905c7f92588b7248641fff175fc</id>
+    <link href="https://seed.bytedance.com/en/blog/seed-research-depth-anything-3-a-single-transformer-architecture-for-space-reconstruction-from-any-views"/>
+    <updated>2025-11-26T16:00:00+00:00</updated>
+    <category term="Models"/>
+    <summary>Overcome the technical bottlenecks in monocular depth estimation and multi-view reconstruction</summary>
+  </entry>
   <entry>
     <title>Seed3D 1.0 Released: Generate High-Fidelity 3D Models from Single Images, Featuring SOTA Texturing</title>
     <id>e823e9d061925d42ce719cd2fcc2e42b</id>
@@ -80,13 +88,5 @@
     <updated>2025-07-21T16:00:00+00:00</updated>
     <category term="Models"/>
     <summary>A generalizable robot operation model that supports long-range and complex tasks</summary>
-  </entry>
-  <entry>
-    <title>Seed's Open-Source RL Recipe Makes 4B Model Rival 235B on Math Reasoning</title>
-    <id>bf4b55593ff4c98cddeb8837c38a4d23</id>
-    <link href="https://seed.bytedance.com/en/blog/seed-s-open-source-rl-recipe-makes-4b-model-rival-235b-on-math-reasoning"/>
-    <updated>2025-07-14T16:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>700 steps of RL training enhances the math reasoning power of small models.</summary>
   </entry>
 </feed>

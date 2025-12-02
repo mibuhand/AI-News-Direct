@@ -1,5 +1,39 @@
 [
     {
+        "id": "c332c50c3c22b1d40d638f88a5156a13",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+        "description": "We present GR-RL, a robotic learning framework that turns a generalist vision-language-action (VLA) policy into a highly capable specialist for long-horizon dexterous manipulation. Assuming the optimality of human demonstrations is core to existing VLA policies. However, we claim that in highly dexterous and precise manipulation tasks, human demonstrations are noisy and suboptimal. GR-RL proposes a multi-stage training pipeline that filters, augments, and reinforces the demonstrations by reinforcement learning. First, GR-RL learns a vision-language-conditioned task progress, filters the demonstration trajectories, and only keeps the transitions that contribute positively to the progress. Specifically, we show that by directly applying offline RL with sparse reward, the resulting Q-values can be treated as a robust progress function. Next, we introduce morphological symmetry augmentation that greatly improves the generalization and performance of GR-RL. Lastly, to better align the VLA policy with its deployment behaviors for high-precision control, we perform online RL by learning a latent space noise predictor. With this pipeline, GR-RL is, to our knowledge, the first learning-based policy that can autonomously lace up a shoe by threading shoelaces through multiple eyelets with an 83.3% success rate, a task requiring long-horizon reasoning, millimeter-level precision, and compliant soft-body interaction. We hope GR-RL provides a step toward enabling generalist robot foundations models to specialize into reliable real-world experts.",
+        "url": "https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation",
+        "published_date": "2025-12-01T16:00:00+00:00",
+        "categories": [
+            "Robotics"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, Yuxiao Liu, Hao Niu, Wanli Peng, Jingchao Qiao, Zeyu Ren, Haixin Shi, Zhi Su, Jiawen Tian, Yuyang Xiao, Shenyu Zhang, Liwei Zheng, Hang Li, Yonghui Wu",
+            "journal": "arXiv",
+            "work_team": [
+                "Robotics"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "We present GR-RL, a robotic learning framework that turns a generalist vision-language-action (VLA) policy into a highly capable specialist for long-horizon dexterous manipulation. Assuming the optimality of human demonstrations is core to existing VLA policies. However, we claim that in highly dexterous and precise manipulation tasks, human demonstrations are noisy and suboptimal. GR-RL proposes a multi-stage training pipeline that filters, augments, and reinforces the demonstrations by reinforcement learning. First, GR-RL learns a vision-language-conditioned task progress, filters the demonstration trajectories, and only keeps the transitions that contribute positively to the progress. Specifically, we show that by directly applying offline RL with sparse reward, the resulting Q-values can be treated as a robust progress function. Next, we introduce morphological symmetry augmentation that greatly improves the generalization and performance of GR-RL. Lastly, to better align the VLA policy with its deployment behaviors for high-precision control, we perform online RL by learning a latent space noise predictor. With this pipeline, GR-RL is, to our knowledge, the first learning-based policy that can autonomously lace up a shoe by threading shoelaces through multiple eyelets with an 83.3% success rate, a task requiring long-horizon reasoning, millimeter-level precision, and compliant soft-body interaction. We hope GR-RL provides a step toward enabling generalist robot foundations models to specialize into reliable real-world experts.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2512.01801"
+    },
+    {
         "id": "222e1c7c586fe380fee83060044abcbd",
         "source": "bytedance_seed",
         "type": "research",
@@ -168,39 +202,5 @@
             "zh": "https://seed.bytedance.com/zh/research/"
         },
         "external_url": "https://arxiv.org/pdf/2507.17527"
-    },
-    {
-        "id": "9dda18f5eed207192692ce971bef448b",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
-        "description": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
-        "url": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
-        "published_date": "2025-03-13T16:00:00+00:00",
-        "categories": [
-            " Strongly Correlated Electrons"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Xiang Li, Yixiao Chen, Bohao Li, Haoxiang Chen, Fengcheng Wu, Ji Chen, Weiluo Ren",
-            "journal": "arXiv",
-            "work_team": [
-                "AI for Science"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
-            "zh": "https://seed.bytedance.com/zh/research/"
-        },
-        "external_url": "https://arxiv.org/abs/2503.11756"
     }
 ]
