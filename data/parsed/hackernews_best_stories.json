@@ -1,109 +1,37 @@
 [
   {
-    "id": "9d7b2b3aa6b8a78437c54889787ea02c",
+    "id": "88753895e429e79644332e73fe4276c7",
     "source": "hackernews",
     "type": "story",
-    "title": "Ghostty is now non-profit",
+    "title": "Netflix to Acquire Warner Bros",
     "description": "",
-    "url": "https://mitchellh.com/writing/ghostty-non-profit",
-    "published_date": "2025-12-03T18:40:06+00:00",
+    "url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+    "published_date": "2025-12-05T12:21:19+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1293,
-      "author": "vrnvu",
-      "comments": 280,
-      "hn_id": 46138238
+      "score": 1209,
+      "author": "meetpateltech",
+      "comments": 993,
+      "hn_id": 46160315
     },
     "objects": []
   },
   {
-    "id": "843d6ce41088ddbb8a6885d6dadda4f0",
+    "id": "96c6fd48021a5b7e5a4fbcc3ad7f9150",
     "source": "hackernews",
     "type": "story",
-    "title": "Everyone in Seattle hates AI",
+    "title": "Cloudflare was down",
     "description": "",
-    "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-    "published_date": "2025-12-03T19:37:25+00:00",
+    "url": "https://www.cloudflare.com/",
+    "published_date": "2025-12-05T08:50:16+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 930,
-      "author": "mips_avatar",
-      "comments": 1030,
-      "hn_id": 46138952
-    },
-    "objects": []
-  },
-  {
-    "id": "24d19a8390850bb5c2698fa5802bfd72",
-    "source": "hackernews",
-    "type": "story",
-    "title": "“Captain Gains” on Capitol Hill",
-    "description": "",
-    "url": "https://www.nber.org/papers/w34524",
-    "published_date": "2025-12-03T13:50:10+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 820,
-      "author": "mhb",
-      "comments": 547,
-      "hn_id": 46134443
-    },
-    "objects": []
-  },
-  {
-    "id": "cfd255775636f5ab954100fef20d7a98",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-    "description": "",
-    "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-    "published_date": "2025-12-03T17:44:33+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 802,
-      "author": "bearsyankees",
-      "comments": 280,
-      "hn_id": 46137514
-    },
-    "objects": []
-  },
-  {
-    "id": "44b6e960d77d09e7daaeaad0ef93d9d9",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Micron Announces Exit from Crucial Consumer Business",
-    "description": "",
-    "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-    "published_date": "2025-12-03T18:04:32+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 738,
-      "author": "simlevesque",
-      "comments": 376,
-      "hn_id": 46137783
-    },
-    "objects": []
-  },
-  {
-    "id": "42933b5767fb206e31a4cfdc6552b6d3",
-    "source": "hackernews",
-    "type": "story",
-    "title": "It’s time to free JavaScript (2024)",
-    "description": "",
-    "url": "https://javascript.tm/letter",
-    "published_date": "2025-12-04T09:01:55+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 688,
-      "author": "pavelai",
-      "comments": 346,
-      "hn_id": 46145365
+      "score": 805,
+      "author": "mektrik",
+      "comments": 510,
+      "hn_id": 46158191
     },
     "objects": []
   },
@@ -118,46 +46,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 625,
+      "score": 718,
       "author": "delichon",
-      "comments": 852,
+      "comments": 966,
       "hn_id": 46150715
     },
     "objects": []
   },
   {
-    "id": "96c6fd48021a5b7e5a4fbcc3ad7f9150",
+    "id": "42933b5767fb206e31a4cfdc6552b6d3",
     "source": "hackernews",
     "type": "story",
-    "title": "Cloudflare is down",
+    "title": "It’s time to free JavaScript (2024)",
     "description": "",
-    "url": "https://www.cloudflare.com/",
-    "published_date": "2025-12-05T08:50:16+00:00",
+    "url": "https://javascript.tm/letter",
+    "published_date": "2025-12-04T09:01:55+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 601,
-      "author": "mektrik",
-      "comments": 348,
-      "hn_id": 46158191
-    },
-    "objects": []
-  },
-  {
-    "id": "ce26d242f250409dd616433249360b68",
-    "source": "hackernews",
-    "type": "story",
-    "title": "RCE Vulnerability in React and Next.js",
-    "description": "",
-    "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-    "published_date": "2025-12-03T16:00:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 598,
-      "author": "rayhaanj",
-      "comments": 252,
-      "hn_id": 46136026
+      "score": 703,
+      "author": "pavelai",
+      "comments": 357,
+      "hn_id": 46145365
     },
     "objects": []
   },
@@ -172,9 +82,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 566,
+      "score": 671,
       "author": "50kIters",
-      "comments": 530,
+      "comments": 638,
       "hn_id": 46145180
     },
     "objects": []
@@ -190,64 +100,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 544,
+      "score": 572,
       "author": "dsego",
-      "comments": 110,
+      "comments": 111,
       "hn_id": 46146133
-    },
-    "objects": []
-  },
-  {
-    "id": "e7653bf21764bc3f7ce11b45babf1b71",
-    "source": "hackernews",
-    "type": "story",
-    "title": "1D Conway's Life glider found, 3.7B cells long",
-    "description": "",
-    "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-    "published_date": "2025-12-03T17:24:49+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 514,
-      "author": "nooks",
-      "comments": 205,
-      "hn_id": 46137253
-    },
-    "objects": []
-  },
-  {
-    "id": "eb4069dbf6e6373ef9fdaa94443459d7",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Average DRAM price in USD over last 18 months",
-    "description": "",
-    "url": "https://pcpartpicker.com/trends/price/memory/",
-    "published_date": "2025-12-04T00:08:26+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 494,
-      "author": "zekrioca",
-      "comments": 394,
-      "hn_id": 46142100
-    },
-    "objects": []
-  },
-  {
-    "id": "0b89c6f529ba46f268bf9b96d665518d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "MinIO is now in maintenance-mode",
-    "description": "",
-    "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
-    "published_date": "2025-12-03T16:00:19+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 493,
-      "author": "hajtom",
-      "comments": 310,
-      "hn_id": 46136023
     },
     "objects": []
   },
@@ -262,28 +118,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 478,
+      "score": 520,
       "author": "todsacerdoti",
-      "comments": 220,
+      "comments": 231,
       "hn_id": 46146451
     },
     "objects": []
   },
   {
-    "id": "800cb91be72c902c6b0c423cb712a4fc",
+    "id": "eb4069dbf6e6373ef9fdaa94443459d7",
     "source": "hackernews",
     "type": "story",
-    "title": "Unreal Tournament 2004 is back",
+    "title": "Average DRAM price in USD over last 18 months",
     "description": "",
-    "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
-    "published_date": "2025-12-04T10:06:35+00:00",
+    "url": "https://pcpartpicker.com/trends/price/memory/",
+    "published_date": "2025-12-04T00:08:26+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 442,
-      "author": "keithoffer",
-      "comments": 195,
-      "hn_id": 46145834
+      "score": 502,
+      "author": "zekrioca",
+      "comments": 399,
+      "hn_id": 46142100
     },
     "objects": []
   },
@@ -298,28 +154,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 434,
+      "score": 497,
       "author": "ibobev",
-      "comments": 200,
+      "comments": 231,
       "hn_id": 46147540
     },
     "objects": []
   },
   {
-    "id": "6f5b81e755bea1c3348e336f368648c9",
+    "id": "d622ddac3c8470442b6e3d0b0ec92b3a",
     "source": "hackernews",
     "type": "story",
-    "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
+    "title": "Netflix’s AV1 Journey: From Android to TVs and Beyond",
     "description": "",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
-    "published_date": "2025-12-03T13:20:58+00:00",
+    "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+    "published_date": "2025-12-05T00:09:57+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 428,
-      "author": "doener",
-      "comments": 275,
-      "hn_id": 46134178
+      "score": 478,
+      "author": "CharlesW",
+      "comments": 251,
+      "hn_id": 46155135
+    },
+    "objects": []
+  },
+  {
+    "id": "800cb91be72c902c6b0c423cb712a4fc",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Unreal Tournament 2004 is back",
+    "description": "",
+    "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+    "published_date": "2025-12-04T10:06:35+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 459,
+      "author": "keithoffer",
+      "comments": 198,
+      "hn_id": 46145834
     },
     "objects": []
   },
@@ -334,28 +208,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 401,
+      "score": 424,
       "author": "OptionOfT",
-      "comments": 303,
+      "comments": 331,
       "hn_id": 46148748
     },
     "objects": []
   },
   {
-    "id": "ba741d911309940d6ee103da6300ed47",
+    "id": "e3958e177f85f52f6c8c095d99a37f03",
     "source": "hackernews",
     "type": "story",
-    "title": "The \"Mad Men\" in 4K on HBO Max Debacle",
+    "title": "Cloudflare outage on December 5, 2025",
     "description": "",
-    "url": "http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html",
-    "published_date": "2025-12-03T11:50:00+00:00",
+    "url": "https://blog.cloudflare.com/5-december-2025-outage/",
+    "published_date": "2025-12-05T15:35:43+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 397,
-      "author": "tosh",
-      "comments": 168,
-      "hn_id": 46133422
+      "score": 416,
+      "author": "meetpateltech",
+      "comments": 278,
+      "hn_id": 46162656
+    },
+    "objects": []
+  },
+  {
+    "id": "3cad1106a9ad1b909d5dedc8eb268b55",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The US polluters that are rewriting the EU's human rights and climate law",
+    "description": "",
+    "url": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
+    "published_date": "2025-12-05T09:58:01+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 414,
+      "author": "saubeidl",
+      "comments": 243,
+      "hn_id": 46159193
+    },
+    "objects": []
+  },
+  {
+    "id": "7ff007bda92ff32c04aabd60e45db2bc",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Thoughts on Go vs. Rust vs. Zig",
+    "description": "",
+    "url": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+    "published_date": "2025-12-04T21:40:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 412,
+      "author": "yurivish",
+      "comments": 518,
+      "hn_id": 46153466
     },
     "objects": []
   },
@@ -370,10 +280,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 384,
+      "score": 402,
       "author": "sethops1",
-      "comments": 360,
+      "comments": 394,
       "hn_id": 46147353
+    },
+    "objects": []
+  },
+  {
+    "id": "ca5c74c6af464cb3d19afae166354b38",
+    "source": "hackernews",
+    "type": "story",
+    "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
+    "description": "",
+    "url": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
+    "published_date": "2025-12-05T01:05:57+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 401,
+      "author": "mikelabatt",
+      "comments": 446,
+      "hn_id": 46155619
     },
     "objects": []
   },
@@ -388,9 +316,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 381,
+      "score": 394,
       "author": "rgun",
-      "comments": 164,
+      "comments": 176,
       "hn_id": 46144275
     },
     "objects": []
@@ -406,46 +334,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 376,
+      "score": 379,
       "author": "mhashemi",
-      "comments": 126,
+      "comments": 128,
       "hn_id": 46139761
-    },
-    "objects": []
-  },
-  {
-    "id": "d622ddac3c8470442b6e3d0b0ec92b3a",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Netflix’s AV1 Journey: From Android to TVs and Beyond",
-    "description": "",
-    "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
-    "published_date": "2025-12-05T00:09:57+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 364,
-      "author": "CharlesW",
-      "comments": 169,
-      "hn_id": 46155135
-    },
-    "objects": []
-  },
-  {
-    "id": "6fdffaf96dd55a4875b8efcd8e4ff4dd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
-    "description": "",
-    "url": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
-    "published_date": "2025-12-03T09:53:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 364,
-      "author": "GeorgeWoff25",
-      "comments": 302,
-      "hn_id": 46132531
     },
     "objects": []
   },
@@ -460,28 +352,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 350,
+      "score": 368,
       "author": "speckx",
-      "comments": 374,
+      "comments": 387,
       "hn_id": 46151578
-    },
-    "objects": []
-  },
-  {
-    "id": "7ff007bda92ff32c04aabd60e45db2bc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Thoughts on Go vs. Rust vs. Zig",
-    "description": "",
-    "url": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
-    "published_date": "2025-12-04T21:40:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 335,
-      "author": "yurivish",
-      "comments": 404,
-      "hn_id": 46153466
     },
     "objects": []
   },
@@ -496,82 +370,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 325,
+      "score": 354,
       "author": "wilhelmklopp",
-      "comments": 155,
+      "comments": 165,
       "hn_id": 46153116
-    },
-    "objects": []
-  },
-  {
-    "id": "8768c576aa8647a9eecad55eaad9fb58",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games",
-    "description": "",
-    "url": "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/",
-    "published_date": "2025-12-03T17:00:13+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 297,
-      "author": "OsrsNeedsf2P",
-      "comments": 15,
-      "hn_id": 46136901
-    },
-    "objects": []
-  },
-  {
-    "id": "ac3d8e615125dc6feeafc3e87b4ebaa2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Multivox: Volumetric Display",
-    "description": "",
-    "url": "https://github.com/AncientJames/multivox",
-    "published_date": "2025-12-04T16:58:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 268,
-      "author": "jk_tech",
-      "comments": 37,
-      "hn_id": 46149813
-    },
-    "objects": []
-  },
-  {
-    "id": "53def5dc0b0d96115ca66909a2455c16",
-    "source": "hackernews",
-    "type": "story",
-    "title": "You can't fool the optimizer",
-    "description": "",
-    "url": "https://xania.org/202512/03-more-adding-integers",
-    "published_date": "2025-12-03T12:14:34+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 263,
-      "author": "HeliumHydride",
-      "comments": 167,
-      "hn_id": 46133622
-    },
-    "objects": []
-  },
-  {
-    "id": "ca5c74c6af464cb3d19afae166354b38",
-    "source": "hackernews",
-    "type": "story",
-    "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
-    "description": "",
-    "url": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
-    "published_date": "2025-12-05T01:05:57+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 252,
-      "author": "mikelabatt",
-      "comments": 190,
-      "hn_id": 46155619
     },
     "objects": []
   },
@@ -586,172 +388,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 243,
+      "score": 344,
       "author": "cheeseblubber",
-      "comments": 194,
+      "comments": 287,
       "hn_id": 46154491
     },
     "objects": []
   },
   {
-    "id": "5876299d109c5c9a320a0a32670de5f9",
+    "id": "d30dc07734236a19f4d9094fdf8e5a80",
     "source": "hackernews",
     "type": "story",
-    "title": "Autism should not be treated as a single condition",
+    "title": "UniFi 5G",
     "description": "",
-    "url": "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition",
-    "published_date": "2025-12-04T16:25:31+00:00",
+    "url": "https://blog.ui.com/article/introducing-unifi-5g",
+    "published_date": "2025-12-05T07:06:38+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 236,
-      "author": "bookofjoe",
-      "comments": 281,
-      "hn_id": 46149375
+      "score": 321,
+      "author": "janandonly",
+      "comments": 259,
+      "hn_id": 46157594
     },
     "objects": []
   },
   {
-    "id": "8ed443a24a0425bf26563d1adb2cbcc5",
+    "id": "ac3d8e615125dc6feeafc3e87b4ebaa2",
     "source": "hackernews",
     "type": "story",
-    "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+    "title": "Multivox: Volumetric Display",
     "description": "",
-    "url": "https://www.bbc.com/news/articles/c1w932vqye0o",
-    "published_date": "2025-12-04T20:56:08+00:00",
+    "url": "https://github.com/AncientJames/multivox",
+    "published_date": "2025-12-04T16:58:35+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 235,
-      "author": "toss1",
-      "comments": 194,
-      "hn_id": 46152941
-    },
-    "objects": []
-  },
-  {
-    "id": "ca13458e9cd0aec947cdcb3fdf3a2eee",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Are we repeating the telecoms crash with AI datacenters?",
-    "description": "",
-    "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
-    "published_date": "2025-12-03T11:14:56+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 233,
-      "author": "davedx",
-      "comments": 189,
-      "hn_id": 46133141
-    },
-    "objects": []
-  },
-  {
-    "id": "0ffee1993a712f488b28c79a573c2fc9",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Why are my headphones buzzing whenever I run my game?",
-    "description": "",
-    "url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
-    "published_date": "2025-12-03T15:30:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 221,
-      "author": "pacificat0r",
-      "comments": 141,
-      "hn_id": 46135627
-    },
-    "objects": []
-  },
-  {
-    "id": "5a8f4e71acdd3b9b89fd324073d3abb7",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Fighting the age-gated internet",
-    "description": "",
-    "url": "https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/",
-    "published_date": "2025-12-04T13:34:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 220,
-      "author": "geox",
-      "comments": 194,
-      "hn_id": 46147493
-    },
-    "objects": []
-  },
-  {
-    "id": "106ce0b803f36353df75712a2d014762",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Programming peaked",
-    "description": "",
-    "url": "https://functional.computer/blog/programming-peaked",
-    "published_date": "2025-12-04T10:01:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 206,
-      "author": "Antibabelic",
-      "comments": 203,
-      "hn_id": 46145797
-    },
-    "objects": []
-  },
-  {
-    "id": "250d7bca7e60be2db7f3ba2c1df73849",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Tunnl.gg",
-    "description": "",
-    "url": "https://tunnl.gg",
-    "published_date": "2025-12-04T10:15:53+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 205,
-      "author": "klipitkas",
-      "comments": 92,
-      "hn_id": 46145902
-    },
-    "objects": []
-  },
-  {
-    "id": "4db203fb92d14242fd5702e16d59d54f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
-    "description": "",
-    "url": "https://www.bbc.com/news/articles/clydg2re4d1o",
-    "published_date": "2025-12-03T11:06:10+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 203,
-      "author": "wolpoli",
-      "comments": 65,
-      "hn_id": 46133068
-    },
-    "objects": []
-  },
-  {
-    "id": "594e6560cd3255188fbbae91a806294b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
-    "description": "",
-    "url": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
-    "published_date": "2025-12-04T11:32:00+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 201,
-      "author": "donohoe",
-      "comments": 93,
-      "hn_id": 46146406
+      "score": 318,
+      "author": "jk_tech",
+      "comments": 45,
+      "hn_id": 46149813
     },
     "objects": []
   },
@@ -766,10 +442,280 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 184,
+      "score": 314,
       "author": "spartanatreyu",
-      "comments": 28,
+      "comments": 45,
       "hn_id": 46155085
+    },
+    "objects": []
+  },
+  {
+    "id": "f8aaa5529e54a972bf26ae7e2e427843",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Cloudflare Down Again – and DownDetector Is Also Down",
+    "description": "",
+    "url": "https://news.ycombinator.com/item?id=46158200",
+    "published_date": "2025-12-05T08:51:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 305,
+      "author": "bakigul",
+      "comments": 163,
+      "hn_id": 46158200
+    },
+    "objects": []
+  },
+  {
+    "id": "1d1df0ddeb9b5a3b4dc0a8808a7d1e0d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Kenyan court declares law banning seed sharing unconstitutional",
+    "description": "",
+    "url": "https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80",
+    "published_date": "2025-12-05T09:09:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 280,
+      "author": "thunderbong",
+      "comments": 88,
+      "hn_id": 46158578
+    },
+    "objects": []
+  },
+  {
+    "id": "5a8f4e71acdd3b9b89fd324073d3abb7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Fighting the age-gated internet",
+    "description": "",
+    "url": "https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/",
+    "published_date": "2025-12-04T13:34:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 266,
+      "author": "geox",
+      "comments": 277,
+      "hn_id": 46147493
+    },
+    "objects": []
+  },
+  {
+    "id": "5876299d109c5c9a320a0a32670de5f9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Autism should not be treated as a single condition",
+    "description": "",
+    "url": "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition",
+    "published_date": "2025-12-04T16:25:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 256,
+      "author": "bookofjoe",
+      "comments": 307,
+      "hn_id": 46149375
+    },
+    "objects": []
+  },
+  {
+    "id": "4f6853e171fa4a53e74e6ed3beb1e354",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Most technical problems are people problems",
+    "description": "",
+    "url": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html",
+    "published_date": "2025-12-05T13:07:59+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 247,
+      "author": "mooreds",
+      "comments": 217,
+      "hn_id": 46160773
+    },
+    "objects": []
+  },
+  {
+    "id": "8ed443a24a0425bf26563d1adb2cbcc5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/c1w932vqye0o",
+    "published_date": "2025-12-04T20:56:08+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 246,
+      "author": "toss1",
+      "comments": 202,
+      "hn_id": 46152941
+    },
+    "objects": []
+  },
+  {
+    "id": "b4d602a1ab5043fd6d03871d1dbc7615",
+    "source": "hackernews",
+    "type": "story",
+    "title": "State Department to deny visas to fact checkers and others, citing 'censorship'",
+    "description": "",
+    "url": "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship",
+    "published_date": "2025-12-05T04:59:08+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 244,
+      "author": "seattle_spring",
+      "comments": 238,
+      "hn_id": 46156979
+    },
+    "objects": []
+  },
+  {
+    "id": "86456a1da08e584d501b6fe480c847e3",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality",
+    "description": "",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305",
+    "published_date": "2025-12-05T15:07:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 242,
+      "author": "bpierre",
+      "comments": 241,
+      "hn_id": 46162262
+    },
+    "objects": []
+  },
+  {
+    "id": "c142c1837c284ceff4bab649dc916dc3",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I have been writing a niche history blog for 15 years",
+    "description": "",
+    "url": "https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history",
+    "published_date": "2025-12-04T18:49:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 239,
+      "author": "benbreen",
+      "comments": 43,
+      "hn_id": 46151299
+    },
+    "objects": []
+  },
+  {
+    "id": "b592a9198a3307c104f42b4392ef15e8",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit",
+    "description": "",
+    "url": "https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html",
+    "published_date": "2025-12-05T15:49:56+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 234,
+      "author": "woodrowbarlow",
+      "comments": 112,
+      "hn_id": 46162872
+    },
+    "objects": []
+  },
+  {
+    "id": "250d7bca7e60be2db7f3ba2c1df73849",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Tunnl.gg",
+    "description": "",
+    "url": "https://tunnl.gg",
+    "published_date": "2025-12-04T10:15:53+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 233,
+      "author": "klipitkas",
+      "comments": 101,
+      "hn_id": 46145902
+    },
+    "objects": []
+  },
+  {
+    "id": "f3498c42df4b4356bf388b953ae24803",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Influential study on glyphosate safety retracted 25 years after publication",
+    "description": "",
+    "url": "https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html",
+    "published_date": "2025-12-05T13:39:04+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 215,
+      "author": "isolli",
+      "comments": 201,
+      "hn_id": 46161125
+    },
+    "objects": []
+  },
+  {
+    "id": "106ce0b803f36353df75712a2d014762",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Programming peaked",
+    "description": "",
+    "url": "https://functional.computer/blog/programming-peaked",
+    "published_date": "2025-12-04T10:01:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 214,
+      "author": "Antibabelic",
+      "comments": 207,
+      "hn_id": 46145797
+    },
+    "objects": []
+  },
+  {
+    "id": "5709b0a96ab032ef9eb8a3a389edd119",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Jolla Phone Pre-Order",
+    "description": "",
+    "url": "https://commerce.jolla.com/products/jolla-phone-preorder",
+    "published_date": "2025-12-05T15:15:12+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 210,
+      "author": "jhoho",
+      "comments": 200,
+      "hn_id": 46162368
+    },
+    "objects": []
+  },
+  {
+    "id": "594e6560cd3255188fbbae91a806294b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
+    "description": "",
+    "url": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
+    "published_date": "2025-12-04T11:32:00+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 205,
+      "author": "donohoe",
+      "comments": 95,
+      "hn_id": 46146406
     },
     "objects": []
   },
@@ -784,82 +730,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 179,
+      "score": 200,
       "author": "anjneymidha",
-      "comments": 78,
+      "comments": 92,
       "hn_id": 46154022
     },
     "objects": []
   },
   {
-    "id": "1b50c3a2e7f2e49e3ca228e446fb8562",
+    "id": "b41512b84e7fa7db3a33ce782410abc3",
     "source": "hackernews",
     "type": "story",
-    "title": "Mapping the US healthcare system’s financial flows",
+    "title": "The effect of shingles vaccination at different stages of dementia",
     "description": "",
-    "url": "https://healthisotherpeople.substack.com/p/an-abominable-creature",
-    "published_date": "2025-12-03T14:42:02+00:00",
+    "url": "https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5",
+    "published_date": "2025-12-05T17:47:16+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 178,
-      "author": "brandonb",
-      "comments": 168,
-      "hn_id": 46135008
-    },
-    "objects": []
-  },
-  {
-    "id": "749cb26636f1311e9821ab8ac55930ff",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Fresh – A new terminal editor built in Rust",
-    "description": "",
-    "url": "https://sinelaw.github.io/fresh/",
-    "published_date": "2025-12-03T14:45:26+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 174,
-      "author": "_sinelaw_",
-      "comments": 134,
-      "hn_id": 46135067
-    },
-    "objects": []
-  },
-  {
-    "id": "00dd85ef2fedb88cae924152fcf4e5ca",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Lie groups are crucial to some of the most fundamental theories in physics",
-    "description": "",
-    "url": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
-    "published_date": "2025-12-03T19:12:40+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 168,
-      "author": "ibobev",
-      "comments": 57,
-      "hn_id": 46138632
-    },
-    "objects": []
-  },
-  {
-    "id": "48f5bc93cbadbc172506b2898636e301",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Japanese four-cylinder engine is so reliable still in production after 25 years",
-    "description": "",
-    "url": "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/",
-    "published_date": "2025-12-04T12:09:43+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 164,
-      "author": "teleforce",
-      "comments": 144,
-      "hn_id": 46146740
+      "score": 184,
+      "author": "Archelaos",
+      "comments": 121,
+      "hn_id": 46164646
     },
     "objects": []
   },
@@ -874,10 +766,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 159,
+      "score": 177,
       "author": "AwkwardPanda",
-      "comments": 136,
+      "comments": 145,
       "hn_id": 46148460
+    },
+    "objects": []
+  },
+  {
+    "id": "a7aa2ca9309621e8b7694f68e3097b16",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Gemini 3 Pro: the frontier of vision AI",
+    "description": "",
+    "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+    "published_date": "2025-12-05T16:15:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 174,
+      "author": "xnx",
+      "comments": 73,
+      "hn_id": 46163308
+    },
+    "objects": []
+  },
+  {
+    "id": "48f5bc93cbadbc172506b2898636e301",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Japanese four-cylinder engine is so reliable still in production after 25 years",
+    "description": "",
+    "url": "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/",
+    "published_date": "2025-12-04T12:09:43+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 171,
+      "author": "teleforce",
+      "comments": 151,
+      "hn_id": 46146740
     },
     "objects": []
   },
@@ -892,10 +820,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 156,
+      "score": 166,
       "author": "thunderbong",
-      "comments": 75,
+      "comments": 85,
       "hn_id": 46149019
+    },
+    "objects": []
+  },
+  {
+    "id": "8e872751a892ee523b78a0a499b04a5b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "NeurIPS 2025 Best Paper Awards",
+    "description": "",
+    "url": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+    "published_date": "2025-12-05T01:15:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 159,
+      "author": "ivansavz",
+      "comments": 25,
+      "hn_id": 46155701
+    },
+    "objects": []
+  },
+  {
+    "id": "d6f62218bf84563f9e0c5c5527858965",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Making RSS More Fun",
+    "description": "",
+    "url": "https://matduggan.com/making-rss-more-fun/",
+    "published_date": "2025-12-05T13:00:28+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 156,
+      "author": "salmon",
+      "comments": 78,
+      "hn_id": 46160698
+    },
+    "objects": []
+  },
+  {
+    "id": "66ba84d084226b5a8b989de1a4968d38",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The Free Software Foundation Europe deleted its account on X",
+    "description": "",
+    "url": "https://fsfe.org/news/2025/news-20251204-01.en.html",
+    "published_date": "2025-12-04T15:33:14+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 154,
+      "author": "latexr",
+      "comments": 172,
+      "hn_id": 46148763
+    },
+    "objects": []
+  },
+  {
+    "id": "f6ac2d0d35ad29b2f35d6beffc48af74",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Why WinQuake exists and how it works",
+    "description": "",
+    "url": "https://fabiensanglard.net/winquake/index.html",
+    "published_date": "2025-12-04T01:58:15+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 151,
+      "author": "wicket",
+      "comments": 50,
+      "hn_id": 46142866
     },
     "objects": []
   }

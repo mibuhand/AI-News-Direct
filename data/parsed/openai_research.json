@@ -1,5 +1,22 @@
 [
     {
+        "id": "2ce28f3cfd7679be0ab59c0e10dcce2a",
+        "source": "openai",
+        "type": "research",
+        "title": "How confessions can keep language models honest",
+        "description": "OpenAI researchers are testing \u201cconfessions,\u201d a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+        "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest/",
+        "published_date": "2025-12-03T10:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
         "id": "3a40213ef23ea9cb083d60f173b66831",
         "source": "openai",
         "type": "research",
@@ -132,23 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "3601f3ad341eb27939506c0f5e361225",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing gpt-oss-safeguard",
-        "description": "OpenAI introduces gpt-oss-safeguard\u2014open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     }
