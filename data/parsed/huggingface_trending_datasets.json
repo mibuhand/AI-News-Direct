@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/ToolScale",
-    "description": "Downloads: 1,492<br/>Likes: 76",
+    "description": "Downloads: 1,492<br/>Likes: 77",
     "url": "https://huggingface.co/datasets/nvidia/ToolScale",
-    "published_date": "2025-12-05T21:19:32.983803+00:00",
+    "published_date": "2025-12-06T09:22:53.530965+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "ToolScale",
       "downloads": 1492,
-      "likes": 76,
+      "likes": 77,
       "last_modified": "2025-11-27T04:02:56.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Anthropic/AnthropicInterviewer",
-    "description": "Downloads: 798<br/>Likes: 56",
+    "description": "Downloads: 798<br/>Likes: 68",
     "url": "https://huggingface.co/datasets/Anthropic/AnthropicInterviewer",
-    "published_date": "2025-12-05T21:19:32.983818+00:00",
+    "published_date": "2025-12-06T09:22:53.530982+00:00",
     "categories": [],
     "metadata": {
       "author": "Anthropic",
       "item_name": "AnthropicInterviewer",
       "downloads": 798,
-      "likes": 56,
+      "likes": 68,
       "last_modified": "2025-12-04T16:52:17.000Z",
       "all_tags": []
     }
@@ -40,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 168,209<br/>Likes: 462",
+    "description": "Downloads: 168,209<br/>Likes: 467",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2025-12-05T21:19:32.983827+00:00",
+    "published_date": "2025-12-06T09:22:53.530988+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "PhysicalAI-Autonomous-Vehicles",
       "downloads": 168209,
-      "likes": 462,
+      "likes": 467,
       "last_modified": "2025-12-05T18:23:36.000Z",
       "all_tags": []
     }
@@ -60,7 +60,7 @@
     "title": "opendatalab/AICC",
     "description": "Downloads: 41,689<br/>Likes: 75",
     "url": "https://huggingface.co/datasets/opendatalab/AICC",
-    "published_date": "2025-12-05T21:19:32.983834+00:00",
+    "published_date": "2025-12-06T09:22:53.530993+00:00",
     "categories": [],
     "metadata": {
       "author": "opendatalab",
@@ -72,13 +72,31 @@
     }
   },
   {
+    "id": "aed8c9a1dacb095526e6a892c3ddd385",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "TuringEnterprises/Turing-Open-Reasoning",
+    "description": "Downloads: 166<br/>Likes: 31",
+    "url": "https://huggingface.co/datasets/TuringEnterprises/Turing-Open-Reasoning",
+    "published_date": "2025-12-06T09:22:53.531003+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "TuringEnterprises",
+      "item_name": "Turing-Open-Reasoning",
+      "downloads": 166,
+      "likes": 31,
+      "last_modified": "2025-12-06T08:52:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "0d6a7277196739684279c910793daab1",
     "source": "huggingface",
     "type": "dataset",
     "title": "openai/gdpval",
     "description": "Downloads: 22,282<br/>Likes: 309",
     "url": "https://huggingface.co/datasets/openai/gdpval",
-    "published_date": "2025-12-05T21:19:32.983846+00:00",
+    "published_date": "2025-12-06T09:22:53.531008+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -90,31 +108,13 @@
     }
   },
   {
-    "id": "aed8c9a1dacb095526e6a892c3ddd385",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "TuringEnterprises/Turing-Open-Reasoning",
-    "description": "Downloads: 166<br/>Likes: 31",
-    "url": "https://huggingface.co/datasets/TuringEnterprises/Turing-Open-Reasoning",
-    "published_date": "2025-12-05T21:19:32.983852+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "TuringEnterprises",
-      "item_name": "Turing-Open-Reasoning",
-      "downloads": 166,
-      "likes": 31,
-      "last_modified": "2025-12-03T07:59:19.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "cb23f1cb84eef615da5f736eda77454c",
     "source": "huggingface",
     "type": "dataset",
     "title": "openbmb/InfLLM-V2-data-5B",
     "description": "Downloads: 190<br/>Likes: 29",
     "url": "https://huggingface.co/datasets/openbmb/InfLLM-V2-data-5B",
-    "published_date": "2025-12-05T21:19:32.983859+00:00",
+    "published_date": "2025-12-06T09:22:53.531013+00:00",
     "categories": [],
     "metadata": {
       "author": "openbmb",
@@ -126,31 +126,13 @@
     }
   },
   {
-    "id": "08f827f19c6850d5a65a3422638502a4",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ytz20/LMSYS-Chat-GPT-5-Chat-Response",
-    "description": "Downloads: 2,848<br/>Likes: 85",
-    "url": "https://huggingface.co/datasets/ytz20/LMSYS-Chat-GPT-5-Chat-Response",
-    "published_date": "2025-12-05T21:19:32.983864+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ytz20",
-      "item_name": "LMSYS-Chat-GPT-5-Chat-Response",
-      "downloads": 2848,
-      "likes": 85,
-      "last_modified": "2025-11-17T03:52:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "e89ef99eb97c222eebb4f7e896e98759",
     "source": "huggingface",
     "type": "dataset",
     "title": "natolambert/GeneralThought-430K-filtered",
     "description": "Downloads: 590<br/>Likes: 23",
     "url": "https://huggingface.co/datasets/natolambert/GeneralThought-430K-filtered",
-    "published_date": "2025-12-05T21:19:32.983870+00:00",
+    "published_date": "2025-12-06T09:22:53.531017+00:00",
     "categories": [],
     "metadata": {
       "author": "natolambert",
@@ -162,13 +144,31 @@
     }
   },
   {
+    "id": "08f827f19c6850d5a65a3422638502a4",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "ytz20/LMSYS-Chat-GPT-5-Chat-Response",
+    "description": "Downloads: 2,848<br/>Likes: 85",
+    "url": "https://huggingface.co/datasets/ytz20/LMSYS-Chat-GPT-5-Chat-Response",
+    "published_date": "2025-12-06T09:22:53.531022+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "ytz20",
+      "item_name": "LMSYS-Chat-GPT-5-Chat-Response",
+      "downloads": 2848,
+      "likes": 85,
+      "last_modified": "2025-11-17T03:52:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "924ac0f689941cb8f6fa8fda8d22a8c5",
     "source": "huggingface",
     "type": "dataset",
     "title": "opendatalab-raiser/Envision",
     "description": "Downloads: 59<br/>Likes: 21",
     "url": "https://huggingface.co/datasets/opendatalab-raiser/Envision",
-    "published_date": "2025-12-05T21:19:32.983876+00:00",
+    "published_date": "2025-12-06T09:22:53.531027+00:00",
     "categories": [],
     "metadata": {
       "author": "opendatalab-raiser",
@@ -184,15 +184,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ASLP-lab/WSC-Train",
-    "description": "Downloads: 202<br/>Likes: 32",
+    "description": "Downloads: 202<br/>Likes: 33",
     "url": "https://huggingface.co/datasets/ASLP-lab/WSC-Train",
-    "published_date": "2025-12-05T21:19:32.983881+00:00",
+    "published_date": "2025-12-06T09:22:53.531031+00:00",
     "categories": [],
     "metadata": {
       "author": "ASLP-lab",
       "item_name": "WSC-Train",
       "downloads": 202,
-      "likes": 32,
+      "likes": 33,
       "last_modified": "2025-11-27T06:11:27.000Z",
       "all_tags": []
     }
@@ -204,7 +204,7 @@
     "title": "ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0",
     "description": "Downloads: 325<br/>Likes: 16",
     "url": "https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0",
-    "published_date": "2025-12-05T21:19:32.983886+00:00",
+    "published_date": "2025-12-06T09:22:53.531035+00:00",
     "categories": [],
     "metadata": {
       "author": "ytu-ce-cosmos",
@@ -216,37 +216,19 @@
     }
   },
   {
-    "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/gsm8k",
-    "description": "Downloads: 444,210<br/>Likes: 1003",
-    "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-12-05T21:19:32.983892+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "gsm8k",
-      "downloads": 444210,
-      "likes": 1003,
-      "last_modified": "2024-01-04T12:05:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "425440281062ea6f6fe58f0dfcf0f05b",
     "source": "huggingface",
     "type": "dataset",
     "title": "nex-agi/agent-sft",
-    "description": "Downloads: 820<br/>Likes: 75",
+    "description": "Downloads: 820<br/>Likes: 76",
     "url": "https://huggingface.co/datasets/nex-agi/agent-sft",
-    "published_date": "2025-12-05T21:19:32.983897+00:00",
+    "published_date": "2025-12-06T09:22:53.531039+00:00",
     "categories": [],
     "metadata": {
       "author": "nex-agi",
       "item_name": "agent-sft",
       "downloads": 820,
-      "likes": 75,
+      "likes": 76,
       "last_modified": "2025-11-22T17:44:34.000Z",
       "all_tags": []
     }
@@ -258,7 +240,7 @@
     "title": "perplexity-ai/browsesafe-bench",
     "description": "Downloads: 337<br/>Likes: 14",
     "url": "https://huggingface.co/datasets/perplexity-ai/browsesafe-bench",
-    "published_date": "2025-12-05T21:19:32.983903+00:00",
+    "published_date": "2025-12-06T09:22:53.531044+00:00",
     "categories": [],
     "metadata": {
       "author": "perplexity-ai",
@@ -276,7 +258,7 @@
     "title": "ccmusic-database/pianos",
     "description": "Downloads: 305<br/>Likes: 50",
     "url": "https://huggingface.co/datasets/ccmusic-database/pianos",
-    "published_date": "2025-12-05T21:19:32.983909+00:00",
+    "published_date": "2025-12-06T09:22:53.531049+00:00",
     "categories": [],
     "metadata": {
       "author": "ccmusic-database",
@@ -288,13 +270,31 @@
     }
   },
   {
+    "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/gsm8k",
+    "description": "Downloads: 444,210<br/>Likes: 1003",
+    "url": "https://huggingface.co/datasets/openai/gsm8k",
+    "published_date": "2025-12-06T09:22:53.531055+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gsm8k",
+      "downloads": 444210,
+      "likes": 1003,
+      "last_modified": "2024-01-04T12:05:15.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "a27cbe9e5f2d626fdf475af5194a2c9a",
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
     "description": "Downloads: 34,946<br/>Likes: 9430",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-12-05T21:19:32.983916+00:00",
+    "published_date": "2025-12-06T09:22:53.531060+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
@@ -312,7 +312,7 @@
     "title": "llm-jp/AnswerCarefully",
     "description": "Downloads: 7,090<br/>Likes: 43",
     "url": "https://huggingface.co/datasets/llm-jp/AnswerCarefully",
-    "published_date": "2025-12-05T21:19:32.983922+00:00",
+    "published_date": "2025-12-06T09:22:53.531064+00:00",
     "categories": [],
     "metadata": {
       "author": "llm-jp",
@@ -330,7 +330,7 @@
     "title": "ccmusic-database/music_genre",
     "description": "Downloads: 570<br/>Likes: 61",
     "url": "https://huggingface.co/datasets/ccmusic-database/music_genre",
-    "published_date": "2025-12-05T21:19:32.983927+00:00",
+    "published_date": "2025-12-06T09:22:53.531069+00:00",
     "categories": [],
     "metadata": {
       "author": "ccmusic-database",
@@ -348,7 +348,7 @@
     "title": "ccmusic-database/bel_canto",
     "description": "Downloads: 348<br/>Likes: 31",
     "url": "https://huggingface.co/datasets/ccmusic-database/bel_canto",
-    "published_date": "2025-12-05T21:19:32.983933+00:00",
+    "published_date": "2025-12-06T09:22:53.531073+00:00",
     "categories": [],
     "metadata": {
       "author": "ccmusic-database",
