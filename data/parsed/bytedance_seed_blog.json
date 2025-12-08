@@ -1,5 +1,32 @@
 [
     {
+        "id": "3c229cde92d480847561dac9092879af",
+        "source": "bytedance_seed",
+        "type": "blog",
+        "title": "",
+        "description": "",
+        "url": "https://seed.bytedance.com/en/blog/",
+        "published_date": "2025-12-01T16:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {},
+        "objects": [],
+        "title_localized": {
+            "en": "",
+            "zh": "Seed Research\uff5cGR-RL \u53d1\u5e03\uff1a\u7a81\u7834VLA\u7cbe\u7ec6\u64cd\u4f5c\u74f6\u9888\uff0c\u9996\u6b21\u5b9e\u73b0\u771f\u673a\u5f3a\u5316\u5b66\u4e60\u7a7f\u978b\u5e26"
+        },
+        "description_localized": {
+            "en": "",
+            "zh": "\u8ba9 VLA \u5728\u771f\u5b9e\u73af\u5883\u4e2d\u4ea4\u4e92\u5b66\u4e60"
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/blog/",
+            "zh": "https://seed.bytedance.com/zh/blog/seed-research-gr-rl-\u53d1\u5e03-\u7a81\u7834vla\u7cbe\u7ec6\u64cd\u4f5c\u74f6\u9888-\u9996\u6b21\u5b9e\u73b0\u771f\u673a\u5f3a\u5316\u5b66\u4e60\u7a7f\u978b\u5e26"
+        }
+    },
+    {
         "id": "cb874905c7f92588b7248641fff175fc",
         "source": "bytedance_seed",
         "type": "blog",
@@ -213,60 +240,6 @@
         "url_localized": {
             "en": "https://seed.bytedance.com/en/blog/seed-liveinterpret-2-0-released-an-end-to-end-simultaneous-interpretation-model-featuring-ultra-high-accuracy-close-to-human-interpreters-low-latency-of-3-seconds-and-real-time-voice-cloning",
             "zh": "https://seed.bytedance.com/zh/blog/seed-\u7aef\u5230\u7aef\u540c\u58f0\u4f20\u8bd1\u5927\u6a21\u578b\u53d1\u5e03-\u51c6\u786e\u7387\u63a5\u8fd1\u771f\u4eba-3s-\u5ef6\u8fdf-\u5b9e\u65f6\u58f0\u97f3\u590d\u523b"
-        }
-    },
-    {
-        "id": "1a8d81cfd7f3b52f5f79a95186867a88",
-        "source": "bytedance_seed",
-        "type": "blog",
-        "title": "ByteDance Seed Prover Achieves Silver Medal Score in IMO 2025",
-        "description": "Formal verification + computational power scaling at inference time to enhance the depth of mathematical reasoning.",
-        "url": "https://seed.bytedance.com/en/blog/bytedance-seed-prover-achieves-silver-medal-score-in-imo-2025",
-        "published_date": "2025-07-22T16:00:00+00:00",
-        "categories": [
-            "Team News"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {},
-        "objects": [],
-        "title_localized": {
-            "en": "ByteDance Seed Prover Achieves Silver Medal Score in IMO 2025",
-            "zh": "\u5b57\u8282\u8df3\u52a8 Seed Prover \u53d6\u5f97 IMO 2025 \u94f6\u724c\u5206\u6570"
-        },
-        "description_localized": {
-            "en": "Formal verification + computational power scaling at inference time to enhance the depth of mathematical reasoning.",
-            "zh": "\u5f62\u5f0f\u5316\u9a8c\u8bc1+\u6d4b\u7b97\u65f6\u7b97\u529b\u62d3\u5c55\uff0c\u63d0\u5347\u6570\u5b66\u601d\u8003\u6df1\u5ea6"
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/blog/bytedance-seed-prover-achieves-silver-medal-score-in-imo-2025",
-            "zh": "https://seed.bytedance.com/zh/blog/\u5b57\u8282\u8df3\u52a8-seed-prover-\u53d6\u5f97-imo-2025-\u94f6\u724c\u5206\u6570"
-        }
-    },
-    {
-        "id": "f6b99d486ee1bb500ef202a8514fb83d",
-        "source": "bytedance_seed",
-        "type": "blog",
-        "title": "Seed Research\uffe8GR-3 Released: A Generalist Robot Model for Generalization, Long-Horizon Tasks, and Bi-Manual Deformable Object Manipulation",
-        "description": "A generalizable robot operation model that supports long-range and complex tasks",
-        "url": "https://seed.bytedance.com/en/blog/seed-research-gr-3-released-a-generalist-robot-model-for-generalization-long-horizon-tasks-and-bi-manual-deformable-object-manipulation",
-        "published_date": "2025-07-21T16:00:00+00:00",
-        "categories": [
-            "Models"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {},
-        "objects": [],
-        "title_localized": {
-            "en": "Seed Research\uffe8GR-3 Released: A Generalist Robot Model for Generalization, Long-Horizon Tasks, and Bi-Manual Deformable Object Manipulation",
-            "zh": "Seed Research\uffe8\u901a\u7528\u673a\u5668\u4eba\u6a21\u578b GR-3 \u53d1\u5e03\uff01\u652f\u6301\u9ad8\u6cdb\u5316\u3001\u957f\u7a0b\u4efb\u52a1\u3001\u67d4\u6027\u7269\u4f53\u53cc\u81c2\u64cd\u4f5c"
-        },
-        "description_localized": {
-            "en": "A generalizable robot operation model that supports long-range and complex tasks",
-            "zh": "\u4e00\u4e2a\u53ef\u6cdb\u5316\u3001\u652f\u6301\u957f\u7a0b\u4ee5\u53ca\u590d\u6742\u4efb\u52a1\u7684\u673a\u5668\u4eba\u64cd\u4f5c\u5927\u6a21\u578b"
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/blog/seed-research-gr-3-released-a-generalist-robot-model-for-generalization-long-horizon-tasks-and-bi-manual-deformable-object-manipulation",
-            "zh": "https://seed.bytedance.com/zh/blog/seed-research-\u901a\u7528\u673a\u5668\u4eba\u6a21\u578b-gr-3-\u53d1\u5e03-\u652f\u6301\u9ad8\u6cdb\u5316-\u957f\u7a0b\u4efb\u52a1-\u67d4\u6027\u7269\u4f53\u53cc\u81c2\u64cd\u4f5c"
         }
     }
 ]
