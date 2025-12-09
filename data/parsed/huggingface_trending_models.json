@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Tongyi-MAI/Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 201,990<br/>Likes: 2382",
+    "description": "Type: text-to-image<br/>Downloads: 217,428<br/>Likes: 2418",
     "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-    "published_date": "2025-12-09T09:28:16.403094+00:00",
+    "published_date": "2025-12-09T21:19:05.212440+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "Tongyi-MAI",
       "item_name": "Z-Image-Turbo",
-      "downloads": 201990,
-      "likes": 2382,
+      "downloads": 217428,
+      "likes": 2418,
       "last_modified": "2025-12-08T16:41:03.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/VibeVoice-Realtime-0.5B",
-    "description": "Type: text-to-speech<br/>Downloads: 40,450<br/>Likes: 558",
+    "description": "Type: text-to-speech<br/>Downloads: 56,958<br/>Likes: 589",
     "url": "https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B",
-    "published_date": "2025-12-09T09:28:16.403120+00:00",
+    "published_date": "2025-12-09T21:19:05.212467+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "microsoft",
       "item_name": "VibeVoice-Realtime-0.5B",
-      "downloads": 40450,
-      "likes": 558,
+      "downloads": 56958,
+      "likes": 589,
       "last_modified": "2025-12-09T04:22:07.000Z",
       "all_tags": []
     }
@@ -44,17 +44,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V3.2",
-    "description": "Type: text-generation<br/>Downloads: 28,778<br/>Likes: 829",
+    "description": "Type: text-generation<br/>Downloads: 33,102<br/>Likes: 840",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
-    "published_date": "2025-12-09T09:28:16.403128+00:00",
+    "published_date": "2025-12-09T21:19:05.212476+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V3.2",
-      "downloads": 28778,
-      "likes": 829,
+      "downloads": 33102,
+      "likes": 840,
       "last_modified": "2025-12-01T11:04:59.000Z",
       "all_tags": []
     }
@@ -64,36 +64,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union",
-    "description": "Likes: 282",
+    "description": "Likes: 288",
     "url": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union",
-    "published_date": "2025-12-09T09:28:16.403134+00:00",
+    "published_date": "2025-12-09T21:19:05.212481+00:00",
     "categories": [],
     "metadata": {
       "author": "alibaba-pai",
       "item_name": "Z-Image-Turbo-Fun-Controlnet-Union",
       "downloads": 0,
-      "likes": 282,
+      "likes": 288,
       "last_modified": "2025-12-02T06:54:47.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "103fa4090cd3cc2ca7fd6e44cefca4b6",
-    "source": "huggingface",
-    "type": "model",
-    "title": "deepseek-ai/DeepSeek-V3.2-Speciale",
-    "description": "Type: text-generation<br/>Downloads: 8,016<br/>Likes: 560",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale",
-    "published_date": "2025-12-09T09:28:16.403140+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "deepseek-ai",
-      "item_name": "DeepSeek-V3.2-Speciale",
-      "downloads": 8016,
-      "likes": 560,
-      "last_modified": "2025-12-01T11:06:03.000Z",
       "all_tags": []
     }
   },
@@ -102,18 +82,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.6V-Flash",
-    "description": "Type: image-text-to-text<br/>Likes: 184",
+    "description": "Type: image-text-to-text<br/>Downloads: 6,920<br/>Likes: 222",
     "url": "https://huggingface.co/zai-org/GLM-4.6V-Flash",
-    "published_date": "2025-12-09T09:28:16.403148+00:00",
+    "published_date": "2025-12-09T21:19:05.212520+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-4.6V-Flash",
-      "downloads": 0,
-      "likes": 184,
-      "last_modified": "2025-12-09T05:33:00.000Z",
+      "downloads": 6920,
+      "likes": 222,
+      "last_modified": "2025-12-09T18:06:43.000Z",
       "all_tags": []
     }
   },
@@ -122,18 +102,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.6V",
-    "description": "Type: image-text-to-text<br/>Likes: 173",
+    "description": "Type: image-text-to-text<br/>Downloads: 687<br/>Likes: 195",
     "url": "https://huggingface.co/zai-org/GLM-4.6V",
-    "published_date": "2025-12-09T09:28:16.403156+00:00",
+    "published_date": "2025-12-09T21:19:05.212534+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-4.6V",
-      "downloads": 0,
-      "likes": 173,
+      "downloads": 687,
+      "likes": 195,
       "last_modified": "2025-12-09T05:34:59.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "103fa4090cd3cc2ca7fd6e44cefca4b6",
+    "source": "huggingface",
+    "type": "model",
+    "title": "deepseek-ai/DeepSeek-V3.2-Speciale",
+    "description": "Type: text-generation<br/>Downloads: 9,310<br/>Likes: 569",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale",
+    "published_date": "2025-12-09T21:19:05.212541+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "deepseek-ai",
+      "item_name": "DeepSeek-V3.2-Speciale",
+      "downloads": 9310,
+      "likes": 569,
+      "last_modified": "2025-12-01T11:06:03.000Z",
       "all_tags": []
     }
   },
@@ -142,15 +142,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Mistral-Large-3-675B-Instruct-2512",
-    "description": "Downloads: 372<br/>Likes: 172",
+    "description": "Downloads: 400<br/>Likes: 174",
     "url": "https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512",
-    "published_date": "2025-12-09T09:28:16.403161+00:00",
+    "published_date": "2025-12-09T21:19:05.212572+00:00",
     "categories": [],
     "metadata": {
       "author": "mistralai",
       "item_name": "Mistral-Large-3-675B-Instruct-2512",
-      "downloads": 372,
-      "likes": 172,
+      "downloads": 400,
+      "likes": 174,
       "last_modified": "2025-12-03T12:46:57.000Z",
       "all_tags": []
     }
@@ -160,56 +160,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/Nemotron-Orchestrator-8B",
-    "description": "Type: text-generation<br/>Downloads: 3,573<br/>Likes: 397",
+    "description": "Type: text-generation<br/>Downloads: 4,106<br/>Likes: 410",
     "url": "https://huggingface.co/nvidia/Nemotron-Orchestrator-8B",
-    "published_date": "2025-12-09T09:28:16.403167+00:00",
+    "published_date": "2025-12-09T21:19:05.212578+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Orchestrator-8B",
-      "downloads": 3573,
-      "likes": 397,
+      "downloads": 4106,
+      "likes": 410,
       "last_modified": "2025-12-02T06:56:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "900b5a5a86925d94773eb496145bf4e2",
-    "source": "huggingface",
-    "type": "model",
-    "title": "mistralai/Ministral-3-14B-Instruct-2512",
-    "description": "Downloads: 179,920<br/>Likes: 156",
-    "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
-    "published_date": "2025-12-09T09:28:16.403172+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "mistralai",
-      "item_name": "Ministral-3-14B-Instruct-2512",
-      "downloads": 179920,
-      "likes": 156,
-      "last_modified": "2025-12-05T11:13:07.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "f31bfd307e007f85193b0a03cc7fd17c",
-    "source": "huggingface",
-    "type": "model",
-    "title": "meituan-longcat/LongCat-Image",
-    "description": "Type: text-to-image<br/>Downloads: 99<br/>Likes: 156",
-    "url": "https://huggingface.co/meituan-longcat/LongCat-Image",
-    "published_date": "2025-12-09T09:28:16.403177+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "meituan-longcat",
-      "item_name": "LongCat-Image",
-      "downloads": 99,
-      "likes": 156,
-      "last_modified": "2025-12-09T05:58:32.000Z",
       "all_tags": []
     }
   },
@@ -218,18 +180,56 @@
     "source": "huggingface",
     "type": "model",
     "title": "EssentialAI/rnj-1-instruct",
-    "description": "Type: text-generation<br/>Downloads: 441,288<br/>Likes: 144",
+    "description": "Type: text-generation<br/>Downloads: 443,437<br/>Likes: 165",
     "url": "https://huggingface.co/EssentialAI/rnj-1-instruct",
-    "published_date": "2025-12-09T09:28:16.403182+00:00",
+    "published_date": "2025-12-09T21:19:05.212584+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "EssentialAI",
       "item_name": "rnj-1-instruct",
-      "downloads": 441288,
-      "likes": 144,
+      "downloads": 443437,
+      "likes": 165,
       "last_modified": "2025-12-08T21:14:40.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f31bfd307e007f85193b0a03cc7fd17c",
+    "source": "huggingface",
+    "type": "model",
+    "title": "meituan-longcat/LongCat-Image",
+    "description": "Type: text-to-image<br/>Downloads: 303<br/>Likes: 164",
+    "url": "https://huggingface.co/meituan-longcat/LongCat-Image",
+    "published_date": "2025-12-09T21:19:05.212589+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "meituan-longcat",
+      "item_name": "LongCat-Image",
+      "downloads": 303,
+      "likes": 164,
+      "last_modified": "2025-12-09T05:58:32.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "900b5a5a86925d94773eb496145bf4e2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "mistralai/Ministral-3-14B-Instruct-2512",
+    "description": "Downloads: 237,941<br/>Likes: 162",
+    "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
+    "published_date": "2025-12-09T21:19:05.212594+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "mistralai",
+      "item_name": "Ministral-3-14B-Instruct-2512",
+      "downloads": 237941,
+      "likes": 162,
+      "last_modified": "2025-12-05T11:13:07.000Z",
       "all_tags": []
     }
   },
@@ -238,36 +238,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "apple/CLaRa-7B-Instruct",
-    "description": "Likes: 142",
+    "description": "Likes: 148",
     "url": "https://huggingface.co/apple/CLaRa-7B-Instruct",
-    "published_date": "2025-12-09T09:28:16.403187+00:00",
+    "published_date": "2025-12-09T21:19:05.212599+00:00",
     "categories": [],
     "metadata": {
       "author": "apple",
       "item_name": "CLaRa-7B-Instruct",
       "downloads": 0,
-      "likes": 142,
+      "likes": 148,
       "last_modified": "2025-12-08T04:46:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "5ae1313fb7176dae3bfee1fec71ebc46",
-    "source": "huggingface",
-    "type": "model",
-    "title": "black-forest-labs/FLUX.2-dev",
-    "description": "Type: image-to-image<br/>Downloads: 207,838<br/>Likes: 946",
-    "url": "https://huggingface.co/black-forest-labs/FLUX.2-dev",
-    "published_date": "2025-12-09T09:28:16.403192+00:00",
-    "categories": [
-      "image-to-image"
-    ],
-    "metadata": {
-      "author": "black-forest-labs",
-      "item_name": "FLUX.2-dev",
-      "downloads": 207838,
-      "likes": 946,
-      "last_modified": "2025-11-27T11:17:09.000Z",
       "all_tags": []
     }
   },
@@ -276,36 +256,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "NewBie-AI/NewBie-image-Exp0.1",
-    "description": "Type: text-to-image<br/>Downloads: 276<br/>Likes: 127",
+    "description": "Type: text-to-image<br/>Downloads: 347<br/>Likes: 140",
     "url": "https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1",
-    "published_date": "2025-12-09T09:28:16.403200+00:00",
+    "published_date": "2025-12-09T21:19:05.212604+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "NewBie-AI",
       "item_name": "NewBie-image-Exp0.1",
-      "downloads": 276,
-      "likes": 127,
+      "downloads": 347,
+      "likes": 140,
       "last_modified": "2025-12-07T01:43:12.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "cdeca30270f24ae7bdce21a675e5c905",
+    "id": "5ae1313fb7176dae3bfee1fec71ebc46",
     "source": "huggingface",
     "type": "model",
-    "title": "apple/starflow",
-    "description": "Likes: 250",
-    "url": "https://huggingface.co/apple/starflow",
-    "published_date": "2025-12-09T09:28:16.403210+00:00",
-    "categories": [],
+    "title": "black-forest-labs/FLUX.2-dev",
+    "description": "Type: image-to-image<br/>Downloads: 211,215<br/>Likes: 949",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.2-dev",
+    "published_date": "2025-12-09T21:19:05.212609+00:00",
+    "categories": [
+      "image-to-image"
+    ],
     "metadata": {
-      "author": "apple",
-      "item_name": "starflow",
-      "downloads": 0,
-      "likes": 250,
-      "last_modified": "2025-12-02T01:12:08.000Z",
+      "author": "black-forest-labs",
+      "item_name": "FLUX.2-dev",
+      "downloads": 211215,
+      "likes": 949,
+      "last_modified": "2025-11-27T11:17:09.000Z",
       "all_tags": []
     }
   },
@@ -314,16 +296,52 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Ministral-3-3B-Instruct-2512",
-    "description": "Downloads: 53,484<br/>Likes: 113",
+    "description": "Downloads: 64,226<br/>Likes: 117",
     "url": "https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512",
-    "published_date": "2025-12-09T09:28:16.403215+00:00",
+    "published_date": "2025-12-09T21:19:05.212614+00:00",
     "categories": [],
     "metadata": {
       "author": "mistralai",
       "item_name": "Ministral-3-3B-Instruct-2512",
-      "downloads": 53484,
-      "likes": 113,
+      "downloads": 64226,
+      "likes": 117,
       "last_modified": "2025-12-05T11:14:17.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cdeca30270f24ae7bdce21a675e5c905",
+    "source": "huggingface",
+    "type": "model",
+    "title": "apple/starflow",
+    "description": "Likes: 256",
+    "url": "https://huggingface.co/apple/starflow",
+    "published_date": "2025-12-09T21:19:05.212619+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "apple",
+      "item_name": "starflow",
+      "downloads": 0,
+      "likes": 256,
+      "last_modified": "2025-12-02T01:12:08.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "147b5e7812c8601deb18d56183f1b32b",
+    "source": "huggingface",
+    "type": "model",
+    "title": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+    "description": "Downloads: 57<br/>Likes: 107",
+    "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
+    "published_date": "2025-12-09T21:19:05.212626+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "mistralai",
+      "item_name": "Devstral-Small-2-24B-Instruct-2512",
+      "downloads": 57,
+      "likes": 107,
+      "last_modified": "2025-12-09T17:06:24.000Z",
       "all_tags": []
     }
   },
@@ -332,17 +350,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "ostris/Z-Image-De-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 139,845<br/>Likes: 103",
+    "description": "Type: text-to-image<br/>Downloads: 147,234<br/>Likes: 106",
     "url": "https://huggingface.co/ostris/Z-Image-De-Turbo",
-    "published_date": "2025-12-09T09:28:16.403219+00:00",
+    "published_date": "2025-12-09T21:19:05.212631+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "ostris",
       "item_name": "Z-Image-De-Turbo",
-      "downloads": 139845,
-      "likes": 103,
+      "downloads": 147234,
+      "likes": 106,
       "last_modified": "2025-12-04T16:47:24.000Z",
       "all_tags": []
     }
@@ -352,38 +370,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "facebook/sam3",
-    "description": "Type: mask-generation<br/>Downloads: 451,127<br/>Likes: 929",
+    "description": "Type: mask-generation<br/>Downloads: 486,833<br/>Likes: 938",
     "url": "https://huggingface.co/facebook/sam3",
-    "published_date": "2025-12-09T09:28:16.403226+00:00",
+    "published_date": "2025-12-09T21:19:05.212642+00:00",
     "categories": [
       "mask-generation"
     ],
     "metadata": {
       "author": "facebook",
       "item_name": "sam3",
-      "downloads": 451127,
-      "likes": 929,
+      "downloads": 486833,
+      "likes": 938,
       "last_modified": "2025-11-20T22:05:08.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8bb078cf793678d66b481330ca6e450b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "meituan-longcat/LongCat-Image-Edit",
-    "description": "Type: image-to-image<br/>Downloads: 126<br/>Likes: 91",
-    "url": "https://huggingface.co/meituan-longcat/LongCat-Image-Edit",
-    "published_date": "2025-12-09T09:28:16.403233+00:00",
-    "categories": [
-      "image-to-image"
-    ],
-    "metadata": {
-      "author": "meituan-longcat",
-      "item_name": "LongCat-Image-Edit",
-      "downloads": 126,
-      "likes": 91,
-      "last_modified": "2025-12-09T05:59:27.000Z",
       "all_tags": []
     }
   }
