@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence",
-    "description": "Large language models (LLMs) have fundamentally transformed automated software development by enabling direct translation of natural language descriptions into functional code, driving commercial adop...<br/>Upvotes: 256<br/>Authors: Jian Yang, Xianglong Liu, Weifeng Lv<br/>🔗 <a href=\"https://huggingface.co/papers/2511.18538\">Hugging Face</a>",
+    "description": "Large language models (LLMs) have fundamentally transformed automated software development by enabling direct translation of natural language descriptions into functional code, driving commercial adop...<br/>Upvotes: 257<br/>Authors: Jian Yang, Xianglong Liu, Weifeng Lv<br/>🔗 <a href=\"https://huggingface.co/papers/2511.18538\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.18538",
     "external_url": "",
     "published_date": "2025-11-23T12:09:34.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2511.18538",
-      "upvotes": 256,
+      "upvotes": 257,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -127,7 +127,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation",
-    "description": "This report introduces Kandinsky 5.0, a family of state-of-the-art foundation models for high-resolution image and 10-second video synthesis. The framework comprises three core line-up of models: Kand...<br/>Upvotes: 222<br/>GitHub Stars: 557<br/>Authors: Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko<br/>🔗 <a href=\"https://github.com/kandinskylab/kandinsky-5\">GitHub</a><br/>🔗 <a href=\"https://kandinskylab.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.14993\">Hugging Face</a>",
+    "description": "This report introduces Kandinsky 5.0, a family of state-of-the-art foundation models for high-resolution image and 10-second video synthesis. The framework comprises three core line-up of models: Kand...<br/>Upvotes: 222<br/>GitHub Stars: 560<br/>Authors: Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko<br/>🔗 <a href=\"https://github.com/kandinskylab/kandinsky-5\">GitHub</a><br/>🔗 <a href=\"https://kandinskylab.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.14993\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.14993",
     "external_url": "https://github.com/kandinskylab/kandinsky-5",
     "published_date": "2025-11-18T19:23:22.000Z",
@@ -138,7 +138,7 @@
     "metadata": {
       "paper_id": "2511.14993",
       "upvotes": 222,
-      "github_stars": 557,
+      "github_stars": 560,
       "github_url": "https://github.com/kandinskylab/kandinsky-5",
       "project_url": "https://kandinskylab.ai/",
       "authors": [
@@ -199,7 +199,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
-    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 196<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
+    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 200<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.02556",
     "external_url": "",
     "published_date": "2025-12-02T04:25:14.000Z",
@@ -209,7 +209,7 @@
     ],
     "metadata": {
       "paper_id": "2512.02556",
-      "upvotes": 196,
+      "upvotes": 200,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -481,7 +481,7 @@
       ],
       "summary": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) DeepSeek Sparse Attention (DSA): We introduce DSA, an efficient attention mechanism that substantially reduces computational complexity while preserving model performance in long-context scenarios. (2) Scalable Reinforcement Learning Framework: By implementing a robust reinforcement learning protocol and scaling post-training compute, DeepSeek-V3.2 performs comparably to GPT-5. Notably, our high-compute variant, DeepSeek-V3.2-Speciale, surpasses GPT-5 and exhibits reasoning proficiency on par with Gemini-3.0-Pro, achieving gold-medal performance in both the 2025 International Mathematical Olympiad (IMO) and the International Olympiad in Informatics (IOI). (3) Large-Scale Agentic Task Synthesis Pipeline: To integrate reasoning into tool-use scenarios, we developed a novel synthesis pipeline that systematically generates training data at scale. This methodology facilitates scalable agentic post-training, yielding substantial improvements in generalization and instruction-following robustness within complex, interactive environments.",
       "fetch_date": "2025-12-03",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "DeepSeek-V3.2 introduces DeepSeek Sparse Attention and a scalable reinforcement learning framework, achieving superior reasoning and performance compared to GPT-5 and Gemini-3.0-Pro in complex reasoning tasks.",
       "ai_keywords": [
         "DeepSeek Sparse Attention",
@@ -502,7 +502,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
-    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 194<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
+    "description": "We introduce Lumine, the first open recipe for developing generalist agents capable of completing hours-long complex missions in real time within challenging 3D open-world environments. Lumine adopts ...<br/>Upvotes: 195<br/>Authors: Weihao Tan, Xiangyang Li, Yunhao Fang<br/>🔗 <a href=\"https://www.lumine-ai.org/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.08892\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.08892",
     "external_url": "",
     "published_date": "2025-11-11T21:01:26.000Z",
@@ -512,7 +512,7 @@
     ],
     "metadata": {
       "paper_id": "2511.08892",
-      "upvotes": 194,
+      "upvotes": 195,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://www.lumine-ai.org/",
@@ -551,7 +551,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
-    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 183<br/>GitHub Stars: 6353<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
+    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 183<br/>GitHub Stars: 6516<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22699",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image",
     "published_date": "2025-11-27T13:52:07.000Z",
@@ -562,7 +562,7 @@
     "metadata": {
       "paper_id": "2511.22699",
       "upvotes": 183,
-      "github_stars": 6353,
+      "github_stars": 6516,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -658,7 +658,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepCode: Open Agentic Coding",
-    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 7<br/>GitHub Stars: 11781<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
+    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 11<br/>GitHub Stars: 11801<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.07921",
     "external_url": "https://github.com/HKUDS/DeepCode",
     "published_date": "2025-12-08T11:07:13.000Z",
@@ -668,8 +668,8 @@
     ],
     "metadata": {
       "paper_id": "2512.07921",
-      "upvotes": 7,
-      "github_stars": 11781,
+      "upvotes": 11,
+      "github_stars": 11801,
       "github_url": "https://github.com/HKUDS/DeepCode",
       "project_url": "",
       "authors": [
@@ -757,7 +757,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 23<br/>GitHub Stars: 6366<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
+    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 23<br/>GitHub Stars: 6521<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22677",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
     "published_date": "2025-11-27T13:24:28.000Z",
@@ -768,7 +768,7 @@
     "metadata": {
       "paper_id": "2511.22677",
       "upvotes": 23,
-      "github_stars": 6366,
+      "github_stars": 6521,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -805,7 +805,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3: Segment Anything with Concepts",
-    "description": "We present Segment Anything Model (SAM) 3, a unified model that detects, segments, and tracks objects in images and videos based on concept prompts, which we define as either short noun phrases (e.g.,...<br/>Upvotes: 109<br/>GitHub Stars: 5616<br/>Authors: Nicolas Carion, Laura Gustafson, Yuan-Ting Hu<br/>🔗 <a href=\"https://github.com/facebookresearch/sam3\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/sam3/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.16719\">Hugging Face</a>",
+    "description": "We present Segment Anything Model (SAM) 3, a unified model that detects, segments, and tracks objects in images and videos based on concept prompts, which we define as either short noun phrases (e.g.,...<br/>Upvotes: 109<br/>GitHub Stars: 5650<br/>Authors: Nicolas Carion, Laura Gustafson, Yuan-Ting Hu<br/>🔗 <a href=\"https://github.com/facebookresearch/sam3\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/sam3/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.16719\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.16719",
     "external_url": "https://github.com/facebookresearch/sam3",
     "published_date": "2025-11-20T13:59:56.000Z",
@@ -816,7 +816,7 @@
     "metadata": {
       "paper_id": "2511.16719",
       "upvotes": 109,
-      "github_stars": 5616,
+      "github_stars": 5650,
       "github_url": "https://github.com/facebookresearch/sam3",
       "project_url": "https://ai.meta.com/sam3/",
       "authors": [
@@ -883,7 +883,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D: 3Dfy Anything in Images",
-    "description": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and...<br/>Upvotes: 106<br/>GitHub Stars: 4712<br/>Authors: SAM 3D Team, Xingyu Chen, Fu-Jen Chu<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-objects\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.16624\">Hugging Face</a>",
+    "description": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and...<br/>Upvotes: 106<br/>GitHub Stars: 4742<br/>Authors: SAM 3D Team, Xingyu Chen, Fu-Jen Chu<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-objects\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.16624\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.16624",
     "external_url": "https://github.com/facebookresearch/sam-3d-objects",
     "published_date": "2025-11-20T13:31:46.000Z",
@@ -894,7 +894,7 @@
     "metadata": {
       "paper_id": "2511.16624",
       "upvotes": 106,
-      "github_stars": 4712,
+      "github_stars": 4742,
       "github_url": "https://github.com/facebookresearch/sam-3d-objects",
       "project_url": "https://ai.meta.com/sam3d/",
       "authors": [

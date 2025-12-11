@@ -11,8 +11,8 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 16600,
-      "forks": 719,
+      "stars": 16685,
+      "forks": 724,
       "stars_today": 4669,
       "language": "Rust",
       "timeframe": "weekly",
@@ -31,8 +31,8 @@
       "Ruby"
     ],
     "metadata": {
-      "stars": 5403,
-      "forks": 587,
+      "stars": 5466,
+      "forks": 598,
       "stars_today": 3900,
       "language": "Ruby",
       "timeframe": "weekly",
@@ -51,8 +51,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 6805,
-      "forks": 747,
+      "stars": 7148,
+      "forks": 774,
       "stars_today": 3885,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -71,8 +71,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 14242,
-      "forks": 1429,
+      "stars": 14344,
+      "forks": 1440,
       "stars_today": 2030,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -91,8 +91,8 @@
       "Zig"
     ],
     "metadata": {
-      "stars": 84867,
-      "forks": 3785,
+      "stars": 84909,
+      "forks": 3786,
       "stars_today": 1930,
       "language": "Zig",
       "timeframe": "weekly",
@@ -111,8 +111,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 11883,
-      "forks": 2064,
+      "stars": 11925,
+      "forks": 2072,
       "stars_today": 1264,
       "language": "Python",
       "timeframe": "weekly",
@@ -126,13 +126,13 @@
     "title": "anthropics / claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "url": "https://github.com/anthropics/claude-code",
-    "published_date": "2025-12-11T04:39:56Z",
+    "published_date": "2025-12-11T19:07:31Z",
     "categories": [
       "Shell"
     ],
     "metadata": {
-      "stars": 45433,
-      "forks": 3163,
+      "stars": 45496,
+      "forks": 3174,
       "stars_today": 901,
       "language": "Shell",
       "timeframe": "weekly",
@@ -140,23 +140,43 @@
     }
   },
   {
-    "id": "ebdb43a5253889e760c6ae0988c917ca",
+    "id": "0f3f06656fee02e3ffd53ec9ae1ea54b",
     "source": "github",
     "type": "trending_repository",
-    "title": "humanlayer / humanlayer",
-    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
-    "url": "https://github.com/humanlayer/humanlayer",
-    "published_date": "2025-12-10T14:22:53Z",
+    "title": "cloudflare / vibesdk",
+    "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+    "url": "https://github.com/cloudflare/vibesdk",
+    "published_date": "2025-12-09T03:16:09Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 7720,
-      "forks": 632,
-      "stars_today": 603,
+      "stars": 4264,
+      "forks": 972,
+      "stars_today": 726,
       "language": "TypeScript",
       "timeframe": "weekly",
-      "repo_path": "humanlayer/humanlayer"
+      "repo_path": "cloudflare/vibesdk"
+    }
+  },
+  {
+    "id": "f00ed98c41ef2c9b0c01804b11f9f48e",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "agentsmd / agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "url": "https://github.com/agentsmd/agents.md",
+    "published_date": "2025-12-11T19:30:18Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 10215,
+      "forks": 783,
+      "stars_today": 554,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "agentsmd/agents.md"
     }
   },
   {
@@ -171,7 +191,7 @@
       "Python"
     ],
     "metadata": {
-      "stars": 24605,
+      "stars": 24642,
       "forks": 4549,
       "stars_today": 520,
       "language": "Python",
@@ -191,8 +211,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 8035,
-      "forks": 954,
+      "stars": 8054,
+      "forks": 957,
       "stars_today": 513,
       "language": "Python",
       "timeframe": "weekly",
@@ -206,37 +226,17 @@
     "title": "vercel / next.js",
     "description": "The React Framework",
     "url": "https://github.com/vercel/next.js",
-    "published_date": "2025-12-08T23:32:31Z",
+    "published_date": "2025-12-11T19:59:09Z",
     "categories": [
       "JavaScript"
     ],
     "metadata": {
-      "stars": 136432,
-      "forks": 30019,
+      "stars": 136452,
+      "forks": 30020,
       "stars_today": 461,
       "language": "JavaScript",
       "timeframe": "weekly",
       "repo_path": "vercel/next.js"
-    }
-  },
-  {
-    "id": "e11591b87062d8ef763a0315bac23af4",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "aquasecurity / trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "url": "https://github.com/aquasecurity/trivy",
-    "published_date": "2025-12-03T12:50:56Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 30402,
-      "forks": 2847,
-      "stars_today": 336,
-      "language": "Go",
-      "timeframe": "weekly",
-      "repo_path": "aquasecurity/trivy"
     }
   },
   {
@@ -251,8 +251,8 @@
       "C++"
     ],
     "metadata": {
-      "stars": 13881,
-      "forks": 482,
+      "stars": 13889,
+      "forks": 483,
       "stars_today": 278,
       "language": "C++",
       "timeframe": "weekly",
@@ -271,8 +271,8 @@
       "Swift"
     ],
     "metadata": {
-      "stars": 7749,
-      "forks": 2213,
+      "stars": 7761,
+      "forks": 2214,
       "stars_today": 267,
       "language": "Swift",
       "timeframe": "weekly",
@@ -286,13 +286,13 @@
     "title": "microsoft / typescript-go",
     "description": "Staging repo for development of native port of TypeScript",
     "url": "https://github.com/microsoft/typescript-go",
-    "published_date": "2025-12-11T03:01:45Z",
+    "published_date": "2025-12-11T18:52:06Z",
     "categories": [
       "Go"
     ],
     "metadata": {
-      "stars": 23275,
-      "forks": 760,
+      "stars": 23288,
+      "forks": 762,
       "stars_today": 257,
       "language": "Go",
       "timeframe": "weekly",
@@ -300,43 +300,43 @@
     }
   },
   {
-    "id": "c8e9556e169f6f72c10e3220dcb315b7",
+    "id": "91d03df0c6edac18f9bb892f1e7a6a8b",
     "source": "github",
     "type": "trending_repository",
-    "title": "vllm-project / vllm-omni",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "published_date": "2025-12-01T18:14:54Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 845,
-      "forks": 104,
-      "stars_today": 224,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "vllm-project/vllm-omni"
-    }
-  },
-  {
-    "id": "2f6ee9d1dd219d7554431d19c61ae628",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "FortAwesome / Font-Awesome",
-    "description": "The iconic SVG, font, and CSS toolkit",
-    "url": "https://github.com/FortAwesome/Font-Awesome",
-    "published_date": "2025-10-01T19:16:30Z",
+    "title": "projectdiscovery / nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "published_date": "2025-12-06T12:04:44Z",
     "categories": [
       "JavaScript"
     ],
     "metadata": {
-      "stars": 76056,
-      "forks": 12220,
-      "stars_today": 164,
+      "stars": 11622,
+      "forks": 3216,
+      "stars_today": 160,
       "language": "JavaScript",
       "timeframe": "weekly",
-      "repo_path": "FortAwesome/Font-Awesome"
+      "repo_path": "projectdiscovery/nuclei-templates"
+    }
+  },
+  {
+    "id": "8e733d4a95db6f5ed6c62df92eea2cb1",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "leejet / stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+    "url": "https://github.com/leejet/stable-diffusion.cpp",
+    "published_date": "2025-12-10T19:01:24Z",
+    "categories": [
+      "C++"
+    ],
+    "metadata": {
+      "stars": 4821,
+      "forks": 467,
+      "stars_today": 124,
+      "language": "C++",
+      "timeframe": "weekly",
+      "repo_path": "leejet/stable-diffusion.cpp"
     }
   }
 ]
