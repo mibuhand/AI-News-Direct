@@ -1,5 +1,56 @@
 [
     {
+        "id": "d47d6f9913d49c8696402f827daff7b2",
+        "source": "openai",
+        "type": "publication",
+        "title": "Advancing science and math with GPT-5.2",
+        "description": "GPT-5.2 is OpenAI\u2019s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+        "url": "https://openai.com/index/gpt-5-2-for-science-and-math/",
+        "published_date": "2025-12-11T10:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "2758b62979d98cf84733022868d51914",
+        "source": "openai",
+        "type": "publication",
+        "title": "Update to GPT-5 System Card: GPT-5.2",
+        "description": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI\u2019s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+        "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "855f4479d298d11498a630e1a48d2033",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing GPT-5.2",
+        "description": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+        "url": "https://openai.com/index/introducing-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
         "id": "2ce28f3cfd7679be0ab59c0e10dcce2a",
         "source": "openai",
         "type": "research",
@@ -34,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "49046311c4be2fcb23f716f2a199926d",
-        "source": "openai",
-        "type": "product",
-        "title": "Building more with GPT-5.1-Codex-Max",
-        "description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
-        "url": "https://openai.com/index/gpt-5-1-codex-max/",
-        "published_date": "2025-11-19T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "87486d1e9b976754ee6cf23212d14dc7",
         "source": "openai",
         "type": "publication",
@@ -64,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "49046311c4be2fcb23f716f2a199926d",
+        "source": "openai",
+        "type": "product",
+        "title": "Building more with GPT-5.1-Codex-Max",
+        "description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+        "url": "https://openai.com/index/gpt-5-1-codex-max/",
+        "published_date": "2025-11-19T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     },
@@ -98,57 +149,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "c3387415a5e1df503bd503201d90ecaa",
-        "source": "openai",
-        "type": "product",
-        "title": "GPT-5.1: A smarter, more conversational ChatGPT",
-        "description": "We\u2019re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT\u2019s tone and style. GPT-5.1 starts rolling out today to paid users.",
-        "url": "https://openai.com/index/gpt-5-1/",
-        "published_date": "2025-11-12T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
-        "id": "f76988be9f427fe14d5d5feaf1f5ef98",
-        "source": "openai",
-        "type": "research",
-        "title": "Introducing IndQA",
-        "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-        "url": "https://openai.com/index/introducing-indqa/",
-        "published_date": "2025-11-03T22:30:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "005c42f69c4969517b32b0b141cec5ab",
-        "source": "openai",
-        "type": "research",
-        "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
-        "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta\u2014sign up to join early testing.",
-        "url": "https://openai.com/index/introducing-aardvark/",
-        "published_date": "2025-10-30T11:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
         },
         "objects": []
     }
