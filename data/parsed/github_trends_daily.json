@@ -11,9 +11,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 37222,
-      "forks": 2785,
-      "stars_today": 512,
+      "stars": 37357,
+      "forks": 2789,
+      "stars_today": 482,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "daytonaio/daytona"
@@ -31,9 +31,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 102294,
-      "forks": 7441,
-      "stars_today": 384,
+      "stars": 102487,
+      "forks": 7451,
+      "stars_today": 388,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "shadcn-ui/ui"
@@ -51,9 +51,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 9034,
-      "forks": 963,
-      "stars_today": 358,
+      "stars": 9469,
+      "forks": 990,
+      "stars_today": 354,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "datawhalechina/hello-agents"
@@ -66,35 +66,17 @@
     "title": "thedotmack / claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "url": "https://github.com/thedotmack/claude-mem",
-    "published_date": "2025-12-14T20:45:37Z",
+    "published_date": "2025-12-15T03:01:23Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 5680,
-      "forks": 333,
-      "stars_today": 342,
+      "stars": 6278,
+      "forks": 360,
+      "stars_today": 334,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "thedotmack/claude-mem"
-    }
-  },
-  {
-    "id": "f0bb1cca3deb166490ffeb96c1841fc3",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "ZJU-LLMs / Foundations-of-LLMs",
-    "description": "A book for Learning the Foundations of LLMs",
-    "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
-    "published_date": "2025-12-12T01:55:18Z",
-    "categories": [],
-    "metadata": {
-      "stars": 13617,
-      "forks": 1271,
-      "stars_today": 231,
-      "language": "",
-      "timeframe": "daily",
-      "repo_path": "ZJU-LLMs/Foundations-of-LLMs"
     }
   },
   {
@@ -109,32 +91,30 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 20137,
-      "forks": 2627,
-      "stars_today": 216,
+      "stars": 20880,
+      "forks": 2674,
+      "stars_today": 235,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "simstudioai/sim"
     }
   },
   {
-    "id": "3776a45f2277de7834351da126afafca",
+    "id": "f0bb1cca3deb166490ffeb96c1841fc3",
     "source": "github",
     "type": "trending_repository",
-    "title": "openai / codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "url": "https://github.com/openai/codex",
-    "published_date": "2025-12-13T18:22:35Z",
-    "categories": [
-      "Rust"
-    ],
+    "title": "ZJU-LLMs / Foundations-of-LLMs",
+    "description": "A book for Learning the Foundations of LLMs",
+    "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+    "published_date": "2025-12-12T01:55:18Z",
+    "categories": [],
     "metadata": {
-      "stars": 53007,
-      "forks": 6757,
-      "stars_today": 210,
-      "language": "Rust",
+      "stars": 13912,
+      "forks": 1292,
+      "stars_today": 227,
+      "language": "",
       "timeframe": "daily",
-      "repo_path": "openai/codex"
+      "repo_path": "ZJU-LLMs/Foundations-of-LLMs"
     }
   },
   {
@@ -149,12 +129,52 @@
       "Go"
     ],
     "metadata": {
-      "stars": 8726,
-      "forks": 953,
-      "stars_today": 210,
+      "stars": 8934,
+      "forks": 964,
+      "stars_today": 212,
       "language": "Go",
       "timeframe": "daily",
       "repo_path": "Tencent/WeKnora"
+    }
+  },
+  {
+    "id": "9899b5219d5bf6129872d91a9e0053e2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "tursodatabase / turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.",
+    "url": "https://github.com/tursodatabase/turso",
+    "published_date": "2025-12-15T08:17:06Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 15591,
+      "forks": 636,
+      "stars_today": 143,
+      "language": "Rust",
+      "timeframe": "daily",
+      "repo_path": "tursodatabase/turso"
+    }
+  },
+  {
+    "id": "3776a45f2277de7834351da126afafca",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "openai / codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "url": "https://github.com/openai/codex",
+    "published_date": "2025-12-13T18:22:35Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 53609,
+      "forks": 6782,
+      "stars_today": 121,
+      "language": "Rust",
+      "timeframe": "daily",
+      "repo_path": "openai/codex"
     }
   },
   {
@@ -169,32 +189,12 @@
       "Vue"
     ],
     "metadata": {
-      "stars": 5878,
-      "forks": 795,
-      "stars_today": 165,
+      "stars": 6135,
+      "forks": 806,
+      "stars_today": 91,
       "language": "Vue",
       "timeframe": "daily",
       "repo_path": "HuLaSpark/HuLa"
-    }
-  },
-  {
-    "id": "9899b5219d5bf6129872d91a9e0053e2",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "tursodatabase / turso",
-    "description": "Turso is an in-process SQL database, compatible with SQLite.",
-    "url": "https://github.com/tursodatabase/turso",
-    "published_date": "2025-12-11T13:00:09Z",
-    "categories": [
-      "Rust"
-    ],
-    "metadata": {
-      "stars": 15481,
-      "forks": 633,
-      "stars_today": 143,
-      "language": "Rust",
-      "timeframe": "daily",
-      "repo_path": "tursodatabase/turso"
     }
   },
   {
@@ -209,32 +209,12 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 7805,
-      "forks": 286,
-      "stars_today": 39,
+      "stars": 7847,
+      "forks": 289,
+      "stars_today": 45,
       "language": "Rust",
       "timeframe": "daily",
       "repo_path": "Morganamilo/paru"
-    }
-  },
-  {
-    "id": "c235e033cb01fc25d65804767fbf2259",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "Mebus / cupp",
-    "description": "Common User Passwords Profiler (CUPP)",
-    "url": "https://github.com/Mebus/cupp",
-    "published_date": "2020-09-12T09:48:23Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 5179,
-      "forks": 1334,
-      "stars_today": 34,
-      "language": "Python",
-      "timeframe": "daily",
-      "repo_path": "Mebus/cupp"
     }
   },
   {
@@ -249,9 +229,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 2462,
-      "forks": 229,
-      "stars_today": 34,
+      "stars": 2507,
+      "forks": 234,
+      "stars_today": 38,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "thinking-machines-lab/tinker-cookbook"
@@ -269,12 +249,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 42713,
-      "forks": 7603,
-      "stars_today": 26,
+      "stars": 42836,
+      "forks": 7620,
+      "stars_today": 31,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "virattt/ai-hedge-fund"
+    }
+  },
+  {
+    "id": "c235e033cb01fc25d65804767fbf2259",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "Mebus / cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "url": "https://github.com/Mebus/cupp",
+    "published_date": "2020-09-12T09:48:23Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 5263,
+      "forks": 1346,
+      "stars_today": 19,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "Mebus/cupp"
     }
   },
   {
@@ -284,14 +284,14 @@
     "title": "mdn / content",
     "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
     "url": "https://github.com/mdn/content",
-    "published_date": "2025-12-14T17:18:43Z",
+    "published_date": "2025-12-15T09:32:00Z",
     "categories": [
       "Markdown"
     ],
     "metadata": {
-      "stars": 9970,
-      "forks": 22985,
-      "stars_today": 4,
+      "stars": 10120,
+      "forks": 22996,
+      "stars_today": 9,
       "language": "Markdown",
       "timeframe": "daily",
       "repo_path": "mdn/content"
