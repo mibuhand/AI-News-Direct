@@ -4,11 +4,35 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2025-12-16T09:30:51.535812+00:00</updated>
+  <updated>2025-12-16T21:22:39.733458+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/openai_research.xml" rel="self"/>
+  <entry>
+    <title>Evaluating AI’s ability to perform scientific research tasks</title>
+    <id>5ac51006c4ac8b5cbbff8250ec728dc3</id>
+    <link href="https://openai.com/index/frontierscience/"/>
+    <updated>2025-12-16T09:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.</summary>
+  </entry>
+  <entry>
+    <title>Measuring AI’s capability to accelerate biological research</title>
+    <id>278f85e5caf3b361b0edc6eceefa1436</id>
+    <link href="https://openai.com/index/accelerating-biological-research-in-the-wet-lab/"/>
+    <updated>2025-12-16T08:00:00+00:00</updated>
+    <category term="Research"/>
+    <summary>OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.</summary>
+  </entry>
+  <entry>
+    <title>The new ChatGPT Images is here</title>
+    <id>57ca906273226da6b91132bea83d8ab9</id>
+    <link href="https://openai.com/index/new-chatgpt-images-is-here/"/>
+    <updated>2025-12-16T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.</summary>
+  </entry>
   <entry>
     <title>Advancing science and math with GPT-5.2</title>
     <id>d47d6f9913d49c8696402f827daff7b2</id>
@@ -18,20 +42,20 @@
     <summary>GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.</summary>
   </entry>
   <entry>
-    <title>Update to GPT-5 System Card: GPT-5.2</title>
-    <id>2758b62979d98cf84733022868d51914</id>
-    <link href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2/"/>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.</summary>
-  </entry>
-  <entry>
     <title>Introducing GPT-5.2</title>
     <id>855f4479d298d11498a630e1a48d2033</id>
     <link href="https://openai.com/index/introducing-gpt-5-2/"/>
     <updated>2025-12-11T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary>GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.</summary>
+  </entry>
+  <entry>
+    <title>Update to GPT-5 System Card: GPT-5.2</title>
+    <id>2758b62979d98cf84733022868d51914</id>
+    <link href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2/"/>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <category term="Publication"/>
+    <summary>GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.</summary>
   </entry>
   <entry>
     <title>How confessions can keep language models honest</title>
@@ -56,29 +80,5 @@
     <updated>2025-11-19T00:00:00+00:00</updated>
     <category term="Product"/>
     <summary>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</summary>
-  </entry>
-  <entry>
-    <title>GPT-5.1-Codex-Max System Card</title>
-    <id>87486d1e9b976754ee6cf23212d14dc7</id>
-    <link href="https://openai.com/index/gpt-5-1-codex-max-system-card/"/>
-    <updated>2025-11-19T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.</summary>
-  </entry>
-  <entry>
-    <title>Understanding neural networks through sparse circuits</title>
-    <id>76786030386ff19d3670fbfb28012430</id>
-    <link href="https://openai.com/index/understanding-neural-networks-through-sparse-circuits/"/>
-    <updated>2025-11-13T10:00:00+00:00</updated>
-    <category term="Research"/>
-    <summary>OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.</summary>
-  </entry>
-  <entry>
-    <title>GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum</title>
-    <id>a37acfed24a908a166f997aceb9fcb06</id>
-    <link href="https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1/"/>
-    <updated>2025-11-12T00:00:00+00:00</updated>
-    <category term="Publication"/>
-    <summary>This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.</summary>
   </entry>
 </feed>

@@ -127,7 +127,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation",
-    "description": "This report introduces Kandinsky 5.0, a family of state-of-the-art foundation models for high-resolution image and 10-second video synthesis. The framework comprises three core line-up of models: Kand...<br/>Upvotes: 222<br/>GitHub Stars: 570<br/>Authors: Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko<br/>🔗 <a href=\"https://github.com/kandinskylab/kandinsky-5\">GitHub</a><br/>🔗 <a href=\"https://kandinskylab.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.14993\">Hugging Face</a>",
+    "description": "This report introduces Kandinsky 5.0, a family of state-of-the-art foundation models for high-resolution image and 10-second video synthesis. The framework comprises three core line-up of models: Kand...<br/>Upvotes: 224<br/>GitHub Stars: 573<br/>Authors: Vladimir Arkhipkin, Vladimir Korviakov, Nikolai Gerasimenko<br/>🔗 <a href=\"https://github.com/kandinskylab/kandinsky-5\">GitHub</a><br/>🔗 <a href=\"https://kandinskylab.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.14993\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.14993",
     "external_url": "https://github.com/kandinskylab/kandinsky-5",
     "published_date": "2025-11-18T19:23:22.000Z",
@@ -137,8 +137,8 @@
     ],
     "metadata": {
       "paper_id": "2511.14993",
-      "upvotes": 222,
-      "github_stars": 570,
+      "upvotes": 224,
+      "github_stars": 573,
       "github_url": "https://github.com/kandinskylab/kandinsky-5",
       "project_url": "https://kandinskylab.ai/",
       "authors": [
@@ -502,7 +502,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
-    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 198<br/>GitHub Stars: 7017<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
+    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 199<br/>GitHub Stars: 7127<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22699",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image",
     "published_date": "2025-11-27T13:52:07.000Z",
@@ -512,8 +512,8 @@
     ],
     "metadata": {
       "paper_id": "2511.22699",
-      "upvotes": 198,
-      "github_stars": 7017,
+      "upvotes": 199,
+      "github_stars": 7127,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -563,7 +563,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length",
-    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 166<br/>GitHub Stars: 995<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
+    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 166<br/>GitHub Stars: 1015<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.04677",
     "external_url": "https://github.com/Alibaba-Quark/LiveAvatar",
     "published_date": "2025-12-04T06:11:24.000Z",
@@ -574,7 +574,7 @@
     "metadata": {
       "paper_id": "2512.04677",
       "upvotes": 166,
-      "github_stars": 995,
+      "github_stars": 1015,
       "github_url": "https://github.com/Alibaba-Quark/LiveAvatar",
       "project_url": "https://liveavatar.github.io/",
       "authors": [
@@ -622,7 +622,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
-    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 161<br/>GitHub Stars: 1313<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
+    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 161<br/>GitHub Stars: 1318<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.11793",
     "external_url": "https://github.com/MiroMindAI/MiroThinker",
     "published_date": "2025-11-14T13:52:07.000Z",
@@ -633,7 +633,7 @@
     "metadata": {
       "paper_id": "2511.11793",
       "upvotes": 161,
-      "github_stars": 1313,
+      "github_stars": 1318,
       "github_url": "https://github.com/MiroMindAI/MiroThinker",
       "project_url": "https://dr.miromind.ai/",
       "authors": [
@@ -704,7 +704,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-VL Technical Report",
-    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 126<br/>GitHub Stars: 17190<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
+    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 126<br/>GitHub Stars: 17217<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.21631",
     "external_url": "https://github.com/QwenLM/Qwen3-VL",
     "published_date": "2025-11-26T12:59:08.000Z",
@@ -715,7 +715,7 @@
     "metadata": {
       "paper_id": "2511.21631",
       "upvotes": 126,
-      "github_stars": 17190,
+      "github_stars": 17217,
       "github_url": "https://github.com/QwenLM/Qwen3-VL",
       "project_url": "https://chat.qwen.ai",
       "authors": [
@@ -816,7 +816,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepCode: Open Agentic Coding",
-    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 25<br/>GitHub Stars: 12434<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
+    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 26<br/>GitHub Stars: 12568<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.07921",
     "external_url": "https://github.com/HKUDS/DeepCode",
     "published_date": "2025-12-08T11:07:13.000Z",
@@ -826,8 +826,8 @@
     ],
     "metadata": {
       "paper_id": "2512.07921",
-      "upvotes": 25,
-      "github_stars": 12434,
+      "upvotes": 26,
+      "github_stars": 12568,
       "github_url": "https://github.com/HKUDS/DeepCode",
       "project_url": "",
       "authors": [
@@ -863,7 +863,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Agent READMEs: An Empirical Study of Context Files for Agentic Coding",
-    "description": "Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this proc...<br/>Upvotes: 5<br/>GitHub Stars: 11870<br/>Authors: Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa<br/>🔗 <a href=\"https://github.com/openai/agents.md\">GitHub</a><br/>🔗 <a href=\"https://agents.md\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.12884\">Hugging Face</a>",
+    "description": "Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this proc...<br/>Upvotes: 7<br/>GitHub Stars: 12077<br/>Authors: Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa<br/>🔗 <a href=\"https://github.com/openai/agents.md\">GitHub</a><br/>🔗 <a href=\"https://agents.md\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.12884\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.12884",
     "external_url": "https://github.com/openai/agents.md",
     "published_date": "2025-11-16T21:18:55.000Z",
@@ -873,8 +873,8 @@
     ],
     "metadata": {
       "paper_id": "2511.12884",
-      "upvotes": 5,
-      "github_stars": 11870,
+      "upvotes": 7,
+      "github_stars": 12077,
       "github_url": "https://github.com/openai/agents.md",
       "project_url": "https://agents.md",
       "authors": [
@@ -902,7 +902,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Soft Adaptive Policy Optimization",
-    "description": "Reinforcement learning (RL) plays an increasingly important role in enhancing the reasoning capabilities of large language models (LLMs), yet stable and performant policy optimization remains challeng...<br/>Upvotes: 40<br/>GitHub Stars: 11656<br/>Authors: Chang Gao, Chujie Zheng, Xiong-Hui Chen<br/>🔗 <a href=\"https://github.com/modelscope/ms-swift\">GitHub</a><br/>🔗 <a href=\"https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20347\">Hugging Face</a>",
+    "description": "Reinforcement learning (RL) plays an increasingly important role in enhancing the reasoning capabilities of large language models (LLMs), yet stable and performant policy optimization remains challeng...<br/>Upvotes: 40<br/>GitHub Stars: 11686<br/>Authors: Chang Gao, Chujie Zheng, Xiong-Hui Chen<br/>🔗 <a href=\"https://github.com/modelscope/ms-swift\">GitHub</a><br/>🔗 <a href=\"https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20347\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.20347",
     "external_url": "https://github.com/modelscope/ms-swift",
     "published_date": "2025-11-25T09:25:19.000Z",
@@ -913,7 +913,7 @@
     "metadata": {
       "paper_id": "2511.20347",
       "upvotes": 40,
-      "github_stars": 11656,
+      "github_stars": 11686,
       "github_url": "https://github.com/modelscope/ms-swift",
       "project_url": "https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html",
       "authors": [
@@ -956,7 +956,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "UFO^3: Weaving the Digital Agent Galaxy",
-    "description": "Large language model (LLM)-powered agents are transforming digital devices from passive tools into proactive intelligent collaborators. However, most existing frameworks remain confined to a single OS...<br/>Upvotes: 18<br/>GitHub Stars: 7806<br/>Authors: Chaoyun Zhang, Liqun Li, He Huang<br/>🔗 <a href=\"https://github.com/microsoft/UFO/\">GitHub</a><br/>🔗 <a href=\"https://microsoft.github.io/UFO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11332\">Hugging Face</a>",
+    "description": "Large language model (LLM)-powered agents are transforming digital devices from passive tools into proactive intelligent collaborators. However, most existing frameworks remain confined to a single OS...<br/>Upvotes: 18<br/>GitHub Stars: 7808<br/>Authors: Chaoyun Zhang, Liqun Li, He Huang<br/>🔗 <a href=\"https://github.com/microsoft/UFO/\">GitHub</a><br/>🔗 <a href=\"https://microsoft.github.io/UFO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11332\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.11332",
     "external_url": "https://github.com/microsoft/UFO/",
     "published_date": "2025-11-14T09:05:31.000Z",
@@ -967,7 +967,7 @@
     "metadata": {
       "paper_id": "2511.11332",
       "upvotes": 18,
-      "github_stars": 7806,
+      "github_stars": 7808,
       "github_url": "https://github.com/microsoft/UFO/",
       "project_url": "https://microsoft.github.io/UFO/",
       "authors": [
@@ -1008,7 +1008,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 27<br/>GitHub Stars: 7026<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
+    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 27<br/>GitHub Stars: 7130<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22677",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
     "published_date": "2025-11-27T13:24:28.000Z",
@@ -1019,7 +1019,7 @@
     "metadata": {
       "paper_id": "2511.22677",
       "upvotes": 27,
-      "github_stars": 7026,
+      "github_stars": 7130,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
