@@ -85,23 +85,6 @@
         "objects": []
     },
     {
-        "id": "87486d1e9b976754ee6cf23212d14dc7",
-        "source": "openai",
-        "type": "publication",
-        "title": "GPT-5.1-Codex-Max System Card",
-        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
-        "url": "https://openai.com/index/gpt-5-1-codex-max-system-card/",
-        "published_date": "2025-11-19T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "49046311c4be2fcb23f716f2a199926d",
         "source": "openai",
         "type": "product",
@@ -115,6 +98,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "87486d1e9b976754ee6cf23212d14dc7",
+        "source": "openai",
+        "type": "publication",
+        "title": "GPT-5.1-Codex-Max System Card",
+        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+        "url": "https://openai.com/index/gpt-5-1-codex-max-system-card/",
+        "published_date": "2025-11-19T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     },

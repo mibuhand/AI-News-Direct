@@ -1,25 +1,5 @@
 [
   {
-    "id": "458c9bb7985e1ebfb6bac29b3e73bc41",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "published_date": "2025-12-09T04:28:32Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 18105,
-      "forks": 1988,
-      "stars_today": 6492,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "microsoft/VibeVoice"
-    }
-  },
-  {
     "id": "922139a17cbf9163bdcc2ca2ef1278e1",
     "source": "github",
     "type": "trending_repository",
@@ -31,9 +11,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 11520,
-      "forks": 1156,
-      "stars_today": 5461,
+      "stars": 12038,
+      "forks": 1213,
+      "stars_today": 6315,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "DayuanJiang/next-ai-draw-io"
@@ -51,12 +31,32 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 6748,
-      "forks": 388,
-      "stars_today": 4949,
+      "stars": 7019,
+      "forks": 403,
+      "stars_today": 5541,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "thedotmack/claude-mem"
+    }
+  },
+  {
+    "id": "458c9bb7985e1ebfb6bac29b3e73bc41",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "microsoft / VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "published_date": "2025-12-09T04:28:32Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 18251,
+      "forks": 2010,
+      "stars_today": 4975,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "microsoft/VibeVoice"
     }
   },
   {
@@ -71,9 +71,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 9627,
-      "forks": 1001,
-      "stars_today": 3163,
+      "stars": 9885,
+      "forks": 1025,
+      "stars_today": 3601,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "datawhalechina/hello-agents"
@@ -91,9 +91,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 11831,
-      "forks": 875,
-      "stars_today": 2658,
+      "stars": 11972,
+      "forks": 883,
+      "stars_today": 2894,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "agentsmd/agents.md"
@@ -111,52 +111,12 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 14986,
-      "forks": 1514,
-      "stars_today": 2377,
+      "stars": 15092,
+      "forks": 1531,
+      "stars_today": 2057,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "lfnovo/open-notebook"
-    }
-  },
-  {
-    "id": "a25a7060c387b92020cdf0c173445f4f",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "rustfs / rustfs",
-    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-    "url": "https://github.com/rustfs/rustfs",
-    "published_date": "2025-12-11T03:08:51Z",
-    "categories": [
-      "Rust"
-    ],
-    "metadata": {
-      "stars": 17238,
-      "forks": 748,
-      "stars_today": 1734,
-      "language": "Rust",
-      "timeframe": "weekly",
-      "repo_path": "rustfs/rustfs"
-    }
-  },
-  {
-    "id": "6f672220c12350e958af2cca881715d6",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / ML-For-Beginners",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-    "url": "https://github.com/microsoft/ML-For-Beginners",
-    "published_date": "2025-11-18T20:23:45Z",
-    "categories": [
-      "Jupyter Notebook"
-    ],
-    "metadata": {
-      "stars": 82009,
-      "forks": 19233,
-      "stars_today": 1652,
-      "language": "Jupyter Notebook",
-      "timeframe": "weekly",
-      "repo_path": "microsoft/ML-For-Beginners"
     }
   },
   {
@@ -171,32 +131,52 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 24445,
-      "forks": 2176,
-      "stars_today": 1616,
+      "stars": 24497,
+      "forks": 2180,
+      "stars_today": 1703,
       "language": "Rust",
       "timeframe": "weekly",
       "repo_path": "block/goose"
     }
   },
   {
-    "id": "40c7731007577bd50ecc44476c03a9cb",
+    "id": "6f672220c12350e958af2cca881715d6",
     "source": "github",
     "type": "trending_repository",
-    "title": "anthropics / claude-quickstarts",
-    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "url": "https://github.com/anthropics/claude-quickstarts",
-    "published_date": "2025-12-10T22:44:16Z",
+    "title": "microsoft / ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "published_date": "2025-11-18T20:23:45Z",
     "categories": [
-      "Python"
+      "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 12289,
-      "forks": 2099,
-      "stars_today": 1189,
-      "language": "Python",
+      "stars": 82074,
+      "forks": 19251,
+      "stars_today": 1676,
+      "language": "Jupyter Notebook",
       "timeframe": "weekly",
-      "repo_path": "anthropics/claude-quickstarts"
+      "repo_path": "microsoft/ML-For-Beginners"
+    }
+  },
+  {
+    "id": "a25a7060c387b92020cdf0c173445f4f",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "rustfs / rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "url": "https://github.com/rustfs/rustfs",
+    "published_date": "2025-12-11T03:08:51Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 17310,
+      "forks": 749,
+      "stars_today": 1375,
+      "language": "Rust",
+      "timeframe": "weekly",
+      "repo_path": "rustfs/rustfs"
     }
   },
   {
@@ -211,32 +191,32 @@
       "Go"
     ],
     "metadata": {
-      "stars": 8987,
-      "forks": 968,
-      "stars_today": 896,
+      "stars": 9061,
+      "forks": 977,
+      "stars_today": 1165,
       "language": "Go",
       "timeframe": "weekly",
       "repo_path": "Tencent/WeKnora"
     }
   },
   {
-    "id": "5f9792e1a762056a02649a99da576701",
+    "id": "40c7731007577bd50ecc44476c03a9cb",
     "source": "github",
     "type": "trending_repository",
-    "title": "NVIDIA / cutile-python",
-    "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
-    "url": "https://github.com/NVIDIA/cutile-python",
-    "published_date": "2025-12-04T05:53:54Z",
+    "title": "anthropics / claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "published_date": "2025-12-10T22:44:16Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 1539,
-      "forks": 79,
-      "stars_today": 869,
+      "stars": 12335,
+      "forks": 2099,
+      "stars_today": 972,
       "language": "Python",
       "timeframe": "weekly",
-      "repo_path": "NVIDIA/cutile-python"
+      "repo_path": "anthropics/claude-quickstarts"
     }
   },
   {
@@ -251,9 +231,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 24998,
-      "forks": 4566,
-      "stars_today": 849,
+      "stars": 25060,
+      "forks": 4569,
+      "stars_today": 900,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "srbhr/Resume-Matcher"
@@ -271,12 +251,32 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 15633,
-      "forks": 636,
-      "stars_today": 498,
+      "stars": 15674,
+      "forks": 637,
+      "stars_today": 664,
       "language": "Rust",
       "timeframe": "weekly",
       "repo_path": "tursodatabase/turso"
+    }
+  },
+  {
+    "id": "5f9792e1a762056a02649a99da576701",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "NVIDIA / cutile-python",
+    "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+    "url": "https://github.com/NVIDIA/cutile-python",
+    "published_date": "2025-12-04T05:53:54Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 1562,
+      "forks": 80,
+      "stars_today": 599,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "NVIDIA/cutile-python"
     }
   }
 ]

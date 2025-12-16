@@ -1,5 +1,39 @@
 [
     {
+        "id": "00bbbfd6daef97f32c13a5b8e572ea38",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+        "description": "Recent strides in video generation have paved the way for unified audio-visual generation. In this work, we present Seedance 1.5 pro, a foundational model engineered specifically for native, joint audio-video generation. Leveraging a dual-branch Diffusion Transformer architecture, the model integrates a cross-modal joint module with a specialized multi-stage data pipeline, achieving exceptional audio-visual synchronization and superior generation quality. To ensure practical\nutility, we implement meticulous post-training optimizations, including Supervised Fine-Tuning\n(SFT) on high-quality datasets and Reinforcement Learning from Human Feedback (RLHF) with multi-dimensional reward models. Furthermore, we introduce an acceleration framework that boosts inference speed by over 10\u00d7. Seedance 1.5 pro distinguishes itself through precise\nmultilingual and dialect lip-syncing, dynamic cinematic camera control, and enhanced narrative coherence, positioning it as a robust engine for professional-grade content creation. Seedance 1.5 pro is now accessible on Volcano Engine.",
+        "url": "https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model",
+        "published_date": "2025-12-14T16:00:00+00:00",
+        "categories": [
+            "Computer Vision and Pattern Recognition"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Seed Vision Team",
+            "journal": "arXiv",
+            "work_team": [
+                "Vision"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Recent strides in video generation have paved the way for unified audio-visual generation. In this work, we present Seedance 1.5 pro, a foundational model engineered specifically for native, joint audio-video generation. Leveraging a dual-branch Diffusion Transformer architecture, the model integrates a cross-modal joint module with a specialized multi-stage data pipeline, achieving exceptional audio-visual synchronization and superior generation quality. To ensure practical\nutility, we implement meticulous post-training optimizations, including Supervised Fine-Tuning\n(SFT) on high-quality datasets and Reinforcement Learning from Human Feedback (RLHF) with multi-dimensional reward models. Furthermore, we introduce an acceleration framework that boosts inference speed by over 10\u00d7. Seedance 1.5 pro distinguishes itself through precise\nmultilingual and dialect lip-syncing, dynamic cinematic camera control, and enhanced narrative coherence, positioning it as a robust engine for professional-grade content creation. Seedance 1.5 pro is now accessible on Volcano Engine.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/pdf/2512.13507"
+    },
+    {
         "id": "c332c50c3c22b1d40d638f88a5156a13",
         "source": "bytedance_seed",
         "type": "research",
