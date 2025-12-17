@@ -4,16 +4,16 @@
     "source": "github",
     "type": "trending_repository",
     "title": "sansan0 / TrendRadar",
-    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
     "url": "https://github.com/sansan0/TrendRadar",
     "published_date": "2025-12-13T05:44:35Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 39357,
-      "forks": 20596,
-      "stars_today": 26172,
+      "stars": 39458,
+      "forks": 20628,
+      "stars_today": 25120,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "sansan0/TrendRadar"
@@ -31,9 +31,9 @@
       "Kotlin"
     ],
     "metadata": {
-      "stars": 22499,
-      "forks": 1159,
-      "stars_today": 20773,
+      "stars": 22574,
+      "forks": 1163,
+      "stars_today": 19862,
       "language": "Kotlin",
       "timeframe": "monthly",
       "repo_path": "kavishdevar/librepods"
@@ -51,9 +51,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 11031,
-      "forks": 722,
-      "stars_today": 7454,
+      "stars": 11056,
+      "forks": 724,
+      "stars_today": 7126,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "MemoriLabs/Memori"
@@ -71,9 +71,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 17858,
-      "forks": 1824,
-      "stars_today": 6881,
+      "stars": 17902,
+      "forks": 1829,
+      "stars_today": 6631,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "usestrix/strix"
@@ -86,37 +86,17 @@
     "title": "sst / opencode",
     "description": "The open source coding agent.",
     "url": "https://github.com/sst/opencode",
-    "published_date": "2025-12-16T15:23:42Z",
+    "published_date": "2025-12-16T22:10:18Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 39333,
-      "forks": 3330,
-      "stars_today": 6228,
+      "stars": 39597,
+      "forks": 3346,
+      "stars_today": 6460,
       "language": "TypeScript",
       "timeframe": "monthly",
       "repo_path": "sst/opencode"
-    }
-  },
-  {
-    "id": "a25a7060c387b92020cdf0c173445f4f",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "rustfs / rustfs",
-    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-    "url": "https://github.com/rustfs/rustfs",
-    "published_date": "2025-12-11T03:08:51Z",
-    "categories": [
-      "Rust"
-    ],
-    "metadata": {
-      "stars": 17360,
-      "forks": 750,
-      "stars_today": 5957,
-      "language": "Rust",
-      "timeframe": "monthly",
-      "repo_path": "rustfs/rustfs"
     }
   },
   {
@@ -131,12 +111,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 9996,
-      "forks": 1032,
-      "stars_today": 5730,
+      "stars": 10174,
+      "forks": 1052,
+      "stars_today": 6071,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "datawhalechina/hello-agents"
+    }
+  },
+  {
+    "id": "a25a7060c387b92020cdf0c173445f4f",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "rustfs / rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "url": "https://github.com/rustfs/rustfs",
+    "published_date": "2025-12-11T03:08:51Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 17439,
+      "forks": 755,
+      "stars_today": 6069,
+      "language": "Rust",
+      "timeframe": "monthly",
+      "repo_path": "rustfs/rustfs"
     }
   },
   {
@@ -146,14 +146,14 @@
     "title": "google-gemini / gemini-cli",
     "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
     "url": "https://github.com/google-gemini/gemini-cli",
-    "published_date": "2025-12-16T18:28:34Z",
+    "published_date": "2025-12-17T00:50:08Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 87614,
-      "forks": 10021,
-      "stars_today": 5279,
+      "stars": 87709,
+      "forks": 10038,
+      "stars_today": 5293,
       "language": "TypeScript",
       "timeframe": "monthly",
       "repo_path": "google-gemini/gemini-cli"
@@ -166,14 +166,14 @@
     "title": "agentsmd / agents.md",
     "description": "AGENTS.md — a simple, open format for guiding coding agents",
     "url": "https://github.com/agentsmd/agents.md",
-    "published_date": "2025-12-11T19:30:18Z",
+    "published_date": "2025-12-16T21:45:32Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 12078,
-      "forks": 889,
-      "stars_today": 3602,
+      "stars": 12221,
+      "forks": 896,
+      "stars_today": 3838,
       "language": "TypeScript",
       "timeframe": "monthly",
       "repo_path": "agentsmd/agents.md"
@@ -186,14 +186,14 @@
     "title": "comfyanonymous / ComfyUI",
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
     "url": "https://github.com/comfyanonymous/ComfyUI",
-    "published_date": "2025-12-10T00:11:50Z",
+    "published_date": "2025-12-17T08:46:11Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 97066,
-      "forks": 10993,
-      "stars_today": 3463,
+      "stars": 97139,
+      "forks": 11001,
+      "stars_today": 3540,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "comfyanonymous/ComfyUI"
@@ -211,9 +211,9 @@
       "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 82133,
-      "forks": 19271,
-      "stars_today": 3192,
+      "stars": 82198,
+      "forks": 19284,
+      "stars_today": 3295,
       "language": "Jupyter Notebook",
       "timeframe": "monthly",
       "repo_path": "microsoft/ML-For-Beginners"
@@ -231,9 +231,9 @@
       "Zig"
     ],
     "metadata": {
-      "stars": 85150,
-      "forks": 3805,
-      "stars_today": 3080,
+      "stars": 85191,
+      "forks": 3807,
+      "stars_today": 3121,
       "language": "Zig",
       "timeframe": "monthly",
       "repo_path": "oven-sh/bun"
@@ -251,9 +251,9 @@
       "Go"
     ],
     "metadata": {
-      "stars": 6332,
-      "forks": 436,
-      "stars_today": 2953,
+      "stars": 6352,
+      "forks": 437,
+      "stars_today": 2829,
       "language": "Go",
       "timeframe": "monthly",
       "repo_path": "google/adk-go"
@@ -271,9 +271,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 12362,
-      "forks": 2102,
-      "stars_today": 2048,
+      "stars": 12411,
+      "forks": 2109,
+      "stars_today": 2127,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "anthropics/claude-quickstarts"
@@ -291,9 +291,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 4733,
-      "forks": 1164,
-      "stars_today": 1725,
+      "stars": 4759,
+      "forks": 1168,
+      "stars_today": 1786,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "GoogleCloudPlatform/agent-starter-pack"
@@ -311,32 +311,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 8234,
-      "forks": 971,
-      "stars_today": 1350,
+      "stars": 8256,
+      "forks": 973,
+      "stars_today": 1383,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "ostris/ai-toolkit"
-    }
-  },
-  {
-    "id": "721e5e447d4f23749a20082d893e54b2",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / magentic-ui",
-    "description": "A research prototype of a human-centered web agent",
-    "url": "https://github.com/microsoft/magentic-ui",
-    "published_date": "2025-11-29T01:31:15Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 9125,
-      "forks": 931,
-      "stars_today": 1195,
-      "language": "Python",
-      "timeframe": "monthly",
-      "repo_path": "microsoft/magentic-ui"
     }
   },
   {
@@ -351,12 +331,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13829,
-      "forks": 3192,
-      "stars_today": 1184,
+      "stars": 13849,
+      "forks": 3196,
+      "stars_today": 1240,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "trustedsec/social-engineer-toolkit"
+    }
+  },
+  {
+    "id": "721e5e447d4f23749a20082d893e54b2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "microsoft / magentic-ui",
+    "description": "A research prototype of a human-centered web agent",
+    "url": "https://github.com/microsoft/magentic-ui",
+    "published_date": "2025-11-29T01:31:15Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 9146,
+      "forks": 933,
+      "stars_today": 1214,
+      "language": "Python",
+      "timeframe": "monthly",
+      "repo_path": "microsoft/magentic-ui"
     }
   }
 ]
