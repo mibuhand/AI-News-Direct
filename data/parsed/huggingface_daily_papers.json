@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence",
-    "description": "Large language models (LLMs) have fundamentally transformed automated software development by enabling direct translation of natural language descriptions into functional code, driving commercial adop...<br/>Upvotes: 265<br/>Authors: Jian Yang, Xianglong Liu, Weifeng Lv<br/>🔗 <a href=\"https://huggingface.co/papers/2511.18538\">Hugging Face</a>",
+    "description": "Large language models (LLMs) have fundamentally transformed automated software development by enabling direct translation of natural language descriptions into functional code, driving commercial adop...<br/>Upvotes: 266<br/>Authors: Jian Yang, Xianglong Liu, Weifeng Lv<br/>🔗 <a href=\"https://huggingface.co/papers/2511.18538\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.18538",
     "external_url": "",
     "published_date": "2025-11-23T12:09:34.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2511.18538",
-      "upvotes": 265,
+      "upvotes": 266,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -93,7 +93,7 @@
       ],
       "summary": "Large language models (LLMs) have fundamentally transformed automated software development by enabling direct translation of natural language descriptions into functional code, driving commercial adoption through tools like Github Copilot (Microsoft), Cursor (Anysphere), Trae (ByteDance), and Claude Code (Anthropic). While the field has evolved dramatically from rule-based systems to Transformer-based architectures, achieving performance improvements from single-digit to over 95\\% success rates on benchmarks like HumanEval. In this work, we provide a comprehensive synthesis and practical guide (a series of analytic and probing experiments) about code LLMs, systematically examining the complete model life cycle from data curation to post-training through advanced prompting paradigms, code pre-training, supervised fine-tuning, reinforcement learning, and autonomous coding agents. We analyze the code capability of the general LLMs (GPT-4, Claude, LLaMA) and code-specialized LLMs (StarCoder, Code LLaMA, DeepSeek-Coder, and QwenCoder), critically examining the techniques, design decisions, and trade-offs. Further, we articulate the research-practice gap between academic research (e.g., benchmarks and tasks) and real-world deployment (e.g., software-related code tasks), including code correctness, security, contextual awareness of large codebases, and integration with development workflows, and map promising research directions to practical needs. Last, we conduct a series of experiments to provide a comprehensive analysis of code pre-training, supervised fine-tuning, and reinforcement learning, covering scaling law, framework selection, hyperparameter sensitivity, model architectures, and dataset comparisons.",
       "fetch_date": "2025-12-02",
-      "num_comments": 13,
+      "num_comments": 14,
       "ai_summary": "A comprehensive guide to code LLMs, covering their lifecycle from data curation to deployment, including techniques, trade-offs, and research-practice gaps.",
       "ai_keywords": [
         "Transformer-based architectures",
@@ -199,7 +199,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
-    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 213<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
+    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 216<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.02556",
     "external_url": "",
     "published_date": "2025-12-02T04:25:14.000Z",
@@ -209,7 +209,7 @@
     ],
     "metadata": {
       "paper_id": "2512.02556",
-      "upvotes": 213,
+      "upvotes": 216,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -481,7 +481,7 @@
       ],
       "summary": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) DeepSeek Sparse Attention (DSA): We introduce DSA, an efficient attention mechanism that substantially reduces computational complexity while preserving model performance in long-context scenarios. (2) Scalable Reinforcement Learning Framework: By implementing a robust reinforcement learning protocol and scaling post-training compute, DeepSeek-V3.2 performs comparably to GPT-5. Notably, our high-compute variant, DeepSeek-V3.2-Speciale, surpasses GPT-5 and exhibits reasoning proficiency on par with Gemini-3.0-Pro, achieving gold-medal performance in both the 2025 International Mathematical Olympiad (IMO) and the International Olympiad in Informatics (IOI). (3) Large-Scale Agentic Task Synthesis Pipeline: To integrate reasoning into tool-use scenarios, we developed a novel synthesis pipeline that systematically generates training data at scale. This methodology facilitates scalable agentic post-training, yielding substantial improvements in generalization and instruction-following robustness within complex, interactive environments.",
       "fetch_date": "2025-12-03",
-      "num_comments": 5,
+      "num_comments": 6,
       "ai_summary": "DeepSeek-V3.2 introduces DeepSeek Sparse Attention and a scalable reinforcement learning framework, achieving superior reasoning and performance compared to GPT-5 and Gemini-3.0-Pro in complex reasoning tasks.",
       "ai_keywords": [
         "DeepSeek Sparse Attention",
@@ -502,7 +502,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
-    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 200<br/>GitHub Stars: 7227<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
+    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 203<br/>GitHub Stars: 7255<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22699",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image",
     "published_date": "2025-11-27T13:52:07.000Z",
@@ -512,8 +512,8 @@
     ],
     "metadata": {
       "paper_id": "2511.22699",
-      "upvotes": 200,
-      "github_stars": 7227,
+      "upvotes": 203,
+      "github_stars": 7255,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -541,7 +541,7 @@
       ],
       "summary": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Image, Hunyuan-Image-3.0 and FLUX.2, are characterized by massive parameter counts (20B to 80B), making them impractical for inference, and fine-tuning on consumer-grade hardware. To address this gap, we propose Z-Image, an efficient 6B-parameter foundation generative model built upon a Scalable Single-Stream Diffusion Transformer (S3-DiT) architecture that challenges the \"scale-at-all-costs\" paradigm. By systematically optimizing the entire model lifecycle -- from a curated data infrastructure to a streamlined training curriculum -- we complete the full training workflow in just 314K H800 GPU hours (approx. $630K). Our few-step distillation scheme with reward post-training further yields Z-Image-Turbo, offering both sub-second inference latency on an enterprise-grade H800 GPU and compatibility with consumer-grade hardware (<16GB VRAM). Additionally, our omni-pre-training paradigm also enables efficient training of Z-Image-Edit, an editing model with impressive instruction-following capabilities. Both qualitative and quantitative experiments demonstrate that our model achieves performance comparable to or surpassing that of leading competitors across various dimensions. Most notably, Z-Image exhibits exceptional capabilities in photorealistic image generation and bilingual text rendering, delivering results that rival top-tier commercial models, thereby demonstrating that state-of-the-art results are achievable with significantly reduced computational overhead. We publicly release our code, weights, and online demo to foster the development of accessible, budget-friendly, yet state-of-the-art generative models.",
       "fetch_date": "2025-12-01",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.",
       "ai_keywords": [
         "Scalable Single-Stream Diffusion Transformer",
@@ -563,7 +563,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length",
-    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 167<br/>GitHub Stars: 1042<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
+    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 167<br/>GitHub Stars: 1047<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.04677",
     "external_url": "https://github.com/Alibaba-Quark/LiveAvatar",
     "published_date": "2025-12-04T06:11:24.000Z",
@@ -574,7 +574,7 @@
     "metadata": {
       "paper_id": "2512.04677",
       "upvotes": 167,
-      "github_stars": 1042,
+      "github_stars": 1047,
       "github_url": "https://github.com/Alibaba-Quark/LiveAvatar",
       "project_url": "https://liveavatar.github.io/",
       "authors": [
@@ -592,7 +592,7 @@
       ],
       "summary": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audio-driven avatar synthesis. We present Live Avatar, an algorithm-system co-designed framework that enables efficient, high-fidelity, and infinite-length avatar generation using a 14-billion-parameter diffusion model. Our approach introduces Timestep-forcing Pipeline Parallelism (TPP), a distributed inference paradigm that pipelines denoising steps across multiple GPUs, effectively breaking the autoregressive bottleneck and ensuring stable, low-latency real-time streaming. To further enhance temporal consistency and mitigate identity drift and color artifacts, we propose the Rolling Sink Frame Mechanism (RSFM), which maintains sequence fidelity by dynamically recalibrating appearance using a cached reference image. Additionally, we leverage Self-Forcing Distribution Matching Distillation to facilitate causal, streamable adaptation of large-scale models without sacrificing visual quality. Live Avatar demonstrates state-of-the-art performance, reaching 20 FPS end-to-end generation on 5 H800 GPUs, and, to the best of our knowledge, is the first to achieve practical, real-time, high-fidelity avatar generation at this scale. Our work establishes a new paradigm for deploying advanced diffusion models in industrial long-form video synthesis applications.",
       "fetch_date": "2025-12-05",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.",
       "ai_keywords": [
         "diffusion-based video generation",
@@ -622,7 +622,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
-    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 161<br/>GitHub Stars: 1327<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
+    "description": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or co...<br/>Upvotes: 161<br/>GitHub Stars: 1331<br/>Authors: MiroMind Team, Song Bai, Lidong Bing<br/>🔗 <a href=\"https://github.com/MiroMindAI/MiroThinker\">GitHub</a><br/>🔗 <a href=\"https://dr.miromind.ai/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11793\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.11793",
     "external_url": "https://github.com/MiroMindAI/MiroThinker",
     "published_date": "2025-11-14T13:52:07.000Z",
@@ -633,7 +633,7 @@
     "metadata": {
       "paper_id": "2511.11793",
       "upvotes": 161,
-      "github_stars": 1327,
+      "github_stars": 1331,
       "github_url": "https://github.com/MiroMindAI/MiroThinker",
       "project_url": "https://dr.miromind.ai/",
       "authors": [
@@ -704,7 +704,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-VL Technical Report",
-    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 126<br/>GitHub Stars: 17234<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
+    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 127<br/>GitHub Stars: 17239<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.21631",
     "external_url": "https://github.com/QwenLM/Qwen3-VL",
     "published_date": "2025-11-26T12:59:08.000Z",
@@ -714,8 +714,8 @@
     ],
     "metadata": {
       "paper_id": "2511.21631",
-      "upvotes": 126,
-      "github_stars": 17234,
+      "upvotes": 127,
+      "github_stars": 17239,
       "github_url": "https://github.com/QwenLM/Qwen3-VL",
       "project_url": "https://chat.qwen.ai",
       "authors": [
@@ -786,7 +786,7 @@
       ],
       "summary": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved contexts of up to 256K tokens, seamlessly integrating text, images, and video. The model family includes both dense (2B/4B/8B/32B) and mixture-of-experts (30B-A3B/235B-A22B) variants to accommodate diverse latency-quality trade-offs. Qwen3-VL delivers three core pillars: (i) markedly stronger pure-text understanding, surpassing comparable text-only backbones in several cases; (ii) robust long-context comprehension with a native 256K-token window for both text and interleaved multimodal inputs, enabling faithful retention, retrieval, and cross-referencing across long documents and videos; and (iii) advanced multimodal reasoning across single-image, multi-image, and video tasks, demonstrating leading performance on comprehensive evaluations such as MMMU and visual-math benchmarks (e.g., MathVista and MathVision). Architecturally, we introduce three key upgrades: (i) an enhanced interleaved-MRoPE for stronger spatial-temporal modeling across images and video; (ii) DeepStack integration, which effectively leverages multi-level ViT features to tighten vision-language alignment; and (iii) text-based time alignment for video, evolving from T-RoPE to explicit textual timestamp alignment for more precise temporal grounding. Under comparable token budgets and latency constraints, Qwen3-VL achieves superior performance in both dense and Mixture-of-Experts (MoE) architectures. We envision Qwen3-VL serving as a foundational engine for image-grounded reasoning, agentic decision-making, and multimodal code intelligence in real-world workflows.",
       "fetch_date": "2025-12-04",
-      "num_comments": 3,
+      "num_comments": 4,
       "ai_summary": "Qwen3-VL, a vision-language model, excels in text and multimodal understanding through advanced architectures and larger contexts, achieving superior performance across benchmarks.",
       "ai_keywords": [
         "vision-language model",
@@ -816,7 +816,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepCode: Open Agentic Coding",
-    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 29<br/>GitHub Stars: 12657<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
+    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 29<br/>GitHub Stars: 12686<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.07921",
     "external_url": "https://github.com/HKUDS/DeepCode",
     "published_date": "2025-12-08T11:07:13.000Z",
@@ -827,7 +827,7 @@
     "metadata": {
       "paper_id": "2512.07921",
       "upvotes": 29,
-      "github_stars": 12657,
+      "github_stars": 12686,
       "github_url": "https://github.com/HKUDS/DeepCode",
       "project_url": "",
       "authors": [
@@ -863,7 +863,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Agent READMEs: An Empirical Study of Context Files for Agentic Coding",
-    "description": "Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this proc...<br/>Upvotes: 8<br/>GitHub Stars: 12267<br/>Authors: Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa<br/>🔗 <a href=\"https://github.com/openai/agents.md\">GitHub</a><br/>🔗 <a href=\"https://agents.md\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.12884\">Hugging Face</a>",
+    "description": "Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this proc...<br/>Upvotes: 9<br/>GitHub Stars: 12333<br/>Authors: Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa<br/>🔗 <a href=\"https://github.com/openai/agents.md\">GitHub</a><br/>🔗 <a href=\"https://agents.md\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.12884\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.12884",
     "external_url": "https://github.com/openai/agents.md",
     "published_date": "2025-11-16T21:18:55.000Z",
@@ -873,8 +873,8 @@
     ],
     "metadata": {
       "paper_id": "2511.12884",
-      "upvotes": 8,
-      "github_stars": 12267,
+      "upvotes": 9,
+      "github_stars": 12333,
       "github_url": "https://github.com/openai/agents.md",
       "project_url": "https://agents.md",
       "authors": [
@@ -902,7 +902,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Soft Adaptive Policy Optimization",
-    "description": "Reinforcement learning (RL) plays an increasingly important role in enhancing the reasoning capabilities of large language models (LLMs), yet stable and performant policy optimization remains challeng...<br/>Upvotes: 41<br/>GitHub Stars: 11710<br/>Authors: Chang Gao, Chujie Zheng, Xiong-Hui Chen<br/>🔗 <a href=\"https://github.com/modelscope/ms-swift\">GitHub</a><br/>🔗 <a href=\"https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20347\">Hugging Face</a>",
+    "description": "Reinforcement learning (RL) plays an increasingly important role in enhancing the reasoning capabilities of large language models (LLMs), yet stable and performant policy optimization remains challeng...<br/>Upvotes: 41<br/>GitHub Stars: 11714<br/>Authors: Chang Gao, Chujie Zheng, Xiong-Hui Chen<br/>🔗 <a href=\"https://github.com/modelscope/ms-swift\">GitHub</a><br/>🔗 <a href=\"https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20347\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.20347",
     "external_url": "https://github.com/modelscope/ms-swift",
     "published_date": "2025-11-25T09:25:19.000Z",
@@ -913,7 +913,7 @@
     "metadata": {
       "paper_id": "2511.20347",
       "upvotes": 41,
-      "github_stars": 11710,
+      "github_stars": 11714,
       "github_url": "https://github.com/modelscope/ms-swift",
       "project_url": "https://swift.readthedocs.io/en/latest/Instruction/GRPO/AdvancedResearch/SAPO.html",
       "authors": [
@@ -956,7 +956,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "UFO^3: Weaving the Digital Agent Galaxy",
-    "description": "Large language model (LLM)-powered agents are transforming digital devices from passive tools into proactive intelligent collaborators. However, most existing frameworks remain confined to a single OS...<br/>Upvotes: 18<br/>GitHub Stars: 7814<br/>Authors: Chaoyun Zhang, Liqun Li, He Huang<br/>🔗 <a href=\"https://github.com/microsoft/UFO/\">GitHub</a><br/>🔗 <a href=\"https://microsoft.github.io/UFO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11332\">Hugging Face</a>",
+    "description": "Large language model (LLM)-powered agents are transforming digital devices from passive tools into proactive intelligent collaborators. However, most existing frameworks remain confined to a single OS...<br/>Upvotes: 18<br/>GitHub Stars: 7819<br/>Authors: Chaoyun Zhang, Liqun Li, He Huang<br/>🔗 <a href=\"https://github.com/microsoft/UFO/\">GitHub</a><br/>🔗 <a href=\"https://microsoft.github.io/UFO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.11332\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.11332",
     "external_url": "https://github.com/microsoft/UFO/",
     "published_date": "2025-11-14T09:05:31.000Z",
@@ -967,7 +967,7 @@
     "metadata": {
       "paper_id": "2511.11332",
       "upvotes": 18,
-      "github_stars": 7814,
+      "github_stars": 7819,
       "github_url": "https://github.com/microsoft/UFO/",
       "project_url": "https://microsoft.github.io/UFO/",
       "authors": [
@@ -1008,7 +1008,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 27<br/>GitHub Stars: 7235<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
+    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 27<br/>GitHub Stars: 7262<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22677",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
     "published_date": "2025-11-27T13:24:28.000Z",
@@ -1019,7 +1019,7 @@
     "metadata": {
       "paper_id": "2511.22677",
       "upvotes": 27,
-      "github_stars": 7235,
+      "github_stars": 7262,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
