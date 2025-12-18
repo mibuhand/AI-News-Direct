@@ -11,8 +11,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 39610,
-      "forks": 20670,
+      "stars": 39579,
+      "forks": 20679,
       "stars_today": 23253,
       "language": "Python",
       "timeframe": "monthly",
@@ -31,8 +31,8 @@
       "Kotlin"
     ],
     "metadata": {
-      "stars": 22759,
-      "forks": 1173,
+      "stars": 22855,
+      "forks": 1185,
       "stars_today": 16980,
       "language": "Kotlin",
       "timeframe": "monthly",
@@ -46,13 +46,13 @@
     "title": "sst / opencode",
     "description": "The open source coding agent.",
     "url": "https://github.com/sst/opencode",
-    "published_date": "2025-12-18T02:09:24Z",
+    "published_date": "2025-12-18T09:56:47Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 40004,
-      "forks": 3390,
+      "stars": 40140,
+      "forks": 3400,
       "stars_today": 6857,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -71,8 +71,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 11105,
-      "forks": 724,
+      "stars": 11119,
+      "forks": 726,
       "stars_today": 6619,
       "language": "Python",
       "timeframe": "monthly",
@@ -91,8 +91,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 13039,
-      "forks": 1296,
+      "stars": 13203,
+      "forks": 1313,
       "stars_today": 6418,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -111,8 +111,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 10459,
-      "forks": 1091,
+      "stars": 10645,
+      "forks": 1108,
       "stars_today": 6256,
       "language": "Python",
       "timeframe": "monthly",
@@ -131,8 +131,8 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 17541,
-      "forks": 759,
+      "stars": 17593,
+      "forks": 760,
       "stars_today": 6172,
       "language": "Rust",
       "timeframe": "monthly",
@@ -140,23 +140,43 @@
     }
   },
   {
-    "id": "30043d1678121bf04d273086348db72e",
+    "id": "4a876415ab4e31a04dab663c04170606",
     "source": "github",
     "type": "trending_repository",
-    "title": "google-gemini / gemini-cli",
-    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-    "url": "https://github.com/google-gemini/gemini-cli",
-    "published_date": "2025-12-18T00:53:33Z",
+    "title": "facebookresearch / sam3",
+    "description": "The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "url": "https://github.com/facebookresearch/sam3",
+    "published_date": "2025-12-11T17:23:19Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 6090,
+      "forks": 708,
+      "stars_today": 6055,
+      "language": "Python",
+      "timeframe": "monthly",
+      "repo_path": "facebookresearch/sam3"
+    }
+  },
+  {
+    "id": "3242fc4d0af5d5ff4ceb82309b9e9860",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "thedotmack / claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "published_date": "2025-12-18T03:51:00Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 87867,
-      "forks": 10057,
-      "stars_today": 5352,
+      "stars": 8012,
+      "forks": 480,
+      "stars_today": 5655,
       "language": "TypeScript",
-      "timeframe": "monthly",
-      "repo_path": "google-gemini/gemini-cli"
+      "timeframe": "weekly",
+      "repo_path": "thedotmack/claude-mem"
     }
   },
   {
@@ -171,8 +191,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 23570,
-      "forks": 2932,
+      "stars": 23602,
+      "forks": 2940,
       "stars_today": 4729,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -191,8 +211,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 12395,
-      "forks": 903,
+      "stars": 12489,
+      "forks": 906,
       "stars_today": 4024,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -211,8 +231,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 97268,
-      "forks": 11016,
+      "stars": 97312,
+      "forks": 11022,
       "stars_today": 3568,
       "language": "Python",
       "timeframe": "monthly",
@@ -231,8 +251,8 @@
       "Jupyter Notebook"
     ],
     "metadata": {
-      "stars": 82308,
-      "forks": 19306,
+      "stars": 82341,
+      "forks": 19309,
       "stars_today": 3375,
       "language": "Jupyter Notebook",
       "timeframe": "monthly",
@@ -251,32 +271,12 @@
       "Zig"
     ],
     "metadata": {
-      "stars": 85236,
-      "forks": 3814,
+      "stars": 85269,
+      "forks": 3817,
       "stars_today": 3170,
       "language": "Zig",
       "timeframe": "monthly",
       "repo_path": "oven-sh/bun"
-    }
-  },
-  {
-    "id": "7f16772d32311ce735776d2a8465b634",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "google / adk-go",
-    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-    "url": "https://github.com/google/adk-go",
-    "published_date": "2025-12-17T15:00:45Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 6380,
-      "forks": 442,
-      "stars_today": 2654,
-      "language": "Go",
-      "timeframe": "monthly",
-      "repo_path": "google/adk-go"
     }
   },
   {
@@ -291,8 +291,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 12483,
-      "forks": 2117,
+      "stars": 12506,
+      "forks": 2123,
       "stars_today": 2197,
       "language": "Python",
       "timeframe": "monthly",
@@ -311,8 +311,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 2067,
-      "forks": 500,
+      "stars": 2110,
+      "forks": 512,
       "stars_today": 1892,
       "language": "Python",
       "timeframe": "monthly",
@@ -331,32 +331,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 4825,
-      "forks": 1179,
+      "stars": 4856,
+      "forks": 1181,
       "stars_today": 1826,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "GoogleCloudPlatform/agent-starter-pack"
-    }
-  },
-  {
-    "id": "458c9bb7985e1ebfb6bac29b3e73bc41",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "published_date": "2025-12-17T01:12:12Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 18574,
-      "forks": 2047,
-      "stars_today": 1720,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "microsoft/VibeVoice"
     }
   },
   {
@@ -366,12 +346,12 @@
     "title": "ostris / ai-toolkit",
     "description": "The ultimate training toolkit for finetuning diffusion models",
     "url": "https://github.com/ostris/ai-toolkit",
-    "published_date": "2025-12-17T22:20:55Z",
+    "published_date": "2025-12-18T17:08:59Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 8297,
+      "stars": 8315,
       "forks": 974,
       "stars_today": 1413,
       "language": "Python",
@@ -386,37 +366,17 @@
     "title": "block / goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "url": "https://github.com/block/goose",
-    "published_date": "2025-12-18T02:31:24Z",
+    "published_date": "2025-12-18T15:26:42Z",
     "categories": [
       "Rust"
     ],
     "metadata": {
-      "stars": 24668,
-      "forks": 2195,
+      "stars": 24699,
+      "forks": 2198,
       "stars_today": 1407,
       "language": "Rust",
       "timeframe": "weekly",
       "repo_path": "block/goose"
-    }
-  },
-  {
-    "id": "7098c61f27cf8df26cdd949720f4a3f7",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "KaijuEngine / kaiju",
-    "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
-    "url": "https://github.com/KaijuEngine/kaiju",
-    "published_date": "2025-12-18T03:48:16Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 3737,
-      "forks": 129,
-      "stars_today": 1317,
-      "language": "Go",
-      "timeframe": "weekly",
-      "repo_path": "KaijuEngine/kaiju"
     }
   },
   {
@@ -431,8 +391,8 @@
       "Go"
     ],
     "metadata": {
-      "stars": 9256,
-      "forks": 994,
+      "stars": 9283,
+      "forks": 997,
       "stars_today": 1290,
       "language": "Go",
       "timeframe": "weekly",
@@ -451,8 +411,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13898,
-      "forks": 3202,
+      "stars": 13912,
+      "forks": 3203,
       "stars_today": 1284,
       "language": "Python",
       "timeframe": "monthly",
@@ -471,12 +431,72 @@
       "Python"
     ],
     "metadata": {
-      "stars": 9178,
+      "stars": 9188,
       "forks": 934,
       "stars_today": 1243,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "microsoft/magentic-ui"
+    }
+  },
+  {
+    "id": "6895b520d9fbbfe2e7a9a1c2cac65b01",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "anthropics / claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "url": "https://github.com/anthropics/claude-code",
+    "published_date": "2025-12-17T23:55:23Z",
+    "categories": [
+      "Shell"
+    ],
+    "metadata": {
+      "stars": 46645,
+      "forks": 3270,
+      "stars_today": 1060,
+      "language": "Shell",
+      "timeframe": "weekly",
+      "repo_path": "anthropics/claude-code"
+    }
+  },
+  {
+    "id": "d8c7d511ec4fc1eae9519ed837ad482a",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "resemble-ai / chatterbox",
+    "description": "SoTA open-source TTS",
+    "url": "https://github.com/resemble-ai/chatterbox",
+    "published_date": "2025-06-13T14:42:01Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 16190,
+      "forks": 2222,
+      "stars_today": 1058,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "resemble-ai/chatterbox"
+    }
+  },
+  {
+    "id": "e2604f298b6a8d69b71896ffc78e1087",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "HKUDS / DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "url": "https://github.com/HKUDS/DeepCode",
+    "published_date": "2025-11-19T15:51:37Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 12751,
+      "forks": 1706,
+      "stars_today": 918,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "HKUDS/DeepCode"
     }
   },
   {
@@ -491,32 +511,12 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 15774,
-      "forks": 640,
+      "stars": 15794,
+      "forks": 642,
       "stars_today": 798,
       "language": "Rust",
       "timeframe": "weekly",
       "repo_path": "tursodatabase/turso"
-    }
-  },
-  {
-    "id": "157854815dfb8a24ebb7134cf3212262",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "Free-TV / IPTV",
-    "description": "M3U Playlist for free TV channels",
-    "url": "https://github.com/Free-TV/IPTV",
-    "published_date": "2025-12-04T05:42:57Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 8757,
-      "forks": 1535,
-      "stars_today": 756,
-      "language": "Python",
-      "timeframe": "daily",
-      "repo_path": "Free-TV/IPTV"
     }
   },
   {
@@ -531,8 +531,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 43479,
-      "forks": 7705,
+      "stars": 43580,
+      "forks": 7719,
       "stars_today": 729,
       "language": "Python",
       "timeframe": "weekly",
@@ -551,8 +551,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 17068,
-      "forks": 1052,
+      "stars": 17133,
+      "forks": 1056,
       "stars_today": 725,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -560,143 +560,23 @@
     }
   },
   {
-    "id": "bc958e78f6bf982e6982a65618c5398d",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "srbhr / Resume-Matcher",
-    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
-    "url": "https://github.com/srbhr/Resume-Matcher",
-    "published_date": "2025-05-26T06:29:57Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 25252,
-      "forks": 4582,
-      "stars_today": 682,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "srbhr/Resume-Matcher"
-    }
-  },
-  {
-    "id": "062cf9725c3dda08a054fe983dff953a",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "C4illin / ConvertX",
-    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-    "url": "https://github.com/C4illin/ConvertX",
-    "published_date": "2025-12-14T13:21:05Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 12387,
-      "forks": 611,
-      "stars_today": 629,
-      "language": "TypeScript",
-      "timeframe": "daily",
-      "repo_path": "C4illin/ConvertX"
-    }
-  },
-  {
-    "id": "2880336b180a7d4827cf951b4a33a643",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "public-apis / public-apis",
-    "description": "A collective list of free APIs",
-    "url": "https://github.com/public-apis/public-apis",
-    "published_date": "2025-11-04T18:29:01Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 386316,
-      "forks": 41236,
-      "stars_today": 488,
-      "language": "Python",
-      "timeframe": "daily",
-      "repo_path": "public-apis/public-apis"
-    }
-  },
-  {
-    "id": "39c14e95158d735f12573e7188a9cf17",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "nicotsx / zerobyte",
-    "description": "Backup automation for self-hosters. Built on top of restic",
-    "url": "https://github.com/nicotsx/zerobyte",
-    "published_date": "2025-12-17T22:41:30Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 3368,
-      "forks": 68,
-      "stars_today": 466,
-      "language": "TypeScript",
-      "timeframe": "daily",
-      "repo_path": "nicotsx/zerobyte"
-    }
-  },
-  {
     "id": "b4b9c3aeb14513dbc37412ae1362f7a5",
     "source": "github",
     "type": "trending_repository",
     "title": "mindsdb / mindsdb",
-    "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+    "description": "Query Engine for AI - The only MCP Server you'll ever need",
     "url": "https://github.com/mindsdb/mindsdb",
     "published_date": "2025-12-16T15:04:03Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 38016,
+      "stars": 38042,
       "forks": 6063,
       "stars_today": 452,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "mindsdb/mindsdb"
-    }
-  },
-  {
-    "id": "d8c7d511ec4fc1eae9519ed837ad482a",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "resemble-ai / chatterbox",
-    "description": "SoTA open-source TTS",
-    "url": "https://github.com/resemble-ai/chatterbox",
-    "published_date": "2025-06-13T14:42:01Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 15975,
-      "forks": 2213,
-      "stars_today": 345,
-      "language": "Python",
-      "timeframe": "daily",
-      "repo_path": "resemble-ai/chatterbox"
-    }
-  },
-  {
-    "id": "93e6dcf1443683f2e98450fd91449640",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "TapXWorld / ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "published_date": "2025-10-18T13:39:24Z",
-    "categories": [
-      "Roff"
-    ],
-    "metadata": {
-      "stars": 62982,
-      "forks": 13961,
-      "stars_today": 287,
-      "language": "Roff",
-      "timeframe": "daily",
-      "repo_path": "TapXWorld/ChinaTextbook"
     }
   },
   {
@@ -711,50 +591,72 @@
       "C++"
     ],
     "metadata": {
-      "stars": 4932,
-      "forks": 452,
-      "stars_today": 167,
+      "stars": 4963,
+      "forks": 454,
+      "stars_today": 433,
       "language": "C++",
-      "timeframe": "daily",
+      "timeframe": "weekly",
       "repo_path": "jellyfin/jellyfin-desktop"
     }
   },
   {
-    "id": "717df55e9ca5e1cdc9d9995632e6c800",
+    "id": "48626fe1a05ed7f2a74e144b59086180",
     "source": "github",
     "type": "trending_repository",
-    "title": "0xk1h0 / ChatGPT_DAN",
-    "description": "ChatGPT DAN, Jailbreaks prompt",
-    "url": "https://github.com/0xk1h0/ChatGPT_DAN",
-    "published_date": "2023-08-22T12:11:44Z",
-    "categories": [],
-    "metadata": {
-      "stars": 10527,
-      "forks": 970,
-      "stars_today": 84,
-      "language": "",
-      "timeframe": "daily",
-      "repo_path": "0xk1h0/ChatGPT_DAN"
-    }
-  },
-  {
-    "id": "11ce40ac2cfc13ff6cf01439040fa7e2",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "NVIDIA-NeMo / Gym",
-    "description": "Build RL environments for LLM training",
-    "url": "https://github.com/NVIDIA-NeMo/Gym",
-    "published_date": "2025-12-15T00:32:19Z",
+    "title": "astral-sh / ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "url": "https://github.com/astral-sh/ty",
+    "published_date": "2025-12-18T02:17:51Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 334,
-      "forks": 25,
-      "stars_today": 33,
+      "stars": 14763,
+      "forks": 152,
+      "stars_today": 250,
       "language": "Python",
       "timeframe": "daily",
-      "repo_path": "NVIDIA-NeMo/Gym"
+      "repo_path": "astral-sh/ty"
+    }
+  },
+  {
+    "id": "1579fbaaf728bda48d6285c5139352e3",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "schollz / croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "url": "https://github.com/schollz/croc",
+    "published_date": "2025-11-20T15:27:53Z",
+    "categories": [
+      "Go"
+    ],
+    "metadata": {
+      "stars": 32831,
+      "forks": 1293,
+      "stars_today": 130,
+      "language": "Go",
+      "timeframe": "daily",
+      "repo_path": "schollz/croc"
+    }
+  },
+  {
+    "id": "7759edeae72afb6003538c745cc90dc0",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "letta-ai / letta",
+    "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.",
+    "url": "https://github.com/letta-ai/letta",
+    "published_date": "2025-12-18T01:37:57Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 19829,
+      "forks": 2081,
+      "stars_today": 102,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "letta-ai/letta"
     }
   }
 ]
