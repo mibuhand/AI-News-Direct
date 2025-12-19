@@ -1,10 +1,61 @@
 [
     {
+        "id": "326ad4d34a58ff6a17659645405ee851",
+        "source": "openai",
+        "type": "research",
+        "title": "Evaluating chain-of-thought monitorability",
+        "description": "We introduce evaluations for chain-of-thought monitorability and study how it scales with test-time compute, reinforcement learning, and pretraining.",
+        "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
+        "published_date": "2025-12-18T12:00:00+00:00",
+        "categories": [
+            "Research"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Research"
+        },
+        "objects": []
+    },
+    {
+        "id": "0fc67abe10b7b513c171d0bf63a5eb8d",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing GPT-5.2-Codex",
+        "description": "The most advanced agentic coding model for professional software engineering and defensive cybersecurity.",
+        "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+        "published_date": "2025-12-18T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "e7c12ac6a6a96b49f648ed3161505cac",
+        "source": "openai",
+        "type": "publication",
+        "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+        "url": "https://openai.com/index/gpt-5-2-codex-system-card/",
+        "published_date": "2025-12-18T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
         "id": "5ac51006c4ac8b5cbbff8250ec728dc3",
         "source": "openai",
         "type": "research",
         "title": "Evaluating AI\u2019s ability to perform scientific research tasks",
-        "description": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+        "description": "We introduce FrontierScience, a new benchmark that evaluates AI capabilities for expert-level scientific reasoning across physics, chemistry, and biology.",
         "url": "https://openai.com/index/frontierscience/",
         "published_date": "2025-12-16T09:00:00+00:00",
         "categories": [
@@ -17,11 +68,11 @@
         "objects": []
     },
     {
-        "id": "278f85e5caf3b361b0edc6eceefa1436",
+        "id": "d70da5bfb8565751ff11c705e57170c1",
         "source": "openai",
         "type": "research",
-        "title": "Measuring AI\u2019s capability to accelerate biological research",
-        "description": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+        "title": "Measuring AI\u2019s capability to accelerate biological research in the wet lab",
+        "description": "GPT-5 created novel wet lab protocol improvements, optimizing the efficiency of a molecular cloning protocol by 79x.",
         "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab/",
         "published_date": "2025-12-16T08:00:00+00:00",
         "categories": [
@@ -55,7 +106,7 @@
         "source": "openai",
         "type": "publication",
         "title": "Advancing science and math with GPT-5.2",
-        "description": "GPT-5.2 is OpenAI\u2019s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+        "description": "GPT-5.2 is our strongest model yet for math and science work.",
         "url": "https://openai.com/index/gpt-5-2-for-science-and-math/",
         "published_date": "2025-12-11T10:00:00+00:00",
         "categories": [
@@ -64,23 +115,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "855f4479d298d11498a630e1a48d2033",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing GPT-5.2",
-        "description": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
-        "url": "https://openai.com/index/introducing-gpt-5-2/",
-        "published_date": "2025-12-11T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     },
@@ -102,47 +136,13 @@
         "objects": []
     },
     {
-        "id": "2ce28f3cfd7679be0ab59c0e10dcce2a",
-        "source": "openai",
-        "type": "research",
-        "title": "How confessions can keep language models honest",
-        "description": "OpenAI researchers are testing \u201cconfessions,\u201d a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-        "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest/",
-        "published_date": "2025-12-03T10:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "3a40213ef23ea9cb083d60f173b66831",
-        "source": "openai",
-        "type": "research",
-        "title": "Early experiments in accelerating science with GPT-5",
-        "description": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
-        "url": "https://openai.com/index/accelerating-science-gpt-5/",
-        "published_date": "2025-11-20T00:00:00+00:00",
-        "categories": [
-            "Research"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Research"
-        },
-        "objects": []
-    },
-    {
-        "id": "49046311c4be2fcb23f716f2a199926d",
+        "id": "6a5fbe7d1d4482c93d777c1647eefc40",
         "source": "openai",
         "type": "product",
-        "title": "Building more with GPT-5.1-Codex-Max",
-        "description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
-        "url": "https://openai.com/index/gpt-5-1-codex-max/",
-        "published_date": "2025-11-19T00:00:00+00:00",
+        "title": "Introducing GPT-5.2The most advanced frontier model for professional work and long-running agents.",
+        "description": "",
+        "url": "https://openai.com/index/introducing-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
         "categories": [
             "Product"
         ],
