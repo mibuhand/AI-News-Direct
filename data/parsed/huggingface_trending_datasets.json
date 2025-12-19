@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "description": "Downloads: 1,709<br/>Likes: 148",
+    "description": "Downloads: 1,709<br/>Likes: 156",
     "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "published_date": "2025-12-19T09:28:33.494703+00:00",
+    "published_date": "2025-12-19T21:20:01.105791+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenMed",
       "item_name": "Medical-Reasoning-SFT-GPT-OSS-120B",
       "downloads": 1709,
-      "likes": 148,
+      "likes": 156,
       "last_modified": "2025-12-12T15:11:25.000Z",
       "all_tags": []
     }
@@ -22,52 +22,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Anthropic/AnthropicInterviewer",
-    "description": "Downloads: 11,036<br/>Likes: 321",
+    "description": "Downloads: 11,036<br/>Likes: 325",
     "url": "https://huggingface.co/datasets/Anthropic/AnthropicInterviewer",
-    "published_date": "2025-12-19T09:28:33.494720+00:00",
+    "published_date": "2025-12-19T21:20:01.105806+00:00",
     "categories": [],
     "metadata": {
       "author": "Anthropic",
       "item_name": "AnthropicInterviewer",
       "downloads": 11036,
-      "likes": 321,
+      "likes": 325,
       "last_modified": "2025-12-08T21:52:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "aed8c9a1dacb095526e6a892c3ddd385",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "TuringEnterprises/Turing-Open-Reasoning",
-    "description": "Downloads: 19,423<br/>Likes: 160",
-    "url": "https://huggingface.co/datasets/TuringEnterprises/Turing-Open-Reasoning",
-    "published_date": "2025-12-19T09:28:33.494728+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "TuringEnterprises",
-      "item_name": "Turing-Open-Reasoning",
-      "downloads": 19423,
-      "likes": 160,
-      "last_modified": "2025-12-06T08:52:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0d6a7277196739684279c910793daab1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/gdpval",
-    "description": "Downloads: 33,159<br/>Likes: 401",
-    "url": "https://huggingface.co/datasets/openai/gdpval",
-    "published_date": "2025-12-19T09:28:33.494735+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "gdpval",
-      "downloads": 33159,
-      "likes": 401,
-      "last_modified": "2025-09-25T16:21:20.000Z",
       "all_tags": []
     }
   },
@@ -76,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Agentic-v1",
-    "description": "Downloads: 466<br/>Likes: 67",
+    "description": "Downloads: 466<br/>Likes: 72",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Agentic-v1",
-    "published_date": "2025-12-19T09:28:33.494748+00:00",
+    "published_date": "2025-12-19T21:20:01.105813+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Agentic-v1",
       "downloads": 466,
-      "likes": 67,
+      "likes": 72,
       "last_modified": "2025-12-15T13:48:35.000Z",
       "all_tags": []
     }
@@ -94,16 +58,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "openai/frontierscience",
-    "description": "Downloads: 636<br/>Likes: 63",
+    "description": "Downloads: 636<br/>Likes: 67",
     "url": "https://huggingface.co/datasets/openai/frontierscience",
-    "published_date": "2025-12-19T09:28:33.494755+00:00",
+    "published_date": "2025-12-19T21:20:01.105818+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
       "item_name": "frontierscience",
       "downloads": 636,
-      "likes": 63,
+      "likes": 67,
       "last_modified": "2025-12-16T14:50:54.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "aed8c9a1dacb095526e6a892c3ddd385",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "TuringEnterprises/Turing-Open-Reasoning",
+    "description": "Downloads: 19,423<br/>Likes: 164",
+    "url": "https://huggingface.co/datasets/TuringEnterprises/Turing-Open-Reasoning",
+    "published_date": "2025-12-19T21:20:01.105828+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "TuringEnterprises",
+      "item_name": "Turing-Open-Reasoning",
+      "downloads": 19423,
+      "likes": 164,
+      "last_modified": "2025-12-06T08:52:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0d6a7277196739684279c910793daab1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/gdpval",
+    "description": "Downloads: 33,159<br/>Likes: 403",
+    "url": "https://huggingface.co/datasets/openai/gdpval",
+    "published_date": "2025-12-19T21:20:01.105833+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "gdpval",
+      "downloads": 33159,
+      "likes": 403,
+      "last_modified": "2025-09-25T16:21:20.000Z",
       "all_tags": []
     }
   },
@@ -112,16 +112,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "description": "Downloads: 1,141<br/>Likes: 72",
+    "description": "Downloads: 1,141<br/>Likes: 75",
     "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "published_date": "2025-12-19T09:28:33.494763+00:00",
+    "published_date": "2025-12-19T21:20:01.105838+00:00",
     "categories": [],
     "metadata": {
       "author": "TeichAI",
       "item_name": "claude-4.5-opus-high-reasoning-250x",
       "downloads": 1141,
-      "likes": 72,
+      "likes": 75,
       "last_modified": "2025-11-28T03:02:41.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "599950a7cd58ba58b2598a765ac14097",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "aanonyyy/F5I9N7A1",
+    "description": "Downloads: 131<br/>Likes: 50",
+    "url": "https://huggingface.co/datasets/aanonyyy/F5I9N7A1",
+    "published_date": "2025-12-19T21:20:01.105843+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "aanonyyy",
+      "item_name": "F5I9N7A1",
+      "downloads": 131,
+      "likes": 50,
+      "last_modified": "2025-10-22T18:34:04.000Z",
       "all_tags": []
     }
   },
@@ -132,7 +150,7 @@
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
     "description": "Downloads: 191,413<br/>Likes: 545",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2025-12-19T09:28:33.494769+00:00",
+    "published_date": "2025-12-19T21:20:01.105848+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -144,109 +162,19 @@
     }
   },
   {
-    "id": "0a33f391af7b68376d930ed5fe7299c5",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "HuggingFaceFW/fineweb",
-    "description": "Downloads: 171,266<br/>Likes: 2529",
-    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
-    "published_date": "2025-12-19T09:28:33.494775+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HuggingFaceFW",
-      "item_name": "fineweb",
-      "downloads": 171266,
-      "likes": 2529,
-      "last_modified": "2025-07-11T20:16:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "599950a7cd58ba58b2598a765ac14097",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "aanonyyy/F5I9N7A1",
-    "description": "Downloads: 131<br/>Likes: 48",
-    "url": "https://huggingface.co/datasets/aanonyyy/F5I9N7A1",
-    "published_date": "2025-12-19T09:28:33.494782+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "aanonyyy",
-      "item_name": "F5I9N7A1",
-      "downloads": 131,
-      "likes": 48,
-      "last_modified": "2025-10-22T18:34:04.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a82a177cc1837182eb71a54ff0278fc9",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "HuggingFaceFW/fineweb-edu",
-    "description": "Downloads: 274,171<br/>Likes: 873",
-    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu",
-    "published_date": "2025-12-19T09:28:33.494788+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HuggingFaceFW",
-      "item_name": "fineweb-edu",
-      "downloads": 274171,
-      "likes": 873,
-      "last_modified": "2025-07-11T20:16:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ca26a7722bbf1ec0ff993d897a980869",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "builddotai/Egocentric-100K",
-    "description": "Downloads: 25,350<br/>Likes: 55",
-    "url": "https://huggingface.co/datasets/builddotai/Egocentric-100K",
-    "published_date": "2025-12-19T09:28:33.494794+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "builddotai",
-      "item_name": "Egocentric-100K",
-      "downloads": 25350,
-      "likes": 55,
-      "last_modified": "2025-12-11T04:06:14.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "43365c72be030461ffffa1b6677dc82d",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "stepfun-ai/PaCoRe-Train-8k",
-    "description": "Downloads: 4,279<br/>Likes: 65",
-    "url": "https://huggingface.co/datasets/stepfun-ai/PaCoRe-Train-8k",
-    "published_date": "2025-12-19T09:28:33.494799+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "stepfun-ai",
-      "item_name": "PaCoRe-Train-8k",
-      "downloads": 4279,
-      "likes": 65,
-      "last_modified": "2025-12-10T17:18:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "cc1f8b5417f181814244b03aff6257d3",
     "source": "huggingface",
     "type": "dataset",
     "title": "CausalLM/Retrievatar",
-    "description": "Downloads: 395<br/>Likes: 41",
+    "description": "Downloads: 395<br/>Likes: 44",
     "url": "https://huggingface.co/datasets/CausalLM/Retrievatar",
-    "published_date": "2025-12-19T09:28:33.494805+00:00",
+    "published_date": "2025-12-19T21:20:01.105852+00:00",
     "categories": [],
     "metadata": {
       "author": "CausalLM",
       "item_name": "Retrievatar",
       "downloads": 395,
-      "likes": 41,
+      "likes": 44,
       "last_modified": "2025-12-14T01:02:19.000Z",
       "all_tags": []
     }
@@ -256,16 +184,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "open-thoughts/OpenThoughts-Agent-v1-SFT",
-    "description": "Downloads: 19,099<br/>Likes: 54",
+    "description": "Downloads: 19,099<br/>Likes: 59",
     "url": "https://huggingface.co/datasets/open-thoughts/OpenThoughts-Agent-v1-SFT",
-    "published_date": "2025-12-19T09:28:33.494812+00:00",
+    "published_date": "2025-12-19T21:20:01.105857+00:00",
     "categories": [],
     "metadata": {
       "author": "open-thoughts",
       "item_name": "OpenThoughts-Agent-v1-SFT",
       "downloads": 19099,
-      "likes": 54,
+      "likes": 59,
       "last_modified": "2025-12-06T18:07:30.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0a33f391af7b68376d930ed5fe7299c5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "HuggingFaceFW/fineweb",
+    "description": "Downloads: 171,266<br/>Likes: 2531",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+    "published_date": "2025-12-19T21:20:01.105861+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HuggingFaceFW",
+      "item_name": "fineweb",
+      "downloads": 171266,
+      "likes": 2531,
+      "last_modified": "2025-07-11T20:16:53.000Z",
       "all_tags": []
     }
   },
@@ -274,16 +220,88 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/awesome-chatgpt-prompts",
-    "description": "Downloads: 27,957<br/>Likes: 9482",
+    "description": "Downloads: 27,957<br/>Likes: 9484",
     "url": "https://huggingface.co/datasets/fka/awesome-chatgpt-prompts",
-    "published_date": "2025-12-19T09:28:33.494822+00:00",
+    "published_date": "2025-12-19T21:20:01.105865+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "awesome-chatgpt-prompts",
       "downloads": 27957,
-      "likes": 9482,
-      "last_modified": "2025-12-19T09:03:39.000Z",
+      "likes": 9484,
+      "last_modified": "2025-12-19T21:02:04.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ca26a7722bbf1ec0ff993d897a980869",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "builddotai/Egocentric-100K",
+    "description": "Downloads: 25,350<br/>Likes: 57",
+    "url": "https://huggingface.co/datasets/builddotai/Egocentric-100K",
+    "published_date": "2025-12-19T21:20:01.105869+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "builddotai",
+      "item_name": "Egocentric-100K",
+      "downloads": 25350,
+      "likes": 57,
+      "last_modified": "2025-12-11T04:06:14.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a82a177cc1837182eb71a54ff0278fc9",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "HuggingFaceFW/fineweb-edu",
+    "description": "Downloads: 274,171<br/>Likes: 874",
+    "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu",
+    "published_date": "2025-12-19T21:20:01.105874+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HuggingFaceFW",
+      "item_name": "fineweb-edu",
+      "downloads": 274171,
+      "likes": 874,
+      "last_modified": "2025-07-11T20:16:53.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4e0fad2992b8079c177021c3b631d539",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Pretraining-Code-v2",
+    "description": "Downloads: 881<br/>Likes: 37",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Pretraining-Code-v2",
+    "published_date": "2025-12-19T21:20:01.105880+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Pretraining-Code-v2",
+      "downloads": 881,
+      "likes": 37,
+      "last_modified": "2025-12-15T13:35:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "43365c72be030461ffffa1b6677dc82d",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "stepfun-ai/PaCoRe-Train-8k",
+    "description": "Downloads: 4,279<br/>Likes: 66",
+    "url": "https://huggingface.co/datasets/stepfun-ai/PaCoRe-Train-8k",
+    "published_date": "2025-12-19T21:20:01.105885+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "stepfun-ai",
+      "item_name": "PaCoRe-Train-8k",
+      "downloads": 4279,
+      "likes": 66,
+      "last_modified": "2025-12-10T17:18:53.000Z",
       "all_tags": []
     }
   },
@@ -294,7 +312,7 @@
     "title": "nvidia/ToolScale",
     "description": "Downloads: 3,126<br/>Likes: 149",
     "url": "https://huggingface.co/datasets/nvidia/ToolScale",
-    "published_date": "2025-12-19T09:28:33.494829+00:00",
+    "published_date": "2025-12-19T21:20:01.105890+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -306,13 +324,31 @@
     }
   },
   {
+    "id": "164dc11b33d2381aba8d9076e3e3b040",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "AlicanKiraz0/Agentic-Chain-of-Thought-Coding-SFT-Dataset",
+    "description": "Downloads: 318<br/>Likes: 44",
+    "url": "https://huggingface.co/datasets/AlicanKiraz0/Agentic-Chain-of-Thought-Coding-SFT-Dataset",
+    "published_date": "2025-12-19T21:20:01.105895+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "AlicanKiraz0",
+      "item_name": "Agentic-Chain-of-Thought-Coding-SFT-Dataset",
+      "downloads": 318,
+      "likes": 44,
+      "last_modified": "2025-12-10T16:10:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "c65f4c0b563e8e1c245e9048ee29bbfc",
     "source": "huggingface",
     "type": "dataset",
     "title": "openai/gsm8k",
     "description": "Downloads: 427,803<br/>Likes: 1051",
     "url": "https://huggingface.co/datasets/openai/gsm8k",
-    "published_date": "2025-12-19T09:28:33.494836+00:00",
+    "published_date": "2025-12-19T21:20:01.105899+00:00",
     "categories": [],
     "metadata": {
       "author": "openai",
@@ -320,42 +356,6 @@
       "downloads": 427803,
       "likes": 1051,
       "last_modified": "2024-01-04T12:05:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "164dc11b33d2381aba8d9076e3e3b040",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "AlicanKiraz0/Agentic-Chain-of-Thought-Coding-SFT-Dataset",
-    "description": "Downloads: 318<br/>Likes: 43",
-    "url": "https://huggingface.co/datasets/AlicanKiraz0/Agentic-Chain-of-Thought-Coding-SFT-Dataset",
-    "published_date": "2025-12-19T09:28:33.494842+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "AlicanKiraz0",
-      "item_name": "Agentic-Chain-of-Thought-Coding-SFT-Dataset",
-      "downloads": 318,
-      "likes": 43,
-      "last_modified": "2025-12-10T16:10:02.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "91ec0fb69478901f38c98ddf7a46ccb5",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nick007x/arxiv-papers",
-    "description": "Downloads: 18,076<br/>Likes: 138",
-    "url": "https://huggingface.co/datasets/nick007x/arxiv-papers",
-    "published_date": "2025-12-19T09:28:33.494848+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nick007x",
-      "item_name": "arxiv-papers",
-      "downloads": 18076,
-      "likes": 138,
-      "last_modified": "2025-10-14T11:55:28.000Z",
       "all_tags": []
     }
   }
