@@ -6,14 +6,14 @@
     "title": "anthropics / claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "url": "https://github.com/anthropics/claude-code",
-    "published_date": "2025-12-19T00:59:32Z",
+    "published_date": "2025-12-19T22:13:25Z",
     "categories": [
       "Shell"
     ],
     "metadata": {
-      "stars": 47111,
-      "forks": 3302,
-      "stars_today": 511,
+      "stars": 47254,
+      "forks": 3318,
+      "stars_today": 510,
       "language": "Shell",
       "timeframe": "daily",
       "repo_path": "anthropics/claude-code"
@@ -31,9 +31,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 1431,
-      "forks": 103,
-      "stars_today": 501,
+      "stars": 1574,
+      "forks": 114,
+      "stars_today": 504,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "sgl-project/mini-sglang"
@@ -51,9 +51,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 33561,
-      "forks": 2283,
-      "stars_today": 437,
+      "stars": 33823,
+      "forks": 2303,
+      "stars_today": 448,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "exo-explore/exo"
@@ -71,50 +71,12 @@
       "JavaScript"
     ],
     "metadata": {
-      "stars": 96294,
-      "forks": 7231,
-      "stars_today": 136,
+      "stars": 96455,
+      "forks": 7246,
+      "stars_today": 90,
       "language": "JavaScript",
       "timeframe": "daily",
       "repo_path": "jaywcjlove/awesome-mac"
-    }
-  },
-  {
-    "id": "417499f75bf80495ee220d061415bba5",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "afshinea / stanford-cs-229-machine-learning",
-    "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
-    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
-    "published_date": "2020-05-20T04:57:09Z",
-    "categories": [],
-    "metadata": {
-      "stars": 18986,
-      "forks": 4137,
-      "stars_today": 103,
-      "language": "",
-      "timeframe": "daily",
-      "repo_path": "afshinea/stanford-cs-229-machine-learning"
-    }
-  },
-  {
-    "id": "088bdbeb442a4117a1c61c4d95f5d87c",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "metabase / metabase",
-    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-    "url": "https://github.com/metabase/metabase",
-    "published_date": "2025-12-19T20:05:58Z",
-    "categories": [
-      "Clojure"
-    ],
-    "metadata": {
-      "stars": 45123,
-      "forks": 6095,
-      "stars_today": 79,
-      "language": "Clojure",
-      "timeframe": "daily",
-      "repo_path": "metabase/metabase"
     }
   },
   {
@@ -129,9 +91,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 356,
-      "forks": 29,
-      "stars_today": 46,
+      "stars": 462,
+      "forks": 33,
+      "stars_today": 52,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "google/adk-js"
@@ -149,32 +111,30 @@
       "Python"
     ],
     "metadata": {
-      "stars": 72554,
-      "forks": 16346,
-      "stars_today": 32,
+      "stars": 72693,
+      "forks": 16358,
+      "stars_today": 38,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "swisskyrepo/PayloadsAllTheThings"
     }
   },
   {
-    "id": "11ce40ac2cfc13ff6cf01439040fa7e2",
+    "id": "417499f75bf80495ee220d061415bba5",
     "source": "github",
     "type": "trending_repository",
-    "title": "NVIDIA-NeMo / Gym",
-    "description": "Build RL environments for LLM training",
-    "url": "https://github.com/NVIDIA-NeMo/Gym",
-    "published_date": "2025-12-15T00:32:19Z",
-    "categories": [
-      "Python"
-    ],
+    "title": "afshinea / stanford-cs-229-machine-learning",
+    "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "published_date": "2020-05-20T04:57:09Z",
+    "categories": [],
     "metadata": {
-      "stars": 432,
-      "forks": 27,
-      "stars_today": 26,
-      "language": "Python",
+      "stars": 19093,
+      "forks": 4145,
+      "stars_today": 35,
+      "language": "",
       "timeframe": "daily",
-      "repo_path": "NVIDIA-NeMo/Gym"
+      "repo_path": "afshinea/stanford-cs-229-machine-learning"
     }
   },
   {
@@ -189,12 +149,52 @@
       "Python"
     ],
     "metadata": {
-      "stars": 9572,
-      "forks": 1396,
-      "stars_today": 26,
+      "stars": 9680,
+      "forks": 1414,
+      "stars_today": 34,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "GreyDGL/PentestGPT"
+    }
+  },
+  {
+    "id": "11ce40ac2cfc13ff6cf01439040fa7e2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "NVIDIA-NeMo / Gym",
+    "description": "Build RL environments for LLM training",
+    "url": "https://github.com/NVIDIA-NeMo/Gym",
+    "published_date": "2025-12-15T00:32:19Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 495,
+      "forks": 31,
+      "stars_today": 27,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "NVIDIA-NeMo/Gym"
+    }
+  },
+  {
+    "id": "088bdbeb442a4117a1c61c4d95f5d87c",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "metabase / metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+    "url": "https://github.com/metabase/metabase",
+    "published_date": "2025-12-19T20:05:58Z",
+    "categories": [
+      "Clojure"
+    ],
+    "metadata": {
+      "stars": 45215,
+      "forks": 6106,
+      "stars_today": 21,
+      "language": "Clojure",
+      "timeframe": "daily",
+      "repo_path": "metabase/metabase"
     }
   }
 ]
