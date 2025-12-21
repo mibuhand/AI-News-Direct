@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Tongyi-MAI/Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 341,530<br/>Likes: 3178",
+    "description": "Type: text-to-image<br/>Downloads: 352,314<br/>Likes: 3225",
     "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-    "published_date": "2025-12-20T21:17:59.909969+00:00",
+    "published_date": "2025-12-21T09:24:35.867848+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "Tongyi-MAI",
       "item_name": "Z-Image-Turbo",
-      "downloads": 341530,
-      "likes": 3178,
+      "downloads": 352314,
+      "likes": 3225,
       "last_modified": "2025-12-08T16:41:03.000Z",
       "all_tags": []
     }
@@ -24,18 +24,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-    "description": "Type: text-generation<br/>Downloads: 71,413<br/>Likes: 398",
+    "description": "Type: text-generation<br/>Downloads: 74,165<br/>Likes: 404",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-    "published_date": "2025-12-20T21:17:59.909993+00:00",
+    "published_date": "2025-12-21T09:24:35.867869+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-      "downloads": 71413,
-      "likes": 398,
+      "downloads": 74165,
+      "likes": 404,
       "last_modified": "2025-12-19T20:24:09.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c4ea10fe9726834a26804079b1ba4d0b",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Shakker-Labs/AWPortrait-Z",
+    "description": "Type: text-to-image<br/>Downloads: 4,530<br/>Likes: 378",
+    "url": "https://huggingface.co/Shakker-Labs/AWPortrait-Z",
+    "published_date": "2025-12-21T09:24:35.867895+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "Shakker-Labs",
+      "item_name": "AWPortrait-Z",
+      "downloads": 4530,
+      "likes": 378,
+      "last_modified": "2025-12-14T05:50:52.000Z",
       "all_tags": []
     }
   },
@@ -44,17 +64,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HY-WorldPlay",
-    "description": "Type: image-to-video<br/>Downloads: 2,937<br/>Likes: 360",
+    "description": "Type: image-to-video<br/>Downloads: 3,021<br/>Likes: 377",
     "url": "https://huggingface.co/tencent/HY-WorldPlay",
-    "published_date": "2025-12-20T21:17:59.910006+00:00",
+    "published_date": "2025-12-21T09:24:35.867903+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "tencent",
       "item_name": "HY-WorldPlay",
-      "downloads": 2937,
-      "likes": 360,
+      "downloads": 3021,
+      "likes": 377,
       "last_modified": "2025-12-18T16:36:51.000Z",
       "all_tags": []
     }
@@ -64,38 +84,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "google/functiongemma-270m-it",
-    "description": "Type: text-generation<br/>Downloads: 6,881<br/>Likes: 337",
+    "description": "Type: text-generation<br/>Downloads: 10,633<br/>Likes: 364",
     "url": "https://huggingface.co/google/functiongemma-270m-it",
-    "published_date": "2025-12-20T21:17:59.910012+00:00",
+    "published_date": "2025-12-21T09:24:35.867909+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "google",
       "item_name": "functiongemma-270m-it",
-      "downloads": 6881,
-      "likes": 337,
+      "downloads": 10633,
+      "likes": 364,
       "last_modified": "2025-12-18T20:33:31.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "c4ea10fe9726834a26804079b1ba4d0b",
+    "id": "d2dc3cf2bc76626f46fa43c285f24e9b",
     "source": "huggingface",
     "type": "model",
-    "title": "Shakker-Labs/AWPortrait-Z",
-    "description": "Type: text-to-image<br/>Downloads: 4,050<br/>Likes: 337",
-    "url": "https://huggingface.co/Shakker-Labs/AWPortrait-Z",
-    "published_date": "2025-12-20T21:17:59.910017+00:00",
+    "title": "Qwen/Qwen-Image-Layered",
+    "description": "Type: image-text-to-image<br/>Downloads: 3,459<br/>Likes: 360",
+    "url": "https://huggingface.co/Qwen/Qwen-Image-Layered",
+    "published_date": "2025-12-21T09:24:35.867915+00:00",
     "categories": [
-      "text-to-image"
+      "image-text-to-image"
     ],
     "metadata": {
-      "author": "Shakker-Labs",
-      "item_name": "AWPortrait-Z",
-      "downloads": 4050,
-      "likes": 337,
-      "last_modified": "2025-12-14T05:50:52.000Z",
+      "author": "Qwen",
+      "item_name": "Qwen-Image-Layered",
+      "downloads": 3459,
+      "likes": 360,
+      "last_modified": "2025-12-19T09:11:18.000Z",
       "all_tags": []
     }
   },
@@ -104,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "XiaomiMiMo/MiMo-V2-Flash",
-    "description": "Type: text-generation<br/>Downloads: 6,103<br/>Likes: 335",
+    "description": "Type: text-generation<br/>Downloads: 6,796<br/>Likes: 353",
     "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash",
-    "published_date": "2025-12-20T21:17:59.910022+00:00",
+    "published_date": "2025-12-21T09:24:35.867921+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "XiaomiMiMo",
       "item_name": "MiMo-V2-Flash",
-      "downloads": 6103,
-      "likes": 335,
+      "downloads": 6796,
+      "likes": 353,
       "last_modified": "2025-12-18T03:15:42.000Z",
       "all_tags": []
     }
@@ -124,9 +144,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ResembleAI/chatterbox-turbo",
-    "description": "Type: text-to-speech<br/>Likes: 299",
+    "description": "Type: text-to-speech<br/>Likes: 306",
     "url": "https://huggingface.co/ResembleAI/chatterbox-turbo",
-    "published_date": "2025-12-20T21:17:59.910027+00:00",
+    "published_date": "2025-12-21T09:24:35.867927+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -134,28 +154,8 @@
       "author": "ResembleAI",
       "item_name": "chatterbox-turbo",
       "downloads": 0,
-      "likes": 299,
+      "likes": 306,
       "last_modified": "2025-12-15T15:56:20.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "d2dc3cf2bc76626f46fa43c285f24e9b",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen-Image-Layered",
-    "description": "Type: image-text-to-image<br/>Downloads: 1,067<br/>Likes: 298",
-    "url": "https://huggingface.co/Qwen/Qwen-Image-Layered",
-    "published_date": "2025-12-20T21:17:59.910032+00:00",
-    "categories": [
-      "image-text-to-image"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen-Image-Layered",
-      "downloads": 1067,
-      "likes": 298,
-      "last_modified": "2025-12-19T09:11:18.000Z",
       "all_tags": []
     }
   },
@@ -164,9 +164,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/TRELLIS.2-4B",
-    "description": "Type: image-to-3d<br/>Likes: 281",
+    "description": "Type: image-to-3d<br/>Likes: 297",
     "url": "https://huggingface.co/microsoft/TRELLIS.2-4B",
-    "published_date": "2025-12-20T21:17:59.910036+00:00",
+    "published_date": "2025-12-21T09:24:35.867932+00:00",
     "categories": [
       "image-to-3d"
     ],
@@ -174,7 +174,7 @@
       "author": "microsoft",
       "item_name": "TRELLIS.2-4B",
       "downloads": 0,
-      "likes": 281,
+      "likes": 297,
       "last_modified": "2025-12-17T02:36:38.000Z",
       "all_tags": []
     }
@@ -184,17 +184,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
-    "description": "Type: text-to-speech<br/>Downloads: 533<br/>Likes: 246",
+    "description": "Type: text-to-speech<br/>Downloads: 632<br/>Likes: 252",
     "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
-    "published_date": "2025-12-20T21:17:59.910042+00:00",
+    "published_date": "2025-12-21T09:24:35.867939+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "FunAudioLLM",
       "item_name": "Fun-CosyVoice3-0.5B-2512",
-      "downloads": 533,
-      "likes": 246,
+      "downloads": 632,
+      "likes": 252,
       "last_modified": "2025-12-17T06:24:31.000Z",
       "all_tags": []
     }
@@ -204,15 +204,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "facebook/sam-audio-large",
-    "description": "Downloads: 4,082<br/>Likes: 199",
+    "description": "Downloads: 5,839<br/>Likes: 206",
     "url": "https://huggingface.co/facebook/sam-audio-large",
-    "published_date": "2025-12-20T21:17:59.910047+00:00",
+    "published_date": "2025-12-21T09:24:35.867945+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
       "item_name": "sam-audio-large",
-      "downloads": 4082,
-      "likes": 199,
+      "downloads": 5839,
+      "likes": 206,
       "last_modified": "2025-12-19T13:27:58.000Z",
       "all_tags": []
     }
@@ -222,17 +222,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "microsoft/VibeVoice-Realtime-0.5B",
-    "description": "Type: text-to-speech<br/>Downloads: 213,478<br/>Likes: 963",
+    "description": "Type: text-to-speech<br/>Downloads: 222,552<br/>Likes: 964",
     "url": "https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B",
-    "published_date": "2025-12-20T21:17:59.910056+00:00",
+    "published_date": "2025-12-21T09:24:35.867954+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "microsoft",
       "item_name": "VibeVoice-Realtime-0.5B",
-      "downloads": 213478,
-      "likes": 963,
+      "downloads": 222552,
+      "likes": 964,
       "last_modified": "2025-12-12T15:35:46.000Z",
       "all_tags": []
     }
@@ -242,17 +242,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "apple/Sharp",
-    "description": "Type: image-to-3d<br/>Downloads: 476<br/>Likes: 175",
+    "description": "Type: image-to-3d<br/>Downloads: 1,184<br/>Likes: 182",
     "url": "https://huggingface.co/apple/Sharp",
-    "published_date": "2025-12-20T21:17:59.910062+00:00",
+    "published_date": "2025-12-21T09:24:35.867963+00:00",
     "categories": [
       "image-to-3d"
     ],
     "metadata": {
       "author": "apple",
       "item_name": "Sharp",
-      "downloads": 476,
-      "likes": 175,
+      "downloads": 1184,
+      "likes": 182,
       "last_modified": "2025-12-18T17:38:39.000Z",
       "all_tags": []
     }
@@ -262,17 +262,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8",
-    "description": "Type: text-generation<br/>Downloads: 144,184<br/>Likes: 156",
+    "description": "Type: text-generation<br/>Downloads: 179,243<br/>Likes: 162",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8",
-    "published_date": "2025-12-20T21:17:59.910067+00:00",
+    "published_date": "2025-12-21T09:24:35.867970+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "NVIDIA-Nemotron-3-Nano-30B-A3B-FP8",
-      "downloads": 144184,
-      "likes": 156,
+      "downloads": 179243,
+      "likes": 162,
       "last_modified": "2025-12-20T16:07:13.000Z",
       "all_tags": []
     }
@@ -282,15 +282,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "DiffSynth-Studio/Qwen-Image-i2L",
-    "description": "Likes: 228",
+    "description": "Likes: 229",
     "url": "https://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L",
-    "published_date": "2025-12-20T21:17:59.910071+00:00",
+    "published_date": "2025-12-21T09:24:35.867975+00:00",
     "categories": [],
     "metadata": {
       "author": "DiffSynth-Studio",
       "item_name": "Qwen-Image-i2L",
       "downloads": 0,
-      "likes": 228,
+      "likes": 229,
       "last_modified": "2025-12-16T05:52:20.000Z",
       "all_tags": []
     }
@@ -300,17 +300,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "browser-use/bu-30b-a3b-preview",
-    "description": "Type: image-text-to-text<br/>Downloads: 3,360<br/>Likes: 143",
+    "description": "Type: image-text-to-text<br/>Downloads: 3,471<br/>Likes: 151",
     "url": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
-    "published_date": "2025-12-20T21:17:59.910076+00:00",
+    "published_date": "2025-12-21T09:24:35.867981+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "browser-use",
       "item_name": "bu-30b-a3b-preview",
-      "downloads": 3360,
-      "likes": 143,
+      "downloads": 3471,
+      "likes": 151,
       "last_modified": "2025-12-16T22:02:44.000Z",
       "all_tags": []
     }
@@ -320,56 +320,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "openai/circuit-sparsity",
-    "description": "Type: text-generation<br/>Downloads: 1,409<br/>Likes: 173",
+    "description": "Type: text-generation<br/>Downloads: 1,529<br/>Likes: 177",
     "url": "https://huggingface.co/openai/circuit-sparsity",
-    "published_date": "2025-12-20T21:17:59.910081+00:00",
+    "published_date": "2025-12-21T09:24:35.867987+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "openai",
       "item_name": "circuit-sparsity",
-      "downloads": 1409,
-      "likes": 173,
+      "downloads": 1529,
+      "likes": 177,
       "last_modified": "2025-12-12T07:36:26.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "147b5e7812c8601deb18d56183f1b32b",
+    "id": "78e8ea08e4ca7da80fa9bab4a94035fe",
     "source": "huggingface",
     "type": "model",
-    "title": "mistralai/Devstral-Small-2-24B-Instruct-2512",
-    "description": "Downloads: 68,948<br/>Likes: 420",
-    "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
-    "published_date": "2025-12-20T21:17:59.910086+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "mistralai",
-      "item_name": "Devstral-Small-2-24B-Instruct-2512",
-      "downloads": 68948,
-      "likes": 420,
-      "last_modified": "2025-12-19T17:04:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "395a680544eafad53a6b271860b4d67c",
-    "source": "huggingface",
-    "type": "model",
-    "title": "openbmb/VoxCPM1.5",
-    "description": "Type: text-to-speech<br/>Downloads: 3,272<br/>Likes: 259",
-    "url": "https://huggingface.co/openbmb/VoxCPM1.5",
-    "published_date": "2025-12-20T21:17:59.910090+00:00",
+    "title": "unsloth/Nemotron-3-Nano-30B-A3B-GGUF",
+    "description": "Type: text-generation<br/>Downloads: 54,526<br/>Likes: 121",
+    "url": "https://huggingface.co/unsloth/Nemotron-3-Nano-30B-A3B-GGUF",
+    "published_date": "2025-12-21T09:24:35.867993+00:00",
     "categories": [
-      "text-to-speech"
+      "text-generation"
     ],
     "metadata": {
-      "author": "openbmb",
-      "item_name": "VoxCPM1.5",
-      "downloads": 3272,
-      "likes": 259,
-      "last_modified": "2025-12-12T16:48:56.000Z",
+      "author": "unsloth",
+      "item_name": "Nemotron-3-Nano-30B-A3B-GGUF",
+      "downloads": 54526,
+      "likes": 121,
+      "last_modified": "2025-12-16T07:23:00.000Z",
       "all_tags": []
     }
   },
@@ -378,16 +360,34 @@
     "source": "huggingface",
     "type": "model",
     "title": "meituan-longcat/LongCat-Video-Avatar",
-    "description": "Downloads: 250<br/>Likes: 113",
+    "description": "Downloads: 287<br/>Likes: 120",
     "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar",
-    "published_date": "2025-12-20T21:17:59.910095+00:00",
+    "published_date": "2025-12-21T09:24:35.867999+00:00",
     "categories": [],
     "metadata": {
       "author": "meituan-longcat",
       "item_name": "LongCat-Video-Avatar",
-      "downloads": 250,
-      "likes": 113,
+      "downloads": 287,
+      "likes": 120,
       "last_modified": "2025-12-17T05:12:35.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "147b5e7812c8601deb18d56183f1b32b",
+    "source": "huggingface",
+    "type": "model",
+    "title": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+    "description": "Downloads: 78,392<br/>Likes: 422",
+    "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
+    "published_date": "2025-12-21T09:24:35.868004+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "mistralai",
+      "item_name": "Devstral-Small-2-24B-Instruct-2512",
+      "downloads": 78392,
+      "likes": 422,
+      "last_modified": "2025-12-19T17:04:00.000Z",
       "all_tags": []
     }
   }
