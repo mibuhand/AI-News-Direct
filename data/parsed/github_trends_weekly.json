@@ -1,5 +1,25 @@
 [
   {
+    "id": "d107fcd252910683b6bf960d7098f67d",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "exo-explore / exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "url": "https://github.com/exo-explore/exo",
+    "published_date": "2025-12-22T15:20:29Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 38142,
+      "forks": 2548,
+      "stars_today": 5012,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "exo-explore/exo"
+    }
+  },
+  {
     "id": "ed76f8fa6882d5cd3a370ccb6210ea9e",
     "source": "github",
     "type": "trending_repository",
@@ -11,32 +31,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 26192,
-      "forks": 2423,
+      "stars": 26473,
+      "forks": 2442,
       "stars_today": 4336,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "anthropics/skills"
-    }
-  },
-  {
-    "id": "b97ebf11905ec02225ac60f9f2976d29",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "sst / opencode",
-    "description": "The open source coding agent.",
-    "url": "https://github.com/sst/opencode",
-    "published_date": "2025-12-23T15:42:58Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 41730,
-      "forks": 3555,
-      "stars_today": 2265,
-      "language": "TypeScript",
-      "timeframe": "weekly",
-      "repo_path": "sst/opencode"
     }
   },
   {
@@ -51,8 +51,8 @@
       "Shell"
     ],
     "metadata": {
-      "stars": 48283,
-      "forks": 3392,
+      "stars": 48367,
+      "forks": 3402,
       "stars_today": 2068,
       "language": "Shell",
       "timeframe": "weekly",
@@ -60,43 +60,23 @@
     }
   },
   {
-    "id": "3242fc4d0af5d5ff4ceb82309b9e9860",
+    "id": "48626fe1a05ed7f2a74e144b59086180",
     "source": "github",
     "type": "trending_repository",
-    "title": "thedotmack / claude-mem",
-    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "published_date": "2025-12-24T01:53:21Z",
+    "title": "astral-sh / ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "url": "https://github.com/astral-sh/ty",
+    "published_date": "2025-12-23T22:17:05Z",
     "categories": [
-      "TypeScript"
+      "Python"
     ],
     "metadata": {
-      "stars": 8962,
-      "forks": 536,
-      "stars_today": 1849,
-      "language": "TypeScript",
+      "stars": 15624,
+      "forks": 168,
+      "stars_today": 1505,
+      "language": "Python",
       "timeframe": "weekly",
-      "repo_path": "thedotmack/claude-mem"
-    }
-  },
-  {
-    "id": "66c32c954956d6d48a70a5ff68181055",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "simstudioai / sim",
-    "description": "Open-source platform to build and deploy AI agent workflows.",
-    "url": "https://github.com/simstudioai/sim",
-    "published_date": "2025-12-24T03:19:43Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 24193,
-      "forks": 3004,
-      "stars_today": 1683,
-      "language": "TypeScript",
-      "timeframe": "weekly",
-      "repo_path": "simstudioai/sim"
+      "repo_path": "astral-sh/ty"
     }
   },
   {
@@ -111,12 +91,52 @@
       "Python"
     ],
     "metadata": {
-      "stars": 16975,
-      "forks": 2295,
+      "stars": 17235,
+      "forks": 2318,
       "stars_today": 1476,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "resemble-ai/chatterbox"
+    }
+  },
+  {
+    "id": "574875c7814ff510f6703df6455a2639",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "swisskyrepo / PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "published_date": "2025-07-26T20:28:58Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 73713,
+      "forks": 16416,
+      "stars_today": 1257,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "swisskyrepo/PayloadsAllTheThings"
+    }
+  },
+  {
+    "id": "647fd1c0231103bbefd5599ea114e626",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "danielmiessler / Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "url": "https://github.com/danielmiessler/Fabric",
+    "published_date": "2025-12-23T18:40:43Z",
+    "categories": [
+      "Go"
+    ],
+    "metadata": {
+      "stars": 36489,
+      "forks": 3671,
+      "stars_today": 1111,
+      "language": "Go",
+      "timeframe": "weekly",
+      "repo_path": "danielmiessler/Fabric"
     }
   },
   {
@@ -131,8 +151,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 44071,
-      "forks": 7787,
+      "stars": 44103,
+      "forks": 7793,
       "stars_today": 998,
       "language": "Python",
       "timeframe": "weekly",
@@ -151,8 +171,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13481,
-      "forks": 1178,
+      "stars": 13596,
+      "forks": 1181,
       "stars_today": 579,
       "language": "Python",
       "timeframe": "weekly",
@@ -166,12 +186,12 @@
     "title": "LadybirdBrowser / ladybird",
     "description": "Truly independent web browser",
     "url": "https://github.com/LadybirdBrowser/ladybird",
-    "published_date": "2025-12-24T09:19:28Z",
+    "published_date": "2025-12-24T13:10:27Z",
     "categories": [
       "C++"
     ],
     "metadata": {
-      "stars": 57010,
+      "stars": 57051,
       "forks": 2570,
       "stars_today": 467,
       "language": "C++",
@@ -191,8 +211,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 1919,
-      "forks": 397,
+      "stars": 1969,
+      "forks": 400,
       "stars_today": 406,
       "language": "TypeScript",
       "timeframe": "weekly",
@@ -211,8 +231,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 10074,
-      "forks": 1260,
+      "stars": 10095,
+      "forks": 1264,
       "stars_today": 402,
       "language": "Python",
       "timeframe": "weekly",
@@ -231,52 +251,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 159229,
-      "forks": 29608,
+      "stars": 159253,
+      "forks": 29616,
       "stars_today": 245,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "AUTOMATIC1111/stable-diffusion-webui"
-    }
-  },
-  {
-    "id": "c1f3007bf7d9ee53196029fcf858ec3e",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "Morganamilo / paru",
-    "description": "Feature packed AUR helper",
-    "url": "https://github.com/Morganamilo/paru",
-    "published_date": "2025-07-08T09:40:19Z",
-    "categories": [
-      "Rust"
-    ],
-    "metadata": {
-      "stars": 8091,
-      "forks": 299,
-      "stars_today": 172,
-      "language": "Rust",
-      "timeframe": "weekly",
-      "repo_path": "Morganamilo/paru"
-    }
-  },
-  {
-    "id": "0043b7512992db461b02abac0033d640",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "v2fly / domain-list-community",
-    "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
-    "url": "https://github.com/v2fly/domain-list-community",
-    "published_date": "2025-12-23T10:32:40Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 7078,
-      "forks": 1160,
-      "stars_today": 109,
-      "language": "Go",
-      "timeframe": "weekly",
-      "repo_path": "v2fly/domain-list-community"
     }
   },
   {
@@ -291,8 +271,8 @@
       "C++"
     ],
     "metadata": {
-      "stars": 16787,
-      "forks": 2927,
+      "stars": 16792,
+      "forks": 2928,
       "stars_today": 78,
       "language": "C++",
       "timeframe": "weekly",
