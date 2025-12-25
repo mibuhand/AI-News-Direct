@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.7",
-    "description": "Type: text-generation<br/>Downloads: 2,719<br/>Likes: 772",
+    "description": "Type: text-generation<br/>Downloads: 4,163<br/>Likes: 834",
     "url": "https://huggingface.co/zai-org/GLM-4.7",
-    "published_date": "2025-12-24T21:19:52.945006+00:00",
+    "published_date": "2025-12-25T09:27:42.063226+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-4.7",
-      "downloads": 2719,
-      "likes": 772,
+      "downloads": 4163,
+      "likes": 834,
       "last_modified": "2025-12-23T09:41:14.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen-Image-Layered",
-    "description": "Type: image-text-to-image<br/>Downloads: 11,944<br/>Likes: 676",
+    "description": "Type: image-text-to-image<br/>Downloads: 13,246<br/>Likes: 695",
     "url": "https://huggingface.co/Qwen/Qwen-Image-Layered",
-    "published_date": "2025-12-24T21:19:52.945028+00:00",
+    "published_date": "2025-12-25T09:27:42.063246+00:00",
     "categories": [
       "image-text-to-image"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen-Image-Layered",
-      "downloads": 11944,
-      "likes": 676,
+      "downloads": 13246,
+      "likes": 695,
       "last_modified": "2025-12-19T09:11:18.000Z",
       "all_tags": []
     }
@@ -44,17 +44,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Tongyi-MAI/Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 384,826<br/>Likes: 3393",
+    "description": "Type: text-to-image<br/>Downloads: 395,092<br/>Likes: 3412",
     "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-    "published_date": "2025-12-24T21:19:52.945037+00:00",
+    "published_date": "2025-12-25T09:27:42.063254+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "Tongyi-MAI",
       "item_name": "Z-Image-Turbo",
-      "downloads": 384826,
-      "likes": 3393,
+      "downloads": 395092,
+      "likes": 3412,
       "last_modified": "2025-12-08T16:41:03.000Z",
       "all_tags": []
     }
@@ -64,38 +64,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "google/functiongemma-270m-it",
-    "description": "Type: text-generation<br/>Downloads: 24,883<br/>Likes: 558",
+    "description": "Type: text-generation<br/>Downloads: 28,171<br/>Likes: 578",
     "url": "https://huggingface.co/google/functiongemma-270m-it",
-    "published_date": "2025-12-24T21:19:52.945043+00:00",
+    "published_date": "2025-12-25T09:27:42.063260+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "google",
       "item_name": "functiongemma-270m-it",
-      "downloads": 24883,
-      "likes": 558,
+      "downloads": 28171,
+      "likes": 578,
       "last_modified": "2025-12-18T20:33:31.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "511357eeb3e467781bfe8da531f89cfe",
-    "source": "huggingface",
-    "type": "model",
-    "title": "tencent/HY-WorldPlay",
-    "description": "Type: image-to-video<br/>Downloads: 3,398<br/>Likes: 418",
-    "url": "https://huggingface.co/tencent/HY-WorldPlay",
-    "published_date": "2025-12-24T21:19:52.945048+00:00",
-    "categories": [
-      "image-to-video"
-    ],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "HY-WorldPlay",
-      "downloads": 3398,
-      "likes": 418,
-      "last_modified": "2025-12-18T16:36:51.000Z",
       "all_tags": []
     }
   },
@@ -104,38 +84,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Shakker-Labs/AWPortrait-Z",
-    "description": "Type: text-to-image<br/>Downloads: 6,729<br/>Likes: 428",
+    "description": "Type: text-to-image<br/>Downloads: 6,992<br/>Likes: 444",
     "url": "https://huggingface.co/Shakker-Labs/AWPortrait-Z",
-    "published_date": "2025-12-24T21:19:52.945053+00:00",
+    "published_date": "2025-12-25T09:27:42.063265+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "Shakker-Labs",
       "item_name": "AWPortrait-Z",
-      "downloads": 6729,
-      "likes": 428,
+      "downloads": 6992,
+      "likes": 444,
       "last_modified": "2025-12-14T05:50:52.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "54022657032875dd4e4b1bb86ef32dc2",
+    "id": "511357eeb3e467781bfe8da531f89cfe",
     "source": "huggingface",
     "type": "model",
-    "title": "microsoft/TRELLIS.2-4B",
-    "description": "Type: image-to-3d<br/>Likes: 393",
-    "url": "https://huggingface.co/microsoft/TRELLIS.2-4B",
-    "published_date": "2025-12-24T21:19:52.945057+00:00",
+    "title": "tencent/HY-WorldPlay",
+    "description": "Type: image-to-video<br/>Downloads: 3,469<br/>Likes: 435",
+    "url": "https://huggingface.co/tencent/HY-WorldPlay",
+    "published_date": "2025-12-25T09:27:42.063270+00:00",
     "categories": [
-      "image-to-3d"
+      "image-to-video"
     ],
     "metadata": {
-      "author": "microsoft",
-      "item_name": "TRELLIS.2-4B",
-      "downloads": 0,
-      "likes": 393,
-      "last_modified": "2025-12-23T09:20:39.000Z",
+      "author": "tencent",
+      "item_name": "HY-WorldPlay",
+      "downloads": 3469,
+      "likes": 435,
+      "last_modified": "2025-12-18T16:36:51.000Z",
       "all_tags": []
     }
   },
@@ -144,18 +124,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen-Image-Edit-2511",
-    "description": "Type: image-to-image<br/>Downloads: 1,152<br/>Likes: 298",
+    "description": "Type: image-to-image<br/>Downloads: 6,617<br/>Likes: 331",
     "url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2511",
-    "published_date": "2025-12-24T21:19:52.945062+00:00",
+    "published_date": "2025-12-25T09:27:42.063275+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen-Image-Edit-2511",
-      "downloads": 1152,
-      "likes": 298,
+      "downloads": 6617,
+      "likes": 331,
       "last_modified": "2025-12-23T13:13:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "54022657032875dd4e4b1bb86ef32dc2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "microsoft/TRELLIS.2-4B",
+    "description": "Type: image-to-3d<br/>Likes: 402",
+    "url": "https://huggingface.co/microsoft/TRELLIS.2-4B",
+    "published_date": "2025-12-25T09:27:42.063279+00:00",
+    "categories": [
+      "image-to-3d"
+    ],
+    "metadata": {
+      "author": "microsoft",
+      "item_name": "TRELLIS.2-4B",
+      "downloads": 0,
+      "likes": 402,
+      "last_modified": "2025-12-23T09:20:39.000Z",
       "all_tags": []
     }
   },
@@ -164,15 +164,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/NitroGen",
-    "description": "Likes: 279",
+    "description": "Likes: 294",
     "url": "https://huggingface.co/nvidia/NitroGen",
-    "published_date": "2025-12-24T21:19:52.945067+00:00",
+    "published_date": "2025-12-25T09:27:42.063284+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "NitroGen",
       "downloads": 0,
-      "likes": 279,
+      "likes": 294,
       "last_modified": "2025-12-18T21:43:39.000Z",
       "all_tags": []
     }
@@ -182,17 +182,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "XiaomiMiMo/MiMo-V2-Flash",
-    "description": "Type: text-generation<br/>Downloads: 14,184<br/>Likes: 438",
+    "description": "Type: text-generation<br/>Downloads: 16,751<br/>Likes: 441",
     "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash",
-    "published_date": "2025-12-24T21:19:52.945072+00:00",
+    "published_date": "2025-12-25T09:27:42.063295+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "XiaomiMiMo",
       "item_name": "MiMo-V2-Flash",
-      "downloads": 14184,
-      "likes": 438,
+      "downloads": 16751,
+      "likes": 441,
       "last_modified": "2025-12-18T03:15:42.000Z",
       "all_tags": []
     }
@@ -202,36 +202,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "facebook/sam-audio-large",
-    "description": "Downloads: 9,000<br/>Likes: 265",
+    "description": "Downloads: 9,747<br/>Likes: 271",
     "url": "https://huggingface.co/facebook/sam-audio-large",
-    "published_date": "2025-12-24T21:19:52.945083+00:00",
+    "published_date": "2025-12-25T09:27:42.063300+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
       "item_name": "sam-audio-large",
-      "downloads": 9000,
-      "likes": 265,
+      "downloads": 9747,
+      "likes": 271,
       "last_modified": "2025-12-23T14:40:38.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0dfe31b6f6b31235852f7962b1865854",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-    "description": "Type: text-generation<br/>Downloads: 135,536<br/>Likes: 464",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-    "published_date": "2025-12-24T21:19:52.945090+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-      "downloads": 135536,
-      "likes": 464,
-      "last_modified": "2025-12-23T21:45:40.000Z",
       "all_tags": []
     }
   },
@@ -240,9 +220,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "ResembleAI/chatterbox-turbo",
-    "description": "Type: text-to-speech<br/>Likes: 375",
+    "description": "Type: text-to-speech<br/>Likes: 384",
     "url": "https://huggingface.co/ResembleAI/chatterbox-turbo",
-    "published_date": "2025-12-24T21:19:52.945095+00:00",
+    "published_date": "2025-12-25T09:27:42.063305+00:00",
     "categories": [
       "text-to-speech"
     ],
@@ -250,8 +230,28 @@
       "author": "ResembleAI",
       "item_name": "chatterbox-turbo",
       "downloads": 0,
-      "likes": 375,
+      "likes": 384,
       "last_modified": "2025-12-15T15:56:20.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0dfe31b6f6b31235852f7962b1865854",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+    "description": "Type: text-generation<br/>Downloads: 160,827<br/>Likes: 466",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+    "published_date": "2025-12-25T09:27:42.063312+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+      "downloads": 160827,
+      "likes": 466,
+      "last_modified": "2025-12-23T21:45:40.000Z",
       "all_tags": []
     }
   },
@@ -260,38 +260,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "browser-use/bu-30b-a3b-preview",
-    "description": "Type: image-text-to-text<br/>Downloads: 4,271<br/>Likes: 189",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,512<br/>Likes: 193",
     "url": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
-    "published_date": "2025-12-24T21:19:52.945100+00:00",
+    "published_date": "2025-12-25T09:27:42.063317+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "browser-use",
       "item_name": "bu-30b-a3b-preview",
-      "downloads": 4271,
-      "likes": 189,
+      "downloads": 4512,
+      "likes": 193,
       "last_modified": "2025-12-24T05:05:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "468aa179be92f34de7834390b31b8955",
-    "source": "huggingface",
-    "type": "model",
-    "title": "apple/Sharp",
-    "description": "Type: image-to-3d<br/>Downloads: 4,264<br/>Likes: 236",
-    "url": "https://huggingface.co/apple/Sharp",
-    "published_date": "2025-12-24T21:19:52.945105+00:00",
-    "categories": [
-      "image-to-3d"
-    ],
-    "metadata": {
-      "author": "apple",
-      "item_name": "Sharp",
-      "downloads": 4264,
-      "likes": 236,
-      "last_modified": "2025-12-18T17:38:39.000Z",
       "all_tags": []
     }
   },
@@ -300,18 +280,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "google/medasr",
-    "description": "Type: automatic-speech-recognition<br/>Downloads: 3,244<br/>Likes: 131",
+    "description": "Type: automatic-speech-recognition<br/>Downloads: 3,419<br/>Likes: 137",
     "url": "https://huggingface.co/google/medasr",
-    "published_date": "2025-12-24T21:19:52.945110+00:00",
+    "published_date": "2025-12-25T09:27:42.063322+00:00",
     "categories": [
       "automatic-speech-recognition"
     ],
     "metadata": {
       "author": "google",
       "item_name": "medasr",
-      "downloads": 3244,
-      "likes": 131,
+      "downloads": 3419,
+      "likes": 137,
       "last_modified": "2025-12-22T19:02:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "468aa179be92f34de7834390b31b8955",
+    "source": "huggingface",
+    "type": "model",
+    "title": "apple/Sharp",
+    "description": "Type: image-to-3d<br/>Downloads: 4,382<br/>Likes: 240",
+    "url": "https://huggingface.co/apple/Sharp",
+    "published_date": "2025-12-25T09:27:42.063327+00:00",
+    "categories": [
+      "image-to-3d"
+    ],
+    "metadata": {
+      "author": "apple",
+      "item_name": "Sharp",
+      "downloads": 4382,
+      "likes": 240,
+      "last_modified": "2025-12-18T17:38:39.000Z",
       "all_tags": []
     }
   },
@@ -320,17 +320,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
-    "description": "Type: text-to-speech<br/>Downloads: 1,121<br/>Likes: 288",
+    "description": "Type: text-to-speech<br/>Downloads: 1,295<br/>Likes: 292",
     "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
-    "published_date": "2025-12-24T21:19:52.945115+00:00",
+    "published_date": "2025-12-25T09:27:42.063331+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "FunAudioLLM",
       "item_name": "Fun-CosyVoice3-0.5B-2512",
-      "downloads": 1121,
-      "likes": 288,
+      "downloads": 1295,
+      "likes": 292,
       "last_modified": "2025-12-17T06:24:31.000Z",
       "all_tags": []
     }
@@ -340,18 +340,36 @@
     "source": "huggingface",
     "type": "model",
     "title": "facebook/sam3",
-    "description": "Type: mask-generation<br/>Downloads: 1,079,834<br/>Likes: 1162",
+    "description": "Type: mask-generation<br/>Downloads: 1,083,198<br/>Likes: 1168",
     "url": "https://huggingface.co/facebook/sam3",
-    "published_date": "2025-12-24T21:19:52.945120+00:00",
+    "published_date": "2025-12-25T09:27:42.063336+00:00",
     "categories": [
       "mask-generation"
     ],
     "metadata": {
       "author": "facebook",
       "item_name": "sam3",
-      "downloads": 1079834,
-      "likes": 1162,
+      "downloads": 1083198,
+      "likes": 1168,
       "last_modified": "2025-11-20T22:05:08.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d6881909008cfc10d04866636de3159a",
+    "source": "huggingface",
+    "type": "model",
+    "title": "lightx2v/Qwen-Image-Edit-2511-Lightning",
+    "description": "Downloads: 46,535<br/>Likes: 124",
+    "url": "https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning",
+    "published_date": "2025-12-25T09:27:42.063341+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "lightx2v",
+      "item_name": "Qwen-Image-Edit-2511-Lightning",
+      "downloads": 46535,
+      "likes": 124,
+      "last_modified": "2025-12-24T07:27:42.000Z",
       "all_tags": []
     }
   },
@@ -360,36 +378,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1",
-    "description": "Downloads: 51,260<br/>Likes: 206",
+    "description": "Downloads: 55,433<br/>Likes: 210",
     "url": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1",
-    "published_date": "2025-12-24T21:19:52.945125+00:00",
+    "published_date": "2025-12-25T09:27:42.063348+00:00",
     "categories": [],
     "metadata": {
       "author": "alibaba-pai",
       "item_name": "Z-Image-Turbo-Fun-Controlnet-Union-2.1",
-      "downloads": 51260,
-      "likes": 206,
+      "downloads": 55433,
+      "likes": 210,
       "last_modified": "2025-12-22T07:35:54.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "f30148bc77afd0b46fb5e6dde8b89595",
-    "source": "huggingface",
-    "type": "model",
-    "title": "google/t5gemma-2-270m-270m",
-    "description": "Type: image-text-to-text<br/>Downloads: 5,609<br/>Likes: 108",
-    "url": "https://huggingface.co/google/t5gemma-2-270m-270m",
-    "published_date": "2025-12-24T21:19:52.945129+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "google",
-      "item_name": "t5gemma-2-270m-270m",
-      "downloads": 5609,
-      "likes": 108,
-      "last_modified": "2025-12-16T19:39:40.000Z",
       "all_tags": []
     }
   }
