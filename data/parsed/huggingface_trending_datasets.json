@@ -4,34 +4,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "MiniMaxAI/VIBE",
-    "description": "Downloads: 3,338<br/>Likes: 187",
+    "description": "Downloads: 3,338<br/>Likes: 193",
     "url": "https://huggingface.co/datasets/MiniMaxAI/VIBE",
-    "published_date": "2025-12-27T09:24:56.779360+00:00",
+    "published_date": "2025-12-27T21:19:21.279175+00:00",
     "categories": [],
     "metadata": {
       "author": "MiniMaxAI",
       "item_name": "VIBE",
       "downloads": 3338,
-      "likes": 187,
+      "likes": 193,
       "last_modified": "2025-12-23T04:59:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "07d64172777b44749789670a98810743",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "google/mobile-actions",
-    "description": "Downloads: 4,491<br/>Likes: 190",
-    "url": "https://huggingface.co/datasets/google/mobile-actions",
-    "published_date": "2025-12-27T09:24:56.779382+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "google",
-      "item_name": "mobile-actions",
-      "downloads": 4491,
-      "likes": 190,
-      "last_modified": "2025-12-18T21:10:12.000Z",
       "all_tags": []
     }
   },
@@ -40,16 +22,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "bigai/TongSIM-Asset",
-    "description": "Downloads: 3,432<br/>Likes: 137",
+    "description": "Downloads: 3,432<br/>Likes: 140",
     "url": "https://huggingface.co/datasets/bigai/TongSIM-Asset",
-    "published_date": "2025-12-27T09:24:56.779388+00:00",
+    "published_date": "2025-12-27T21:19:21.279192+00:00",
     "categories": [],
     "metadata": {
       "author": "bigai",
       "item_name": "TongSIM-Asset",
       "downloads": 3432,
-      "likes": 137,
-      "last_modified": "2025-12-26T13:29:37.000Z",
+      "likes": 140,
+      "last_modified": "2025-12-27T11:43:33.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "07d64172777b44749789670a98810743",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "google/mobile-actions",
+    "description": "Downloads: 4,491<br/>Likes: 196",
+    "url": "https://huggingface.co/datasets/google/mobile-actions",
+    "published_date": "2025-12-27T21:19:21.279199+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "google",
+      "item_name": "mobile-actions",
+      "downloads": 4491,
+      "likes": 196,
+      "last_modified": "2025-12-18T21:10:12.000Z",
       "all_tags": []
     }
   },
@@ -58,15 +58,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/NitroGen",
-    "description": "Downloads: 3,349<br/>Likes: 135",
+    "description": "Downloads: 3,349<br/>Likes: 141",
     "url": "https://huggingface.co/datasets/nvidia/NitroGen",
-    "published_date": "2025-12-27T09:24:56.779393+00:00",
+    "published_date": "2025-12-27T21:19:21.279206+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "NitroGen",
       "downloads": 3349,
-      "likes": 135,
+      "likes": 141,
       "last_modified": "2025-12-18T21:08:36.000Z",
       "all_tags": []
     }
@@ -76,16 +76,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "FutureMa/DramaBench",
-    "description": "Downloads: 77<br/>Likes: 82",
+    "description": "Downloads: 77<br/>Likes: 84",
     "url": "https://huggingface.co/datasets/FutureMa/DramaBench",
-    "published_date": "2025-12-27T09:24:56.779399+00:00",
+    "published_date": "2025-12-27T21:19:21.279212+00:00",
     "categories": [],
     "metadata": {
       "author": "FutureMa",
       "item_name": "DramaBench",
       "downloads": 77,
-      "likes": 82,
+      "likes": 84,
       "last_modified": "2025-12-23T12:55:16.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e6d4ffc7d05864a2bca5d8b1431aa67a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "LLM360/TxT360-3efforts",
+    "description": "Downloads: 3,795<br/>Likes: 81",
+    "url": "https://huggingface.co/datasets/LLM360/TxT360-3efforts",
+    "published_date": "2025-12-27T21:19:21.279218+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "LLM360",
+      "item_name": "TxT360-3efforts",
+      "downloads": 3795,
+      "likes": 81,
+      "last_modified": "2025-12-11T11:03:06.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cea8d738f26a4dc6e6d7082dad2c0a9c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/frontierscience",
+    "description": "Downloads: 6,552<br/>Likes: 136",
+    "url": "https://huggingface.co/datasets/openai/frontierscience",
+    "published_date": "2025-12-27T21:19:21.279223+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "frontierscience",
+      "downloads": 6552,
+      "likes": 136,
+      "last_modified": "2025-12-16T14:50:54.000Z",
       "all_tags": []
     }
   },
@@ -94,15 +130,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "description": "Downloads: 3,250<br/>Likes: 223",
+    "description": "Downloads: 3,250<br/>Likes: 225",
     "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "published_date": "2025-12-27T09:24:56.779404+00:00",
+    "published_date": "2025-12-27T21:19:21.279229+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenMed",
       "item_name": "Medical-Reasoning-SFT-GPT-OSS-120B",
       "downloads": 3250,
-      "likes": 223,
+      "likes": 225,
       "last_modified": "2025-12-12T15:11:25.000Z",
       "all_tags": []
     }
@@ -112,52 +148,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Instruction-Following-Chat-v1",
-    "description": "Downloads: 3,203<br/>Likes: 91",
+    "description": "Downloads: 3,203<br/>Likes: 93",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Instruction-Following-Chat-v1",
-    "published_date": "2025-12-27T09:24:56.779410+00:00",
+    "published_date": "2025-12-27T21:19:21.279235+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Instruction-Following-Chat-v1",
       "downloads": 3203,
-      "likes": 91,
+      "likes": 93,
       "last_modified": "2025-12-15T05:27:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cea8d738f26a4dc6e6d7082dad2c0a9c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/frontierscience",
-    "description": "Downloads: 6,552<br/>Likes: 133",
-    "url": "https://huggingface.co/datasets/openai/frontierscience",
-    "published_date": "2025-12-27T09:24:56.779415+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "frontierscience",
-      "downloads": 6552,
-      "likes": 133,
-      "last_modified": "2025-12-16T14:50:54.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e6d4ffc7d05864a2bca5d8b1431aa67a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "LLM360/TxT360-3efforts",
-    "description": "Downloads: 3,795<br/>Likes: 77",
-    "url": "https://huggingface.co/datasets/LLM360/TxT360-3efforts",
-    "published_date": "2025-12-27T09:24:56.779420+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "LLM360",
-      "item_name": "TxT360-3efforts",
-      "downloads": 3795,
-      "likes": 77,
-      "last_modified": "2025-12-11T11:03:06.000Z",
       "all_tags": []
     }
   },
@@ -166,15 +166,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "spatialverse/SAGE-3D_Collision_Mesh",
-    "description": "Downloads: 4,273<br/>Likes: 90",
+    "description": "Downloads: 4,273<br/>Likes: 91",
     "url": "https://huggingface.co/datasets/spatialverse/SAGE-3D_Collision_Mesh",
-    "published_date": "2025-12-27T09:24:56.779424+00:00",
+    "published_date": "2025-12-27T21:19:21.279240+00:00",
     "categories": [],
     "metadata": {
       "author": "spatialverse",
       "item_name": "SAGE-3D_Collision_Mesh",
       "downloads": 4273,
-      "likes": 90,
+      "likes": 91,
       "last_modified": "2025-12-17T02:18:33.000Z",
       "all_tags": []
     }
@@ -186,7 +186,7 @@
     "title": "spatialverse/SAGE-3D_InteriorGS_usdz",
     "description": "Downloads: 7,045<br/>Likes: 79",
     "url": "https://huggingface.co/datasets/spatialverse/SAGE-3D_InteriorGS_usdz",
-    "published_date": "2025-12-27T09:24:56.779429+00:00",
+    "published_date": "2025-12-27T21:19:21.279246+00:00",
     "categories": [],
     "metadata": {
       "author": "spatialverse",
@@ -198,13 +198,49 @@
     }
   },
   {
+    "id": "e0095927b79059d26b08415aef72d158",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Math-Proofs-v1",
+    "description": "Downloads: 1,179<br/>Likes: 70",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Math-Proofs-v1",
+    "published_date": "2025-12-27T21:19:21.279251+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Math-Proofs-v1",
+      "downloads": 1179,
+      "likes": 70,
+      "last_modified": "2025-12-18T14:54:01.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "41efe85f78c4bd26f941c74887ad3588",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "google/deepsearchqa",
+    "description": "Downloads: 934<br/>Likes: 60",
+    "url": "https://huggingface.co/datasets/google/deepsearchqa",
+    "published_date": "2025-12-27T21:19:21.279256+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "google",
+      "item_name": "deepsearchqa",
+      "downloads": 934,
+      "likes": 60,
+      "last_modified": "2025-12-17T21:41:32.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "a75447fbc0286cfea8b694c1f6f5ce90",
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Agentic-v1",
     "description": "Downloads: 1,011<br/>Likes: 124",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Agentic-v1",
-    "published_date": "2025-12-27T09:24:56.779434+00:00",
+    "published_date": "2025-12-27T21:19:21.279265+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -216,73 +252,19 @@
     }
   },
   {
-    "id": "e0095927b79059d26b08415aef72d158",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Math-Proofs-v1",
-    "description": "Downloads: 1,179<br/>Likes: 69",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Math-Proofs-v1",
-    "published_date": "2025-12-27T09:24:56.779439+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Math-Proofs-v1",
-      "downloads": 1179,
-      "likes": 69,
-      "last_modified": "2025-12-18T14:54:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "4e0fad2992b8079c177021c3b631d539",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Pretraining-Code-v2",
-    "description": "Downloads: 5,699<br/>Likes: 86",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Pretraining-Code-v2",
-    "published_date": "2025-12-27T09:24:56.779449+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Pretraining-Code-v2",
-      "downloads": 5699,
-      "likes": 86,
-      "last_modified": "2025-12-22T17:10:23.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "41efe85f78c4bd26f941c74887ad3588",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "google/deepsearchqa",
-    "description": "Downloads: 934<br/>Likes: 56",
-    "url": "https://huggingface.co/datasets/google/deepsearchqa",
-    "published_date": "2025-12-27T09:24:56.779454+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "google",
-      "item_name": "deepsearchqa",
-      "downloads": 934,
-      "likes": 56,
-      "last_modified": "2025-12-17T21:41:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "4203ffe5744f9a292ff4cf5638f528d0",
     "source": "huggingface",
     "type": "dataset",
     "title": "bshada/open-schematics",
-    "description": "Downloads: 3,827<br/>Likes: 52",
+    "description": "Downloads: 3,827<br/>Likes: 57",
     "url": "https://huggingface.co/datasets/bshada/open-schematics",
-    "published_date": "2025-12-27T09:24:56.779459+00:00",
+    "published_date": "2025-12-27T21:19:21.279271+00:00",
     "categories": [],
     "metadata": {
       "author": "bshada",
       "item_name": "open-schematics",
       "downloads": 3827,
-      "likes": 52,
+      "likes": 57,
       "last_modified": "2025-12-17T16:52:57.000Z",
       "all_tags": []
     }
@@ -292,16 +274,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-CC-v2.1",
-    "description": "Downloads: 20,021<br/>Likes: 57",
+    "description": "Downloads: 20,021<br/>Likes: 60",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-CC-v2.1",
-    "published_date": "2025-12-27T09:24:56.779465+00:00",
+    "published_date": "2025-12-27T21:19:21.279276+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-CC-v2.1",
       "downloads": 20021,
-      "likes": 57,
+      "likes": 60,
       "last_modified": "2025-12-22T17:09:52.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4e0fad2992b8079c177021c3b631d539",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Pretraining-Code-v2",
+    "description": "Downloads: 5,699<br/>Likes: 88",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Pretraining-Code-v2",
+    "published_date": "2025-12-27T21:19:21.279283+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Pretraining-Code-v2",
+      "downloads": 5699,
+      "likes": 88,
+      "last_modified": "2025-12-22T17:10:23.000Z",
       "all_tags": []
     }
   },
@@ -312,7 +312,7 @@
     "title": "datapizza-ai-lab/salaries",
     "description": "Downloads: 584<br/>Likes: 53",
     "url": "https://huggingface.co/datasets/datapizza-ai-lab/salaries",
-    "published_date": "2025-12-27T09:24:56.779470+00:00",
+    "published_date": "2025-12-27T21:19:21.279290+00:00",
     "categories": [],
     "metadata": {
       "author": "datapizza-ai-lab",
@@ -330,7 +330,7 @@
     "title": "FBK-MT/MCIF",
     "description": "Downloads: 3,650<br/>Likes: 54",
     "url": "https://huggingface.co/datasets/FBK-MT/MCIF",
-    "published_date": "2025-12-27T09:24:56.779474+00:00",
+    "published_date": "2025-12-27T21:19:21.279295+00:00",
     "categories": [],
     "metadata": {
       "author": "FBK-MT",
@@ -342,20 +342,20 @@
     }
   },
   {
-    "id": "79717fe1bf7a6bfa4341cdc14dc7bf74",
+    "id": "99956dfb95ae9a7dc9a1eaec11d6a30e",
     "source": "huggingface",
     "type": "dataset",
-    "title": "spatialverse/SAGE-3D_VLN_Data",
-    "description": "Downloads: 2,054<br/>Likes: 60",
-    "url": "https://huggingface.co/datasets/spatialverse/SAGE-3D_VLN_Data",
-    "published_date": "2025-12-27T09:24:56.779479+00:00",
+    "title": "nebius/SWE-rebench-openhands-trajectories",
+    "description": "Downloads: 191<br/>Likes: 37",
+    "url": "https://huggingface.co/datasets/nebius/SWE-rebench-openhands-trajectories",
+    "published_date": "2025-12-27T21:19:21.279299+00:00",
     "categories": [],
     "metadata": {
-      "author": "spatialverse",
-      "item_name": "SAGE-3D_VLN_Data",
-      "downloads": 2054,
-      "likes": 60,
-      "last_modified": "2025-12-17T02:12:32.000Z",
+      "author": "nebius",
+      "item_name": "SWE-rebench-openhands-trajectories",
+      "downloads": 191,
+      "likes": 37,
+      "last_modified": "2025-12-27T14:08:07.000Z",
       "all_tags": []
     }
   }
