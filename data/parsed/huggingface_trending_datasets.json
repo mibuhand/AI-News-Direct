@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "bigai/TongSIM-Asset",
-    "description": "Downloads: 10,334<br/>Likes: 242",
+    "description": "Downloads: 10,334<br/>Likes: 245",
     "url": "https://huggingface.co/datasets/bigai/TongSIM-Asset",
-    "published_date": "2025-12-30T09:29:56.462518+00:00",
+    "published_date": "2025-12-30T21:20:44.206254+00:00",
     "categories": [],
     "metadata": {
       "author": "bigai",
       "item_name": "TongSIM-Asset",
       "downloads": 10334,
-      "likes": 242,
+      "likes": 245,
       "last_modified": "2025-12-29T13:37:50.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "MiniMaxAI/VIBE",
-    "description": "Downloads: 4,864<br/>Likes: 211",
+    "description": "Downloads: 4,864<br/>Likes: 214",
     "url": "https://huggingface.co/datasets/MiniMaxAI/VIBE",
-    "published_date": "2025-12-30T09:29:56.462547+00:00",
+    "published_date": "2025-12-30T21:20:44.206273+00:00",
     "categories": [],
     "metadata": {
       "author": "MiniMaxAI",
       "item_name": "VIBE",
       "downloads": 4864,
-      "likes": 211,
+      "likes": 214,
       "last_modified": "2025-12-23T04:59:36.000Z",
       "all_tags": []
     }
@@ -40,16 +40,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "facebook/research-plan-gen",
-    "description": "Downloads: 491<br/>Likes: 116",
+    "description": "Downloads: 491<br/>Likes: 129",
     "url": "https://huggingface.co/datasets/facebook/research-plan-gen",
-    "published_date": "2025-12-30T09:29:56.462555+00:00",
+    "published_date": "2025-12-30T21:20:44.206282+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
       "item_name": "research-plan-gen",
       "downloads": 491,
-      "likes": 116,
+      "likes": 129,
       "last_modified": "2025-12-28T18:28:59.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "60699288062c9dcb3e016bfc4f627b62",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FutureMa/DramaBench",
+    "description": "Downloads: 179<br/>Likes: 100",
+    "url": "https://huggingface.co/datasets/FutureMa/DramaBench",
+    "published_date": "2025-12-30T21:20:44.206288+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FutureMa",
+      "item_name": "DramaBench",
+      "downloads": 179,
+      "likes": 100,
+      "last_modified": "2025-12-29T02:03:56.000Z",
       "all_tags": []
     }
   },
@@ -58,15 +76,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/NitroGen",
-    "description": "Downloads: 3,821<br/>Likes: 160",
+    "description": "Downloads: 3,821<br/>Likes: 164",
     "url": "https://huggingface.co/datasets/nvidia/NitroGen",
-    "published_date": "2025-12-30T09:29:56.462561+00:00",
+    "published_date": "2025-12-30T21:20:44.206295+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "NitroGen",
       "downloads": 3821,
-      "likes": 160,
+      "likes": 164,
       "last_modified": "2025-12-18T21:08:36.000Z",
       "all_tags": []
     }
@@ -76,34 +94,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "google/mobile-actions",
-    "description": "Downloads: 5,230<br/>Likes: 207",
+    "description": "Downloads: 5,230<br/>Likes: 208",
     "url": "https://huggingface.co/datasets/google/mobile-actions",
-    "published_date": "2025-12-30T09:29:56.462567+00:00",
+    "published_date": "2025-12-30T21:20:44.206301+00:00",
     "categories": [],
     "metadata": {
       "author": "google",
       "item_name": "mobile-actions",
       "downloads": 5230,
-      "likes": 207,
+      "likes": 208,
       "last_modified": "2025-12-18T21:10:12.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "60699288062c9dcb3e016bfc4f627b62",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FutureMa/DramaBench",
-    "description": "Downloads: 179<br/>Likes: 96",
-    "url": "https://huggingface.co/datasets/FutureMa/DramaBench",
-    "published_date": "2025-12-30T09:29:56.462573+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FutureMa",
-      "item_name": "DramaBench",
-      "downloads": 179,
-      "likes": 96,
-      "last_modified": "2025-12-29T02:03:56.000Z",
       "all_tags": []
     }
   },
@@ -112,16 +112,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "bshada/open-schematics",
-    "description": "Downloads: 5,112<br/>Likes: 91",
+    "description": "Downloads: 5,112<br/>Likes: 96",
     "url": "https://huggingface.co/datasets/bshada/open-schematics",
-    "published_date": "2025-12-30T09:29:56.462580+00:00",
+    "published_date": "2025-12-30T21:20:44.206307+00:00",
     "categories": [],
     "metadata": {
       "author": "bshada",
       "item_name": "open-schematics",
       "downloads": 5112,
-      "likes": 91,
+      "likes": 96,
       "last_modified": "2025-12-17T16:52:57.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "99956dfb95ae9a7dc9a1eaec11d6a30e",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nebius/SWE-rebench-openhands-trajectories",
+    "description": "Downloads: 248<br/>Likes: 77",
+    "url": "https://huggingface.co/datasets/nebius/SWE-rebench-openhands-trajectories",
+    "published_date": "2025-12-30T21:20:44.206313+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nebius",
+      "item_name": "SWE-rebench-openhands-trajectories",
+      "downloads": 248,
+      "likes": 77,
+      "last_modified": "2025-12-27T14:08:07.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "41efe85f78c4bd26f941c74887ad3588",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "google/deepsearchqa",
+    "description": "Downloads: 1,231<br/>Likes: 86",
+    "url": "https://huggingface.co/datasets/google/deepsearchqa",
+    "published_date": "2025-12-30T21:20:44.206319+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "google",
+      "item_name": "deepsearchqa",
+      "downloads": 1231,
+      "likes": 86,
+      "last_modified": "2025-12-17T21:41:32.000Z",
       "all_tags": []
     }
   },
@@ -132,7 +168,7 @@
     "title": "nvidia/Nemotron-CC-v2.1",
     "description": "Downloads: 23,532<br/>Likes: 91",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-CC-v2.1",
-    "published_date": "2025-12-30T09:29:56.462586+00:00",
+    "published_date": "2025-12-30T21:20:44.206324+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -144,55 +180,19 @@
     }
   },
   {
-    "id": "99956dfb95ae9a7dc9a1eaec11d6a30e",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nebius/SWE-rebench-openhands-trajectories",
-    "description": "Downloads: 248<br/>Likes: 72",
-    "url": "https://huggingface.co/datasets/nebius/SWE-rebench-openhands-trajectories",
-    "published_date": "2025-12-30T09:29:56.462591+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nebius",
-      "item_name": "SWE-rebench-openhands-trajectories",
-      "downloads": 248,
-      "likes": 72,
-      "last_modified": "2025-12-27T14:08:07.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "41efe85f78c4bd26f941c74887ad3588",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "google/deepsearchqa",
-    "description": "Downloads: 1,231<br/>Likes: 83",
-    "url": "https://huggingface.co/datasets/google/deepsearchqa",
-    "published_date": "2025-12-30T09:29:56.462597+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "google",
-      "item_name": "deepsearchqa",
-      "downloads": 1231,
-      "likes": 83,
-      "last_modified": "2025-12-17T21:41:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "e6d4ffc7d05864a2bca5d8b1431aa67a",
     "source": "huggingface",
     "type": "dataset",
     "title": "LLM360/TxT360-3efforts",
-    "description": "Downloads: 4,343<br/>Likes: 88",
+    "description": "Downloads: 4,343<br/>Likes: 90",
     "url": "https://huggingface.co/datasets/LLM360/TxT360-3efforts",
-    "published_date": "2025-12-30T09:29:56.462602+00:00",
+    "published_date": "2025-12-30T21:20:44.206330+00:00",
     "categories": [],
     "metadata": {
       "author": "LLM360",
       "item_name": "TxT360-3efforts",
       "downloads": 4343,
-      "likes": 88,
+      "likes": 90,
       "last_modified": "2025-12-11T11:03:06.000Z",
       "all_tags": []
     }
@@ -202,15 +202,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HiDream-ai/ReCo-Data",
-    "description": "Downloads: 6,724<br/>Likes: 60",
+    "description": "Downloads: 6,724<br/>Likes: 62",
     "url": "https://huggingface.co/datasets/HiDream-ai/ReCo-Data",
-    "published_date": "2025-12-30T09:29:56.462607+00:00",
+    "published_date": "2025-12-30T21:20:44.206336+00:00",
     "categories": [],
     "metadata": {
       "author": "HiDream-ai",
       "item_name": "ReCo-Data",
       "downloads": 6724,
-      "likes": 60,
+      "likes": 62,
       "last_modified": "2025-12-26T02:45:39.000Z",
       "all_tags": []
     }
@@ -220,15 +220,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "cais/hle",
-    "description": "Downloads: 22,832<br/>Likes: 626",
+    "description": "Downloads: 22,832<br/>Likes: 629",
     "url": "https://huggingface.co/datasets/cais/hle",
-    "published_date": "2025-12-30T09:29:56.462612+00:00",
+    "published_date": "2025-12-30T21:20:44.206341+00:00",
     "categories": [],
     "metadata": {
       "author": "cais",
       "item_name": "hle",
       "downloads": 22832,
-      "likes": 626,
+      "likes": 629,
       "last_modified": "2025-09-10T19:27:11.000Z",
       "all_tags": []
     }
@@ -238,34 +238,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "datapizza-ai-lab/salaries",
-    "description": "Downloads: 685<br/>Likes: 71",
+    "description": "Downloads: 685<br/>Likes: 72",
     "url": "https://huggingface.co/datasets/datapizza-ai-lab/salaries",
-    "published_date": "2025-12-30T09:29:56.462632+00:00",
+    "published_date": "2025-12-30T21:20:44.206351+00:00",
     "categories": [],
     "metadata": {
       "author": "datapizza-ai-lab",
       "item_name": "salaries",
       "downloads": 685,
-      "likes": 71,
+      "likes": 72,
       "last_modified": "2025-12-28T03:00:50.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cea8d738f26a4dc6e6d7082dad2c0a9c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openai/frontierscience",
-    "description": "Downloads: 6,785<br/>Likes: 141",
-    "url": "https://huggingface.co/datasets/openai/frontierscience",
-    "published_date": "2025-12-30T09:29:56.462637+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openai",
-      "item_name": "frontierscience",
-      "downloads": 6785,
-      "likes": 141,
-      "last_modified": "2025-12-16T14:50:54.000Z",
       "all_tags": []
     }
   },
@@ -274,70 +256,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Math-Proofs-v1",
-    "description": "Downloads: 1,447<br/>Likes: 82",
+    "description": "Downloads: 1,447<br/>Likes: 86",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Math-Proofs-v1",
-    "published_date": "2025-12-30T09:29:56.462642+00:00",
+    "published_date": "2025-12-30T21:20:44.206357+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Math-Proofs-v1",
       "downloads": 1447,
-      "likes": 82,
+      "likes": 86,
       "last_modified": "2025-12-18T14:54:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "caafcbd49276c52ed489146fdfd9c276",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Instruction-Following-Chat-v1",
-    "description": "Downloads: 3,847<br/>Likes: 99",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Instruction-Following-Chat-v1",
-    "published_date": "2025-12-30T09:29:56.462648+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Instruction-Following-Chat-v1",
-      "downloads": 3847,
-      "likes": 99,
-      "last_modified": "2025-12-15T05:27:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "959cfd061d86308c2c002f5b8291e14d",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "description": "Downloads: 3,476<br/>Likes: 228",
-    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
-    "published_date": "2025-12-30T09:29:56.462653+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "OpenMed",
-      "item_name": "Medical-Reasoning-SFT-GPT-OSS-120B",
-      "downloads": 3476,
-      "likes": 228,
-      "last_modified": "2025-12-12T15:11:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "f00702a4fb61e0ad600ac81bc7346413",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FBK-MT/MCIF",
-    "description": "Downloads: 4,472<br/>Likes: 59",
-    "url": "https://huggingface.co/datasets/FBK-MT/MCIF",
-    "published_date": "2025-12-30T09:29:56.462659+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FBK-MT",
-      "item_name": "MCIF",
-      "downloads": 4472,
-      "likes": 59,
-      "last_modified": "2025-12-15T20:54:20.000Z",
       "all_tags": []
     }
   },
@@ -346,16 +274,88 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ILSVRC/imagenet-1k",
-    "description": "Downloads: 67,892<br/>Likes: 673",
+    "description": "Downloads: 67,892<br/>Likes: 675",
     "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
-    "published_date": "2025-12-30T09:29:56.462665+00:00",
+    "published_date": "2025-12-30T21:20:44.206362+00:00",
     "categories": [],
     "metadata": {
       "author": "ILSVRC",
       "item_name": "imagenet-1k",
       "downloads": 67892,
-      "likes": 673,
+      "likes": 675,
       "last_modified": "2025-09-17T04:58:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cea8d738f26a4dc6e6d7082dad2c0a9c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openai/frontierscience",
+    "description": "Downloads: 6,785<br/>Likes: 142",
+    "url": "https://huggingface.co/datasets/openai/frontierscience",
+    "published_date": "2025-12-30T21:20:44.206367+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openai",
+      "item_name": "frontierscience",
+      "downloads": 6785,
+      "likes": 142,
+      "last_modified": "2025-12-16T14:50:54.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "959cfd061d86308c2c002f5b8291e14d",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
+    "description": "Downloads: 3,476<br/>Likes: 229",
+    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-GPT-OSS-120B",
+    "published_date": "2025-12-30T21:20:44.206373+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "OpenMed",
+      "item_name": "Medical-Reasoning-SFT-GPT-OSS-120B",
+      "downloads": 3476,
+      "likes": 229,
+      "last_modified": "2025-12-12T15:11:25.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f346c1dae94dbd32a46268f3e048c783",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "lirang04/GroundingME",
+    "description": "Downloads: 218<br/>Likes: 44",
+    "url": "https://huggingface.co/datasets/lirang04/GroundingME",
+    "published_date": "2025-12-30T21:20:44.206379+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "lirang04",
+      "item_name": "GroundingME",
+      "downloads": 218,
+      "likes": 44,
+      "last_modified": "2025-12-26T17:25:40.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
+    "description": "Downloads: 5,284<br/>Likes: 1012",
+    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
+    "published_date": "2025-12-30T21:20:44.206386+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FreedomIntelligence",
+      "item_name": "medical-o1-reasoning-SFT",
+      "downloads": 5284,
+      "likes": 1012,
+      "last_modified": "2025-04-22T15:11:21.000Z",
       "all_tags": []
     }
   }

@@ -1,18 +1,38 @@
 [
   {
+    "id": "922139a17cbf9163bdcc2ca2ef1278e1",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "DayuanJiang / next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+    "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "published_date": "2025-12-25T13:53:18Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 15688,
+      "forks": 1629,
+      "stars_today": 14771,
+      "language": "TypeScript",
+      "timeframe": "monthly",
+      "repo_path": "DayuanJiang/next-ai-draw-io"
+    }
+  },
+  {
     "id": "b97ebf11905ec02225ac60f9f2976d29",
     "source": "github",
     "type": "trending_repository",
     "title": "sst / opencode",
     "description": "The open source coding agent.",
     "url": "https://github.com/sst/opencode",
-    "published_date": "2025-12-30T00:04:18Z",
+    "published_date": "2025-12-30T20:45:16Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 43995,
-      "forks": 3781,
+      "stars": 44356,
+      "forks": 3812,
       "stars_today": 9437,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -31,8 +51,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 9535,
-      "forks": 574,
+      "stars": 9621,
+      "forks": 580,
       "stars_today": 8939,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -51,8 +71,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13368,
-      "forks": 1403,
+      "stars": 13441,
+      "forks": 1410,
       "stars_today": 8240,
       "language": "Python",
       "timeframe": "monthly",
@@ -66,13 +86,13 @@
     "title": "rustfs / rustfs",
     "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "url": "https://github.com/rustfs/rustfs",
-    "published_date": "2025-12-25T09:52:52Z",
+    "published_date": "2025-12-30T15:44:38Z",
     "categories": [
       "Rust"
     ],
     "metadata": {
-      "stars": 18622,
-      "forks": 801,
+      "stars": 18677,
+      "forks": 802,
       "stars_today": 6900,
       "language": "Rust",
       "timeframe": "monthly",
@@ -91,8 +111,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 38944,
-      "forks": 2615,
+      "stars": 39016,
+      "forks": 2621,
       "stars_today": 6313,
       "language": "Python",
       "timeframe": "monthly",
@@ -111,8 +131,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 24678,
-      "forks": 3074,
+      "stars": 24712,
+      "forks": 3076,
       "stars_today": 6201,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -131,8 +151,8 @@
       "Shell"
     ],
     "metadata": {
-      "stars": 49741,
-      "forks": 3523,
+      "stars": 49861,
+      "forks": 3534,
       "stars_today": 5810,
       "language": "Shell",
       "timeframe": "monthly",
@@ -151,8 +171,8 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 13545,
-      "forks": 962,
+      "stars": 13582,
+      "forks": 965,
       "stars_today": 4879,
       "language": "TypeScript",
       "timeframe": "monthly",
@@ -171,8 +191,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 19365,
-      "forks": 2533,
+      "stars": 19602,
+      "forks": 2562,
       "stars_today": 4110,
       "language": "Python",
       "timeframe": "monthly",
@@ -191,8 +211,8 @@
       "Zig"
     ],
     "metadata": {
-      "stars": 85756,
-      "forks": 3858,
+      "stars": 85776,
+      "forks": 3861,
       "stars_today": 3516,
       "language": "Zig",
       "timeframe": "monthly",
@@ -206,13 +226,13 @@
     "title": "Tencent / WeKnora",
     "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
     "url": "https://github.com/Tencent/WeKnora",
-    "published_date": "2025-12-29T09:58:00Z",
+    "published_date": "2025-12-30T11:46:07Z",
     "categories": [
       "Go"
     ],
     "metadata": {
-      "stars": 10589,
-      "forks": 1144,
+      "stars": 10624,
+      "forks": 1145,
       "stars_today": 2881,
       "language": "Go",
       "timeframe": "monthly",
@@ -231,32 +251,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13006,
-      "forks": 2172,
+      "stars": 13025,
+      "forks": 2173,
       "stars_today": 2546,
       "language": "Python",
       "timeframe": "monthly",
       "repo_path": "anthropics/claude-quickstarts"
-    }
-  },
-  {
-    "id": "48626fe1a05ed7f2a74e144b59086180",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "astral-sh / ty",
-    "description": "An extremely fast Python type checker and language server, written in Rust.",
-    "url": "https://github.com/astral-sh/ty",
-    "published_date": "2025-12-29T13:51:24Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 15928,
-      "forks": 173,
-      "stars_today": 2256,
-      "language": "Python",
-      "timeframe": "monthly",
-      "repo_path": "astral-sh/ty"
     }
   },
   {
@@ -271,32 +271,12 @@
       "Rust"
     ],
     "metadata": {
-      "stars": 5481,
-      "forks": 410,
+      "stars": 5499,
+      "forks": 411,
       "stars_today": 2008,
       "language": "Rust",
       "timeframe": "monthly",
       "repo_path": "cocoindex-io/cocoindex"
-    }
-  },
-  {
-    "id": "cfd16059469c4a1ee4c83c294ddd240f",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "virattt / ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "published_date": "2025-12-01T22:47:06Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 44269,
-      "forks": 7817,
-      "stars_today": 1846,
-      "language": "Python",
-      "timeframe": "monthly",
-      "repo_path": "virattt/ai-hedge-fund"
     }
   },
   {
@@ -311,8 +291,8 @@
       "Python"
     ],
     "metadata": {
-      "stars": 18596,
-      "forks": 2069,
+      "stars": 18620,
+      "forks": 2072,
       "stars_today": 1177,
       "language": "Python",
       "timeframe": "monthly",
