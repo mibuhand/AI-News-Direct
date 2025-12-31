@@ -127,7 +127,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
-    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 241<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
+    "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. The key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) De...<br/>Upvotes: 242<br/>Authors: DeepSeek-AI, Aixin Liu, Aoxue Mei<br/>🔗 <a href=\"https://huggingface.co/papers/2512.02556\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.02556",
     "external_url": "",
     "published_date": "2025-12-02T04:25:14.000Z",
@@ -137,7 +137,7 @@
     ],
     "metadata": {
       "paper_id": "2512.02556",
-      "upvotes": 241,
+      "upvotes": 242,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -430,7 +430,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
-    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 216<br/>GitHub Stars: 8242<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
+    "description": "The landscape of high-performance image generation models is currently dominated by proprietary systems, such as Nano Banana Pro and Seedream 4.0. Leading open-source alternatives, including Qwen-Imag...<br/>Upvotes: 217<br/>GitHub Stars: 8281<br/>Authors: Z-Image Team, Huanqia Cai, Sihan Cao<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22699\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22699",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image",
     "published_date": "2025-11-27T13:52:07.000Z",
@@ -440,8 +440,8 @@
     ],
     "metadata": {
       "paper_id": "2511.22699",
-      "upvotes": 216,
-      "github_stars": 8242,
+      "upvotes": 217,
+      "github_stars": 8281,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -491,7 +491,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 193<br/>GitHub Stars: 1943<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
+    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 194<br/>GitHub Stars: 1952<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16676",
     "external_url": "https://github.com/OpenDCAI/DataFlow",
     "published_date": "2025-12-18T10:46:15.000Z",
@@ -501,8 +501,8 @@
     ],
     "metadata": {
       "paper_id": "2512.16676",
-      "upvotes": 193,
-      "github_stars": 1943,
+      "upvotes": 194,
+      "github_stars": 1952,
       "github_url": "https://github.com/OpenDCAI/DataFlow",
       "project_url": "https://github.com/OpenDCAI/DataFlow",
       "authors": [
@@ -565,11 +565,62 @@
     }
   },
   {
+    "id": "0f96413995b3ae42aea420d3714efb11",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "LongVT: Incentivizing \"Thinking with Long Videos\" via Native Tool Calling",
+    "description": "Large multimodal models (LMMs) have shown great potential for video reasoning with textual Chain-of-Thought. However, they remain vulnerable to hallucinations, especially when processing long-form vid...<br/>Upvotes: 181<br/>GitHub Stars: 158<br/>Authors: Zuhao Yang, Sudong Wang, Kaichen Zhang<br/>🔗 <a href=\"https://github.com/EvolvingLMMs-Lab/LongVT\">GitHub</a><br/>🔗 <a href=\"https://evolvinglmms-lab.github.io/LongVT/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20785\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2511.20785",
+    "external_url": "https://github.com/EvolvingLMMs-Lab/LongVT",
+    "published_date": "2025-11-25T14:22:48.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2511.20785",
+      "upvotes": 181,
+      "github_stars": 158,
+      "github_url": "https://github.com/EvolvingLMMs-Lab/LongVT",
+      "project_url": "https://evolvinglmms-lab.github.io/LongVT/",
+      "authors": [
+        "Zuhao Yang",
+        "Sudong Wang",
+        "Kaichen Zhang",
+        "Keming Wu",
+        "Sicong Leng",
+        "Yifan Zhang",
+        "Chengwei Qin",
+        "Shijian Lu",
+        "Xingxuan Li",
+        "Lidong Bing"
+      ],
+      "summary": "Large multimodal models (LMMs) have shown great potential for video reasoning with textual Chain-of-Thought. However, they remain vulnerable to hallucinations, especially when processing long-form videos where evidence is sparse and temporally dispersed. Inspired by how humans comprehend long videos - by first skimming globally and then examining relevant clips for details - we introduce LongVT, an end-to-end agentic framework that enables \"Thinking with Long Videos\" via interleaved Multimodal Chain-of-Tool-Thought. Specifically, we exploit LMMs' inherent temporal grounding ability as a native video cropping tool to zoom in on a specific video clip and resample finer-grained video frames. This global-to-local reasoning loop continues until answers are grounded in retrieved visual evidence. Given the scarcity of fine-grained question-answering (QA) data for the long video reasoning task, we curate and will release a data suite named VideoSIAH to facilitate both training and evaluation. Specifically, our training dataset consists of 247.9K samples for tool-integrated cold-start supervised fine-tuning, 1.6K samples for agentic reinforcement learning, and 15.4K samples for agentic reinforcement fine-tuning, respectively. Our evaluation benchmark consists of 1,280 QA pairs that are carefully curated through a semi-automatic data pipeline with human-in-the-loop validation. With a meticulously designed three-stage training strategy and extensive empirical validation, LongVT consistently outperforms existing strong baselines across four challenging long-video understanding and reasoning benchmarks. Our codes, data, and model checkpoints are publicly available at https://github.com/EvolvingLMMs-Lab/LongVT .",
+      "fetch_date": "2025-12-02",
+      "num_comments": 7,
+      "ai_summary": "LongVT, an end-to-end framework, enhances long video reasoning by interleaving global and local analysis using multimodal tools, outperforming existing methods on challenging benchmarks.",
+      "ai_keywords": [
+        "multimodal models",
+        "video reasoning",
+        "textual Chain-of-Thought",
+        "hallucinations",
+        "long-form videos",
+        "temporal grounding",
+        "video cropping",
+        "fine-grained question-answering",
+        "VideoSIAH",
+        "tool-integrated cold-start supervised fine-tuning",
+        "agentic reinforcement learning",
+        "agentic reinforcement fine-tuning"
+      ]
+    }
+  },
+  {
     "id": "bdd6e066d5b32b9c61996386576f3682",
     "source": "huggingface",
     "type": "paper",
     "title": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length",
-    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 167<br/>GitHub Stars: 1239<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
+    "description": "Existing diffusion-based video generation methods are fundamentally constrained by sequential computation and long-horizon inconsistency, limiting their practical adoption in real-time, streaming audi...<br/>Upvotes: 167<br/>GitHub Stars: 1242<br/>Authors: Yubo Huang, Hailong Guo, Fangtai Wu<br/>🔗 <a href=\"https://github.com/Alibaba-Quark/LiveAvatar\">GitHub</a><br/>🔗 <a href=\"https://liveavatar.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.04677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.04677",
     "external_url": "https://github.com/Alibaba-Quark/LiveAvatar",
     "published_date": "2025-12-04T06:11:24.000Z",
@@ -580,7 +631,7 @@
     "metadata": {
       "paper_id": "2512.04677",
       "upvotes": 167,
-      "github_stars": 1239,
+      "github_stars": 1242,
       "github_url": "https://github.com/Alibaba-Quark/LiveAvatar",
       "project_url": "https://liveavatar.github.io/",
       "authors": [
@@ -624,62 +675,11 @@
     }
   },
   {
-    "id": "0f96413995b3ae42aea420d3714efb11",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "LongVT: Incentivizing \"Thinking with Long Videos\" via Native Tool Calling",
-    "description": "Large multimodal models (LMMs) have shown great potential for video reasoning with textual Chain-of-Thought. However, they remain vulnerable to hallucinations, especially when processing long-form vid...<br/>Upvotes: 167<br/>GitHub Stars: 158<br/>Authors: Zuhao Yang, Sudong Wang, Kaichen Zhang<br/>🔗 <a href=\"https://github.com/EvolvingLMMs-Lab/LongVT\">GitHub</a><br/>🔗 <a href=\"https://evolvinglmms-lab.github.io/LongVT/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.20785\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2511.20785",
-    "external_url": "https://github.com/EvolvingLMMs-Lab/LongVT",
-    "published_date": "2025-11-25T14:22:48.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2511.20785",
-      "upvotes": 167,
-      "github_stars": 158,
-      "github_url": "https://github.com/EvolvingLMMs-Lab/LongVT",
-      "project_url": "https://evolvinglmms-lab.github.io/LongVT/",
-      "authors": [
-        "Zuhao Yang",
-        "Sudong Wang",
-        "Kaichen Zhang",
-        "Keming Wu",
-        "Sicong Leng",
-        "Yifan Zhang",
-        "Chengwei Qin",
-        "Shijian Lu",
-        "Xingxuan Li",
-        "Lidong Bing"
-      ],
-      "summary": "Large multimodal models (LMMs) have shown great potential for video reasoning with textual Chain-of-Thought. However, they remain vulnerable to hallucinations, especially when processing long-form videos where evidence is sparse and temporally dispersed. Inspired by how humans comprehend long videos - by first skimming globally and then examining relevant clips for details - we introduce LongVT, an end-to-end agentic framework that enables \"Thinking with Long Videos\" via interleaved Multimodal Chain-of-Tool-Thought. Specifically, we exploit LMMs' inherent temporal grounding ability as a native video cropping tool to zoom in on a specific video clip and resample finer-grained video frames. This global-to-local reasoning loop continues until answers are grounded in retrieved visual evidence. Given the scarcity of fine-grained question-answering (QA) data for the long video reasoning task, we curate and will release a data suite named VideoSIAH to facilitate both training and evaluation. Specifically, our training dataset consists of 247.9K samples for tool-integrated cold-start supervised fine-tuning, 1.6K samples for agentic reinforcement learning, and 15.4K samples for agentic reinforcement fine-tuning, respectively. Our evaluation benchmark consists of 1,280 QA pairs that are carefully curated through a semi-automatic data pipeline with human-in-the-loop validation. With a meticulously designed three-stage training strategy and extensive empirical validation, LongVT consistently outperforms existing strong baselines across four challenging long-video understanding and reasoning benchmarks. Our codes, data, and model checkpoints are publicly available at https://github.com/EvolvingLMMs-Lab/LongVT .",
-      "fetch_date": "2025-12-02",
-      "num_comments": 7,
-      "ai_summary": "LongVT, an end-to-end framework, enhances long video reasoning by interleaving global and local analysis using multimodal tools, outperforming existing methods on challenging benchmarks.",
-      "ai_keywords": [
-        "multimodal models",
-        "video reasoning",
-        "textual Chain-of-Thought",
-        "hallucinations",
-        "long-form videos",
-        "temporal grounding",
-        "video cropping",
-        "fine-grained question-answering",
-        "VideoSIAH",
-        "tool-integrated cold-start supervised fine-tuning",
-        "agentic reinforcement learning",
-        "agentic reinforcement fine-tuning"
-      ]
-    }
-  },
-  {
     "id": "5b6ff13ede65701e5f764a0267eca8df",
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-VL Technical Report",
-    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 145<br/>GitHub Stars: 17478<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
+    "description": "We introduce Qwen3-VL, the most capable vision-language model in the Qwen series to date, achieving superior performance across a broad range of multimodal benchmarks. It natively supports interleaved...<br/>Upvotes: 145<br/>GitHub Stars: 17495<br/>Authors: Shuai Bai, Yuxuan Cai, Ruizhe Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-VL\">GitHub</a><br/>🔗 <a href=\"https://chat.qwen.ai\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.21631\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.21631",
     "external_url": "https://github.com/QwenLM/Qwen3-VL",
     "published_date": "2025-11-26T12:59:08.000Z",
@@ -690,7 +690,7 @@
     "metadata": {
       "paper_id": "2511.21631",
       "upvotes": 145,
-      "github_stars": 17478,
+      "github_stars": 17495,
       "github_url": "https://github.com/QwenLM/Qwen3-VL",
       "project_url": "https://chat.qwen.ai",
       "authors": [
@@ -791,7 +791,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepCode: Open Agentic Coding",
-    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 31<br/>GitHub Stars: 13204<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
+    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 31<br/>GitHub Stars: 13206<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.07921",
     "external_url": "https://github.com/HKUDS/DeepCode",
     "published_date": "2025-12-08T11:07:13.000Z",
@@ -802,7 +802,7 @@
     "metadata": {
       "paper_id": "2512.07921",
       "upvotes": 31,
-      "github_stars": 13204,
+      "github_stars": 13206,
       "github_url": "https://github.com/HKUDS/DeepCode",
       "project_url": "",
       "authors": [
@@ -838,7 +838,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 28<br/>GitHub Stars: 8247<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
+    "description": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stan...<br/>Upvotes: 28<br/>GitHub Stars: 8285<br/>Authors: Dongyang Liu, Peng Gao, David Liu<br/>🔗 <a href=\"https://github.com/Tongyi-MAI/Z-Image/tree/main\">GitHub</a><br/>🔗 <a href=\"https://tongyi-mai.github.io/Z-Image-blog/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2511.22677\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2511.22677",
     "external_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
     "published_date": "2025-11-27T13:24:28.000Z",
@@ -849,7 +849,7 @@
     "metadata": {
       "paper_id": "2511.22677",
       "upvotes": 28,
-      "github_stars": 8247,
+      "github_stars": 8285,
       "github_url": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "project_url": "https://tongyi-mai.github.io/Z-Image-blog/",
       "authors": [
@@ -886,7 +886,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Sharp Monocular View Synthesis in Less Than a Second",
-    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 20<br/>GitHub Stars: 6183<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
+    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 20<br/>GitHub Stars: 6206<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.10685",
     "external_url": "https://github.com/apple/ml-sharp",
     "published_date": "2025-12-11T09:34:11.000Z",
@@ -897,7 +897,7 @@
     "metadata": {
       "paper_id": "2512.10685",
       "upvotes": 20,
-      "github_stars": 6183,
+      "github_stars": 6206,
       "github_url": "https://github.com/apple/ml-sharp",
       "project_url": "https://apple.github.io/ml-sharp/",
       "authors": [
