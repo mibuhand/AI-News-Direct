@@ -10,10 +10,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 828,
+      "score": 875,
       "author": "simonw",
-      "comments": 453,
+      "comments": 517,
       "hn_id": 46449643
+    },
+    "objects": []
+  },
+  {
+    "id": "bcceb6c1d092eab11a0e8f4c6b2f05e1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Linux is good now",
+    "description": "",
+    "url": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+    "published_date": "2026-01-01T20:35:11+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 744,
+      "author": "Vinnl",
+      "comments": 579,
+      "hn_id": 46457770
     },
     "objects": []
   },
@@ -28,9 +46,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 686,
+      "score": 699,
       "author": "ValentineC",
-      "comments": 529,
+      "comments": 554,
       "hn_id": 46448705
     },
     "objects": []
@@ -46,9 +64,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 589,
+      "score": 598,
       "author": "azhenley",
-      "comments": 329,
+      "comments": 334,
       "hn_id": 46446815
     },
     "objects": []
@@ -64,64 +82,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 568,
+      "score": 576,
       "author": "haunter",
-      "comments": 240,
+      "comments": 244,
       "hn_id": 46445068
     },
     "objects": []
   },
   {
-    "id": "452984130566c728e1a9fdf66167d357",
+    "id": "dbae2734201a49f91d6a4826f02d6ac2",
     "source": "hackernews",
     "type": "story",
-    "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+    "title": "A website to destroy all websites",
     "description": "",
-    "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-    "published_date": "2025-12-30T21:44:07+00:00",
+    "url": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+    "published_date": "2026-01-01T20:36:46+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 504,
-      "author": "1vuio0pswjnm7",
-      "comments": 746,
-      "hn_id": 46438390
-    },
-    "objects": []
-  },
-  {
-    "id": "3c871d57ef78e95861f6da89ed3e8961",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Tell HN: Happy New Year",
-    "description": "",
-    "url": "https://news.ycombinator.com/item?id=46443744",
-    "published_date": "2025-12-31T13:02:48+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 422,
-      "author": "schappim",
-      "comments": 197,
-      "hn_id": 46443744
-    },
-    "objects": []
-  },
-  {
-    "id": "e13c54d1902cb3740bbe0435482e19f1",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Honey's Dieselgate: Detecting and tricking testers",
-    "description": "",
-    "url": "https://vptdigital.com/blog/honey-detecting-testers/",
-    "published_date": "2025-12-30T21:59:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 384,
-      "author": "AkshatJ27",
-      "comments": 161,
-      "hn_id": 46438522
+      "score": 529,
+      "author": "g0xA52A2A",
+      "comments": 278,
+      "hn_id": 46457784
     },
     "objects": []
   },
@@ -136,28 +118,118 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 380,
+      "score": 481,
       "author": "AndrewDucker",
-      "comments": 119,
+      "comments": 173,
       "hn_id": 46453204
     },
     "objects": []
   },
   {
-    "id": "d08d0e2dac91f20d7deeeafafa2dbc99",
+    "id": "3c871d57ef78e95861f6da89ed3e8961",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+    "title": "Tell HN: Happy New Year",
     "description": "",
-    "url": "https://exopriors.com/scry",
-    "published_date": "2025-12-31T07:47:44+00:00",
+    "url": "https://news.ycombinator.com/item?id=46443744",
+    "published_date": "2025-12-31T13:02:48+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 364,
-      "author": "Xyra",
-      "comments": 131,
-      "hn_id": 46442245
+      "score": 435,
+      "author": "schappim",
+      "comments": 205,
+      "hn_id": 46443744
+    },
+    "objects": []
+  },
+  {
+    "id": "d12aed738aa4d73a8b98cffb5af29915",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
+    "description": "",
+    "url": "https://openworkers.com/introducing-openworkers",
+    "published_date": "2026-01-01T15:09:06+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 432,
+      "author": "max_lt",
+      "comments": 134,
+      "hn_id": 46454693
+    },
+    "objects": []
+  },
+  {
+    "id": "9e5d1e8d49e40d7f4d7b22714201bc3f",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Cameras and Lenses (2020)",
+    "description": "",
+    "url": "https://ciechanow.ski/cameras-and-lenses/",
+    "published_date": "2026-01-01T17:18:01+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 421,
+      "author": "sebg",
+      "comments": 50,
+      "hn_id": 46455872
+    },
+    "objects": []
+  },
+  {
+    "id": "06d866083e28cc9099589380e627a516",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I rebooted my social life",
+    "description": "",
+    "url": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
+    "published_date": "2026-01-01T11:01:38+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 412,
+      "author": "edent",
+      "comments": 300,
+      "hn_id": 46453114
+    },
+    "objects": []
+  },
+  {
+    "id": "80eff1bf1376ec48a34f7ac000d23143",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Finland detains ship and its crew after critical undersea cable damaged",
+    "description": "",
+    "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+    "published_date": "2026-01-01T18:46:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 406,
+      "author": "wslh",
+      "comments": 410,
+      "hn_id": 46456797
+    },
+    "objects": []
+  },
+  {
+    "id": "9c9906acc7e555b40b04b2f387ab4ea0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "iOS allows alternative browser engines in Japan",
+    "description": "",
+    "url": "https://developer.apple.com/support/alternative-browser-engines-jp/",
+    "published_date": "2026-01-01T13:30:45+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 384,
+      "author": "eklavya",
+      "comments": 349,
+      "hn_id": 46453950
     },
     "objects": []
   },
@@ -172,10 +244,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 357,
+      "score": 373,
       "author": "coldpie",
-      "comments": 400,
+      "comments": 426,
       "hn_id": 46446366
+    },
+    "objects": []
+  },
+  {
+    "id": "2feb511de22365d64bc6aa1766f4e5f2",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I'm a developer for a major food delivery app",
+    "description": "",
+    "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+    "published_date": "2026-01-02T04:57:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 367,
+      "author": "apayan",
+      "comments": 182,
+      "hn_id": 46461563
+    },
+    "objects": []
+  },
+  {
+    "id": "e4140d03268e3dbc3ad6da1abb83c782",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Python numbers every programmer should know",
+    "description": "",
+    "url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+    "published_date": "2026-01-01T14:39:23+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 352,
+      "author": "WoodenChair",
+      "comments": 140,
+      "hn_id": 46454470
     },
     "objects": []
   },
@@ -190,9 +298,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 323,
+      "score": 329,
       "author": "tosh",
-      "comments": 97,
+      "comments": 99,
       "hn_id": 46442903
     },
     "objects": []
@@ -208,64 +316,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 296,
+      "score": 322,
       "author": "leglock",
-      "comments": 44,
+      "comments": 47,
       "hn_id": 46454763
     },
     "objects": []
   },
   {
-    "id": "d12aed738aa4d73a8b98cffb5af29915",
+    "id": "7781334f7564ce28715030be63317d5e",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
+    "title": "Why users cannot create Issues directly",
     "description": "",
-    "url": "https://openworkers.com/introducing-openworkers",
-    "published_date": "2026-01-01T15:09:06+00:00",
+    "url": "https://github.com/ghostty-org/ghostty/issues/3558",
+    "published_date": "2026-01-02T01:24:51+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 289,
-      "author": "max_lt",
-      "comments": 98,
-      "hn_id": 46454693
+      "score": 314,
+      "author": "xpe",
+      "comments": 100,
+      "hn_id": 46460319
     },
     "objects": []
   },
   {
-    "id": "ca7a4548e0bd2db74f3382596e6d9845",
+    "id": "67d508977b4579a24e67808c75e76523",
     "source": "hackernews",
     "type": "story",
-    "title": "Efficient method to capture carbon dioxide from the atmosphere",
+    "title": "2025 Letter",
     "description": "",
-    "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
-    "published_date": "2025-12-31T13:59:09+00:00",
+    "url": "https://danwang.co/2025-letter/",
+    "published_date": "2026-01-01T14:32:12+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 276,
-      "author": "lrasinen",
-      "comments": 318,
-      "hn_id": 46444076
-    },
-    "objects": []
-  },
-  {
-    "id": "9c9906acc7e555b40b04b2f387ab4ea0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "iOS allows alternative browser engines in Japan",
-    "description": "",
-    "url": "https://developer.apple.com/support/alternative-browser-engines-jp/",
-    "published_date": "2026-01-01T13:30:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 272,
-      "author": "eklavya",
-      "comments": 186,
-      "hn_id": 46453950
+      "score": 310,
+      "author": "Amorymeltzer",
+      "comments": 215,
+      "hn_id": 46454413
     },
     "objects": []
   },
@@ -280,46 +370,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 266,
+      "score": 300,
       "author": "wtcactus",
-      "comments": 85,
+      "comments": 105,
       "hn_id": 46453582
     },
     "objects": []
   },
   {
-    "id": "06d866083e28cc9099589380e627a516",
+    "id": "ca7a4548e0bd2db74f3382596e6d9845",
     "source": "hackernews",
     "type": "story",
-    "title": "I rebooted my social life",
+    "title": "Efficient method to capture carbon dioxide from the atmosphere",
     "description": "",
-    "url": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
-    "published_date": "2026-01-01T11:01:38+00:00",
+    "url": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
+    "published_date": "2025-12-31T13:59:09+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 265,
-      "author": "edent",
-      "comments": 201,
-      "hn_id": 46453114
+      "score": 277,
+      "author": "lrasinen",
+      "comments": 324,
+      "hn_id": 46444076
     },
     "objects": []
   },
   {
-    "id": "9e5d1e8d49e40d7f4d7b22714201bc3f",
+    "id": "48123be1c77d0df56a7b73371e708548",
     "source": "hackernews",
     "type": "story",
-    "title": "Cameras and Lenses (2020)",
+    "title": "Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes",
     "description": "",
-    "url": "https://ciechanow.ski/cameras-and-lenses/",
-    "published_date": "2026-01-01T17:18:01+00:00",
+    "url": "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes",
+    "published_date": "2026-01-01T15:57:39+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 252,
-      "author": "sebg",
-      "comments": 24,
-      "hn_id": 46455872
+      "score": 255,
+      "author": "gloxkiqcza",
+      "comments": 85,
+      "hn_id": 46455053
+    },
+    "objects": []
+  },
+  {
+    "id": "ba6d538fffb6364e00f5c15b1bfca628",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Happy Public Domain Day 2026",
+    "description": "",
+    "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+    "published_date": "2026-01-02T01:42:16+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 251,
+      "author": "apetresc",
+      "comments": 47,
+      "hn_id": 46460440
+    },
+    "objects": []
+  },
+  {
+    "id": "bad06d2668e7a49d67a7ecbb117b5f40",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The rise of industrial software",
+    "description": "",
+    "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+    "published_date": "2025-12-31T09:09:28+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 249,
+      "author": "chrisloy",
+      "comments": 186,
+      "hn_id": 46442597
     },
     "objects": []
   },
@@ -342,20 +468,20 @@
     "objects": []
   },
   {
-    "id": "bad06d2668e7a49d67a7ecbb117b5f40",
+    "id": "7ad4ddc32db90e481ec0ffcfa16714f2",
     "source": "hackernews",
     "type": "story",
-    "title": "The rise of industrial software",
+    "title": "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
     "description": "",
-    "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
-    "published_date": "2025-12-31T09:09:28+00:00",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal",
+    "published_date": "2026-01-01T15:49:42+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
       "score": 245,
-      "author": "chrisloy",
-      "comments": 184,
-      "hn_id": 46442597
+      "author": "toomuchtodo",
+      "comments": 383,
+      "hn_id": 46454977
     },
     "objects": []
   },
@@ -370,28 +496,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 243,
+      "score": 244,
       "author": "spankibalt",
-      "comments": 75,
+      "comments": 77,
       "hn_id": 46446359
     },
     "objects": []
   },
   {
-    "id": "eb70d95245341d0a43ec9426a2359d18",
+    "id": "f44fc054f089fb1403bb13dcbba2a621",
     "source": "hackernews",
     "type": "story",
-    "title": "NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives",
+    "title": "Can Bundler be as fast as uv?",
     "description": "",
-    "url": "https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/",
-    "published_date": "2025-12-30T22:28:16+00:00",
+    "url": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+    "published_date": "2026-01-01T21:37:10+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 243,
-      "author": "ptorrone",
-      "comments": 225,
-      "hn_id": 46438828
+      "score": 242,
+      "author": "ibobev",
+      "comments": 81,
+      "hn_id": 46458302
     },
     "objects": []
   },
@@ -406,9 +532,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 229,
+      "score": 237,
       "author": "speckx",
-      "comments": 303,
+      "comments": 308,
       "hn_id": 46445491
     },
     "objects": []
@@ -424,28 +550,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 226,
+      "score": 230,
       "author": "belter",
-      "comments": 328,
+      "comments": 358,
       "hn_id": 46444743
-    },
-    "objects": []
-  },
-  {
-    "id": "2622de80f05b1228c0e31805854af8cc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Project ideas to appreciate the art of programming",
-    "description": "",
-    "url": "https://codecrafters.io/blog/programming-project-ideas",
-    "published_date": "2025-12-30T22:47:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 221,
-      "author": "vitaelabitur",
-      "comments": 79,
-      "hn_id": 46439027
     },
     "objects": []
   },
@@ -460,28 +568,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 220,
+      "score": 225,
       "author": "Luc",
-      "comments": 306,
+      "comments": 331,
       "hn_id": 46448998
-    },
-    "objects": []
-  },
-  {
-    "id": "d4dab18f185fc941d61cd34229405eb4",
-    "source": "hackernews",
-    "type": "story",
-    "title": "LLVM AI tool policy: human in the loop",
-    "description": "",
-    "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
-    "published_date": "2025-12-31T03:06:07+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 215,
-      "author": "pertymcpert",
-      "comments": 108,
-      "hn_id": 46440833
     },
     "objects": []
   },
@@ -496,9 +586,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 211,
+      "score": 213,
       "author": "PaulHoule",
-      "comments": 45,
+      "comments": 47,
       "hn_id": 46448894
     },
     "objects": []
@@ -514,64 +604,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 204,
+      "score": 208,
       "author": "fork-bomber",
-      "comments": 457,
+      "comments": 495,
       "hn_id": 46444249
-    },
-    "objects": []
-  },
-  {
-    "id": "48123be1c77d0df56a7b73371e708548",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes",
-    "description": "",
-    "url": "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes",
-    "published_date": "2026-01-01T15:57:39+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 201,
-      "author": "gloxkiqcza",
-      "comments": 47,
-      "hn_id": 46455053
-    },
-    "objects": []
-  },
-  {
-    "id": "46b04dd716681682750d3be59df1aa1e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Sabotaging Bitcoin",
-    "description": "",
-    "url": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
-    "published_date": "2025-12-30T20:53:59+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 198,
-      "author": "zdw",
-      "comments": 201,
-      "hn_id": 46437876
-    },
-    "objects": []
-  },
-  {
-    "id": "e4140d03268e3dbc3ad6da1abb83c782",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Python numbers every programmer should know",
-    "description": "",
-    "url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
-    "published_date": "2026-01-01T14:39:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 197,
-      "author": "WoodenChair",
-      "comments": 88,
-      "hn_id": 46454470
     },
     "objects": []
   },
@@ -586,10 +622,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 192,
+      "score": 200,
       "author": "weaksauce",
-      "comments": 80,
+      "comments": 85,
       "hn_id": 46449694
+    },
+    "objects": []
+  },
+  {
+    "id": "c311ca5d25515541e7ea422174c75b11",
+    "source": "hackernews",
+    "type": "story",
+    "title": "50% of U.S. vinyl buyers don't own a record player",
+    "description": "",
+    "url": "https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752",
+    "published_date": "2026-01-01T15:45:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 195,
+      "author": "ResisBey",
+      "comments": 202,
+      "hn_id": 46454944
     },
     "objects": []
   },
@@ -604,46 +658,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 192,
+      "score": 195,
       "author": "based2",
-      "comments": 129,
+      "comments": 137,
       "hn_id": 46445131
-    },
-    "objects": []
-  },
-  {
-    "id": "997fb7ce5c0c3ec4e463563d2d935036",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Google Opal",
-    "description": "",
-    "url": "https://opal.google/landing/",
-    "published_date": "2025-12-31T03:49:58+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 182,
-      "author": "gmays",
-      "comments": 121,
-      "hn_id": 46441068
-    },
-    "objects": []
-  },
-  {
-    "id": "67d508977b4579a24e67808c75e76523",
-    "source": "hackernews",
-    "type": "story",
-    "title": "2025 Letter",
-    "description": "",
-    "url": "https://danwang.co/2025-letter/",
-    "published_date": "2026-01-01T14:32:12+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 180,
-      "author": "Amorymeltzer",
-      "comments": 109,
-      "hn_id": 46454413
     },
     "objects": []
   },
@@ -658,10 +676,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 177,
+      "score": 179,
       "author": "todsacerdoti",
-      "comments": 110,
+      "comments": 114,
       "hn_id": 46446938
+    },
+    "objects": []
+  },
+  {
+    "id": "72cd84c532d4f0a89307929d77c8c0c3",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Children and Helical Time",
+    "description": "",
+    "url": "https://moultano.wordpress.com/2025/12/30/children-and-helical-time/",
+    "published_date": "2026-01-01T09:53:48+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 169,
+      "author": "moultano",
+      "comments": 112,
+      "hn_id": 46452763
     },
     "objects": []
   },
@@ -676,9 +712,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 165,
+      "score": 169,
       "author": "vismit2000",
-      "comments": 132,
+      "comments": 138,
       "hn_id": 46443579
     },
     "objects": []
@@ -694,64 +730,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 155,
+      "score": 159,
       "author": "Symmetry",
-      "comments": 245,
+      "comments": 254,
       "hn_id": 46444020
     },
     "objects": []
   },
   {
-    "id": "6341fea2c031bad1ccbe245a8a6a7dbc",
+    "id": "9a40feec5b058ebcdd0353c6b5898c32",
     "source": "hackernews",
     "type": "story",
-    "title": "Humans May Be Able to Grow New Teeth Within Just 4 Years",
+    "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
     "description": "",
-    "url": "https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/",
-    "published_date": "2025-12-30T21:22:53+00:00",
+    "url": "https://enroll.sh",
+    "published_date": "2026-01-01T00:23:54+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 151,
-      "author": "rmason",
-      "comments": 77,
-      "hn_id": 46438169
+      "score": 157,
+      "author": "_mig5",
+      "comments": 30,
+      "hn_id": 46449852
     },
     "objects": []
   },
   {
-    "id": "eb32d745fec8583902aa9466091b8971",
+    "id": "6a3b781fe96afe71bcefc401bf650ff1",
     "source": "hackernews",
     "type": "story",
-    "title": "Quality of drinking water varies significantly by airline",
+    "title": "Worlds largest electric ship launched by Tasmanian boatbuilder",
     "description": "",
-    "url": "https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/",
-    "published_date": "2025-12-31T00:03:50+00:00",
+    "url": "https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched",
+    "published_date": "2026-01-01T10:29:54+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 148,
-      "author": "azinman2",
-      "comments": 135,
-      "hn_id": 46439769
+      "score": 145,
+      "author": "aussieguy1234",
+      "comments": 114,
+      "hn_id": 46452937
     },
     "objects": []
   },
   {
-    "id": "14cd441b0342ab35e6a312636ac90514",
+    "id": "52c8d8229f674b0547f7f750442207f8",
     "source": "hackernews",
     "type": "story",
-    "title": "Readings in Database Systems (5th Edition) (2015)",
+    "title": "Flow5 released to open source",
     "description": "",
-    "url": "http://www.redbook.io/",
-    "published_date": "2025-12-31T02:01:53+00:00",
+    "url": "https://flow5.tech/docs/releasenotes.html",
+    "published_date": "2026-01-01T03:47:20+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 147,
-      "author": "teleforce",
-      "comments": 17,
-      "hn_id": 46440510
+      "score": 145,
+      "author": "picture",
+      "comments": 10,
+      "hn_id": 46451124
     },
     "objects": []
   },
@@ -768,7 +804,7 @@
     "metadata": {
       "score": 145,
       "author": "Mgtyalx",
-      "comments": 131,
+      "comments": 132,
       "hn_id": 46446800
     },
     "objects": []
@@ -802,64 +838,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 140,
+      "score": 141,
       "author": "PaulHoule",
-      "comments": 61,
+      "comments": 63,
       "hn_id": 46443988
     },
     "objects": []
   },
   {
-    "id": "52c8d8229f674b0547f7f750442207f8",
+    "id": "566be32f71fa8061893f070ddfc75d88",
     "source": "hackernews",
     "type": "story",
-    "title": "Flow5 released to open source",
+    "title": "A confession from a mainstream food delivery app engineer",
     "description": "",
-    "url": "https://flow5.tech/docs/releasenotes.html",
-    "published_date": "2026-01-01T03:47:20+00:00",
+    "url": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
+    "published_date": "2026-01-02T05:00:25+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 139,
-      "author": "picture",
-      "comments": 10,
-      "hn_id": 46451124
-    },
-    "objects": []
-  },
-  {
-    "id": "80eff1bf1376ec48a34f7ac000d23143",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Finland detains ship and its crew after critical undersea cable damaged",
-    "description": "",
-    "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
-    "published_date": "2026-01-01T18:46:07+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 138,
-      "author": "wslh",
-      "comments": 71,
-      "hn_id": 46456797
-    },
-    "objects": []
-  },
-  {
-    "id": "72cd84c532d4f0a89307929d77c8c0c3",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Children and Helical Time",
-    "description": "",
-    "url": "https://moultano.wordpress.com/2025/12/30/children-and-helical-time/",
-    "published_date": "2026-01-01T09:53:48+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 137,
-      "author": "moultano",
-      "comments": 96,
-      "hn_id": 46452763
+      "score": 140,
+      "author": "taurath",
+      "comments": 35,
+      "hn_id": 46461578
     },
     "objects": []
   },
@@ -874,28 +874,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 129,
+      "score": 132,
       "author": "JumpCrisscross",
-      "comments": 126,
+      "comments": 128,
       "hn_id": 46444564
     },
     "objects": []
   },
   {
-    "id": "262c5b3837e0e50b918f7da36982f7c6",
+    "id": "513da032205cdf8bfcf51b0216b266d8",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+    "title": "Dell's version of the DGX Spark fixes pain points",
     "description": "",
-    "url": "https://bustermq.sh/",
-    "published_date": "2026-01-01T00:18:43+00:00",
+    "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+    "published_date": "2026-01-01T19:11:53+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 128,
-      "author": "jbaptiste",
-      "comments": 62,
-      "hn_id": 46449812
+      "score": 131,
+      "author": "thomasjb",
+      "comments": 66,
+      "hn_id": 46457027
     },
     "objects": []
   }
