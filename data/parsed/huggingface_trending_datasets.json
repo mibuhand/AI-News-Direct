@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "facebook/research-plan-gen",
-    "description": "Downloads: 1,763<br/>Likes: 189",
+    "description": "Downloads: 1,763<br/>Likes: 200",
     "url": "https://huggingface.co/datasets/facebook/research-plan-gen",
-    "published_date": "2026-01-04T09:23:55.925819+00:00",
+    "published_date": "2026-01-04T21:19:41.810422+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
       "item_name": "research-plan-gen",
       "downloads": 1763,
-      "likes": 189,
+      "likes": 200,
       "last_modified": "2026-01-02T14:56:26.000Z",
       "all_tags": []
     }
@@ -22,34 +22,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "bigai/TongSIM-Asset",
-    "description": "Downloads: 17,000<br/>Likes: 265",
+    "description": "Downloads: 17,000<br/>Likes: 268",
     "url": "https://huggingface.co/datasets/bigai/TongSIM-Asset",
-    "published_date": "2026-01-04T09:23:55.925840+00:00",
+    "published_date": "2026-01-04T21:19:41.810444+00:00",
     "categories": [],
     "metadata": {
       "author": "bigai",
       "item_name": "TongSIM-Asset",
       "downloads": 17000,
-      "likes": 265,
+      "likes": 268,
       "last_modified": "2025-12-29T13:37:50.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "4203ffe5744f9a292ff4cf5638f528d0",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "bshada/open-schematics",
-    "description": "Downloads: 8,688<br/>Likes: 136",
-    "url": "https://huggingface.co/datasets/bshada/open-schematics",
-    "published_date": "2026-01-04T09:23:55.925846+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "bshada",
-      "item_name": "open-schematics",
-      "downloads": 8688,
-      "likes": 136,
-      "last_modified": "2025-12-17T16:52:57.000Z",
       "all_tags": []
     }
   },
@@ -58,16 +40,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "wikimedia/wikipedia",
-    "description": "Downloads: 69,657<br/>Likes: 1073",
+    "description": "Downloads: 69,657<br/>Likes: 1081",
     "url": "https://huggingface.co/datasets/wikimedia/wikipedia",
-    "published_date": "2026-01-04T09:23:55.925851+00:00",
+    "published_date": "2026-01-04T21:19:41.810452+00:00",
     "categories": [],
     "metadata": {
       "author": "wikimedia",
       "item_name": "wikipedia",
       "downloads": 69657,
-      "likes": 1073,
+      "likes": 1081,
       "last_modified": "2024-01-09T09:40:51.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "358e5b9f7719d40d93954e777985856d",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "llm-jp/jhle",
+    "description": "Downloads: 88<br/>Likes: 74",
+    "url": "https://huggingface.co/datasets/llm-jp/jhle",
+    "published_date": "2026-01-04T21:19:41.810459+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "llm-jp",
+      "item_name": "jhle",
+      "downloads": 88,
+      "likes": 74,
+      "last_modified": "2025-10-06T09:19:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e3d688f00cd0714f9516857b954eaaac",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Anthropic/hh-rlhf",
+    "description": "Downloads: 22,823<br/>Likes: 1588",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "published_date": "2026-01-04T21:19:41.810465+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Anthropic",
+      "item_name": "hh-rlhf",
+      "downloads": 22823,
+      "likes": 1588,
+      "last_modified": "2023-05-26T18:47:34.000Z",
       "all_tags": []
     }
   },
@@ -76,16 +94,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "gaia-benchmark/GAIA",
-    "description": "Downloads: 15,950<br/>Likes: 579",
+    "description": "Downloads: 15,950<br/>Likes: 580",
     "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-    "published_date": "2026-01-04T09:23:55.925855+00:00",
+    "published_date": "2026-01-04T21:19:41.810472+00:00",
     "categories": [],
     "metadata": {
       "author": "gaia-benchmark",
       "item_name": "GAIA",
       "downloads": 15950,
-      "likes": 579,
+      "likes": 580,
       "last_modified": "2025-10-28T14:44:54.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4203ffe5744f9a292ff4cf5638f528d0",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "bshada/open-schematics",
+    "description": "Downloads: 8,688<br/>Likes: 138",
+    "url": "https://huggingface.co/datasets/bshada/open-schematics",
+    "published_date": "2026-01-04T21:19:41.810478+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "bshada",
+      "item_name": "open-schematics",
+      "downloads": 8688,
+      "likes": 138,
+      "last_modified": "2025-12-17T16:52:57.000Z",
       "all_tags": []
     }
   },
@@ -94,16 +130,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nebius/SWE-rebench-openhands-trajectories",
-    "description": "Downloads: 510<br/>Likes: 104",
+    "description": "Downloads: 510<br/>Likes: 106",
     "url": "https://huggingface.co/datasets/nebius/SWE-rebench-openhands-trajectories",
-    "published_date": "2026-01-04T09:23:55.925860+00:00",
+    "published_date": "2026-01-04T21:19:41.810485+00:00",
     "categories": [],
     "metadata": {
       "author": "nebius",
       "item_name": "SWE-rebench-openhands-trajectories",
       "downloads": 510,
-      "likes": 104,
+      "likes": 106,
       "last_modified": "2025-12-27T14:08:07.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "144aed871374416a7dd6d60de2c49ddf",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Idavidrein/gpqa",
+    "description": "Downloads: 66,157<br/>Likes: 328",
+    "url": "https://huggingface.co/datasets/Idavidrein/gpqa",
+    "published_date": "2026-01-04T21:19:41.810490+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Idavidrein",
+      "item_name": "gpqa",
+      "downloads": 66157,
+      "likes": 328,
+      "last_modified": "2024-03-28T21:38:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "18bb04ca5763df48674fece19322c3b3",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Gourieff/ReActor",
+    "description": "Downloads: 173,324<br/>Likes: 223",
+    "url": "https://huggingface.co/datasets/Gourieff/ReActor",
+    "published_date": "2026-01-04T21:19:41.810496+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Gourieff",
+      "item_name": "ReActor",
+      "downloads": 173324,
+      "likes": 223,
+      "last_modified": "2025-03-23T18:44:36.000Z",
       "all_tags": []
     }
   },
@@ -114,7 +186,7 @@
     "title": "HiDream-ai/ReCo-Data",
     "description": "Downloads: 7,085<br/>Likes: 81",
     "url": "https://huggingface.co/datasets/HiDream-ai/ReCo-Data",
-    "published_date": "2026-01-04T09:23:55.925865+00:00",
+    "published_date": "2026-01-04T21:19:41.810502+00:00",
     "categories": [],
     "metadata": {
       "author": "HiDream-ai",
@@ -126,38 +198,56 @@
     }
   },
   {
-    "id": "358e5b9f7719d40d93954e777985856d",
+    "id": "235f57db42d50ffea20e30873a647243",
     "source": "huggingface",
     "type": "dataset",
-    "title": "llm-jp/jhle",
-    "description": "Downloads: 88<br/>Likes: 66",
-    "url": "https://huggingface.co/datasets/llm-jp/jhle",
-    "published_date": "2026-01-04T09:23:55.925870+00:00",
+    "title": "Lewandofski/OpenVE-3M",
+    "description": "Downloads: 4,213<br/>Likes: 66",
+    "url": "https://huggingface.co/datasets/Lewandofski/OpenVE-3M",
+    "published_date": "2026-01-04T21:19:41.810507+00:00",
     "categories": [],
     "metadata": {
-      "author": "llm-jp",
-      "item_name": "jhle",
-      "downloads": 88,
+      "author": "Lewandofski",
+      "item_name": "OpenVE-3M",
+      "downloads": 4213,
       "likes": 66,
-      "last_modified": "2025-10-06T09:19:42.000Z",
+      "last_modified": "2025-12-25T16:44:15.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e3d688f00cd0714f9516857b954eaaac",
+    "id": "b61a3fc79d36005671a9d522679d80f8",
     "source": "huggingface",
     "type": "dataset",
-    "title": "Anthropic/hh-rlhf",
-    "description": "Downloads: 22,823<br/>Likes: 1582",
-    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
-    "published_date": "2026-01-04T09:23:55.925875+00:00",
+    "title": "MLCommons/peoples_speech",
+    "description": "Downloads: 14,280<br/>Likes: 230",
+    "url": "https://huggingface.co/datasets/MLCommons/peoples_speech",
+    "published_date": "2026-01-04T21:19:41.810513+00:00",
     "categories": [],
     "metadata": {
-      "author": "Anthropic",
-      "item_name": "hh-rlhf",
-      "downloads": 22823,
-      "likes": 1582,
-      "last_modified": "2023-05-26T18:47:34.000Z",
+      "author": "MLCommons",
+      "item_name": "peoples_speech",
+      "downloads": 14280,
+      "likes": 230,
+      "last_modified": "2024-11-20T15:17:45.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "50a7023c12e07d3474a842d0079d46b5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Mxode/Chinese-Instruct",
+    "description": "Downloads: 886<br/>Likes: 132",
+    "url": "https://huggingface.co/datasets/Mxode/Chinese-Instruct",
+    "published_date": "2026-01-04T21:19:41.810526+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Mxode",
+      "item_name": "Chinese-Instruct",
+      "downloads": 886,
+      "likes": 132,
+      "last_modified": "2025-05-09T07:05:01.000Z",
       "all_tags": []
     }
   },
@@ -168,7 +258,7 @@
     "title": "lirang04/GroundingME",
     "description": "Downloads: 373<br/>Likes: 72",
     "url": "https://huggingface.co/datasets/lirang04/GroundingME",
-    "published_date": "2026-01-04T09:23:55.925880+00:00",
+    "published_date": "2026-01-04T21:19:41.810532+00:00",
     "categories": [],
     "metadata": {
       "author": "lirang04",
@@ -180,121 +270,13 @@
     }
   },
   {
-    "id": "144aed871374416a7dd6d60de2c49ddf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Idavidrein/gpqa",
-    "description": "Downloads: 66,157<br/>Likes: 325",
-    "url": "https://huggingface.co/datasets/Idavidrein/gpqa",
-    "published_date": "2026-01-04T09:23:55.925884+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Idavidrein",
-      "item_name": "gpqa",
-      "downloads": 66157,
-      "likes": 325,
-      "last_modified": "2024-03-28T21:38:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "18bb04ca5763df48674fece19322c3b3",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Gourieff/ReActor",
-    "description": "Downloads: 173,324<br/>Likes: 221",
-    "url": "https://huggingface.co/datasets/Gourieff/ReActor",
-    "published_date": "2026-01-04T09:23:55.925888+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Gourieff",
-      "item_name": "ReActor",
-      "downloads": 173324,
-      "likes": 221,
-      "last_modified": "2025-03-23T18:44:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "235f57db42d50ffea20e30873a647243",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Lewandofski/OpenVE-3M",
-    "description": "Downloads: 4,213<br/>Likes: 64",
-    "url": "https://huggingface.co/datasets/Lewandofski/OpenVE-3M",
-    "published_date": "2026-01-04T09:23:55.925893+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Lewandofski",
-      "item_name": "OpenVE-3M",
-      "downloads": 4213,
-      "likes": 64,
-      "last_modified": "2025-12-25T16:44:15.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "384c4987d529b54a5332482b12faf7cf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "cais/hle",
-    "description": "Downloads: 19,847<br/>Likes: 645",
-    "url": "https://huggingface.co/datasets/cais/hle",
-    "published_date": "2026-01-04T09:23:55.925900+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "cais",
-      "item_name": "hle",
-      "downloads": 19847,
-      "likes": 645,
-      "last_modified": "2025-09-10T19:27:11.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b61a3fc79d36005671a9d522679d80f8",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "MLCommons/peoples_speech",
-    "description": "Downloads: 14,280<br/>Likes: 228",
-    "url": "https://huggingface.co/datasets/MLCommons/peoples_speech",
-    "published_date": "2026-01-04T09:23:55.925904+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "MLCommons",
-      "item_name": "peoples_speech",
-      "downloads": 14280,
-      "likes": 228,
-      "last_modified": "2024-11-20T15:17:45.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "50a7023c12e07d3474a842d0079d46b5",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Mxode/Chinese-Instruct",
-    "description": "Downloads: 886<br/>Likes: 129",
-    "url": "https://huggingface.co/datasets/Mxode/Chinese-Instruct",
-    "published_date": "2026-01-04T09:23:55.925908+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Mxode",
-      "item_name": "Chinese-Instruct",
-      "downloads": 886,
-      "likes": 129,
-      "last_modified": "2025-05-09T07:05:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "3f1c29390e0e47327637e297441c462e",
     "source": "huggingface",
     "type": "dataset",
     "title": "roneneldan/TinyStories",
     "description": "Downloads: 61,733<br/>Likes: 862",
     "url": "https://huggingface.co/datasets/roneneldan/TinyStories",
-    "published_date": "2026-01-04T09:23:55.925912+00:00",
+    "published_date": "2026-01-04T21:19:41.810537+00:00",
     "categories": [],
     "metadata": {
       "author": "roneneldan",
@@ -306,31 +288,13 @@
     }
   },
   {
-    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
-    "description": "Downloads: 4,861<br/>Likes: 1035",
-    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
-    "published_date": "2026-01-04T09:23:55.925917+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FreedomIntelligence",
-      "item_name": "medical-o1-reasoning-SFT",
-      "downloads": 4861,
-      "likes": 1035,
-      "last_modified": "2025-04-22T15:11:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "1d30240582e8de76cd0098f2f259486f",
     "source": "huggingface",
     "type": "dataset",
     "title": "hotpotqa/hotpot_qa",
     "description": "Downloads: 58,847<br/>Likes: 253",
     "url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa",
-    "published_date": "2026-01-04T09:23:55.925922+00:00",
+    "published_date": "2026-01-04T21:19:41.810543+00:00",
     "categories": [],
     "metadata": {
       "author": "hotpotqa",
@@ -342,19 +306,55 @@
     }
   },
   {
+    "id": "384c4987d529b54a5332482b12faf7cf",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "cais/hle",
+    "description": "Downloads: 19,847<br/>Likes: 645",
+    "url": "https://huggingface.co/datasets/cais/hle",
+    "published_date": "2026-01-04T21:19:41.810549+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "cais",
+      "item_name": "hle",
+      "downloads": 19847,
+      "likes": 645,
+      "last_modified": "2025-09-10T19:27:11.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ec0d492fa927ed1b4573b27a2840a2cd",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FreedomIntelligence/medical-o1-reasoning-SFT",
+    "description": "Downloads: 4,861<br/>Likes: 1035",
+    "url": "https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT",
+    "published_date": "2026-01-04T21:19:41.810556+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FreedomIntelligence",
+      "item_name": "medical-o1-reasoning-SFT",
+      "downloads": 4861,
+      "likes": 1035,
+      "last_modified": "2025-04-22T15:11:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "0e8b2d1ab1d0d140854a62233e5b6b88",
     "source": "huggingface",
     "type": "dataset",
     "title": "ILSVRC/imagenet-1k",
-    "description": "Downloads: 63,673<br/>Likes: 695",
+    "description": "Downloads: 63,673<br/>Likes: 696",
     "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
-    "published_date": "2026-01-04T09:23:55.925927+00:00",
+    "published_date": "2026-01-04T21:19:41.810563+00:00",
     "categories": [],
     "metadata": {
       "author": "ILSVRC",
       "item_name": "imagenet-1k",
       "downloads": 63673,
-      "likes": 695,
+      "likes": 696,
       "last_modified": "2025-09-17T04:58:55.000Z",
       "all_tags": []
     }
