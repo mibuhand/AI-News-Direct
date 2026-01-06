@@ -1,10 +1,69 @@
 [
   {
+    "id": "2d9fe809957806c0d1ec27e6e37053aa",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "mHC: Manifold-Constrained Hyper-Connections",
+    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 204<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2512.24880",
+    "external_url": "",
+    "published_date": "2025-12-31T09:16:26.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2512.24880",
+      "upvotes": 204,
+      "github_stars": 0,
+      "github_url": "",
+      "project_url": "",
+      "authors": [
+        "Zhenda Xie",
+        "Yixuan Wei",
+        "Huanqi Cao",
+        "Chenggang Zhao",
+        "Chengqi Deng",
+        "Jiashi Li",
+        "Damai Dai",
+        "Huazuo Gao",
+        "Jiang Chang",
+        "Liang Zhao",
+        "Shangyan Zhou",
+        "Zhean Xu",
+        "Zhengyan Zhang",
+        "Wangding Zeng",
+        "Shengding Hu",
+        "Yuqing Wang",
+        "Jingyang Yuan",
+        "Lean Wang",
+        "Wenfeng Liang"
+      ],
+      "summary": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifying connectivity patterns. While yielding substantial performance gains, this diversification fundamentally compromises the identity mapping property intrinsic to the residual connection, which causes severe training instability and restricted scalability, and additionally incurs notable memory access overhead. To address these challenges, we propose Manifold-Constrained Hyper-Connections (mHC), a general framework that projects the residual connection space of HC onto a specific manifold to restore the identity mapping property, while incorporating rigorous infrastructure optimization to ensure efficiency. Empirical experiments demonstrate that mHC is effective for training at scale, offering tangible performance improvements and superior scalability. We anticipate that mHC, as a flexible and practical extension of HC, will contribute to a deeper understanding of topological architecture design and suggest promising directions for the evolution of foundational models.",
+      "fetch_date": "2026-01-01",
+      "num_comments": 6,
+      "ai_summary": "Manifold-Constrained Hyper-Connections (mHC) stabilize and scale residual connection architectures by restoring identity mapping properties through manifold projection and infrastructure optimization.",
+      "ai_keywords": [
+        "Hyper-Connections (HC)",
+        "Manifold-Constrained Hyper-Connections (mHC)",
+        "residual connections",
+        "residual stream width",
+        "connectivity patterns",
+        "identity mapping property",
+        "training instability",
+        "memory access overhead",
+        "manifold projection",
+        "infrastructure optimization",
+        "scalability"
+      ]
+    }
+  },
+  {
     "id": "adcafb2025f84cc88e13db2e967d246f",
     "source": "huggingface",
     "type": "paper",
     "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 202<br/>GitHub Stars: 2067<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
+    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 202<br/>GitHub Stars: 2073<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16676",
     "external_url": "https://github.com/OpenDCAI/DataFlow",
     "published_date": "2025-12-18T10:46:15.000Z",
@@ -15,7 +74,7 @@
     "metadata": {
       "paper_id": "2512.16676",
       "upvotes": 202,
-      "github_stars": 2067,
+      "github_stars": 2073,
       "github_url": "https://github.com/OpenDCAI/DataFlow",
       "project_url": "https://github.com/OpenDCAI/DataFlow",
       "authors": [
@@ -74,65 +133,6 @@
         "operator synthesis",
         "pipeline planning",
         "iterative verification"
-      ]
-    }
-  },
-  {
-    "id": "2d9fe809957806c0d1ec27e6e37053aa",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "mHC: Manifold-Constrained Hyper-Connections",
-    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 199<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2512.24880",
-    "external_url": "",
-    "published_date": "2025-12-31T09:16:26.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2512.24880",
-      "upvotes": 199,
-      "github_stars": 0,
-      "github_url": "",
-      "project_url": "",
-      "authors": [
-        "Zhenda Xie",
-        "Yixuan Wei",
-        "Huanqi Cao",
-        "Chenggang Zhao",
-        "Chengqi Deng",
-        "Jiashi Li",
-        "Damai Dai",
-        "Huazuo Gao",
-        "Jiang Chang",
-        "Liang Zhao",
-        "Shangyan Zhou",
-        "Zhean Xu",
-        "Zhengyan Zhang",
-        "Wangding Zeng",
-        "Shengding Hu",
-        "Yuqing Wang",
-        "Jingyang Yuan",
-        "Lean Wang",
-        "Wenfeng Liang"
-      ],
-      "summary": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifying connectivity patterns. While yielding substantial performance gains, this diversification fundamentally compromises the identity mapping property intrinsic to the residual connection, which causes severe training instability and restricted scalability, and additionally incurs notable memory access overhead. To address these challenges, we propose Manifold-Constrained Hyper-Connections (mHC), a general framework that projects the residual connection space of HC onto a specific manifold to restore the identity mapping property, while incorporating rigorous infrastructure optimization to ensure efficiency. Empirical experiments demonstrate that mHC is effective for training at scale, offering tangible performance improvements and superior scalability. We anticipate that mHC, as a flexible and practical extension of HC, will contribute to a deeper understanding of topological architecture design and suggest promising directions for the evolution of foundational models.",
-      "fetch_date": "2026-01-01",
-      "num_comments": 6,
-      "ai_summary": "Manifold-Constrained Hyper-Connections (mHC) stabilize and scale residual connection architectures by restoring identity mapping properties through manifold projection and infrastructure optimization.",
-      "ai_keywords": [
-        "Hyper-Connections (HC)",
-        "Manifold-Constrained Hyper-Connections (mHC)",
-        "residual connections",
-        "residual stream width",
-        "connectivity patterns",
-        "identity mapping property",
-        "training instability",
-        "memory access overhead",
-        "manifold projection",
-        "infrastructure optimization",
-        "scalability"
       ]
     }
   },
@@ -252,7 +252,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Memory in the Age of AI Agents",
-    "description": "Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...<br/>Upvotes: 130<br/>GitHub Stars: 681<br/>Authors: Yuyang Hu, Shichun Liu, Yanwei Yue<br/>🔗 <a href=\"https://github.com/Shichun-Liu/Agent-Memory-Paper-List\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.13564\">Hugging Face</a>",
+    "description": "Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...<br/>Upvotes: 130<br/>GitHub Stars: 684<br/>Authors: Yuyang Hu, Shichun Liu, Yanwei Yue<br/>🔗 <a href=\"https://github.com/Shichun-Liu/Agent-Memory-Paper-List\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.13564\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.13564",
     "external_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
     "published_date": "2025-12-15T12:22:34.000Z",
@@ -263,7 +263,7 @@
     "metadata": {
       "paper_id": "2512.13564",
       "upvotes": 130,
-      "github_stars": 681,
+      "github_stars": 684,
       "github_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
       "project_url": "",
       "authors": [
@@ -345,7 +345,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Step-GUI Technical Report",
-    "description": "Recent advances in multimodal large language models unlock unprecedented opportunities for GUI automation. However, a fundamental challenge remains: how to efficiently acquire high-quality training da...<br/>Upvotes: 128<br/>GitHub Stars: 1824<br/>Authors: Haolong Yan, Jia Wang, Xin Huang<br/>🔗 <a href=\"https://github.com/stepfun-ai/gelab-zero\">GitHub</a><br/>🔗 <a href=\"https://opengelab.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.15431\">Hugging Face</a>",
+    "description": "Recent advances in multimodal large language models unlock unprecedented opportunities for GUI automation. However, a fundamental challenge remains: how to efficiently acquire high-quality training da...<br/>Upvotes: 128<br/>GitHub Stars: 1826<br/>Authors: Haolong Yan, Jia Wang, Xin Huang<br/>🔗 <a href=\"https://github.com/stepfun-ai/gelab-zero\">GitHub</a><br/>🔗 <a href=\"https://opengelab.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.15431\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.15431",
     "external_url": "https://github.com/stepfun-ai/gelab-zero",
     "published_date": "2025-12-17T08:26:30.000Z",
@@ -356,7 +356,7 @@
     "metadata": {
       "paper_id": "2512.15431",
       "upvotes": 128,
-      "github_stars": 1824,
+      "github_stars": 1826,
       "github_url": "https://github.com/stepfun-ai/gelab-zero",
       "project_url": "https://opengelab.github.io/",
       "authors": [
@@ -490,7 +490,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance",
-    "description": "We present Wan-Move, a simple and scalable framework that brings motion control to video generative models. Existing motion-controllable methods typically suffer from coarse control granularity and li...<br/>Upvotes: 128<br/>GitHub Stars: 511<br/>Authors: Ruihang Chu, Yefei He, Zhekai Chen<br/>🔗 <a href=\"https://github.com/ali-vilab/Wan-Move\">GitHub</a><br/>🔗 <a href=\"https://wan-move.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.08765\">Hugging Face</a>",
+    "description": "We present Wan-Move, a simple and scalable framework that brings motion control to video generative models. Existing motion-controllable methods typically suffer from coarse control granularity and li...<br/>Upvotes: 128<br/>GitHub Stars: 512<br/>Authors: Ruihang Chu, Yefei He, Zhekai Chen<br/>🔗 <a href=\"https://github.com/ali-vilab/Wan-Move\">GitHub</a><br/>🔗 <a href=\"https://wan-move.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.08765\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.08765",
     "external_url": "https://github.com/ali-vilab/Wan-Move",
     "published_date": "2025-12-09T11:13:55.000Z",
@@ -501,7 +501,7 @@
     "metadata": {
       "paper_id": "2512.08765",
       "upvotes": 128,
-      "github_stars": 511,
+      "github_stars": 512,
       "github_url": "https://github.com/ali-vilab/Wan-Move",
       "project_url": "https://wan-move.github.io/",
       "authors": [
@@ -543,7 +543,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepCode: Open Agentic Coding",
-    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 31<br/>GitHub Stars: 13500<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
+    "description": "Recent advances in large language models (LLMs) have given rise to powerful coding agents, making it possible for code assistants to evolve into code engineers. However, existing methods still face si...<br/>Upvotes: 31<br/>GitHub Stars: 13527<br/>Authors: Zongwei Li, Zhonghang Li, Zirui Guo<br/>🔗 <a href=\"https://github.com/HKUDS/DeepCode\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.07921\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.07921",
     "external_url": "https://github.com/HKUDS/DeepCode",
     "published_date": "2025-12-08T11:07:13.000Z",
@@ -554,7 +554,7 @@
     "metadata": {
       "paper_id": "2512.07921",
       "upvotes": 31,
-      "github_stars": 13500,
+      "github_stars": 13527,
       "github_url": "https://github.com/HKUDS/DeepCode",
       "project_url": "",
       "authors": [
@@ -590,7 +590,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Sharp Monocular View Synthesis in Less Than a Second",
-    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 25<br/>GitHub Stars: 6504<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
+    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 26<br/>GitHub Stars: 6519<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.10685",
     "external_url": "https://github.com/apple/ml-sharp",
     "published_date": "2025-12-11T09:34:11.000Z",
@@ -600,8 +600,8 @@
     ],
     "metadata": {
       "paper_id": "2512.10685",
-      "upvotes": 25,
-      "github_stars": 6504,
+      "upvotes": 26,
+      "github_stars": 6519,
       "github_url": "https://github.com/apple/ml-sharp",
       "project_url": "https://apple.github.io/ml-sharp/",
       "authors": [
@@ -637,11 +637,57 @@
     }
   },
   {
+    "id": "4abe591dec20d02c68570faea169dfcb",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
+    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 96<br/>GitHub Stars: 4119<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2512.24615",
+    "external_url": "https://github.com/TencentCloudADP/youtu-agent",
+    "published_date": "2025-12-30T23:17:36.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2512.24615",
+      "upvotes": 96,
+      "github_stars": 4119,
+      "github_url": "https://github.com/TencentCloudADP/youtu-agent",
+      "project_url": "https://tencentcloudadp.github.io/youtu-agent/",
+      "authors": [
+        "Yuchen Shi",
+        "Yuzheng Cai",
+        "Siqi Cai",
+        "Zihan Xu",
+        "Lichao Chen",
+        "Yulei Qin",
+        "Zhijian Zhou",
+        "Xiang Fei",
+        "Chaofan Qiu",
+        "Xiaoyu Tan",
+        "Gang Li",
+        "Zongyi Li",
+        "Haojia Lin",
+        "Guocan Cai",
+        "Yong Mao",
+        "Yunsheng Wu",
+        "Ke Li",
+        "Xing Sun"
+      ],
+      "summary": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual effort in tool integration and prompt engineering, while deployed agents struggle to adapt to dynamic environments without expensive fine-tuning. To address these issues, we propose Youtu-Agent, a modular framework designed for the automated generation and continuous evolution of LLM agents. Youtu-Agent features a structured configuration system that decouples execution environments, toolkits, and context management, enabling flexible reuse and automated synthesis. We introduce two generation paradigms: a Workflow mode for standard tasks and a Meta-Agent mode for complex, non-standard requirements, capable of automatically generating tool code, prompts, and configurations. Furthermore, Youtu-Agent establishes a hybrid policy optimization system: (1) an Agent Practice module that enables agents to accumulate experience and improve performance through in-context optimization without parameter updates; and (2) an Agent RL module that integrates with distributed training frameworks to enable scalable and stable reinforcement learning of any Youtu-Agents in an end-to-end, large-scale manner. Experiments demonstrate that Youtu-Agent achieves state-of-the-art performance on WebWalkerQA (71.47\\%) and GAIA (72.8\\%) using open-weight models. Our automated generation pipeline achieves over 81\\% tool synthesis success rate, while the Practice module improves performance on AIME 2024/2025 by +2.7\\% and +5.4\\% respectively. Moreover, our Agent RL training achieves 40\\% speedup with steady performance improvement on 7B LLMs, enhancing coding/reasoning and searching capabilities respectively up to 35\\% and 21\\% on Maths and general/multi-hop QA benchmarks.",
+      "fetch_date": "2026-01-05",
+      "num_comments": 3,
+      "ai_summary": "",
+      "ai_keywords": []
+    }
+  },
+  {
     "id": "5bb778f47e493a1d7bcf12aaaec0e25e",
     "source": "huggingface",
     "type": "paper",
     "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
-    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 91<br/>GitHub Stars: 3046<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
+    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 91<br/>GitHub Stars: 3055<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16093",
     "external_url": "https://github.com/thu-ml/TurboDiffusion",
     "published_date": "2025-12-17T21:21:30.000Z",
@@ -652,7 +698,7 @@
     "metadata": {
       "paper_id": "2512.16093",
       "upvotes": 91,
-      "github_stars": 3046,
+      "github_stars": 3055,
       "github_url": "https://github.com/thu-ml/TurboDiffusion",
       "project_url": "https://github.com/thu-ml/TurboDiffusion",
       "authors": [
@@ -685,7 +731,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM Audio: Segment Anything in Audio",
-    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 21<br/>GitHub Stars: 2740<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
+    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 21<br/>GitHub Stars: 2744<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.18099",
     "external_url": "https://github.com/facebookresearch/sam-audio",
     "published_date": "2025-12-19T17:14:23.000Z",
@@ -696,7 +742,7 @@
     "metadata": {
       "paper_id": "2512.18099",
       "upvotes": 21,
-      "github_stars": 2740,
+      "github_stars": 2744,
       "github_url": "https://github.com/facebookresearch/sam-audio",
       "project_url": "https://ai.meta.com/samaudio/",
       "authors": [
