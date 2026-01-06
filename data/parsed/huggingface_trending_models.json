@@ -1,12 +1,32 @@
 [
   {
+    "id": "93d8abd34f30baee63f4e6bb751ab642",
+    "source": "huggingface",
+    "type": "model",
+    "title": "tencent/HY-MT1.5-1.8B",
+    "description": "Type: translation<br/>Downloads: 5,593<br/>Likes: 607",
+    "url": "https://huggingface.co/tencent/HY-MT1.5-1.8B",
+    "published_date": "2026-01-06T21:22:13.992767+00:00",
+    "categories": [
+      "translation"
+    ],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "HY-MT1.5-1.8B",
+      "downloads": 5593,
+      "likes": 607,
+      "last_modified": "2026-01-01T02:35:18.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "16f84f74f0aa3f726aee60df8ee3b8f5",
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen-Image-2512",
-    "description": "Type: text-to-image<br/>Downloads: 14,346<br/>Likes: 465",
+    "description": "Type: text-to-image<br/>Downloads: 14,346<br/>Likes: 488",
     "url": "https://huggingface.co/Qwen/Qwen-Image-2512",
-    "published_date": "2026-01-06T09:31:08.841822+00:00",
+    "published_date": "2026-01-06T21:22:13.992788+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -14,7 +34,7 @@
       "author": "Qwen",
       "item_name": "Qwen-Image-2512",
       "downloads": 14346,
-      "likes": 465,
+      "likes": 488,
       "last_modified": "2025-12-31T09:47:56.000Z",
       "all_tags": []
     }
@@ -24,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "LGAI-EXAONE/K-EXAONE-236B-A23B",
-    "description": "Type: text-generation<br/>Downloads: 2,057<br/>Likes: 379",
+    "description": "Type: text-generation<br/>Downloads: 2,057<br/>Likes: 394",
     "url": "https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B",
-    "published_date": "2026-01-06T09:31:08.841842+00:00",
+    "published_date": "2026-01-06T21:22:13.992799+00:00",
     "categories": [
       "text-generation"
     ],
@@ -34,128 +54,8 @@
       "author": "LGAI-EXAONE",
       "item_name": "K-EXAONE-236B-A23B",
       "downloads": 2057,
-      "likes": 379,
+      "likes": 394,
       "last_modified": "2026-01-06T02:23:45.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8d6f96b381d29cb91a27bd3e87fc74c9",
-    "source": "huggingface",
-    "type": "model",
-    "title": "MiniMaxAI/MiniMax-M2.1",
-    "description": "Type: text-generation<br/>Downloads: 196,953<br/>Likes: 878",
-    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.1",
-    "published_date": "2026-01-06T09:31:08.841850+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "MiniMax-M2.1",
-      "downloads": 196953,
-      "likes": 878,
-      "last_modified": "2025-12-27T17:53:02.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "93d8abd34f30baee63f4e6bb751ab642",
-    "source": "huggingface",
-    "type": "model",
-    "title": "tencent/HY-MT1.5-1.8B",
-    "description": "Type: translation<br/>Downloads: 5,593<br/>Likes: 312",
-    "url": "https://huggingface.co/tencent/HY-MT1.5-1.8B",
-    "published_date": "2026-01-06T09:31:08.841855+00:00",
-    "categories": [
-      "translation"
-    ],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "HY-MT1.5-1.8B",
-      "downloads": 5593,
-      "likes": 312,
-      "last_modified": "2026-01-01T02:35:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a750bbdae1b5a2e28285614bcb9f613f",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-4.7",
-    "description": "Type: text-generation<br/>Downloads: 33,515<br/>Likes: 1474",
-    "url": "https://huggingface.co/zai-org/GLM-4.7",
-    "published_date": "2026-01-06T09:31:08.841861+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-4.7",
-      "downloads": 33515,
-      "likes": 1474,
-      "last_modified": "2025-12-23T09:41:14.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6ac5733caa26eab7cf8f816b909a7485",
-    "source": "huggingface",
-    "type": "model",
-    "title": "tencent/WeDLM-8B-Instruct",
-    "description": "Type: text-generation<br/>Downloads: 2,183<br/>Likes: 279",
-    "url": "https://huggingface.co/tencent/WeDLM-8B-Instruct",
-    "published_date": "2026-01-06T09:31:08.841869+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "WeDLM-8B-Instruct",
-      "downloads": 2183,
-      "likes": 279,
-      "last_modified": "2026-01-01T02:00:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c164c2653b5463a03402520b8626b090",
-    "source": "huggingface",
-    "type": "model",
-    "title": "tencent/HY-Motion-1.0",
-    "description": "Type: text-to-3d<br/>Downloads: 497<br/>Likes: 269",
-    "url": "https://huggingface.co/tencent/HY-Motion-1.0",
-    "published_date": "2026-01-06T09:31:08.841873+00:00",
-    "categories": [
-      "text-to-3d"
-    ],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "HY-Motion-1.0",
-      "downloads": 497,
-      "likes": 269,
-      "last_modified": "2025-12-31T10:31:37.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "02b2e4ee6bfdf7ecafe2cd6bb63706c7",
-    "source": "huggingface",
-    "type": "model",
-    "title": "fal/FLUX.2-dev-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 7,888<br/>Likes: 242",
-    "url": "https://huggingface.co/fal/FLUX.2-dev-Turbo",
-    "published_date": "2026-01-06T09:31:08.841879+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "fal",
-      "item_name": "FLUX.2-dev-Turbo",
-      "downloads": 7888,
-      "likes": 242,
-      "last_modified": "2025-12-30T08:23:00.000Z",
       "all_tags": []
     }
   },
@@ -164,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct",
-    "description": "Type: text-generation<br/>Downloads: 5,200<br/>Likes: 242",
+    "description": "Type: text-generation<br/>Downloads: 5,200<br/>Likes: 253",
     "url": "https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct",
-    "published_date": "2026-01-06T09:31:08.841886+00:00",
+    "published_date": "2026-01-06T21:22:13.992805+00:00",
     "categories": [
       "text-generation"
     ],
@@ -174,8 +74,68 @@
       "author": "IQuestLab",
       "item_name": "IQuest-Coder-V1-40B-Loop-Instruct",
       "downloads": 5200,
-      "likes": 242,
+      "likes": 253,
       "last_modified": "2026-01-03T02:34:37.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c164c2653b5463a03402520b8626b090",
+    "source": "huggingface",
+    "type": "model",
+    "title": "tencent/HY-Motion-1.0",
+    "description": "Type: text-to-3d<br/>Downloads: 497<br/>Likes: 278",
+    "url": "https://huggingface.co/tencent/HY-Motion-1.0",
+    "published_date": "2026-01-06T21:22:13.992813+00:00",
+    "categories": [
+      "text-to-3d"
+    ],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "HY-Motion-1.0",
+      "downloads": 497,
+      "likes": 278,
+      "last_modified": "2025-12-31T10:31:37.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8d6f96b381d29cb91a27bd3e87fc74c9",
+    "source": "huggingface",
+    "type": "model",
+    "title": "MiniMaxAI/MiniMax-M2.1",
+    "description": "Type: text-generation<br/>Downloads: 196,953<br/>Likes: 896",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.1",
+    "published_date": "2026-01-06T21:22:13.992819+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "MiniMaxAI",
+      "item_name": "MiniMax-M2.1",
+      "downloads": 196953,
+      "likes": 896,
+      "last_modified": "2025-12-27T17:53:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a750bbdae1b5a2e28285614bcb9f613f",
+    "source": "huggingface",
+    "type": "model",
+    "title": "zai-org/GLM-4.7",
+    "description": "Type: text-generation<br/>Downloads: 33,515<br/>Likes: 1480",
+    "url": "https://huggingface.co/zai-org/GLM-4.7",
+    "published_date": "2026-01-06T21:22:13.992824+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "GLM-4.7",
+      "downloads": 33515,
+      "likes": 1480,
+      "last_modified": "2025-12-23T09:41:14.000Z",
       "all_tags": []
     }
   },
@@ -184,9 +144,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "IQuestLab/IQuest-Coder-V1-40B-Instruct",
-    "description": "Type: text-generation<br/>Downloads: 3,613<br/>Likes: 226",
+    "description": "Type: text-generation<br/>Downloads: 3,613<br/>Likes: 233",
     "url": "https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct",
-    "published_date": "2026-01-06T09:31:08.841891+00:00",
+    "published_date": "2026-01-06T21:22:13.992829+00:00",
     "categories": [
       "text-generation"
     ],
@@ -194,7 +154,7 @@
       "author": "IQuestLab",
       "item_name": "IQuest-Coder-V1-40B-Instruct",
       "downloads": 3613,
-      "likes": 226,
+      "likes": 233,
       "last_modified": "2026-01-03T02:31:30.000Z",
       "all_tags": []
     }
@@ -204,9 +164,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen-Image-2512-GGUF",
-    "description": "Type: text-to-image<br/>Downloads: 72,638<br/>Likes: 210",
+    "description": "Type: text-to-image<br/>Downloads: 72,638<br/>Likes: 217",
     "url": "https://huggingface.co/unsloth/Qwen-Image-2512-GGUF",
-    "published_date": "2026-01-06T09:31:08.841896+00:00",
+    "published_date": "2026-01-06T21:22:13.992835+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -214,7 +174,7 @@
       "author": "unsloth",
       "item_name": "Qwen-Image-2512-GGUF",
       "downloads": 72638,
-      "likes": 210,
+      "likes": 217,
       "last_modified": "2026-01-02T05:58:35.000Z",
       "all_tags": []
     }
@@ -224,9 +184,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "upstage/Solar-Open-100B",
-    "description": "Type: text-generation<br/>Downloads: 1,867<br/>Likes: 354",
+    "description": "Type: text-generation<br/>Downloads: 1,867<br/>Likes: 361",
     "url": "https://huggingface.co/upstage/Solar-Open-100B",
-    "published_date": "2026-01-06T09:31:08.841903+00:00",
+    "published_date": "2026-01-06T21:22:13.992840+00:00",
     "categories": [
       "text-generation"
     ],
@@ -234,86 +194,68 @@
       "author": "upstage",
       "item_name": "Solar-Open-100B",
       "downloads": 1867,
-      "likes": 354,
+      "likes": 361,
       "last_modified": "2026-01-05T23:05:21.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "140474f622f23b6524a0b9c4beffda83",
+    "id": "2e091acd385e80e05d2100ed25365742",
     "source": "huggingface",
     "type": "model",
-    "title": "lilylilith/AnyPose",
-    "description": "Type: image-to-image<br/>Downloads: 22,461<br/>Likes: 308",
-    "url": "https://huggingface.co/lilylilith/AnyPose",
-    "published_date": "2026-01-06T09:31:08.841908+00:00",
+    "title": "Lightricks/LTX-2",
+    "description": "Type: image-to-video<br/>Downloads: 107<br/>Likes: 190",
+    "url": "https://huggingface.co/Lightricks/LTX-2",
+    "published_date": "2026-01-06T21:22:13.992845+00:00",
     "categories": [
-      "image-to-image"
+      "image-to-video"
     ],
     "metadata": {
-      "author": "lilylilith",
-      "item_name": "AnyPose",
-      "downloads": 22461,
-      "likes": 308,
-      "last_modified": "2026-01-02T18:22:54.000Z",
+      "author": "Lightricks",
+      "item_name": "LTX-2",
+      "downloads": 107,
+      "likes": 190,
+      "last_modified": "2026-01-06T08:00:48.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e7f8c4200caac1e73e317b7b7b639b79",
+    "id": "6ac5733caa26eab7cf8f816b909a7485",
     "source": "huggingface",
     "type": "model",
-    "title": "inclusionAI/TwinFlow-Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 353<br/>Likes: 183",
-    "url": "https://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo",
-    "published_date": "2026-01-06T09:31:08.841913+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "inclusionAI",
-      "item_name": "TwinFlow-Z-Image-Turbo",
-      "downloads": 353,
-      "likes": 183,
-      "last_modified": "2025-12-29T05:02:45.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b0e6c4cdd71a4e6ce875ec1ec9b83ecc",
-    "source": "huggingface",
-    "type": "model",
-    "title": "skt/A.X-K1",
-    "description": "Type: text-generation<br/>Downloads: 447<br/>Likes: 169",
-    "url": "https://huggingface.co/skt/A.X-K1",
-    "published_date": "2026-01-06T09:31:08.841918+00:00",
+    "title": "tencent/WeDLM-8B-Instruct",
+    "description": "Type: text-generation<br/>Downloads: 2,183<br/>Likes: 281",
+    "url": "https://huggingface.co/tencent/WeDLM-8B-Instruct",
+    "published_date": "2026-01-06T21:22:13.992852+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "skt",
-      "item_name": "A.X-K1",
-      "downloads": 447,
-      "likes": 169,
-      "last_modified": "2026-01-05T07:26:21.000Z",
+      "author": "tencent",
+      "item_name": "WeDLM-8B-Instruct",
+      "downloads": 2183,
+      "likes": 281,
+      "last_modified": "2026-01-01T02:00:03.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "ac9a4e8e644d78411a29d270d78923b9",
+    "id": "02b2e4ee6bfdf7ecafe2cd6bb63706c7",
     "source": "huggingface",
     "type": "model",
-    "title": "allura-forge/Llama-3.3-8B-Instruct",
-    "description": "Downloads: 2,043<br/>Likes: 165",
-    "url": "https://huggingface.co/allura-forge/Llama-3.3-8B-Instruct",
-    "published_date": "2026-01-06T09:31:08.841923+00:00",
-    "categories": [],
+    "title": "fal/FLUX.2-dev-Turbo",
+    "description": "Type: text-to-image<br/>Downloads: 7,888<br/>Likes: 247",
+    "url": "https://huggingface.co/fal/FLUX.2-dev-Turbo",
+    "published_date": "2026-01-06T21:22:13.992857+00:00",
+    "categories": [
+      "text-to-image"
+    ],
     "metadata": {
-      "author": "allura-forge",
-      "item_name": "Llama-3.3-8B-Instruct",
-      "downloads": 2043,
-      "likes": 165,
-      "last_modified": "2025-12-31T08:22:19.000Z",
+      "author": "fal",
+      "item_name": "FLUX.2-dev-Turbo",
+      "downloads": 7888,
+      "likes": 247,
+      "last_modified": "2025-12-30T08:23:00.000Z",
       "all_tags": []
     }
   },
@@ -322,9 +264,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/Youtu-LLM-2B",
-    "description": "Type: text-generation<br/>Downloads: 1,379<br/>Likes: 146",
+    "description": "Type: text-generation<br/>Downloads: 1,379<br/>Likes: 159",
     "url": "https://huggingface.co/tencent/Youtu-LLM-2B",
-    "published_date": "2026-01-06T09:31:08.841928+00:00",
+    "published_date": "2026-01-06T21:22:13.992861+00:00",
     "categories": [
       "text-generation"
     ],
@@ -332,7 +274,7 @@
       "author": "tencent",
       "item_name": "Youtu-LLM-2B",
       "downloads": 1379,
-      "likes": 146,
+      "likes": 159,
       "last_modified": "2026-01-06T03:09:17.000Z",
       "all_tags": []
     }
@@ -342,9 +284,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Wuli-art/Qwen-Image-2512-Turbo-LoRA",
-    "description": "Type: text-to-image<br/>Downloads: 16,724<br/>Likes: 142",
+    "description": "Type: text-to-image<br/>Downloads: 16,724<br/>Likes: 144",
     "url": "https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA",
-    "published_date": "2026-01-06T09:31:08.841932+00:00",
+    "published_date": "2026-01-06T21:22:13.992866+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -352,46 +294,106 @@
       "author": "Wuli-art",
       "item_name": "Qwen-Image-2512-Turbo-LoRA",
       "downloads": 16724,
-      "likes": 142,
+      "likes": 144,
       "last_modified": "2026-01-04T12:45:10.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "ffc30f051bd10aade6c2f7c04d40d5ab",
+    "id": "b0e6c4cdd71a4e6ce875ec1ec9b83ecc",
     "source": "huggingface",
     "type": "model",
-    "title": "Tongyi-MAI/MAI-UI-8B",
-    "description": "Downloads: 1,288<br/>Likes: 144",
-    "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B",
-    "published_date": "2026-01-06T09:31:08.841939+00:00",
-    "categories": [],
+    "title": "skt/A.X-K1",
+    "description": "Type: text-generation<br/>Downloads: 447<br/>Likes: 172",
+    "url": "https://huggingface.co/skt/A.X-K1",
+    "published_date": "2026-01-06T21:22:13.992870+00:00",
+    "categories": [
+      "text-generation"
+    ],
     "metadata": {
-      "author": "Tongyi-MAI",
-      "item_name": "MAI-UI-8B",
-      "downloads": 1288,
-      "likes": 144,
-      "last_modified": "2025-12-29T04:18:11.000Z",
+      "author": "skt",
+      "item_name": "A.X-K1",
+      "downloads": 447,
+      "likes": 172,
+      "last_modified": "2026-01-05T07:26:21.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "8d55e80b474fffd4015ff42a74e363ba",
+    "id": "ac9a4e8e644d78411a29d270d78923b9",
     "source": "huggingface",
     "type": "model",
-    "title": "ekwek/Soprano-80M",
-    "description": "Type: text-to-speech<br/>Downloads: 5,415<br/>Likes: 251",
-    "url": "https://huggingface.co/ekwek/Soprano-80M",
-    "published_date": "2026-01-06T09:31:08.841944+00:00",
+    "title": "allura-forge/Llama-3.3-8B-Instruct",
+    "description": "Downloads: 2,043<br/>Likes: 168",
+    "url": "https://huggingface.co/allura-forge/Llama-3.3-8B-Instruct",
+    "published_date": "2026-01-06T21:22:13.992875+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "allura-forge",
+      "item_name": "Llama-3.3-8B-Instruct",
+      "downloads": 2043,
+      "likes": 168,
+      "last_modified": "2025-12-31T08:22:19.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "140474f622f23b6524a0b9c4beffda83",
+    "source": "huggingface",
+    "type": "model",
+    "title": "lilylilith/AnyPose",
+    "description": "Type: image-to-image<br/>Downloads: 22,461<br/>Likes: 317",
+    "url": "https://huggingface.co/lilylilith/AnyPose",
+    "published_date": "2026-01-06T21:22:13.992880+00:00",
     "categories": [
-      "text-to-speech"
+      "image-to-image"
     ],
     "metadata": {
-      "author": "ekwek",
-      "item_name": "Soprano-80M",
-      "downloads": 5415,
-      "likes": 251,
-      "last_modified": "2025-12-22T02:40:22.000Z",
+      "author": "lilylilith",
+      "item_name": "AnyPose",
+      "downloads": 22461,
+      "likes": 317,
+      "last_modified": "2026-01-02T18:22:54.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e7f8c4200caac1e73e317b7b7b639b79",
+    "source": "huggingface",
+    "type": "model",
+    "title": "inclusionAI/TwinFlow-Z-Image-Turbo",
+    "description": "Type: text-to-image<br/>Downloads: 353<br/>Likes: 186",
+    "url": "https://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo",
+    "published_date": "2026-01-06T21:22:13.992884+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "inclusionAI",
+      "item_name": "TwinFlow-Z-Image-Turbo",
+      "downloads": 353,
+      "likes": 186,
+      "last_modified": "2025-12-29T05:02:45.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4e298dde72ee3e157cefb1ecfc576c19",
+    "source": "huggingface",
+    "type": "model",
+    "title": "lightx2v/Qwen-Image-2512-Lightning",
+    "description": "Type: text-to-image<br/>Downloads: 42,790<br/>Likes: 117",
+    "url": "https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning",
+    "published_date": "2026-01-06T21:22:13.992889+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "lightx2v",
+      "item_name": "Qwen-Image-2512-Lightning",
+      "downloads": 42790,
+      "likes": 117,
+      "last_modified": "2026-01-06T13:42:31.000Z",
       "all_tags": []
     }
   }
