@@ -1,23 +1,5 @@
 [
   {
-    "id": "7c7954e034918e4692b450bee3ef1f8d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "It's hard to justify Tahoe icons",
-    "description": "",
-    "url": "https://tonsky.me/blog/tahoe-icons/",
-    "published_date": "2026-01-05T11:51:42+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 2427,
-      "author": "lylejantzi3rd",
-      "comments": 937,
-      "hn_id": 46497712
-    },
-    "objects": []
-  },
-  {
     "id": "8d5e9b7fd63a11dec4d1779b6d4857b9",
     "source": "hackernews",
     "type": "story",
@@ -28,9 +10,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1302,
+      "score": 1532,
       "author": "hoherd",
-      "comments": 670,
+      "comments": 785,
       "hn_id": 46514677
     },
     "objects": []
@@ -46,9 +28,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1103,
+      "score": 1147,
       "author": "DavidSJ",
-      "comments": 210,
+      "comments": 216,
       "hn_id": 46509211
     },
     "objects": []
@@ -64,46 +46,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 915,
+      "score": 927,
       "author": "illithid0",
-      "comments": 415,
+      "comments": 428,
       "hn_id": 46504963
-    },
-    "objects": []
-  },
-  {
-    "id": "63c4426ac7e77d97fb86b09ff10eef91",
-    "source": "hackernews",
-    "type": "story",
-    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-    "description": "",
-    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-    "published_date": "2026-01-06T11:42:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 699,
-      "author": "Brajeshwar",
-      "comments": 454,
-      "hn_id": 46511153
-    },
-    "objects": []
-  },
-  {
-    "id": "2d2f5fda48e9fe1cd10d52c58cd8ec25",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Anna's Archive loses .org domain after surprise suspension",
-    "description": "",
-    "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
-    "published_date": "2026-01-05T10:23:32+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 662,
-      "author": "CTOSian",
-      "comments": 351,
-      "hn_id": 46497164
     },
     "objects": []
   },
@@ -118,10 +64,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 542,
+      "score": 797,
       "author": "tbassetto",
-      "comments": 737,
+      "comments": 1209,
       "hn_id": 46515696
+    },
+    "objects": []
+  },
+  {
+    "id": "63c4426ac7e77d97fb86b09ff10eef91",
+    "source": "hackernews",
+    "type": "story",
+    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+    "description": "",
+    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+    "published_date": "2026-01-06T11:42:35+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 725,
+      "author": "Brajeshwar",
+      "comments": 465,
+      "hn_id": 46511153
+    },
+    "objects": []
+  },
+  {
+    "id": "01061dab7a8a0439b140fa20b54c2c9e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Creators of Tailwind laid off 75% of their engineering team",
+    "description": "",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+    "published_date": "2026-01-07T16:02:19+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 708,
+      "author": "kevlened",
+      "comments": 438,
+      "hn_id": 46527950
     },
     "objects": []
   },
@@ -136,118 +118,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 540,
+      "score": 556,
       "author": "EvanAnderson",
-      "comments": 413,
+      "comments": 423,
       "hn_id": 46509019
-    },
-    "objects": []
-  },
-  {
-    "id": "1c113aa02c9ead72b2d4030b6ae1300b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Google broke my heart",
-    "description": "",
-    "url": "https://perishablepress.com/google-broke-my-heart/",
-    "published_date": "2026-01-05T21:52:22+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 529,
-      "author": "ingve",
-      "comments": 276,
-      "hn_id": 46505518
-    },
-    "objects": []
-  },
-  {
-    "id": "4446405f859a4b807b34cd6f760afeee",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
-    "description": "",
-    "url": "https://brave.com/privacy-updates/36-adblock-memory-reduction/",
-    "published_date": "2026-01-05T17:34:33+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 493,
-      "author": "skaul",
-      "comments": 266,
-      "hn_id": 46501894
-    },
-    "objects": []
-  },
-  {
-    "id": "14ba38625dabb730411feb9ec951bb93",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
-    "description": "",
-    "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
-    "published_date": "2026-01-05T15:34:40+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 493,
-      "author": "randycupertino",
-      "comments": 290,
-      "hn_id": 46499983
-    },
-    "objects": []
-  },
-  {
-    "id": "31df0146f3e7c937ef74e4cceb4ca708",
-    "source": "hackernews",
-    "type": "story",
-    "title": "65% of Hacker News posts have negative sentiment, and they outperform",
-    "description": "",
-    "url": "https://philippdubach.com/standalone/hn-sentiment/",
-    "published_date": "2026-01-06T14:45:47+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 470,
-      "author": "7777777phil",
-      "comments": 440,
-      "hn_id": 46512881
-    },
-    "objects": []
-  },
-  {
-    "id": "00a9d722a4eda5e2934faed5a4b967df",
-    "source": "hackernews",
-    "type": "story",
-    "title": "RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids?",
-    "description": "",
-    "url": "https://news.ycombinator.com/item?id=46499976",
-    "published_date": "2026-01-05T15:34:14+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 447,
-      "author": "red-polygon",
-      "comments": 83,
-      "hn_id": 46499976
-    },
-    "objects": []
-  },
-  {
-    "id": "9d97e5fb8fe555e9e2093b530d4b1ef5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "I switched from VSCode to Zed",
-    "description": "",
-    "url": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
-    "published_date": "2026-01-05T13:52:17+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 447,
-      "author": "r4victor",
-      "comments": 402,
-      "hn_id": 46498735
     },
     "objects": []
   },
@@ -262,10 +136,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 418,
+      "score": 547,
       "author": "rbergamini27",
-      "comments": 297,
+      "comments": 382,
       "hn_id": 46517458
+    },
+    "objects": []
+  },
+  {
+    "id": "1c113aa02c9ead72b2d4030b6ae1300b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Google broke my heart",
+    "description": "",
+    "url": "https://perishablepress.com/google-broke-my-heart/",
+    "published_date": "2026-01-05T21:52:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 534,
+      "author": "ingve",
+      "comments": 282,
+      "hn_id": 46505518
+    },
+    "objects": []
+  },
+  {
+    "id": "812ae322779a03a2c9d67c42a8b878ea",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+    "description": "",
+    "url": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+    "published_date": "2026-01-07T14:29:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 501,
+      "author": "aldarion",
+      "comments": 319,
+      "hn_id": 46526740
+    },
+    "objects": []
+  },
+  {
+    "id": "31df0146f3e7c937ef74e4cceb4ca708",
+    "source": "hackernews",
+    "type": "story",
+    "title": "65% of Hacker News posts have negative sentiment, and they outperform",
+    "description": "",
+    "url": "https://philippdubach.com/standalone/hn-sentiment/",
+    "published_date": "2026-01-06T14:45:47+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 483,
+      "author": "7777777phil",
+      "comments": 454,
+      "hn_id": 46512881
     },
     "objects": []
   },
@@ -280,9 +208,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 393,
+      "score": 425,
       "author": "thefilmore",
-      "comments": 350,
+      "comments": 379,
       "hn_id": 46514692
     },
     "objects": []
@@ -298,28 +226,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 380,
+      "score": 395,
       "author": "alexpadula",
-      "comments": 501,
+      "comments": 531,
       "hn_id": 46511470
-    },
-    "objects": []
-  },
-  {
-    "id": "2fd178e8591c9dfed2c5fbe4feb70089",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
-    "description": "",
-    "url": "https://blgardner.github.io/prism.tools/",
-    "published_date": "2026-01-06T12:33:49+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 353,
-      "author": "BLGardner",
-      "comments": 98,
-      "hn_id": 46511469
     },
     "objects": []
   },
@@ -334,172 +244,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 347,
+      "score": 373,
       "author": "stephc_int13",
-      "comments": 32,
+      "comments": 45,
       "hn_id": 46514913
     },
     "objects": []
   },
   {
-    "id": "39513c3f60be6016b285aa02da3591ae",
+    "id": "2fd178e8591c9dfed2c5fbe4feb70089",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: DoNotNotify – Log and intelligently block notifications on Android",
+    "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
     "description": "",
-    "url": "https://donotnotify.com/",
-    "published_date": "2026-01-05T15:10:47+00:00",
+    "url": "https://blgardner.github.io/prism.tools/",
+    "published_date": "2026-01-06T12:33:49+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 334,
-      "author": "awaaz",
-      "comments": 158,
-      "hn_id": 46499646
-    },
-    "objects": []
-  },
-  {
-    "id": "b833c88c5bda0a4bf08f7a99a1aaed94",
-    "source": "hackernews",
-    "type": "story",
-    "title": "X blames users for Grok-generated CSAM; no fixes announced",
-    "description": "",
-    "url": "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/",
-    "published_date": "2026-01-05T19:07:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 325,
-      "author": "voxadam",
-      "comments": 568,
-      "hn_id": 46503199
-    },
-    "objects": []
-  },
-  {
-    "id": "80cbebe6874739f7483fe517e02578fd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "All AI Videos Are Harmful (2025)",
-    "description": "",
-    "url": "https://idiallo.com/blog/all-ai-videos-are-harmful",
-    "published_date": "2026-01-05T13:44:59+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 313,
-      "author": "Brajeshwar",
-      "comments": 320,
-      "hn_id": 46498651
-    },
-    "objects": []
-  },
-  {
-    "id": "a267746dbf677e44bf6fac9447876593",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Jensen: 'We've done our country a great disservice' by offshoring",
-    "description": "",
-    "url": "https://www.barchart.com/story/news/36862423/weve-done-our-country-a-great-disservice-by-offshoring-nvidias-jensen-huang-says-we-have-to-create-prosperity-for-all-not-just-phds",
-    "published_date": "2026-01-05T13:02:52+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 274,
-      "author": "alecco",
-      "comments": 503,
-      "hn_id": 46498309
-    },
-    "objects": []
-  },
-  {
-    "id": "73197a10bc9eb559ee7cab77b9c559a9",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Tailsnitch – A security auditor for Tailscale",
-    "description": "",
-    "url": "https://github.com/Adversis/tailsnitch",
-    "published_date": "2026-01-05T16:47:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 268,
-      "author": "thesubtlety",
-      "comments": 28,
-      "hn_id": 46501137
-    },
-    "objects": []
-  },
-  {
-    "id": "b8791659957f39b429ed9333ea298c71",
-    "source": "hackernews",
-    "type": "story",
-    "title": "I/O is no longer the bottleneck? (2022)",
-    "description": "",
-    "url": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-    "published_date": "2026-01-06T00:02:18+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 256,
-      "author": "benhoyt",
-      "comments": 127,
-      "hn_id": 46506994
-    },
-    "objects": []
-  },
-  {
-    "id": "2718e4e25f64947687c44becafab205b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density",
-    "description": "",
-    "url": "https://www.donutlab.com/ces-battery-announcement/",
-    "published_date": "2026-01-05T22:28:46+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 255,
-      "author": "aeonfox",
-      "comments": 242,
-      "hn_id": 46505975
-    },
-    "objects": []
-  },
-  {
-    "id": "d4bfa3d27c209293f053b37e90ab6fa5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Sega co-founder David Rosen has died",
-    "description": "",
-    "url": "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies",
-    "published_date": "2026-01-05T18:00:32+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 249,
-      "author": "n1b0m",
-      "comments": 36,
-      "hn_id": 46502239
-    },
-    "objects": []
-  },
-  {
-    "id": "453caf469c534319de9a70ffa5343925",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Calling All Hackers: How money works (2024)",
-    "description": "",
-    "url": "https://phrack.org/issues/71/17",
-    "published_date": "2026-01-06T20:24:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 239,
-      "author": "krrishd",
-      "comments": 156,
-      "hn_id": 46518129
+      "score": 362,
+      "author": "BLGardner",
+      "comments": 99,
+      "hn_id": 46511469
     },
     "objects": []
   },
@@ -514,10 +280,154 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 229,
+      "score": 342,
       "author": "dataminer",
-      "comments": 64,
+      "comments": 121,
       "hn_id": 46518573
+    },
+    "objects": []
+  },
+  {
+    "id": "43c1ee9ca62a8a93d819cca5ca5cd22e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Shipmap.org",
+    "description": "",
+    "url": "https://www.shipmap.org/",
+    "published_date": "2026-01-07T15:03:41+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 332,
+      "author": "surprisetalk",
+      "comments": 56,
+      "hn_id": 46527161
+    },
+    "objects": []
+  },
+  {
+    "id": "453caf469c534319de9a70ffa5343925",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Calling All Hackers: How money works (2024)",
+    "description": "",
+    "url": "https://phrack.org/issues/71/17",
+    "published_date": "2026-01-06T20:24:45+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 318,
+      "author": "krrishd",
+      "comments": 214,
+      "hn_id": 46518129
+    },
+    "objects": []
+  },
+  {
+    "id": "aa4e1d9d8c07e386ef03b2063adb67f6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "US Job Openings Decline to Lowest Level in More Than a Year",
+    "description": "",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year",
+    "published_date": "2026-01-07T15:32:44+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 268,
+      "author": "toomuchtodo",
+      "comments": 282,
+      "hn_id": 46527533
+    },
+    "objects": []
+  },
+  {
+    "id": "2718e4e25f64947687c44becafab205b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density",
+    "description": "",
+    "url": "https://www.donutlab.com/ces-battery-announcement/",
+    "published_date": "2026-01-05T22:28:46+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 260,
+      "author": "aeonfox",
+      "comments": 246,
+      "hn_id": 46505975
+    },
+    "objects": []
+  },
+  {
+    "id": "b8791659957f39b429ed9333ea298c71",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I/O is no longer the bottleneck? (2022)",
+    "description": "",
+    "url": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
+    "published_date": "2026-01-06T00:02:18+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 259,
+      "author": "benhoyt",
+      "comments": 129,
+      "hn_id": 46506994
+    },
+    "objects": []
+  },
+  {
+    "id": "341d44b9e40784225135427c848881b6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "A4 Paper Stories",
+    "description": "",
+    "url": "https://susam.net/a4-paper-stories.html",
+    "published_date": "2026-01-07T12:54:43+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 249,
+      "author": "blenderob",
+      "comments": 125,
+      "hn_id": 46525888
+    },
+    "objects": []
+  },
+  {
+    "id": "4f993827795f516e003f16b8c059b6f5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "LaTeX Coffee Stains [pdf] (2021)",
+    "description": "",
+    "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+    "published_date": "2026-01-07T14:46:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 247,
+      "author": "zahrevsky",
+      "comments": 52,
+      "hn_id": 46526933
+    },
+    "objects": []
+  },
+  {
+    "id": "ba10082f6bd31787e2fb38d93b4811bc",
+    "source": "hackernews",
+    "type": "story",
+    "title": "US will ban Wall Street investors from buying single-family homes",
+    "description": "",
+    "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
+    "published_date": "2026-01-07T19:13:19+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 244,
+      "author": "kpw94",
+      "comments": 226,
+      "hn_id": 46531068
     },
     "objects": []
   },
@@ -532,10 +442,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 226,
+      "score": 231,
       "author": "zdw",
-      "comments": 366,
+      "comments": 375,
       "hn_id": 46505735
+    },
+    "objects": []
+  },
+  {
+    "id": "ba784ff0d7ec13e3433c097ae6a3ad1a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Firefox extension to redirect x.com to xcancel.com",
+    "description": "",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
+    "published_date": "2026-01-07T10:53:41+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 225,
+      "author": "maelito",
+      "comments": 156,
+      "hn_id": 46524873
+    },
+    "objects": []
+  },
+  {
+    "id": "b6b8b7c6d42646f9969a5c5c08c70d55",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Eat Real Food",
+    "description": "",
+    "url": "https://realfood.gov",
+    "published_date": "2026-01-07T17:22:09+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 217,
+      "author": "atestu",
+      "comments": 405,
+      "hn_id": 46529237
     },
     "objects": []
   },
@@ -550,10 +496,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 208,
+      "score": 212,
       "author": "abelanger",
       "comments": 70,
       "hn_id": 46506596
+    },
+    "objects": []
+  },
+  {
+    "id": "941349bfee4a21c5a7067152f7668248",
+    "source": "hackernews",
+    "type": "story",
+    "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
+    "description": "",
+    "url": "https://lbstanza.org/purpose_of_programming_languages.html",
+    "published_date": "2026-01-07T12:29:11+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 211,
+      "author": "teleforce",
+      "comments": 193,
+      "hn_id": 46525640
     },
     "objects": []
   },
@@ -568,10 +532,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 196,
+      "score": 204,
       "author": "wise_blood",
-      "comments": 160,
+      "comments": 172,
       "hn_id": 46514282
+    },
+    "objects": []
+  },
+  {
+    "id": "3111ab66fe7fa7f19d755119a4df4f4e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "My Snapdragon Dev Kit was healthy and working fine until a Windows update failed",
+    "description": "",
+    "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+    "published_date": "2026-01-07T02:37:09+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 200,
+      "author": "jasoneckert",
+      "comments": 113,
+      "hn_id": 46521860
     },
     "objects": []
   },
@@ -586,7 +568,7 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 191,
+      "score": 196,
       "author": "zakhary",
       "comments": 28,
       "hn_id": 46507963
@@ -594,20 +576,20 @@
     "objects": []
   },
   {
-    "id": "7393713454158e2dab9983502a624c20",
+    "id": "22e66af17ce1105be44e3abceca28fe7",
     "source": "hackernews",
     "type": "story",
-    "title": "How Y Combinator made it smart to trust founders",
+    "title": "Electronic nose for indoor mold detection and identification",
     "description": "",
-    "url": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
-    "published_date": "2026-01-05T17:20:01+00:00",
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+    "published_date": "2026-01-07T00:31:01+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 185,
-      "author": "spacemarine1",
+      "score": 194,
+      "author": "PaulHoule",
       "comments": 118,
-      "hn_id": 46501677
+      "hn_id": 46520935
     },
     "objects": []
   },
@@ -622,9 +604,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 171,
+      "score": 184,
       "author": "wilsonfiifi",
-      "comments": 16,
+      "comments": 18,
       "hn_id": 46516137
     },
     "objects": []
@@ -640,190 +622,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 164,
+      "score": 181,
       "author": "klaussilveira",
-      "comments": 85,
+      "comments": 91,
       "hn_id": 46516559
     },
     "objects": []
   },
   {
-    "id": "3111ab66fe7fa7f19d755119a4df4f4e",
+    "id": "719fb3af6cd1b612778714a41980cd8a",
     "source": "hackernews",
     "type": "story",
-    "title": "Microsoft probably killed my Snapdragon Dev Kit",
+    "title": "Polymarket refuses to pay bets that US would 'invade' Venezuela",
     "description": "",
-    "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
-    "published_date": "2026-01-07T02:37:09+00:00",
+    "url": "https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666",
+    "published_date": "2026-01-07T02:25:08+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 159,
-      "author": "jasoneckert",
-      "comments": 87,
-      "hn_id": 46521860
-    },
-    "objects": []
-  },
-  {
-    "id": "e6e3a5fb39cb888a7a5a5a39474828de",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Pentagon moves to punish Democratic senator over 'seditious video'",
-    "description": "",
-    "url": "https://www.bbc.com/news/articles/cp8039wg1rdo",
-    "published_date": "2026-01-05T20:11:22+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 155,
-      "author": "onemoresoop",
-      "comments": 74,
-      "hn_id": 46504159
-    },
-    "objects": []
-  },
-  {
-    "id": "69b0ae3bdc28db1d1f68d0d21a5cabde",
-    "source": "hackernews",
-    "type": "story",
-    "title": "CSS sucks because we don't bother learning it (2022)",
-    "description": "",
-    "url": "https://idiallo.com/blog/learn-css",
-    "published_date": "2026-01-05T15:37:38+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 154,
-      "author": "Brajeshwar",
-      "comments": 223,
-      "hn_id": 46500022
-    },
-    "objects": []
-  },
-  {
-    "id": "b81e1f4f2b2d2abe26c28e5d3fcfc4d1",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly",
-    "description": "",
-    "url": "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw",
-    "published_date": "2026-01-05T18:35:17+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 152,
-      "author": "toomuchtodo",
-      "comments": 66,
-      "hn_id": 46502736
-    },
-    "objects": []
-  },
-  {
-    "id": "7b83386fd0c0fd9a5f6a406294925b4e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Cigarette smoke effect using shaders",
-    "description": "",
-    "url": "https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke",
-    "published_date": "2026-01-05T11:32:58+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 150,
-      "author": "bradwoodsio",
-      "comments": 25,
-      "hn_id": 46497589
-    },
-    "objects": []
-  },
-  {
-    "id": "785906d33a58b593a9f053dcfca0e6bd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "So, you want to chunk really fast?",
-    "description": "",
-    "url": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
-    "published_date": "2026-01-05T17:19:33+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 149,
-      "author": "snyy",
-      "comments": 41,
-      "hn_id": 46501665
-    },
-    "objects": []
-  },
-  {
-    "id": "4224d673f105d29e547371dd469c9f23",
-    "source": "hackernews",
-    "type": "story",
-    "title": "GOG Patrons- Join gamers keeping classics alive",
-    "description": "",
-    "url": "https://www.gog.com/en/patrons",
-    "published_date": "2026-01-05T13:57:08+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 146,
-      "author": "CyMonk",
-      "comments": 81,
-      "hn_id": 46498775
-    },
-    "objects": []
-  },
-  {
-    "id": "fd52acd6ac49c86acaef47a439919d16",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war",
-    "description": "",
-    "url": "https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war",
-    "published_date": "2026-01-05T19:32:09+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 142,
-      "author": "andsoitis",
-      "comments": 146,
-      "hn_id": 46503554
-    },
-    "objects": []
-  },
-  {
-    "id": "b094c70922e58343d957576780f79b3b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Pipe Dreams – The life and times of Yahoo Pipes (2023)",
-    "description": "",
-    "url": "https://retool.com/pipes",
-    "published_date": "2026-01-05T18:55:37+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 142,
-      "author": "twalichiewicz",
-      "comments": 30,
-      "hn_id": 46503006
-    },
-    "objects": []
-  },
-  {
-    "id": "26f9320ee0d97c3f777cc35bc1f21293",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Dealing with abandonware (2024)",
-    "description": "",
-    "url": "https://blog.hris.to/./dealing-with-abandonware.html",
-    "published_date": "2026-01-05T14:53:23+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 141,
-      "author": "mondobe",
-      "comments": 51,
-      "hn_id": 46499425
+      "score": 179,
+      "author": "petethomas",
+      "comments": 165,
+      "hn_id": 46521773
     },
     "objects": []
   },
@@ -838,9 +658,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 137,
+      "score": 176,
       "author": "sethbannon",
-      "comments": 59,
+      "comments": 83,
       "hn_id": 46518804
     },
     "objects": []
@@ -856,10 +676,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 137,
+      "score": 171,
       "author": "matt_d",
-      "comments": 34,
+      "comments": 44,
       "hn_id": 46517319
+    },
+    "objects": []
+  },
+  {
+    "id": "a11c994c3c9ee92acb6bf8e4abae3940",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Everyone hates OneDrive, Microsofts cloud app that steals and deletes files",
+    "description": "",
+    "url": "https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html",
+    "published_date": "2026-01-07T13:54:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 168,
+      "author": "mikecarlton",
+      "comments": 190,
+      "hn_id": 46526376
     },
     "objects": []
   },
@@ -874,10 +712,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 134,
+      "score": 158,
       "author": "todsacerdoti",
-      "comments": 58,
+      "comments": 83,
       "hn_id": 46520879
+    },
+    "objects": []
+  },
+  {
+    "id": "4a56b616830c085dc4491a05b6e2c298",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Texas A&M bans part of Plato's Symposium",
+    "description": "",
+    "url": "https://dailynous.com/2026/01/06/texas-am-bans-plato/",
+    "published_date": "2026-01-07T17:23:23+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 144,
+      "author": "loughnane",
+      "comments": 62,
+      "hn_id": 46529257
+    },
+    "objects": []
+  },
+  {
+    "id": "87aac3deb46cfd397ef27b559b262e0b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+    "description": "",
+    "url": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+    "published_date": "2026-01-06T18:00:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 142,
+      "author": "kachapopopow",
+      "comments": 130,
+      "hn_id": 46515948
+    },
+    "objects": []
+  },
+  {
+    "id": "cec1f146173354d3f7db7ab72c4db8be",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Self hosting my media library with Jellyfin and Wireguard on Hetzner",
+    "description": "",
+    "url": "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/",
+    "published_date": "2026-01-06T19:50:35+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 141,
+      "author": "wismwasm",
+      "comments": 171,
+      "hn_id": 46517636
     },
     "objects": []
   },
@@ -892,10 +784,118 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 128,
+      "score": 135,
       "author": "tartoran",
-      "comments": 190,
+      "comments": 198,
       "hn_id": 46508582
+    },
+    "objects": []
+  },
+  {
+    "id": "79122f1e85ce5a0f71dd7517c1fe6ea9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years",
+    "description": "",
+    "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+    "published_date": "2026-01-07T15:46:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 133,
+      "author": "mossTechnician",
+      "comments": 77,
+      "hn_id": 46527706
+    },
+    "objects": []
+  },
+  {
+    "id": "3786c1cfc601e539c47a5640b37a1540",
+    "source": "hackernews",
+    "type": "story",
+    "title": "LLM Problems Observed in Humans",
+    "description": "",
+    "url": "https://embd.cc/llm-problems-observed-in-humans",
+    "published_date": "2026-01-07T15:36:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 133,
+      "author": "js216",
+      "comments": 94,
+      "hn_id": 46527581
+    },
+    "objects": []
+  },
+  {
+    "id": "fa257e7f6d589819585a04141514f826",
+    "source": "hackernews",
+    "type": "story",
+    "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+    "description": "",
+    "url": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+    "published_date": "2026-01-06T21:46:04+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 131,
+      "author": "rbanffy",
+      "comments": 78,
+      "hn_id": 46519326
+    },
+    "objects": []
+  },
+  {
+    "id": "126a018db8435c38bed578636b7b266b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
+    "published_date": "2026-01-06T23:40:03+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 129,
+      "author": "surprisetalk",
+      "comments": 108,
+      "hn_id": 46520508
+    },
+    "objects": []
+  },
+  {
+    "id": "9f1ffacfb3dfc4c85e874dda70eb531c",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Dude, where's my supersonic jet?",
+    "description": "",
+    "url": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
+    "published_date": "2026-01-06T17:59:41+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 129,
+      "author": "noleary",
+      "comments": 290,
+      "hn_id": 46515936
+    },
+    "objects": []
+  },
+  {
+    "id": "d9177cfd601981052eec5659490bc69a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Bill to Eliminate H-1B Visa Program Introduced in Congress",
+    "description": "",
+    "url": "https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655",
+    "published_date": "2026-01-07T05:44:54+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 127,
+      "author": "ekropotin",
+      "comments": 191,
+      "hn_id": 46523029
     },
     "objects": []
   }
