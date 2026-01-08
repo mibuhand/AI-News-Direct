@@ -4,169 +4,168 @@
   <id>tag:ai-news-direct.local,2025:huggingface_trending_models</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2026-01-08T09:33:08.280324+00:00</updated>
+  <updated>2026-01-08T21:23:18.136880+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_trending_models.xml" rel="self"/>
   <entry>
-    <title>tencent/HY-MT1.5-1.8B</title>
-    <id>93d8abd34f30baee63f4e6bb751ab642</id>
-    <link href="https://huggingface.co/tencent/HY-MT1.5-1.8B"/>
-    <updated>2026-01-08T09:32:44.367702+00:00</updated>
-    <category term="translation"/>
-    <summary>Type: translation&lt;br/&gt;Downloads: 7,287&lt;br/&gt;Likes: 664</summary>
-  </entry>
-  <entry>
     <title>Lightricks/LTX-2</title>
     <id>2e091acd385e80e05d2100ed25365742</id>
     <link href="https://huggingface.co/Lightricks/LTX-2"/>
-    <updated>2026-01-08T09:32:44.367724+00:00</updated>
+    <updated>2026-01-08T21:23:03.918309+00:00</updated>
     <category term="image-to-video"/>
-    <summary>Type: image-to-video&lt;br/&gt;Downloads: 187,937&lt;br/&gt;Likes: 502</summary>
+    <summary>Type: image-to-video&lt;br/&gt;Downloads: 187,937&lt;br/&gt;Likes: 572</summary>
+  </entry>
+  <entry>
+    <title>tencent/HY-MT1.5-1.8B</title>
+    <id>93d8abd34f30baee63f4e6bb751ab642</id>
+    <link href="https://huggingface.co/tencent/HY-MT1.5-1.8B"/>
+    <updated>2026-01-08T21:23:03.918334+00:00</updated>
+    <category term="translation"/>
+    <summary>Type: translation&lt;br/&gt;Downloads: 7,287&lt;br/&gt;Likes: 679</summary>
   </entry>
   <entry>
     <title>Qwen/Qwen-Image-2512</title>
     <id>16f84f74f0aa3f726aee60df8ee3b8f5</id>
     <link href="https://huggingface.co/Qwen/Qwen-Image-2512"/>
-    <updated>2026-01-08T09:32:44.367734+00:00</updated>
+    <updated>2026-01-08T21:23:03.918345+00:00</updated>
     <category term="text-to-image"/>
-    <summary>Type: text-to-image&lt;br/&gt;Downloads: 18,440&lt;br/&gt;Likes: 520</summary>
-  </entry>
-  <entry>
-    <title>LGAI-EXAONE/K-EXAONE-236B-A23B</title>
-    <id>5890b0ace3d197a221b2982c1c6a9ad0</id>
-    <link href="https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B"/>
-    <updated>2026-01-08T09:32:44.367741+00:00</updated>
-    <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 3,233&lt;br/&gt;Likes: 431</summary>
+    <summary>Type: text-to-image&lt;br/&gt;Downloads: 18,440&lt;br/&gt;Likes: 530</summary>
   </entry>
   <entry>
     <title>IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct</title>
     <id>32bd8b14149fd23c53e92f8b9051d6cc</id>
     <link href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct"/>
-    <updated>2026-01-08T09:32:44.367748+00:00</updated>
+    <updated>2026-01-08T21:23:03.918352+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 9,648&lt;br/&gt;Likes: 277</summary>
-  </entry>
-  <entry>
-    <title>IQuestLab/IQuest-Coder-V1-40B-Instruct</title>
-    <id>0929afe77a427bcfa20794318d70aed6</id>
-    <link href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct"/>
-    <updated>2026-01-08T09:32:44.367754+00:00</updated>
-    <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 4,353&lt;br/&gt;Likes: 250</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 9,648&lt;br/&gt;Likes: 288</summary>
   </entry>
   <entry>
     <title>MiniMaxAI/MiniMax-M2.1</title>
     <id>8d6f96b381d29cb91a27bd3e87fc74c9</id>
     <link href="https://huggingface.co/MiniMaxAI/MiniMax-M2.1"/>
-    <updated>2026-01-08T09:32:44.367759+00:00</updated>
+    <updated>2026-01-08T21:23:03.918360+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 200,391&lt;br/&gt;Likes: 949</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 200,391&lt;br/&gt;Likes: 961</summary>
   </entry>
   <entry>
-    <title>unsloth/Qwen-Image-2512-GGUF</title>
-    <id>95d0fd349d4c20712128e1eb9cc6b2e6</id>
-    <link href="https://huggingface.co/unsloth/Qwen-Image-2512-GGUF"/>
-    <updated>2026-01-08T09:32:44.367764+00:00</updated>
-    <category term="text-to-image"/>
-    <summary>Type: text-to-image&lt;br/&gt;Downloads: 81,553&lt;br/&gt;Likes: 235</summary>
-  </entry>
-  <entry>
-    <title>upstage/Solar-Open-100B</title>
-    <id>acb3c401b8aa7a43d3f3ba6929556a97</id>
-    <link href="https://huggingface.co/upstage/Solar-Open-100B"/>
-    <updated>2026-01-08T09:32:44.367768+00:00</updated>
+    <title>LGAI-EXAONE/K-EXAONE-236B-A23B</title>
+    <id>5890b0ace3d197a221b2982c1c6a9ad0</id>
+    <link href="https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B"/>
+    <updated>2026-01-08T21:23:03.918365+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 3,107&lt;br/&gt;Likes: 398</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 3,233&lt;br/&gt;Likes: 433</summary>
   </entry>
   <entry>
-    <title>zai-org/GLM-4.7</title>
-    <id>a750bbdae1b5a2e28285614bcb9f613f</id>
-    <link href="https://huggingface.co/zai-org/GLM-4.7"/>
-    <updated>2026-01-08T09:32:44.367773+00:00</updated>
+    <title>IQuestLab/IQuest-Coder-V1-40B-Instruct</title>
+    <id>0929afe77a427bcfa20794318d70aed6</id>
+    <link href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct"/>
+    <updated>2026-01-08T21:23:03.918370+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 38,529&lt;br/&gt;Likes: 1499</summary>
-  </entry>
-  <entry>
-    <title>tencent/Youtu-LLM-2B</title>
-    <id>688591df35e1a51249385aa7e73e3517</id>
-    <link href="https://huggingface.co/tencent/Youtu-LLM-2B"/>
-    <updated>2026-01-08T09:32:44.367784+00:00</updated>
-    <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 2,579&lt;br/&gt;Likes: 191</summary>
-  </entry>
-  <entry>
-    <title>tencent/HY-Motion-1.0</title>
-    <id>c164c2653b5463a03402520b8626b090</id>
-    <link href="https://huggingface.co/tencent/HY-Motion-1.0"/>
-    <updated>2026-01-08T09:32:44.367789+00:00</updated>
-    <category term="text-to-3d"/>
-    <summary>Type: text-to-3d&lt;br/&gt;Downloads: 607&lt;br/&gt;Likes: 301</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 4,353&lt;br/&gt;Likes: 255</summary>
   </entry>
   <entry>
     <title>nvidia/nemotron-speech-streaming-en-0.6b</title>
     <id>bedc380e184e8ad258fadabbd9476ba4</id>
     <link href="https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b"/>
-    <updated>2026-01-08T09:32:44.367796+00:00</updated>
+    <updated>2026-01-08T21:23:03.918376+00:00</updated>
     <category term="automatic-speech-recognition"/>
-    <summary>Type: automatic-speech-recognition&lt;br/&gt;Downloads: 547&lt;br/&gt;Likes: 171</summary>
+    <summary>Type: automatic-speech-recognition&lt;br/&gt;Downloads: 547&lt;br/&gt;Likes: 204</summary>
   </entry>
   <entry>
-    <title>Wuli-art/Qwen-Image-2512-Turbo-LoRA</title>
-    <id>16cc0ab8cff72b337821f4ba49a544cf</id>
-    <link href="https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA"/>
-    <updated>2026-01-08T09:32:44.367801+00:00</updated>
-    <category term="text-to-image"/>
-    <summary>Type: text-to-image&lt;br/&gt;Downloads: 19,113&lt;br/&gt;Likes: 162</summary>
+    <title>upstage/Solar-Open-100B</title>
+    <id>acb3c401b8aa7a43d3f3ba6929556a97</id>
+    <link href="https://huggingface.co/upstage/Solar-Open-100B"/>
+    <updated>2026-01-08T21:23:03.918381+00:00</updated>
+    <category term="text-generation"/>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 3,107&lt;br/&gt;Likes: 404</summary>
   </entry>
   <entry>
     <title>LiquidAI/LFM2.5-1.2B-Instruct</title>
     <id>90f8950afd6611fbfa02523161981ed4</id>
     <link href="https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct"/>
-    <updated>2026-01-08T09:32:44.367806+00:00</updated>
+    <updated>2026-01-08T21:23:03.918387+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 4,203&lt;br/&gt;Likes: 157</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 4,203&lt;br/&gt;Likes: 181</summary>
   </entry>
   <entry>
-    <title>lightx2v/Qwen-Image-2512-Lightning</title>
-    <id>4e298dde72ee3e157cefb1ecfc576c19</id>
-    <link href="https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning"/>
-    <updated>2026-01-08T09:32:44.367811+00:00</updated>
+    <title>zai-org/GLM-4.7</title>
+    <id>a750bbdae1b5a2e28285614bcb9f613f</id>
+    <link href="https://huggingface.co/zai-org/GLM-4.7"/>
+    <updated>2026-01-08T21:23:03.918392+00:00</updated>
+    <category term="text-generation"/>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 38,529&lt;br/&gt;Likes: 1510</summary>
+  </entry>
+  <entry>
+    <title>unsloth/Qwen-Image-2512-GGUF</title>
+    <id>95d0fd349d4c20712128e1eb9cc6b2e6</id>
+    <link href="https://huggingface.co/unsloth/Qwen-Image-2512-GGUF"/>
+    <updated>2026-01-08T21:23:03.918420+00:00</updated>
     <category term="text-to-image"/>
-    <summary>Type: text-to-image&lt;br/&gt;Downloads: 51,508&lt;br/&gt;Likes: 145</summary>
+    <summary>Type: text-to-image&lt;br/&gt;Downloads: 81,553&lt;br/&gt;Likes: 237</summary>
   </entry>
   <entry>
     <title>miromind-ai/MiroThinker-v1.5-235B</title>
     <id>364149a8adb0c76a3fa84ac5b9b5dc76</id>
     <link href="https://huggingface.co/miromind-ai/MiroThinker-v1.5-235B"/>
-    <updated>2026-01-08T09:32:44.367815+00:00</updated>
+    <updated>2026-01-08T21:23:03.918428+00:00</updated>
     <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 229&lt;br/&gt;Likes: 145</summary>
-  </entry>
-  <entry>
-    <title>skt/A.X-K1</title>
-    <id>b0e6c4cdd71a4e6ce875ec1ec9b83ecc</id>
-    <link href="https://huggingface.co/skt/A.X-K1"/>
-    <updated>2026-01-08T09:32:44.367821+00:00</updated>
-    <category term="text-generation"/>
-    <summary>Type: text-generation&lt;br/&gt;Downloads: 8,615&lt;br/&gt;Likes: 193</summary>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 229&lt;br/&gt;Likes: 157</summary>
   </entry>
   <entry>
     <title>LiquidAI/LFM2.5-Audio-1.5B</title>
     <id>5c950dd2fcc0b33c9a3c0c0f9ffeaff2</id>
     <link href="https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B"/>
-    <updated>2026-01-08T09:32:44.367825+00:00</updated>
+    <updated>2026-01-08T21:23:03.918434+00:00</updated>
     <category term="audio-to-audio"/>
-    <summary>Type: audio-to-audio&lt;br/&gt;Downloads: 210&lt;br/&gt;Likes: 140</summary>
+    <summary>Type: audio-to-audio&lt;br/&gt;Downloads: 210&lt;br/&gt;Likes: 154</summary>
+  </entry>
+  <entry>
+    <title>tencent/Youtu-LLM-2B</title>
+    <id>688591df35e1a51249385aa7e73e3517</id>
+    <link href="https://huggingface.co/tencent/Youtu-LLM-2B"/>
+    <updated>2026-01-08T21:23:03.918439+00:00</updated>
+    <category term="text-generation"/>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 2,579&lt;br/&gt;Likes: 192</summary>
+  </entry>
+  <entry>
+    <title>tencent/HY-Motion-1.0</title>
+    <id>c164c2653b5463a03402520b8626b090</id>
+    <link href="https://huggingface.co/tencent/HY-Motion-1.0"/>
+    <updated>2026-01-08T21:23:03.918444+00:00</updated>
+    <category term="text-to-3d"/>
+    <summary>Type: text-to-3d&lt;br/&gt;Downloads: 607&lt;br/&gt;Likes: 306</summary>
+  </entry>
+  <entry>
+    <title>nvidia/Alpamayo-R1-10B</title>
+    <id>5e963eff3292ab0220bcc224407c231e</id>
+    <link href="https://huggingface.co/nvidia/Alpamayo-R1-10B"/>
+    <updated>2026-01-08T21:23:03.918449+00:00</updated>
+    <summary>Downloads: 20,053&lt;br/&gt;Likes: 199</summary>
+  </entry>
+  <entry>
+    <title>Wuli-art/Qwen-Image-2512-Turbo-LoRA</title>
+    <id>16cc0ab8cff72b337821f4ba49a544cf</id>
+    <link href="https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA"/>
+    <updated>2026-01-08T21:23:03.918454+00:00</updated>
+    <category term="text-to-image"/>
+    <summary>Type: text-to-image&lt;br/&gt;Downloads: 19,113&lt;br/&gt;Likes: 166</summary>
   </entry>
   <entry>
     <title>lilylilith/AnyPose</title>
     <id>140474f622f23b6524a0b9c4beffda83</id>
     <link href="https://huggingface.co/lilylilith/AnyPose"/>
-    <updated>2026-01-08T09:32:44.367830+00:00</updated>
+    <updated>2026-01-08T21:23:03.918459+00:00</updated>
     <category term="image-to-image"/>
-    <summary>Type: image-to-image&lt;br/&gt;Downloads: 27,282&lt;br/&gt;Likes: 334</summary>
+    <summary>Type: image-to-image&lt;br/&gt;Downloads: 27,282&lt;br/&gt;Likes: 339</summary>
+  </entry>
+  <entry>
+    <title>skt/A.X-K1</title>
+    <id>b0e6c4cdd71a4e6ce875ec1ec9b83ecc</id>
+    <link href="https://huggingface.co/skt/A.X-K1"/>
+    <updated>2026-01-08T21:23:03.918464+00:00</updated>
+    <category term="text-generation"/>
+    <summary>Type: text-generation&lt;br/&gt;Downloads: 8,615&lt;br/&gt;Likes: 195</summary>
   </entry>
 </feed>
