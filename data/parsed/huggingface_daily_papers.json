@@ -63,7 +63,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 203<br/>GitHub Stars: 2283<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
+    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 203<br/>GitHub Stars: 2296<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16676",
     "external_url": "https://github.com/OpenDCAI/DataFlow",
     "published_date": "2025-12-18T10:46:15.000Z",
@@ -74,7 +74,7 @@
     "metadata": {
       "paper_id": "2512.16676",
       "upvotes": 203,
-      "github_stars": 2283,
+      "github_stars": 2296,
       "github_url": "https://github.com/OpenDCAI/DataFlow",
       "project_url": "https://github.com/OpenDCAI/DataFlow",
       "authors": [
@@ -248,11 +248,62 @@
     }
   },
   {
+    "id": "9f022f923749f1889fd7797edcd67136",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 135<br/>GitHub Stars: 123<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2601.05242",
+    "external_url": "https://github.com/NVlabs/GDPO",
+    "published_date": "2026-01-08T13:59:24.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2601.05242",
+      "upvotes": 135,
+      "github_stars": 123,
+      "github_url": "https://github.com/NVlabs/GDPO",
+      "project_url": "https://nvlabs.github.io/GDPO/",
+      "authors": [
+        "Shih-Yang Liu",
+        "Xin Dong",
+        "Ximing Lu",
+        "Shizhe Diao",
+        "Peter Belcak",
+        "Mingjie Liu",
+        "Min-Hung Chen",
+        "Hongxu Yin",
+        "Yu-Chiang Frank Wang",
+        "Kwang-Ting Cheng",
+        "Yejin Choi",
+        "Jan Kautz",
+        "Pavlo Molchanov"
+      ],
+      "summary": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To achieve this, Reinforcement learning (RL) pipelines have begun incorporating multiple rewards, each capturing a distinct preference, to guide models toward these desired behaviors. However, recent work has defaulted to apply Group Relative Policy Optimization (GRPO) under multi-reward setting without examining its suitability. In this paper, we demonstrate that directly applying GRPO to normalize distinct rollout reward combinations causes them to collapse into identical advantage values, reducing the resolution of the training signal and resulting in suboptimal convergence and, in some cases, early training failure. We then introduce Group reward-Decoupled Normalization Policy Optimization (GDPO), a new policy optimization method to resolve these issues by decoupling the normalization of individual rewards, more faithfully preserving their relative differences and enabling more accurate multi-reward optimization, along with substantially improved training stability. We compare GDPO with GRPO across three tasks: tool calling, math reasoning, and coding reasoning, evaluating both correctness metrics (accuracy, bug ratio) and constraint adherence metrics (format, length). Across all settings, GDPO consistently outperforms GRPO, demonstrating its effectiveness and generalizability for multi-reward reinforcement learning optimization.",
+      "fetch_date": "2026-01-09",
+      "num_comments": 6,
+      "ai_summary": "Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.",
+      "ai_keywords": [
+        "Reinforcement learning",
+        "Group Relative Policy Optimization",
+        "multi-reward setting",
+        "policy optimization",
+        "Group reward-Decoupled Normalization Policy Optimization",
+        "reward normalization",
+        "advantage values",
+        "training stability",
+        "multi-reward reinforcement learning"
+      ]
+    }
+  },
+  {
     "id": "7e91c360c930c55d2bb71f49e0548368",
     "source": "huggingface",
     "type": "paper",
     "title": "Memory in the Age of AI Agents",
-    "description": "Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...<br/>Upvotes: 135<br/>GitHub Stars: 733<br/>Authors: Yuyang Hu, Shichun Liu, Yanwei Yue<br/>🔗 <a href=\"https://github.com/Shichun-Liu/Agent-Memory-Paper-List\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.13564\">Hugging Face</a>",
+    "description": "Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...<br/>Upvotes: 135<br/>GitHub Stars: 739<br/>Authors: Yuyang Hu, Shichun Liu, Yanwei Yue<br/>🔗 <a href=\"https://github.com/Shichun-Liu/Agent-Memory-Paper-List\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.13564\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.13564",
     "external_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
     "published_date": "2025-12-15T12:22:34.000Z",
@@ -263,7 +314,7 @@
     "metadata": {
       "paper_id": "2512.13564",
       "upvotes": 135,
-      "github_stars": 733,
+      "github_stars": 739,
       "github_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
       "project_url": "",
       "authors": [
@@ -345,7 +396,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Step-GUI Technical Report",
-    "description": "Recent advances in multimodal large language models unlock unprecedented opportunities for GUI automation. However, a fundamental challenge remains: how to efficiently acquire high-quality training da...<br/>Upvotes: 129<br/>GitHub Stars: 1875<br/>Authors: Haolong Yan, Jia Wang, Xin Huang<br/>🔗 <a href=\"https://github.com/stepfun-ai/gelab-zero\">GitHub</a><br/>🔗 <a href=\"https://opengelab.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.15431\">Hugging Face</a>",
+    "description": "Recent advances in multimodal large language models unlock unprecedented opportunities for GUI automation. However, a fundamental challenge remains: how to efficiently acquire high-quality training da...<br/>Upvotes: 129<br/>GitHub Stars: 1880<br/>Authors: Haolong Yan, Jia Wang, Xin Huang<br/>🔗 <a href=\"https://github.com/stepfun-ai/gelab-zero\">GitHub</a><br/>🔗 <a href=\"https://opengelab.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.15431\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.15431",
     "external_url": "https://github.com/stepfun-ai/gelab-zero",
     "published_date": "2025-12-17T08:26:30.000Z",
@@ -356,7 +407,7 @@
     "metadata": {
       "paper_id": "2512.15431",
       "upvotes": 129,
-      "github_stars": 1875,
+      "github_stars": 1880,
       "github_url": "https://github.com/stepfun-ai/gelab-zero",
       "project_url": "https://opengelab.github.io/",
       "authors": [
@@ -486,89 +537,11 @@
     }
   },
   {
-    "id": "137390ef0a270b1435b825365ec94a3a",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models",
-    "description": "We introduce Youtu-LLM, a lightweight yet powerful language model that harmonizes high computational efficiency with native agentic intelligence. Unlike typical small models that rely on distillation,...<br/>Upvotes: 127<br/>GitHub Stars: 291<br/>Authors: Junru Lu, Jiarui Qin, Lingfeng Qiao<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-tip\">GitHub</a><br/>🔗 <a href=\"https://youtu-tip.com/#llm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24618\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2512.24618",
-    "external_url": "https://github.com/TencentCloudADP/youtu-tip",
-    "published_date": "2025-12-30T23:25:11.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2512.24618",
-      "upvotes": 127,
-      "github_stars": 291,
-      "github_url": "https://github.com/TencentCloudADP/youtu-tip",
-      "project_url": "https://youtu-tip.com/#llm",
-      "authors": [
-        "Junru Lu",
-        "Jiarui Qin",
-        "Lingfeng Qiao",
-        "Yinghui Li",
-        "Xinyi Dai",
-        "Bo Ke",
-        "Jianfeng He",
-        "Ruizhi Qiao",
-        "Di Yin",
-        "Xing Sun",
-        "Yunsheng Wu",
-        "Yinsong Liu",
-        "Shuangyin Liu",
-        "Mingkong Tang",
-        "Haodong Lin",
-        "Jiayi Kuang",
-        "Fanxu Meng",
-        "Xiaojuan Tang",
-        "Yunjia Xi",
-        "Junjie Huang",
-        "Haotong Yang",
-        "Zhenyi Shen",
-        "Yangning Li",
-        "Qianwen Zhang",
-        "Yifei Yu",
-        "Siyu An",
-        "Junnan Dong",
-        "Qiufeng Wang",
-        "Jie Wang",
-        "Keyu Chen",
-        "Wei Wen",
-        "Taian Guo",
-        "Zhifeng Shen",
-        "Daohai Yu",
-        "Jiahao Li",
-        "Ke Li",
-        "Zongyi Li",
-        "Xiaoyu Tan"
-      ],
-      "summary": "We introduce Youtu-LLM, a lightweight yet powerful language model that harmonizes high computational efficiency with native agentic intelligence. Unlike typical small models that rely on distillation, Youtu-LLM (1.96B) is pre-trained from scratch to systematically cultivate reasoning and planning capabilities. The key technical advancements are as follows: (1) Compact Architecture with Long-Context Support: Built on a dense Multi-Latent Attention (MLA) architecture with a novel STEM-oriented vocabulary, Youtu-LLM supports a 128k context window. This design enables robust long-context reasoning and state tracking within a minimal memory footprint, making it ideal for long-horizon agent and reasoning tasks. (2) Principled \"Commonsense-STEM-Agent\" Curriculum: We curated a massive corpus of approximately 11T tokens and implemented a multi-stage training strategy. By progressively shifting the pre-training data distribution from general commonsense to complex STEM and agentic tasks, we ensure the model acquires deep cognitive abilities rather than superficial alignment. (3) Scalable Agentic Mid-training: Specifically for the agentic mid-training, we employ diverse data construction schemes to synthesize rich and varied trajectories across math, coding, and tool-use domains. This high-quality data enables the model to internalize planning and reflection behaviors effectively. Extensive evaluations show that Youtu-LLM sets a new state-of-the-art for sub-2B LLMs. On general benchmarks, it achieves competitive performance against larger models, while on agent-specific tasks, it significantly surpasses existing SOTA baselines, demonstrating that lightweight models can possess strong intrinsic agentic capabilities.",
-      "fetch_date": "2026-01-01",
-      "num_comments": 3,
-      "ai_summary": "Youtu-LLM is a lightweight language model optimized for computational efficiency and agentic intelligence through a compact architecture, STEM-focused training curriculum, and scalable mid-training strategies for planning and reasoning tasks.",
-      "ai_keywords": [
-        "Multi-Latent Attention (MLA) architecture",
-        "STEM-oriented vocabulary",
-        "128k context window",
-        "Commonsense-STEM-Agent Curriculum",
-        "multi-stage training strategy",
-        "agentic mid-training",
-        "data construction schemes",
-        "planning and reflection behaviors",
-        "long-context reasoning",
-        "state tracking",
-        "agentic capabilities"
-      ]
-    }
-  },
-  {
     "id": "b0feeb7f591514204e557e85f0c2b6ca",
     "source": "huggingface",
     "type": "paper",
     "title": "Sharp Monocular View Synthesis in Less Than a Second",
-    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 26<br/>GitHub Stars: 6717<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
+    "description": "We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...<br/>Upvotes: 26<br/>GitHub Stars: 6740<br/>Authors: Lars Mescheder, Wei Dong, Shiwei Li<br/>🔗 <a href=\"https://github.com/apple/ml-sharp\">GitHub</a><br/>🔗 <a href=\"https://apple.github.io/ml-sharp/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.10685\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.10685",
     "external_url": "https://github.com/apple/ml-sharp",
     "published_date": "2025-12-11T09:34:11.000Z",
@@ -579,7 +552,7 @@
     "metadata": {
       "paper_id": "2512.10685",
       "upvotes": 26,
-      "github_stars": 6717,
+      "github_stars": 6740,
       "github_url": "https://github.com/apple/ml-sharp",
       "project_url": "https://apple.github.io/ml-sharp/",
       "authors": [
@@ -619,7 +592,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
-    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 107<br/>GitHub Stars: 4179<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
+    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 108<br/>GitHub Stars: 4186<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24615",
     "external_url": "https://github.com/TencentCloudADP/youtu-agent",
     "published_date": "2025-12-30T23:17:36.000Z",
@@ -629,8 +602,8 @@
     ],
     "metadata": {
       "paper_id": "2512.24615",
-      "upvotes": 107,
-      "github_stars": 4179,
+      "upvotes": 108,
+      "github_stars": 4186,
       "github_url": "https://github.com/TencentCloudADP/youtu-agent",
       "project_url": "https://tencentcloudadp.github.io/youtu-agent/",
       "authors": [
@@ -665,7 +638,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
-    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 93<br/>GitHub Stars: 3147<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
+    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 93<br/>GitHub Stars: 3150<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16093",
     "external_url": "https://github.com/thu-ml/TurboDiffusion",
     "published_date": "2025-12-17T21:21:30.000Z",
@@ -676,7 +649,7 @@
     "metadata": {
       "paper_id": "2512.16093",
       "upvotes": 93,
-      "github_stars": 3147,
+      "github_stars": 3150,
       "github_url": "https://github.com/thu-ml/TurboDiffusion",
       "project_url": "https://github.com/thu-ml/TurboDiffusion",
       "authors": [
@@ -709,7 +682,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM Audio: Segment Anything in Audio",
-    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 21<br/>GitHub Stars: 2966<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
+    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 21<br/>GitHub Stars: 2979<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.18099",
     "external_url": "https://github.com/facebookresearch/sam-audio",
     "published_date": "2025-12-19T17:14:23.000Z",
@@ -720,7 +693,7 @@
     "metadata": {
       "paper_id": "2512.18099",
       "upvotes": 21,
-      "github_stars": 2966,
+      "github_stars": 2979,
       "github_url": "https://github.com/facebookresearch/sam-audio",
       "project_url": "https://ai.meta.com/samaudio/",
       "authors": [
@@ -764,7 +737,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
-    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 95<br/>GitHub Stars: 2617<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
+    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 95<br/>GitHub Stars: 2619<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24873",
     "external_url": "https://github.com/alibaba/ROLL",
     "published_date": "2025-12-31T09:03:39.000Z",
@@ -775,7 +748,7 @@
     "metadata": {
       "paper_id": "2512.24873",
       "upvotes": 95,
-      "github_stars": 2617,
+      "github_stars": 2619,
       "github_url": "https://github.com/alibaba/ROLL",
       "project_url": "",
       "authors": [
