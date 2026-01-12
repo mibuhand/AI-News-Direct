@@ -1,37 +1,37 @@
 [
   {
-    "id": "f848654b1d5a13be5cd5f3945e055cd6",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "genrobot2025/10Kh-RealOmin-OpenData",
-    "description": "Downloads: 76,200<br/>Likes: 133",
-    "url": "https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData",
-    "published_date": "2026-01-12T09:36:56.287467+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "genrobot2025",
-      "item_name": "10Kh-RealOmin-OpenData",
-      "downloads": 76200,
-      "likes": 133,
-      "last_modified": "2026-01-06T05:11:23.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "17acccc028cd310ea46505b8f89b61fc",
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finetranslations",
-    "description": "Downloads: 2,591<br/>Likes: 106",
+    "description": "Downloads: 2,591<br/>Likes: 128",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finetranslations",
-    "published_date": "2026-01-12T09:36:56.287489+00:00",
+    "published_date": "2026-01-12T21:22:34.149324+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finetranslations",
       "downloads": 2591,
-      "likes": 106,
+      "likes": 128,
       "last_modified": "2026-01-09T16:45:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f848654b1d5a13be5cd5f3945e055cd6",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "genrobot2025/10Kh-RealOmin-OpenData",
+    "description": "Downloads: 76,200<br/>Likes: 138",
+    "url": "https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData",
+    "published_date": "2026-01-12T21:22:34.149346+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "genrobot2025",
+      "item_name": "10Kh-RealOmin-OpenData",
+      "downloads": 76200,
+      "likes": 138,
+      "last_modified": "2026-01-06T05:11:23.000Z",
       "all_tags": []
     }
   },
@@ -40,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "WNT3D/Ultimate-Offensive-Red-Team",
-    "description": "Downloads: 394<br/>Likes: 111",
+    "description": "Downloads: 394<br/>Likes: 118",
     "url": "https://huggingface.co/datasets/WNT3D/Ultimate-Offensive-Red-Team",
-    "published_date": "2026-01-12T09:36:56.287497+00:00",
+    "published_date": "2026-01-12T21:22:34.149352+00:00",
     "categories": [],
     "metadata": {
       "author": "WNT3D",
       "item_name": "Ultimate-Offensive-Red-Team",
       "downloads": 394,
-      "likes": 111,
+      "likes": 118,
       "last_modified": "2025-08-23T08:26:40.000Z",
       "all_tags": []
     }
@@ -58,16 +58,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 152,119<br/>Likes: 667",
+    "description": "Downloads: 152,119<br/>Likes: 669",
     "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2026-01-12T09:36:56.287503+00:00",
+    "published_date": "2026-01-12T21:22:34.149357+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "PhysicalAI-Autonomous-Vehicles",
       "downloads": 152119,
-      "likes": 667,
+      "likes": 669,
       "last_modified": "2025-12-05T18:23:36.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6a897e19bf7248fbd49e82554424bde1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "xiuhuywh/DRIM-VisualReasonHard",
+    "description": "Downloads: 1,649<br/>Likes: 86",
+    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-VisualReasonHard",
+    "published_date": "2026-01-12T21:22:34.149362+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "xiuhuywh",
+      "item_name": "DRIM-VisualReasonHard",
+      "downloads": 1649,
+      "likes": 86,
+      "last_modified": "2026-01-09T08:29:06.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ba72c3bc990ecd774fa5ce7a47e69f32",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "xiuhuywh/DRIM-ColdstartSFT",
+    "description": "Downloads: 2,246<br/>Likes: 79",
+    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-ColdstartSFT",
+    "published_date": "2026-01-12T21:22:34.149367+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "xiuhuywh",
+      "item_name": "DRIM-ColdstartSFT",
+      "downloads": 2246,
+      "likes": 79,
+      "last_modified": "2026-01-09T08:30:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "9a5df17914a5a1e9a8a4637b115c80b0",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "opendatalab/ScienceMetaBench",
+    "description": "Downloads: 2,762<br/>Likes: 95",
+    "url": "https://huggingface.co/datasets/opendatalab/ScienceMetaBench",
+    "published_date": "2026-01-12T21:22:34.149371+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "opendatalab",
+      "item_name": "ScienceMetaBench",
+      "downloads": 2762,
+      "likes": 95,
+      "last_modified": "2026-01-12T07:42:53.000Z",
       "all_tags": []
     }
   },
@@ -78,7 +132,7 @@
     "title": "123olp/binance-futures-ohlcv-2018-2026",
     "description": "Downloads: 447<br/>Likes: 94",
     "url": "https://huggingface.co/datasets/123olp/binance-futures-ohlcv-2018-2026",
-    "published_date": "2026-01-12T09:36:56.287509+00:00",
+    "published_date": "2026-01-12T21:22:34.149375+00:00",
     "categories": [],
     "metadata": {
       "author": "123olp",
@@ -90,13 +144,85 @@
     }
   },
   {
+    "id": "79e06212f14a15251743c51dae6752b1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "miromind-ai/MiroVerse-v0.1",
+    "description": "Downloads: 748<br/>Likes: 171",
+    "url": "https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1",
+    "published_date": "2026-01-12T21:22:34.149380+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "miromind-ai",
+      "item_name": "MiroVerse-v0.1",
+      "downloads": 748,
+      "likes": 171,
+      "last_modified": "2025-11-19T02:57:14.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8aea0ed63882ba97bdc450f864553a68",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "DatologyAI/DatBench",
+    "description": "Downloads: 242<br/>Likes: 65",
+    "url": "https://huggingface.co/datasets/DatologyAI/DatBench",
+    "published_date": "2026-01-12T21:22:34.149385+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "DatologyAI",
+      "item_name": "DatBench",
+      "downloads": 242,
+      "likes": 65,
+      "last_modified": "2026-01-11T08:48:06.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "788d90295709c9cc856967d42005cc84",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Salesforce/wikitext",
+    "description": "Downloads: 790,193<br/>Likes: 615",
+    "url": "https://huggingface.co/datasets/Salesforce/wikitext",
+    "published_date": "2026-01-12T21:22:34.149389+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Salesforce",
+      "item_name": "wikitext",
+      "downloads": 790193,
+      "likes": 615,
+      "last_modified": "2024-01-04T16:49:18.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8c82b95655b303169952562e1c6aaba5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Math-v2",
+    "description": "Downloads: 7,290<br/>Likes: 119",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Math-v2",
+    "published_date": "2026-01-12T21:22:34.149394+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Math-v2",
+      "downloads": 7290,
+      "likes": 119,
+      "last_modified": "2026-01-07T22:32:33.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "e0d066c1f1165cafc33eb805a83839ed",
     "source": "huggingface",
     "type": "dataset",
     "title": "facebook/research-plan-gen",
     "description": "Downloads: 3,548<br/>Likes: 272",
     "url": "https://huggingface.co/datasets/facebook/research-plan-gen",
-    "published_date": "2026-01-12T09:36:56.287516+00:00",
+    "published_date": "2026-01-12T21:22:34.149398+00:00",
     "categories": [],
     "metadata": {
       "author": "facebook",
@@ -108,20 +234,20 @@
     }
   },
   {
-    "id": "8c82b95655b303169952562e1c6aaba5",
+    "id": "790287c10d00300def08740b1072f0a2",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nvidia/Nemotron-Math-v2",
-    "description": "Downloads: 7,290<br/>Likes: 118",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Math-v2",
-    "published_date": "2026-01-12T09:36:56.287522+00:00",
+    "title": "TeichAI/glm-4.7-2000x",
+    "description": "Downloads: 329<br/>Likes: 68",
+    "url": "https://huggingface.co/datasets/TeichAI/glm-4.7-2000x",
+    "published_date": "2026-01-12T21:22:34.149406+00:00",
     "categories": [],
     "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Math-v2",
-      "downloads": 7290,
-      "likes": 118,
-      "last_modified": "2026-01-07T22:32:33.000Z",
+      "author": "TeichAI",
+      "item_name": "glm-4.7-2000x",
+      "downloads": 329,
+      "likes": 68,
+      "last_modified": "2025-12-23T02:18:47.000Z",
       "all_tags": []
     }
   },
@@ -130,178 +256,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenDataArena/ODA-Mixture-500k",
-    "description": "Downloads: 5,095<br/>Likes: 115",
+    "description": "Downloads: 5,095<br/>Likes: 116",
     "url": "https://huggingface.co/datasets/OpenDataArena/ODA-Mixture-500k",
-    "published_date": "2026-01-12T09:36:56.287528+00:00",
+    "published_date": "2026-01-12T21:22:34.149410+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenDataArena",
       "item_name": "ODA-Mixture-500k",
       "downloads": 5095,
-      "likes": 115,
-      "last_modified": "2025-12-31T09:02:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6a897e19bf7248fbd49e82554424bde1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "xiuhuywh/DRIM-VisualReasonHard",
-    "description": "Downloads: 1,649<br/>Likes: 79",
-    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-VisualReasonHard",
-    "published_date": "2026-01-12T09:36:56.287533+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "xiuhuywh",
-      "item_name": "DRIM-VisualReasonHard",
-      "downloads": 1649,
-      "likes": 79,
-      "last_modified": "2026-01-09T08:29:06.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "9a5df17914a5a1e9a8a4637b115c80b0",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "opendatalab/ScienceMetaBench",
-    "description": "Downloads: 2,762<br/>Likes: 93",
-    "url": "https://huggingface.co/datasets/opendatalab/ScienceMetaBench",
-    "published_date": "2026-01-12T09:36:56.287539+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "opendatalab",
-      "item_name": "ScienceMetaBench",
-      "downloads": 2762,
-      "likes": 93,
-      "last_modified": "2026-01-12T07:42:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ba72c3bc990ecd774fa5ce7a47e69f32",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "xiuhuywh/DRIM-ColdstartSFT",
-    "description": "Downloads: 2,246<br/>Likes: 77",
-    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-ColdstartSFT",
-    "published_date": "2026-01-12T09:36:56.287544+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "xiuhuywh",
-      "item_name": "DRIM-ColdstartSFT",
-      "downloads": 2246,
-      "likes": 77,
-      "last_modified": "2026-01-09T08:30:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "788d90295709c9cc856967d42005cc84",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Salesforce/wikitext",
-    "description": "Downloads: 790,193<br/>Likes: 612",
-    "url": "https://huggingface.co/datasets/Salesforce/wikitext",
-    "published_date": "2026-01-12T09:36:56.287550+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Salesforce",
-      "item_name": "wikitext",
-      "downloads": 790193,
-      "likes": 612,
-      "last_modified": "2024-01-04T16:49:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "79e06212f14a15251743c51dae6752b1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "miromind-ai/MiroVerse-v0.1",
-    "description": "Downloads: 748<br/>Likes: 161",
-    "url": "https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1",
-    "published_date": "2026-01-12T09:36:56.287555+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "miromind-ai",
-      "item_name": "MiroVerse-v0.1",
-      "downloads": 748,
-      "likes": 161,
-      "last_modified": "2025-11-19T02:57:14.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cb6ec2c61761ec0cff8758d13f5853d0",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Nanbeige/ToolMind",
-    "description": "Downloads: 4,557<br/>Likes: 104",
-    "url": "https://huggingface.co/datasets/Nanbeige/ToolMind",
-    "published_date": "2026-01-12T09:36:56.287565+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Nanbeige",
-      "item_name": "ToolMind",
-      "downloads": 4557,
-      "likes": 104,
-      "last_modified": "2026-01-09T02:23:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8aea0ed63882ba97bdc450f864553a68",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "DatologyAI/DatBench",
-    "description": "Downloads: 242<br/>Likes: 62",
-    "url": "https://huggingface.co/datasets/DatologyAI/DatBench",
-    "published_date": "2026-01-12T09:36:56.287571+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "DatologyAI",
-      "item_name": "DatBench",
-      "downloads": 242,
-      "likes": 62,
-      "last_modified": "2026-01-11T08:48:06.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b0c73f3950c75a3e96cb6e8873a9dd38",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "OpenDataArena/ODA-Math-460k",
-    "description": "Downloads: 4,445<br/>Likes: 91",
-    "url": "https://huggingface.co/datasets/OpenDataArena/ODA-Math-460k",
-    "published_date": "2026-01-12T09:36:56.287576+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "OpenDataArena",
-      "item_name": "ODA-Math-460k",
-      "downloads": 4445,
-      "likes": 91,
-      "last_modified": "2025-12-31T08:59:07.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "790287c10d00300def08740b1072f0a2",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "TeichAI/glm-4.7-2000x",
-    "description": "Downloads: 329<br/>Likes: 67",
-    "url": "https://huggingface.co/datasets/TeichAI/glm-4.7-2000x",
-    "published_date": "2026-01-12T09:36:56.287582+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "TeichAI",
-      "item_name": "glm-4.7-2000x",
-      "downloads": 329,
-      "likes": 67,
-      "last_modified": "2025-12-23T02:18:47.000Z",
+      "likes": 116,
+      "last_modified": "2026-01-12T11:51:50.000Z",
       "all_tags": []
     }
   },
@@ -310,52 +274,88 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ScienceOne-AI/S1-MMAlign",
-    "description": "Downloads: 7,337<br/>Likes: 60",
+    "description": "Downloads: 7,337<br/>Likes: 62",
     "url": "https://huggingface.co/datasets/ScienceOne-AI/S1-MMAlign",
-    "published_date": "2026-01-12T09:36:56.287589+00:00",
+    "published_date": "2026-01-12T21:22:34.149414+00:00",
     "categories": [],
     "metadata": {
       "author": "ScienceOne-AI",
       "item_name": "S1-MMAlign",
       "downloads": 7337,
-      "likes": 60,
+      "likes": 62,
       "last_modified": "2026-01-05T04:18:03.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "b877b90d81ed257f04868595ec3e67ef",
+    "id": "cb6ec2c61761ec0cff8758d13f5853d0",
     "source": "huggingface",
     "type": "dataset",
-    "title": "OpenDataArena/ODA-Mixture-100k",
-    "description": "Downloads: 3,242<br/>Likes: 90",
-    "url": "https://huggingface.co/datasets/OpenDataArena/ODA-Mixture-100k",
-    "published_date": "2026-01-12T09:36:56.287595+00:00",
+    "title": "Nanbeige/ToolMind",
+    "description": "Downloads: 4,557<br/>Likes: 107",
+    "url": "https://huggingface.co/datasets/Nanbeige/ToolMind",
+    "published_date": "2026-01-12T21:22:34.149418+00:00",
     "categories": [],
     "metadata": {
-      "author": "OpenDataArena",
-      "item_name": "ODA-Mixture-100k",
-      "downloads": 3242,
-      "likes": 90,
-      "last_modified": "2025-12-31T08:59:58.000Z",
+      "author": "Nanbeige",
+      "item_name": "ToolMind",
+      "downloads": 4557,
+      "likes": 107,
+      "last_modified": "2026-01-09T02:23:42.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e3d688f00cd0714f9516857b954eaaac",
+    "id": "f7156dadc0d37c7689337d46585920a2",
     "source": "huggingface",
     "type": "dataset",
-    "title": "Anthropic/hh-rlhf",
-    "description": "Downloads: 22,551<br/>Likes: 1630",
-    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
-    "published_date": "2026-01-12T09:36:56.287601+00:00",
+    "title": "edc505/pokemon",
+    "description": "Downloads: 1,230<br/>Likes: 57",
+    "url": "https://huggingface.co/datasets/edc505/pokemon",
+    "published_date": "2026-01-12T21:22:34.149424+00:00",
     "categories": [],
     "metadata": {
-      "author": "Anthropic",
-      "item_name": "hh-rlhf",
-      "downloads": 22551,
-      "likes": 1630,
-      "last_modified": "2023-05-26T18:47:34.000Z",
+      "author": "edc505",
+      "item_name": "pokemon",
+      "downloads": 1230,
+      "likes": 57,
+      "last_modified": "2022-09-12T14:27:53.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "785f3b40823723375e419ef371b940f8",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/embed-nemotron-dataset-v1",
+    "description": "Downloads: 151<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/nvidia/embed-nemotron-dataset-v1",
+    "published_date": "2026-01-12T21:22:34.149429+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "embed-nemotron-dataset-v1",
+      "downloads": 151,
+      "likes": 43,
+      "last_modified": "2026-01-12T08:49:11.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b0c73f3950c75a3e96cb6e8873a9dd38",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "OpenDataArena/ODA-Math-460k",
+    "description": "Downloads: 4,445<br/>Likes: 96",
+    "url": "https://huggingface.co/datasets/OpenDataArena/ODA-Math-460k",
+    "published_date": "2026-01-12T21:22:34.149433+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "OpenDataArena",
+      "item_name": "ODA-Math-460k",
+      "downloads": 4445,
+      "likes": 96,
+      "last_modified": "2025-12-31T08:59:07.000Z",
       "all_tags": []
     }
   }
