@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:huggingface_daily_papers</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2026-01-13T09:32:55.835902+00:00</updated>
+  <updated>2026-01-13T21:23:28.457544+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -16,7 +16,7 @@
     <updated>2025-12-31T09:16:26+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...&lt;br/&gt;Upvotes: 242&lt;br/&gt;Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24880&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...&lt;br/&gt;Upvotes: 245&lt;br/&gt;Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24880&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI</title>
@@ -25,7 +25,16 @@
     <updated>2025-12-18T10:46:15+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...&lt;br/&gt;Upvotes: 204&lt;br/&gt;GitHub Stars: 2317&lt;br/&gt;Authors: Hao Liang, Xiaochen Ma, Zhou Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/OpenDCAI/DataFlow&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/OpenDCAI/DataFlow&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.16676&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...&lt;br/&gt;Upvotes: 204&lt;br/&gt;GitHub Stars: 2334&lt;br/&gt;Authors: Hao Liang, Xiaochen Ma, Zhou Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/OpenDCAI/DataFlow&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/OpenDCAI/DataFlow&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.16676&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
+    <title>GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</title>
+    <id>9f022f923749f1889fd7797edcd67136</id>
+    <link href="https://arxiv.org/abs/2601.05242"/>
+    <updated>2026-01-08T13:59:24+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...&lt;br/&gt;Upvotes: 166&lt;br/&gt;GitHub Stars: 205&lt;br/&gt;Authors: Shih-Yang Liu, Xin Dong, Ximing Lu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/NVlabs/GDPO&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://nvlabs.github.io/GDPO/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2601.05242&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Kling-Omni Technical Report</title>
@@ -37,22 +46,13 @@
     <summary>We present Kling-Omni, a generalist generative framework designed to synthesize high-fidelity videos directly from multimodal visual language inputs. Adopting an end-to-end perspective, Kling-Omni bri...&lt;br/&gt;Upvotes: 164&lt;br/&gt;Authors: Kling Team, Jialu Chen, Yuanzheng Ci&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.16776&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
-    <title>GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</title>
-    <id>9f022f923749f1889fd7797edcd67136</id>
-    <link href="https://arxiv.org/abs/2601.05242"/>
-    <updated>2026-01-08T13:59:24+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...&lt;br/&gt;Upvotes: 161&lt;br/&gt;GitHub Stars: 186&lt;br/&gt;Authors: Shih-Yang Liu, Xin Dong, Ximing Lu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/NVlabs/GDPO&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://nvlabs.github.io/GDPO/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2601.05242&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
     <title>Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</title>
     <id>25722a8b53047461c6a490f1ed16844e</id>
     <link href="https://arxiv.org/abs/2601.05432"/>
     <updated>2026-01-08T18:47:30+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>The image geolocalization task aims to predict the location where an image was taken anywhere on Earth using visual clues. Existing large vision-language model (LVLM) approaches leverage world knowled...&lt;br/&gt;Upvotes: 140&lt;br/&gt;GitHub Stars: 114&lt;br/&gt;Authors: Yuxiang Ji, Yong Wang, Ziyu Ma&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/AMAP-ML/Thinking-with-Map&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://amap-ml.github.io/Thinking-with-Map/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2601.05432&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>The image geolocalization task aims to predict the location where an image was taken anywhere on Earth using visual clues. Existing large vision-language model (LVLM) approaches leverage world knowled...&lt;br/&gt;Upvotes: 145&lt;br/&gt;GitHub Stars: 120&lt;br/&gt;Authors: Yuxiang Ji, Yong Wang, Ziyu Ma&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/AMAP-ML/Thinking-with-Map&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://amap-ml.github.io/Thinking-with-Map/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2601.05432&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Memory in the Age of AI Agents</title>
@@ -61,7 +61,7 @@
     <updated>2025-12-15T12:22:34+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...&lt;br/&gt;Upvotes: 136&lt;br/&gt;GitHub Stars: 768&lt;br/&gt;Authors: Yuyang Hu, Shichun Liu, Yanwei Yue&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Shichun-Liu/Agent-Memory-Paper-List&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.13564&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has als...&lt;br/&gt;Upvotes: 137&lt;br/&gt;GitHub Stars: 775&lt;br/&gt;Authors: Yuyang Hu, Shichun Liu, Yanwei Yue&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/Shichun-Liu/Agent-Memory-Paper-List&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.13564&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Sharp Monocular View Synthesis in Less Than a Second</title>
@@ -70,7 +70,7 @@
     <updated>2025-12-11T09:34:11+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...&lt;br/&gt;Upvotes: 27&lt;br/&gt;GitHub Stars: 6779&lt;br/&gt;Authors: Lars Mescheder, Wei Dong, Shiwei Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/apple/ml-sharp&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://apple.github.io/ml-sharp/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.10685&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>We present SHARP, an approach to photorealistic view synthesis from a single image. Given a single photograph, SHARP regresses the parameters of a 3D Gaussian representation of the depicted scene. Thi...&lt;br/&gt;Upvotes: 27&lt;br/&gt;GitHub Stars: 6800&lt;br/&gt;Authors: Lars Mescheder, Wei Dong, Shiwei Li&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/apple/ml-sharp&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://apple.github.io/ml-sharp/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.10685&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization</title>
@@ -79,7 +79,7 @@
     <updated>2025-12-30T23:17:36+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...&lt;br/&gt;Upvotes: 108&lt;br/&gt;GitHub Stars: 4215&lt;br/&gt;Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/TencentCloudADP/youtu-agent&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://tencentcloudadp.github.io/youtu-agent/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24615&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...&lt;br/&gt;Upvotes: 109&lt;br/&gt;GitHub Stars: 4219&lt;br/&gt;Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/TencentCloudADP/youtu-agent&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://tencentcloudadp.github.io/youtu-agent/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24615&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times</title>
@@ -88,7 +88,7 @@
     <updated>2025-12-17T21:21:30+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...&lt;br/&gt;Upvotes: 93&lt;br/&gt;GitHub Stars: 3172&lt;br/&gt;Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/thu-ml/TurboDiffusion&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/thu-ml/TurboDiffusion&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.16093&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...&lt;br/&gt;Upvotes: 93&lt;br/&gt;GitHub Stars: 3173&lt;br/&gt;Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/thu-ml/TurboDiffusion&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/thu-ml/TurboDiffusion&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.16093&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>SAM Audio: Segment Anything in Audio</title>
@@ -97,7 +97,7 @@
     <updated>2025-12-19T17:14:23+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...&lt;br/&gt;Upvotes: 22&lt;br/&gt;GitHub Stars: 3001&lt;br/&gt;Authors: Bowen Shi, Andros Tjandra, John Hoffman&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/facebookresearch/sam-audio&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ai.meta.com/samaudio/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.18099&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...&lt;br/&gt;Upvotes: 22&lt;br/&gt;GitHub Stars: 3005&lt;br/&gt;Authors: Bowen Shi, Andros Tjandra, John Hoffman&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/facebookresearch/sam-audio&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ai.meta.com/samaudio/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.18099&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem</title>
@@ -106,6 +106,6 @@
     <updated>2025-12-31T09:03:39+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...&lt;br/&gt;Upvotes: 98&lt;br/&gt;GitHub Stars: 2638&lt;br/&gt;Authors: Weixun Wang, XiaoXiao Xu, Wanhe An&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/alibaba/ROLL&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24873&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...&lt;br/&gt;Upvotes: 98&lt;br/&gt;GitHub Stars: 2639&lt;br/&gt;Authors: Weixun Wang, XiaoXiao Xu, Wanhe An&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/alibaba/ROLL&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2512.24873&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
 </feed>
