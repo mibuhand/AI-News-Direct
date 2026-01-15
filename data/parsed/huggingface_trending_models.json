@@ -1,12 +1,32 @@
 [
   {
+    "id": "4a55eb8e4fca52f2d9ada8957d6c771e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "zai-org/GLM-Image",
+    "description": "Type: text-to-image<br/>Downloads: 2,442<br/>Likes: 682",
+    "url": "https://huggingface.co/zai-org/GLM-Image",
+    "published_date": "2026-01-15T21:23:23.291317+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "GLM-Image",
+      "downloads": 2442,
+      "likes": 682,
+      "last_modified": "2026-01-15T09:55:29.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "813f3bb463401412a2d6a7c085889f3b",
     "source": "huggingface",
     "type": "model",
     "title": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-    "description": "Type: image-to-image<br/>Downloads: 44,101<br/>Likes: 658",
+    "description": "Type: image-to-image<br/>Downloads: 44,101<br/>Likes: 680",
     "url": "https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-    "published_date": "2026-01-15T09:32:30.895467+00:00",
+    "published_date": "2026-01-15T21:23:23.291344+00:00",
     "categories": [
       "image-to-image"
     ],
@@ -14,7 +34,7 @@
       "author": "fal",
       "item_name": "Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
       "downloads": 44101,
-      "likes": 658,
+      "likes": 680,
       "last_modified": "2026-01-07T17:06:01.000Z",
       "all_tags": []
     }
@@ -24,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Lightricks/LTX-2",
-    "description": "Type: image-to-video<br/>Downloads: 1,187,843<br/>Likes: 1010",
+    "description": "Type: image-to-video<br/>Downloads: 1,187,843<br/>Likes: 1042",
     "url": "https://huggingface.co/Lightricks/LTX-2",
-    "published_date": "2026-01-15T09:32:30.895494+00:00",
+    "published_date": "2026-01-15T21:23:23.291355+00:00",
     "categories": [
       "image-to-video"
     ],
@@ -34,48 +54,8 @@
       "author": "Lightricks",
       "item_name": "LTX-2",
       "downloads": 1187843,
-      "likes": 1010,
+      "likes": 1042,
       "last_modified": "2026-01-14T18:18:28.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "4a55eb8e4fca52f2d9ada8957d6c771e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-Image",
-    "description": "Type: text-to-image<br/>Downloads: 2,442<br/>Likes: 596",
-    "url": "https://huggingface.co/zai-org/GLM-Image",
-    "published_date": "2026-01-15T09:32:30.895508+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-Image",
-      "downloads": 2442,
-      "likes": 596,
-      "last_modified": "2026-01-14T05:56:19.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "bedc380e184e8ad258fadabbd9476ba4",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/nemotron-speech-streaming-en-0.6b",
-    "description": "Type: automatic-speech-recognition<br/>Downloads: 4,414<br/>Likes: 376",
-    "url": "https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b",
-    "published_date": "2026-01-15T09:32:30.895516+00:00",
-    "categories": [
-      "automatic-speech-recognition"
-    ],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "nemotron-speech-streaming-en-0.6b",
-      "downloads": 4414,
-      "likes": 376,
-      "last_modified": "2026-01-05T23:49:39.000Z",
       "all_tags": []
     }
   },
@@ -84,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/AgentCPM-Explore",
-    "description": "Type: text-generation<br/>Downloads: 315<br/>Likes: 273",
+    "description": "Type: text-generation<br/>Downloads: 315<br/>Likes: 287",
     "url": "https://huggingface.co/openbmb/AgentCPM-Explore",
-    "published_date": "2026-01-15T09:32:30.895524+00:00",
+    "published_date": "2026-01-15T21:23:23.291361+00:00",
     "categories": [
       "text-generation"
     ],
@@ -94,7 +74,7 @@
       "author": "openbmb",
       "item_name": "AgentCPM-Explore",
       "downloads": 315,
-      "likes": 273,
+      "likes": 287,
       "last_modified": "2026-01-14T09:02:02.000Z",
       "all_tags": []
     }
@@ -104,15 +84,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "Kijai/LTXV2_comfy",
-    "description": "Downloads: 41,095<br/>Likes: 266",
+    "description": "Downloads: 41,095<br/>Likes: 278",
     "url": "https://huggingface.co/Kijai/LTXV2_comfy",
-    "published_date": "2026-01-15T09:32:30.895531+00:00",
+    "published_date": "2026-01-15T21:23:23.291367+00:00",
     "categories": [],
     "metadata": {
       "author": "Kijai",
       "item_name": "LTXV2_comfy",
       "downloads": 41095,
-      "likes": 266,
+      "likes": 278,
       "last_modified": "2026-01-14T20:24:58.000Z",
       "all_tags": []
     }
@@ -122,9 +102,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-Embedding-8B",
-    "description": "Type: image-to-text<br/>Downloads: 31,008<br/>Likes: 246",
+    "description": "Type: image-to-text<br/>Downloads: 31,008<br/>Likes: 251",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B",
-    "published_date": "2026-01-15T09:32:30.895538+00:00",
+    "published_date": "2026-01-15T21:23:23.291372+00:00",
     "categories": [
       "image-to-text"
     ],
@@ -132,28 +112,8 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-Embedding-8B",
       "downloads": 31008,
-      "likes": 246,
+      "likes": 251,
       "last_modified": "2026-01-09T14:53:37.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ae3c30de65e04b4e3e4e0d1eb0107a5e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "naver-hyperclovax/HyperCLOVAX-SEED-Think-32B",
-    "description": "Type: text-generation<br/>Downloads: 31,316<br/>Likes: 380",
-    "url": "https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B",
-    "published_date": "2026-01-15T09:32:30.895545+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "naver-hyperclovax",
-      "item_name": "HyperCLOVAX-SEED-Think-32B",
-      "downloads": 31316,
-      "likes": 380,
-      "last_modified": "2026-01-06T02:50:18.000Z",
       "all_tags": []
     }
   },
@@ -162,9 +122,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-VL-Embedding-2B",
-    "description": "Type: image-to-text<br/>Downloads: 36,629<br/>Likes: 222",
+    "description": "Type: image-to-text<br/>Downloads: 36,629<br/>Likes: 230",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B",
-    "published_date": "2026-01-15T09:32:30.895565+00:00",
+    "published_date": "2026-01-15T21:23:23.291378+00:00",
     "categories": [
       "image-to-text"
     ],
@@ -172,48 +132,28 @@
       "author": "Qwen",
       "item_name": "Qwen3-VL-Embedding-2B",
       "downloads": 36629,
-      "likes": 222,
+      "likes": 230,
       "last_modified": "2026-01-09T14:53:51.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "90f8950afd6611fbfa02523161981ed4",
+    "id": "ae3c30de65e04b4e3e4e0d1eb0107a5e",
     "source": "huggingface",
     "type": "model",
-    "title": "LiquidAI/LFM2.5-1.2B-Instruct",
-    "description": "Type: text-generation<br/>Downloads: 37,152<br/>Likes: 334",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct",
-    "published_date": "2026-01-15T09:32:30.895573+00:00",
+    "title": "naver-hyperclovax/HyperCLOVAX-SEED-Think-32B",
+    "description": "Type: text-generation<br/>Downloads: 31,316<br/>Likes: 386",
+    "url": "https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B",
+    "published_date": "2026-01-15T21:23:23.291383+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
-      "author": "LiquidAI",
-      "item_name": "LFM2.5-1.2B-Instruct",
-      "downloads": 37152,
-      "likes": 334,
-      "last_modified": "2026-01-09T05:56:43.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "dfb2157307122d2a92ec91bba4036276",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Supertone/supertonic-2",
-    "description": "Type: text-to-speech<br/>Downloads: 8,587<br/>Likes: 234",
-    "url": "https://huggingface.co/Supertone/supertonic-2",
-    "published_date": "2026-01-15T09:32:30.895579+00:00",
-    "categories": [
-      "text-to-speech"
-    ],
-    "metadata": {
-      "author": "Supertone",
-      "item_name": "supertonic-2",
-      "downloads": 8587,
-      "likes": 234,
-      "last_modified": "2026-01-06T07:56:05.000Z",
+      "author": "naver-hyperclovax",
+      "item_name": "HyperCLOVAX-SEED-Think-32B",
+      "downloads": 31316,
+      "likes": 386,
+      "last_modified": "2026-01-06T02:50:18.000Z",
       "all_tags": []
     }
   },
@@ -222,9 +162,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "google/medgemma-1.5-4b-it",
-    "description": "Type: image-text-to-text<br/>Downloads: 4,422<br/>Likes: 175",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,422<br/>Likes: 205",
     "url": "https://huggingface.co/google/medgemma-1.5-4b-it",
-    "published_date": "2026-01-15T09:32:30.895588+00:00",
+    "published_date": "2026-01-15T21:23:23.291389+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -232,48 +172,28 @@
       "author": "google",
       "item_name": "medgemma-1.5-4b-it",
       "downloads": 4422,
-      "likes": 175,
+      "likes": 205,
       "last_modified": "2026-01-14T22:06:03.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "5c950dd2fcc0b33c9a3c0c0f9ffeaff2",
+    "id": "dfb2157307122d2a92ec91bba4036276",
     "source": "huggingface",
     "type": "model",
-    "title": "LiquidAI/LFM2.5-Audio-1.5B",
-    "description": "Type: audio-to-audio<br/>Downloads: 1,509<br/>Likes: 254",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B",
-    "published_date": "2026-01-15T09:32:30.895595+00:00",
+    "title": "Supertone/supertonic-2",
+    "description": "Type: text-to-speech<br/>Downloads: 8,587<br/>Likes: 244",
+    "url": "https://huggingface.co/Supertone/supertonic-2",
+    "published_date": "2026-01-15T21:23:23.291394+00:00",
     "categories": [
-      "audio-to-audio"
+      "text-to-speech"
     ],
     "metadata": {
-      "author": "LiquidAI",
-      "item_name": "LFM2.5-Audio-1.5B",
-      "downloads": 1509,
-      "likes": 254,
-      "last_modified": "2026-01-06T00:23:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "d58cafc5afaf52042cb69ee9c6d479cc",
-    "source": "huggingface",
-    "type": "model",
-    "title": "miromind-ai/MiroThinker-v1.5-30B",
-    "description": "Type: text-generation<br/>Downloads: 3,423<br/>Likes: 200",
-    "url": "https://huggingface.co/miromind-ai/MiroThinker-v1.5-30B",
-    "published_date": "2026-01-15T09:32:30.895601+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "miromind-ai",
-      "item_name": "MiroThinker-v1.5-30B",
-      "downloads": 3423,
-      "likes": 200,
-      "last_modified": "2026-01-06T13:07:42.000Z",
+      "author": "Supertone",
+      "item_name": "supertonic-2",
+      "downloads": 8587,
+      "likes": 244,
+      "last_modified": "2026-01-06T07:56:05.000Z",
       "all_tags": []
     }
   },
@@ -282,16 +202,56 @@
     "source": "huggingface",
     "type": "model",
     "title": "kyutai/pocket-tts",
-    "description": "Likes: 154",
+    "description": "Likes: 186",
     "url": "https://huggingface.co/kyutai/pocket-tts",
-    "published_date": "2026-01-15T09:32:30.895606+00:00",
+    "published_date": "2026-01-15T21:23:23.291400+00:00",
     "categories": [],
     "metadata": {
       "author": "kyutai",
       "item_name": "pocket-tts",
       "downloads": 0,
-      "likes": 154,
+      "likes": 186,
       "last_modified": "2026-01-15T04:22:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "bedc380e184e8ad258fadabbd9476ba4",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/nemotron-speech-streaming-en-0.6b",
+    "description": "Type: automatic-speech-recognition<br/>Downloads: 4,414<br/>Likes: 383",
+    "url": "https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b",
+    "published_date": "2026-01-15T21:23:23.291406+00:00",
+    "categories": [
+      "automatic-speech-recognition"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "nemotron-speech-streaming-en-0.6b",
+      "downloads": 4414,
+      "likes": 383,
+      "last_modified": "2026-01-05T23:49:39.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "90f8950afd6611fbfa02523161981ed4",
+    "source": "huggingface",
+    "type": "model",
+    "title": "LiquidAI/LFM2.5-1.2B-Instruct",
+    "description": "Type: text-generation<br/>Downloads: 37,152<br/>Likes: 340",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct",
+    "published_date": "2026-01-15T21:23:23.291413+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "LiquidAI",
+      "item_name": "LFM2.5-1.2B-Instruct",
+      "downloads": 37152,
+      "likes": 340,
+      "last_modified": "2026-01-09T05:56:43.000Z",
       "all_tags": []
     }
   },
@@ -300,9 +260,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-4.7",
-    "description": "Type: text-generation<br/>Downloads: 64,103<br/>Likes: 1628",
+    "description": "Type: text-generation<br/>Downloads: 64,103<br/>Likes: 1644",
     "url": "https://huggingface.co/zai-org/GLM-4.7",
-    "published_date": "2026-01-15T09:32:30.895613+00:00",
+    "published_date": "2026-01-15T21:23:23.291418+00:00",
     "categories": [
       "text-generation"
     ],
@@ -310,28 +270,8 @@
       "author": "zai-org",
       "item_name": "GLM-4.7",
       "downloads": 64103,
-      "likes": 1628,
+      "likes": 1644,
       "last_modified": "2026-01-08T03:34:51.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "5e963eff3292ab0220bcc224407c231e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/Alpamayo-R1-10B",
-    "description": "Type: robotics<br/>Downloads: 21,119<br/>Likes: 295",
-    "url": "https://huggingface.co/nvidia/Alpamayo-R1-10B",
-    "published_date": "2026-01-15T09:32:30.895620+00:00",
-    "categories": [
-      "robotics"
-    ],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Alpamayo-R1-10B",
-      "downloads": 21119,
-      "likes": 295,
-      "last_modified": "2026-01-08T22:31:01.000Z",
       "all_tags": []
     }
   },
@@ -340,9 +280,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Tongyi-MAI/Z-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 398,683<br/>Likes: 3765",
+    "description": "Type: text-to-image<br/>Downloads: 398,683<br/>Likes: 3774",
     "url": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-    "published_date": "2026-01-15T09:32:30.895627+00:00",
+    "published_date": "2026-01-15T21:23:23.291423+00:00",
     "categories": [
       "text-to-image"
     ],
@@ -350,28 +290,28 @@
       "author": "Tongyi-MAI",
       "item_name": "Z-Image-Turbo",
       "downloads": 398683,
-      "likes": 3765,
+      "likes": 3774,
       "last_modified": "2026-01-07T09:24:59.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "93d8abd34f30baee63f4e6bb751ab642",
+    "id": "d58cafc5afaf52042cb69ee9c6d479cc",
     "source": "huggingface",
     "type": "model",
-    "title": "tencent/HY-MT1.5-1.8B",
-    "description": "Type: translation<br/>Downloads: 14,252<br/>Likes: 763",
-    "url": "https://huggingface.co/tencent/HY-MT1.5-1.8B",
-    "published_date": "2026-01-15T09:32:30.895633+00:00",
+    "title": "miromind-ai/MiroThinker-v1.5-30B",
+    "description": "Type: text-generation<br/>Downloads: 3,423<br/>Likes: 203",
+    "url": "https://huggingface.co/miromind-ai/MiroThinker-v1.5-30B",
+    "published_date": "2026-01-15T21:23:23.291428+00:00",
     "categories": [
-      "translation"
+      "text-generation"
     ],
     "metadata": {
-      "author": "tencent",
-      "item_name": "HY-MT1.5-1.8B",
-      "downloads": 14252,
-      "likes": 763,
-      "last_modified": "2026-01-01T02:35:18.000Z",
+      "author": "miromind-ai",
+      "item_name": "MiroThinker-v1.5-30B",
+      "downloads": 3423,
+      "likes": 203,
+      "last_modified": "2026-01-06T13:07:42.000Z",
       "all_tags": []
     }
   },
@@ -380,9 +320,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "MiniMaxAI/MiniMax-M2.1",
-    "description": "Type: text-generation<br/>Downloads: 222,402<br/>Likes: 1062",
+    "description": "Type: text-generation<br/>Downloads: 222,402<br/>Likes: 1072",
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.1",
-    "published_date": "2026-01-15T09:32:30.895642+00:00",
+    "published_date": "2026-01-15T21:23:23.291432+00:00",
     "categories": [
       "text-generation"
     ],
@@ -390,8 +330,68 @@
       "author": "MiniMaxAI",
       "item_name": "MiniMax-M2.1",
       "downloads": 222402,
-      "likes": 1062,
+      "likes": 1072,
       "last_modified": "2025-12-27T17:53:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4ffff7e69250959c55c354a27ed75344",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3-VL-Reranker-2B",
+    "description": "Type: image-to-text<br/>Downloads: 53,126<br/>Likes: 119",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B",
+    "published_date": "2026-01-15T21:23:23.291437+00:00",
+    "categories": [
+      "image-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3-VL-Reranker-2B",
+      "downloads": 53126,
+      "likes": 119,
+      "last_modified": "2026-01-09T14:53:26.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5c950dd2fcc0b33c9a3c0c0f9ffeaff2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "LiquidAI/LFM2.5-Audio-1.5B",
+    "description": "Type: audio-to-audio<br/>Downloads: 1,509<br/>Likes: 257",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B",
+    "published_date": "2026-01-15T21:23:23.291442+00:00",
+    "categories": [
+      "audio-to-audio"
+    ],
+    "metadata": {
+      "author": "LiquidAI",
+      "item_name": "LFM2.5-Audio-1.5B",
+      "downloads": 1509,
+      "likes": 257,
+      "last_modified": "2026-01-06T00:23:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5e963eff3292ab0220bcc224407c231e",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/Alpamayo-R1-10B",
+    "description": "Type: robotics<br/>Downloads: 21,119<br/>Likes: 300",
+    "url": "https://huggingface.co/nvidia/Alpamayo-R1-10B",
+    "published_date": "2026-01-15T21:23:23.291446+00:00",
+    "categories": [
+      "robotics"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Alpamayo-R1-10B",
+      "downloads": 21119,
+      "likes": 300,
+      "last_modified": "2026-01-08T22:31:01.000Z",
       "all_tags": []
     }
   }

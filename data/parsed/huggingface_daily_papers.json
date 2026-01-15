@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "mHC: Manifold-Constrained Hyper-Connections",
-    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 249<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
+    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 251<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24880",
     "external_url": "",
     "published_date": "2025-12-31T09:16:26.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2512.24880",
-      "upvotes": 249,
+      "upvotes": 251,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -63,7 +63,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 207<br/>GitHub Stars: 2376<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
+    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 207<br/>GitHub Stars: 2410<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16676",
     "external_url": "https://github.com/OpenDCAI/DataFlow",
     "published_date": "2025-12-18T10:46:15.000Z",
@@ -74,7 +74,7 @@
     "metadata": {
       "paper_id": "2512.16676",
       "upvotes": 207,
-      "github_stars": 2376,
+      "github_stars": 2410,
       "github_url": "https://github.com/OpenDCAI/DataFlow",
       "project_url": "https://github.com/OpenDCAI/DataFlow",
       "authors": [
@@ -141,7 +141,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning",
-    "description": "In real-world video question answering scenarios, videos often provide only localized visual cues, while verifiable answers are distributed across the open web; models therefore need to jointly perfor...<br/>Upvotes: 195<br/>GitHub Stars: 69<br/>Authors: Chengwen Liu, Xiaomin Yu, Zhuoyue Chang<br/>🔗 <a href=\"https://github.com/QuantaAlpha/VideoDR-Benchmark\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06943\">Hugging Face</a>",
+    "description": "In real-world video question answering scenarios, videos often provide only localized visual cues, while verifiable answers are distributed across the open web; models therefore need to jointly perfor...<br/>Upvotes: 198<br/>GitHub Stars: 79<br/>Authors: Chengwen Liu, Xiaomin Yu, Zhuoyue Chang<br/>🔗 <a href=\"https://github.com/QuantaAlpha/VideoDR-Benchmark\">GitHub</a><br/>🔗 <a href=\"https://videodr-benchmark.github.io/#/home\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06943\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.06943",
     "external_url": "https://github.com/QuantaAlpha/VideoDR-Benchmark",
     "published_date": "2026-01-11T10:07:37.000Z",
@@ -151,10 +151,10 @@
     ],
     "metadata": {
       "paper_id": "2601.06943",
-      "upvotes": 195,
-      "github_stars": 69,
+      "upvotes": 198,
+      "github_stars": 79,
       "github_url": "https://github.com/QuantaAlpha/VideoDR-Benchmark",
-      "project_url": "",
+      "project_url": "https://videodr-benchmark.github.io/#/home",
       "authors": [
         "Chengwen Liu",
         "Xiaomin Yu",
@@ -175,7 +175,7 @@
       ],
       "summary": "In real-world video question answering scenarios, videos often provide only localized visual cues, while verifiable answers are distributed across the open web; models therefore need to jointly perform cross-frame clue extraction, iterative retrieval, and multi-hop reasoning-based verification. To bridge this gap, we construct the first video deep research benchmark, VideoDR. VideoDR centers on video-conditioned open-domain video question answering, requiring cross-frame visual anchor extraction, interactive web retrieval, and multi-hop reasoning over joint video-web evidence; through rigorous human annotation and quality control, we obtain high-quality video deep research samples spanning six semantic domains. We evaluate multiple closed-source and open-source multimodal large language models under both the Workflow and Agentic paradigms, and the results show that Agentic is not consistently superior to Workflow: its gains depend on a model's ability to maintain the initial video anchors over long retrieval chains. Further analysis indicates that goal drift and long-horizon consistency are the core bottlenecks. In sum, VideoDR provides a systematic benchmark for studying video agents in open-web settings and reveals the key challenges for next-generation video deep research agents.",
       "fetch_date": "2026-01-13",
-      "num_comments": 5,
+      "num_comments": 6,
       "ai_summary": "VideoDR benchmark enables video question answering by combining cross-frame visual extraction, web retrieval, and multi-hop reasoning in open-domain settings.",
       "ai_keywords": [
         "video question answering",
@@ -195,7 +195,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
-    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 179<br/>GitHub Stars: 237<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
+    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 185<br/>GitHub Stars: 248<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.05242",
     "external_url": "https://github.com/NVlabs/GDPO",
     "published_date": "2026-01-08T13:59:24.000Z",
@@ -205,8 +205,8 @@
     ],
     "metadata": {
       "paper_id": "2601.05242",
-      "upvotes": 179,
-      "github_stars": 237,
+      "upvotes": 185,
+      "github_stars": 248,
       "github_url": "https://github.com/NVlabs/GDPO",
       "project_url": "https://nvlabs.github.io/GDPO/",
       "authors": [
@@ -246,7 +246,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BabyVision: Visual Reasoning Beyond Language",
-    "description": "While humans develop core visual skills long before acquiring language, contemporary Multimodal LLMs (MLLMs) still rely heavily on linguistic priors to compensate for their fragile visual understandin...<br/>Upvotes: 175<br/>GitHub Stars: 117<br/>Authors: Liang Chen, Weichu Xie, Yiyan Liang<br/>🔗 <a href=\"https://github.com/UniPat-AI/BabyVision\">GitHub</a><br/>🔗 <a href=\"https://unipat.ai/blog/BabyVision\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06521\">Hugging Face</a>",
+    "description": "While humans develop core visual skills long before acquiring language, contemporary Multimodal LLMs (MLLMs) still rely heavily on linguistic priors to compensate for their fragile visual understandin...<br/>Upvotes: 176<br/>GitHub Stars: 125<br/>Authors: Liang Chen, Weichu Xie, Yiyan Liang<br/>🔗 <a href=\"https://github.com/UniPat-AI/BabyVision\">GitHub</a><br/>🔗 <a href=\"https://unipat.ai/blog/BabyVision\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06521\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.06521",
     "external_url": "https://github.com/UniPat-AI/BabyVision",
     "published_date": "2026-01-10T05:42:44.000Z",
@@ -256,8 +256,8 @@
     ],
     "metadata": {
       "paper_id": "2601.06521",
-      "upvotes": 175,
-      "github_stars": 117,
+      "upvotes": 176,
+      "github_stars": 125,
       "github_url": "https://github.com/UniPat-AI/BabyVision",
       "project_url": "https://unipat.ai/blog/BabyVision",
       "authors": [
@@ -421,7 +421,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
-    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 111<br/>GitHub Stars: 4231<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
+    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 112<br/>GitHub Stars: 4239<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24615",
     "external_url": "https://github.com/TencentCloudADP/youtu-agent",
     "published_date": "2025-12-30T23:17:36.000Z",
@@ -431,8 +431,8 @@
     ],
     "metadata": {
       "paper_id": "2512.24615",
-      "upvotes": 111,
-      "github_stars": 4231,
+      "upvotes": 112,
+      "github_stars": 4239,
       "github_url": "https://github.com/TencentCloudADP/youtu-agent",
       "project_url": "https://tencentcloudadp.github.io/youtu-agent/",
       "authors": [
@@ -467,7 +467,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
-    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 93<br/>GitHub Stars: 3201<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
+    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 93<br/>GitHub Stars: 3203<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16093",
     "external_url": "https://github.com/thu-ml/TurboDiffusion",
     "published_date": "2025-12-17T21:21:30.000Z",
@@ -478,7 +478,7 @@
     "metadata": {
       "paper_id": "2512.16093",
       "upvotes": 93,
-      "github_stars": 3201,
+      "github_stars": 3203,
       "github_url": "https://github.com/thu-ml/TurboDiffusion",
       "project_url": "https://github.com/thu-ml/TurboDiffusion",
       "authors": [
@@ -511,7 +511,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM Audio: Segment Anything in Audio",
-    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 22<br/>GitHub Stars: 3032<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
+    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 22<br/>GitHub Stars: 3046<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.18099",
     "external_url": "https://github.com/facebookresearch/sam-audio",
     "published_date": "2025-12-19T17:14:23.000Z",
@@ -522,7 +522,7 @@
     "metadata": {
       "paper_id": "2512.18099",
       "upvotes": 22,
-      "github_stars": 3032,
+      "github_stars": 3046,
       "github_url": "https://github.com/facebookresearch/sam-audio",
       "project_url": "https://ai.meta.com/samaudio/",
       "authors": [
@@ -566,7 +566,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
-    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 99<br/>GitHub Stars: 2644<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
+    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 100<br/>GitHub Stars: 2650<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24873",
     "external_url": "https://github.com/alibaba/ROLL",
     "published_date": "2025-12-31T09:03:39.000Z",
@@ -576,8 +576,8 @@
     ],
     "metadata": {
       "paper_id": "2512.24873",
-      "upvotes": 99,
-      "github_stars": 2644,
+      "upvotes": 100,
+      "github_stars": 2650,
       "github_url": "https://github.com/alibaba/ROLL",
       "project_url": "",
       "authors": [
@@ -692,7 +692,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
-    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 114<br/>GitHub Stars: 2448<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
+    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 118<br/>GitHub Stars: 2491<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.03233",
     "external_url": "https://github.com/Lightricks/LTX-2",
     "published_date": "2026-01-06T13:24:41.000Z",
@@ -702,8 +702,8 @@
     ],
     "metadata": {
       "paper_id": "2601.03233",
-      "upvotes": 114,
-      "github_stars": 2448,
+      "upvotes": 118,
+      "github_stars": 2491,
       "github_url": "https://github.com/Lightricks/LTX-2",
       "project_url": "https://app.ltx.studio/ltx-2-playground/i2v",
       "authors": [
