@@ -10,9 +10,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1138,
+      "score": 1249,
       "author": "alexharri",
-      "comments": 126,
+      "comments": 134,
       "hn_id": 46657122
     },
     "objects": []
@@ -28,9 +28,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 738,
+      "score": 798,
       "author": "lateforwork",
-      "comments": 283,
+      "comments": 295,
       "hn_id": 46663338
     },
     "objects": []
@@ -46,10 +46,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 622,
+      "score": 756,
       "author": "OuterVale",
-      "comments": 201,
+      "comments": 253,
       "hn_id": 46664755
+    },
+    "objects": []
+  },
+  {
+    "id": "98c7a8459225d8d5bc3a8ef30565f4bb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+    "description": "",
+    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "published_date": "2026-01-18T17:40:55+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 618,
+      "author": "ChrisArchitect",
+      "comments": 187,
+      "hn_id": 46670024
     },
     "objects": []
   },
@@ -64,28 +82,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 580,
+      "score": 600,
       "author": "glimshe",
-      "comments": 462,
+      "comments": 495,
       "hn_id": 46658345
-    },
-    "objects": []
-  },
-  {
-    "id": "ea9fb53454f502eb58ecc6d829ab27c8",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Iconify: Library of Open Source Icons",
-    "description": "",
-    "url": "https://icon-sets.iconify.design/",
-    "published_date": "2026-01-18T06:53:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 463,
-      "author": "sea-gold",
-      "comments": 53,
-      "hn_id": 46665411
     },
     "objects": []
   },
@@ -100,10 +100,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 419,
+      "score": 541,
       "author": "calcifer",
-      "comments": 332,
+      "comments": 476,
       "hn_id": 46668021
+    },
+    "objects": []
+  },
+  {
+    "id": "ea9fb53454f502eb58ecc6d829ab27c8",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Iconify: Library of Open Source Icons",
+    "description": "",
+    "url": "https://icon-sets.iconify.design/",
+    "published_date": "2026-01-18T06:53:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 537,
+      "author": "sea-gold",
+      "comments": 59,
+      "hn_id": 46665411
     },
     "objects": []
   },
@@ -118,10 +136,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 396,
+      "score": 485,
       "author": "calcifer",
-      "comments": 383,
+      "comments": 480,
       "hn_id": 46669025
+    },
+    "objects": []
+  },
+  {
+    "id": "af469b631362ab705f09aa2195150cf6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "A Social Filesystem",
+    "description": "",
+    "url": "https://overreacted.io/a-social-filesystem/",
+    "published_date": "2026-01-18T08:18:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 397,
+      "author": "icy",
+      "comments": 161,
+      "hn_id": 46665839
+    },
+    "objects": []
+  },
+  {
+    "id": "afa42b3f523ae46c4a515c403a9b4703",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "description": "",
+    "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+    "published_date": "2026-01-18T08:58:40+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 372,
+      "author": "tosh",
+      "comments": 247,
+      "hn_id": 46666085
     },
     "objects": []
   },
@@ -136,9 +190,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 356,
+      "score": 371,
       "author": "yakkomajuri",
-      "comments": 132,
+      "comments": 138,
       "hn_id": 46660543
     },
     "objects": []
@@ -154,10 +208,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 353,
+      "score": 356,
       "author": "doener",
-      "comments": 318,
+      "comments": 323,
       "hn_id": 46656903
+    },
+    "objects": []
+  },
+  {
+    "id": "ff12570a4790f11fa676bd1b4566b0ba",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Flux 2 Klein pure C inference",
+    "description": "",
+    "url": "https://github.com/antirez/flux2.c",
+    "published_date": "2026-01-18T18:01:58+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 328,
+      "author": "antirez",
+      "comments": 119,
+      "hn_id": 46670279
+    },
+    "objects": []
+  },
+  {
+    "id": "00357a953a5e72a0b6076bb7d025e5b5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+    "description": "",
+    "url": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "published_date": "2026-01-18T21:05:14+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 311,
+      "author": "nobody9999",
+      "comments": 88,
+      "hn_id": 46672150
+    },
+    "objects": []
+  },
+  {
+    "id": "0e2b6f7195f0990868ce3dc787305e17",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Dead Internet Theory",
+    "description": "",
+    "url": "https://kudmitry.com/articles/dead-internet-theory/",
+    "published_date": "2026-01-18T20:19:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 303,
+      "author": "skwee357",
+      "comments": 359,
+      "hn_id": 46671731
     },
     "objects": []
   },
@@ -172,9 +280,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 280,
+      "score": 300,
       "author": "nl",
-      "comments": 263,
+      "comments": 282,
       "hn_id": 46664631
     },
     "objects": []
@@ -190,9 +298,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 279,
+      "score": 290,
       "author": "originalankur",
-      "comments": 63,
+      "comments": 64,
       "hn_id": 46656834
     },
     "objects": []
@@ -208,28 +316,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 261,
+      "score": 289,
       "author": "karakoram",
-      "comments": 205,
+      "comments": 220,
       "hn_id": 46669404
-    },
-    "objects": []
-  },
-  {
-    "id": "98c7a8459225d8d5bc3a8ef30565f4bb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
-    "description": "",
-    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-    "published_date": "2026-01-18T17:40:55+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 258,
-      "author": "ChrisArchitect",
-      "comments": 97,
-      "hn_id": 46670024
     },
     "objects": []
   },
@@ -244,28 +334,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 258,
+      "score": 264,
       "author": "smurda",
-      "comments": 308,
+      "comments": 319,
       "hn_id": 46656998
     },
     "objects": []
   },
   {
-    "id": "afa42b3f523ae46c4a515c403a9b4703",
+    "id": "0c4dd35146d2990a8f22a9d21e38b28f",
     "source": "hackernews",
     "type": "story",
-    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "title": "ThinkNext Design",
     "description": "",
-    "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-    "published_date": "2026-01-18T08:58:40+00:00",
+    "url": "https://thinknextdesign.com/home.html",
+    "published_date": "2026-01-18T06:27:24+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 256,
-      "author": "tosh",
-      "comments": 175,
-      "hn_id": 46666085
+      "score": 252,
+      "author": "__patchbit__",
+      "comments": 127,
+      "hn_id": 46665310
     },
     "objects": []
   },
@@ -280,9 +370,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 234,
+      "score": 244,
       "author": "nhatcher",
-      "comments": 63,
+      "comments": 64,
       "hn_id": 46661897
     },
     "objects": []
@@ -298,28 +388,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 224,
+      "score": 234,
       "author": "2OEH8eoCRo0",
-      "comments": 353,
+      "comments": 366,
       "hn_id": 46659651
-    },
-    "objects": []
-  },
-  {
-    "id": "5fa07a10bbc167531050f1b935560797",
-    "source": "hackernews",
-    "type": "story",
-    "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
-    "description": "",
-    "url": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
-    "published_date": "2026-01-16T23:46:17+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 223,
-      "author": "GaggiX",
-      "comments": 57,
-      "hn_id": 46653721
     },
     "objects": []
   },
@@ -334,28 +406,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 214,
+      "score": 218,
       "author": "Fudgel",
       "comments": 157,
       "hn_id": 46662662
-    },
-    "objects": []
-  },
-  {
-    "id": "0c4dd35146d2990a8f22a9d21e38b28f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "ThinkNext Design",
-    "description": "",
-    "url": "https://thinknextdesign.com/home.html",
-    "published_date": "2026-01-18T06:27:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 212,
-      "author": "__patchbit__",
-      "comments": 102,
-      "hn_id": 46665310
     },
     "objects": []
   },
@@ -370,190 +424,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 212,
+      "score": 214,
       "author": "tin7in",
-      "comments": 95,
+      "comments": 96,
       "hn_id": 46656552
-    },
-    "objects": []
-  },
-  {
-    "id": "246858457e3b3ae89cf9b9b60a7e9406",
-    "source": "hackernews",
-    "type": "story",
-    "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
-    "description": "",
-    "url": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
-    "published_date": "2026-01-17T10:29:35+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 201,
-      "author": "giuliomagnifico",
-      "comments": 228,
-      "hn_id": 46656911
-    },
-    "objects": []
-  },
-  {
-    "id": "6ee33600e02c0101aa1b6e55e426256a",
-    "source": "hackernews",
-    "type": "story",
-    "title": "LWN is currently under the heaviest scraper attack seen yet",
-    "description": "",
-    "url": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
-    "published_date": "2026-01-16T20:37:31+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 197,
-      "author": "luu",
-      "comments": 127,
-      "hn_id": 46651887
-    },
-    "objects": []
-  },
-  {
-    "id": "668a18d52f23304320b1587402895429",
-    "source": "hackernews",
-    "type": "story",
-    "title": "2025 was the third hottest year on record",
-    "description": "",
-    "url": "https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record",
-    "published_date": "2026-01-17T17:29:31+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 194,
-      "author": "andsoitis",
-      "comments": 199,
-      "hn_id": 46659913
-    },
-    "objects": []
-  },
-  {
-    "id": "da5b2e8e40a037b3fa65005c68cb2beb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "What life is like in Minneapolis now",
-    "description": "",
-    "url": "https://donmoynihan.substack.com/p/dispatch-from-the-occupation",
-    "published_date": "2026-01-17T14:13:11+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 183,
-      "author": "_tk_",
-      "comments": 56,
-      "hn_id": 46658213
-    },
-    "objects": []
-  },
-  {
-    "id": "0e929930260649b6c9376d30721167c0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Canada's deal with China signals it is serious about shift from US",
-    "description": "",
-    "url": "https://www.bbc.com/news/articles/cm24k6kk1rko",
-    "published_date": "2026-01-17T19:29:04+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 177,
-      "author": "breve",
-      "comments": 224,
-      "hn_id": 46661217
-    },
-    "objects": []
-  },
-  {
-    "id": "181446882dd466a3996b6d9ff8bfe1b7",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ask HN: Is it still worth pursuing a software startup?",
-    "description": "",
-    "url": "https://news.ycombinator.com/item?id=46654726",
-    "published_date": "2026-01-17T02:29:07+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 175,
-      "author": "newbebee",
-      "comments": 212,
-      "hn_id": 46654726
-    },
-    "objects": []
-  },
-  {
-    "id": "e7b0771a45b51612883c0de669da29e0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "An Elizabethan mansion's secrets for staying warm",
-    "description": "",
-    "url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-    "published_date": "2026-01-17T16:53:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 174,
-      "author": "Tachyooon",
-      "comments": 174,
-      "hn_id": 46659550
-    },
-    "objects": []
-  },
-  {
-    "id": "d75d63db48a1d96cedd2d180241c83e1",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The longest Greek word",
-    "description": "",
-    "url": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
-    "published_date": "2026-01-18T03:49:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 173,
-      "author": "firloop",
-      "comments": 78,
-      "hn_id": 46664638
-    },
-    "objects": []
-  },
-  {
-    "id": "6cc78914acaa12e6576c6f2b17c2b3fb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Consent-O-Matic",
-    "description": "",
-    "url": "https://github.com/cavi-au/Consent-O-Matic",
-    "published_date": "2026-01-18T09:35:19+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 172,
-      "author": "throawayonthe",
-      "comments": 91,
-      "hn_id": 46666283
-    },
-    "objects": []
-  },
-  {
-    "id": "c95c3d59445f8e156730a1c774649f19",
-    "source": "hackernews",
-    "type": "story",
-    "title": "The 'untouchable hacker god' behind Finland's biggest crime",
-    "description": "",
-    "url": "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
-    "published_date": "2026-01-17T07:29:18+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 165,
-      "author": "c420",
-      "comments": 164,
-      "hn_id": 46656045
     },
     "objects": []
   },
@@ -568,136 +442,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 164,
+      "score": 209,
       "author": "madspindel",
-      "comments": 53,
+      "comments": 83,
       "hn_id": 46669945
     },
     "objects": []
   },
   {
-    "id": "2d4aed8bd3e48e474b922d4b6531e48a",
+    "id": "246858457e3b3ae89cf9b9b60a7e9406",
     "source": "hackernews",
     "type": "story",
-    "title": "Profession by Isaac Asimov (1957)",
+    "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
     "description": "",
-    "url": "https://www.abelard.org/asimov.php",
-    "published_date": "2026-01-18T02:17:25+00:00",
+    "url": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+    "published_date": "2026-01-17T10:29:35+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 163,
-      "author": "bkudria",
-      "comments": 52,
-      "hn_id": 46664195
-    },
-    "objects": []
-  },
-  {
-    "id": "0efab5be3a3413bea33a7c0d2649708e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-    "description": "",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
-    "published_date": "2026-01-16T21:42:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 157,
-      "author": "linolevan",
-      "comments": 88,
-      "hn_id": 46652617
-    },
-    "objects": []
-  },
-  {
-    "id": "97795dafc352d9cc4d085917275269eb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
-    "description": "",
-    "url": "https://github.com/PABannier/WSIStreamer",
-    "published_date": "2026-01-17T08:46:08+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 154,
-      "author": "el_pa_b",
-      "comments": 47,
-      "hn_id": 46656358
-    },
-    "objects": []
-  },
-  {
-    "id": "3d98251357086061d885b928dbca56be",
-    "source": "hackernews",
-    "type": "story",
-    "title": "You have three minutes to escape the perpetual underclass",
-    "description": "",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html",
-    "published_date": "2026-01-17T08:23:44+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 152,
-      "author": "mefengl",
-      "comments": 235,
-      "hn_id": 46656256
-    },
-    "objects": []
-  },
-  {
-    "id": "d9fa3ca61fc458407130cefe07ac6142",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-    "description": "",
-    "url": "https://neodyme.io/en/blog/drone_hacking_part_1/",
-    "published_date": "2026-01-17T02:35:28+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 145,
-      "author": "tripdout",
-      "comments": 28,
-      "hn_id": 46654749
-    },
-    "objects": []
-  },
-  {
-    "id": "af469b631362ab705f09aa2195150cf6",
-    "source": "hackernews",
-    "type": "story",
-    "title": "A Social Filesystem",
-    "description": "",
-    "url": "https://overreacted.io/a-social-filesystem/",
-    "published_date": "2026-01-18T08:18:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 143,
-      "author": "icy",
-      "comments": 79,
-      "hn_id": 46665839
-    },
-    "objects": []
-  },
-  {
-    "id": "ae1628ac018521a058d8a29204d4faef",
-    "source": "hackernews",
-    "type": "story",
-    "title": "What is Plan 9?",
-    "description": "",
-    "url": "https://fqa.9front.org/fqa0.html#0.1",
-    "published_date": "2026-01-18T13:32:25+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 138,
-      "author": "AlexeyBrin",
-      "comments": 57,
-      "hn_id": 46667675
+      "score": 205,
+      "author": "giuliomagnifico",
+      "comments": 226,
+      "hn_id": 46656911
     },
     "objects": []
   },
@@ -712,118 +478,316 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 132,
+      "score": 198,
       "author": "jwilk",
-      "comments": 30,
+      "comments": 40,
       "hn_id": 46666288
     },
     "objects": []
   },
   {
-    "id": "ff12570a4790f11fa676bd1b4566b0ba",
+    "id": "668a18d52f23304320b1587402895429",
     "source": "hackernews",
     "type": "story",
-    "title": "Flux 2 Klein pure C inference",
+    "title": "2025 was the third hottest year on record",
     "description": "",
-    "url": "https://github.com/antirez/flux2.c",
-    "published_date": "2026-01-18T18:01:58+00:00",
+    "url": "https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record",
+    "published_date": "2026-01-17T17:29:31+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 125,
-      "author": "antirez",
-      "comments": 46,
-      "hn_id": 46670279
-    },
-    "objects": []
-  },
-  {
-    "id": "30a57fee00ddf7418e5c28d15bb248df",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
-    "description": "",
-    "url": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
-    "published_date": "2026-01-17T13:44:02+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 116,
-      "author": "7777777phil",
-      "comments": 45,
-      "hn_id": 46658014
-    },
-    "objects": []
-  },
-  {
-    "id": "98930f8153c053cdb23c1896cd5f874e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Justice Dept. launches criminal investigation of Minnesota governor",
-    "description": "",
-    "url": "https://www.washingtonpost.com/national-security/2026/01/16/trump-minnesota-walz-frey-criminal-investigation/",
-    "published_date": "2026-01-17T02:28:08+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 116,
-      "author": "perihelions",
-      "comments": 60,
-      "hn_id": 46654721
-    },
-    "objects": []
-  },
-  {
-    "id": "8faf1fdcda5380bf724696991ca39c68",
-    "source": "hackernews",
-    "type": "story",
-    "title": "U.S. Court Order Against Anna's Archive Spells More Trouble for the Site",
-    "description": "",
-    "url": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
-    "published_date": "2026-01-18T03:52:10+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 114,
-      "author": "t-3",
-      "comments": 51,
-      "hn_id": 46664646
-    },
-    "objects": []
-  },
-  {
-    "id": "6bd2773b3c3e6a074d2ee1f4318d6307",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Earth is warming faster. Scientists are closing in on why (2024)",
-    "description": "",
-    "url": "https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why",
-    "published_date": "2026-01-17T17:48:06+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 113,
+      "score": 198,
       "author": "andsoitis",
-      "comments": 131,
-      "hn_id": 46660134
+      "comments": 200,
+      "hn_id": 46659913
     },
     "objects": []
   },
   {
-    "id": "e01137f2388d010b333fe0dfab3934df",
+    "id": "cda893ecc4ca47bb41d8aa0b1ed44ce6",
     "source": "hackernews",
     "type": "story",
-    "title": "Computer Systems Security 6.566 / Spring 2024",
+    "title": "Prediction markets are ushering in a world in which news becomes about gambling",
     "description": "",
-    "url": "https://css.csail.mit.edu/6.858/2024/",
-    "published_date": "2026-01-18T00:09:43+00:00",
+    "url": "https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb",
+    "published_date": "2026-01-18T18:20:25+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 112,
-      "author": "barishnamazov",
-      "comments": 15,
-      "hn_id": 46663507
+      "score": 197,
+      "author": "krustyburger",
+      "comments": 214,
+      "hn_id": 46670524
+    },
+    "objects": []
+  },
+  {
+    "id": "498ffcd202a61578afa461e5eff03a9a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Software engineers can no longer neglect their soft skills",
+    "description": "",
+    "url": "https://www.qu8n.com/posts/most-important-software-engineering-skill-2026",
+    "published_date": "2026-01-18T13:14:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 191,
+      "author": "quanwinn",
+      "comments": 228,
+      "hn_id": 46667572
+    },
+    "objects": []
+  },
+  {
+    "id": "da5b2e8e40a037b3fa65005c68cb2beb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "What life is like in Minneapolis now",
+    "description": "",
+    "url": "https://donmoynihan.substack.com/p/dispatch-from-the-occupation",
+    "published_date": "2026-01-17T14:13:11+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 189,
+      "author": "_tk_",
+      "comments": 60,
+      "hn_id": 46658213
+    },
+    "objects": []
+  },
+  {
+    "id": "6cc78914acaa12e6576c6f2b17c2b3fb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Consent-O-Matic",
+    "description": "",
+    "url": "https://github.com/cavi-au/Consent-O-Matic",
+    "published_date": "2026-01-18T09:35:19+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 183,
+      "author": "throawayonthe",
+      "comments": 96,
+      "hn_id": 46666283
+    },
+    "objects": []
+  },
+  {
+    "id": "0e929930260649b6c9376d30721167c0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Canada's deal with China signals it is serious about shift from US",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/cm24k6kk1rko",
+    "published_date": "2026-01-17T19:29:04+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 183,
+      "author": "breve",
+      "comments": 231,
+      "hn_id": 46661217
+    },
+    "objects": []
+  },
+  {
+    "id": "2d4aed8bd3e48e474b922d4b6531e48a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Profession by Isaac Asimov (1957)",
+    "description": "",
+    "url": "https://www.abelard.org/asimov.php",
+    "published_date": "2026-01-18T02:17:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 182,
+      "author": "bkudria",
+      "comments": 61,
+      "hn_id": 46664195
+    },
+    "objects": []
+  },
+  {
+    "id": "d75d63db48a1d96cedd2d180241c83e1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The longest Greek word",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
+    "published_date": "2026-01-18T03:49:29+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 180,
+      "author": "firloop",
+      "comments": 88,
+      "hn_id": 46664638
+    },
+    "objects": []
+  },
+  {
+    "id": "e7b0771a45b51612883c0de669da29e0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "An Elizabethan mansion's secrets for staying warm",
+    "description": "",
+    "url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+    "published_date": "2026-01-17T16:53:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 178,
+      "author": "Tachyooon",
+      "comments": 180,
+      "hn_id": 46659550
+    },
+    "objects": []
+  },
+  {
+    "id": "ae1628ac018521a058d8a29204d4faef",
+    "source": "hackernews",
+    "type": "story",
+    "title": "What is Plan 9?",
+    "description": "",
+    "url": "https://fqa.9front.org/fqa0.html#0.1",
+    "published_date": "2026-01-18T13:32:25+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 173,
+      "author": "AlexeyBrin",
+      "comments": 95,
+      "hn_id": 46667675
+    },
+    "objects": []
+  },
+  {
+    "id": "bf05b6cf1e16e0e56b44c1e2e588fd68",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Prediction: Microsoft will eventually ship a Windows-themed Linux distro",
+    "description": "",
+    "url": "https://gamesbymason.com/blog/2026/microsoft/",
+    "published_date": "2026-01-18T23:24:55+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 165,
+      "author": "AndyKelley",
+      "comments": 194,
+      "hn_id": 46673264
+    },
+    "objects": []
+  },
+  {
+    "id": "97795dafc352d9cc4d085917275269eb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+    "description": "",
+    "url": "https://github.com/PABannier/WSIStreamer",
+    "published_date": "2026-01-17T08:46:08+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 157,
+      "author": "el_pa_b",
+      "comments": 47,
+      "hn_id": 46656358
+    },
+    "objects": []
+  },
+  {
+    "id": "7411ef1b0659a4e6d6f63281282e7931",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)",
+    "description": "",
+    "url": "https://pdfwithlove.netlify.app",
+    "published_date": "2026-01-19T05:04:07+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 153,
+      "author": "pratik227",
+      "comments": 101,
+      "hn_id": 46675231
+    },
+    "objects": []
+  },
+  {
+    "id": "b8dfd12b6b2d3b6bf04db5bf1ca6e105",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Sins of the Children",
+    "description": "",
+    "url": "https://asteriskmag.com/issues/07/sins-of-the-children",
+    "published_date": "2026-01-18T17:08:58+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 148,
+      "author": "maxall4",
+      "comments": 71,
+      "hn_id": 46669663
+    },
+    "objects": []
+  },
+  {
+    "id": "b52198a1ff069f69c327b6d2e0aaa2b6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss",
+    "description": "",
+    "url": "https://getdock.io/",
+    "published_date": "2026-01-18T20:42:49+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 133,
+      "author": "yadavrh",
+      "comments": 115,
+      "hn_id": 46671952
+    },
+    "objects": []
+  },
+  {
+    "id": "de212c64cdbc0efe742109bacf4865ca",
+    "source": "hackernews",
+    "type": "story",
+    "title": "High-speed train collision in Spain kills at least 39",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+    "published_date": "2026-01-18T23:54:43+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 132,
+      "author": "akyuu",
+      "comments": 110,
+      "hn_id": 46673453
+    },
+    "objects": []
+  },
+  {
+    "id": "31610d2da431322835a436920ac8143e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Provide agents with automated feedback",
+    "description": "",
+    "url": "https://banay.me/dont-waste-your-backpressure/",
+    "published_date": "2026-01-17T10:26:18+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 129,
+      "author": "ghuntley",
+      "comments": 56,
+      "hn_id": 46656897
     },
     "objects": []
   },
@@ -838,10 +802,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 111,
+      "score": 127,
       "author": "tuned",
-      "comments": 26,
+      "comments": 50,
       "hn_id": 46666963
+    },
+    "objects": []
+  },
+  {
+    "id": "a379113f4e5c072d8db3b29e7ec4a5e8",
+    "source": "hackernews",
+    "type": "story",
+    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+    "description": "",
+    "url": "https://bitchat.free/",
+    "published_date": "2026-01-19T07:14:19+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 125,
+      "author": "no_creativity_",
+      "comments": 58,
+      "hn_id": 46675853
+    },
+    "objects": []
+  },
+  {
+    "id": "74f4eec5bf2401283cfdd58491aedf4e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup",
+    "description": "",
+    "url": "https://cua.ai/docs/lume/guide/getting-started/introduction",
+    "published_date": "2026-01-18T17:53:21+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 124,
+      "author": "frabonacci",
+      "comments": 34,
+      "hn_id": 46670181
+    },
+    "objects": []
+  },
+  {
+    "id": "8faf1fdcda5380bf724696991ca39c68",
+    "source": "hackernews",
+    "type": "story",
+    "title": "U.S. Court Order Against Anna's Archive Spells More Trouble for the Site",
+    "description": "",
+    "url": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
+    "published_date": "2026-01-18T03:52:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 123,
+      "author": "t-3",
+      "comments": 68,
+      "hn_id": 46664646
     },
     "objects": []
   },
@@ -856,46 +874,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 111,
+      "score": 120,
       "author": "firloop",
-      "comments": 72,
+      "comments": 77,
       "hn_id": 46663268
     },
     "objects": []
   },
   {
-    "id": "243ce1a700769a67d15e21651ab5632d",
+    "id": "30a57fee00ddf7418e5c28d15bb248df",
     "source": "hackernews",
     "type": "story",
-    "title": "How scientists are using Claude to accelerate research and discovery",
+    "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
     "description": "",
-    "url": "https://www.anthropic.com/news/accelerating-scientific-research",
-    "published_date": "2026-01-18T03:22:52+00:00",
+    "url": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
+    "published_date": "2026-01-17T13:44:02+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 107,
-      "author": "gmays",
-      "comments": 69,
-      "hn_id": 46664540
-    },
-    "objects": []
-  },
-  {
-    "id": "d5126b251d9dd724e9c10df93c4ced1d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "EU and Mercosur countries sign landmark free trade deal",
-    "description": "",
-    "url": "https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794",
-    "published_date": "2026-01-18T10:13:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 106,
-      "author": "perihelions",
-      "comments": 151,
-      "hn_id": 46666492
+      "score": 120,
+      "author": "7777777phil",
+      "comments": 45,
+      "hn_id": 46658014
     },
     "objects": []
   }
