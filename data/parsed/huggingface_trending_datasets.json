@@ -1,37 +1,37 @@
 [
   {
-    "id": "6c9fd43d361bd4f474d253d9f7c26bd3",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "MiniMaxAI/OctoCodingBench",
-    "description": "Downloads: 8,315<br/>Likes: 216",
-    "url": "https://huggingface.co/datasets/MiniMaxAI/OctoCodingBench",
-    "published_date": "2026-01-20T09:37:04.668226+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "OctoCodingBench",
-      "downloads": 8315,
-      "likes": 216,
-      "last_modified": "2026-01-13T13:02:26.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "282aa52d71e46161191bcd98059a78c8",
     "source": "huggingface",
     "type": "dataset",
     "title": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
-    "description": "Downloads: 5,304<br/>Likes: 164",
+    "description": "Downloads: 5,304<br/>Likes: 170",
     "url": "https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
-    "published_date": "2026-01-20T09:37:04.668242+00:00",
+    "published_date": "2026-01-20T21:22:31.825727+00:00",
     "categories": [],
     "metadata": {
       "author": "Alibaba-Apsara",
       "item_name": "Superior-Reasoning-SFT-gpt-oss-120b",
       "downloads": 5304,
-      "likes": 164,
+      "likes": 170,
       "last_modified": "2026-01-15T06:39:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6c9fd43d361bd4f474d253d9f7c26bd3",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "MiniMaxAI/OctoCodingBench",
+    "description": "Downloads: 8,315<br/>Likes: 220",
+    "url": "https://huggingface.co/datasets/MiniMaxAI/OctoCodingBench",
+    "published_date": "2026-01-20T21:22:31.825749+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "MiniMaxAI",
+      "item_name": "OctoCodingBench",
+      "downloads": 8315,
+      "likes": 220,
+      "last_modified": "2026-01-13T13:02:26.000Z",
       "all_tags": []
     }
   },
@@ -40,15 +40,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finetranslations",
-    "description": "Downloads: 24,715<br/>Likes: 228",
+    "description": "Downloads: 24,715<br/>Likes: 230",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finetranslations",
-    "published_date": "2026-01-20T09:37:04.668251+00:00",
+    "published_date": "2026-01-20T21:22:31.825756+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finetranslations",
       "downloads": 24715,
-      "likes": 228,
+      "likes": 230,
       "last_modified": "2026-01-09T16:45:58.000Z",
       "all_tags": []
     }
@@ -58,34 +58,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/finepdfs",
-    "description": "Downloads: 20,927<br/>Likes: 765",
+    "description": "Downloads: 20,927<br/>Likes: 766",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/finepdfs",
-    "published_date": "2026-01-20T09:37:04.668257+00:00",
+    "published_date": "2026-01-20T21:22:31.825761+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "finepdfs",
       "downloads": 20927,
-      "likes": 765,
+      "likes": 766,
       "last_modified": "2026-01-09T10:37:26.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "6a897e19bf7248fbd49e82554424bde1",
+    "id": "4ed233caa6e4e9a1ab4280ad08888195",
     "source": "huggingface",
     "type": "dataset",
-    "title": "xiuhuywh/DRIM-VisualReasonHard",
-    "description": "Downloads: 2,118<br/>Likes: 133",
-    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-VisualReasonHard",
-    "published_date": "2026-01-20T09:37:04.668263+00:00",
+    "title": "facebook/action100m-preview",
+    "description": "Downloads: 1,683<br/>Likes: 48",
+    "url": "https://huggingface.co/datasets/facebook/action100m-preview",
+    "published_date": "2026-01-20T21:22:31.825766+00:00",
     "categories": [],
     "metadata": {
-      "author": "xiuhuywh",
-      "item_name": "DRIM-VisualReasonHard",
-      "downloads": 2118,
-      "likes": 133,
-      "last_modified": "2026-01-09T08:29:06.000Z",
+      "author": "facebook",
+      "item_name": "action100m-preview",
+      "downloads": 1683,
+      "likes": 48,
+      "last_modified": "2026-01-14T14:24:13.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "33c08c99e1f7d79e840a98942af5b42c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "LEMAS-Project/LEMAS-Dataset-train",
+    "description": "Downloads: 14,742<br/>Likes: 52",
+    "url": "https://huggingface.co/datasets/LEMAS-Project/LEMAS-Dataset-train",
+    "published_date": "2026-01-20T21:22:31.825771+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "LEMAS-Project",
+      "item_name": "LEMAS-Dataset-train",
+      "downloads": 14742,
+      "likes": 52,
+      "last_modified": "2026-01-09T03:33:49.000Z",
       "all_tags": []
     }
   },
@@ -96,7 +114,7 @@
     "title": "nvidia/embed-nemotron-dataset-v1",
     "description": "Downloads: 451<br/>Likes: 87",
     "url": "https://huggingface.co/datasets/nvidia/embed-nemotron-dataset-v1",
-    "published_date": "2026-01-20T09:37:04.668269+00:00",
+    "published_date": "2026-01-20T21:22:31.825776+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
@@ -108,74 +126,20 @@
     }
   },
   {
-    "id": "79e06212f14a15251743c51dae6752b1",
+    "id": "6a897e19bf7248fbd49e82554424bde1",
     "source": "huggingface",
     "type": "dataset",
-    "title": "miromind-ai/MiroVerse-v0.1",
-    "description": "Downloads: 927<br/>Likes: 211",
-    "url": "https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1",
-    "published_date": "2026-01-20T09:37:04.668275+00:00",
+    "title": "xiuhuywh/DRIM-VisualReasonHard",
+    "description": "Downloads: 2,118<br/>Likes: 133",
+    "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-VisualReasonHard",
+    "published_date": "2026-01-20T21:22:31.825781+00:00",
     "categories": [],
     "metadata": {
-      "author": "miromind-ai",
-      "item_name": "MiroVerse-v0.1",
-      "downloads": 927,
-      "likes": 211,
-      "last_modified": "2026-01-16T02:06:27.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "33c08c99e1f7d79e840a98942af5b42c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "LEMAS-Project/LEMAS-Dataset-train",
-    "description": "Downloads: 14,742<br/>Likes: 50",
-    "url": "https://huggingface.co/datasets/LEMAS-Project/LEMAS-Dataset-train",
-    "published_date": "2026-01-20T09:37:04.668282+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "LEMAS-Project",
-      "item_name": "LEMAS-Dataset-train",
-      "downloads": 14742,
-      "likes": 50,
-      "last_modified": "2026-01-09T03:33:49.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "4ed233caa6e4e9a1ab4280ad08888195",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "facebook/action100m-preview",
-    "description": "Downloads: 1,683<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/facebook/action100m-preview",
-    "published_date": "2026-01-20T09:37:04.668287+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "facebook",
-      "item_name": "action100m-preview",
-      "downloads": 1683,
-      "likes": 46,
-      "last_modified": "2026-01-14T14:24:13.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b3e43678e1757f38132f6b5f0b994a6c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "NousResearch/RLVR_Coding_Problems",
-    "description": "Downloads: 133<br/>Likes: 68",
-    "url": "https://huggingface.co/datasets/NousResearch/RLVR_Coding_Problems",
-    "published_date": "2026-01-20T09:37:04.668293+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "NousResearch",
-      "item_name": "RLVR_Coding_Problems",
-      "downloads": 133,
-      "likes": 68,
-      "last_modified": "2025-12-24T21:33:46.000Z",
+      "author": "xiuhuywh",
+      "item_name": "DRIM-VisualReasonHard",
+      "downloads": 2118,
+      "likes": 133,
+      "last_modified": "2026-01-09T08:29:06.000Z",
       "all_tags": []
     }
   },
@@ -186,7 +150,7 @@
     "title": "DatologyAI/DatBench",
     "description": "Downloads: 698<br/>Likes: 105",
     "url": "https://huggingface.co/datasets/DatologyAI/DatBench",
-    "published_date": "2026-01-20T09:37:04.668299+00:00",
+    "published_date": "2026-01-20T21:22:31.825786+00:00",
     "categories": [],
     "metadata": {
       "author": "DatologyAI",
@@ -198,20 +162,56 @@
     }
   },
   {
-    "id": "22fbbf62ed45e5510c6e5cecd5d92ccd",
+    "id": "79e06212f14a15251743c51dae6752b1",
     "source": "huggingface",
     "type": "dataset",
-    "title": "DatologyAI/DatBench-Full",
-    "description": "Downloads: 452<br/>Likes: 74",
-    "url": "https://huggingface.co/datasets/DatologyAI/DatBench-Full",
-    "published_date": "2026-01-20T09:37:04.668305+00:00",
+    "title": "miromind-ai/MiroVerse-v0.1",
+    "description": "Downloads: 927<br/>Likes: 212",
+    "url": "https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1",
+    "published_date": "2026-01-20T21:22:31.825790+00:00",
     "categories": [],
     "metadata": {
-      "author": "DatologyAI",
-      "item_name": "DatBench-Full",
-      "downloads": 452,
-      "likes": 74,
-      "last_modified": "2026-01-14T09:32:05.000Z",
+      "author": "miromind-ai",
+      "item_name": "MiroVerse-v0.1",
+      "downloads": 927,
+      "likes": 212,
+      "last_modified": "2026-01-16T02:06:27.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "30c962a478325a445bdee018e9ee4900",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
+    "description": "Downloads: 156,050<br/>Likes: 705",
+    "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
+    "published_date": "2026-01-20T21:22:31.825795+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "PhysicalAI-Autonomous-Vehicles",
+      "downloads": 156050,
+      "likes": 705,
+      "last_modified": "2025-12-05T18:23:36.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b3e43678e1757f38132f6b5f0b994a6c",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "NousResearch/RLVR_Coding_Problems",
+    "description": "Downloads: 133<br/>Likes: 68",
+    "url": "https://huggingface.co/datasets/NousResearch/RLVR_Coding_Problems",
+    "published_date": "2026-01-20T21:22:31.825800+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "NousResearch",
+      "item_name": "RLVR_Coding_Problems",
+      "downloads": 133,
+      "likes": 68,
+      "last_modified": "2025-12-24T21:33:46.000Z",
       "all_tags": []
     }
   },
@@ -222,7 +222,7 @@
     "title": "openmed-community/MedReason-Stenographic",
     "description": "Downloads: 69<br/>Likes: 53",
     "url": "https://huggingface.co/datasets/openmed-community/MedReason-Stenographic",
-    "published_date": "2026-01-20T09:37:04.668311+00:00",
+    "published_date": "2026-01-20T21:22:31.825805+00:00",
     "categories": [],
     "metadata": {
       "author": "openmed-community",
@@ -240,7 +240,7 @@
     "title": "edc505/pokemon",
     "description": "Downloads: 2,991<br/>Likes: 89",
     "url": "https://huggingface.co/datasets/edc505/pokemon",
-    "published_date": "2026-01-20T09:37:04.668322+00:00",
+    "published_date": "2026-01-20T21:22:31.825810+00:00",
     "categories": [],
     "metadata": {
       "author": "edc505",
@@ -252,49 +252,13 @@
     }
   },
   {
-    "id": "b0335db000f6e24516c38606556d01ba",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/PhysicalAI-Autonomous-Vehicles-NuRec",
-    "description": "Downloads: 13,585<br/>Likes: 116",
-    "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles-NuRec",
-    "published_date": "2026-01-20T09:37:04.668328+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "PhysicalAI-Autonomous-Vehicles-NuRec",
-      "downloads": 13585,
-      "likes": 116,
-      "last_modified": "2025-11-03T20:40:56.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "30c962a478325a445bdee018e9ee4900",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/PhysicalAI-Autonomous-Vehicles",
-    "description": "Downloads: 156,050<br/>Likes: 704",
-    "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles",
-    "published_date": "2026-01-20T09:37:04.668334+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "PhysicalAI-Autonomous-Vehicles",
-      "downloads": 156050,
-      "likes": 704,
-      "last_modified": "2025-12-05T18:23:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "b06decf23a9683429d71318d79192f0a",
     "source": "huggingface",
     "type": "dataset",
     "title": "UniParser/OmniScience",
     "description": "Downloads: 5,857<br/>Likes: 39",
     "url": "https://huggingface.co/datasets/UniParser/OmniScience",
-    "published_date": "2026-01-20T09:37:04.668340+00:00",
+    "published_date": "2026-01-20T21:22:31.825818+00:00",
     "categories": [],
     "metadata": {
       "author": "UniParser",
@@ -306,13 +270,67 @@
     }
   },
   {
+    "id": "22fbbf62ed45e5510c6e5cecd5d92ccd",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "DatologyAI/DatBench-Full",
+    "description": "Downloads: 452<br/>Likes: 74",
+    "url": "https://huggingface.co/datasets/DatologyAI/DatBench-Full",
+    "published_date": "2026-01-20T21:22:31.825823+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "DatologyAI",
+      "item_name": "DatBench-Full",
+      "downloads": 452,
+      "likes": 74,
+      "last_modified": "2026-01-14T09:32:05.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "17e3772725eb9595235d50c6f63a82ac",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b-Logprob",
+    "description": "Downloads: 1,073<br/>Likes: 27",
+    "url": "https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b-Logprob",
+    "published_date": "2026-01-20T21:22:31.825829+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Alibaba-Apsara",
+      "item_name": "Superior-Reasoning-SFT-gpt-oss-120b-Logprob",
+      "downloads": 1073,
+      "likes": 27,
+      "last_modified": "2026-01-15T07:18:35.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d69843ae19dcaf1cfd03304024f7d2f4",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "allenai/ai2_arc",
+    "description": "Downloads: 249,397<br/>Likes: 282",
+    "url": "https://huggingface.co/datasets/allenai/ai2_arc",
+    "published_date": "2026-01-20T21:22:31.825835+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "allenai",
+      "item_name": "ai2_arc",
+      "downloads": 249397,
+      "likes": 282,
+      "last_modified": "2023-12-21T15:09:48.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "38f927ee0a3ffb2e123f7cfee2921104",
     "source": "huggingface",
     "type": "dataset",
     "title": "ScienceOne-AI/S1-MMAlign",
     "description": "Downloads: 12,464<br/>Likes: 94",
     "url": "https://huggingface.co/datasets/ScienceOne-AI/S1-MMAlign",
-    "published_date": "2026-01-20T09:37:04.668347+00:00",
+    "published_date": "2026-01-20T21:22:31.825840+00:00",
     "categories": [],
     "metadata": {
       "author": "ScienceOne-AI",
@@ -330,7 +348,7 @@
     "title": "xiuhuywh/DRIM-ColdstartSFT",
     "description": "Downloads: 23,741<br/>Likes: 108",
     "url": "https://huggingface.co/datasets/xiuhuywh/DRIM-ColdstartSFT",
-    "published_date": "2026-01-20T09:37:04.668353+00:00",
+    "published_date": "2026-01-20T21:22:31.825845+00:00",
     "categories": [],
     "metadata": {
       "author": "xiuhuywh",
@@ -338,24 +356,6 @@
       "downloads": 23741,
       "likes": 108,
       "last_modified": "2026-01-09T08:30:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "d69843ae19dcaf1cfd03304024f7d2f4",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "allenai/ai2_arc",
-    "description": "Downloads: 249,397<br/>Likes: 282",
-    "url": "https://huggingface.co/datasets/allenai/ai2_arc",
-    "published_date": "2026-01-20T09:37:04.668359+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "allenai",
-      "item_name": "ai2_arc",
-      "downloads": 249397,
-      "likes": 282,
-      "last_modified": "2023-12-21T15:09:48.000Z",
       "all_tags": []
     }
   }
