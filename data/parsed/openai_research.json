@@ -119,23 +119,6 @@
         "objects": []
     },
     {
-        "id": "2758b62979d98cf84733022868d51914",
-        "source": "openai",
-        "type": "publication",
-        "title": "Update to GPT-5 System Card: GPT-5.2",
-        "description": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI\u2019s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
-        "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2/",
-        "published_date": "2025-12-11T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "6a5fbe7d1d4482c93d777c1647eefc40",
         "source": "openai",
         "type": "product",
@@ -149,6 +132,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "2758b62979d98cf84733022868d51914",
+        "source": "openai",
+        "type": "publication",
+        "title": "Update to GPT-5 System Card: GPT-5.2",
+        "description": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI\u2019s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+        "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     }
