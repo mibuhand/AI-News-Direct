@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "mHC: Manifold-Constrained Hyper-Connections",
-    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 274<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
+    "description": "Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual connection paradigm established over the past decade by expanding the residual stream width and diversifyi...<br/>Upvotes: 275<br/>Authors: Zhenda Xie, Yixuan Wei, Huanqi Cao<br/>🔗 <a href=\"https://huggingface.co/papers/2512.24880\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24880",
     "external_url": "",
     "published_date": "2025-12-31T09:16:26.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2512.24880",
-      "upvotes": 274,
+      "upvotes": 275,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -59,89 +59,11 @@
     }
   },
   {
-    "id": "adcafb2025f84cc88e13db2e967d246f",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-    "description": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current pra...<br/>Upvotes: 210<br/>GitHub Stars: 2564<br/>Authors: Hao Liang, Xiaochen Ma, Zhou Liu<br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">GitHub</a><br/>🔗 <a href=\"https://github.com/OpenDCAI/DataFlow\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16676\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2512.16676",
-    "external_url": "https://github.com/OpenDCAI/DataFlow",
-    "published_date": "2025-12-18T10:46:15.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2512.16676",
-      "upvotes": 210,
-      "github_stars": 2564,
-      "github_url": "https://github.com/OpenDCAI/DataFlow",
-      "project_url": "https://github.com/OpenDCAI/DataFlow",
-      "authors": [
-        "Hao Liang",
-        "Xiaochen Ma",
-        "Zhou Liu",
-        "Zhen Hao Wong",
-        "Zhengyang Zhao",
-        "Zimo Meng",
-        "Runming He",
-        "Chengyu Shen",
-        "Qifeng Cai",
-        "Zhaoyang Han",
-        "Meiyi Qiang",
-        "Yalin Feng",
-        "Tianyi Bai",
-        "Zewei Pan",
-        "Ziyi Guo",
-        "Yizhen Jiang",
-        "Jingwen Deng",
-        "Qijie You",
-        "Peichao Lai",
-        "Tianyu Guo",
-        "Chi Hsu Tsai",
-        "Hengyi Feng",
-        "Rui Hu",
-        "Wenkai Yu",
-        "Junbo Niu",
-        "Bohan Zeng",
-        "Ruichuan An",
-        "Lu Ma",
-        "Jihao Huang",
-        "Yaowei Zheng",
-        "Conghui He",
-        "Linpeng Tang",
-        "Bin Cui",
-        "Weinan E",
-        "Wentao Zhang"
-      ],
-      "summary": "The rapidly growing demand for high-quality data in Large Language Models (LLMs) has intensified the need for scalable, reliable, and semantically rich data preparation pipelines. However, current practices remain dominated by ad-hoc scripts and loosely specified workflows, which lack principled abstractions, hinder reproducibility, and offer limited support for model-in-the-loop data generation. To address these challenges, we present DataFlow, a unified and extensible LLM-driven data preparation framework. DataFlow is designed with system-level abstractions that enable modular, reusable, and composable data transformations, and provides a PyTorch-style pipeline construction API for building debuggable and optimizable dataflows. The framework consists of nearly 200 reusable operators and six domain-general pipelines spanning text, mathematical reasoning, code, Text-to-SQL, agentic RAG, and large-scale knowledge extraction. To further improve usability, we introduce DataFlow-Agent, which automatically translates natural-language specifications into executable pipelines via operator synthesis, pipeline planning, and iterative verification. Across six representative use cases, DataFlow consistently improves downstream LLM performance. Our math, code, and text pipelines outperform curated human datasets and specialized synthetic baselines, achieving up to +3\\% execution accuracy in Text-to-SQL over SynSQL, +7\\% average improvements on code benchmarks, and 1--3 point gains on MATH, GSM8K, and AIME. Moreover, a unified 10K-sample dataset produced by DataFlow enables base models to surpass counterparts trained on 1M Infinity-Instruct data. These results demonstrate that DataFlow provides a practical and high-performance substrate for reliable, reproducible, and scalable LLM data preparation, and establishes a system-level foundation for future data-centric AI development.",
-      "fetch_date": "2025-12-23",
-      "num_comments": 4,
-      "ai_summary": "DataFlow is an LLM-driven data preparation framework that enhances data quality and reproducibility for various tasks, improving LLM performance with automatically generated pipelines.",
-      "ai_keywords": [
-        "DataFlow",
-        "Large Language Models (LLMs)",
-        "data preparation pipelines",
-        "system-level abstractions",
-        "PyTorch-style pipeline construction API",
-        "reusable operators",
-        "domain-general pipelines",
-        "Text-to-SQL",
-        "agentic RAG",
-        "large-scale knowledge extraction",
-        "DataFlow-Agent",
-        "operator synthesis",
-        "pipeline planning",
-        "iterative verification"
-      ]
-    }
-  },
-  {
     "id": "01505ff128b7cc4069a838f067f22852",
     "source": "huggingface",
     "type": "paper",
     "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning",
-    "description": "In real-world video question answering scenarios, videos often provide only localized visual cues, while verifiable answers are distributed across the open web; models therefore need to jointly perfor...<br/>Upvotes: 203<br/>GitHub Stars: 127<br/>Authors: Chengwen Liu, Xiaomin Yu, Zhuoyue Chang<br/>🔗 <a href=\"https://github.com/QuantaAlpha/VideoDR-Benchmark\">GitHub</a><br/>🔗 <a href=\"https://videodr-benchmark.github.io/#/home\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06943\">Hugging Face</a>",
+    "description": "In real-world video question answering scenarios, videos often provide only localized visual cues, while verifiable answers are distributed across the open web; models therefore need to jointly perfor...<br/>Upvotes: 206<br/>GitHub Stars: 131<br/>Authors: Chengwen Liu, Xiaomin Yu, Zhuoyue Chang<br/>🔗 <a href=\"https://github.com/QuantaAlpha/VideoDR-Benchmark\">GitHub</a><br/>🔗 <a href=\"https://videodr-benchmark.github.io/#/home\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06943\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.06943",
     "external_url": "https://github.com/QuantaAlpha/VideoDR-Benchmark",
     "published_date": "2026-01-11T10:07:37.000Z",
@@ -151,8 +73,8 @@
     ],
     "metadata": {
       "paper_id": "2601.06943",
-      "upvotes": 203,
-      "github_stars": 127,
+      "upvotes": 206,
+      "github_stars": 131,
       "github_url": "https://github.com/QuantaAlpha/VideoDR-Benchmark",
       "project_url": "https://videodr-benchmark.github.io/#/home",
       "authors": [
@@ -195,7 +117,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
-    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 202<br/>GitHub Stars: 302<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
+    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 203<br/>GitHub Stars: 305<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.05242",
     "external_url": "https://github.com/NVlabs/GDPO",
     "published_date": "2026-01-08T13:59:24.000Z",
@@ -205,8 +127,8 @@
     ],
     "metadata": {
       "paper_id": "2601.05242",
-      "upvotes": 202,
-      "github_stars": 302,
+      "upvotes": 203,
+      "github_stars": 305,
       "github_url": "https://github.com/NVlabs/GDPO",
       "project_url": "https://nvlabs.github.io/GDPO/",
       "authors": [
@@ -246,7 +168,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "BabyVision: Visual Reasoning Beyond Language",
-    "description": "While humans develop core visual skills long before acquiring language, contemporary Multimodal LLMs (MLLMs) still rely heavily on linguistic priors to compensate for their fragile visual understandin...<br/>Upvotes: 186<br/>GitHub Stars: 152<br/>Authors: Liang Chen, Weichu Xie, Yiyan Liang<br/>🔗 <a href=\"https://github.com/UniPat-AI/BabyVision\">GitHub</a><br/>🔗 <a href=\"https://unipat.ai/blog/BabyVision\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06521\">Hugging Face</a>",
+    "description": "While humans develop core visual skills long before acquiring language, contemporary Multimodal LLMs (MLLMs) still rely heavily on linguistic priors to compensate for their fragile visual understandin...<br/>Upvotes: 187<br/>GitHub Stars: 152<br/>Authors: Liang Chen, Weichu Xie, Yiyan Liang<br/>🔗 <a href=\"https://github.com/UniPat-AI/BabyVision\">GitHub</a><br/>🔗 <a href=\"https://unipat.ai/blog/BabyVision\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.06521\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.06521",
     "external_url": "https://github.com/UniPat-AI/BabyVision",
     "published_date": "2026-01-10T05:42:44.000Z",
@@ -256,7 +178,7 @@
     ],
     "metadata": {
       "paper_id": "2601.06521",
-      "upvotes": 186,
+      "upvotes": 187,
       "github_stars": 152,
       "github_url": "https://github.com/UniPat-AI/BabyVision",
       "project_url": "https://unipat.ai/blog/BabyVision",
@@ -310,7 +232,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "STEP3-VL-10B Technical Report",
-    "description": "We present STEP3-VL-10B, a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence. STEP3-VL-10B is realized t...<br/>Upvotes: 180<br/>GitHub Stars: 234<br/>Authors: Ailin Huang, Chengyuan Yao, Chunrui Han<br/>🔗 <a href=\"https://github.com/stepfun-ai/Step3-VL-10B\">GitHub</a><br/>🔗 <a href=\"https://stepfun-ai.github.io/Step3-VL-10B\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.09668\">Hugging Face</a>",
+    "description": "We present STEP3-VL-10B, a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence. STEP3-VL-10B is realized t...<br/>Upvotes: 181<br/>GitHub Stars: 244<br/>Authors: Ailin Huang, Chengyuan Yao, Chunrui Han<br/>🔗 <a href=\"https://github.com/stepfun-ai/Step3-VL-10B\">GitHub</a><br/>🔗 <a href=\"https://stepfun-ai.github.io/Step3-VL-10B\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.09668\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.09668",
     "external_url": "https://github.com/stepfun-ai/Step3-VL-10B",
     "published_date": "2026-01-14T12:58:24.000Z",
@@ -320,8 +242,8 @@
     ],
     "metadata": {
       "paper_id": "2601.09668",
-      "upvotes": 180,
-      "github_stars": 234,
+      "upvotes": 181,
+      "github_stars": 244,
       "github_url": "https://github.com/stepfun-ai/Step3-VL-10B",
       "project_url": "https://stepfun-ai.github.io/Step3-VL-10B",
       "authors": [
@@ -440,11 +362,58 @@
     }
   },
   {
+    "id": "25722a8b53047461c6a490f1ed16844e",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization",
+    "description": "The image geolocalization task aims to predict the location where an image was taken anywhere on Earth using visual clues. Existing large vision-language model (LVLM) approaches leverage world knowled...<br/>Upvotes: 160<br/>GitHub Stars: 135<br/>Authors: Yuxiang Ji, Yong Wang, Ziyu Ma<br/>🔗 <a href=\"https://github.com/AMAP-ML/Thinking-with-Map\">GitHub</a><br/>🔗 <a href=\"https://amap-ml.github.io/Thinking-with-Map/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05432\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2601.05432",
+    "external_url": "https://github.com/AMAP-ML/Thinking-with-Map",
+    "published_date": "2026-01-08T18:47:30.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2601.05432",
+      "upvotes": 160,
+      "github_stars": 135,
+      "github_url": "https://github.com/AMAP-ML/Thinking-with-Map",
+      "project_url": "https://amap-ml.github.io/Thinking-with-Map/",
+      "authors": [
+        "Yuxiang Ji",
+        "Yong Wang",
+        "Ziyu Ma",
+        "Yiming Hu",
+        "Hailang Huang",
+        "Xuecai Hu",
+        "Guanhua Chen",
+        "Liaoni Wu",
+        "Xiangxiang Chu"
+      ],
+      "summary": "The image geolocalization task aims to predict the location where an image was taken anywhere on Earth using visual clues. Existing large vision-language model (LVLM) approaches leverage world knowledge, chain-of-thought reasoning, and agentic capabilities, but overlook a common strategy used by humans -- using maps. In this work, we first equip the model Thinking with Map ability and formulate it as an agent-in-the-map loop. We develop a two-stage optimization scheme for it, including agentic reinforcement learning (RL) followed by parallel test-time scaling (TTS). The RL strengthens the agentic capability of model to improve sampling efficiency, and the parallel TTS enables the model to explore multiple candidate paths before making the final prediction, which is crucial for geolocalization. To evaluate our method on up-to-date and in-the-wild images, we further present MAPBench, a comprehensive geolocalization training and evaluation benchmark composed entirely of real-world images. Experimental results show that our method outperforms existing open- and closed-source models on most metrics, specifically improving Acc@500m from 8.0\\% to 22.1\\% compared to Gemini-3-Pro with Google Search/Map grounded mode.",
+      "fetch_date": "2026-01-12",
+      "num_comments": 6,
+      "ai_summary": "Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.",
+      "ai_keywords": [
+        "vision-language model",
+        "geolocalization",
+        "chain-of-thought reasoning",
+        "agentic capabilities",
+        "agentic reinforcement learning",
+        "parallel test-time scaling",
+        "agent-in-the-map loop",
+        "MAPBench",
+        "Acc@500m"
+      ]
+    }
+  },
+  {
     "id": "4abe591dec20d02c68570faea169dfcb",
     "source": "huggingface",
     "type": "paper",
     "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
-    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 114<br/>GitHub Stars: 4274<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
+    "description": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual ef...<br/>Upvotes: 115<br/>GitHub Stars: 4276<br/>Authors: Yuchen Shi, Yuzheng Cai, Siqi Cai<br/>🔗 <a href=\"https://github.com/TencentCloudADP/youtu-agent\">GitHub</a><br/>🔗 <a href=\"https://tencentcloudadp.github.io/youtu-agent/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24615\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24615",
     "external_url": "https://github.com/TencentCloudADP/youtu-agent",
     "published_date": "2025-12-30T23:17:36.000Z",
@@ -454,8 +423,8 @@
     ],
     "metadata": {
       "paper_id": "2512.24615",
-      "upvotes": 114,
-      "github_stars": 4274,
+      "upvotes": 115,
+      "github_stars": 4276,
       "github_url": "https://github.com/TencentCloudADP/youtu-agent",
       "project_url": "https://tencentcloudadp.github.io/youtu-agent/",
       "authors": [
@@ -490,7 +459,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
-    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 93<br/>GitHub Stars: 3259<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
+    "description": "We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while maintaining video quality. TurboDiffusion mainly relies on se...<br/>Upvotes: 94<br/>GitHub Stars: 3268<br/>Authors: Jintao Zhang, Kaiwen Zheng, Kai Jiang<br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">GitHub</a><br/>🔗 <a href=\"https://github.com/thu-ml/TurboDiffusion\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.16093\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.16093",
     "external_url": "https://github.com/thu-ml/TurboDiffusion",
     "published_date": "2025-12-17T21:21:30.000Z",
@@ -500,8 +469,8 @@
     ],
     "metadata": {
       "paper_id": "2512.16093",
-      "upvotes": 93,
-      "github_stars": 3259,
+      "upvotes": 94,
+      "github_stars": 3268,
       "github_url": "https://github.com/thu-ml/TurboDiffusion",
       "project_url": "https://github.com/thu-ml/TurboDiffusion",
       "authors": [
@@ -534,7 +503,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM Audio: Segment Anything in Audio",
-    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 22<br/>GitHub Stars: 3157<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
+    "description": "General audio source separation is a key capability for multimodal AI systems that can perceive and reason about sound. Despite substantial progress in recent years, existing separation models are eit...<br/>Upvotes: 22<br/>GitHub Stars: 3161<br/>Authors: Bowen Shi, Andros Tjandra, John Hoffman<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-audio\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/samaudio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.18099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.18099",
     "external_url": "https://github.com/facebookresearch/sam-audio",
     "published_date": "2025-12-19T17:14:23.000Z",
@@ -545,7 +514,7 @@
     "metadata": {
       "paper_id": "2512.18099",
       "upvotes": 22,
-      "github_stars": 3157,
+      "github_stars": 3161,
       "github_url": "https://github.com/facebookresearch/sam-audio",
       "project_url": "https://ai.meta.com/samaudio/",
       "authors": [
@@ -589,7 +558,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
-    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 131<br/>GitHub Stars: 2956<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
+    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 132<br/>GitHub Stars: 2987<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.03233",
     "external_url": "https://github.com/Lightricks/LTX-2",
     "published_date": "2026-01-06T13:24:41.000Z",
@@ -599,8 +568,8 @@
     ],
     "metadata": {
       "paper_id": "2601.03233",
-      "upvotes": 131,
-      "github_stars": 2956,
+      "upvotes": 132,
+      "github_stars": 2987,
       "github_url": "https://github.com/Lightricks/LTX-2",
       "project_url": "https://app.ltx.studio/ltx-2-playground/i2v",
       "authors": [
@@ -657,7 +626,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
-    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 101<br/>GitHub Stars: 2698<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
+    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 102<br/>GitHub Stars: 2701<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24873",
     "external_url": "https://github.com/alibaba/ROLL",
     "published_date": "2025-12-31T09:03:39.000Z",
@@ -667,8 +636,8 @@
     ],
     "metadata": {
       "paper_id": "2512.24873",
-      "upvotes": 101,
-      "github_stars": 2698,
+      "upvotes": 102,
+      "github_stars": 2701,
       "github_url": "https://github.com/alibaba/ROLL",
       "project_url": "",
       "authors": [
@@ -776,6 +745,42 @@
         "Terminal Bench Pro",
         "SWE-bench Verified"
       ]
+    }
+  },
+  {
+    "id": "42acbf549db8c79c9ce60d3d38eb8c52",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+    "description": "To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction ...<br/>Upvotes: 35<br/>GitHub Stars: 1811<br/>Authors: Jiaqi Liu, Yaofeng Su, Peng Xia<br/>🔗 <a href=\"https://github.com/aiming-lab/SimpleMem\">GitHub</a><br/>🔗 <a href=\"https://aiming-lab.github.io/SimpleMem-Page/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.02553\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2601.02553",
+    "external_url": "https://github.com/aiming-lab/SimpleMem",
+    "published_date": "2026-01-05T16:02:49.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2601.02553",
+      "upvotes": 35,
+      "github_stars": 1811,
+      "github_url": "https://github.com/aiming-lab/SimpleMem",
+      "project_url": "https://aiming-lab.github.io/SimpleMem-Page/",
+      "authors": [
+        "Jiaqi Liu",
+        "Yaofeng Su",
+        "Peng Xia",
+        "Siwei Han",
+        "Zeyu Zheng",
+        "Cihang Xie",
+        "Mingyu Ding",
+        "Huaxiu Yao"
+      ],
+      "summary": "To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.",
+      "fetch_date": "2026-01-06",
+      "num_comments": 3,
+      "ai_summary": "",
+      "ai_keywords": []
     }
   }
 ]
