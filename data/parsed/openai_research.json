@@ -17,23 +17,6 @@
         "objects": []
     },
     {
-        "id": "e7c12ac6a6a96b49f648ed3161505cac",
-        "source": "openai",
-        "type": "publication",
-        "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
-        "url": "https://openai.com/index/gpt-5-2-codex-system-card/",
-        "published_date": "2025-12-18T00:00:00+00:00",
-        "categories": [
-            "Publication"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
         "id": "0fc67abe10b7b513c171d0bf63a5eb8d",
         "source": "openai",
         "type": "product",
@@ -47,6 +30,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Product"
+        },
+        "objects": []
+    },
+    {
+        "id": "e7c12ac6a6a96b49f648ed3161505cac",
+        "source": "openai",
+        "type": "publication",
+        "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+        "description": "This system card outlines the comprehensive safety measures implemented for GPT\u20115.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+        "url": "https://openai.com/index/gpt-5-2-codex-system-card/",
+        "published_date": "2025-12-18T00:00:00+00:00",
+        "categories": [
+            "Publication"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Publication"
         },
         "objects": []
     },
@@ -119,23 +119,6 @@
         "objects": []
     },
     {
-        "id": "6a5fbe7d1d4482c93d777c1647eefc40",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing GPT-5.2The most advanced frontier model for professional work and long-running agents.",
-        "description": "",
-        "url": "https://openai.com/index/introducing-gpt-5-2/",
-        "published_date": "2025-12-11T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
-        },
-        "objects": []
-    },
-    {
         "id": "2758b62979d98cf84733022868d51914",
         "source": "openai",
         "type": "publication",
@@ -149,6 +132,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "6a5fbe7d1d4482c93d777c1647eefc40",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing GPT-5.2The most advanced frontier model for professional work and long-running agents.",
+        "description": "",
+        "url": "https://openai.com/index/introducing-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     }
