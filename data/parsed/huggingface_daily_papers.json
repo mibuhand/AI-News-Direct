@@ -117,7 +117,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
-    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 204<br/>GitHub Stars: 307<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
+    "description": "As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human preferences across a variety of scenarios. To ach...<br/>Upvotes: 205<br/>GitHub Stars: 309<br/>Authors: Shih-Yang Liu, Xin Dong, Ximing Lu<br/>🔗 <a href=\"https://github.com/NVlabs/GDPO\">GitHub</a><br/>🔗 <a href=\"https://nvlabs.github.io/GDPO/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.05242\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.05242",
     "external_url": "https://github.com/NVlabs/GDPO",
     "published_date": "2026-01-08T13:59:24.000Z",
@@ -127,8 +127,8 @@
     ],
     "metadata": {
       "paper_id": "2601.05242",
-      "upvotes": 204,
-      "github_stars": 307,
+      "upvotes": 205,
+      "github_stars": 309,
       "github_url": "https://github.com/NVlabs/GDPO",
       "project_url": "https://nvlabs.github.io/GDPO/",
       "authors": [
@@ -232,7 +232,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "STEP3-VL-10B Technical Report",
-    "description": "We present STEP3-VL-10B, a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence. STEP3-VL-10B is realized t...<br/>Upvotes: 183<br/>GitHub Stars: 292<br/>Authors: Ailin Huang, Chengyuan Yao, Chunrui Han<br/>🔗 <a href=\"https://github.com/stepfun-ai/Step3-VL-10B\">GitHub</a><br/>🔗 <a href=\"https://stepfun-ai.github.io/Step3-VL-10B\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.09668\">Hugging Face</a>",
+    "description": "We present STEP3-VL-10B, a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence. STEP3-VL-10B is realized t...<br/>Upvotes: 184<br/>GitHub Stars: 296<br/>Authors: Ailin Huang, Chengyuan Yao, Chunrui Han<br/>🔗 <a href=\"https://github.com/stepfun-ai/Step3-VL-10B\">GitHub</a><br/>🔗 <a href=\"https://stepfun-ai.github.io/Step3-VL-10B\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.09668\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.09668",
     "external_url": "https://github.com/stepfun-ai/Step3-VL-10B",
     "published_date": "2026-01-14T12:58:24.000Z",
@@ -242,8 +242,8 @@
     ],
     "metadata": {
       "paper_id": "2601.09668",
-      "upvotes": 183,
-      "github_stars": 292,
+      "upvotes": 184,
+      "github_stars": 296,
       "github_url": "https://github.com/stepfun-ai/Step3-VL-10B",
       "project_url": "https://stepfun-ai.github.io/Step3-VL-10B",
       "authors": [
@@ -366,7 +366,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Agentic Reasoning for Large Language Models",
-    "description": "Reasoning is a fundamental cognitive process underlying inference, problem-solving, and decision-making. While large language models (LLMs) demonstrate strong reasoning capabilities in closed-world se...<br/>Upvotes: 162<br/>GitHub Stars: 305<br/>Authors: Tianxin Wei, Ting-Wei Li, Zhining Liu<br/>🔗 <a href=\"https://github.com/weitianxin/Awesome-Agentic-Reasoning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.12538\">Hugging Face</a>",
+    "description": "Reasoning is a fundamental cognitive process underlying inference, problem-solving, and decision-making. While large language models (LLMs) demonstrate strong reasoning capabilities in closed-world se...<br/>Upvotes: 165<br/>GitHub Stars: 349<br/>Authors: Tianxin Wei, Ting-Wei Li, Zhining Liu<br/>🔗 <a href=\"https://github.com/weitianxin/Awesome-Agentic-Reasoning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.12538\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.12538",
     "external_url": "https://github.com/weitianxin/Awesome-Agentic-Reasoning",
     "published_date": "2026-01-18T13:58:23.000Z",
@@ -376,8 +376,8 @@
     ],
     "metadata": {
       "paper_id": "2601.12538",
-      "upvotes": 162,
-      "github_stars": 305,
+      "upvotes": 165,
+      "github_stars": 349,
       "github_url": "https://github.com/weitianxin/Awesome-Agentic-Reasoning",
       "project_url": "",
       "authors": [
@@ -488,6 +488,62 @@
     }
   },
   {
+    "id": "e6cd663cc8eaf53e2ed564e037a90af3",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Qwen3-TTS Technical Report",
+    "description": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice clonin...<br/>Upvotes: 26<br/>GitHub Stars: 3286<br/>Authors: Hangrui Hu, Xinfa Zhu, Ting He<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-TTS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.15621\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2601.15621",
+    "external_url": "https://github.com/QwenLM/Qwen3-TTS",
+    "published_date": "2026-01-21T22:51:43.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2601.15621",
+      "upvotes": 26,
+      "github_stars": 3286,
+      "github_url": "https://github.com/QwenLM/Qwen3-TTS",
+      "project_url": "",
+      "authors": [
+        "Hangrui Hu",
+        "Xinfa Zhu",
+        "Ting He",
+        "Dake Guo",
+        "Bin Zhang",
+        "Xiong Wang",
+        "Zhifang Guo",
+        "Ziyue Jiang",
+        "Hongkun Hao",
+        "Zishan Guo",
+        "Xinyu Zhang",
+        "Pei Zhang",
+        "Baosong Yang",
+        "Jin Xu",
+        "Jingren Zhou",
+        "Junyang Lin"
+      ],
+      "summary": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice cloning and description-based control, allowing both the creation of entirely novel voices and fine-grained manipulation over the output speech. Trained on over 5 million hours of speech data spanning 10 languages, Qwen3-TTS adopts a dual-track LM architecture for real-time synthesis, coupled with two speech tokenizers: 1) Qwen-TTS-Tokenizer-25Hz is a single-codebook codec emphasizing semantic content, which offers seamlessly integration with Qwen-Audio and enables streaming waveform reconstruction via a block-wise DiT. 2) Qwen-TTS-Tokenizer-12Hz achieves extreme bitrate reduction and ultra-low-latency streaming, enabling immediate first-packet emission (97,ms) through its 12.5 Hz, 16-layer multi-codebook design and a lightweight causal ConvNet. Extensive experiments indicate state-of-the-art performance across diverse objective and subjective benchmark (e.g., TTS multilingual test set, InstructTTSEval, and our long speech test set). To facilitate community research and development, we release both tokenizers and models under the Apache 2.0 license.",
+      "fetch_date": "2026-01-23",
+      "num_comments": 1,
+      "ai_summary": "The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.",
+      "ai_keywords": [
+        "text-to-speech",
+        "voice cloning",
+        "dual-track LM architecture",
+        "speech tokenizers",
+        "Qwen-TTS-Tokenizer-25Hz",
+        "Qwen-TTS-Tokenizer-12Hz",
+        "DiT",
+        "ConvNet",
+        "streaming waveform reconstruction",
+        "multilingual",
+        "controllable speech generation"
+      ]
+    }
+  },
+  {
     "id": "5bb778f47e493a1d7bcf12aaaec0e25e",
     "source": "huggingface",
     "type": "paper",
@@ -536,7 +592,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
-    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 133<br/>GitHub Stars: 3052<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
+    "description": "Recent text-to-video diffusion models can generate compelling video sequences, yet they remain silent -- missing the semantic, emotional, and atmospheric cues that audio provides. We introduce LTX-2, ...<br/>Upvotes: 134<br/>GitHub Stars: 3075<br/>Authors: Yoav HaCohen, Benny Brazowski, Nisan Chiprut<br/>🔗 <a href=\"https://github.com/Lightricks/LTX-2\">GitHub</a><br/>🔗 <a href=\"https://app.ltx.studio/ltx-2-playground/i2v\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.03233\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.03233",
     "external_url": "https://github.com/Lightricks/LTX-2",
     "published_date": "2026-01-06T13:24:41.000Z",
@@ -546,8 +602,8 @@
     ],
     "metadata": {
       "paper_id": "2601.03233",
-      "upvotes": 133,
-      "github_stars": 3052,
+      "upvotes": 134,
+      "github_stars": 3075,
       "github_url": "https://github.com/Lightricks/LTX-2",
       "project_url": "https://app.ltx.studio/ltx-2-playground/i2v",
       "authors": [
@@ -600,67 +656,11 @@
     }
   },
   {
-    "id": "e6cd663cc8eaf53e2ed564e037a90af3",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Qwen3-TTS Technical Report",
-    "description": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice clonin...<br/>Upvotes: 24<br/>GitHub Stars: 2789<br/>Authors: Hangrui Hu, Xinfa Zhu, Ting He<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-TTS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.15621\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2601.15621",
-    "external_url": "https://github.com/QwenLM/Qwen3-TTS",
-    "published_date": "2026-01-21T22:51:43.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2601.15621",
-      "upvotes": 24,
-      "github_stars": 2789,
-      "github_url": "https://github.com/QwenLM/Qwen3-TTS",
-      "project_url": "",
-      "authors": [
-        "Hangrui Hu",
-        "Xinfa Zhu",
-        "Ting He",
-        "Dake Guo",
-        "Bin Zhang",
-        "Xiong Wang",
-        "Zhifang Guo",
-        "Ziyue Jiang",
-        "Hongkun Hao",
-        "Zishan Guo",
-        "Xinyu Zhang",
-        "Pei Zhang",
-        "Baosong Yang",
-        "Jin Xu",
-        "Jingren Zhou",
-        "Junyang Lin"
-      ],
-      "summary": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice cloning and description-based control, allowing both the creation of entirely novel voices and fine-grained manipulation over the output speech. Trained on over 5 million hours of speech data spanning 10 languages, Qwen3-TTS adopts a dual-track LM architecture for real-time synthesis, coupled with two speech tokenizers: 1) Qwen-TTS-Tokenizer-25Hz is a single-codebook codec emphasizing semantic content, which offers seamlessly integration with Qwen-Audio and enables streaming waveform reconstruction via a block-wise DiT. 2) Qwen-TTS-Tokenizer-12Hz achieves extreme bitrate reduction and ultra-low-latency streaming, enabling immediate first-packet emission (97,ms) through its 12.5 Hz, 16-layer multi-codebook design and a lightweight causal ConvNet. Extensive experiments indicate state-of-the-art performance across diverse objective and subjective benchmark (e.g., TTS multilingual test set, InstructTTSEval, and our long speech test set). To facilitate community research and development, we release both tokenizers and models under the Apache 2.0 license.",
-      "fetch_date": "2026-01-23",
-      "num_comments": 1,
-      "ai_summary": "The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.",
-      "ai_keywords": [
-        "text-to-speech",
-        "voice cloning",
-        "dual-track LM architecture",
-        "speech tokenizers",
-        "Qwen-TTS-Tokenizer-25Hz",
-        "Qwen-TTS-Tokenizer-12Hz",
-        "DiT",
-        "ConvNet",
-        "streaming waveform reconstruction",
-        "multilingual",
-        "controllable speech generation"
-      ]
-    }
-  },
-  {
     "id": "1f04a85a317b82f2c574c078f215f35e",
     "source": "huggingface",
     "type": "paper",
     "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
-    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 102<br/>GitHub Stars: 2707<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
+    "description": "Agentic crafting requires LLMs to operate in real-world environments over multiple turns by taking actions, observing outcomes, and iteratively refining artifacts. Despite its importance, the open-sou...<br/>Upvotes: 102<br/>GitHub Stars: 2709<br/>Authors: Weixun Wang, XiaoXiao Xu, Wanhe An<br/>🔗 <a href=\"https://github.com/alibaba/ROLL\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2512.24873\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2512.24873",
     "external_url": "https://github.com/alibaba/ROLL",
     "published_date": "2025-12-31T09:03:39.000Z",
@@ -671,7 +671,7 @@
     "metadata": {
       "paper_id": "2512.24873",
       "upvotes": 102,
-      "github_stars": 2707,
+      "github_stars": 2709,
       "github_url": "https://github.com/alibaba/ROLL",
       "project_url": "",
       "authors": [
@@ -786,7 +786,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
-    "description": "To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction ...<br/>Upvotes: 37<br/>GitHub Stars: 1871<br/>Authors: Jiaqi Liu, Yaofeng Su, Peng Xia<br/>🔗 <a href=\"https://github.com/aiming-lab/SimpleMem\">GitHub</a><br/>🔗 <a href=\"https://aiming-lab.github.io/SimpleMem-Page/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.02553\">Hugging Face</a>",
+    "description": "To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction ...<br/>Upvotes: 37<br/>GitHub Stars: 1913<br/>Authors: Jiaqi Liu, Yaofeng Su, Peng Xia<br/>🔗 <a href=\"https://github.com/aiming-lab/SimpleMem\">GitHub</a><br/>🔗 <a href=\"https://aiming-lab.github.io/SimpleMem-Page/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.02553\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.02553",
     "external_url": "https://github.com/aiming-lab/SimpleMem",
     "published_date": "2026-01-05T16:02:49.000Z",
@@ -797,7 +797,7 @@
     "metadata": {
       "paper_id": "2601.02553",
       "upvotes": 37,
-      "github_stars": 1871,
+      "github_stars": 1913,
       "github_url": "https://github.com/aiming-lab/SimpleMem",
       "project_url": "https://aiming-lab.github.io/SimpleMem-Page/",
       "authors": [
