@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:openai_research</id>
   <icon>https://openai.com/favicon.ico</icon>
   <logo>https://openai.com/favicon.ico</logo>
-  <updated>2026-01-29T21:29:09.353069+00:00</updated>
+  <updated>2026-01-30T09:43:47.698480+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -15,7 +15,7 @@
     <link href="https://openai.com/index/evaluating-chain-of-thought-monitorability/"/>
     <updated>2025-12-18T12:00:00+00:00</updated>
     <category term="Research"/>
-    <summary>We introduce evaluations for chain-of-thought monitorability and study how it scales with test-time compute, reinforcement learning, and pretraining.</summary>
+    <summary>OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.</summary>
   </entry>
   <entry>
     <title>Addendum to GPT-5.2 System Card: GPT-5.2-Codex</title>
@@ -31,7 +31,7 @@
     <link href="https://openai.com/index/introducing-gpt-5-2-codex/"/>
     <updated>2025-12-18T00:00:00+00:00</updated>
     <category term="Product"/>
-    <summary>The most advanced agentic coding model for professional software engineering and defensive cybersecurity.</summary>
+    <summary>GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.</summary>
   </entry>
   <entry>
     <title>Evaluating AI’s ability to perform scientific research tasks</title>
@@ -39,7 +39,7 @@
     <link href="https://openai.com/index/frontierscience/"/>
     <updated>2025-12-16T09:00:00+00:00</updated>
     <category term="Research"/>
-    <summary>We introduce FrontierScience, a new benchmark that evaluates AI capabilities for expert-level scientific reasoning across physics, chemistry, and biology.</summary>
+    <summary>OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.</summary>
   </entry>
   <entry>
     <title>Measuring AI’s capability to accelerate biological research in the wet lab</title>
@@ -47,7 +47,7 @@
     <link href="https://openai.com/index/accelerating-biological-research-in-the-wet-lab/"/>
     <updated>2025-12-16T08:00:00+00:00</updated>
     <category term="Research"/>
-    <summary>GPT-5 created novel wet lab protocol improvements, optimizing the efficiency of a molecular cloning protocol by 79x.</summary>
+    <summary>OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.</summary>
   </entry>
   <entry>
     <title>The new ChatGPT Images is here</title>
@@ -63,15 +63,7 @@
     <link href="https://openai.com/index/gpt-5-2-for-science-and-math/"/>
     <updated>2025-12-11T10:00:00+00:00</updated>
     <category term="Publication"/>
-    <summary>GPT-5.2 is our strongest model yet for math and science work.</summary>
-  </entry>
-  <entry>
-    <title>Introducing GPT-5.2The most advanced frontier model for professional work and long-running agents.</title>
-    <id>6a5fbe7d1d4482c93d777c1647eefc40</id>
-    <link href="https://openai.com/index/introducing-gpt-5-2/"/>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <category term="Product"/>
-    <summary/>
+    <summary>GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.</summary>
   </entry>
   <entry>
     <title>Update to GPT-5 System Card: GPT-5.2</title>
@@ -80,5 +72,13 @@
     <updated>2025-12-11T00:00:00+00:00</updated>
     <category term="Publication"/>
     <summary>GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.</summary>
+  </entry>
+  <entry>
+    <title>Introducing GPT-5.2</title>
+    <id>855f4479d298d11498a630e1a48d2033</id>
+    <link href="https://openai.com/index/introducing-gpt-5-2/"/>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <category term="Product"/>
+    <summary>GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.</summary>
   </entry>
 </feed>

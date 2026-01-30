@@ -4,7 +4,7 @@
         "source": "openai",
         "type": "research",
         "title": "Evaluating chain-of-thought monitorability",
-        "description": "We introduce evaluations for chain-of-thought monitorability and study how it scales with test-time compute, reinforcement learning, and pretraining.",
+        "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model\u2019s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
         "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
         "published_date": "2025-12-18T12:00:00+00:00",
         "categories": [
@@ -38,7 +38,7 @@
         "source": "openai",
         "type": "product",
         "title": "Introducing GPT-5.2-Codex",
-        "description": "The most advanced agentic coding model for professional software engineering and defensive cybersecurity.",
+        "description": "GPT-5.2-Codex is OpenAI\u2019s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
         "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
         "published_date": "2025-12-18T00:00:00+00:00",
         "categories": [
@@ -55,7 +55,7 @@
         "source": "openai",
         "type": "research",
         "title": "Evaluating AI\u2019s ability to perform scientific research tasks",
-        "description": "We introduce FrontierScience, a new benchmark that evaluates AI capabilities for expert-level scientific reasoning across physics, chemistry, and biology.",
+        "description": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
         "url": "https://openai.com/index/frontierscience/",
         "published_date": "2025-12-16T09:00:00+00:00",
         "categories": [
@@ -72,7 +72,7 @@
         "source": "openai",
         "type": "research",
         "title": "Measuring AI\u2019s capability to accelerate biological research in the wet lab",
-        "description": "GPT-5 created novel wet lab protocol improvements, optimizing the efficiency of a molecular cloning protocol by 79x.",
+        "description": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
         "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab/",
         "published_date": "2025-12-16T08:00:00+00:00",
         "categories": [
@@ -106,7 +106,7 @@
         "source": "openai",
         "type": "publication",
         "title": "Advancing science and math with GPT-5.2",
-        "description": "GPT-5.2 is our strongest model yet for math and science work.",
+        "description": "GPT-5.2 is OpenAI\u2019s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
         "url": "https://openai.com/index/gpt-5-2-for-science-and-math/",
         "published_date": "2025-12-11T10:00:00+00:00",
         "categories": [
@@ -115,23 +115,6 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
-        },
-        "objects": []
-    },
-    {
-        "id": "6a5fbe7d1d4482c93d777c1647eefc40",
-        "source": "openai",
-        "type": "product",
-        "title": "Introducing GPT-5.2The most advanced frontier model for professional work and long-running agents.",
-        "description": "",
-        "url": "https://openai.com/index/introducing-gpt-5-2/",
-        "published_date": "2025-12-11T00:00:00+00:00",
-        "categories": [
-            "Product"
-        ],
-        "organization": "OpenAI",
-        "metadata": {
-            "post_type": "Product"
         },
         "objects": []
     },
@@ -149,6 +132,23 @@
         "organization": "OpenAI",
         "metadata": {
             "post_type": "Publication"
+        },
+        "objects": []
+    },
+    {
+        "id": "855f4479d298d11498a630e1a48d2033",
+        "source": "openai",
+        "type": "product",
+        "title": "Introducing GPT-5.2",
+        "description": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+        "url": "https://openai.com/index/introducing-gpt-5-2/",
+        "published_date": "2025-12-11T00:00:00+00:00",
+        "categories": [
+            "Product"
+        ],
+        "organization": "OpenAI",
+        "metadata": {
+            "post_type": "Product"
         },
         "objects": []
     }
