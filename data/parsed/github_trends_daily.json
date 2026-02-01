@@ -11,9 +11,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 136095,
-      "forks": 19949,
-      "stars_today": 14780,
+      "stars": 140824,
+      "forks": 20879,
+      "stars_today": 11134,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "openclaw/openclaw"
@@ -31,12 +31,32 @@
       "Lua"
     ],
     "metadata": {
-      "stars": 2519,
-      "forks": 115,
-      "stars_today": 542,
+      "stars": 2697,
+      "forks": 120,
+      "stars_today": 791,
       "language": "Lua",
       "timeframe": "daily",
       "repo_path": "ThePrimeagen/99"
+    }
+  },
+  {
+    "id": "10bf28ead6370578bba2701ff76165d4",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "badlogic / pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "url": "https://github.com/badlogic/pi-mono",
+    "published_date": "2026-02-01T08:37:31Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 4818,
+      "forks": 525,
+      "stars_today": 565,
+      "language": "TypeScript",
+      "timeframe": "daily",
+      "repo_path": "badlogic/pi-mono"
     }
   },
   {
@@ -51,192 +71,152 @@
       "Python"
     ],
     "metadata": {
-      "stars": 12738,
-      "forks": 1052,
-      "stars_today": 516,
+      "stars": 12909,
+      "forks": 1066,
+      "stars_today": 399,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "microsoft/agent-lightning"
     }
   },
   {
-    "id": "dea4f980546f0b27fba31bcc732d6699",
+    "id": "3242fc4d0af5d5ff4ceb82309b9e9860",
     "source": "github",
     "type": "trending_repository",
-    "title": "anthropics / claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "published_date": "2026-01-29T23:44:23Z",
+    "title": "thedotmack / claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "published_date": "2026-01-28T21:19:59Z",
     "categories": [
-      "Shell"
+      "TypeScript"
     ],
     "metadata": {
-      "stars": 5992,
-      "forks": 586,
-      "stars_today": 237,
-      "language": "Shell",
-      "timeframe": "daily",
-      "repo_path": "anthropics/claude-plugins-official"
-    }
-  },
-  {
-    "id": "c2019c9d5a6067190518274f0e51e566",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "PaddlePaddle / PaddleOCR",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "published_date": "2026-01-29T11:19:45Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 69718,
-      "forks": 9762,
+      "stars": 16107,
+      "forks": 1124,
       "stars_today": 171,
-      "language": "Python",
+      "language": "TypeScript",
       "timeframe": "daily",
-      "repo_path": "PaddlePaddle/PaddleOCR"
+      "repo_path": "thedotmack/claude-mem"
     }
   },
   {
-    "id": "5764bce5e171d3cc0da7feba5d1afce9",
+    "id": "45c2b65e01800068a6c460c102361900",
     "source": "github",
     "type": "trending_repository",
-    "title": "microsoft / BitNet",
-    "description": "Official inference framework for 1-bit LLMs",
-    "url": "https://github.com/microsoft/BitNet",
-    "published_date": "2026-01-27T05:48:51Z",
+    "title": "steipete / CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "url": "https://github.com/steipete/CodexBar",
+    "published_date": "2026-01-21T08:44:32Z",
+    "categories": [
+      "Swift"
+    ],
+    "metadata": {
+      "stars": 3843,
+      "forks": 257,
+      "stars_today": 143,
+      "language": "Swift",
+      "timeframe": "daily",
+      "repo_path": "steipete/CodexBar"
+    }
+  },
+  {
+    "id": "4401174b1ae32139ed8168c932df5fd3",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "pedramamini / Maestro",
+    "description": "Agent Orchestration Command Center",
+    "url": "https://github.com/pedramamini/Maestro",
+    "published_date": "2026-02-01T21:17:09Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 917,
+      "forks": 116,
+      "stars_today": 69,
+      "language": "TypeScript",
+      "timeframe": "daily",
+      "repo_path": "pedramamini/Maestro"
+    }
+  },
+  {
+    "id": "b0a653fad4c79372c1f8e962be4306fc",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "j178 / prek",
+    "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "url": "https://github.com/j178/prek",
+    "published_date": "2026-01-31T13:27:21Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 4203,
+      "forks": 126,
+      "stars_today": 42,
+      "language": "Rust",
+      "timeframe": "daily",
+      "repo_path": "j178/prek"
+    }
+  },
+  {
+    "id": "d2c1a9d5529776bb44be8b4584a9a383",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "amantus-ai / vibetunnel",
+    "description": "Turn any browser into your terminal & command your agents on the go.",
+    "url": "https://github.com/amantus-ai/vibetunnel",
+    "published_date": "2025-08-02T00:21:24Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 3480,
+      "forks": 226,
+      "stars_today": 30,
+      "language": "TypeScript",
+      "timeframe": "daily",
+      "repo_path": "amantus-ai/vibetunnel"
+    }
+  },
+  {
+    "id": "1cc5e471a8d3357fcfd6a6ddebb321c6",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "vita-epfl / Stable-Video-Infinity",
+    "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+    "url": "https://github.com/vita-epfl/Stable-Video-Infinity",
+    "published_date": "2026-01-19T12:12:34Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 27452,
-      "forks": 2221,
-      "stars_today": 137,
+      "stars": 1677,
+      "forks": 133,
+      "stars_today": 25,
       "language": "Python",
       "timeframe": "daily",
-      "repo_path": "microsoft/BitNet"
+      "repo_path": "vita-epfl/Stable-Video-Infinity"
     }
   },
   {
-    "id": "89fd377c1e23d17a1a5f00bfb428b16f",
+    "id": "ee8fd3d4ae5c8b93d6243b86554f4567",
     "source": "github",
     "type": "trending_repository",
-    "title": "pedroslopez / whatsapp-web.js",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-    "url": "https://github.com/pedroslopez/whatsapp-web.js",
-    "published_date": "2026-01-30T16:53:59Z",
+    "title": "kovidgoyal / calibre",
+    "description": "The official source code repository for the calibre ebook manager",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "published_date": "2026-01-31T10:43:02Z",
     "categories": [
-      "JavaScript"
+      "Python"
     ],
     "metadata": {
-      "stars": 21039,
-      "forks": 4833,
-      "stars_today": 137,
-      "language": "JavaScript",
+      "stars": 23603,
+      "forks": 2534,
+      "stars_today": 21,
+      "language": "Python",
       "timeframe": "daily",
-      "repo_path": "pedroslopez/whatsapp-web.js"
-    }
-  },
-  {
-    "id": "2ad8d043a9cdb9b217efb408f4adb734",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "reconurge / flowsint",
-    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-    "url": "https://github.com/reconurge/flowsint",
-    "published_date": "2026-01-25T22:44:22Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 2239,
-      "forks": 268,
-      "stars_today": 120,
-      "language": "TypeScript",
-      "timeframe": "daily",
-      "repo_path": "reconurge/flowsint"
-    }
-  },
-  {
-    "id": "016c048a8cd02149e1cbdeed3e2c70e5",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "AlexanderGrooff / mermaid-ascii",
-    "description": "Render Mermaid graphs inside your terminal",
-    "url": "https://github.com/AlexanderGrooff/mermaid-ascii",
-    "published_date": "2026-01-13T23:05:07Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 909,
-      "forks": 41,
-      "stars_today": 74,
-      "language": "Go",
-      "timeframe": "daily",
-      "repo_path": "AlexanderGrooff/mermaid-ascii"
-    }
-  },
-  {
-    "id": "490eca291d80241c282c39d3253783d9",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / PowerToys",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-    "url": "https://github.com/microsoft/PowerToys",
-    "published_date": "2026-01-28T13:39:28Z",
-    "categories": [
-      "C#"
-    ],
-    "metadata": {
-      "stars": 128824,
-      "forks": 7659,
-      "stars_today": 46,
-      "language": "C#",
-      "timeframe": "daily",
-      "repo_path": "microsoft/PowerToys"
-    }
-  },
-  {
-    "id": "6d14e5d91d9c371e01ec4c63f302ae8a",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "cline / cline",
-    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-    "url": "https://github.com/cline/cline",
-    "published_date": "2026-01-30T22:15:02Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 57434,
-      "forks": 5693,
-      "stars_today": 44,
-      "language": "TypeScript",
-      "timeframe": "daily",
-      "repo_path": "cline/cline"
-    }
-  },
-  {
-    "id": "05cc2cc66319aa35557d0cd3f5dfd627",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "termux / termux-app",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-    "url": "https://github.com/termux/termux-app",
-    "published_date": "2025-05-22T22:52:34Z",
-    "categories": [
-      "Java"
-    ],
-    "metadata": {
-      "stars": 49591,
-      "forks": 5924,
-      "stars_today": 41,
-      "language": "Java",
-      "timeframe": "daily",
-      "repo_path": "termux/termux-app"
+      "repo_path": "kovidgoyal/calibre"
     }
   }
 ]
