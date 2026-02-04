@@ -1,55 +1,37 @@
 [
   {
-    "id": "0ac9c2386e4c3aa29935457f944af6bf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Qwen/DeepPlanning",
-    "description": "Downloads: 323<br/>Likes: 132",
-    "url": "https://huggingface.co/datasets/Qwen/DeepPlanning",
-    "published_date": "2026-02-03T21:36:31.419527+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "DeepPlanning",
-      "downloads": 323,
-      "likes": 132,
-      "last_modified": "2026-01-27T05:22:17.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "99907cf07488c865e39b14f986500073",
     "source": "huggingface",
     "type": "dataset",
     "title": "sojuL/RubricHub_v1",
-    "description": "Downloads: 874<br/>Likes: 211",
+    "description": "Downloads: 948<br/>Likes: 229",
     "url": "https://huggingface.co/datasets/sojuL/RubricHub_v1",
-    "published_date": "2026-02-03T21:36:31.419548+00:00",
+    "published_date": "2026-02-04T09:51:06.877087+00:00",
     "categories": [],
     "metadata": {
       "author": "sojuL",
       "item_name": "RubricHub_v1",
-      "downloads": 874,
-      "likes": 211,
+      "downloads": 948,
+      "likes": 229,
       "last_modified": "2026-02-03T03:09:05.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "e1387dc0b935ecb385046710a900f4ba",
+    "id": "0ac9c2386e4c3aa29935457f944af6bf",
     "source": "huggingface",
     "type": "dataset",
-    "title": "MiniMaxAI/role-play-bench",
-    "description": "Downloads: 464<br/>Likes: 89",
-    "url": "https://huggingface.co/datasets/MiniMaxAI/role-play-bench",
-    "published_date": "2026-02-03T21:36:31.419555+00:00",
+    "title": "Qwen/DeepPlanning",
+    "description": "Downloads: 407<br/>Likes: 138",
+    "url": "https://huggingface.co/datasets/Qwen/DeepPlanning",
+    "published_date": "2026-02-04T09:51:06.877099+00:00",
     "categories": [],
     "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "role-play-bench",
-      "downloads": 464,
-      "likes": 89,
-      "last_modified": "2026-01-28T04:01:11.000Z",
+      "author": "Qwen",
+      "item_name": "DeepPlanning",
+      "downloads": 407,
+      "likes": 138,
+      "last_modified": "2026-01-27T05:22:17.000Z",
       "all_tags": []
     }
   },
@@ -58,16 +40,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenDataArena/MMFineReason-1.8M-Qwen3-VL-235B-Thinking",
-    "description": "Downloads: 1,043<br/>Likes: 83",
+    "description": "Downloads: 1,351<br/>Likes: 87",
     "url": "https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M-Qwen3-VL-235B-Thinking",
-    "published_date": "2026-02-03T21:36:31.419561+00:00",
+    "published_date": "2026-02-04T09:51:06.877106+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenDataArena",
       "item_name": "MMFineReason-1.8M-Qwen3-VL-235B-Thinking",
-      "downloads": 1043,
-      "likes": 83,
+      "downloads": 1351,
+      "likes": 87,
       "last_modified": "2026-01-30T03:25:45.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e1387dc0b935ecb385046710a900f4ba",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "MiniMaxAI/role-play-bench",
+    "description": "Downloads: 547<br/>Likes: 91",
+    "url": "https://huggingface.co/datasets/MiniMaxAI/role-play-bench",
+    "published_date": "2026-02-04T09:51:06.877111+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "MiniMaxAI",
+      "item_name": "role-play-bench",
+      "downloads": 547,
+      "likes": 91,
+      "last_modified": "2026-01-28T04:01:11.000Z",
       "all_tags": []
     }
   },
@@ -76,14 +76,14 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nvidia/Nemotron-Personas-Brazil",
-    "description": "Downloads: 3,992<br/>Likes: 76",
+    "description": "Downloads: 4,821<br/>Likes: 76",
     "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Brazil",
-    "published_date": "2026-02-03T21:36:31.419566+00:00",
+    "published_date": "2026-02-04T09:51:06.877116+00:00",
     "categories": [],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Personas-Brazil",
-      "downloads": 3992,
+      "downloads": 4821,
       "likes": 76,
       "last_modified": "2026-01-26T23:09:43.000Z",
       "all_tags": []
@@ -94,14 +94,14 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "opendatalab/ChartVerse-SFT-1800K",
-    "description": "Downloads: 2,351<br/>Likes: 131",
+    "description": "Downloads: 2,458<br/>Likes: 131",
     "url": "https://huggingface.co/datasets/opendatalab/ChartVerse-SFT-1800K",
-    "published_date": "2026-02-03T21:36:31.419571+00:00",
+    "published_date": "2026-02-04T09:51:06.877121+00:00",
     "categories": [],
     "metadata": {
       "author": "opendatalab",
       "item_name": "ChartVerse-SFT-1800K",
-      "downloads": 2351,
+      "downloads": 2458,
       "likes": 131,
       "last_modified": "2026-01-30T08:01:50.000Z",
       "all_tags": []
@@ -112,16 +112,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenDataArena/MMFineReason-SFT-123K-Qwen3-VL-235B-Thinking",
-    "description": "Downloads: 222<br/>Likes: 47",
+    "description": "Downloads: 316<br/>Likes: 49",
     "url": "https://huggingface.co/datasets/OpenDataArena/MMFineReason-SFT-123K-Qwen3-VL-235B-Thinking",
-    "published_date": "2026-02-03T21:36:31.419577+00:00",
+    "published_date": "2026-02-04T09:51:06.877126+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenDataArena",
       "item_name": "MMFineReason-SFT-123K-Qwen3-VL-235B-Thinking",
-      "downloads": 222,
-      "likes": 47,
+      "downloads": 316,
+      "likes": 49,
       "last_modified": "2026-02-03T12:48:24.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "614610b777d03fb42e40947f68e506fc",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "crownelius/Opus-4.5-WritingStyle-1000x",
+    "description": "Downloads: 81<br/>Likes: 44",
+    "url": "https://huggingface.co/datasets/crownelius/Opus-4.5-WritingStyle-1000x",
+    "published_date": "2026-02-04T09:51:06.877131+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "crownelius",
+      "item_name": "Opus-4.5-WritingStyle-1000x",
+      "downloads": 81,
+      "likes": 44,
+      "last_modified": "2026-01-29T20:11:26.000Z",
       "all_tags": []
     }
   },
@@ -130,15 +148,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "mercor/apex-agents",
-    "description": "Downloads: 11,034<br/>Likes: 82",
+    "description": "Downloads: 12,412<br/>Likes: 83",
     "url": "https://huggingface.co/datasets/mercor/apex-agents",
-    "published_date": "2026-02-03T21:36:31.419583+00:00",
+    "published_date": "2026-02-04T09:51:06.877136+00:00",
     "categories": [],
     "metadata": {
       "author": "mercor",
       "item_name": "apex-agents",
-      "downloads": 11034,
-      "likes": 82,
+      "downloads": 12412,
+      "likes": 83,
       "last_modified": "2026-01-22T00:33:03.000Z",
       "all_tags": []
     }
@@ -148,52 +166,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenMed/Medical-Reasoning-SFT-Trinity-Mini",
-    "description": "Downloads: 351<br/>Likes: 37",
+    "description": "Downloads: 444<br/>Likes: 38",
     "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Trinity-Mini",
-    "published_date": "2026-02-03T21:36:31.419588+00:00",
+    "published_date": "2026-02-04T09:51:06.877141+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenMed",
       "item_name": "Medical-Reasoning-SFT-Trinity-Mini",
-      "downloads": 351,
-      "likes": 37,
+      "downloads": 444,
+      "likes": 38,
       "last_modified": "2026-01-31T20:47:09.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "614610b777d03fb42e40947f68e506fc",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "crownelius/Opus-4.5-WritingStyle-1000x",
-    "description": "Downloads: 70<br/>Likes: 36",
-    "url": "https://huggingface.co/datasets/crownelius/Opus-4.5-WritingStyle-1000x",
-    "published_date": "2026-02-03T21:36:31.419593+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "crownelius",
-      "item_name": "Opus-4.5-WritingStyle-1000x",
-      "downloads": 70,
-      "likes": 36,
-      "last_modified": "2026-01-29T20:11:26.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "282aa52d71e46161191bcd98059a78c8",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
-    "description": "Downloads: 33,749<br/>Likes: 321",
-    "url": "https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
-    "published_date": "2026-02-03T21:36:31.419599+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Alibaba-Apsara",
-      "item_name": "Superior-Reasoning-SFT-gpt-oss-120b",
-      "downloads": 33749,
-      "likes": 321,
-      "last_modified": "2026-01-31T10:05:46.000Z",
       "all_tags": []
     }
   },
@@ -202,34 +184,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "t-martyniuk/DAD-3DHeadsDataset",
-    "description": "Downloads: 51<br/>Likes: 37",
+    "description": "Downloads: 52<br/>Likes: 40",
     "url": "https://huggingface.co/datasets/t-martyniuk/DAD-3DHeadsDataset",
-    "published_date": "2026-02-03T21:36:31.419604+00:00",
+    "published_date": "2026-02-04T09:51:06.877146+00:00",
     "categories": [],
     "metadata": {
       "author": "t-martyniuk",
       "item_name": "DAD-3DHeadsDataset",
-      "downloads": 51,
-      "likes": 37,
+      "downloads": 52,
+      "likes": 40,
       "last_modified": "2026-01-27T14:56:47.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "b3323dd2c0e7d427e06b2af8491a5565",
+    "id": "dc50f1d6777517c1113331e19d4ca32f",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nvidia/Nemotron-Personas-Singapore",
-    "description": "Downloads: 1,699<br/>Likes: 37",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore",
-    "published_date": "2026-02-03T21:36:31.419612+00:00",
+    "title": "moonshotai/WorldVQA",
+    "description": "Downloads: 2,092<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/moonshotai/WorldVQA",
+    "published_date": "2026-02-04T09:51:06.877151+00:00",
     "categories": [],
     "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Personas-Singapore",
-      "downloads": 1699,
-      "likes": 37,
-      "last_modified": "2026-01-27T00:03:22.000Z",
+      "author": "moonshotai",
+      "item_name": "WorldVQA",
+      "downloads": 2092,
+      "likes": 43,
+      "last_modified": "2026-02-04T07:28:09.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "282aa52d71e46161191bcd98059a78c8",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
+    "description": "Downloads: 34,612<br/>Likes: 322",
+    "url": "https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
+    "published_date": "2026-02-04T09:51:06.877156+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Alibaba-Apsara",
+      "item_name": "Superior-Reasoning-SFT-gpt-oss-120b",
+      "downloads": 34612,
+      "likes": 322,
+      "last_modified": "2026-01-31T10:05:46.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "96e2d6d40eec9e1c39efb1af468a1b47",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "tencent/CL-bench",
+    "description": "Downloads: 192<br/>Likes: 33",
+    "url": "https://huggingface.co/datasets/tencent/CL-bench",
+    "published_date": "2026-02-04T09:51:06.877165+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "CL-bench",
+      "downloads": 192,
+      "likes": 33,
+      "last_modified": "2026-02-04T06:09:30.000Z",
       "all_tags": []
     }
   },
@@ -238,15 +256,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nyuuzyou/google-code-archive",
-    "description": "Downloads: 1,417<br/>Likes: 66",
+    "description": "Downloads: 1,425<br/>Likes: 67",
     "url": "https://huggingface.co/datasets/nyuuzyou/google-code-archive",
-    "published_date": "2026-02-03T21:36:31.419617+00:00",
+    "published_date": "2026-02-04T09:51:06.877170+00:00",
     "categories": [],
     "metadata": {
       "author": "nyuuzyou",
       "item_name": "google-code-archive",
-      "downloads": 1417,
-      "likes": 66,
+      "downloads": 1425,
+      "likes": 67,
       "last_modified": "2026-02-01T20:38:02.000Z",
       "all_tags": []
     }
@@ -256,16 +274,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "google/WaxalNLP",
-    "description": "Downloads: 1,973<br/>Likes: 63",
+    "description": "Downloads: 4,381<br/>Likes: 65",
     "url": "https://huggingface.co/datasets/google/WaxalNLP",
-    "published_date": "2026-02-03T21:36:31.419622+00:00",
+    "published_date": "2026-02-04T09:51:06.877175+00:00",
     "categories": [],
     "metadata": {
       "author": "google",
       "item_name": "WaxalNLP",
-      "downloads": 1973,
-      "likes": 63,
+      "downloads": 4381,
+      "likes": 65,
       "last_modified": "2026-02-03T15:49:04.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b3323dd2c0e7d427e06b2af8491a5565",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Personas-Singapore",
+    "description": "Downloads: 2,057<br/>Likes: 40",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore",
+    "published_date": "2026-02-04T09:51:06.877179+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Personas-Singapore",
+      "downloads": 2057,
+      "likes": 40,
+      "last_modified": "2026-01-27T00:03:22.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f8e87a8231a525438bbc68ba514eaa3a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "uv-scripts/unsloth-jobs",
+    "description": "Downloads: 69<br/>Likes: 30",
+    "url": "https://huggingface.co/datasets/uv-scripts/unsloth-jobs",
+    "published_date": "2026-02-04T09:51:06.877184+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "uv-scripts",
+      "item_name": "unsloth-jobs",
+      "downloads": 69,
+      "likes": 30,
+      "last_modified": "2026-01-30T13:35:19.000Z",
       "all_tags": []
     }
   },
@@ -274,88 +328,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "SWE-Arena/bot_data",
-    "description": "Downloads: 244<br/>Likes: 42",
+    "description": "Downloads: 246<br/>Likes: 42",
     "url": "https://huggingface.co/datasets/SWE-Arena/bot_data",
-    "published_date": "2026-02-03T21:36:31.419626+00:00",
+    "published_date": "2026-02-04T09:51:06.877190+00:00",
     "categories": [],
     "metadata": {
       "author": "SWE-Arena",
       "item_name": "bot_data",
-      "downloads": 244,
+      "downloads": 246,
       "likes": 42,
       "last_modified": "2026-01-22T04:55:09.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "dc50f1d6777517c1113331e19d4ca32f",
+    "id": "04f3429195faa96023c3ea494411362d",
     "source": "huggingface",
     "type": "dataset",
-    "title": "moonshotai/WorldVQA",
-    "description": "Downloads: 1,608<br/>Likes: 34",
-    "url": "https://huggingface.co/datasets/moonshotai/WorldVQA",
-    "published_date": "2026-02-03T21:36:31.419634+00:00",
+    "title": "ronantakizawa/moltbook",
+    "description": "Downloads: 1,931<br/>Likes: 25",
+    "url": "https://huggingface.co/datasets/ronantakizawa/moltbook",
+    "published_date": "2026-02-04T09:51:06.877195+00:00",
     "categories": [],
     "metadata": {
-      "author": "moonshotai",
-      "item_name": "WorldVQA",
-      "downloads": 1608,
-      "likes": 34,
-      "last_modified": "2026-02-03T15:12:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "80749fcb2b66e5348c090b93e044ed16",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "DAGroup-PKU/RoVid-X",
-    "description": "Downloads: 3,260<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/DAGroup-PKU/RoVid-X",
-    "published_date": "2026-02-03T21:36:31.419641+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "DAGroup-PKU",
-      "item_name": "RoVid-X",
-      "downloads": 3260,
-      "likes": 46,
-      "last_modified": "2026-01-25T11:47:36.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "2b2ab2ee49c2e439ffd50e50d7d450f3",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "SWE-Arena/conversation_data",
-    "description": "Downloads: 143<br/>Likes: 42",
-    "url": "https://huggingface.co/datasets/SWE-Arena/conversation_data",
-    "published_date": "2026-02-03T21:36:31.419647+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "SWE-Arena",
-      "item_name": "conversation_data",
-      "downloads": 143,
-      "likes": 42,
-      "last_modified": "2026-01-25T17:18:10.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "39736b3287d73d2de961aeb4219ea4b8",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "AvitoTech/BAT",
-    "description": "Downloads: 66<br/>Likes: 36",
-    "url": "https://huggingface.co/datasets/AvitoTech/BAT",
-    "published_date": "2026-02-03T21:36:31.419651+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "AvitoTech",
-      "item_name": "BAT",
-      "downloads": 66,
-      "likes": 36,
-      "last_modified": "2026-01-13T16:37:15.000Z",
+      "author": "ronantakizawa",
+      "item_name": "moltbook",
+      "downloads": 1931,
+      "likes": 25,
+      "last_modified": "2026-02-02T17:44:19.000Z",
       "all_tags": []
     }
   }
