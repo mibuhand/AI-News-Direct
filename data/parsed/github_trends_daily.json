@@ -1,5 +1,65 @@
 [
   {
+    "id": "10520dd7d733dd7acab02cc19e387215",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "KeygraphHQ / shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "published_date": "2026-02-07T18:08:25Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 9525,
+      "forks": 1221,
+      "stars_today": 3133,
+      "language": "TypeScript",
+      "timeframe": "daily",
+      "repo_path": "KeygraphHQ/shannon"
+    }
+  },
+  {
+    "id": "acf98720b428f908fc704200af0875e2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "obra / superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "published_date": "2026-02-06T01:34:39Z",
+    "categories": [
+      "Shell"
+    ],
+    "metadata": {
+      "stars": 46873,
+      "forks": 3558,
+      "stars_today": 689,
+      "language": "Shell",
+      "timeframe": "daily",
+      "repo_path": "obra/superpowers"
+    }
+  },
+  {
+    "id": "cd95ce69d070efd9f6f39d919ab6d2e5",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "microsoft / litebox",
+    "description": "A security-focused library OS supporting kernel- and user-mode execution",
+    "url": "https://github.com/microsoft/litebox",
+    "published_date": "2026-02-06T00:06:27Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 1087,
+      "forks": 47,
+      "stars_today": 659,
+      "language": "Rust",
+      "timeframe": "daily",
+      "repo_path": "microsoft/litebox"
+    }
+  },
+  {
     "id": "58ce4bcd5522d3d66bcd187643e08312",
     "source": "github",
     "type": "trending_repository",
@@ -11,132 +71,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 5086,
-      "forks": 289,
-      "stars_today": 583,
+      "stars": 5816,
+      "forks": 320,
+      "stars_today": 576,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "openai/skills"
     }
   },
   {
-    "id": "452046c21690d0468fd6b12ab4f23e4d",
+    "id": "7f2751037a0a4249e6328ec7556723f8",
     "source": "github",
     "type": "trending_repository",
-    "title": "bytedance / UI-TARS-desktop",
-    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "published_date": "2025-12-15T09:18:42Z",
+    "title": "ComposioHQ / awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "published_date": "2026-02-06T06:57:58Z",
     "categories": [
-      "TypeScript"
+      "Python"
     ],
     "metadata": {
-      "stars": 27217,
-      "forks": 2651,
-      "stars_today": 573,
-      "language": "TypeScript",
+      "stars": 31890,
+      "forks": 3059,
+      "stars_today": 514,
+      "language": "Python",
       "timeframe": "daily",
-      "repo_path": "bytedance/UI-TARS-desktop"
-    }
-  },
-  {
-    "id": "a38bc0fcc5efc03edea583f41fab7747",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "ZeroTworu / anet",
-    "description": "Simple Rust VPN Client / Server",
-    "url": "https://github.com/ZeroTworu/anet",
-    "published_date": "2026-01-29T14:41:03Z",
-    "categories": [
-      "Rust"
-    ],
-    "metadata": {
-      "stars": 583,
-      "forks": 51,
-      "stars_today": 193,
-      "language": "Rust",
-      "timeframe": "daily",
-      "repo_path": "ZeroTworu/anet"
-    }
-  },
-  {
-    "id": "e11591b87062d8ef763a0315bac23af4",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "aquasecurity / trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "url": "https://github.com/aquasecurity/trivy",
-    "published_date": "2026-02-05T13:11:55Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 31586,
-      "forks": 2924,
-      "stars_today": 165,
-      "language": "Go",
-      "timeframe": "daily",
-      "repo_path": "aquasecurity/trivy"
-    }
-  },
-  {
-    "id": "72537847142ed7ac6ba708275e3857e3",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "nvm-sh / nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-    "url": "https://github.com/nvm-sh/nvm",
-    "published_date": "2026-01-29T22:19:34Z",
-    "categories": [
-      "Shell"
-    ],
-    "metadata": {
-      "stars": 91550,
-      "forks": 9842,
-      "stars_today": 131,
-      "language": "Shell",
-      "timeframe": "daily",
-      "repo_path": "nvm-sh/nvm"
-    }
-  },
-  {
-    "id": "90a312d8d943c021ce962e8f3308e6fd",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "DataExpert-io / data-engineer-handbook",
-    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-    "published_date": "2025-12-15T22:32:39Z",
-    "categories": [
-      "Jupyter Notebook"
-    ],
-    "metadata": {
-      "stars": 39978,
-      "forks": 7625,
-      "stars_today": 71,
-      "language": "Jupyter Notebook",
-      "timeframe": "daily",
-      "repo_path": "DataExpert-io/data-engineer-handbook"
-    }
-  },
-  {
-    "id": "f6227b3c123e09a8a9dd0df21a33f206",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "Flowseal / zapret-discord-youtube",
-    "description": "",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "published_date": "2026-02-05T11:43:05Z",
-    "categories": [
-      "Batchfile"
-    ],
-    "metadata": {
-      "stars": 21999,
-      "forks": 1834,
-      "stars_today": 70,
-      "language": "Batchfile",
-      "timeframe": "daily",
-      "repo_path": "Flowseal/zapret-discord-youtube"
+      "repo_path": "ComposioHQ/awesome-claude-skills"
     }
   },
   {
@@ -151,12 +111,132 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 1899,
-      "forks": 139,
-      "stars_today": 40,
+      "stars": 2035,
+      "forks": 145,
+      "stars_today": 306,
       "language": "TypeScript",
       "timeframe": "daily",
       "repo_path": "likec4/likec4"
+    }
+  },
+  {
+    "id": "e11591b87062d8ef763a0315bac23af4",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "aquasecurity / trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "url": "https://github.com/aquasecurity/trivy",
+    "published_date": "2026-02-05T13:11:55Z",
+    "categories": [
+      "Go"
+    ],
+    "metadata": {
+      "stars": 31664,
+      "forks": 2928,
+      "stars_today": 170,
+      "language": "Go",
+      "timeframe": "daily",
+      "repo_path": "aquasecurity/trivy"
+    }
+  },
+  {
+    "id": "3b4a2277bf8d0e90786fc011cd7f2844",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "gitbutlerapp / gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "url": "https://github.com/gitbutlerapp/gitbutler",
+    "published_date": "2026-02-07T14:54:36Z",
+    "categories": [
+      "Rust"
+    ],
+    "metadata": {
+      "stars": 17924,
+      "forks": 774,
+      "stars_today": 148,
+      "language": "Rust",
+      "timeframe": "daily",
+      "repo_path": "gitbutlerapp/gitbutler"
+    }
+  },
+  {
+    "id": "2618f0befd9aaeaff0b2448c725bd72c",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "p-e-w / heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "url": "https://github.com/p-e-w/heretic",
+    "published_date": "2025-12-10T12:24:21Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 4683,
+      "forks": 451,
+      "stars_today": 61,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "p-e-w/heretic"
+    }
+  },
+  {
+    "id": "091b01d141bcf54d8d377cc79e29ee17",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "OpenBMB / MiniCPM-o",
+    "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+    "url": "https://github.com/OpenBMB/MiniCPM-o",
+    "published_date": "2025-05-27T09:55:51Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 23134,
+      "forks": 1761,
+      "stars_today": 42,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "OpenBMB/MiniCPM-o"
+    }
+  },
+  {
+    "id": "fb6687206ae94f50f39448285b577278",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "viarotel-org / escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.",
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "published_date": "2026-01-27T08:54:00Z",
+    "categories": [
+      "JavaScript"
+    ],
+    "metadata": {
+      "stars": 7803,
+      "forks": 569,
+      "stars_today": 27,
+      "language": "JavaScript",
+      "timeframe": "daily",
+      "repo_path": "viarotel-org/escrcpy"
+    }
+  },
+  {
+    "id": "1fff564e1e1bd074a3c58e4dbffee1b2",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "wavetermdev / waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "published_date": "2025-12-17T17:46:54Z",
+    "categories": [
+      "Go"
+    ],
+    "metadata": {
+      "stars": 17124,
+      "forks": 762,
+      "stars_today": 25,
+      "language": "Go",
+      "timeframe": "daily",
+      "repo_path": "wavetermdev/waveterm"
     }
   }
 ]
