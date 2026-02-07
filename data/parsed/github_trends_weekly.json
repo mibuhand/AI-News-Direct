@@ -6,14 +6,14 @@
     "title": "openclaw / openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
     "url": "https://github.com/openclaw/openclaw",
-    "published_date": "2026-02-05T01:57:22Z",
+    "published_date": "2026-02-07T08:58:59Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 171083,
-      "forks": 27545,
-      "stars_today": 68757,
+      "stars": 172282,
+      "forks": 27892,
+      "stars_today": 58305,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "openclaw/openclaw"
@@ -26,14 +26,14 @@
     "title": "thedotmack / claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "url": "https://github.com/thedotmack/claude-mem",
-    "published_date": "2026-02-05T20:56:21Z",
+    "published_date": "2026-02-07T07:19:02Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 24259,
-      "forks": 1595,
-      "stars_today": 8130,
+      "stars": 24427,
+      "forks": 1611,
+      "stars_today": 8838,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "thedotmack/claude-mem"
@@ -51,9 +51,9 @@
       "TypeScript"
     ],
     "metadata": {
-      "stars": 7634,
-      "forks": 767,
-      "stars_today": 3578,
+      "stars": 7776,
+      "forks": 788,
+      "stars_today": 3892,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "badlogic/pi-mono"
@@ -71,12 +71,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 13830,
-      "forks": 998,
-      "stars_today": 2960,
+      "stars": 13916,
+      "forks": 1001,
+      "stars_today": 3051,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "VectifyAI/PageIndex"
+    }
+  },
+  {
+    "id": "58ce4bcd5522d3d66bcd187643e08312",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "openai / skills",
+    "description": "Skills Catalog for Codex",
+    "url": "https://github.com/openai/skills",
+    "published_date": "2026-02-06T18:01:32Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 5086,
+      "forks": 289,
+      "stars_today": 2429,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "openai/skills"
     }
   },
   {
@@ -91,9 +111,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 14174,
-      "forks": 1193,
-      "stars_today": 2206,
+      "stars": 14210,
+      "forks": 1196,
+      "stars_today": 2270,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "microsoft/agent-lightning"
@@ -111,32 +131,12 @@
       "Lua"
     ],
     "metadata": {
-      "stars": 3421,
-      "forks": 155,
-      "stars_today": 2190,
+      "stars": 3440,
+      "forks": 156,
+      "stars_today": 2158,
       "language": "Lua",
       "timeframe": "weekly",
       "repo_path": "ThePrimeagen/99"
-    }
-  },
-  {
-    "id": "5764bce5e171d3cc0da7feba5d1afce9",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / BitNet",
-    "description": "Official inference framework for 1-bit LLMs",
-    "url": "https://github.com/microsoft/BitNet",
-    "published_date": "2026-02-03T05:30:42Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 27962,
-      "forks": 2273,
-      "stars_today": 2054,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "microsoft/BitNet"
     }
   },
   {
@@ -151,32 +151,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 8094,
-      "forks": 615,
-      "stars_today": 1952,
+      "stars": 8199,
+      "forks": 625,
+      "stars_today": 1737,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "NevaMind-AI/memU"
-    }
-  },
-  {
-    "id": "58ce4bcd5522d3d66bcd187643e08312",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "openai / skills",
-    "description": "Skills Catalog for Codex",
-    "url": "https://github.com/openai/skills",
-    "published_date": "2026-02-06T18:01:32Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 4793,
-      "forks": 272,
-      "stars_today": 1887,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "openai/skills"
     }
   },
   {
@@ -191,12 +171,52 @@
       "Python"
     ],
     "metadata": {
-      "stars": 42406,
-      "forks": 5472,
-      "stars_today": 1328,
+      "stars": 42445,
+      "forks": 5482,
+      "stars_today": 1380,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "karpathy/nanochat"
+    }
+  },
+  {
+    "id": "5764bce5e171d3cc0da7feba5d1afce9",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "microsoft / BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "url": "https://github.com/microsoft/BitNet",
+    "published_date": "2026-02-03T05:30:42Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 27979,
+      "forks": 2274,
+      "stars_today": 1159,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "microsoft/BitNet"
+    }
+  },
+  {
+    "id": "4401174b1ae32139ed8168c932df5fd3",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "pedramamini / Maestro",
+    "description": "Agent Orchestration Command Center",
+    "url": "https://github.com/pedramamini/Maestro",
+    "published_date": "2026-02-07T05:40:23Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 1917,
+      "forks": 174,
+      "stars_today": 1123,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "pedramamini/Maestro"
     }
   },
   {
@@ -211,52 +231,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 6115,
+      "stars": 6147,
       "forks": 564,
-      "stars_today": 1226,
+      "stars_today": 932,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "MoonshotAI/kimi-cli"
-    }
-  },
-  {
-    "id": "4401174b1ae32139ed8168c932df5fd3",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "pedramamini / Maestro",
-    "description": "Agent Orchestration Command Center",
-    "url": "https://github.com/pedramamini/Maestro",
-    "published_date": "2026-01-24T11:22:45Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 1891,
-      "forks": 172,
-      "stars_today": 1054,
-      "language": "TypeScript",
-      "timeframe": "weekly",
-      "repo_path": "pedramamini/Maestro"
-    }
-  },
-  {
-    "id": "0558930f42c5b00d05c65191a7512551",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "microsoft / playwright-cli",
-    "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-    "url": "https://github.com/microsoft/playwright-cli",
-    "published_date": "2026-02-06T18:00:05Z",
-    "categories": [
-      "JavaScript"
-    ],
-    "metadata": {
-      "stars": 2353,
-      "forks": 94,
-      "stars_today": 620,
-      "language": "JavaScript",
-      "timeframe": "weekly",
-      "repo_path": "microsoft/playwright-cli"
     }
   },
   {
@@ -271,9 +251,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 2606,
-      "forks": 518,
-      "stars_today": 397,
+      "stars": 2632,
+      "forks": 521,
+      "stars_today": 460,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "disler/claude-code-hooks-mastery"
