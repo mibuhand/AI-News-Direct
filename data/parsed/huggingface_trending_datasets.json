@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "openbmb/UltraData-Math",
-    "description": "Downloads: 24,337<br/>Likes: 195",
+    "description": "Downloads: 24,337<br/>Likes: 197",
     "url": "https://huggingface.co/datasets/openbmb/UltraData-Math",
-    "published_date": "2026-02-14T09:35:52.719099+00:00",
+    "published_date": "2026-02-14T21:26:14.539462+00:00",
     "categories": [],
     "metadata": {
       "author": "openbmb",
       "item_name": "UltraData-Math",
       "downloads": 24337,
-      "likes": 195,
+      "likes": 197,
       "last_modified": "2026-02-10T03:18:19.000Z",
       "all_tags": []
     }
@@ -24,7 +24,7 @@
     "title": "tencent/CL-bench",
     "description": "Downloads: 1,337<br/>Likes: 124",
     "url": "https://huggingface.co/datasets/tencent/CL-bench",
-    "published_date": "2026-02-14T09:35:52.719119+00:00",
+    "published_date": "2026-02-14T21:26:14.539510+00:00",
     "categories": [],
     "metadata": {
       "author": "tencent",
@@ -36,37 +36,19 @@
     }
   },
   {
-    "id": "6d80290addff774a757858571752b2f6",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FutureMa/EvasionBench",
-    "description": "Downloads: 359<br/>Likes: 111",
-    "url": "https://huggingface.co/datasets/FutureMa/EvasionBench",
-    "published_date": "2026-02-14T09:35:52.719127+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FutureMa",
-      "item_name": "EvasionBench",
-      "downloads": 359,
-      "likes": 111,
-      "last_modified": "2026-02-10T11:16:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "af256f28edc09efeba5b1caa4e397b6f",
     "source": "huggingface",
     "type": "dataset",
     "title": "tencent/HY3D-Bench",
-    "description": "Downloads: 39,931<br/>Likes: 76",
+    "description": "Downloads: 39,931<br/>Likes: 78",
     "url": "https://huggingface.co/datasets/tencent/HY3D-Bench",
-    "published_date": "2026-02-14T09:35:52.719139+00:00",
+    "published_date": "2026-02-14T21:26:14.539519+00:00",
     "categories": [],
     "metadata": {
       "author": "tencent",
       "item_name": "HY3D-Bench",
       "downloads": 39931,
-      "likes": 76,
+      "likes": 78,
       "last_modified": "2026-02-06T04:00:18.000Z",
       "all_tags": []
     }
@@ -76,15 +58,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenMed/Medical-Reasoning-SFT-Mega",
-    "description": "Downloads: 832<br/>Likes: 49",
+    "description": "Downloads: 832<br/>Likes: 51",
     "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Mega",
-    "published_date": "2026-02-14T09:35:52.719146+00:00",
+    "published_date": "2026-02-14T21:26:14.539533+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenMed",
       "item_name": "Medical-Reasoning-SFT-Mega",
       "downloads": 832,
-      "likes": 49,
+      "likes": 51,
       "last_modified": "2026-02-06T15:06:13.000Z",
       "all_tags": []
     }
@@ -96,7 +78,7 @@
     "title": "moonworks/lunara-aesthetic-image-variations",
     "description": "Downloads: 3,961<br/>Likes: 57",
     "url": "https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations",
-    "published_date": "2026-02-14T09:35:52.719151+00:00",
+    "published_date": "2026-02-14T21:26:14.539540+00:00",
     "categories": [],
     "metadata": {
       "author": "moonworks",
@@ -112,16 +94,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ma-xu/fine-t2i",
-    "description": "Downloads: 13,408<br/>Likes: 44",
+    "description": "Downloads: 13,408<br/>Likes: 46",
     "url": "https://huggingface.co/datasets/ma-xu/fine-t2i",
-    "published_date": "2026-02-14T09:35:52.719158+00:00",
+    "published_date": "2026-02-14T21:26:14.539547+00:00",
     "categories": [],
     "metadata": {
       "author": "ma-xu",
       "item_name": "fine-t2i",
       "downloads": 13408,
-      "likes": 44,
+      "likes": 46,
       "last_modified": "2026-02-11T05:23:44.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d80290addff774a757858571752b2f6",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FutureMa/EvasionBench",
+    "description": "Downloads: 359<br/>Likes: 112",
+    "url": "https://huggingface.co/datasets/FutureMa/EvasionBench",
+    "published_date": "2026-02-14T21:26:14.539553+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FutureMa",
+      "item_name": "EvasionBench",
+      "downloads": 359,
+      "likes": 112,
+      "last_modified": "2026-02-10T11:16:03.000Z",
       "all_tags": []
     }
   },
@@ -130,16 +130,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "google/WaxalNLP",
-    "description": "Downloads: 9,055<br/>Likes: 130",
+    "description": "Downloads: 9,055<br/>Likes: 133",
     "url": "https://huggingface.co/datasets/google/WaxalNLP",
-    "published_date": "2026-02-14T09:35:52.719163+00:00",
+    "published_date": "2026-02-14T21:26:14.539560+00:00",
     "categories": [],
     "metadata": {
       "author": "google",
       "item_name": "WaxalNLP",
       "downloads": 9055,
-      "likes": 130,
+      "likes": 133,
       "last_modified": "2026-02-12T13:45:49.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c5888c050091f0d26fb71ab00c2fa322",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "opencsg/Fineweb-Edu-Chinese-V2.2",
+    "description": "Downloads: 42,887<br/>Likes: 51",
+    "url": "https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.2",
+    "published_date": "2026-02-14T21:26:14.539566+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "opencsg",
+      "item_name": "Fineweb-Edu-Chinese-V2.2",
+      "downloads": 42887,
+      "likes": 51,
+      "last_modified": "2026-02-02T11:54:10.000Z",
       "all_tags": []
     }
   },
@@ -150,7 +168,7 @@
     "title": "perplexity-ai/draco",
     "description": "Downloads: 4,056<br/>Likes: 58",
     "url": "https://huggingface.co/datasets/perplexity-ai/draco",
-    "published_date": "2026-02-14T09:35:52.719169+00:00",
+    "published_date": "2026-02-14T21:26:14.539572+00:00",
     "categories": [],
     "metadata": {
       "author": "perplexity-ai",
@@ -162,38 +180,74 @@
     }
   },
   {
-    "id": "c5888c050091f0d26fb71ab00c2fa322",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "opencsg/Fineweb-Edu-Chinese-V2.2",
-    "description": "Downloads: 42,887<br/>Likes: 49",
-    "url": "https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.2",
-    "published_date": "2026-02-14T09:35:52.719175+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "opencsg",
-      "item_name": "Fineweb-Edu-Chinese-V2.2",
-      "downloads": 42887,
-      "likes": 49,
-      "last_modified": "2026-02-02T11:54:10.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "13300c259f547dd29f2daebf18d5ee83",
     "source": "huggingface",
     "type": "dataset",
     "title": "GD-ML/IntTravel_dataset",
-    "description": "Downloads: 130<br/>Likes: 34",
+    "description": "Downloads: 130<br/>Likes: 38",
     "url": "https://huggingface.co/datasets/GD-ML/IntTravel_dataset",
-    "published_date": "2026-02-14T09:35:52.719180+00:00",
+    "published_date": "2026-02-14T21:26:14.539578+00:00",
     "categories": [],
     "metadata": {
       "author": "GD-ML",
       "item_name": "IntTravel_dataset",
       "downloads": 130,
-      "likes": 34,
+      "likes": 38,
       "last_modified": "2026-02-13T14:04:15.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "411b224cd77be138973c00cec9deadcf",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "galaxyMindAiLabs/stem-reasoning-complex",
+    "description": "Downloads: 340<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/galaxyMindAiLabs/stem-reasoning-complex",
+    "published_date": "2026-02-14T21:26:14.539585+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "galaxyMindAiLabs",
+      "item_name": "stem-reasoning-complex",
+      "downloads": 340,
+      "likes": 43,
+      "last_modified": "2026-02-10T18:08:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6cd2477f0cedd5533020adc672f2574a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/SAGE-10k",
+    "description": "Downloads: 2,590<br/>Likes: 33",
+    "url": "https://huggingface.co/datasets/nvidia/SAGE-10k",
+    "published_date": "2026-02-14T21:26:14.539591+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "SAGE-10k",
+      "downloads": 2590,
+      "likes": 33,
+      "last_modified": "2026-02-11T03:54:29.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d62a6232a0e96efd9ee12370636b307",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Soul-AILab/VividHead",
+    "description": "Downloads: 944<br/>Likes: 32",
+    "url": "https://huggingface.co/datasets/Soul-AILab/VividHead",
+    "published_date": "2026-02-14T21:26:14.539600+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Soul-AILab",
+      "item_name": "VividHead",
+      "downloads": 944,
+      "likes": 32,
+      "last_modified": "2026-02-12T09:20:28.000Z",
       "all_tags": []
     }
   },
@@ -204,7 +258,7 @@
     "title": "ShandaAI/Hive",
     "description": "Downloads: 2,743<br/>Likes: 46",
     "url": "https://huggingface.co/datasets/ShandaAI/Hive",
-    "published_date": "2026-02-14T09:35:52.719184+00:00",
+    "published_date": "2026-02-14T21:26:14.539607+00:00",
     "categories": [],
     "metadata": {
       "author": "ShandaAI",
@@ -216,31 +270,13 @@
     }
   },
   {
-    "id": "411b224cd77be138973c00cec9deadcf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "galaxyMindAiLabs/stem-reasoning-complex",
-    "description": "Downloads: 340<br/>Likes: 39",
-    "url": "https://huggingface.co/datasets/galaxyMindAiLabs/stem-reasoning-complex",
-    "published_date": "2026-02-14T09:35:52.719189+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "galaxyMindAiLabs",
-      "item_name": "stem-reasoning-complex",
-      "downloads": 340,
-      "likes": 39,
-      "last_modified": "2026-02-10T18:08:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "8ca684102450915c4a27057365511b90",
     "source": "huggingface",
     "type": "dataset",
     "title": "lxucs/tele-lens",
     "description": "Downloads: 72<br/>Likes: 51",
     "url": "https://huggingface.co/datasets/lxucs/tele-lens",
-    "published_date": "2026-02-14T09:35:52.719196+00:00",
+    "published_date": "2026-02-14T21:26:14.539613+00:00",
     "categories": [],
     "metadata": {
       "author": "lxucs",
@@ -252,20 +288,20 @@
     }
   },
   {
-    "id": "6d62a6232a0e96efd9ee12370636b307",
+    "id": "d778249362f70bcc7c8f8c079b2382b6",
     "source": "huggingface",
     "type": "dataset",
-    "title": "Soul-AILab/VividHead",
-    "description": "Downloads: 944<br/>Likes: 30",
-    "url": "https://huggingface.co/datasets/Soul-AILab/VividHead",
-    "published_date": "2026-02-14T09:35:52.719201+00:00",
+    "title": "OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
+    "description": "Downloads: 842<br/>Likes: 42",
+    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
+    "published_date": "2026-02-14T21:26:14.539620+00:00",
     "categories": [],
     "metadata": {
-      "author": "Soul-AILab",
-      "item_name": "VividHead",
-      "downloads": 944,
-      "likes": 30,
-      "last_modified": "2026-02-12T09:20:28.000Z",
+      "author": "OpenMed",
+      "item_name": "Medical-Reasoning-SFT-Nemotron-Nano-30B",
+      "downloads": 842,
+      "likes": 42,
+      "last_modified": "2026-02-03T21:02:42.000Z",
       "all_tags": []
     }
   },
@@ -274,34 +310,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "TrustAIRLab/Moltbook",
-    "description": "Downloads: 2,626<br/>Likes: 40",
+    "description": "Downloads: 2,626<br/>Likes: 41",
     "url": "https://huggingface.co/datasets/TrustAIRLab/Moltbook",
-    "published_date": "2026-02-14T09:35:52.719205+00:00",
+    "published_date": "2026-02-14T21:26:14.539626+00:00",
     "categories": [],
     "metadata": {
       "author": "TrustAIRLab",
       "item_name": "Moltbook",
       "downloads": 2626,
-      "likes": 40,
+      "likes": 41,
       "last_modified": "2026-02-12T02:10:41.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6cd2477f0cedd5533020adc672f2574a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/SAGE-10k",
-    "description": "Downloads: 2,590<br/>Likes: 27",
-    "url": "https://huggingface.co/datasets/nvidia/SAGE-10k",
-    "published_date": "2026-02-14T09:35:52.719209+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "SAGE-10k",
-      "downloads": 2590,
-      "likes": 27,
-      "last_modified": "2026-02-11T03:54:29.000Z",
       "all_tags": []
     }
   },
@@ -310,52 +328,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenResearcher/OpenResearcher-Dataset",
-    "description": "Downloads: 1,884<br/>Likes: 27",
+    "description": "Downloads: 1,884<br/>Likes: 29",
     "url": "https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset",
-    "published_date": "2026-02-14T09:35:52.719214+00:00",
+    "published_date": "2026-02-14T21:26:14.539633+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenResearcher",
       "item_name": "OpenResearcher-Dataset",
       "downloads": 1884,
-      "likes": 27,
+      "likes": 29,
       "last_modified": "2026-02-12T22:23:38.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "d778249362f70bcc7c8f8c079b2382b6",
+    "id": "e6e3ec6f16a7268aff6b4cde14e99a07",
     "source": "huggingface",
     "type": "dataset",
-    "title": "OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
-    "description": "Downloads: 842<br/>Likes: 39",
-    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
-    "published_date": "2026-02-14T09:35:52.719219+00:00",
+    "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "description": "Downloads: 5,274<br/>Likes: 246",
+    "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "published_date": "2026-02-14T21:26:14.539640+00:00",
     "categories": [],
     "metadata": {
-      "author": "OpenMed",
-      "item_name": "Medical-Reasoning-SFT-Nemotron-Nano-30B",
-      "downloads": 842,
-      "likes": 39,
-      "last_modified": "2026-02-03T21:02:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "99907cf07488c865e39b14f986500073",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "sojuL/RubricHub_v1",
-    "description": "Downloads: 1,633<br/>Likes: 266",
-    "url": "https://huggingface.co/datasets/sojuL/RubricHub_v1",
-    "published_date": "2026-02-14T09:35:52.719224+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "sojuL",
-      "item_name": "RubricHub_v1",
-      "downloads": 1633,
-      "likes": 266,
-      "last_modified": "2026-02-03T03:09:05.000Z",
+      "author": "TeichAI",
+      "item_name": "claude-4.5-opus-high-reasoning-250x",
+      "downloads": 5274,
+      "likes": 246,
+      "last_modified": "2025-11-28T03:02:41.000Z",
       "all_tags": []
     }
   }
