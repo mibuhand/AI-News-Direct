@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-5",
-    "description": "Type: text-generation<br/>Downloads: 66,826<br/>Likes: 1121",
+    "description": "Type: text-generation<br/>Downloads: 128,078<br/>Likes: 1166",
     "url": "https://huggingface.co/zai-org/GLM-5",
-    "published_date": "2026-02-14T21:26:14.485510+00:00",
+    "published_date": "2026-02-15T09:36:39.108163+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-5",
-      "downloads": 66826,
-      "likes": 1121,
+      "downloads": 128078,
+      "likes": 1166,
       "last_modified": "2026-02-13T14:41:45.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "MiniMaxAI/MiniMax-M2.5",
-    "description": "Type: text-generation<br/>Downloads: 6,091<br/>Likes: 512",
+    "description": "Type: text-generation<br/>Downloads: 11,092<br/>Likes: 567",
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-    "published_date": "2026-02-14T21:26:14.485535+00:00",
+    "published_date": "2026-02-15T09:36:39.108184+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "MiniMaxAI",
       "item_name": "MiniMax-M2.5",
-      "downloads": 6091,
-      "likes": 512,
+      "downloads": 11092,
+      "likes": 567,
       "last_modified": "2026-02-14T03:45:57.000Z",
       "all_tags": []
     }
@@ -44,17 +44,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/MiniCPM-SALA",
-    "description": "Type: text-generation<br/>Downloads: 2,569<br/>Likes: 422",
+    "description": "Type: text-generation<br/>Downloads: 2,986<br/>Likes: 434",
     "url": "https://huggingface.co/openbmb/MiniCPM-SALA",
-    "published_date": "2026-02-14T21:26:14.485546+00:00",
+    "published_date": "2026-02-15T09:36:39.108195+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "openbmb",
       "item_name": "MiniCPM-SALA",
-      "downloads": 2569,
-      "likes": 422,
+      "downloads": 2986,
+      "likes": 434,
       "last_modified": "2026-02-11T13:51:18.000Z",
       "all_tags": []
     }
@@ -64,38 +64,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "moonshotai/Kimi-K2.5",
-    "description": "Type: image-text-to-text<br/>Downloads: 725,856<br/>Likes: 2160",
+    "description": "Type: image-text-to-text<br/>Downloads: 756,817<br/>Likes: 2172",
     "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
-    "published_date": "2026-02-14T21:26:14.485559+00:00",
+    "published_date": "2026-02-15T09:36:39.108202+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "moonshotai",
       "item_name": "Kimi-K2.5",
-      "downloads": 725856,
-      "likes": 2160,
+      "downloads": 756817,
+      "likes": 2172,
       "last_modified": "2026-02-05T03:49:51.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a33c7e0921f63bd25ab4a6a3bae66a93",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3-Coder-Next",
-    "description": "Type: text-generation<br/>Downloads: 249,228<br/>Likes: 857",
-    "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-    "published_date": "2026-02-14T21:26:14.485591+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-Coder-Next",
-      "downloads": 249228,
-      "likes": 857,
-      "last_modified": "2026-02-03T16:16:38.000Z",
       "all_tags": []
     }
   },
@@ -104,18 +84,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Nanbeige/Nanbeige4.1-3B",
-    "description": "Type: text-generation<br/>Downloads: 3,906<br/>Likes: 343",
+    "description": "Type: text-generation<br/>Downloads: 11,129<br/>Likes: 376",
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-    "published_date": "2026-02-14T21:26:14.485598+00:00",
+    "published_date": "2026-02-15T09:36:39.108210+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "Nanbeige",
       "item_name": "Nanbeige4.1-3B",
-      "downloads": 3906,
-      "likes": 343,
+      "downloads": 11129,
+      "likes": 376,
       "last_modified": "2026-02-13T12:43:23.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a33c7e0921f63bd25ab4a6a3bae66a93",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3-Coder-Next",
+    "description": "Type: text-generation<br/>Downloads: 270,983<br/>Likes: 863",
+    "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+    "published_date": "2026-02-15T09:36:39.108215+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3-Coder-Next",
+      "downloads": 270983,
+      "likes": 863,
+      "last_modified": "2026-02-03T16:16:38.000Z",
       "all_tags": []
     }
   },
@@ -124,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-OCR",
-    "description": "Type: image-to-text<br/>Downloads: 788,443<br/>Likes: 1038",
+    "description": "Type: image-to-text<br/>Downloads: 855,997<br/>Likes: 1041",
     "url": "https://huggingface.co/zai-org/GLM-OCR",
-    "published_date": "2026-02-14T21:26:14.485605+00:00",
+    "published_date": "2026-02-15T09:36:39.108223+00:00",
     "categories": [
       "image-to-text"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-OCR",
-      "downloads": 788443,
-      "likes": 1038,
+      "downloads": 855997,
+      "likes": 1041,
       "last_modified": "2026-02-09T06:03:29.000Z",
       "all_tags": []
     }
@@ -144,17 +144,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/MiniCPM-o-4_5",
-    "description": "Type: any-to-any<br/>Downloads: 44,892<br/>Likes: 839",
+    "description": "Type: any-to-any<br/>Downloads: 45,216<br/>Likes: 841",
     "url": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-    "published_date": "2026-02-14T21:26:14.485615+00:00",
+    "published_date": "2026-02-15T09:36:39.108228+00:00",
     "categories": [
       "any-to-any"
     ],
     "metadata": {
       "author": "openbmb",
       "item_name": "MiniCPM-o-4_5",
-      "downloads": 44892,
-      "likes": 839,
+      "downloads": 45216,
+      "likes": 841,
       "last_modified": "2026-02-13T16:16:34.000Z",
       "all_tags": []
     }
@@ -164,17 +164,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ming-flash-omni-2.0",
-    "description": "Type: any-to-any<br/>Downloads: 5,865<br/>Likes: 197",
+    "description": "Type: any-to-any<br/>Downloads: 6,303<br/>Likes: 201",
     "url": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
-    "published_date": "2026-02-14T21:26:14.485622+00:00",
+    "published_date": "2026-02-15T09:36:39.108233+00:00",
     "categories": [
       "any-to-any"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ming-flash-omni-2.0",
-      "downloads": 5865,
-      "likes": 197,
+      "downloads": 6303,
+      "likes": 201,
       "last_modified": "2026-02-12T07:33:11.000Z",
       "all_tags": []
     }
@@ -184,17 +184,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "description": "Type: automatic-speech-recognition<br/>Downloads: 5,711<br/>Likes: 521",
+    "description": "Type: automatic-speech-recognition<br/>Downloads: 5,992<br/>Likes: 525",
     "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "published_date": "2026-02-14T21:26:14.485630+00:00",
+    "published_date": "2026-02-15T09:36:39.108239+00:00",
     "categories": [
       "automatic-speech-recognition"
     ],
     "metadata": {
       "author": "mistralai",
       "item_name": "Voxtral-Mini-4B-Realtime-2602",
-      "downloads": 5711,
-      "likes": 521,
+      "downloads": 5992,
+      "likes": 525,
       "last_modified": "2026-02-13T15:31:05.000Z",
       "all_tags": []
     }
@@ -204,17 +204,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "OpenMOSS-Team/MOSS-TTS",
-    "description": "Type: text-to-speech<br/>Downloads: 3,684<br/>Likes: 163",
+    "description": "Type: text-to-speech<br/>Downloads: 5,784<br/>Likes: 179",
     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-    "published_date": "2026-02-14T21:26:14.485636+00:00",
+    "published_date": "2026-02-15T09:36:39.108244+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "MOSS-TTS",
-      "downloads": 3684,
-      "likes": 163,
+      "downloads": 5784,
+      "likes": 179,
       "last_modified": "2026-02-13T15:46:00.000Z",
       "all_tags": []
     }
@@ -224,18 +224,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ring-2.5-1T",
-    "description": "Type: text-generation<br/>Downloads: 1,235<br/>Likes: 163",
+    "description": "Type: text-generation<br/>Downloads: 1,762<br/>Likes: 168",
     "url": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-    "published_date": "2026-02-14T21:26:14.485643+00:00",
+    "published_date": "2026-02-15T09:36:39.108250+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ring-2.5-1T",
-      "downloads": 1235,
-      "likes": 163,
-      "last_modified": "2026-02-13T05:05:33.000Z",
+      "downloads": 1762,
+      "likes": 168,
+      "last_modified": "2026-02-15T07:34:45.000Z",
       "all_tags": []
     }
   },
@@ -244,17 +244,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "ACE-Step/Ace-Step1.5",
-    "description": "Type: text-to-audio<br/>Downloads: 35,627<br/>Likes: 551",
+    "description": "Type: text-to-audio<br/>Downloads: 37,048<br/>Likes: 552",
     "url": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-    "published_date": "2026-02-14T21:26:14.485649+00:00",
+    "published_date": "2026-02-15T09:36:39.108254+00:00",
     "categories": [
       "text-to-audio"
     ],
     "metadata": {
       "author": "ACE-Step",
       "item_name": "Ace-Step1.5",
-      "downloads": 35627,
-      "likes": 551,
+      "downloads": 37048,
+      "likes": 552,
       "last_modified": "2026-02-03T11:37:37.000Z",
       "all_tags": []
     }
@@ -264,36 +264,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "stepfun-ai/Step-3.5-Flash",
-    "description": "Type: text-generation<br/>Downloads: 279,722<br/>Likes: 607",
+    "description": "Type: text-generation<br/>Downloads: 281,905<br/>Likes: 610",
     "url": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-    "published_date": "2026-02-14T21:26:14.485655+00:00",
+    "published_date": "2026-02-15T09:36:39.108261+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "stepfun-ai",
       "item_name": "Step-3.5-Flash",
-      "downloads": 279722,
-      "likes": 607,
+      "downloads": 281905,
+      "likes": 610,
       "last_modified": "2026-02-13T06:53:09.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8c09b351960dd44e9be0cc6309fdf191",
-    "source": "huggingface",
-    "type": "model",
-    "title": "circlestone-labs/Anima",
-    "description": "Downloads: 125,631<br/>Likes: 593",
-    "url": "https://huggingface.co/circlestone-labs/Anima",
-    "published_date": "2026-02-14T21:26:14.485664+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "circlestone-labs",
-      "item_name": "Anima",
-      "downloads": 125631,
-      "likes": 593,
-      "last_modified": "2026-02-01T00:46:15.000Z",
       "all_tags": []
     }
   },
@@ -302,18 +284,36 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/GLM-5-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 28,316<br/>Likes: 136",
+    "description": "Type: text-generation<br/>Downloads: 31,276<br/>Likes: 144",
     "url": "https://huggingface.co/unsloth/GLM-5-GGUF",
-    "published_date": "2026-02-14T21:26:14.485672+00:00",
+    "published_date": "2026-02-15T09:36:39.108266+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "GLM-5-GGUF",
-      "downloads": 28316,
-      "likes": 136,
+      "downloads": 31276,
+      "likes": 144,
       "last_modified": "2026-02-12T18:43:15.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "8c09b351960dd44e9be0cc6309fdf191",
+    "source": "huggingface",
+    "type": "model",
+    "title": "circlestone-labs/Anima",
+    "description": "Downloads: 132,786<br/>Likes: 597",
+    "url": "https://huggingface.co/circlestone-labs/Anima",
+    "published_date": "2026-02-15T09:36:39.108271+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "circlestone-labs",
+      "item_name": "Anima",
+      "downloads": 132786,
+      "likes": 597,
+      "last_modified": "2026-02-01T00:46:15.000Z",
       "all_tags": []
     }
   },
@@ -322,17 +322,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3-Coder-Next-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 299,833<br/>Likes: 312",
+    "description": "Type: text-generation<br/>Downloads: 316,285<br/>Likes: 314",
     "url": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
-    "published_date": "2026-02-14T21:26:14.485678+00:00",
+    "published_date": "2026-02-15T09:36:39.108276+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "Qwen3-Coder-Next-GGUF",
-      "downloads": 299833,
-      "likes": 312,
+      "downloads": 316285,
+      "likes": 314,
       "last_modified": "2026-02-13T03:07:32.000Z",
       "all_tags": []
     }
@@ -342,17 +342,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "inference-net/Schematron-3B",
-    "description": "Type: text-generation<br/>Downloads: 3,826<br/>Likes: 303",
+    "description": "Type: text-generation<br/>Downloads: 4,557<br/>Likes: 304",
     "url": "https://huggingface.co/inference-net/Schematron-3B",
-    "published_date": "2026-02-14T21:26:14.485685+00:00",
+    "published_date": "2026-02-15T09:36:39.108283+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inference-net",
       "item_name": "Schematron-3B",
-      "downloads": 3826,
-      "likes": 303,
+      "downloads": 4557,
+      "likes": 304,
       "last_modified": "2026-02-05T03:08:50.000Z",
       "all_tags": []
     }
@@ -362,16 +362,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "UCSB-SURFI/VulnLLM-R-7B",
-    "description": "Type: text-generation<br/>Downloads: 4,021<br/>Likes: 152",
+    "description": "Type: text-generation<br/>Downloads: 4,023<br/>Likes: 152",
     "url": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
-    "published_date": "2026-02-14T21:26:14.485694+00:00",
+    "published_date": "2026-02-15T09:36:39.108288+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "UCSB-SURFI",
       "item_name": "VulnLLM-R-7B",
-      "downloads": 4021,
+      "downloads": 4023,
       "likes": 152,
       "last_modified": "2025-12-12T00:23:16.000Z",
       "all_tags": []
@@ -382,18 +382,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "OpenMOSS-Team/MOVA-360p",
-    "description": "Type: image-to-video<br/>Downloads: 2,698<br/>Likes: 157",
+    "description": "Type: image-to-video<br/>Downloads: 5,539<br/>Likes: 165",
     "url": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
-    "published_date": "2026-02-14T21:26:14.485700+00:00",
+    "published_date": "2026-02-15T09:36:39.108292+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "MOVA-360p",
-      "downloads": 2698,
-      "likes": 157,
-      "last_modified": "2026-02-02T07:49:46.000Z",
+      "downloads": 5539,
+      "likes": 165,
+      "last_modified": "2026-02-15T04:40:02.000Z",
       "all_tags": []
     }
   }
