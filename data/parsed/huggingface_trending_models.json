@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-5",
-    "description": "Type: text-generation<br/>Downloads: 128,078<br/>Likes: 1195",
+    "description": "Type: text-generation<br/>Downloads: 166,549<br/>Likes: 1212",
     "url": "https://huggingface.co/zai-org/GLM-5",
-    "published_date": "2026-02-15T21:26:39.880461+00:00",
+    "published_date": "2026-02-16T09:59:20.815846+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-5",
-      "downloads": 128078,
-      "likes": 1195,
+      "downloads": 166549,
+      "likes": 1212,
       "last_modified": "2026-02-13T14:41:45.000Z",
       "all_tags": []
     }
@@ -24,18 +24,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "MiniMaxAI/MiniMax-M2.5",
-    "description": "Type: text-generation<br/>Downloads: 11,092<br/>Likes: 601",
+    "description": "Type: text-generation<br/>Downloads: 18,895<br/>Likes: 629",
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-    "published_date": "2026-02-15T21:26:39.880485+00:00",
+    "published_date": "2026-02-16T09:59:20.815866+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "MiniMaxAI",
       "item_name": "MiniMax-M2.5",
-      "downloads": 11092,
-      "likes": 601,
-      "last_modified": "2026-02-14T03:45:57.000Z",
+      "downloads": 18895,
+      "likes": 629,
+      "last_modified": "2026-02-16T08:34:03.000Z",
       "all_tags": []
     }
   },
@@ -44,38 +44,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/MiniCPM-SALA",
-    "description": "Type: text-generation<br/>Downloads: 2,986<br/>Likes: 441",
+    "description": "Type: text-generation<br/>Downloads: 3,665<br/>Likes: 448",
     "url": "https://huggingface.co/openbmb/MiniCPM-SALA",
-    "published_date": "2026-02-15T21:26:39.880499+00:00",
+    "published_date": "2026-02-16T09:59:20.815877+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "openbmb",
       "item_name": "MiniCPM-SALA",
-      "downloads": 2986,
-      "likes": 441,
+      "downloads": 3665,
+      "likes": 448,
       "last_modified": "2026-02-11T13:51:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "285b8b68f95f35ea5d30b4f5f16059a3",
-    "source": "huggingface",
-    "type": "model",
-    "title": "moonshotai/Kimi-K2.5",
-    "description": "Type: image-text-to-text<br/>Downloads: 756,817<br/>Likes: 2183",
-    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
-    "published_date": "2026-02-15T21:26:39.880507+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "moonshotai",
-      "item_name": "Kimi-K2.5",
-      "downloads": 756817,
-      "likes": 2183,
-      "last_modified": "2026-02-05T03:49:51.000Z",
       "all_tags": []
     }
   },
@@ -84,18 +64,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Nanbeige/Nanbeige4.1-3B",
-    "description": "Type: text-generation<br/>Downloads: 11,129<br/>Likes: 410",
+    "description": "Type: text-generation<br/>Downloads: 21,014<br/>Likes: 441",
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-    "published_date": "2026-02-15T21:26:39.880521+00:00",
+    "published_date": "2026-02-16T09:59:20.815883+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "Nanbeige",
       "item_name": "Nanbeige4.1-3B",
-      "downloads": 11129,
-      "likes": 410,
+      "downloads": 21014,
+      "likes": 441,
       "last_modified": "2026-02-13T12:43:23.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "285b8b68f95f35ea5d30b4f5f16059a3",
+    "source": "huggingface",
+    "type": "model",
+    "title": "moonshotai/Kimi-K2.5",
+    "description": "Type: image-text-to-text<br/>Downloads: 788,036<br/>Likes: 2193",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "published_date": "2026-02-16T09:59:20.815891+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "moonshotai",
+      "item_name": "Kimi-K2.5",
+      "downloads": 788036,
+      "likes": 2193,
+      "last_modified": "2026-02-05T03:49:51.000Z",
       "all_tags": []
     }
   },
@@ -104,17 +104,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-OCR",
-    "description": "Type: image-to-text<br/>Downloads: 855,997<br/>Likes: 1046",
+    "description": "Type: image-to-text<br/>Downloads: 911,799<br/>Likes: 1049",
     "url": "https://huggingface.co/zai-org/GLM-OCR",
-    "published_date": "2026-02-15T21:26:39.880526+00:00",
+    "published_date": "2026-02-16T09:59:20.815897+00:00",
     "categories": [
       "image-to-text"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-OCR",
-      "downloads": 855997,
-      "likes": 1046,
+      "downloads": 911799,
+      "likes": 1049,
       "last_modified": "2026-02-09T06:03:29.000Z",
       "all_tags": []
     }
@@ -124,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-Coder-Next",
-    "description": "Type: text-generation<br/>Downloads: 270,983<br/>Likes: 867",
+    "description": "Type: text-generation<br/>Downloads: 292,364<br/>Likes: 876",
     "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-    "published_date": "2026-02-15T21:26:39.880534+00:00",
+    "published_date": "2026-02-16T09:59:20.815904+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-Coder-Next",
-      "downloads": 270983,
-      "likes": 867,
+      "downloads": 292364,
+      "likes": 876,
       "last_modified": "2026-02-03T16:16:38.000Z",
       "all_tags": []
     }
@@ -144,17 +144,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "openbmb/MiniCPM-o-4_5",
-    "description": "Type: any-to-any<br/>Downloads: 45,216<br/>Likes: 845",
+    "description": "Type: any-to-any<br/>Downloads: 47,829<br/>Likes: 847",
     "url": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-    "published_date": "2026-02-15T21:26:39.880539+00:00",
+    "published_date": "2026-02-16T09:59:20.815909+00:00",
     "categories": [
       "any-to-any"
     ],
     "metadata": {
       "author": "openbmb",
       "item_name": "MiniCPM-o-4_5",
-      "downloads": 45216,
-      "likes": 845,
+      "downloads": 47829,
+      "likes": 847,
       "last_modified": "2026-02-13T16:16:34.000Z",
       "all_tags": []
     }
@@ -164,17 +164,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ming-flash-omni-2.0",
-    "description": "Type: any-to-any<br/>Downloads: 6,303<br/>Likes: 208",
+    "description": "Type: any-to-any<br/>Downloads: 6,486<br/>Likes: 213",
     "url": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
-    "published_date": "2026-02-15T21:26:39.880544+00:00",
+    "published_date": "2026-02-16T09:59:20.815915+00:00",
     "categories": [
       "any-to-any"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ming-flash-omni-2.0",
-      "downloads": 6303,
-      "likes": 208,
+      "downloads": 6486,
+      "likes": 213,
       "last_modified": "2026-02-12T07:33:11.000Z",
       "all_tags": []
     }
@@ -184,17 +184,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "OpenMOSS-Team/MOSS-TTS",
-    "description": "Type: text-to-speech<br/>Downloads: 5,784<br/>Likes: 187",
+    "description": "Type: text-to-speech<br/>Downloads: 9,596<br/>Likes: 197",
     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-    "published_date": "2026-02-15T21:26:39.880549+00:00",
+    "published_date": "2026-02-16T09:59:20.815920+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "MOSS-TTS",
-      "downloads": 5784,
-      "likes": 187,
+      "downloads": 9596,
+      "likes": 197,
       "last_modified": "2026-02-13T15:46:00.000Z",
       "all_tags": []
     }
@@ -204,17 +204,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ring-2.5-1T",
-    "description": "Type: text-generation<br/>Downloads: 1,762<br/>Likes: 174",
+    "description": "Type: text-generation<br/>Downloads: 2,506<br/>Likes: 175",
     "url": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-    "published_date": "2026-02-15T21:26:39.880554+00:00",
+    "published_date": "2026-02-16T09:59:20.815924+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ring-2.5-1T",
-      "downloads": 1762,
-      "likes": 174,
+      "downloads": 2506,
+      "likes": 175,
       "last_modified": "2026-02-15T07:34:45.000Z",
       "all_tags": []
     }
@@ -224,18 +224,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "ACE-Step/Ace-Step1.5",
-    "description": "Type: text-to-audio<br/>Downloads: 37,048<br/>Likes: 553",
+    "description": "Type: text-to-audio<br/>Downloads: 38,414<br/>Likes: 555",
     "url": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-    "published_date": "2026-02-15T21:26:39.880559+00:00",
+    "published_date": "2026-02-16T09:59:20.815929+00:00",
     "categories": [
       "text-to-audio"
     ],
     "metadata": {
       "author": "ACE-Step",
       "item_name": "Ace-Step1.5",
-      "downloads": 37048,
-      "likes": 553,
+      "downloads": 38414,
+      "likes": 555,
       "last_modified": "2026-02-03T11:37:37.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3326f1ee4e045ee79326c0583afc75ab",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/personaplex-7b-v1",
+    "description": "Type: audio-to-audio<br/>Downloads: 366,815<br/>Likes: 1859",
+    "url": "https://huggingface.co/nvidia/personaplex-7b-v1",
+    "published_date": "2026-02-16T09:59:20.815933+00:00",
+    "categories": [
+      "audio-to-audio"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "personaplex-7b-v1",
+      "downloads": 366815,
+      "likes": 1859,
+      "last_modified": "2026-02-15T20:10:09.000Z",
       "all_tags": []
     }
   },
@@ -244,38 +264,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "description": "Type: automatic-speech-recognition<br/>Downloads: 5,992<br/>Likes: 532",
+    "description": "Type: automatic-speech-recognition<br/>Downloads: 6,242<br/>Likes: 535",
     "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "published_date": "2026-02-15T21:26:39.880564+00:00",
+    "published_date": "2026-02-16T09:59:20.815941+00:00",
     "categories": [
       "automatic-speech-recognition"
     ],
     "metadata": {
       "author": "mistralai",
       "item_name": "Voxtral-Mini-4B-Realtime-2602",
-      "downloads": 5992,
-      "likes": 532,
+      "downloads": 6242,
+      "likes": 535,
       "last_modified": "2026-02-13T15:31:05.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "bcc82ede6cb3cbb053a874aae548bd1e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "stepfun-ai/Step-3.5-Flash",
-    "description": "Type: text-generation<br/>Downloads: 281,905<br/>Likes: 612",
-    "url": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-    "published_date": "2026-02-15T21:26:39.880571+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "stepfun-ai",
-      "item_name": "Step-3.5-Flash",
-      "downloads": 281905,
-      "likes": 612,
-      "last_modified": "2026-02-13T06:53:09.000Z",
       "all_tags": []
     }
   },
@@ -284,17 +284,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/GLM-5-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 31,276<br/>Likes: 148",
+    "description": "Type: text-generation<br/>Downloads: 36,235<br/>Likes: 154",
     "url": "https://huggingface.co/unsloth/GLM-5-GGUF",
-    "published_date": "2026-02-15T21:26:39.880597+00:00",
+    "published_date": "2026-02-16T09:59:20.815945+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "GLM-5-GGUF",
-      "downloads": 31276,
-      "likes": 148,
+      "downloads": 36235,
+      "likes": 154,
       "last_modified": "2026-02-15T11:28:01.000Z",
       "all_tags": []
     }
@@ -304,15 +304,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "circlestone-labs/Anima",
-    "description": "Downloads: 132,786<br/>Likes: 600",
+    "description": "Downloads: 140,113<br/>Likes: 606",
     "url": "https://huggingface.co/circlestone-labs/Anima",
-    "published_date": "2026-02-15T21:26:39.880603+00:00",
+    "published_date": "2026-02-16T09:59:20.815950+00:00",
     "categories": [],
     "metadata": {
       "author": "circlestone-labs",
       "item_name": "Anima",
-      "downloads": 132786,
-      "likes": 600,
+      "downloads": 140113,
+      "likes": 606,
       "last_modified": "2026-02-01T00:46:15.000Z",
       "all_tags": []
     }
@@ -322,17 +322,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3-Coder-Next-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 316,285<br/>Likes: 317",
+    "description": "Type: text-generation<br/>Downloads: 335,196<br/>Likes: 319",
     "url": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
-    "published_date": "2026-02-15T21:26:39.880609+00:00",
+    "published_date": "2026-02-16T09:59:20.815955+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "Qwen3-Coder-Next-GGUF",
-      "downloads": 316285,
-      "likes": 317,
+      "downloads": 335196,
+      "likes": 319,
       "last_modified": "2026-02-13T03:07:32.000Z",
       "all_tags": []
     }
@@ -342,38 +342,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "inference-net/Schematron-3B",
-    "description": "Type: text-generation<br/>Downloads: 4,557<br/>Likes: 309",
+    "description": "Type: text-generation<br/>Downloads: 4,693<br/>Likes: 310",
     "url": "https://huggingface.co/inference-net/Schematron-3B",
-    "published_date": "2026-02-15T21:26:39.880616+00:00",
+    "published_date": "2026-02-16T09:59:20.815962+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "inference-net",
       "item_name": "Schematron-3B",
-      "downloads": 4557,
-      "likes": 309,
+      "downloads": 4693,
+      "likes": 310,
       "last_modified": "2026-02-05T03:08:50.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "76099c90a1e545f7da6ddb5f0ad6081d",
-    "source": "huggingface",
-    "type": "model",
-    "title": "UCSB-SURFI/VulnLLM-R-7B",
-    "description": "Type: text-generation<br/>Downloads: 4,023<br/>Likes: 157",
-    "url": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
-    "published_date": "2026-02-15T21:26:39.880621+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "UCSB-SURFI",
-      "item_name": "VulnLLM-R-7B",
-      "downloads": 4023,
-      "likes": 157,
-      "last_modified": "2025-12-12T00:23:16.000Z",
       "all_tags": []
     }
   },
@@ -382,18 +362,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "OpenMOSS-Team/MOVA-360p",
-    "description": "Type: image-to-video<br/>Downloads: 5,539<br/>Likes: 173",
+    "description": "Type: image-to-video<br/>Downloads: 8,460<br/>Likes: 178",
     "url": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
-    "published_date": "2026-02-15T21:26:39.880625+00:00",
+    "published_date": "2026-02-16T09:59:20.815967+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "MOVA-360p",
-      "downloads": 5539,
-      "likes": 173,
+      "downloads": 8460,
+      "likes": 178,
       "last_modified": "2026-02-15T04:40:02.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "76099c90a1e545f7da6ddb5f0ad6081d",
+    "source": "huggingface",
+    "type": "model",
+    "title": "UCSB-SURFI/VulnLLM-R-7B",
+    "description": "Type: text-generation<br/>Downloads: 4,058<br/>Likes: 158",
+    "url": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
+    "published_date": "2026-02-16T09:59:20.815971+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "UCSB-SURFI",
+      "item_name": "VulnLLM-R-7B",
+      "downloads": 4058,
+      "likes": 158,
+      "last_modified": "2025-12-12T00:23:16.000Z",
       "all_tags": []
     }
   }
