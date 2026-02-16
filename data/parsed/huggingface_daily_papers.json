@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
-    "description": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic s...<br/>Upvotes: 313<br/>Authors: Shaobo Wang, Xuan Ouyang, Tianyi Xu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.05400\">Hugging Face</a>",
+    "description": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic s...<br/>Upvotes: 314<br/>Authors: Shaobo Wang, Xuan Ouyang, Tianyi Xu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.05400\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.05400",
     "external_url": "",
     "published_date": "2026-02-05T02:34:23.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2602.05400",
-      "upvotes": 313,
+      "upvotes": 314,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -123,7 +123,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
-    "description": "As post-training optimization becomes central to improving large language models, we observe a persistent saturation bottleneck: once models grow highly confident, further training yields diminishing ...<br/>Upvotes: 252<br/>GitHub Stars: 80<br/>Authors: Zehao Chen, Gongxun Li, Tianxiang Ai<br/>🔗 <a href=\"https://github.com/chenzehao82/Weak-Driven-Learning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.08222\">Hugging Face</a>",
+    "description": "As post-training optimization becomes central to improving large language models, we observe a persistent saturation bottleneck: once models grow highly confident, further training yields diminishing ...<br/>Upvotes: 253<br/>GitHub Stars: 81<br/>Authors: Zehao Chen, Gongxun Li, Tianxiang Ai<br/>🔗 <a href=\"https://github.com/chenzehao82/Weak-Driven-Learning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.08222\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.08222",
     "external_url": "https://github.com/chenzehao82/Weak-Driven-Learning",
     "published_date": "2026-02-08T21:50:40.000Z",
@@ -133,8 +133,8 @@
     ],
     "metadata": {
       "paper_id": "2602.08222",
-      "upvotes": 252,
-      "github_stars": 80,
+      "upvotes": 253,
+      "github_stars": 81,
       "github_url": "https://github.com/chenzehao82/Weak-Driven-Learning",
       "project_url": "",
       "authors": [
@@ -645,7 +645,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Kimi K2.5: Visual Agentic Intelligence",
-    "description": "We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhan...<br/>Upvotes: 232<br/>GitHub Stars: 1005<br/>Authors: Kimi Team, Tongtong Bai, Yifan Bai<br/>🔗 <a href=\"https://github.com/MoonshotAI/Kimi-K2.5\">GitHub</a><br/>🔗 <a href=\"https://www.kimi.com/blog/kimi-k2-5.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.02276\">Hugging Face</a>",
+    "description": "We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhan...<br/>Upvotes: 232<br/>GitHub Stars: 1013<br/>Authors: Kimi Team, Tongtong Bai, Yifan Bai<br/>🔗 <a href=\"https://github.com/MoonshotAI/Kimi-K2.5\">GitHub</a><br/>🔗 <a href=\"https://www.kimi.com/blog/kimi-k2-5.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.02276\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.02276",
     "external_url": "https://github.com/MoonshotAI/Kimi-K2.5",
     "published_date": "2026-02-02T11:17:38.000Z",
@@ -656,7 +656,7 @@
     "metadata": {
       "paper_id": "2602.02276",
       "upvotes": 232,
-      "github_stars": 1005,
+      "github_stars": 1013,
       "github_url": "https://github.com/MoonshotAI/Kimi-K2.5",
       "project_url": "https://www.kimi.com/blog/kimi-k2-5.html",
       "authors": [
@@ -1007,7 +1007,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents",
-    "description": "Executing complex terminal tasks remains a significant challenge for open-weight LLMs, constrained by two fundamental limitations. First, high-fidelity, executable training environments are scarce: en...<br/>Upvotes: 196<br/>GitHub Stars: 50<br/>Authors: Kaijie Zhu, Yuzhou Nie, Yijiang Li<br/>🔗 <a href=\"https://github.com/ucsb-mlsec/terminal-bench-env\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.07274\">Hugging Face</a>",
+    "description": "Executing complex terminal tasks remains a significant challenge for open-weight LLMs, constrained by two fundamental limitations. First, high-fidelity, executable training environments are scarce: en...<br/>Upvotes: 196<br/>GitHub Stars: 104<br/>Authors: Kaijie Zhu, Yuzhou Nie, Yijiang Li<br/>🔗 <a href=\"https://github.com/ucsb-mlsec/terminal-bench-env\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.07274\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.07274",
     "external_url": "https://github.com/ucsb-mlsec/terminal-bench-env",
     "published_date": "2026-02-06T18:56:50.000Z",
@@ -1018,7 +1018,7 @@
     "metadata": {
       "paper_id": "2602.07274",
       "upvotes": 196,
-      "github_stars": 50,
+      "github_stars": 104,
       "github_url": "https://github.com/ucsb-mlsec/terminal-bench-env",
       "project_url": "",
       "authors": [
@@ -1057,7 +1057,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-TTS Technical Report",
-    "description": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice clonin...<br/>Upvotes: 65<br/>GitHub Stars: 7746<br/>Authors: Hangrui Hu, Xinfa Zhu, Ting He<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-TTS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.15621\">Hugging Face</a>",
+    "description": "In this report, we present the Qwen3-TTS series, a family of advanced multilingual, controllable, robust, and streaming text-to-speech models. Qwen3-TTS supports state-of-the-art 3-second voice clonin...<br/>Upvotes: 65<br/>GitHub Stars: 7777<br/>Authors: Hangrui Hu, Xinfa Zhu, Ting He<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-TTS\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.15621\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.15621",
     "external_url": "https://github.com/QwenLM/Qwen3-TTS",
     "published_date": "2026-01-21T22:51:43.000Z",
@@ -1068,7 +1068,7 @@
     "metadata": {
       "paper_id": "2601.15621",
       "upvotes": 65,
-      "github_stars": 7746,
+      "github_stars": 7777,
       "github_url": "https://github.com/QwenLM/Qwen3-TTS",
       "project_url": "",
       "authors": [
@@ -1113,7 +1113,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
-    "description": "Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...<br/>Upvotes: 181<br/>GitHub Stars: 3571<br/>Authors: Dawei Zhu, Rui Meng, Yale Song<br/>🔗 <a href=\"https://github.com/dwzhu-pku/PaperBanana\">GitHub</a><br/>🔗 <a href=\"https://dwzhu-pku.github.io/PaperBanana/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.23265\">Hugging Face</a>",
+    "description": "Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...<br/>Upvotes: 184<br/>GitHub Stars: 3597<br/>Authors: Dawei Zhu, Rui Meng, Yale Song<br/>🔗 <a href=\"https://github.com/dwzhu-pku/PaperBanana\">GitHub</a><br/>🔗 <a href=\"https://dwzhu-pku.github.io/PaperBanana/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.23265\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.23265",
     "external_url": "https://github.com/dwzhu-pku/PaperBanana",
     "published_date": "2026-01-30T13:33:37.000Z",
@@ -1123,8 +1123,8 @@
     ],
     "metadata": {
       "paper_id": "2601.23265",
-      "upvotes": 181,
-      "github_stars": 3571,
+      "upvotes": 184,
+      "github_stars": 3597,
       "github_url": "https://github.com/dwzhu-pku/PaperBanana",
       "project_url": "https://dwzhu-pku.github.io/PaperBanana/",
       "authors": [
@@ -1157,7 +1157,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Advancing Open-source World Models",
-    "description": "We present LingBot-World, an open-sourced world simulator stemming from video generation. Positioned as a top-tier world model, LingBot-World offers the following features. (1) It maintains high fidel...<br/>Upvotes: 126<br/>GitHub Stars: 2866<br/>Authors: Robbyant Team, Zelin Gao, Qiuyu Wang<br/>🔗 <a href=\"https://github.com/Robbyant/lingbot-world\">GitHub</a><br/>🔗 <a href=\"https://technology.robbyant.com/lingbot-world\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20540\">Hugging Face</a>",
+    "description": "We present LingBot-World, an open-sourced world simulator stemming from video generation. Positioned as a top-tier world model, LingBot-World offers the following features. (1) It maintains high fidel...<br/>Upvotes: 126<br/>GitHub Stars: 2873<br/>Authors: Robbyant Team, Zelin Gao, Qiuyu Wang<br/>🔗 <a href=\"https://github.com/Robbyant/lingbot-world\">GitHub</a><br/>🔗 <a href=\"https://technology.robbyant.com/lingbot-world\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20540\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.20540",
     "external_url": "https://github.com/Robbyant/lingbot-world",
     "published_date": "2026-01-28T07:37:01.000Z",
@@ -1168,7 +1168,7 @@
     "metadata": {
       "paper_id": "2601.20540",
       "upvotes": 126,
-      "github_stars": 2866,
+      "github_stars": 2873,
       "github_url": "https://github.com/Robbyant/lingbot-world",
       "project_url": "https://technology.robbyant.com/lingbot-world",
       "authors": [
@@ -1215,7 +1215,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
-    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 93<br/>GitHub Stars: 2483<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
+    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 93<br/>GitHub Stars: 2486<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.04634",
     "external_url": "https://github.com/RLinf/RLinf",
     "published_date": "2026-02-04T10:05:12.000Z",
@@ -1226,7 +1226,7 @@
     "metadata": {
       "paper_id": "2602.04634",
       "upvotes": 93,
-      "github_stars": 2483,
+      "github_stars": 2486,
       "github_url": "https://github.com/RLinf/RLinf",
       "project_url": "https://wideseek-r1.github.io/",
       "authors": [
@@ -1262,7 +1262,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
-    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 50<br/>GitHub Stars: 2311<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
+    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 52<br/>GitHub Stars: 2313<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.12099",
     "external_url": "https://github.com/open-gigaai/giga-brain-0",
     "published_date": "2026-02-12T10:55:19.000Z",
@@ -1272,8 +1272,8 @@
     ],
     "metadata": {
       "paper_id": "2602.12099",
-      "upvotes": 50,
-      "github_stars": 2311,
+      "upvotes": 52,
+      "github_stars": 2313,
       "github_url": "https://github.com/open-gigaai/giga-brain-0",
       "project_url": "https://gigabrain05m.github.io/",
       "authors": [
@@ -1323,7 +1323,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepSeek-OCR 2: Visual Causal Flow",
-    "description": "We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEncoder V2-capable of dynamically reordering visual tokens upon image semantics. Conventional vision-language models (VL...<br/>Upvotes: 60<br/>GitHub Stars: 2257<br/>Authors: Haoran Wei, Yaofeng Sun, Yukun Li<br/>🔗 <a href=\"https://github.com/deepseek-ai/DeepSeek-OCR-2\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20552\">Hugging Face</a>",
+    "description": "We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEncoder V2-capable of dynamically reordering visual tokens upon image semantics. Conventional vision-language models (VL...<br/>Upvotes: 60<br/>GitHub Stars: 2262<br/>Authors: Haoran Wei, Yaofeng Sun, Yukun Li<br/>🔗 <a href=\"https://github.com/deepseek-ai/DeepSeek-OCR-2\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20552\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.20552",
     "external_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
     "published_date": "2026-01-28T07:46:07.000Z",
@@ -1334,7 +1334,7 @@
     "metadata": {
       "paper_id": "2601.20552",
       "upvotes": 60,
-      "github_stars": 2257,
+      "github_stars": 2262,
       "github_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
       "project_url": "",
       "authors": [

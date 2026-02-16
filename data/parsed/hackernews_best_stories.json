@@ -1,23 +1,5 @@
 [
   {
-    "id": "aa15d61f387bf2d7990e8a4cd9fde177",
-    "source": "hackernews",
-    "type": "story",
-    "title": "uBlock filter list to hide all YouTube Shorts",
-    "description": "",
-    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-    "published_date": "2026-02-14T17:36:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 1133,
-      "author": "i5heu",
-      "comments": 336,
-      "hn_id": 47016443
-    },
-    "objects": []
-  },
-  {
     "id": "ea290b4b8e8f25d70e6dfcc4c078bbc1",
     "source": "hackernews",
     "type": "story",
@@ -28,10 +10,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1012,
+      "score": 1368,
       "author": "mfiguiere",
-      "comments": 702,
+      "comments": 1057,
       "hn_id": 47028013
+    },
+    "objects": []
+  },
+  {
+    "id": "58e45a7896026b2992c0d2e3d7dccf20",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "description": "",
+    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "published_date": "2026-02-16T06:31:48+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 1331,
+      "author": "novemp",
+      "comments": 818,
+      "hn_id": 47031580
     },
     "objects": []
   },
@@ -46,9 +46,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 976,
+      "score": 1174,
       "author": "giuliomagnifico",
-      "comments": 674,
+      "comments": 784,
       "hn_id": 47025378
     },
     "objects": []
@@ -64,9 +64,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 899,
+      "score": 937,
       "author": "panic",
-      "comments": 160,
+      "comments": 164,
       "hn_id": 47020191
     },
     "objects": []
@@ -82,9 +82,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 829,
+      "score": 917,
       "author": "mikece",
-      "comments": 578,
+      "comments": 633,
       "hn_id": 47023238
     },
     "objects": []
@@ -100,100 +100,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 734,
+      "score": 788,
       "author": "deevus",
-      "comments": 355,
+      "comments": 374,
       "hn_id": 47022891
-    },
-    "objects": []
-  },
-  {
-    "id": "071c5bfb3320e4fa2efb25e1b0e00c70",
-    "source": "hackernews",
-    "type": "story",
-    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-    "description": "",
-    "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "published_date": "2026-02-14T15:35:47+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 599,
-      "author": "minimalthinker",
-      "comments": 252,
-      "hn_id": 47015294
-    },
-    "objects": []
-  },
-  {
-    "id": "a82da2a68d24297e9b23a3ae15f07178",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ooh.directory: a place to find good blogs that interest you",
-    "description": "",
-    "url": "https://ooh.directory/",
-    "published_date": "2026-02-14T13:40:20+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 588,
-      "author": "hisamafahri",
-      "comments": 139,
-      "hn_id": 47014449
-    },
-    "objects": []
-  },
-  {
-    "id": "aa7e1b0d53578d53ae761cd84d06b946",
-    "source": "hackernews",
-    "type": "story",
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "description": "",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "published_date": "2026-02-14T18:46:32+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 556,
-      "author": "ninjagoo",
-      "comments": 361,
-      "hn_id": 47017138
-    },
-    "objects": []
-  },
-  {
-    "id": "6873efd4659d118a5ee4a49497472522",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-    "description": "",
-    "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-    "published_date": "2026-02-14T09:28:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 549,
-      "author": "robin_reala",
-      "comments": 6,
-      "hn_id": 47013059
-    },
-    "objects": []
-  },
-  {
-    "id": "2e8b6b395eaf6d6dcb291f3d77d28e50",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
-    "description": "",
-    "url": "https://oat.ink/",
-    "published_date": "2026-02-15T08:17:05+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 496,
-      "author": "twapi",
-      "comments": 129,
-      "hn_id": 47021980
     },
     "objects": []
   },
@@ -208,46 +118,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 457,
+      "score": 661,
       "author": "eustoria",
-      "comments": 176,
+      "comments": 279,
       "hn_id": 47025851
     },
     "objects": []
   },
   {
-    "id": "58e45a7896026b2992c0d2e3d7dccf20",
+    "id": "2e8b6b395eaf6d6dcb291f3d77d28e50",
     "source": "hackernews",
     "type": "story",
-    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
     "description": "",
-    "url": "https://mastodon.world/@knowmadd/116072773118828295",
-    "published_date": "2026-02-16T06:31:48+00:00",
+    "url": "https://oat.ink/",
+    "published_date": "2026-02-15T08:17:05+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 447,
-      "author": "novemp",
-      "comments": 321,
-      "hn_id": 47031580
+      "score": 515,
+      "author": "twapi",
+      "comments": 131,
+      "hn_id": 47021980
     },
     "objects": []
   },
   {
-    "id": "97141da71e1ac07ed60baf715009935b",
+    "id": "33626ffe1d3d6765df040cb3da40b8ea",
     "source": "hackernews",
     "type": "story",
-    "title": "Vim 9.2",
+    "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
     "description": "",
-    "url": "https://www.vim.org/vim-9.2-released.php",
-    "published_date": "2026-02-14T15:39:43+00:00",
+    "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+    "published_date": "2026-02-16T13:30:07+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 419,
-      "author": "tapanjk",
-      "comments": 188,
-      "hn_id": 47015330
+      "score": 454,
+      "author": "harel",
+      "comments": 309,
+      "hn_id": 47034713
     },
     "objects": []
   },
@@ -262,9 +172,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 397,
+      "score": 423,
       "author": "magoghm",
-      "comments": 38,
+      "comments": 46,
       "hn_id": 47024907
     },
     "objects": []
@@ -280,10 +190,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 351,
+      "score": 403,
       "author": "classichasclass",
-      "comments": 161,
+      "comments": 209,
       "hn_id": 47025399
+    },
+    "objects": []
+  },
+  {
+    "id": "f840cf6f1fb017196c3b161b792777ca",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+    "description": "",
+    "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+    "published_date": "2026-02-15T22:17:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 357,
+      "author": "prophylaxis",
+      "comments": 244,
+      "hn_id": 47028227
     },
     "objects": []
   },
@@ -298,9 +226,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 335,
+      "score": 345,
       "author": "helloplanets",
-      "comments": 84,
+      "comments": 89,
       "hn_id": 47021354
     },
     "objects": []
@@ -316,46 +244,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 331,
+      "score": 336,
       "author": "nvader",
-      "comments": 106,
+      "comments": 109,
       "hn_id": 47020218
     },
     "objects": []
   },
   {
-    "id": "65f09fda7b40cec2968ae077ed92138a",
+    "id": "a1d6932dd1d294e8296f0ca56a120583",
     "source": "hackernews",
     "type": "story",
-    "title": "Descent, ported to the web",
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
     "description": "",
-    "url": "https://mrdoob.github.io/three-descent/",
-    "published_date": "2026-02-14T19:33:24+00:00",
+    "url": "https://qwen.ai/blog?id=qwen3.5",
+    "published_date": "2026-02-16T09:32:21+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 306,
-      "author": "memalign",
-      "comments": 66,
-      "hn_id": 47017545
+      "score": 335,
+      "author": "danielhanchen",
+      "comments": 154,
+      "hn_id": 47032876
     },
     "objects": []
   },
   {
-    "id": "70494ab167ce4135a73e2d93b1b5fe3b",
+    "id": "44872d19ec857bbc402a98e2fb4f5e1c",
     "source": "hackernews",
     "type": "story",
-    "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
     "description": "",
-    "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-    "published_date": "2026-02-14T15:49:56+00:00",
+    "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "published_date": "2026-02-16T11:06:28+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 293,
-      "author": "pjmlp",
-      "comments": 180,
-      "hn_id": 47015406
+      "score": 329,
+      "author": "beardyw",
+      "comments": 202,
+      "hn_id": 47033622
+    },
+    "objects": []
+  },
+  {
+    "id": "83e987e1b45b9b013407268f0392e1b9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+    "description": "",
+    "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+    "published_date": "2026-02-16T12:28:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 321,
+      "author": "dClauzel",
+      "comments": 268,
+      "hn_id": 47034192
     },
     "objects": []
   },
@@ -370,28 +316,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 282,
+      "score": 310,
       "author": "cdrnsf",
-      "comments": 106,
+      "comments": 121,
       "hn_id": 47025624
     },
     "objects": []
   },
   {
-    "id": "f840cf6f1fb017196c3b161b792777ca",
+    "id": "b1a98985098871ad2d8bd38e3517ad07",
     "source": "hackernews",
     "type": "story",
-    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+    "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
     "description": "",
-    "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-    "published_date": "2026-02-15T22:17:10+00:00",
+    "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+    "published_date": "2026-02-16T14:48:25+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 278,
-      "author": "prophylaxis",
-      "comments": 162,
-      "hn_id": 47028227
+      "score": 289,
+      "author": "righthand",
+      "comments": 76,
+      "hn_id": 47035679
     },
     "objects": []
   },
@@ -406,9 +352,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 243,
+      "score": 289,
       "author": "bikenaga",
-      "comments": 170,
+      "comments": 198,
       "hn_id": 47026071
     },
     "objects": []
@@ -424,136 +370,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 230,
+      "score": 283,
       "author": "theblazehen",
-      "comments": 74,
+      "comments": 83,
       "hn_id": 47024506
-    },
-    "objects": []
-  },
-  {
-    "id": "2ab62ed21d1e82612d743f7ec2cb928f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-    "description": "",
-    "url": "https://github.com/datavorous/sameshi",
-    "published_date": "2026-02-14T13:47:44+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 227,
-      "author": "datavorous_",
-      "comments": 68,
-      "hn_id": 47014500
-    },
-    "objects": []
-  },
-  {
-    "id": "aea718f861656053e549ce0d0be07fba",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
-    "description": "",
-    "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
-    "published_date": "2026-02-15T16:51:17+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 226,
-      "author": "cdrnsf",
-      "comments": 60,
-      "hn_id": 47025188
-    },
-    "objects": []
-  },
-  {
-    "id": "99c6d0ef19e6b4dc99eb35db48e54cf6",
-    "source": "hackernews",
-    "type": "story",
-    "title": "You can't trust the internet anymore",
-    "description": "",
-    "url": "https://nicole.express/2026/not-my-casual-hobby.html",
-    "published_date": "2026-02-14T19:51:25+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 226,
-      "author": "panic",
-      "comments": 179,
-      "hn_id": 47017727
-    },
-    "objects": []
-  },
-  {
-    "id": "9bccf368f4adc9e3c2215cf9738d3c63",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Discord distances from age verification firm after ties to Peter Thiel surface",
-    "description": "",
-    "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
-    "published_date": "2026-02-15T06:00:42+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 215,
-      "author": "thisislife2",
-      "comments": 117,
-      "hn_id": 47021421
-    },
-    "objects": []
-  },
-  {
-    "id": "4d3458d706bdf817d0a669ad44a5e709",
-    "source": "hackernews",
-    "type": "story",
-    "title": "YouTube as Storage",
-    "description": "",
-    "url": "https://github.com/PulseBeat02/yt-media-storage",
-    "published_date": "2026-02-14T09:10:15+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 213,
-      "author": "saswatms",
-      "comments": 152,
-      "hn_id": 47012964
-    },
-    "objects": []
-  },
-  {
-    "id": "bfbb8abc341ad795777f4d95ae4fdfa2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Two different tricks for fast LLM inference",
-    "description": "",
-    "url": "https://www.seangoedecke.com/fast-llm-inference/",
-    "published_date": "2026-02-15T09:27:33+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 185,
-      "author": "swah",
-      "comments": 66,
-      "hn_id": 47022329
-    },
-    "objects": []
-  },
-  {
-    "id": "69a6acf3c13acac982be4f865d0d8c18",
-    "source": "hackernews",
-    "type": "story",
-    "title": "7zip.com Is Serving Malware",
-    "description": "",
-    "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-    "published_date": "2026-02-14T14:58:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 183,
-      "author": "Alifatisk",
-      "comments": 95,
-      "hn_id": 47014995
     },
     "objects": []
   },
@@ -568,46 +388,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 179,
+      "score": 267,
       "author": "b44",
-      "comments": 17,
+      "comments": 25,
       "hn_id": 47026186
-    },
-    "objects": []
-  },
-  {
-    "id": "1e8814e197c672de66628e6e0bc5f1c5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Amsterdam Compiler Kit",
-    "description": "",
-    "url": "https://github.com/davidgiven/ack",
-    "published_date": "2026-02-14T16:50:47+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 158,
-      "author": "andsoitis",
-      "comments": 67,
-      "hn_id": 47016008
-    },
-    "objects": []
-  },
-  {
-    "id": "afa194ebc228079b049e54a5f4313e1e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Audiophiles can't distinguish audio sent through copper, banana or mud",
-    "description": "",
-    "url": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
-    "published_date": "2026-02-14T16:48:17+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 155,
-      "author": "RandomGerm4n",
-      "comments": 136,
-      "hn_id": 47015987
     },
     "objects": []
   },
@@ -622,28 +406,100 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 152,
+      "score": 247,
       "author": "doener",
-      "comments": 37,
+      "comments": 100,
       "hn_id": 47028369
     },
     "objects": []
   },
   {
-    "id": "336b9c11c7a3086aceb4c3cbe70b362d",
+    "id": "aea718f861656053e549ce0d0be07fba",
     "source": "hackernews",
     "type": "story",
-    "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+    "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
     "description": "",
-    "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-    "published_date": "2026-02-15T18:05:24+00:00",
+    "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+    "published_date": "2026-02-15T16:51:17+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 147,
-      "author": "mikhael",
-      "comments": 88,
-      "hn_id": 47025864
+      "score": 243,
+      "author": "cdrnsf",
+      "comments": 69,
+      "hn_id": 47025188
+    },
+    "objects": []
+  },
+  {
+    "id": "7788ef36fcc52495bff7a49559e8e21e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The Israeli spyware firm that accidentally just exposed itself",
+    "description": "",
+    "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
+    "published_date": "2026-02-16T12:00:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 233,
+      "author": "0x54MUR41",
+      "comments": 229,
+      "hn_id": 47033976
+    },
+    "objects": []
+  },
+  {
+    "id": "9bccf368f4adc9e3c2215cf9738d3c63",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Discord distances from age verification firm after ties to Peter Thiel surface",
+    "description": "",
+    "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
+    "published_date": "2026-02-15T06:00:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 224,
+      "author": "thisislife2",
+      "comments": 122,
+      "hn_id": 47021421
+    },
+    "objects": []
+  },
+  {
+    "id": "0e951132c95766bd1e90e653aa877186",
+    "source": "hackernews",
+    "type": "story",
+    "title": "What your Bluetooth devices reveal",
+    "description": "",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "published_date": "2026-02-16T14:39:32+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 223,
+      "author": "ssgodderidge",
+      "comments": 81,
+      "hn_id": 47035560
+    },
+    "objects": []
+  },
+  {
+    "id": "e268a847b95920230228bb959f50797b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Use protocols, not services",
+    "description": "",
+    "url": "https://notnotp.com/notes/use-protocols-not-services/",
+    "published_date": "2026-02-16T18:44:58+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 217,
+      "author": "enz",
+      "comments": 58,
+      "hn_id": 47038588
     },
     "objects": []
   },
@@ -658,10 +514,118 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 139,
+      "score": 213,
       "author": "djkurlander",
-      "comments": 60,
+      "comments": 88,
       "hn_id": 47025338
+    },
+    "objects": []
+  },
+  {
+    "id": "bfbb8abc341ad795777f4d95ae4fdfa2",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Two different tricks for fast LLM inference",
+    "description": "",
+    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "published_date": "2026-02-15T09:27:33+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 191,
+      "author": "swah",
+      "comments": 66,
+      "hn_id": 47022329
+    },
+    "objects": []
+  },
+  {
+    "id": "8c966b585f46bbc2710d3dfe83ca5340",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Running My Own XMPP Server",
+    "description": "",
+    "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+    "published_date": "2026-02-16T13:39:45+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 189,
+      "author": "speckx",
+      "comments": 117,
+      "hn_id": 47034801
+    },
+    "objects": []
+  },
+  {
+    "id": "336b9c11c7a3086aceb4c3cbe70b362d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+    "description": "",
+    "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+    "published_date": "2026-02-15T18:05:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 167,
+      "author": "mikhael",
+      "comments": 92,
+      "hn_id": 47025864
+    },
+    "objects": []
+  },
+  {
+    "id": "285aeee16c9bf7f407e26f72887f7b39",
+    "source": "hackernews",
+    "type": "story",
+    "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+    "description": "",
+    "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+    "published_date": "2026-02-16T18:41:50+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 163,
+      "author": "bookofjoe",
+      "comments": 15,
+      "hn_id": 47038546
+    },
+    "objects": []
+  },
+  {
+    "id": "0967adf92757541b2a1ab29173d4a207",
+    "source": "hackernews",
+    "type": "story",
+    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+    "description": "",
+    "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+    "published_date": "2026-02-16T00:26:23+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 155,
+      "author": "luu",
+      "comments": 193,
+      "hn_id": 47029339
+    },
+    "objects": []
+  },
+  {
+    "id": "3f773a3028890cf6ea47ae21d12849ac",
+    "source": "hackernews",
+    "type": "story",
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "description": "",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "published_date": "2026-02-16T10:26:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 145,
+      "author": "todsacerdoti",
+      "comments": 58,
+      "hn_id": 47033328
     },
     "objects": []
   },
@@ -676,28 +640,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 132,
+      "score": 145,
       "author": "computerliker",
-      "comments": 93,
+      "comments": 96,
       "hn_id": 47026848
     },
     "objects": []
   },
   {
-    "id": "b1689dbf6e95807c0c49a21de19af256",
+    "id": "cdc5210d9fd6ced75d013f315ad290c2",
     "source": "hackernews",
     "type": "story",
-    "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+    "title": "Arm wants a bigger slice of the chip business",
     "description": "",
-    "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
-    "published_date": "2026-02-14T19:47:46+00:00",
+    "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+    "published_date": "2026-02-16T02:36:14+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 132,
-      "author": "stared",
-      "comments": 61,
-      "hn_id": 47017682
+      "score": 144,
+      "author": "andsoitis",
+      "comments": 88,
+      "hn_id": 47030271
+    },
+    "objects": []
+  },
+  {
+    "id": "54287230da402beab490a54190a7a14f",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The Sideprocalypse",
+    "description": "",
+    "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+    "published_date": "2026-02-16T14:26:39+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 143,
+      "author": "headalgorithm",
+      "comments": 117,
+      "hn_id": 47035371
     },
     "objects": []
   },
@@ -712,100 +694,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 120,
+      "score": 142,
       "author": "informal007",
-      "comments": 190,
+      "comments": 228,
       "hn_id": 47024387
-    },
-    "objects": []
-  },
-  {
-    "id": "91fab5c0b33c554e84d8efa2ca0796d7",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-    "description": "",
-    "url": "https://github.com/alichherawalla/off-grid-mobile",
-    "published_date": "2026-02-14T22:39:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 119,
-      "author": "ali_chherawalla",
-      "comments": 64,
-      "hn_id": 47019133
-    },
-    "objects": []
-  },
-  {
-    "id": "ba388b94f08a6570ca1947a04091f0e9",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Reversed engineered game Starflight (1986)",
-    "description": "",
-    "url": "https://github.com/s-macke/starflight-reverse",
-    "published_date": "2026-02-15T11:37:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 112,
-      "author": "tosh",
-      "comments": 49,
-      "hn_id": 47022943
-    },
-    "objects": []
-  },
-  {
-    "id": "4e8e359061ac33dd716faf8f4b0c50b0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ex-Tech –> Homeless in SF",
-    "description": "",
-    "url": "https://zamoshi.substack.com/p/ninety-four-degrees",
-    "published_date": "2026-02-15T06:48:13+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 110,
-      "author": "Zamoshi",
-      "comments": 91,
-      "hn_id": 47021586
-    },
-    "objects": []
-  },
-  {
-    "id": "a1e8b8422c025c47e25f74977de73328",
-    "source": "hackernews",
-    "type": "story",
-    "title": "How many registers does an x86-64 CPU have? (2020)",
-    "description": "",
-    "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
-    "published_date": "2026-02-14T13:33:03+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 110,
-      "author": "tosh",
-      "comments": 84,
-      "hn_id": 47014405
-    },
-    "objects": []
-  },
-  {
-    "id": "bbbc5082c9d14a44b72002935b1295be",
-    "source": "hackernews",
-    "type": "story",
-    "title": "A review of M Disc archival capability with long term testing results (2016)",
-    "description": "",
-    "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-    "published_date": "2026-02-14T16:07:44+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 104,
-      "author": "1970-01-01",
-      "comments": 116,
-      "hn_id": 47015579
     },
     "objects": []
   },
@@ -820,46 +712,172 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 103,
+      "score": 139,
       "author": "nikodunk",
-      "comments": 20,
+      "comments": 48,
       "hn_id": 47025085
     },
     "objects": []
   },
   {
-    "id": "58a4f213f498835b33b0c49433fffa95",
+    "id": "18b2c7ffcb6d833cdbcb80a30718e116",
     "source": "hackernews",
     "type": "story",
-    "title": "Towards Autonomous Mathematics Research",
+    "title": "I guess I kinda get why people hate AI",
     "description": "",
-    "url": "https://arxiv.org/abs/2602.10177",
-    "published_date": "2026-02-15T18:35:40+00:00",
+    "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+    "published_date": "2026-02-16T17:22:02+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 96,
-      "author": "gmays",
-      "comments": 48,
-      "hn_id": 47026134
+      "score": 134,
+      "author": "NM-Super",
+      "comments": 217,
+      "hn_id": 47037628
     },
     "objects": []
   },
   {
-    "id": "059d4e06df8e814d985184a08f381b63",
+    "id": "1be3c7ec5b8ffb5a952f784d561b5f0d",
     "source": "hackernews",
     "type": "story",
-    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
+    "title": "Show HN: Jemini – Gemini for the Epstein Files",
     "description": "",
-    "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "published_date": "2026-02-15T03:29:39+00:00",
+    "url": "https://jmail.world/jemini",
+    "published_date": "2026-02-16T05:53:03+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 90,
-      "author": "bpierre",
-      "comments": 14,
-      "hn_id": 47020791
+      "score": 129,
+      "author": "dvrp",
+      "comments": 31,
+      "hn_id": 47031334
+    },
+    "objects": []
+  },
+  {
+    "id": "9d62d91a84ed452eb9eabc0e6607329a",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Why I don't think AGI is imminent",
+    "description": "",
+    "url": "https://dlants.me/agi-not-imminent.html",
+    "published_date": "2026-02-15T23:34:18+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 125,
+      "author": "anonymid",
+      "comments": 275,
+      "hn_id": 47028923
+    },
+    "objects": []
+  },
+  {
+    "id": "91fab5c0b33c554e84d8efa2ca0796d7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+    "description": "",
+    "url": "https://github.com/alichherawalla/off-grid-mobile",
+    "published_date": "2026-02-14T22:39:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 122,
+      "author": "ali_chherawalla",
+      "comments": 64,
+      "hn_id": 47019133
+    },
+    "objects": []
+  },
+  {
+    "id": "68f49d7e1eacaf0d031cc6690b84673d",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Picol: A Tcl interpreter in 500 lines of code",
+    "description": "",
+    "url": "https://github.com/antirez/picol",
+    "published_date": "2026-02-16T08:04:11+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 118,
+      "author": "tosh",
+      "comments": 59,
+      "hn_id": 47032235
+    },
+    "objects": []
+  },
+  {
+    "id": "ba388b94f08a6570ca1947a04091f0e9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Reversed engineered game Starflight (1986)",
+    "description": "",
+    "url": "https://github.com/s-macke/starflight-reverse",
+    "published_date": "2026-02-15T11:37:29+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 116,
+      "author": "tosh",
+      "comments": 51,
+      "hn_id": 47022943
+    },
+    "objects": []
+  },
+  {
+    "id": "335ef3329b05e927ac561f80b121b8ad",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Privilege is bad grammar",
+    "description": "",
+    "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+    "published_date": "2026-02-16T18:05:32+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 115,
+      "author": "surprisetalk",
+      "comments": 99,
+      "hn_id": 47038125
+    },
+    "objects": []
+  },
+  {
+    "id": "4e8e359061ac33dd716faf8f4b0c50b0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Ex-Tech –> Homeless in SF",
+    "description": "",
+    "url": "https://zamoshi.substack.com/p/ninety-four-degrees",
+    "published_date": "2026-02-15T06:48:13+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 112,
+      "author": "Zamoshi",
+      "comments": 95,
+      "hn_id": 47021586
+    },
+    "objects": []
+  },
+  {
+    "id": "1a18046c084bd9ebd3d6e6ab0a53045b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Robert Duvall has died",
+    "description": "",
+    "url": "https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share",
+    "published_date": "2026-02-16T18:52:50+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 106,
+      "author": "glimshe",
+      "comments": 57,
+      "hn_id": 47038706
     },
     "objects": []
   },
@@ -874,28 +892,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 89,
+      "score": 106,
       "author": "gnabgib",
-      "comments": 60,
+      "comments": 71,
       "hn_id": 47029397
-    },
-    "objects": []
-  },
-  {
-    "id": "d7c66e6c4014deeb61de5e590c21d785",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-    "description": "",
-    "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo",
-    "published_date": "2026-02-14T13:22:12+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 89,
-      "author": "tartoran",
-      "comments": 30,
-      "hn_id": 47014337
     },
     "objects": []
   }

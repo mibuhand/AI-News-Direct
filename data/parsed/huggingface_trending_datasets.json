@@ -4,34 +4,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "openbmb/UltraData-Math",
-    "description": "Downloads: 29,780<br/>Likes: 210",
+    "description": "Downloads: 29,780<br/>Likes: 215",
     "url": "https://huggingface.co/datasets/openbmb/UltraData-Math",
-    "published_date": "2026-02-16T09:59:20.860140+00:00",
+    "published_date": "2026-02-16T21:30:39.328704+00:00",
     "categories": [],
     "metadata": {
       "author": "openbmb",
       "item_name": "UltraData-Math",
       "downloads": 29780,
-      "likes": 210,
+      "likes": 215,
       "last_modified": "2026-02-10T03:18:19.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cef0082e10a54f8bca545dd04a98270a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "OpenMed/Medical-Reasoning-SFT-Mega",
-    "description": "Downloads: 1,253<br/>Likes: 59",
-    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Mega",
-    "published_date": "2026-02-16T09:59:20.860157+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "OpenMed",
-      "item_name": "Medical-Reasoning-SFT-Mega",
-      "downloads": 1253,
-      "likes": 59,
-      "last_modified": "2026-02-06T15:06:13.000Z",
       "all_tags": []
     }
   },
@@ -40,34 +22,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ma-xu/fine-t2i",
-    "description": "Downloads: 17,471<br/>Likes: 55",
+    "description": "Downloads: 17,471<br/>Likes: 60",
     "url": "https://huggingface.co/datasets/ma-xu/fine-t2i",
-    "published_date": "2026-02-16T09:59:20.860165+00:00",
+    "published_date": "2026-02-16T21:30:39.328748+00:00",
     "categories": [],
     "metadata": {
       "author": "ma-xu",
       "item_name": "fine-t2i",
       "downloads": 17471,
-      "likes": 55,
+      "likes": 60,
       "last_modified": "2026-02-16T06:12:24.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "97c69d995a429ba8edb69400184bebb3",
+    "id": "cef0082e10a54f8bca545dd04a98270a",
     "source": "huggingface",
     "type": "dataset",
-    "title": "moonworks/lunara-aesthetic-image-variations",
-    "description": "Downloads: 5,427<br/>Likes: 60",
-    "url": "https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations",
-    "published_date": "2026-02-16T09:59:20.860177+00:00",
+    "title": "OpenMed/Medical-Reasoning-SFT-Mega",
+    "description": "Downloads: 1,253<br/>Likes: 63",
+    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Mega",
+    "published_date": "2026-02-16T21:30:39.328755+00:00",
     "categories": [],
     "metadata": {
-      "author": "moonworks",
-      "item_name": "lunara-aesthetic-image-variations",
-      "downloads": 5427,
-      "likes": 60,
-      "last_modified": "2026-02-09T08:03:27.000Z",
+      "author": "OpenMed",
+      "item_name": "Medical-Reasoning-SFT-Mega",
+      "downloads": 1253,
+      "likes": 63,
+      "last_modified": "2026-02-06T15:06:13.000Z",
       "all_tags": []
     }
   },
@@ -78,7 +60,7 @@
     "title": "GD-ML/IntTravel_dataset",
     "description": "Downloads: 371<br/>Likes: 50",
     "url": "https://huggingface.co/datasets/GD-ML/IntTravel_dataset",
-    "published_date": "2026-02-16T09:59:20.860183+00:00",
+    "published_date": "2026-02-16T21:30:39.328765+00:00",
     "categories": [],
     "metadata": {
       "author": "GD-ML",
@@ -90,13 +72,265 @@
     }
   },
   {
+    "id": "6cd2477f0cedd5533020adc672f2574a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/SAGE-10k",
+    "description": "Downloads: 4,229<br/>Likes: 46",
+    "url": "https://huggingface.co/datasets/nvidia/SAGE-10k",
+    "published_date": "2026-02-16T21:30:39.328770+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "SAGE-10k",
+      "downloads": 4229,
+      "likes": 46,
+      "last_modified": "2026-02-11T03:54:29.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "33076e3d60297f8a164fac2dc07abaea",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "OpenResearcher/OpenResearcher-Dataset",
+    "description": "Downloads: 2,740<br/>Likes: 45",
+    "url": "https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset",
+    "published_date": "2026-02-16T21:30:39.328775+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "OpenResearcher",
+      "item_name": "OpenResearcher-Dataset",
+      "downloads": 2740,
+      "likes": 45,
+      "last_modified": "2026-02-12T22:23:38.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d62a6232a0e96efd9ee12370636b307",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Soul-AILab/VividHead",
+    "description": "Downloads: 1,754<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/Soul-AILab/VividHead",
+    "published_date": "2026-02-16T21:30:39.328780+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Soul-AILab",
+      "item_name": "VividHead",
+      "downloads": 1754,
+      "likes": 43,
+      "last_modified": "2026-02-12T09:20:28.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1d6f61d38f575f26f8d652882cf7a98a",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "zai-org/terminal-bench-2-verified",
+    "description": "Downloads: 2,929<br/>Likes: 37",
+    "url": "https://huggingface.co/datasets/zai-org/terminal-bench-2-verified",
+    "published_date": "2026-02-16T21:30:39.328784+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "terminal-bench-2-verified",
+      "downloads": 2929,
+      "likes": 37,
+      "last_modified": "2026-02-13T09:20:27.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c5888c050091f0d26fb71ab00c2fa322",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "opencsg/Fineweb-Edu-Chinese-V2.2",
+    "description": "Downloads: 52,942<br/>Likes: 56",
+    "url": "https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.2",
+    "published_date": "2026-02-16T21:30:39.328789+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "opencsg",
+      "item_name": "Fineweb-Edu-Chinese-V2.2",
+      "downloads": 52942,
+      "likes": 56,
+      "last_modified": "2026-02-02T11:54:10.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c2c52433856f8842f7d436f5867317ed",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "AlicanKiraz0/Turkish-Finance-SFT-Dataset",
+    "description": "Downloads: 103<br/>Likes: 36",
+    "url": "https://huggingface.co/datasets/AlicanKiraz0/Turkish-Finance-SFT-Dataset",
+    "published_date": "2026-02-16T21:30:39.328793+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "AlicanKiraz0",
+      "item_name": "Turkish-Finance-SFT-Dataset",
+      "downloads": 103,
+      "likes": 36,
+      "last_modified": "2026-02-12T16:33:00.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "97c69d995a429ba8edb69400184bebb3",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "moonworks/lunara-aesthetic-image-variations",
+    "description": "Downloads: 5,427<br/>Likes: 62",
+    "url": "https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations",
+    "published_date": "2026-02-16T21:30:39.328798+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "moonworks",
+      "item_name": "lunara-aesthetic-image-variations",
+      "downloads": 5427,
+      "likes": 62,
+      "last_modified": "2026-02-09T08:03:27.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "411b224cd77be138973c00cec9deadcf",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "galaxyMindAiLabs/stem-reasoning-complex",
+    "description": "Downloads: 383<br/>Likes: 47",
+    "url": "https://huggingface.co/datasets/galaxyMindAiLabs/stem-reasoning-complex",
+    "published_date": "2026-02-16T21:30:39.328803+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "galaxyMindAiLabs",
+      "item_name": "stem-reasoning-complex",
+      "downloads": 383,
+      "likes": 47,
+      "last_modified": "2026-02-15T13:25:44.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d80290addff774a757858571752b2f6",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "FutureMa/EvasionBench",
+    "description": "Downloads: 439<br/>Likes: 114",
+    "url": "https://huggingface.co/datasets/FutureMa/EvasionBench",
+    "published_date": "2026-02-16T21:30:39.328810+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "FutureMa",
+      "item_name": "EvasionBench",
+      "downloads": 439,
+      "likes": 114,
+      "last_modified": "2026-02-10T11:16:03.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "af256f28edc09efeba5b1caa4e397b6f",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "tencent/HY3D-Bench",
+    "description": "Downloads: 43,925<br/>Likes: 79",
+    "url": "https://huggingface.co/datasets/tencent/HY3D-Bench",
+    "published_date": "2026-02-16T21:30:39.328815+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "HY3D-Bench",
+      "downloads": 43925,
+      "likes": 79,
+      "last_modified": "2026-02-06T04:00:18.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d0d7cb79662e773f0f7f6e12b9d1278",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "perplexity-ai/draco",
+    "description": "Downloads: 4,877<br/>Likes: 63",
+    "url": "https://huggingface.co/datasets/perplexity-ai/draco",
+    "published_date": "2026-02-16T21:30:39.328819+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "perplexity-ai",
+      "item_name": "draco",
+      "downloads": 4877,
+      "likes": 63,
+      "last_modified": "2026-02-13T04:35:13.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "fbc0fefad019831f7cba8c02d035ce04",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "google/WaxalNLP",
+    "description": "Downloads: 9,471<br/>Likes: 136",
+    "url": "https://huggingface.co/datasets/google/WaxalNLP",
+    "published_date": "2026-02-16T21:30:39.328823+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "google",
+      "item_name": "WaxalNLP",
+      "downloads": 9471,
+      "likes": 136,
+      "last_modified": "2026-02-12T13:45:49.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5cd59750d34fb1db2936794f90e906e4",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nyuuzyou/suno",
+    "description": "Downloads: 300<br/>Likes: 126",
+    "url": "https://huggingface.co/datasets/nyuuzyou/suno",
+    "published_date": "2026-02-16T21:30:39.328828+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nyuuzyou",
+      "item_name": "suno",
+      "downloads": 300,
+      "likes": 126,
+      "last_modified": "2026-02-03T08:50:56.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "13d39ec9282c0c99fcd43145414898fe",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "allenai/molmospaces",
+    "description": "Downloads: 178<br/>Likes: 26",
+    "url": "https://huggingface.co/datasets/allenai/molmospaces",
+    "published_date": "2026-02-16T21:30:39.328833+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "allenai",
+      "item_name": "molmospaces",
+      "downloads": 178,
+      "likes": 26,
+      "last_modified": "2026-02-16T10:28:57.000Z",
+      "all_tags": []
+    }
+  },
+  {
     "id": "96e2d6d40eec9e1c39efb1af468a1b47",
     "source": "huggingface",
     "type": "dataset",
     "title": "tencent/CL-bench",
     "description": "Downloads: 1,439<br/>Likes: 128",
     "url": "https://huggingface.co/datasets/tencent/CL-bench",
-    "published_date": "2026-02-16T09:59:20.860189+00:00",
+    "published_date": "2026-02-16T21:30:39.328837+00:00",
     "categories": [],
     "metadata": {
       "author": "tencent",
@@ -108,254 +342,20 @@
     }
   },
   {
-    "id": "c5888c050091f0d26fb71ab00c2fa322",
+    "id": "d778249362f70bcc7c8f8c079b2382b6",
     "source": "huggingface",
     "type": "dataset",
-    "title": "opencsg/Fineweb-Edu-Chinese-V2.2",
-    "description": "Downloads: 52,942<br/>Likes: 55",
-    "url": "https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.2",
-    "published_date": "2026-02-16T09:59:20.860195+00:00",
+    "title": "OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
+    "description": "Downloads: 1,007<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/OpenMed/Medical-Reasoning-SFT-Nemotron-Nano-30B",
+    "published_date": "2026-02-16T21:30:39.328842+00:00",
     "categories": [],
     "metadata": {
-      "author": "opencsg",
-      "item_name": "Fineweb-Edu-Chinese-V2.2",
-      "downloads": 52942,
-      "likes": 55,
-      "last_modified": "2026-02-02T11:54:10.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6cd2477f0cedd5533020adc672f2574a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/SAGE-10k",
-    "description": "Downloads: 4,229<br/>Likes: 43",
-    "url": "https://huggingface.co/datasets/nvidia/SAGE-10k",
-    "published_date": "2026-02-16T09:59:20.860202+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "SAGE-10k",
-      "downloads": 4229,
+      "author": "OpenMed",
+      "item_name": "Medical-Reasoning-SFT-Nemotron-Nano-30B",
+      "downloads": 1007,
       "likes": 43,
-      "last_modified": "2026-02-11T03:54:29.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "33076e3d60297f8a164fac2dc07abaea",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "OpenResearcher/OpenResearcher-Dataset",
-    "description": "Downloads: 2,740<br/>Likes: 42",
-    "url": "https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset",
-    "published_date": "2026-02-16T09:59:20.860208+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "OpenResearcher",
-      "item_name": "OpenResearcher-Dataset",
-      "downloads": 2740,
-      "likes": 42,
-      "last_modified": "2026-02-12T22:23:38.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6d80290addff774a757858571752b2f6",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FutureMa/EvasionBench",
-    "description": "Downloads: 439<br/>Likes: 112",
-    "url": "https://huggingface.co/datasets/FutureMa/EvasionBench",
-    "published_date": "2026-02-16T09:59:20.860214+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FutureMa",
-      "item_name": "EvasionBench",
-      "downloads": 439,
-      "likes": 112,
-      "last_modified": "2026-02-10T11:16:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6d0d7cb79662e773f0f7f6e12b9d1278",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "perplexity-ai/draco",
-    "description": "Downloads: 4,877<br/>Likes: 60",
-    "url": "https://huggingface.co/datasets/perplexity-ai/draco",
-    "published_date": "2026-02-16T09:59:20.860220+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "perplexity-ai",
-      "item_name": "draco",
-      "downloads": 4877,
-      "likes": 60,
-      "last_modified": "2026-02-13T04:35:13.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6d62a6232a0e96efd9ee12370636b307",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Soul-AILab/VividHead",
-    "description": "Downloads: 1,754<br/>Likes: 40",
-    "url": "https://huggingface.co/datasets/Soul-AILab/VividHead",
-    "published_date": "2026-02-16T09:59:20.860226+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Soul-AILab",
-      "item_name": "VividHead",
-      "downloads": 1754,
-      "likes": 40,
-      "last_modified": "2026-02-12T09:20:28.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "af256f28edc09efeba5b1caa4e397b6f",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "tencent/HY3D-Bench",
-    "description": "Downloads: 43,925<br/>Likes: 78",
-    "url": "https://huggingface.co/datasets/tencent/HY3D-Bench",
-    "published_date": "2026-02-16T09:59:20.860235+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "tencent",
-      "item_name": "HY3D-Bench",
-      "downloads": 43925,
-      "likes": 78,
-      "last_modified": "2026-02-06T04:00:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "411b224cd77be138973c00cec9deadcf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "galaxyMindAiLabs/stem-reasoning-complex",
-    "description": "Downloads: 383<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/galaxyMindAiLabs/stem-reasoning-complex",
-    "published_date": "2026-02-16T09:59:20.860241+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "galaxyMindAiLabs",
-      "item_name": "stem-reasoning-complex",
-      "downloads": 383,
-      "likes": 46,
-      "last_modified": "2026-02-15T13:25:44.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1d6f61d38f575f26f8d652882cf7a98a",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "zai-org/terminal-bench-2-verified",
-    "description": "Downloads: 2,929<br/>Likes: 33",
-    "url": "https://huggingface.co/datasets/zai-org/terminal-bench-2-verified",
-    "published_date": "2026-02-16T09:59:20.860246+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "terminal-bench-2-verified",
-      "downloads": 2929,
-      "likes": 33,
-      "last_modified": "2026-02-13T09:20:27.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c2c52433856f8842f7d436f5867317ed",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "AlicanKiraz0/Turkish-Finance-SFT-Dataset",
-    "description": "Downloads: 103<br/>Likes: 33",
-    "url": "https://huggingface.co/datasets/AlicanKiraz0/Turkish-Finance-SFT-Dataset",
-    "published_date": "2026-02-16T09:59:20.860252+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "AlicanKiraz0",
-      "item_name": "Turkish-Finance-SFT-Dataset",
-      "downloads": 103,
-      "likes": 33,
-      "last_modified": "2026-02-12T16:33:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "fc0f66a2dea863fa22a3481a177b4acb",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "TrustAIRLab/Moltbook",
-    "description": "Downloads: 3,360<br/>Likes: 44",
-    "url": "https://huggingface.co/datasets/TrustAIRLab/Moltbook",
-    "published_date": "2026-02-16T09:59:20.860258+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "TrustAIRLab",
-      "item_name": "Moltbook",
-      "downloads": 3360,
-      "likes": 44,
-      "last_modified": "2026-02-12T02:10:41.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "5cd59750d34fb1db2936794f90e906e4",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nyuuzyou/suno",
-    "description": "Downloads: 300<br/>Likes: 125",
-    "url": "https://huggingface.co/datasets/nyuuzyou/suno",
-    "published_date": "2026-02-16T09:59:20.860264+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nyuuzyou",
-      "item_name": "suno",
-      "downloads": 300,
-      "likes": 125,
-      "last_modified": "2026-02-03T08:50:56.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "fbc0fefad019831f7cba8c02d035ce04",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "google/WaxalNLP",
-    "description": "Downloads: 9,471<br/>Likes: 134",
-    "url": "https://huggingface.co/datasets/google/WaxalNLP",
-    "published_date": "2026-02-16T09:59:20.860270+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "google",
-      "item_name": "WaxalNLP",
-      "downloads": 9471,
-      "likes": 134,
-      "last_modified": "2026-02-12T13:45:49.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "43fc2f2215400fd35336293e2e42b664",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ShandaAI/Hive",
-    "description": "Downloads: 3,434<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/ShandaAI/Hive",
-    "published_date": "2026-02-16T09:59:20.860276+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ShandaAI",
-      "item_name": "Hive",
-      "downloads": 3434,
-      "likes": 46,
-      "last_modified": "2026-02-08T18:13:53.000Z",
+      "last_modified": "2026-02-03T21:02:42.000Z",
       "all_tags": []
     }
   }
