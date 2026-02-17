@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-5",
-    "description": "Type: text-generation<br/>Downloads: 166,549<br/>Likes: 1240",
+    "description": "Type: text-generation<br/>Downloads: 168,262<br/>Likes: 1263",
     "url": "https://huggingface.co/zai-org/GLM-5",
-    "published_date": "2026-02-16T21:30:39.224397+00:00",
+    "published_date": "2026-02-17T09:54:54.517565+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-5",
-      "downloads": 166549,
-      "likes": 1240,
+      "downloads": 168262,
+      "likes": 1263,
       "last_modified": "2026-02-13T14:41:45.000Z",
       "all_tags": []
     }
@@ -24,58 +24,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "MiniMaxAI/MiniMax-M2.5",
-    "description": "Type: text-generation<br/>Downloads: 18,895<br/>Likes: 661",
+    "description": "Type: text-generation<br/>Downloads: 31,619<br/>Likes: 676",
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-    "published_date": "2026-02-16T21:30:39.224422+00:00",
+    "published_date": "2026-02-17T09:54:54.517589+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "MiniMaxAI",
       "item_name": "MiniMax-M2.5",
-      "downloads": 18895,
-      "likes": 661,
+      "downloads": 31619,
+      "likes": 676,
       "last_modified": "2026-02-16T08:34:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e1059bc87f7803174fac7c4fef28da2d",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Nanbeige/Nanbeige4.1-3B",
-    "description": "Type: text-generation<br/>Downloads: 21,014<br/>Likes: 482",
-    "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-    "published_date": "2026-02-16T21:30:39.224430+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Nanbeige",
-      "item_name": "Nanbeige4.1-3B",
-      "downloads": 21014,
-      "likes": 482,
-      "last_modified": "2026-02-13T12:43:23.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "740c963d360b9f31ee6d7b1aca7dd1cd",
-    "source": "huggingface",
-    "type": "model",
-    "title": "openbmb/MiniCPM-SALA",
-    "description": "Type: text-generation<br/>Downloads: 3,665<br/>Likes: 450",
-    "url": "https://huggingface.co/openbmb/MiniCPM-SALA",
-    "published_date": "2026-02-16T21:30:39.224439+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "openbmb",
-      "item_name": "MiniCPM-SALA",
-      "downloads": 3665,
-      "likes": 450,
-      "last_modified": "2026-02-11T13:51:18.000Z",
       "all_tags": []
     }
   },
@@ -84,18 +44,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.5-397B-A17B",
-    "description": "Type: image-text-to-text<br/>Likes: 423",
+    "description": "Type: image-text-to-text<br/>Downloads: 19,629<br/>Likes: 521",
     "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-    "published_date": "2026-02-16T21:30:39.224444+00:00",
+    "published_date": "2026-02-17T09:54:54.517600+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.5-397B-A17B",
-      "downloads": 0,
-      "likes": 423,
+      "downloads": 19629,
+      "likes": 521,
       "last_modified": "2026-02-16T10:47:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e1059bc87f7803174fac7c4fef28da2d",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Nanbeige/Nanbeige4.1-3B",
+    "description": "Type: text-generation<br/>Downloads: 32,023<br/>Likes: 512",
+    "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+    "published_date": "2026-02-17T09:54:54.517606+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "Nanbeige",
+      "item_name": "Nanbeige4.1-3B",
+      "downloads": 32023,
+      "likes": 512,
+      "last_modified": "2026-02-17T09:16:27.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "740c963d360b9f31ee6d7b1aca7dd1cd",
+    "source": "huggingface",
+    "type": "model",
+    "title": "openbmb/MiniCPM-SALA",
+    "description": "Type: text-generation<br/>Downloads: 3,859<br/>Likes: 453",
+    "url": "https://huggingface.co/openbmb/MiniCPM-SALA",
+    "published_date": "2026-02-17T09:54:54.517611+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "openbmb",
+      "item_name": "MiniCPM-SALA",
+      "downloads": 3859,
+      "likes": 453,
+      "last_modified": "2026-02-11T13:51:18.000Z",
       "all_tags": []
     }
   },
@@ -104,38 +104,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "moonshotai/Kimi-K2.5",
-    "description": "Type: image-text-to-text<br/>Downloads: 788,036<br/>Likes: 2204",
+    "description": "Type: image-text-to-text<br/>Downloads: 855,279<br/>Likes: 2214",
     "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
-    "published_date": "2026-02-16T21:30:39.224471+00:00",
+    "published_date": "2026-02-17T09:54:54.517619+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "moonshotai",
       "item_name": "Kimi-K2.5",
-      "downloads": 788036,
-      "likes": 2204,
+      "downloads": 855279,
+      "likes": 2214,
       "last_modified": "2026-02-05T03:49:51.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a33c7e0921f63bd25ab4a6a3bae66a93",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3-Coder-Next",
-    "description": "Type: text-generation<br/>Downloads: 292,364<br/>Likes: 885",
-    "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-    "published_date": "2026-02-16T21:30:39.224476+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3-Coder-Next",
-      "downloads": 292364,
-      "likes": 885,
-      "last_modified": "2026-02-03T16:16:38.000Z",
       "all_tags": []
     }
   },
@@ -144,78 +124,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "inclusionAI/Ming-flash-omni-2.0",
-    "description": "Type: any-to-any<br/>Downloads: 6,486<br/>Likes: 219",
+    "description": "Type: any-to-any<br/>Downloads: 6,648<br/>Likes: 220",
     "url": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
-    "published_date": "2026-02-16T21:30:39.224482+00:00",
+    "published_date": "2026-02-17T09:54:54.517624+00:00",
     "categories": [
       "any-to-any"
     ],
     "metadata": {
       "author": "inclusionAI",
       "item_name": "Ming-flash-omni-2.0",
-      "downloads": 6486,
-      "likes": 219,
+      "downloads": 6648,
+      "likes": 220,
       "last_modified": "2026-02-12T07:33:11.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1bb7f927f38e83c54a952ba1d6bce7b8",
-    "source": "huggingface",
-    "type": "model",
-    "title": "openbmb/MiniCPM-o-4_5",
-    "description": "Type: any-to-any<br/>Downloads: 47,829<br/>Likes: 851",
-    "url": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-    "published_date": "2026-02-16T21:30:39.224490+00:00",
-    "categories": [
-      "any-to-any"
-    ],
-    "metadata": {
-      "author": "openbmb",
-      "item_name": "MiniCPM-o-4_5",
-      "downloads": 47829,
-      "likes": 851,
-      "last_modified": "2026-02-13T16:16:34.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "667a574f4b8f415fc04ba70148069688",
-    "source": "huggingface",
-    "type": "model",
-    "title": "OpenMOSS-Team/MOSS-TTS",
-    "description": "Type: text-to-speech<br/>Downloads: 9,596<br/>Likes: 203",
-    "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-    "published_date": "2026-02-16T21:30:39.224495+00:00",
-    "categories": [
-      "text-to-speech"
-    ],
-    "metadata": {
-      "author": "OpenMOSS-Team",
-      "item_name": "MOSS-TTS",
-      "downloads": 9596,
-      "likes": 203,
-      "last_modified": "2026-02-13T15:46:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1422eca64e1ce98596a5ed0da96ac095",
-    "source": "huggingface",
-    "type": "model",
-    "title": "inclusionAI/Ring-2.5-1T",
-    "description": "Type: text-generation<br/>Downloads: 2,506<br/>Likes: 182",
-    "url": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-    "published_date": "2026-02-16T21:30:39.224500+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "inclusionAI",
-      "item_name": "Ring-2.5-1T",
-      "downloads": 2506,
-      "likes": 182,
-      "last_modified": "2026-02-15T07:34:45.000Z",
       "all_tags": []
     }
   },
@@ -224,38 +144,98 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/personaplex-7b-v1",
-    "description": "Type: audio-to-audio<br/>Downloads: 366,815<br/>Likes: 1891",
+    "description": "Type: audio-to-audio<br/>Downloads: 405,818<br/>Likes: 1933",
     "url": "https://huggingface.co/nvidia/personaplex-7b-v1",
-    "published_date": "2026-02-16T21:30:39.224505+00:00",
+    "published_date": "2026-02-17T09:54:54.517632+00:00",
     "categories": [
       "audio-to-audio"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "personaplex-7b-v1",
-      "downloads": 366815,
-      "likes": 1891,
+      "downloads": 405818,
+      "likes": 1933,
       "last_modified": "2026-02-15T20:10:09.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "eb04447848f64cec360d557989da9108",
+    "id": "a33c7e0921f63bd25ab4a6a3bae66a93",
     "source": "huggingface",
     "type": "model",
-    "title": "zai-org/GLM-OCR",
-    "description": "Type: image-to-text<br/>Downloads: 911,799<br/>Likes: 1057",
-    "url": "https://huggingface.co/zai-org/GLM-OCR",
-    "published_date": "2026-02-16T21:30:39.224510+00:00",
+    "title": "Qwen/Qwen3-Coder-Next",
+    "description": "Type: text-generation<br/>Downloads: 313,206<br/>Likes: 893",
+    "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+    "published_date": "2026-02-17T09:54:54.517637+00:00",
     "categories": [
-      "image-to-text"
+      "text-generation"
     ],
     "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-OCR",
-      "downloads": 911799,
-      "likes": 1057,
-      "last_modified": "2026-02-09T06:03:29.000Z",
+      "author": "Qwen",
+      "item_name": "Qwen3-Coder-Next",
+      "downloads": 313206,
+      "likes": 893,
+      "last_modified": "2026-02-03T16:16:38.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "667a574f4b8f415fc04ba70148069688",
+    "source": "huggingface",
+    "type": "model",
+    "title": "OpenMOSS-Team/MOSS-TTS",
+    "description": "Type: text-to-speech<br/>Downloads: 15,989<br/>Likes: 207",
+    "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+    "published_date": "2026-02-17T09:54:54.517642+00:00",
+    "categories": [
+      "text-to-speech"
+    ],
+    "metadata": {
+      "author": "OpenMOSS-Team",
+      "item_name": "MOSS-TTS",
+      "downloads": 15989,
+      "likes": 207,
+      "last_modified": "2026-02-13T15:46:00.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1bb7f927f38e83c54a952ba1d6bce7b8",
+    "source": "huggingface",
+    "type": "model",
+    "title": "openbmb/MiniCPM-o-4_5",
+    "description": "Type: any-to-any<br/>Downloads: 50,573<br/>Likes: 855",
+    "url": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
+    "published_date": "2026-02-17T09:54:54.517647+00:00",
+    "categories": [
+      "any-to-any"
+    ],
+    "metadata": {
+      "author": "openbmb",
+      "item_name": "MiniCPM-o-4_5",
+      "downloads": 50573,
+      "likes": 855,
+      "last_modified": "2026-02-13T16:16:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1422eca64e1ce98596a5ed0da96ac095",
+    "source": "huggingface",
+    "type": "model",
+    "title": "inclusionAI/Ring-2.5-1T",
+    "description": "Type: text-generation<br/>Downloads: 3,105<br/>Likes: 183",
+    "url": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
+    "published_date": "2026-02-17T09:54:54.517652+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "inclusionAI",
+      "item_name": "Ring-2.5-1T",
+      "downloads": 3105,
+      "likes": 183,
+      "last_modified": "2026-02-15T07:34:45.000Z",
       "all_tags": []
     }
   },
@@ -264,18 +244,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/GLM-5-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 36,235<br/>Likes: 160",
+    "description": "Type: text-generation<br/>Downloads: 38,571<br/>Likes: 162",
     "url": "https://huggingface.co/unsloth/GLM-5-GGUF",
-    "published_date": "2026-02-16T21:30:39.224514+00:00",
+    "published_date": "2026-02-17T09:54:54.517656+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "GLM-5-GGUF",
-      "downloads": 36235,
-      "likes": 160,
+      "downloads": 38571,
+      "likes": 162,
       "last_modified": "2026-02-15T11:28:01.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "eb04447848f64cec360d557989da9108",
+    "source": "huggingface",
+    "type": "model",
+    "title": "zai-org/GLM-OCR",
+    "description": "Type: image-to-text<br/>Downloads: 986,643<br/>Likes: 1059",
+    "url": "https://huggingface.co/zai-org/GLM-OCR",
+    "published_date": "2026-02-17T09:54:54.517661+00:00",
+    "categories": [
+      "image-to-text"
+    ],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "GLM-OCR",
+      "downloads": 986643,
+      "likes": 1059,
+      "last_modified": "2026-02-09T06:03:29.000Z",
       "all_tags": []
     }
   },
@@ -284,17 +284,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-    "description": "Type: image-to-image<br/>Downloads: 582<br/>Likes: 139",
+    "description": "Type: image-to-image<br/>Downloads: 789<br/>Likes: 146",
     "url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-    "published_date": "2026-02-16T21:30:39.224522+00:00",
+    "published_date": "2026-02-17T09:54:54.517668+00:00",
     "categories": [
       "image-to-image"
     ],
     "metadata": {
       "author": "FireRedTeam",
       "item_name": "FireRed-Image-Edit-1.0",
-      "downloads": 582,
-      "likes": 139,
+      "downloads": 789,
+      "likes": 146,
       "last_modified": "2026-02-14T09:33:35.000Z",
       "all_tags": []
     }
@@ -304,78 +304,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "OpenMOSS-Team/MOVA-360p",
-    "description": "Type: image-to-video<br/>Downloads: 8,460<br/>Likes: 180",
+    "description": "Type: image-to-video<br/>Downloads: 11,183<br/>Likes: 183",
     "url": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
-    "published_date": "2026-02-16T21:30:39.224526+00:00",
+    "published_date": "2026-02-17T09:54:54.517673+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "MOVA-360p",
-      "downloads": 8460,
-      "likes": 180,
+      "downloads": 11183,
+      "likes": 183,
       "last_modified": "2026-02-15T04:40:02.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c64f00b827e82c935f9077c877f51b23",
-    "source": "huggingface",
-    "type": "model",
-    "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "description": "Type: automatic-speech-recognition<br/>Downloads: 6,242<br/>Likes: 538",
-    "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-    "published_date": "2026-02-16T21:30:39.224531+00:00",
-    "categories": [
-      "automatic-speech-recognition"
-    ],
-    "metadata": {
-      "author": "mistralai",
-      "item_name": "Voxtral-Mini-4B-Realtime-2602",
-      "downloads": 6242,
-      "likes": 538,
-      "last_modified": "2026-02-16T18:47:56.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "97b4865fb74921e6eea9bf7d2696e6a3",
-    "source": "huggingface",
-    "type": "model",
-    "title": "AIDC-AI/Ovis2.6-30B-A3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 2,794<br/>Likes: 110",
-    "url": "https://huggingface.co/AIDC-AI/Ovis2.6-30B-A3B",
-    "published_date": "2026-02-16T21:30:39.224536+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "AIDC-AI",
-      "item_name": "Ovis2.6-30B-A3B",
-      "downloads": 2794,
-      "likes": 110,
-      "last_modified": "2026-02-12T09:53:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "bff7da0525adf4bb60db5bd9673c4051",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-5-FP8",
-    "description": "Type: text-generation<br/>Downloads: 145,003<br/>Likes: 101",
-    "url": "https://huggingface.co/zai-org/GLM-5-FP8",
-    "published_date": "2026-02-16T21:30:39.224540+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-5-FP8",
-      "downloads": 145003,
-      "likes": 101,
-      "last_modified": "2026-02-13T09:29:31.000Z",
       "all_tags": []
     }
   },
@@ -384,18 +324,78 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "description": "Type: text-to-speech<br/>Downloads: 674,642<br/>Likes: 999",
+    "description": "Type: text-to-speech<br/>Downloads: 725,581<br/>Likes: 1033",
     "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-    "published_date": "2026-02-16T21:30:39.224548+00:00",
+    "published_date": "2026-02-17T09:54:54.517678+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3-TTS-12Hz-1.7B-CustomVoice",
-      "downloads": 674642,
-      "likes": 999,
+      "downloads": 725581,
+      "likes": 1033,
       "last_modified": "2026-01-29T08:00:54.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "97b4865fb74921e6eea9bf7d2696e6a3",
+    "source": "huggingface",
+    "type": "model",
+    "title": "AIDC-AI/Ovis2.6-30B-A3B",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,294<br/>Likes: 113",
+    "url": "https://huggingface.co/AIDC-AI/Ovis2.6-30B-A3B",
+    "published_date": "2026-02-17T09:54:54.517683+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "AIDC-AI",
+      "item_name": "Ovis2.6-30B-A3B",
+      "downloads": 4294,
+      "likes": 113,
+      "last_modified": "2026-02-12T09:53:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c64f00b827e82c935f9077c877f51b23",
+    "source": "huggingface",
+    "type": "model",
+    "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+    "description": "Type: automatic-speech-recognition<br/>Downloads: 8,104<br/>Likes: 542",
+    "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
+    "published_date": "2026-02-17T09:54:54.517693+00:00",
+    "categories": [
+      "automatic-speech-recognition"
+    ],
+    "metadata": {
+      "author": "mistralai",
+      "item_name": "Voxtral-Mini-4B-Realtime-2602",
+      "downloads": 8104,
+      "likes": 542,
+      "last_modified": "2026-02-16T18:47:56.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "bff7da0525adf4bb60db5bd9673c4051",
+    "source": "huggingface",
+    "type": "model",
+    "title": "zai-org/GLM-5-FP8",
+    "description": "Type: text-generation<br/>Downloads: 194,105<br/>Likes: 103",
+    "url": "https://huggingface.co/zai-org/GLM-5-FP8",
+    "published_date": "2026-02-17T09:54:54.517698+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "zai-org",
+      "item_name": "GLM-5-FP8",
+      "downloads": 194105,
+      "likes": 103,
+      "last_modified": "2026-02-13T09:29:31.000Z",
       "all_tags": []
     }
   }
