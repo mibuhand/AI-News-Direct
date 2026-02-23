@@ -10,10 +10,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 1102,
+      "score": 1495,
       "author": "saeedesmaili",
-      "comments": 262,
+      "comments": 348,
       "hn_id": 47113728
+    },
+    "objects": []
+  },
+  {
+    "id": "c8e596b33e7c2ca63f75af6afecb1f56",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+    "description": "",
+    "url": "https://spectrum.ieee.org/age-verification",
+    "published_date": "2026-02-23T14:22:39+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 1003,
+      "author": "oldnetguy",
+      "comments": 797,
+      "hn_id": 47122715
     },
     "objects": []
   },
@@ -28,10 +46,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 908,
+      "score": 945,
       "author": "vinhnx",
-      "comments": 558,
+      "comments": 575,
       "hn_id": 47106686
+    },
+    "objects": []
+  },
+  {
+    "id": "afc5eba5750e6938c8677a49101d90fe",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Ladybird adopts Rust",
+    "description": "",
+    "url": "https://ladybird.org/posts/adopting-rust/",
+    "published_date": "2026-02-23T11:29:22+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 941,
+      "author": "adius",
+      "comments": 514,
+      "hn_id": 47120899
     },
     "objects": []
   },
@@ -46,9 +82,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 616,
+      "score": 775,
       "author": "srigi",
-      "comments": 501,
+      "comments": 668,
       "hn_id": 47115805
     },
     "objects": []
@@ -64,28 +100,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 611,
+      "score": 636,
       "author": "susam",
-      "comments": 251,
+      "comments": 260,
       "hn_id": 47110515
-    },
-    "objects": []
-  },
-  {
-    "id": "228489dc2bc6ec6af1f5a3dd37f6fb60",
-    "source": "hackernews",
-    "type": "story",
-    "title": "What not to write on your security clearance form (1988)",
-    "description": "",
-    "url": "https://milk.com/wall-o-shame/security_clearance.html",
-    "published_date": "2026-02-21T17:08:12+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 494,
-      "author": "wizardforhire",
-      "comments": 216,
-      "hn_id": 47102576
     },
     "objects": []
   },
@@ -100,64 +118,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 421,
+      "score": 553,
       "author": "Gooblebrai",
-      "comments": 269,
+      "comments": 372,
       "hn_id": 47113618
     },
     "objects": []
   },
   {
-    "id": "ad60b4b8dd5591ae69e10085a8b27cbb",
+    "id": "8f5779bb8d3f953b285bbf15bc665bfc",
     "source": "hackernews",
     "type": "story",
-    "title": "Why is Claude an Electron app?",
+    "title": "Pope tells priests to use their brains, not AI, to write homilies",
     "description": "",
-    "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-    "published_date": "2026-02-21T21:28:13+00:00",
+    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+    "published_date": "2026-02-23T07:33:57+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 413,
-      "author": "dbreunig",
-      "comments": 441,
-      "hn_id": 47104973
+      "score": 508,
+      "author": "josephcsible",
+      "comments": 403,
+      "hn_id": 47119210
     },
     "objects": []
   },
   {
-    "id": "cd5b256427750c0634db0f1b12e4b693",
+    "id": "21f4193be8c5a7a63d9672fbf7508cff",
     "source": "hackernews",
     "type": "story",
-    "title": "How Taalas “prints” LLM onto a chip?",
+    "title": "Elsevier shuts down its finance journal citation cartel",
     "description": "",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "published_date": "2026-02-21T19:07:20+00:00",
+    "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
+    "published_date": "2026-02-23T08:22:34+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 402,
-      "author": "beAroundHere",
-      "comments": 244,
-      "hn_id": 47103661
-    },
-    "objects": []
-  },
-  {
-    "id": "15f72fabf903e0ca309a19747e806800",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-    "description": "",
-    "url": "https://github.com/xaskasdf/ntransformer",
-    "published_date": "2026-02-21T20:57:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 377,
-      "author": "xaskasdf",
-      "comments": 96,
-      "hn_id": 47104667
+      "score": 478,
+      "author": "qsi",
+      "comments": 90,
+      "hn_id": 47119530
     },
     "objects": []
   },
@@ -172,10 +172,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 332,
+      "score": 452,
       "author": "MilkMp",
-      "comments": 77,
+      "comments": 95,
       "hn_id": 47114530
+    },
+    "objects": []
+  },
+  {
+    "id": "ad60b4b8dd5591ae69e10085a8b27cbb",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Why is Claude an Electron app?",
+    "description": "",
+    "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "published_date": "2026-02-21T21:28:13+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 422,
+      "author": "dbreunig",
+      "comments": 449,
+      "hn_id": 47104973
+    },
+    "objects": []
+  },
+  {
+    "id": "103837d3b7edf5d72de6324b7dff8315",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
+    "description": "",
+    "url": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
+    "published_date": "2026-02-23T11:44:10+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 416,
+      "author": "doener",
+      "comments": 376,
+      "hn_id": 47121029
     },
     "objects": []
   },
@@ -190,28 +226,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 294,
+      "score": 397,
       "author": "Brajeshwar",
-      "comments": 161,
+      "comments": 221,
       "hn_id": 47111400
     },
     "objects": []
   },
   {
-    "id": "e61fea47a1264d769fc499651cfc0e2b",
+    "id": "15f72fabf903e0ca309a19747e806800",
     "source": "hackernews",
     "type": "story",
-    "title": "Andrej Karpathy talks about \"Claws\"",
+    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "description": "",
-    "url": "https://simonwillison.net/2026/Feb/21/claws/",
-    "published_date": "2026-02-21T09:53:15+00:00",
+    "url": "https://github.com/xaskasdf/ntransformer",
+    "published_date": "2026-02-21T20:57:30+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 286,
-      "author": "helloplanets",
-      "comments": 78,
-      "hn_id": 47099160
+      "score": 386,
+      "author": "xaskasdf",
+      "comments": 101,
+      "hn_id": 47104667
+    },
+    "objects": []
+  },
+  {
+    "id": "26385b15dfba7b1e5a03a607550f8ee6",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Americans are destroying Flock surveillance cameras",
+    "description": "",
+    "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+    "published_date": "2026-02-23T19:04:34+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 315,
+      "author": "mikece",
+      "comments": 190,
+      "hn_id": 47127081
+    },
+    "objects": []
+  },
+  {
+    "id": "359f7fbb30396091344f5ae40dcf4b9e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
+    "description": "",
+    "url": "https://magicalmushroom.com/index",
+    "published_date": "2026-02-23T07:43:47+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 311,
+      "author": "microflash",
+      "comments": 105,
+      "hn_id": 47119274
+    },
+    "objects": []
+  },
+  {
+    "id": "c85d39803f3807e7a5f0f31ba1bf2901",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Six Math Essentials",
+    "description": "",
+    "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+    "published_date": "2026-02-22T19:21:21+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 294,
+      "author": "digital55",
+      "comments": 60,
+      "hn_id": 47113796
     },
     "objects": []
   },
@@ -226,64 +316,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 283,
+      "score": 289,
       "author": "tartoran",
-      "comments": 431,
+      "comments": 446,
       "hn_id": 47111067
-    },
-    "objects": []
-  },
-  {
-    "id": "80226e3038737c34255b6c1b4982e0d2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "description": "",
-    "url": "https://github.com/tnm/zclaw",
-    "published_date": "2026-02-21T12:37:52+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 268,
-      "author": "tosh",
-      "comments": 145,
-      "hn_id": 47100232
-    },
-    "objects": []
-  },
-  {
-    "id": "ab75d0f0d692750c9f9365d18ce59476",
-    "source": "hackernews",
-    "type": "story",
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-    "description": "",
-    "url": "https://www.koreaherald.com/article/10679206",
-    "published_date": "2026-02-21T14:32:16+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 260,
-      "author": "phront",
-      "comments": 267,
-      "hn_id": 47101171
-    },
-    "objects": []
-  },
-  {
-    "id": "4c72d9206f6cc21e4897aeabed41fd52",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-    "description": "",
-    "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-    "published_date": "2026-02-21T19:40:06+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 247,
-      "author": "todsacerdoti",
-      "comments": 71,
-      "hn_id": 47103931
     },
     "objects": []
   },
@@ -298,28 +334,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 244,
+      "score": 267,
       "author": "vinhnx",
-      "comments": 79,
+      "comments": 88,
       "hn_id": 47112174
     },
     "objects": []
   },
   {
-    "id": "27e0f7cdafb07a5d5861afb4b9323838",
+    "id": "e7da3ca860d78e6eb611f760410ea4c0",
     "source": "hackernews",
     "type": "story",
-    "title": "Personal Statement of a CIA Analyst",
+    "title": "Freemediaheckyeah – A collection of free stuff on the internet",
     "description": "",
-    "url": "https://antipolygraph.org/statements/statement-038.shtml",
-    "published_date": "2026-02-21T17:49:02+00:00",
+    "url": "https://fmhy.net/",
+    "published_date": "2026-02-23T03:35:31+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 238,
-      "author": "grubbs",
-      "comments": 168,
-      "hn_id": 47102975
+      "score": 247,
+      "author": "con",
+      "comments": 69,
+      "hn_id": 47117780
     },
     "objects": []
   },
@@ -334,9 +370,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 232,
+      "score": 241,
       "author": "0x54MUR41",
-      "comments": 60,
+      "comments": 61,
       "hn_id": 47110473
     },
     "objects": []
@@ -352,262 +388,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 224,
+      "score": 238,
       "author": "jakozaur",
-      "comments": 93,
+      "comments": 92,
       "hn_id": 47111440
-    },
-    "objects": []
-  },
-  {
-    "id": "20cc8abcef0938a92e11065104af2dd8",
-    "source": "hackernews",
-    "type": "story",
-    "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
-    "description": "",
-    "url": "https://igorstechnoclub.com/sandbox-exec/",
-    "published_date": "2026-02-21T14:34:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 220,
-      "author": "Igor_Wiwi",
-      "comments": 85,
-      "hn_id": 47101200
-    },
-    "objects": []
-  },
-  {
-    "id": "c85d39803f3807e7a5f0f31ba1bf2901",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Six Math Essentials",
-    "description": "",
-    "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-    "published_date": "2026-02-22T19:21:21+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 219,
-      "author": "digital55",
-      "comments": 47,
-      "hn_id": 47113796
-    },
-    "objects": []
-  },
-  {
-    "id": "2b526ea5ac20632452b34bdc5d683864",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Back to FreeBSD: Part 1",
-    "description": "",
-    "url": "https://hypha.pub/back-to-freebsd-part-1",
-    "published_date": "2026-02-22T07:16:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 210,
-      "author": "enz",
-      "comments": 107,
-      "hn_id": 47108989
-    },
-    "objects": []
-  },
-  {
-    "id": "e7da3ca860d78e6eb611f760410ea4c0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Freemediaheckyeah – A collection of free stuff on the internet",
-    "description": "",
-    "url": "https://fmhy.net/",
-    "published_date": "2026-02-23T03:35:31+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 206,
-      "author": "con",
-      "comments": 60,
-      "hn_id": 47117780
-    },
-    "objects": []
-  },
-  {
-    "id": "b4c7d1ab22ecdd0d1015c1474f419a36",
-    "source": "hackernews",
-    "type": "story",
-    "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-    "description": "",
-    "url": "https://www.eduke32.com/",
-    "published_date": "2026-02-21T20:10:13+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 203,
-      "author": "reconnecting",
-      "comments": 76,
-      "hn_id": 47104185
-    },
-    "objects": []
-  },
-  {
-    "id": "0046e14c32470ca5f91d4144407c04d2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Japanese Woodblock Print Search",
-    "description": "",
-    "url": "https://ukiyo-e.org/",
-    "published_date": "2026-02-22T03:18:36+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 198,
-      "author": "curmudgeon22",
-      "comments": 31,
-      "hn_id": 47107781
-    },
-    "objects": []
-  },
-  {
-    "id": "1ed477f16b78ca04764aaec905583f76",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-    "description": "",
-    "url": "https://www.science.org/doi/10.1126/science.adq7188",
-    "published_date": "2026-02-21T21:51:58+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 188,
-      "author": "suddenlybananas",
-      "comments": 59,
-      "hn_id": 47105198
-    },
-    "objects": []
-  },
-  {
-    "id": "4bfa940b14588eea220f72d933780a3b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "$30B for laptops yielded a generation less cognitively capable than parents",
-    "description": "",
-    "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
-    "published_date": "2026-02-23T01:54:16+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 185,
-      "author": "walterbell",
-      "comments": 170,
-      "hn_id": 47117087
-    },
-    "objects": []
-  },
-  {
-    "id": "a55c99cfe8d9afea5bf16acae52906e8",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Spain’s LaLiga has blocked access to freedom.gov",
-    "description": "",
-    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
-    "published_date": "2026-02-22T20:17:12+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 185,
-      "author": "akyuu",
-      "comments": 188,
-      "hn_id": 47114235
-    },
-    "objects": []
-  },
-  {
-    "id": "7a69b16bb60a35c95c0226bc6ca2b4ce",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Cloudflare outage on February 20, 2026",
-    "description": "",
-    "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-    "published_date": "2026-02-21T19:05:31+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 185,
-      "author": "nomaxx117",
-      "comments": 125,
-      "hn_id": 47103649
-    },
-    "objects": []
-  },
-  {
-    "id": "8f5779bb8d3f953b285bbf15bc665bfc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Pope tells priests to use their brains, not AI, to write homilies",
-    "description": "",
-    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-    "published_date": "2026-02-23T07:33:57+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 179,
-      "author": "josephcsible",
-      "comments": 147,
-      "hn_id": 47119210
-    },
-    "objects": []
-  },
-  {
-    "id": "750c81bb4709091c55b05e7cc2f89abc",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Local-First Linux MicroVMs for macOS",
-    "description": "",
-    "url": "https://shuru.run",
-    "published_date": "2026-02-22T18:50:14+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 176,
-      "author": "harshdoesdev",
-      "comments": 53,
-      "hn_id": 47113567
-    },
-    "objects": []
-  },
-  {
-    "id": "07d97e1a42409df42839231d764ee004",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
-    "description": "",
-    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "published_date": "2026-02-21T18:09:24+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 169,
-      "author": "iancmceachern",
-      "comments": 491,
-      "hn_id": 47103136
-    },
-    "objects": []
-  },
-  {
-    "id": "310b6f5cf76d0c77e44f3c1865855e4b",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Xweather Live – Interactive global vector weather map",
-    "description": "",
-    "url": "https://live.xweather.com/",
-    "published_date": "2026-02-22T15:12:15+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 168,
-      "author": "unstyledcontent",
-      "comments": 34,
-      "hn_id": 47111626
     },
     "objects": []
   },
@@ -622,28 +406,172 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 162,
+      "score": 237,
       "author": "modinfo",
-      "comments": 61,
+      "comments": 130,
       "hn_id": 47117459
     },
     "objects": []
   },
   {
-    "id": "c26a76bbd5bf90732447f0ad788adc3d",
+    "id": "2cef836b83d1190df2588a763a77cc58",
     "source": "hackernews",
     "type": "story",
-    "title": "Git's Magic Files",
+    "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
     "description": "",
-    "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-    "published_date": "2026-02-22T14:21:35+00:00",
+    "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+    "published_date": "2026-02-23T19:23:30+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 158,
-      "author": "chmaynard",
-      "comments": 44,
-      "hn_id": 47111218
+      "score": 226,
+      "author": "boplicity",
+      "comments": 104,
+      "hn_id": 47127396
+    },
+    "objects": []
+  },
+  {
+    "id": "4bfa940b14588eea220f72d933780a3b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "$30B for laptops yielded a generation less cognitively capable than parents",
+    "description": "",
+    "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
+    "published_date": "2026-02-23T01:54:16+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 220,
+      "author": "walterbell",
+      "comments": 223,
+      "hn_id": 47117087
+    },
+    "objects": []
+  },
+  {
+    "id": "2b526ea5ac20632452b34bdc5d683864",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Back to FreeBSD: Part 1",
+    "description": "",
+    "url": "https://hypha.pub/back-to-freebsd-part-1",
+    "published_date": "2026-02-22T07:16:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 217,
+      "author": "enz",
+      "comments": 114,
+      "hn_id": 47108989
+    },
+    "objects": []
+  },
+  {
+    "id": "a55c99cfe8d9afea5bf16acae52906e8",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Spain’s LaLiga has blocked access to freedom.gov",
+    "description": "",
+    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+    "published_date": "2026-02-22T20:17:12+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 207,
+      "author": "akyuu",
+      "comments": 238,
+      "hn_id": 47114235
+    },
+    "objects": []
+  },
+  {
+    "id": "750c81bb4709091c55b05e7cc2f89abc",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Local-First Linux MicroVMs for macOS",
+    "description": "",
+    "url": "https://shuru.run",
+    "published_date": "2026-02-22T18:50:14+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 206,
+      "author": "harshdoesdev",
+      "comments": 62,
+      "hn_id": 47113567
+    },
+    "objects": []
+  },
+  {
+    "id": "0046e14c32470ca5f91d4144407c04d2",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Japanese Woodblock Print Search",
+    "description": "",
+    "url": "https://ukiyo-e.org/",
+    "published_date": "2026-02-22T03:18:36+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 202,
+      "author": "curmudgeon22",
+      "comments": 32,
+      "hn_id": 47107781
+    },
+    "objects": []
+  },
+  {
+    "id": "29c5df93a44124ec4e0ff5960c7c4ca5",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The peculiar case of Japanese web design (2022)",
+    "description": "",
+    "url": "https://sabrinas.space",
+    "published_date": "2026-02-23T14:28:39+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 198,
+      "author": "montenegrohugo",
+      "comments": 89,
+      "hn_id": 47122789
+    },
+    "objects": []
+  },
+  {
+    "id": "1ed477f16b78ca04764aaec905583f76",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+    "description": "",
+    "url": "https://www.science.org/doi/10.1126/science.adq7188",
+    "published_date": "2026-02-21T21:51:58+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 189,
+      "author": "suddenlybananas",
+      "comments": 61,
+      "hn_id": 47105198
+    },
+    "objects": []
+  },
+  {
+    "id": "94ba3eb6a887ef7889c904218018b52f",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Hacker News.love – 22 projects Hacker News didn't love",
+    "description": "",
+    "url": "https://hackernews.love/",
+    "published_date": "2026-02-23T09:56:57+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 188,
+      "author": "ohong",
+      "comments": 139,
+      "hn_id": 47120188
     },
     "objects": []
   },
@@ -658,28 +586,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 156,
+      "score": 185,
       "author": "tin7in",
-      "comments": 143,
+      "comments": 178,
       "hn_id": 47114579
     },
     "objects": []
   },
   {
-    "id": "251caf2d035f787395dd34d6fe289bd7",
+    "id": "c26a76bbd5bf90732447f0ad788adc3d",
     "source": "hackernews",
     "type": "story",
-    "title": "A Botnet Accidentally Destroyed I2P",
+    "title": "Git's Magic Files",
     "description": "",
-    "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-    "published_date": "2026-02-22T01:08:17+00:00",
+    "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+    "published_date": "2026-02-22T14:21:35+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 153,
-      "author": "Cider9986",
-      "comments": 88,
-      "hn_id": 47106985
+      "score": 177,
+      "author": "chmaynard",
+      "comments": 50,
+      "hn_id": 47111218
+    },
+    "objects": []
+  },
+  {
+    "id": "310b6f5cf76d0c77e44f3c1865855e4b",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Xweather Live – Interactive global vector weather map",
+    "description": "",
+    "url": "https://live.xweather.com/",
+    "published_date": "2026-02-22T15:12:15+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 176,
+      "author": "unstyledcontent",
+      "comments": 35,
+      "hn_id": 47111626
+    },
+    "objects": []
+  },
+  {
+    "id": "02ba662b83fcfeeb9031ac07913216bf",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Hetzner Prices increase 30-40%",
+    "description": "",
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+    "published_date": "2026-02-23T09:52:14+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 162,
+      "author": "williausrohr",
+      "comments": 119,
+      "hn_id": 47120145
     },
     "objects": []
   },
@@ -694,28 +658,64 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 148,
+      "score": 161,
       "author": "simplesort",
-      "comments": 113,
+      "comments": 122,
       "hn_id": 47113731
     },
     "objects": []
   },
   {
-    "id": "d8c41384740174f16ec05ee1c9a7510d",
+    "id": "04920bc06311bffeb6038c174802629c",
     "source": "hackernews",
     "type": "story",
-    "title": "Over 80% of 16 to 24-year-olds would vote to rejoin the EU",
+    "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
     "description": "",
-    "url": "https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds",
-    "published_date": "2026-02-21T11:39:18+00:00",
+    "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+    "published_date": "2026-02-23T17:18:41+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 132,
-      "author": "saubeidl",
-      "comments": 206,
-      "hn_id": 47099844
+      "score": 158,
+      "author": "pieterr",
+      "comments": 39,
+      "hn_id": 47125349
+    },
+    "objects": []
+  },
+  {
+    "id": "251caf2d035f787395dd34d6fe289bd7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "A Botnet Accidentally Destroyed I2P",
+    "description": "",
+    "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+    "published_date": "2026-02-22T01:08:17+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 154,
+      "author": "Cider9986",
+      "comments": 91,
+      "hn_id": 47106985
+    },
+    "objects": []
+  },
+  {
+    "id": "af6f13fa981cae9e950d15f1e10197a1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Crawling a billion web pages in just over 24 hours, in 2025",
+    "description": "",
+    "url": "https://andrewkchan.dev/posts/crawler.html",
+    "published_date": "2026-02-23T03:54:32+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 148,
+      "author": "pseudolus",
+      "comments": 50,
+      "hn_id": 47117886
     },
     "objects": []
   },
@@ -730,9 +730,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 127,
+      "score": 148,
       "author": "dargscisyhp",
-      "comments": 40,
+      "comments": 46,
       "hn_id": 47112925
     },
     "objects": []
@@ -748,46 +748,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 127,
+      "score": 146,
       "author": "jalev",
-      "comments": 58,
+      "comments": 75,
       "hn_id": 47112892
     },
     "objects": []
   },
   {
-    "id": "3bd3fec32b1df692b72921d40a8c3296",
+    "id": "1f5f39079db7448c3f46983d11319bed",
     "source": "hackernews",
     "type": "story",
-    "title": "Show HN: WARN Firehose – Every US layoff notice in one searchable database",
+    "title": "A simple web we own",
     "description": "",
-    "url": "https://warnfirehose.com",
-    "published_date": "2026-02-22T23:32:43+00:00",
+    "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+    "published_date": "2026-02-23T16:01:18+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 125,
-      "author": "sendkamal",
-      "comments": 15,
-      "hn_id": 47116026
+      "score": 144,
+      "author": "speckx",
+      "comments": 92,
+      "hn_id": 47124149
     },
     "objects": []
   },
   {
-    "id": "30eacc710d59dffe11725c87f4b5c253",
+    "id": "9d424f78b195c53d29dd6c849cdaac29",
     "source": "hackernews",
     "type": "story",
-    "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+    "title": "Show HN: PgDog – Scale Postgres without changing the app",
     "description": "",
-    "url": "https://github.com/a-e-k/canvas_ity",
-    "published_date": "2026-02-21T18:50:19+00:00",
+    "url": "https://github.com/pgdogdev/pgdog",
+    "published_date": "2026-02-23T15:33:24+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 120,
-      "author": "PaulHoule",
-      "comments": 49,
-      "hn_id": 47103506
+      "score": 132,
+      "author": "levkk",
+      "comments": 32,
+      "hn_id": 47123631
     },
     "objects": []
   },
@@ -802,10 +802,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 116,
+      "score": 131,
       "author": "vermaden",
-      "comments": 42,
+      "comments": 64,
       "hn_id": 47113527
+    },
+    "objects": []
+  },
+  {
+    "id": "3bd3fec32b1df692b72921d40a8c3296",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: WARN Firehose – Every US layoff notice in one searchable database",
+    "description": "",
+    "url": "https://warnfirehose.com",
+    "published_date": "2026-02-22T23:32:43+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 129,
+      "author": "sendkamal",
+      "comments": 15,
+      "hn_id": 47116026
     },
     "objects": []
   },
@@ -820,28 +838,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 111,
+      "score": 122,
       "author": "rofko",
-      "comments": 50,
+      "comments": 57,
       "hn_id": 47111981
-    },
-    "objects": []
-  },
-  {
-    "id": "ded9d8bdc235041041a046beb80cefa5",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
-    "description": "",
-    "url": "https://inputlag.science",
-    "published_date": "2026-02-21T19:41:52+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 109,
-      "author": "akyuu",
-      "comments": 40,
-      "hn_id": 47103945
     },
     "objects": []
   },
@@ -856,46 +856,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 108,
+      "score": 113,
       "author": "gadjonesq",
-      "comments": 42,
+      "comments": 45,
       "hn_id": 47115221
     },
     "objects": []
   },
   {
-    "id": "01b0ef3aefc68fd971cb0403ae859460",
+    "id": "7a4b63c5ec1fc5a10e47d7e13b3826bc",
     "source": "hackernews",
     "type": "story",
-    "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
     "description": "",
-    "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
-    "published_date": "2026-02-22T18:20:31+00:00",
+    "url": "https://llm-timeline.com/",
+    "published_date": "2026-02-23T09:07:44+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 96,
-      "author": "frehu",
-      "comments": 28,
-      "hn_id": 47113325
+      "score": 110,
+      "author": "ai_bot",
+      "comments": 46,
+      "hn_id": 47119871
     },
     "objects": []
   },
   {
-    "id": "5401bddf6a7d6a25fd2cf76e1b0919b8",
+    "id": "9a4ae860ed72f726211fdcfe8159b7c2",
     "source": "hackernews",
     "type": "story",
-    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+    "title": "Using the new bridges of FreeBSD 15",
     "description": "",
-    "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
-    "published_date": "2026-02-22T19:18:03+00:00",
+    "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+    "published_date": "2026-02-22T22:42:16+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 95,
-      "author": "rbanffy",
-      "comments": 94,
-      "hn_id": 47113769
+      "score": 108,
+      "author": "vermaden",
+      "comments": 28,
+      "hn_id": 47115575
     },
     "objects": []
   }
