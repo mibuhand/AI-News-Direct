@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "description": "Downloads: 853<br/>Likes: 113",
+    "description": "Downloads: 853<br/>Likes: 124",
     "url": "https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "published_date": "2026-02-24T09:56:58.198829+00:00",
+    "published_date": "2026-02-24T21:36:51.303171+00:00",
     "categories": [],
     "metadata": {
       "author": "nohurry",
       "item_name": "Opus-4.6-Reasoning-3000x-filtered",
       "downloads": 853,
-      "likes": 113,
+      "likes": 124,
       "last_modified": "2026-02-10T13:06:40.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "google/MapTrace",
-    "description": "Downloads: 1,197<br/>Likes: 92",
+    "description": "Downloads: 1,197<br/>Likes: 93",
     "url": "https://huggingface.co/datasets/google/MapTrace",
-    "published_date": "2026-02-24T09:56:58.198853+00:00",
+    "published_date": "2026-02-24T21:36:51.303191+00:00",
     "categories": [],
     "metadata": {
       "author": "google",
       "item_name": "MapTrace",
       "downloads": 1197,
-      "likes": 92,
+      "likes": 93,
       "last_modified": "2026-01-03T06:15:16.000Z",
       "all_tags": []
     }
@@ -40,34 +40,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "uv-scripts/ocr",
-    "description": "Downloads: 718<br/>Likes: 99",
+    "description": "Downloads: 718<br/>Likes: 103",
     "url": "https://huggingface.co/datasets/uv-scripts/ocr",
-    "published_date": "2026-02-24T09:56:58.198862+00:00",
+    "published_date": "2026-02-24T21:36:51.303198+00:00",
     "categories": [],
     "metadata": {
       "author": "uv-scripts",
       "item_name": "ocr",
       "downloads": 718,
-      "likes": 99,
+      "likes": 103,
       "last_modified": "2026-02-19T13:07:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "d7e9bd820a8cc7e7f0d7bb156722d217",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "allenai/olmOCR-bench",
-    "description": "Downloads: 2,128<br/>Likes: 95",
-    "url": "https://huggingface.co/datasets/allenai/olmOCR-bench",
-    "published_date": "2026-02-24T09:56:58.198869+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "allenai",
-      "item_name": "olmOCR-bench",
-      "downloads": 2128,
-      "likes": 95,
-      "last_modified": "2026-02-19T17:28:38.000Z",
       "all_tags": []
     }
   },
@@ -76,16 +58,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ronantakizawa/github-top-code",
-    "description": "Downloads: 394<br/>Likes: 56",
+    "description": "Downloads: 394<br/>Likes: 61",
     "url": "https://huggingface.co/datasets/ronantakizawa/github-top-code",
-    "published_date": "2026-02-24T09:56:58.198875+00:00",
+    "published_date": "2026-02-24T21:36:51.303204+00:00",
     "categories": [],
     "metadata": {
       "author": "ronantakizawa",
       "item_name": "github-top-code",
       "downloads": 394,
-      "likes": 56,
+      "likes": 61,
       "last_modified": "2026-02-23T01:41:46.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "d7e9bd820a8cc7e7f0d7bb156722d217",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "allenai/olmOCR-bench",
+    "description": "Downloads: 2,128<br/>Likes: 98",
+    "url": "https://huggingface.co/datasets/allenai/olmOCR-bench",
+    "published_date": "2026-02-24T21:36:51.303209+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "allenai",
+      "item_name": "olmOCR-bench",
+      "downloads": 2128,
+      "likes": 98,
+      "last_modified": "2026-02-19T17:28:38.000Z",
       "all_tags": []
     }
   },
@@ -94,15 +94,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "FINAL-Bench/Metacognitive",
-    "description": "Downloads: 2,236<br/>Likes: 47",
+    "description": "Downloads: 2,236<br/>Likes: 48",
     "url": "https://huggingface.co/datasets/FINAL-Bench/Metacognitive",
-    "published_date": "2026-02-24T09:56:58.198881+00:00",
+    "published_date": "2026-02-24T21:36:51.303214+00:00",
     "categories": [],
     "metadata": {
       "author": "FINAL-Bench",
       "item_name": "Metacognitive",
       "downloads": 2236,
-      "likes": 47,
+      "likes": 48,
       "last_modified": "2026-02-24T02:24:41.000Z",
       "all_tags": []
     }
@@ -112,16 +112,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenResearcher/OpenResearcher-Dataset",
-    "description": "Downloads: 12,058<br/>Likes: 92",
+    "description": "Downloads: 12,058<br/>Likes: 94",
     "url": "https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset",
-    "published_date": "2026-02-24T09:56:58.198887+00:00",
+    "published_date": "2026-02-24T21:36:51.303219+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenResearcher",
       "item_name": "OpenResearcher-Dataset",
       "downloads": 12058,
-      "likes": 92,
+      "likes": 94,
       "last_modified": "2026-02-12T22:23:38.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e6e3ec6f16a7268aff6b4cde14e99a07",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "description": "Downloads: 5,541<br/>Likes: 284",
+    "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "published_date": "2026-02-24T21:36:51.303224+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "TeichAI",
+      "item_name": "claude-4.5-opus-high-reasoning-250x",
+      "downloads": 5541,
+      "likes": 284,
+      "last_modified": "2025-11-28T03:02:41.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f45568eadf6f0d202c23fcf35de760c0",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "markov-ai/computer-use",
+    "description": "Downloads: 180<br/>Likes: 43",
+    "url": "https://huggingface.co/datasets/markov-ai/computer-use",
+    "published_date": "2026-02-24T21:36:51.303229+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "markov-ai",
+      "item_name": "computer-use",
+      "downloads": 180,
+      "likes": 43,
+      "last_modified": "2026-02-13T15:11:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6495d9f8cf2a2436f52e844b077375c1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "VLR-CVC/DocVQA-2026",
+    "description": "Downloads: 682<br/>Likes: 33",
+    "url": "https://huggingface.co/datasets/VLR-CVC/DocVQA-2026",
+    "published_date": "2026-02-24T21:36:51.303234+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "VLR-CVC",
+      "item_name": "DocVQA-2026",
+      "downloads": 682,
+      "likes": 33,
+      "last_modified": "2026-02-23T08:34:00.000Z",
       "all_tags": []
     }
   },
@@ -132,7 +186,7 @@
     "title": "TeichAI/Pony-Alpha-15k",
     "description": "Downloads: 366<br/>Likes: 54",
     "url": "https://huggingface.co/datasets/TeichAI/Pony-Alpha-15k",
-    "published_date": "2026-02-24T09:56:58.198893+00:00",
+    "published_date": "2026-02-24T21:36:51.303239+00:00",
     "categories": [],
     "metadata": {
       "author": "TeichAI",
@@ -144,20 +198,38 @@
     }
   },
   {
-    "id": "e6e3ec6f16a7268aff6b4cde14e99a07",
+    "id": "8e9af0990f86483838f638c9f43429f1",
     "source": "huggingface",
     "type": "dataset",
-    "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "description": "Downloads: 5,541<br/>Likes: 283",
-    "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "published_date": "2026-02-24T09:56:58.198899+00:00",
+    "title": "Nanbeige/ToolMind-Web-QA",
+    "description": "Downloads: 2,148<br/>Likes: 44",
+    "url": "https://huggingface.co/datasets/Nanbeige/ToolMind-Web-QA",
+    "published_date": "2026-02-24T21:36:51.303244+00:00",
     "categories": [],
     "metadata": {
-      "author": "TeichAI",
-      "item_name": "claude-4.5-opus-high-reasoning-250x",
-      "downloads": 5541,
-      "likes": 283,
-      "last_modified": "2025-11-28T03:02:41.000Z",
+      "author": "Nanbeige",
+      "item_name": "ToolMind-Web-QA",
+      "downloads": 2148,
+      "likes": 44,
+      "last_modified": "2026-02-19T07:53:07.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "058812b5d6337f8508e6ee240608923f",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "openfoodfacts/product-database",
+    "description": "Downloads: 4,793<br/>Likes: 106",
+    "url": "https://huggingface.co/datasets/openfoodfacts/product-database",
+    "published_date": "2026-02-24T21:36:51.303249+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "openfoodfacts",
+      "item_name": "product-database",
+      "downloads": 4793,
+      "likes": 106,
+      "last_modified": "2026-02-24T16:01:28.000Z",
       "all_tags": []
     }
   },
@@ -168,7 +240,7 @@
     "title": "Snowflake/AgentWorldModel-1K",
     "description": "Downloads: 431<br/>Likes: 63",
     "url": "https://huggingface.co/datasets/Snowflake/AgentWorldModel-1K",
-    "published_date": "2026-02-24T09:56:58.198905+00:00",
+    "published_date": "2026-02-24T21:36:51.303257+00:00",
     "categories": [],
     "metadata": {
       "author": "Snowflake",
@@ -180,38 +252,20 @@
     }
   },
   {
-    "id": "f45568eadf6f0d202c23fcf35de760c0",
+    "id": "8223882dc1a5d47270c4ffa6aa9bd74c",
     "source": "huggingface",
     "type": "dataset",
-    "title": "markov-ai/computer-use",
-    "description": "Downloads: 180<br/>Likes: 41",
-    "url": "https://huggingface.co/datasets/markov-ai/computer-use",
-    "published_date": "2026-02-24T09:56:58.198911+00:00",
+    "title": "allenai/olmix",
+    "description": "Downloads: 265<br/>Likes: 34",
+    "url": "https://huggingface.co/datasets/allenai/olmix",
+    "published_date": "2026-02-24T21:36:51.303261+00:00",
     "categories": [],
     "metadata": {
-      "author": "markov-ai",
-      "item_name": "computer-use",
-      "downloads": 180,
-      "likes": 41,
-      "last_modified": "2026-02-13T15:11:21.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8e9af0990f86483838f638c9f43429f1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Nanbeige/ToolMind-Web-QA",
-    "description": "Downloads: 2,148<br/>Likes: 43",
-    "url": "https://huggingface.co/datasets/Nanbeige/ToolMind-Web-QA",
-    "published_date": "2026-02-24T09:56:58.198916+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Nanbeige",
-      "item_name": "ToolMind-Web-QA",
-      "downloads": 2148,
-      "likes": 43,
-      "last_modified": "2026-02-19T07:53:07.000Z",
+      "author": "allenai",
+      "item_name": "olmix",
+      "downloads": 265,
+      "likes": 34,
+      "last_modified": "2026-02-20T21:53:30.000Z",
       "all_tags": []
     }
   },
@@ -220,34 +274,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "openbmb/UltraData-Math",
-    "description": "Downloads: 45,328<br/>Likes: 246",
+    "description": "Downloads: 45,328<br/>Likes: 247",
     "url": "https://huggingface.co/datasets/openbmb/UltraData-Math",
-    "published_date": "2026-02-24T09:56:58.198922+00:00",
+    "published_date": "2026-02-24T21:36:51.303266+00:00",
     "categories": [],
     "metadata": {
       "author": "openbmb",
       "item_name": "UltraData-Math",
       "downloads": 45328,
-      "likes": 246,
+      "likes": 247,
       "last_modified": "2026-02-20T15:02:34.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "058812b5d6337f8508e6ee240608923f",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "openfoodfacts/product-database",
-    "description": "Downloads: 4,793<br/>Likes: 103",
-    "url": "https://huggingface.co/datasets/openfoodfacts/product-database",
-    "published_date": "2026-02-24T09:56:58.198939+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "openfoodfacts",
-      "item_name": "product-database",
-      "downloads": 4793,
-      "likes": 103,
-      "last_modified": "2026-02-23T16:01:31.000Z",
       "all_tags": []
     }
   },
@@ -258,7 +294,7 @@
     "title": "deepgenteam/DeepGen-1.0",
     "description": "Downloads: 2,166<br/>Likes: 36",
     "url": "https://huggingface.co/datasets/deepgenteam/DeepGen-1.0",
-    "published_date": "2026-02-24T09:56:58.198945+00:00",
+    "published_date": "2026-02-24T21:36:51.303270+00:00",
     "categories": [],
     "metadata": {
       "author": "deepgenteam",
@@ -276,7 +312,7 @@
     "title": "commoncrawl/CommonLID",
     "description": "Downloads: 281<br/>Likes: 39",
     "url": "https://huggingface.co/datasets/commoncrawl/CommonLID",
-    "published_date": "2026-02-24T09:56:58.198950+00:00",
+    "published_date": "2026-02-24T21:36:51.303274+00:00",
     "categories": [],
     "metadata": {
       "author": "commoncrawl",
@@ -288,74 +324,38 @@
     }
   },
   {
-    "id": "bdb1907e40f53774ff614fbcea39c0b4",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ma-xu/fine-t2i",
-    "description": "Downloads: 36,043<br/>Likes: 87",
-    "url": "https://huggingface.co/datasets/ma-xu/fine-t2i",
-    "published_date": "2026-02-24T09:56:58.198956+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ma-xu",
-      "item_name": "fine-t2i",
-      "downloads": 36043,
-      "likes": 87,
-      "last_modified": "2026-02-20T06:41:40.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6495d9f8cf2a2436f52e844b077375c1",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "VLR-CVC/DocVQA-2026",
-    "description": "Downloads: 682<br/>Likes: 25",
-    "url": "https://huggingface.co/datasets/VLR-CVC/DocVQA-2026",
-    "published_date": "2026-02-24T09:56:58.198961+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "VLR-CVC",
-      "item_name": "DocVQA-2026",
-      "downloads": 682,
-      "likes": 25,
-      "last_modified": "2026-02-23T08:34:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8223882dc1a5d47270c4ffa6aa9bd74c",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "allenai/olmix",
-    "description": "Downloads: 265<br/>Likes: 31",
-    "url": "https://huggingface.co/datasets/allenai/olmix",
-    "published_date": "2026-02-24T09:56:58.198967+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "allenai",
-      "item_name": "olmix",
-      "downloads": 265,
-      "likes": 31,
-      "last_modified": "2026-02-20T21:53:30.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "13300c259f547dd29f2daebf18d5ee83",
     "source": "huggingface",
     "type": "dataset",
     "title": "GD-ML/IntTravel_dataset",
-    "description": "Downloads: 2,286<br/>Likes: 72",
+    "description": "Downloads: 2,286<br/>Likes: 73",
     "url": "https://huggingface.co/datasets/GD-ML/IntTravel_dataset",
-    "published_date": "2026-02-24T09:56:58.198973+00:00",
+    "published_date": "2026-02-24T21:36:51.303297+00:00",
     "categories": [],
     "metadata": {
       "author": "GD-ML",
       "item_name": "IntTravel_dataset",
       "downloads": 2286,
-      "likes": 72,
-      "last_modified": "2026-02-24T06:59:56.000Z",
+      "likes": 73,
+      "last_modified": "2026-02-24T17:09:36.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5ecdaae4f726bc4b12bbf3c6c3657aa1",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/PhysicalAI-Kitchen-Assets",
+    "description": "Downloads: 491<br/>Likes: 32",
+    "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Kitchen-Assets",
+    "published_date": "2026-02-24T21:36:51.303305+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "PhysicalAI-Kitchen-Assets",
+      "downloads": 491,
+      "likes": 32,
+      "last_modified": "2026-02-13T08:01:26.000Z",
       "all_tags": []
     }
   }
