@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "A Very Big Video Reasoning Suite",
-    "description": "Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env...<br/>Upvotes: 377<br/>Authors: Maijunxian Wang, Ruisi Wang, Juyi Lin<br/>🔗 <a href=\"https://video-reason.com/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.20159\">Hugging Face</a>",
+    "description": "Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env...<br/>Upvotes: 435<br/>Authors: Maijunxian Wang, Ruisi Wang, Juyi Lin<br/>🔗 <a href=\"https://video-reason.com/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.20159\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.20159",
     "external_url": "",
     "published_date": "2026-02-23T13:59:41.000Z",
@@ -14,7 +14,7 @@
     ],
     "metadata": {
       "paper_id": "2602.20159",
-      "upvotes": 377,
+      "upvotes": 435,
       "github_stars": 0,
       "github_url": "",
       "project_url": "https://video-reason.com/",
@@ -78,7 +78,7 @@
       ],
       "summary": "Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual environments that go beyond what text can naturally capture, enabling intuitive reasoning over spatiotemporal structure such as continuity, interaction, and causality. However, systematically studying video reasoning and its scaling behavior is hindered by the lack of large-scale training data. To address this gap, we introduce the Very Big Video Reasoning (VBVR) Dataset, an unprecedentedly large-scale resource spanning 200 curated reasoning tasks following a principled taxonomy and over one million video clips, approximately three orders of magnitude larger than existing datasets. We further present VBVR-Bench, a verifiable evaluation framework that moves beyond model-based judging by incorporating rule-based, human-aligned scorers, enabling reproducible and interpretable diagnosis of video reasoning capabilities. Leveraging the VBVR suite, we conduct one of the first large-scale scaling studies of video reasoning and observe early signs of emergent generalization to unseen reasoning tasks. Together, VBVR lays a foundation for the next stage of research in generalizable video reasoning. The data, benchmark toolkit, and models are publicly available at https://video-reason.com/ .",
       "fetch_date": "2026-02-24",
-      "num_comments": 2,
+      "num_comments": 3,
       "ai_summary": "A large-scale video reasoning dataset and benchmark are introduced to study video intelligence capabilities beyond visual quality, enabling systematic analysis of spatiotemporal reasoning and generalization across diverse tasks.",
       "ai_keywords": [
         "video reasoning",
@@ -94,7 +94,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
-    "description": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic s...<br/>Upvotes: 333<br/>Authors: Shaobo Wang, Xuan Ouyang, Tianyi Xu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.05400\">Hugging Face</a>",
+    "description": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic s...<br/>Upvotes: 335<br/>Authors: Shaobo Wang, Xuan Ouyang, Tianyi Xu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.05400\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.05400",
     "external_url": "",
     "published_date": "2026-02-05T02:34:23.000Z",
@@ -104,7 +104,7 @@
     ],
     "metadata": {
       "paper_id": "2602.05400",
-      "upvotes": 333,
+      "upvotes": 335,
       "github_stars": 0,
       "github_url": "",
       "project_url": "",
@@ -735,7 +735,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Kimi K2.5: Visual Agentic Intelligence",
-    "description": "We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhan...<br/>Upvotes: 243<br/>GitHub Stars: 1148<br/>Authors: Kimi Team, Tongtong Bai, Yifan Bai<br/>🔗 <a href=\"https://github.com/MoonshotAI/Kimi-K2.5\">GitHub</a><br/>🔗 <a href=\"https://www.kimi.com/blog/kimi-k2-5.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.02276\">Hugging Face</a>",
+    "description": "We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhan...<br/>Upvotes: 248<br/>GitHub Stars: 1151<br/>Authors: Kimi Team, Tongtong Bai, Yifan Bai<br/>🔗 <a href=\"https://github.com/MoonshotAI/Kimi-K2.5\">GitHub</a><br/>🔗 <a href=\"https://www.kimi.com/blog/kimi-k2-5.html\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.02276\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.02276",
     "external_url": "https://github.com/MoonshotAI/Kimi-K2.5",
     "published_date": "2026-02-02T11:17:38.000Z",
@@ -745,8 +745,8 @@
     ],
     "metadata": {
       "paper_id": "2602.02276",
-      "upvotes": 243,
-      "github_stars": 1148,
+      "upvotes": 248,
+      "github_stars": 1151,
       "github_url": "https://github.com/MoonshotAI/Kimi-K2.5",
       "project_url": "https://www.kimi.com/blog/kimi-k2-5.html",
       "authors": [
@@ -1093,11 +1093,56 @@
     }
   },
   {
+    "id": "d837ecd583476a6628f969c3fc90689f",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints",
+    "description": "While agent evaluation has shifted toward long-horizon tasks, most benchmarks still emphasize local, step-level reasoning rather than the global constrained optimization (e.g., time and financial budg...<br/>Upvotes: 27<br/>GitHub Stars: 13385<br/>Authors: Yinger Zhang, Shutong Jiang, Renhao Li<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen-Agent\">GitHub</a><br/>🔗 <a href=\"https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.18137\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2601.18137",
+    "external_url": "https://github.com/QwenLM/Qwen-Agent",
+    "published_date": "2026-01-25T23:43:49.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2601.18137",
+      "upvotes": 27,
+      "github_stars": 13385,
+      "github_url": "https://github.com/QwenLM/Qwen-Agent",
+      "project_url": "https://qwenlm.github.io/Qwen-Agent/en/benchmarks/deepplanning/",
+      "authors": [
+        "Yinger Zhang",
+        "Shutong Jiang",
+        "Renhao Li",
+        "Jianhong Tu",
+        "Yang Su",
+        "Lianghao Deng",
+        "Xudong Guo",
+        "Chenxu Lv",
+        "Junyang Lin"
+      ],
+      "summary": "While agent evaluation has shifted toward long-horizon tasks, most benchmarks still emphasize local, step-level reasoning rather than the global constrained optimization (e.g., time and financial budgets) that demands genuine planning ability. Meanwhile, existing LLM planning benchmarks underrepresent the active information gathering and fine-grained local constraints typical of real-world settings. To address this, we introduce DeepPlanning, a challenging benchmark for practical long-horizon agent planning. It features multi-day travel planning and multi-product shopping tasks that require proactive information acquisition, local constrained reasoning, and global constrained optimization. Evaluations on DeepPlanning show that even frontier agentic LLMs struggle with these problems, highlighting the importance of reliable explicit reasoning patterns and parallel tool use for achieving better effectiveness-efficiency trade-offs. Error analysis further points to promising directions for improving agentic LLMs over long planning horizons. We open-source the code and data to support future research.",
+      "fetch_date": "2026-01-27",
+      "num_comments": 3,
+      "ai_summary": "DeepPlanning benchmark addresses limitations of current LLM planning assessments by introducing complex, real-world tasks requiring both global optimization and local constraint reasoning.",
+      "ai_keywords": [
+        "agent evaluation",
+        "long-horizon tasks",
+        "global constrained optimization",
+        "local constrained reasoning",
+        "agentic LLMs",
+        "explicit reasoning patterns",
+        "parallel tool use"
+      ]
+    }
+  },
+  {
     "id": "3ca1c9448a1392dc62dcb1e40f0a07ae",
     "source": "huggingface",
     "type": "paper",
     "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
-    "description": "Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...<br/>Upvotes: 200<br/>GitHub Stars: 4016<br/>Authors: Dawei Zhu, Rui Meng, Yale Song<br/>🔗 <a href=\"https://github.com/dwzhu-pku/PaperBanana\">GitHub</a><br/>🔗 <a href=\"https://dwzhu-pku.github.io/PaperBanana/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.23265\">Hugging Face</a>",
+    "description": "Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...<br/>Upvotes: 200<br/>GitHub Stars: 4062<br/>Authors: Dawei Zhu, Rui Meng, Yale Song<br/>🔗 <a href=\"https://github.com/dwzhu-pku/PaperBanana\">GitHub</a><br/>🔗 <a href=\"https://dwzhu-pku.github.io/PaperBanana/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.23265\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.23265",
     "external_url": "https://github.com/dwzhu-pku/PaperBanana",
     "published_date": "2026-01-30T13:33:37.000Z",
@@ -1108,7 +1153,7 @@
     "metadata": {
       "paper_id": "2601.23265",
       "upvotes": 200,
-      "github_stars": 4016,
+      "github_stars": 4062,
       "github_url": "https://github.com/dwzhu-pku/PaperBanana",
       "project_url": "https://dwzhu-pku.github.io/PaperBanana/",
       "authors": [
@@ -1141,7 +1186,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Advancing Open-source World Models",
-    "description": "We present LingBot-World, an open-sourced world simulator stemming from video generation. Positioned as a top-tier world model, LingBot-World offers the following features. (1) It maintains high fidel...<br/>Upvotes: 128<br/>GitHub Stars: 2974<br/>Authors: Robbyant Team, Zelin Gao, Qiuyu Wang<br/>🔗 <a href=\"https://github.com/Robbyant/lingbot-world\">GitHub</a><br/>🔗 <a href=\"https://technology.robbyant.com/lingbot-world\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20540\">Hugging Face</a>",
+    "description": "We present LingBot-World, an open-sourced world simulator stemming from video generation. Positioned as a top-tier world model, LingBot-World offers the following features. (1) It maintains high fidel...<br/>Upvotes: 128<br/>GitHub Stars: 2984<br/>Authors: Robbyant Team, Zelin Gao, Qiuyu Wang<br/>🔗 <a href=\"https://github.com/Robbyant/lingbot-world\">GitHub</a><br/>🔗 <a href=\"https://technology.robbyant.com/lingbot-world\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20540\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.20540",
     "external_url": "https://github.com/Robbyant/lingbot-world",
     "published_date": "2026-01-28T07:37:01.000Z",
@@ -1152,7 +1197,7 @@
     "metadata": {
       "paper_id": "2601.20540",
       "upvotes": 128,
-      "github_stars": 2974,
+      "github_stars": 2984,
       "github_url": "https://github.com/Robbyant/lingbot-world",
       "project_url": "https://technology.robbyant.com/lingbot-world",
       "authors": [
@@ -1199,7 +1244,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
-    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2650<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
+    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2652<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15989",
     "external_url": "https://github.com/facebookresearch/sam-3d-body",
     "published_date": "2026-02-17T15:26:37.000Z",
@@ -1210,7 +1255,7 @@
     "metadata": {
       "paper_id": "2602.15989",
       "upvotes": 11,
-      "github_stars": 2650,
+      "github_stars": 2652,
       "github_url": "https://github.com/facebookresearch/sam-3d-body",
       "project_url": "https://ai.meta.com/research/sam3d/",
       "authors": [
@@ -1256,7 +1301,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
-    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 93<br/>GitHub Stars: 2547<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
+    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 93<br/>GitHub Stars: 2557<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.04634",
     "external_url": "https://github.com/RLinf/RLinf",
     "published_date": "2026-02-04T10:05:12.000Z",
@@ -1267,7 +1312,7 @@
     "metadata": {
       "paper_id": "2602.04634",
       "upvotes": 93,
-      "github_stars": 2547,
+      "github_stars": 2557,
       "github_url": "https://github.com/RLinf/RLinf",
       "project_url": "https://wideseek-r1.github.io/",
       "authors": [
@@ -1303,7 +1348,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "DeepSeek-OCR 2: Visual Causal Flow",
-    "description": "We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEncoder V2-capable of dynamically reordering visual tokens upon image semantics. Conventional vision-language models (VL...<br/>Upvotes: 63<br/>GitHub Stars: 2366<br/>Authors: Haoran Wei, Yaofeng Sun, Yukun Li<br/>🔗 <a href=\"https://github.com/deepseek-ai/DeepSeek-OCR-2\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20552\">Hugging Face</a>",
+    "description": "We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEncoder V2-capable of dynamically reordering visual tokens upon image semantics. Conventional vision-language models (VL...<br/>Upvotes: 63<br/>GitHub Stars: 2370<br/>Authors: Haoran Wei, Yaofeng Sun, Yukun Li<br/>🔗 <a href=\"https://github.com/deepseek-ai/DeepSeek-OCR-2\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2601.20552\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2601.20552",
     "external_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
     "published_date": "2026-01-28T07:46:07.000Z",
@@ -1314,7 +1359,7 @@
     "metadata": {
       "paper_id": "2601.20552",
       "upvotes": 63,
-      "github_stars": 2366,
+      "github_stars": 2370,
       "github_url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
       "project_url": "",
       "authors": [
@@ -1335,67 +1380,6 @@
         "causal reasoning",
         "2D image understanding",
         "cascaded 1D causal reasoning"
-      ]
-    }
-  },
-  {
-    "id": "b157736c15947e5fb8a4be69ee79b1ab",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
-    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 56<br/>GitHub Stars: 2354<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2602.12099",
-    "external_url": "https://github.com/open-gigaai/giga-brain-0",
-    "published_date": "2026-02-12T10:55:19.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2602.12099",
-      "upvotes": 56,
-      "github_stars": 2354,
-      "github_url": "https://github.com/open-gigaai/giga-brain-0",
-      "project_url": "https://gigabrain05m.github.io/",
-      "authors": [
-        "GigaBrain Team",
-        "Boyuan Wang",
-        "Chaojun Ni",
-        "Guan Huang",
-        "Guosheng Zhao",
-        "Hao Li",
-        "Jie Li",
-        "Jindi Lv",
-        "Jingyu Liu",
-        "Lv Feng",
-        "Mingming Yu",
-        "Peng Li",
-        "Qiuping Deng",
-        "Tianze Liu",
-        "Xinyu Zhou",
-        "Xinze Chen",
-        "Xiaofeng Wang",
-        "Yang Wang",
-        "Yifan Li",
-        "Yifei Nie",
-        "Yilong Li",
-        "Yukun Zhou",
-        "Yun Ye",
-        "Zhichao Liu",
-        "Zheng Zhu"
-      ],
-      "summary": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipation capabilities. In contrast, video world models pre-trained on web-scale video corpora exhibit robust spatiotemporal reasoning and accurate future prediction, making them a natural foundation for enhancing VLA learning. Therefore, we propose GigaBrain-0.5M*, a VLA model trained via world model-based reinforcement learning. Built upon GigaBrain-0.5, which is pre-trained on over 10,000 hours of robotic manipulation data, whose intermediate version currently ranks first on the international RoboChallenge benchmark. GigaBrain-0.5M* further integrates world model-based reinforcement learning via RAMP (Reinforcement leArning via world Model-conditioned Policy) to enable robust cross-task adaptation. Empirical results demonstrate that RAMP achieves substantial performance gains over the RECAP baseline, yielding improvements of approximately 30\\% on challenging tasks including Laundry Folding, Box Packing, and Espresso Preparation. Critically, GigaBrain-0.5M^* exhibits reliable long-horizon execution, consistently accomplishing complex manipulation tasks without failure as validated by real-world deployment videos on our https://gigabrain05m.github.io{project page}.",
-      "fetch_date": "2026-02-13",
-      "num_comments": 2,
-      "ai_summary": "A vision-language-action model enhanced with world model-based reinforcement learning demonstrates improved performance and long-horizon execution capabilities for robotic manipulation tasks.",
-      "ai_keywords": [
-        "Vision-language-action models",
-        "world models",
-        "reinforcement learning",
-        "cross-task adaptation",
-        "RAMP",
-        "RoboChallenge benchmark",
-        "robotic manipulation"
       ]
     }
   }
