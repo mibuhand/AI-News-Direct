@@ -32,19 +32,6 @@
     },
     
     {
-        "site": "https://openai.com/research/index",
-        "organization_key": "openai",
-        "favicon_url": "https://openai.com/favicon.ico",
-        "pages": [""],
-        "output_files": {
-            "main": "openai_research.json"
-        },
-        "cache_files": {
-            "main": "openai_research.html"
-        }
-    },
-    
-    {
         "site": "https://news.ycombinator.com/best",
         "organization_key": "hackernews",
         "favicon_url": "https://news.ycombinator.com/favicon.ico",
@@ -102,19 +89,6 @@
         },
         "cache_files": {
             "main": "deepseek_news.html"
-        }
-    },
-
-    {
-        "site": "https://thinkingmachines.ai",
-        "organization_key": "thinkingmachines",
-        "favicon_url": "https://thinkingmachines.ai/favicon.ico",
-        "pages": ["blog"],
-        "output_files": {
-            "blog": "thinkingmachines_blog.json"
-        },
-        "cache_files": {
-            "blog": "thinkingmachines_blog.html"
         }
     }
 ]
