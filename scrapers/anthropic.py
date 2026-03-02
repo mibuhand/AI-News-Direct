@@ -55,40 +55,71 @@ def load_html(filename):
     return soup
 
 
-def find_article_date(soup, article_title):
-    script_tag = soup.find('script', string=lambda text: text and 'www.anthropic.com' in text)
-    if not script_tag:
-        logging.error("Script tag containing 'www.anthropic.com' not found")
-        return None
-    script_content = script_tag.get_text().strip().lower()
-    title_index = script_content.rfind(article_title.lower())
-    date_index = script_content.rfind('publishedon', 0, title_index)
-    date_str = script_content[date_index+16:date_index+26]
-    return date_str
 
 
-def extract_html_data(soup, filename):
-    base_url = 'https://www.anthropic.com'
-
-    if 'news' in filename:
-        return _extract_news_data(soup, base_url)
-    elif 'engineering' in filename:
-        return _extract_engineering_data(soup, base_url)
+def _extract_research_data(soup, base_url):
+    """Extract data from research pages using new CSS module selectors"""
+    post_items = []
+    
+    # Process PublicationList items (research publications list)
+    publication_items = soup.select('a[class*="PublicationList-module-scss-module"][class*="listItem"]')
+    for post in publication_items:
+        # Extract title from the title span
+        title_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="title"]')
+        
+        # Extract date from time element
+        date_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="date"]')
+        
+        # Extract category from subject span
+        category_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="subject"]')
+        categories = [category_element.get_text(strip=True)] if category_element else []
+        
+        if title_element:
+            post_item = _create_post_item(
+                post, title_element, date_element, base_url, 'research', soup, categories
+            )
+            if post_item:
+                post_items.append(post_item)
+    
+    # Also process FeaturedGrid items (featured research articles)
+    featured_items = soup.select('a[class*="FeaturedGrid-module-scss-module"][class*="sideLink"]')
+    for post in featured_items:
+        # Title from headline element
+        title_element = post.select_one('[class*="FeaturedGrid-module-scss-module"][class*="title"]')
+        
+        # Date from time element
+        date_element = post.select_one('[class*="FeaturedGrid-module-scss-module"][class*="date"]')
+        
+        # Category from caption bold
+        category_element = post.select_one('span.caption.bold')
+        categories = [category_element.get_text(strip=True)] if category_element else []
+        
+        if title_element:
+            post_item = _create_post_item(
+                post, title_element, date_element, base_url, 'research', soup, categories
+            )
+            if post_item:
+                post_items.append(post_item)
+    
+    return post_items
 
 
 def _extract_news_data(soup, base_url):
-    """Extract data from news pages with strict hierarchical tag relationships"""
+    """Extract data from news pages using new CSS module selectors"""
     post_items = []
     
-    # Process post_tag posts (title_tag and date_tag strictly under post_tag)
-    post_tag_posts = soup.select('a.PostCard_post-card__z_Sqq')
-    for post in post_tag_posts:
-        title_element = post.select_one('h3.PostCard_post-heading__Ob1pu')
-        date_element = post.select_one('div.PostList_post-date__djrOA')
+    # Process PublicationList items (main news list)
+    publication_items = soup.select('a[class*="PublicationList-module-scss-module"][class*="listItem"]')
+    for post in publication_items:
+        # Extract title from the title span
+        title_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="title"]')
         
-        # Extract categories from span.text-label under this post
-        category_elements = post.select('span.text-label')
-        categories = [cat.get_text(strip=True) for cat in category_elements]
+        # Extract date from time element
+        date_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="date"]')
+        
+        # Extract category from subject span
+        category_element = post.select_one('[class*="PublicationList-module-scss-module"][class*="subject"]')
+        categories = [category_element.get_text(strip=True)] if category_element else []
         
         if title_element:
             post_item = _create_post_item(
@@ -97,15 +128,18 @@ def _extract_news_data(soup, base_url):
             if post_item:
                 post_items.append(post_item)
     
-    # Process post_tag_alt posts (title_tag_alt and date_tag_alt strictly under post_tag_alt)
-    post_tag_alt_posts = soup.select('a.Card_linkRoot__alQfM')
-    for post in post_tag_alt_posts:
-        title_element = post.select_one('h3.Card_headline__reaoT')
-        date_element = post.select_one('p.detail-m.agate')
+    # Also try FeaturedGrid side items (featured/side articles)
+    featured_items = soup.select('a[class*="FeaturedGrid-module-scss-module"][class*="sideLink"]')
+    for post in featured_items:
+        # Title from headline element
+        title_element = post.select_one('[class*="FeaturedGrid-module-scss-module"][class*="title"]')
         
-        # Extract categories from div.Card_headlineSummaryWrapper__iln63 p.detail-m under this post
-        category_elements = post.select('div.Card_headlineSummaryWrapper__iln63 p.detail-m')
-        categories = [cat.get_text(strip=True) for cat in category_elements]
+        # Date from time element
+        date_element = post.select_one('[class*="FeaturedGrid-module-scss-module"][class*="date"]')
+        
+        # Category from caption bold
+        category_element = post.select_one('span.caption.bold')
+        categories = [category_element.get_text(strip=True)] if category_element else []
         
         if title_element:
             post_item = _create_post_item(
@@ -118,23 +152,30 @@ def _extract_news_data(soup, base_url):
 
 
 def _extract_engineering_data(soup, base_url):
-    """Extract data from engineering pages with all tags strictly under post_tag section"""
+    """Extract data from engineering pages using new CSS module selectors"""
     post_items = []
     
-    # Process post_tag posts (all tags strictly under post_tag)
-    post_tag_posts = soup.select('a.ArticleList_cardLink__VWIzl')
-    for post in post_tag_posts:
-        # Try primary title tag first
-        title_element = post.select_one('h3.display-sans-s')
-        # Fallback to alternative title tag if primary not found (still under same post)
+    # Process ArticleList items (engineering blog articles)
+    # The CSS module hash can vary, so we look for the article elements more broadly
+    article_items = soup.find_all('article', class_=lambda x: x and 'ArticleList-module' in x)
+    for post in article_items:
+        # Find the card link within the article - look for any anchor with cardLink in class
+        card_link = post.find('a', class_=lambda x: x and 'cardLink' in x)
+        if not card_link:
+            continue
+            
+        # Try h3.headline-4 first (regular articles), then h2.headline-1 (featured)
+        title_element = post.select_one('h3.headline-4')
         if not title_element:
-            title_element = post.select_one('h2.display-sans-l')
+            title_element = post.select_one('h2.headline-1')
         
-        date_element = post.select_one('div.ArticleList_date__2VTRg')
+        # Date from the date div - look for class ending with '__date'
+        # This is more specific to avoid matching other date-related classes
+        date_element = post.find('div', class_=lambda x: x and '__date' in str(x))
         
         if title_element:
             post_item = _create_post_item(
-                post, title_element, date_element, base_url, 'engineering', soup
+                card_link, title_element, date_element, base_url, 'engineering', soup
             )
             if post_item:
                 post_items.append(post_item)
@@ -150,16 +191,19 @@ def _create_post_item(post, title_element, date_element, base_url, page_type, so
         
     url = str(base_url) + str(post['href'])
     
-    # Handle date extraction
-    if not date_element:
-        date_str = find_article_date(soup, title)
-        if date_str:
-            published_date = datetime.strptime(date_str + ' 00:00', '%Y-%m-%d %H:%M').replace(tzinfo=timezone.utc).isoformat()
-        else:
-            published_date = datetime.now(timezone.utc).isoformat()
-    else:
+    # Handle date extraction with error handling
+    published_date = None
+    if date_element:
         date_str = date_element.get_text(strip=True)
-        published_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc).isoformat()
+        try:
+            published_date = datetime.strptime(date_str, '%b %d, %Y').replace(tzinfo=timezone.utc).isoformat()
+        except ValueError:
+            logging.warning(f"Could not parse date '{date_str}' for article '{title[:50]}...'")
+            published_date = None
+    
+    # Fallback to current date if parsing failed or no date element found
+    if not published_date:
+        published_date = datetime.now(timezone.utc).isoformat()
     
     # Generate unique ID using high-cardinality fields
     id_components = [
@@ -185,91 +229,6 @@ def _create_post_item(post, title_element, date_element, base_url, page_type, so
     }
 
 
-def extract_script_data(soup):
-    # Find the script tag containing the JSON data
-    script_tag = soup.find('script', string=lambda text: text and 'www.anthropic.com' in text)
-    if not script_tag:
-        logging.error("Script tag containing 'www.anthropic.com' not found")
-        return None
-
-    # Extract the JSON string from the script content
-    script_content = script_tag.get_text().strip()
-    first_index = script_content.find('[')
-    last_index = script_content.rfind(']')
-    second_index = script_content.find('[', first_index+1)
-    second_last = script_content.rfind(']', 0, last_index)
-    json_string = script_content[second_index:second_last+1]
-    json_string = codecs.decode(json_string, 'unicode_escape')
-
-    try:
-        # Load the JSON data
-        json_data = json.loads(json_string)[3]
-    except json.JSONDecodeError as e:
-        logging.error(f"JSON decode error: {e}")
-        return None
-
-    return json_data
-
-
-def parse_script_data(json_data):
-    if not json_data:
-        logging.error("No JSON data provided to parse_script_data")
-        return []
-    
-    base_url = 'https://www.anthropic.com/research/'
-    post_items = []
-    
-    try:
-        for sections in json_data['page']['sections'][1]['tabPages']:
-            if sections.get('label', '') == 'Overview':
-                for section in sections['sections']:
-                    if section.get('title', '') == 'Publications':
-                        for post in section['posts']:
-                            title = post['title']
-                            url = base_url + post['slug']['current']
-                            
-                            # Parse published date to ISO format
-                            published_date = parser.isoparse(post['publishedOn']).replace(tzinfo=timezone.utc).isoformat()
-                            
-                            # Extract categories
-                            categories = [subj['label'] for subj in post.get('subjects', [])]
-                            
-                            # Generate unique ID using high-cardinality fields
-                            id_components = [
-                                "anthropic_research",
-                                title,
-                                url,
-                                post['publishedOn'],
-                                "_".join(categories) if categories else ''
-                            ]
-                            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
-                            
-                            # Check for external URL
-                            external_url = ''
-                            if isinstance(post.get('cta', ''), dict):
-                                if len(post['cta'].get('url', '')) > 0:
-                                    external_url = post['cta']['url']
-                            
-                            post_data = {
-                                'id': item_id,
-                                'source': 'anthropic',
-                                'type': 'research',
-                                'title': title,
-                                'description': '',
-                                'url': url,
-                                'external_url': external_url,
-                                'published_date': published_date,
-                                'categories': categories,
-                                'organization': 'Anthropic',
-                                'metadata': {},
-                                'objects': []
-                            }
-                            post_items.append(post_data)
-    except Exception as e:
-        logging.error(f"Error parsing script data: {e}")
-        return []
-    
-    return post_items
 
 
 def save_to_json(post_items, filename):
@@ -308,6 +267,19 @@ def save_to_json(post_items, filename):
         logging.error(f"Error writing to file: {e}")
 
 
+def extract_html_data(soup, filename):
+    """Route to the appropriate extraction function based on filename"""
+    if 'research' in filename:
+        return _extract_research_data(soup, 'https://www.anthropic.com/research/')
+    elif 'engineering' in filename:
+        return _extract_engineering_data(soup, 'https://www.anthropic.com/engineering/')
+    elif 'news' in filename:
+        return _extract_news_data(soup, 'https://www.anthropic.com/news/')
+    else:
+        logging.error(f"Unknown file type: {filename}")
+        return []
+
+
 if __name__ == "__main__":
     config = load_config()
     cache_files = config['cache_files']
@@ -318,10 +290,10 @@ if __name__ == "__main__":
         if file_path.exists():
             logging.info(f"Processing Anthropic {page_type} file: {cache_filename}")
             soup = load_html(cache_filename)
-            if page_type == 'research':
-                json_data = extract_script_data(soup)
-                save_to_json(parse_script_data(json_data), cache_filename)
+            if soup:
+                post_items = extract_html_data(soup, cache_filename)
+                save_to_json(post_items, cache_filename)
             else:
-                save_to_json(extract_html_data(soup, cache_filename), cache_filename)
+                logging.error(f"Failed to load HTML from {cache_filename}")
         else:
             logging.error(f"Required cache file not found: {cache_filename}")

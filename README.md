@@ -13,9 +13,9 @@ Ready-to-use XML feeds for RSS readers:
 
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
-| [Anthropic News](https://www.anthropic.com/news) | N/A | To-Do |
-| [Anthropic Research](https://www.anthropic.com/research) | N/A | To-Do |
-| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | N/A | To-Do |
+| [Anthropic News](https://www.anthropic.com/news) | N/A | [anthropic_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_news.xml) |
+| [Anthropic Research](https://www.anthropic.com/research) | N/A | [anthropic_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_research.xml) |
+| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | N/A | [anthropic_engineering.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_engineering.xml) |
 | [OpenAI News](https://openai.com/news) | [Open AI News feed](https://openai.com/news/rss.xml) | N/A |
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog feed](https://blog.google/technology/rss/) | N/A |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog feed](https://deepmind.google/blog/rss.xml) | N/A |
@@ -31,8 +31,8 @@ Ready-to-use XML feeds for RSS readers:
 | [Apple ML Blog](https://machinelearning.apple.com/) | [Apple ML Blog feed](https://machinelearning.apple.com/rss.xml) | N/A |
 | [DeepSeek News](https://api-docs.deepseek.com/) | N/A | [deepseek_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/deepseek_news.xml) |
 | [Qwen Blog](https://qwen.ai/research) | N/A | To-Do |
-| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | To-Do |
-| [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | N/A | To-Do |
+| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [bytedance_seed_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
+| [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | N/A | [bytedance_seed_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml) |
 | [Tencent Hunyuan](https://hunyuan.tencent.com/news/home) | N/A | To-Do |
 | [MiniMax News](https://platform.minimax.io/docs/release-notes/models) | N/A | To-Do |
 | [Moonshot News](https://platform.moonshot.ai/blog) | N/A | To-Do |
@@ -53,6 +53,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Arc Prize Blog](https://arcprize.org/blog) | N/A | To-Do |
 | [World Labs AI Blog](https://www.worldlabs.ai/blog) | N/A | To-Do |
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | To-Do (add main page url in feed) |
+| [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | N/A |
 
 
 
@@ -63,6 +64,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Github Trending](https://github.com/trending) | N/A | [github_trends.xml (daily+weekly+monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends.xml)<br>[github_trends_daily.xml (daily)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_daily.xml)<br>[github_trends_weekly.xml (weekly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_weekly.xml)<br>[github_trends_monthly.xml (monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_monthly.xml)<br> |
 | [HuggingFace Blog](https://huggingface.co/blog) | [Huggingface Blog feed](https://huggingface.co/blog/feed.xml) | N/A |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog feed](https://ollama.com/blog/rss.xml) | N/A |
+| [vLLM Blog](https://blog.vllm.ai/) | [vLLM Blog feed](https://blog.vllm.ai/feed.xml) | N/A |
 | [Unsloth Blog](https://unsloth.ai/blog) | N/A | To-Do |
 | [ComfyUI Blog](https://blog.comfy.org/) | [ComfyUI Blog feed](https://blog.comfy.org/feed) | N/A |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog feed](https://replicate.com/blog/atom) | N/A |
@@ -101,6 +103,11 @@ To-Do: Appending logic with snapshot timestamps
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | N/A |
 | [12 Grams of Carbon](https://theahura.substack.com/) | [12 Grams of Carbon Feed](https://theahura.substack.com/feed) | N/A |
 | [Quanta Magazine](https://www.quantamagazine.org/) | [Quanta Magazine Feed](https://www.quantamagazine.org/feed) | N/A |
+| [Epoch AI Blog](https://epoch.ai/blog) | [Epoch AI Blog Feed](https://epoch.ai/atom.xml) | N/A |
+| [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Blog](https://www.citriniresearch.com/feed) | N/A |
+| [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | N/A |
+
+
 
 
 ### Tech News
