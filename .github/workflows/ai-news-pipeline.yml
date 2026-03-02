@@ -56,14 +56,11 @@ jobs:
         echo "::group::Running scrapers"
         
         # Run all scrapers
-        # echo "Running Anthropic scraper..."
-        # uv run python scrapers/anthropic.py || echo "Anthropic scraper failed"
+        echo "Running Anthropic scraper..."
+        uv run python scrapers/anthropic.py || echo "Anthropic scraper failed"
         
-        # echo "Running ByteDance scraper..."
-        # uv run python scrapers/bytedance_seed.py || echo "ByteDance scraper failed"
-        
-        # echo "Running OpenAI scraper..."
-        # uv run python scrapers/openai.py || echo "OpenAI scraper failed"
+        echo "Running ByteDance scraper..."
+        uv run python scrapers/bytedance_seed.py || echo "ByteDance scraper failed"
         
         echo "Running Hacker News scraper..."
         uv run python scrapers/hackernews.py || echo "Hacker News scraper failed"
@@ -76,9 +73,6 @@ jobs:
 
         echo "Running DeepSeek scraper..."
         uv run python scrapers/deepseek.py || echo "DeepSeek scraper failed"
-
-        # echo "Running Thinking Machines scraper..."
-        # uv run python scrapers/thinkingmachines.py || echo "Thinking Machines scraper failed"
 
         echo "::endgroup::"
       continue-on-error: true
