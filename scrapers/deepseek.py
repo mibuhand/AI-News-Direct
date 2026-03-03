@@ -148,19 +148,6 @@ def create_article_from_link(news_item):
     ]
     item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
 
-    # Extract categories from title
-    categories = []
-    if 'V3.1' in title:
-        categories.append('Model Update')
-    elif 'V3' in title:
-        categories.append('Model Release')
-    elif 'R1' in title:
-        categories.append('Reasoning Model')
-    elif 'APP' in title:
-        categories.append('Application')
-    elif 'API' in title:
-        categories.append('API Update')
-
     # Create description from title
     description = f"DeepSeek news: {title}"
 
@@ -172,7 +159,7 @@ def create_article_from_link(news_item):
         'description': description,
         'url': news_item['url'],
         'published_date': published_date.isoformat(),
-        'categories': categories,
+        'categories': "Model Update",
         'organization': 'DeepSeek',
         'metadata': {
             'language': 'zh-cn',
