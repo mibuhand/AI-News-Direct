@@ -115,8 +115,7 @@ To-Do: Appending logic with snapshot timestamps
 | Original Website | Official/RSSHub Feed | Created Feed |
 |------------------|------------------|--------------|
 | [YCombinator Hacker News](https://news.ycombinator.com/) | [YCombinator Hacker News Feed](https://news.ycombinator.com/rss) | [hackernews_best_stories.xml (Top 50)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/hackernews_best_stories.xml) |
-| [AIBase 资讯](https://news.aibase.com/zh/news) | [AIBase 资讯 Feed](https://rsshub.app/aibase/news) | N/A |
-| [AIBase AI日报](https://news.aibase.com/zh/daily) | [AIBase AI日报 Feed](https://rsshub.app/aibase/daily) | N/A |
+| [AIBase Daily](https://news.aibase.com/zh/news) | N/A | [AIBase Daily](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/aibase_daily.xml) |
 | [News Minimalist](https://www.newsminimalist.com/) | [News Minimalist Feed](https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml) | N/A |
 | [ReadHub 新闻](https://readhub.cn/) | [ReadHub 新闻 Feed](https://readhub.cn/rss) | N/A |
 | [ReadHub 每日早报](https://readhub.cn/daily) | [ReadHub 每日早报 Feed](https://readhub.cn/daily/rss) | N/A |

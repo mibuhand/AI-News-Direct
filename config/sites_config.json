@@ -103,5 +103,18 @@
         "cache_files": {
             "main": "meta_ai_news.html"
         }
+    },
+
+    {
+        "site": "https://news.aibase.com/zh/daily/",
+        "organization_key": "aibase",
+        "favicon_url": "https://www.aibase.com/favicon.ico",
+        "pages": ["daily"],
+        "output_files": {
+            "daily": "aibase_daily.json"
+        },
+        "cache_files": {
+            "daily": "aibase_daily.html"
+        }
     }
 ]
