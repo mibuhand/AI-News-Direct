@@ -20,7 +20,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog feed](https://blog.google/technology/rss/) | N/A |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog feed](https://deepmind.google/blog/rss.xml) | N/A |
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research feed](https://deepmind.google/blog/rss.xml) | N/A |
-| [Meta AI Blog](https://ai.meta.com/blog/) | [Meta AI Blog feed (RSSHub)](https://rsshub.app/meta/ai/blog) | To-Do |
+| [Meta AI Blog](https://ai.meta.com/blog/) | [Meta AI Blog feed (RSSHub)](https://rsshub.app/meta/ai/blog) | [Meta AI Blog feed)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/meta_ai_news.xml) |
 | [Mistral AI Blog](https://mistral.ai/news) | N/A | To-Do |
 | [X.AI News](https://x.ai/news) | N/A | To-Do |
 | [Amazon Science Blog](https://www.amazon.science/blog) | [Amazon Science Blog feed](https://www.amazon.science/index.rss) | N/A |
