@@ -4,106 +4,134 @@
   <id>tag:ai-news-direct.local,2025:anthropic_engineering</id>
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <logo>https://www.anthropic.com/favicon.ico</logo>
-  <updated>2025-11-20T09:25:55.577221+00:00</updated>
+  <updated>2026-03-03T11:52:38.550927+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_engineering.xml" rel="self"/>
   <entry>
+    <title>Quantifying infrastructure noise in agentic coding evals</title>
+    <id>903f39777d0b66e209bc1f0bf72d900f</id>
+    <link href="https://www.anthropic.com/engineering//engineering/infrastructure-noise"/>
+    <updated>2026-03-03T11:52:16.116507+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Building a C compiler with a team of parallel Claudes</title>
+    <id>72586544df91918d22d672dc04a9a991</id>
+    <link href="https://www.anthropic.com/engineering//engineering/building-c-compiler"/>
+    <updated>2026-02-05T00:00:00+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Designing AI-resistant technical evaluations</title>
+    <id>74fb9e60054987357853e9127e981d77</id>
+    <link href="https://www.anthropic.com/engineering//engineering/AI-resistant-technical-evaluations"/>
+    <updated>2026-01-21T00:00:00+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Demystifying evals for AI agents</title>
+    <id>03151c25ed5cc490c95dbae04d73e032</id>
+    <link href="https://www.anthropic.com/engineering//engineering/demystifying-evals-for-ai-agents"/>
+    <updated>2026-01-09T00:00:00+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Effective harnesses for long-running agents</title>
+    <id>883c5b5bc425bad7686b5e75d08e2e02</id>
+    <link href="https://www.anthropic.com/engineering//engineering/effective-harnesses-for-long-running-agents"/>
+    <updated>2025-11-26T00:00:00+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
+    <title>Introducing advanced tool use on the Claude Developer Platform</title>
+    <id>9fdaf7219f4187bc35bf92c6671d0ba4</id>
+    <link href="https://www.anthropic.com/engineering//engineering/advanced-tool-use"/>
+    <updated>2025-11-24T00:00:00+00:00</updated>
+    <summary/>
+  </entry>
+  <entry>
     <title>Code execution with MCP: Building more efficient agents</title>
-    <id>6124158b29b758dc8af287dcaa2425d0</id>
-    <link href="https://www.anthropic.com/engineering/code-execution-with-mcp"/>
+    <id>de78cc421eb5c4527753fb7493dde153</id>
+    <link href="https://www.anthropic.com/engineering//engineering/code-execution-with-mcp"/>
     <updated>2025-11-04T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
-    <id>517ebc36fa395203ba44e4069b5ce42a</id>
-    <link href="https://www.anthropic.com/engineering/claude-code-sandboxing"/>
+    <id>474fc29a288d00cfedbae0f093fb79fc</id>
+    <link href="https://www.anthropic.com/engineering//engineering/claude-code-sandboxing"/>
     <updated>2025-10-20T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
-    <title>Equipping agents for the real world with Agent Skills</title>
-    <id>c7ae182fda76bf59a95c1c90b1dace46</id>
-    <link href="https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills"/>
-    <updated>2025-10-16T00:00:00+00:00</updated>
-    <summary/>
-  </entry>
-  <entry>
     <title>Effective context engineering for AI agents</title>
-    <id>8db7d5dc4e6d6e013d34b3498439a826</id>
-    <link href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"/>
-    <updated>2025-09-29T00:00:00+00:00</updated>
-    <summary/>
-  </entry>
-  <entry>
-    <title>Building agents with the Claude Agent SDK</title>
-    <id>cb3ad8975748fb8a45bcdf5b6ec4b25b</id>
-    <link href="https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk"/>
+    <id>8fe0b60646c1700792cb90360385de50</id>
+    <link href="https://www.anthropic.com/engineering//engineering/effective-context-engineering-for-ai-agents"/>
     <updated>2025-09-29T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>A postmortem of three recent issues</title>
-    <id>a58a71d4bee2071de7e2c933c6c440e8</id>
-    <link href="https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues"/>
+    <id>cbc733142f57a875afefab677dc147cc</id>
+    <link href="https://www.anthropic.com/engineering//engineering/a-postmortem-of-three-recent-issues"/>
     <updated>2025-09-17T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Writing effective tools for agents — with agents</title>
-    <id>bab3d29d5e33a3b6d3038ccc340b9c3d</id>
-    <link href="https://www.anthropic.com/engineering/writing-tools-for-agents"/>
+    <id>58cd281e2d1d4a640840f0eea82edaf4</id>
+    <link href="https://www.anthropic.com/engineering//engineering/writing-tools-for-agents"/>
     <updated>2025-09-11T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Desktop Extensions: One-click MCP server installation for Claude Desktop</title>
-    <id>51caa23a7033fd0bffba0a614c3bbe19</id>
-    <link href="https://www.anthropic.com/engineering/desktop-extensions"/>
+    <id>b5f5add7d4c5e2e9d32de213c0b7b1fe</id>
+    <link href="https://www.anthropic.com/engineering//engineering/desktop-extensions"/>
     <updated>2025-06-26T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>How we built our multi-agent research system</title>
-    <id>a58dc11c6dc3aebfbf45e44c69c98f27</id>
-    <link href="https://www.anthropic.com/engineering/multi-agent-research-system"/>
+    <id>c1f3118f53bf126380a60550cfae2ad4</id>
+    <link href="https://www.anthropic.com/engineering//engineering/multi-agent-research-system"/>
     <updated>2025-06-13T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Claude Code: Best practices for agentic coding</title>
-    <id>435743e6aca86798b6f507808adad396</id>
-    <link href="https://www.anthropic.com/engineering/claude-code-best-practices"/>
+    <id>9cfbf3162c57273227d9ed868320836e</id>
+    <link href="https://www.anthropic.com/engineering//engineering/claude-code-best-practices"/>
     <updated>2025-04-18T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>The &quot;think&quot; tool: Enabling Claude to stop and think in complex tool use situations</title>
-    <id>20d5e1508810c8c3fddb936ddd5935df</id>
-    <link href="https://www.anthropic.com/engineering/claude-think-tool"/>
+    <id>b644ff84a67c6c9a963ac16c09083dac</id>
+    <link href="https://www.anthropic.com/engineering//engineering/claude-think-tool"/>
     <updated>2025-03-20T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
-    <id>5f81d6387ad1a5593752c16513a252c8</id>
-    <link href="https://www.anthropic.com/engineering/swe-bench-sonnet"/>
+    <id>d413f72bb0dcafc10837632de88d5b3e</id>
+    <link href="https://www.anthropic.com/engineering//engineering/swe-bench-sonnet"/>
     <updated>2025-01-06T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Building effective agents</title>
-    <id>c46cc36bd21e399c23e8b40d912e0d50</id>
-    <link href="https://www.anthropic.com/engineering/building-effective-agents"/>
+    <id>62e0d059e463c83f2f830057dd55c629</id>
+    <link href="https://www.anthropic.com/engineering//engineering/building-effective-agents"/>
     <updated>2024-12-19T00:00:00+00:00</updated>
     <summary/>
   </entry>
   <entry>
     <title>Introducing Contextual Retrieval</title>
-    <id>8c7b5cb54b3672ac0bd694e6a59768c7</id>
-    <link href="https://www.anthropic.com/engineering/contextual-retrieval"/>
+    <id>bc647c9a7c50c85dd816e6d771e6b9d9</id>
+    <link href="https://www.anthropic.com/engineering//engineering/contextual-retrieval"/>
     <updated>2024-09-19T00:00:00+00:00</updated>
     <summary/>
   </entry>

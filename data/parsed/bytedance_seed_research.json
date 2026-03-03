@@ -1,0 +1,206 @@
+[
+    {
+        "id": "00bbbfd6daef97f32c13a5b8e572ea38",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+        "description": "Recent strides in video generation have paved the way for unified audio-visual generation. In this work, we present Seedance 1.5 pro, a foundational model engineered specifically for native, joint audio-video generation. Leveraging a dual-branch Diffusion Transformer architecture, the model integrates a cross-modal joint module with a specialized multi-stage data pipeline, achieving exceptional audio-visual synchronization and superior generation quality. To ensure practical\nutility, we implement meticulous post-training optimizations, including Supervised Fine-Tuning\n(SFT) on high-quality datasets and Reinforcement Learning from Human Feedback (RLHF) with multi-dimensional reward models. Furthermore, we introduce an acceleration framework that boosts inference speed by over 10\u00d7. Seedance 1.5 pro distinguishes itself through precise\nmultilingual and dialect lip-syncing, dynamic cinematic camera control, and enhanced narrative coherence, positioning it as a robust engine for professional-grade content creation. Seedance 1.5 pro is now accessible on Volcano Engine.",
+        "url": "https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model",
+        "published_date": "2025-12-14T16:00:00+00:00",
+        "categories": [
+            "Computer Vision and Pattern Recognition"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Seed Vision Team",
+            "journal": "arXiv",
+            "work_team": [
+                "Vision"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Recent strides in video generation have paved the way for unified audio-visual generation. In this work, we present Seedance 1.5 pro, a foundational model engineered specifically for native, joint audio-video generation. Leveraging a dual-branch Diffusion Transformer architecture, the model integrates a cross-modal joint module with a specialized multi-stage data pipeline, achieving exceptional audio-visual synchronization and superior generation quality. To ensure practical\nutility, we implement meticulous post-training optimizations, including Supervised Fine-Tuning\n(SFT) on high-quality datasets and Reinforcement Learning from Human Feedback (RLHF) with multi-dimensional reward models. Furthermore, we introduce an acceleration framework that boosts inference speed by over 10\u00d7. Seedance 1.5 pro distinguishes itself through precise\nmultilingual and dialect lip-syncing, dynamic cinematic camera control, and enhanced narrative coherence, positioning it as a robust engine for professional-grade content creation. Seedance 1.5 pro is now accessible on Volcano Engine.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/pdf/2512.13507"
+    },
+    {
+        "id": "c332c50c3c22b1d40d638f88a5156a13",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+        "description": "We present GR-RL, a robotic learning framework that turns a generalist vision-language-action (VLA) policy into a highly capable specialist for long-horizon dexterous manipulation. Assuming the optimality of human demonstrations is core to existing VLA policies. However, we claim that in highly dexterous and precise manipulation tasks, human demonstrations are noisy and suboptimal. GR-RL proposes a multi-stage training pipeline that filters, augments, and reinforces the demonstrations by reinforcement learning. First, GR-RL learns a vision-language-conditioned task progress, filters the demonstration trajectories, and only keeps the transitions that contribute positively to the progress. Specifically, we show that by directly applying offline RL with sparse reward, the resulting Q-values can be treated as a robust progress function. Next, we introduce morphological symmetry augmentation that greatly improves the generalization and performance of GR-RL. Lastly, to better align the VLA policy with its deployment behaviors for high-precision control, we perform online RL by learning a latent space noise predictor. With this pipeline, GR-RL is, to our knowledge, the first learning-based policy that can autonomously lace up a shoe by threading shoelaces through multiple eyelets with an 83.3% success rate, a task requiring long-horizon reasoning, millimeter-level precision, and compliant soft-body interaction. We hope GR-RL provides a step toward enabling generalist robot foundations models to specialize into reliable real-world experts.",
+        "url": "https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation",
+        "published_date": "2025-12-01T16:00:00+00:00",
+        "categories": [
+            "Robotics"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, Yuxiao Liu, Hao Niu, Wanli Peng, Jingchao Qiao, Zeyu Ren, Haixin Shi, Zhi Su, Jiawen Tian, Yuyang Xiao, Shenyu Zhang, Liwei Zheng, Hang Li, Yonghui Wu",
+            "journal": "arXiv",
+            "work_team": [
+                "Robotics"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "We present GR-RL, a robotic learning framework that turns a generalist vision-language-action (VLA) policy into a highly capable specialist for long-horizon dexterous manipulation. Assuming the optimality of human demonstrations is core to existing VLA policies. However, we claim that in highly dexterous and precise manipulation tasks, human demonstrations are noisy and suboptimal. GR-RL proposes a multi-stage training pipeline that filters, augments, and reinforces the demonstrations by reinforcement learning. First, GR-RL learns a vision-language-conditioned task progress, filters the demonstration trajectories, and only keeps the transitions that contribute positively to the progress. Specifically, we show that by directly applying offline RL with sparse reward, the resulting Q-values can be treated as a robust progress function. Next, we introduce morphological symmetry augmentation that greatly improves the generalization and performance of GR-RL. Lastly, to better align the VLA policy with its deployment behaviors for high-precision control, we perform online RL by learning a latent space noise predictor. With this pipeline, GR-RL is, to our knowledge, the first learning-based policy that can autonomously lace up a shoe by threading shoelaces through multiple eyelets with an 83.3% success rate, a task requiring long-horizon reasoning, millimeter-level precision, and compliant soft-body interaction. We hope GR-RL provides a step toward enabling generalist robot foundations models to specialize into reliable real-world experts.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2512.01801"
+    },
+    {
+        "id": "222e1c7c586fe380fee83060044abcbd",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets",
+        "description": "Developing embodied AI agents requires scalable training environments that balance content diversity with physics accuracy. World simulators provide such environments but face distinct limitations: video-based methods generate diverse content but lack real-time physics feedback for interactive learning, while physics-based engines provide accurate dynamics but face scalability limitations from costly manual asset creation. We present Seed3D 1.0, a foundation model that generates simulation-ready 3D assets from single images, addressing the scalability challenge while maintaining physics rigor. Unlike existing 3D generation models, our system produces assets with accurate geometry, well-aligned textures, and realistic physically-based materials. These assets can be directly integrated into physics engines with minimal configuration, enabling deployment in robotic manipulation and simulation training. Beyond individual objects, the system scales to complete scene generation through assembling objects into coherent environments. By enabling scalable simulation-ready content creation, Seed3D 1.0 provides a foundation for advancing physics-based world simulators.",
+        "url": "https://seed.bytedance.com/en/research/seed3d-1-0-from-images-to-high-fidelity-simulation-ready-3d-assets",
+        "published_date": "2025-10-21T16:00:00+00:00",
+        "categories": [
+            "Computer Vision and Pattern Recognition"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Jiashi Feng, Xiu Li, Jing Lin, Jiahang Liu, Gaohong Liu, Weiqiang Lou, Su Ma, Guang Shi, Qinlong Wang, Jun Wang, Zhongcong Xu, Xuanyu Yi, Zihao Yu, Jianfeng Zhang, Yifan Zhu, Rui Chen, Jinxin Chi, Zixian Du, Li Han, Lixin Huang, Kaihua Jiang, Yuhan Li, Guan Luo, Shuguang Wang, Qianyi Wu, Fan Yang, Junyang Zhang, Xuanmeng Zhang",
+            "journal": "arXiv",
+            "work_team": [
+                "Vision"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Developing embodied AI agents requires scalable training environments that balance content diversity with physics accuracy. World simulators provide such environments but face distinct limitations: video-based methods generate diverse content but lack real-time physics feedback for interactive learning, while physics-based engines provide accurate dynamics but face scalability limitations from costly manual asset creation. We present Seed3D 1.0, a foundation model that generates simulation-ready 3D assets from single images, addressing the scalability challenge while maintaining physics rigor. Unlike existing 3D generation models, our system produces assets with accurate geometry, well-aligned textures, and realistic physically-based materials. These assets can be directly integrated into physics engines with minimal configuration, enabling deployment in robotic manipulation and simulation training. Beyond individual objects, the system scales to complete scene generation through assembling objects into coherent environments. By enabling scalable simulation-ready content creation, Seed3D 1.0 provides a foundation for advancing physics-based world simulators.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seed3d-1-0-from-images-to-high-fidelity-simulation-ready-3d-assets",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2510.19944"
+    },
+    {
+        "id": "1e036357cdb955e85a05415daa514173",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
+        "description": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
+        "url": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
+        "published_date": "2025-09-01T16:00:00+00:00",
+        "categories": [
+            "Molecular Biology"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Milong Ren,  Jinyuan Sun, Jiaqi Guan,  Cong Liu,  Chengyue Gong,  Yuzhe Wang, Lan Wang, Qixu Cai,  Xinshi Chen, Wenzhi Xiao, Protenix Team",
+            "journal": "arXiv",
+            "work_team": [
+                "AI for Science"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "PXDesign achieves nanomolar binder hit rates of 20\u201373% across five of six diverse protein targets, surpassing prior methods such as AlphaProteo. This experimental success rate is enabled by advances in both binder generation and filtering. We develop both a diffusion-based generative model (PXDesign-d) and a hallucination-based approach (PXDesign-h), each showing strong in silico performance that outperforms existing models. Beyond generation, we systematically analyze confidence-based filtering and ranking strategies from multiple structure predictors, comparing their accuracy, efficiency, and complementarity on datasets spanning de novo binders and mutagenesis. Finally, we validate the full design process experimentally, achieving high hit rates and multiple nanomolar binders.\n\nTo support future work and community use, we release a unified benchmarking framework at https://github.com/bytedance/PXDesignBench, provide public access to PXDesign via a webserver at https://protenix-server.com, and share all designed binder sequences at https://protenix.github.io/pxdesign.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://www.biorxiv.org/content/10.1101/2025.08.15.670450v2.article-info"
+    },
+    {
+        "id": "fa1600a231b65e2a2dbc3cdd326f6eed",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+        "description": "LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \\textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \\textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.",
+        "url": "https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving",
+        "published_date": "2025-07-30T16:00:00+00:00",
+        "categories": [
+            "LLM"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Luoxin Chen, Jinming Gu, Liankai Huang, Wenhao Huang, Zhicheng Jiang, Allan Jie, Xiaoran Jin, Xing Jin, Chenggang Li, Kaijing Ma, Cheng Ren, Jiawei Shen, Wenlei Shi, Tong Sun, He Sun, Jiahui Wang, Siran Wang, Zhihong Wang, Chenrui Wei, Shufa Wei, Yonghui Wu, Yuchen Wu, Yihang Xia, Huajian Xin, Fan Yang, Huaiyuan Ying, Hongyi Yuan, Zheng Yuan, Tianyang Zhan, Chi Zhang, Yue Zhang, Ge Zhang, Tianyun Zhao, Jianqiu Zhao, Yichi Zhou, Thomas Hanwen Zhu",
+            "journal": "arXiv",
+            "work_team": [
+                "LLM"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "LLMs have demonstrated strong mathematical reasoning abilities by leveraging reinforcement learning with long chain-of-thought, yet they continue to struggle with theorem proving due to the lack of clear supervision signals when solely using natural language. Dedicated domain-specific languages like Lean provide clear supervision via formal verification of proofs, enabling effective training through reinforcement learning. In this work, we propose \\textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover can iteratively refine its proof based on Lean feedback, proved lemmas, and self-summarization. To solve IMO-level contest problems, we design three test-time inference strategies that enable both deep and broad reasoning. Seed-Prover proves 78.1% of formalized past IMO problems, saturates MiniF2F, and achieves over 50\\% on PutnamBench, outperforming the previous state-of-the-art by a large margin. To address the lack of geometry support in Lean, we introduce a geometry reasoning engine \\textbf{Seed-Geometry}, which outperforms previous formal geometry engines. We use these two systems to participate in IMO 2025 and fully prove 5 out of 6 problems. This work represents a significant advancement in automated mathematical reasoning, demonstrating the effectiveness of formal verification with long chain-of-thought reasoning.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2507.23726"
+    },
+    {
+        "id": "9dda18f5eed207192692ce971bef448b",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
+        "description": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
+        "url": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
+        "published_date": "2025-03-13T16:00:00+00:00",
+        "categories": [
+            " Strongly Correlated Electrons"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Xiang Li, Yixiao Chen, Bohao Li, Haoxiang Chen, Fengcheng Wu, Ji Chen, Weiluo Ren",
+            "journal": "arXiv",
+            "work_team": [
+                "AI for Science"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Deep Learning Sheds Light on Integer and Fractional Topological Insulators",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Electronic topological phases of matter, characterized by robust boundary states derived from topologically nontrivial bulk states, are pivotal for next-generation electronic devices. However, understanding their complex quantum phases, especially at larger scales and fractional fillings with strong electron correlations, has long posed a formidable computational challenge. Here, we employ a deep learning framework to express the many-body wavefunction of topological states in twisted MoTe2 systems, where diverse topological states are observed. Leveraging neural networks, we demonstrate the ability to identify and characterize topological phases, including the integer and fractional Chern insulators as well as the Z2 topological insulators. Our deep learning approach significantly outperforms traditional methods, not only in computational efficiency but also in accuracy, enabling us to study larger systems and differentiate between competing phases such as fractional Chern insulators and charge density waves. Our predictions align closely with experimental observations, highlighting the potential of deep learning techniques to explore the rich landscape of topological and strongly correlated phenomena.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators",
+            "zh": "https://seed.bytedance.com/zh/research/"
+        },
+        "external_url": "https://arxiv.org/abs/2503.11756"
+    }
+]
