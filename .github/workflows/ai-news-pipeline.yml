@@ -74,6 +74,9 @@ jobs:
         echo "Running DeepSeek scraper..."
         uv run python scrapers/deepseek.py || echo "DeepSeek scraper failed"
 
+        echo "Running Meta AI scraper..."
+        uv run python scrapers/meta_ai.py || echo "Meta AI scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       
