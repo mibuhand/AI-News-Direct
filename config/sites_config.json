@@ -90,5 +90,18 @@
         "cache_files": {
             "main": "deepseek_news.html"
         }
+    },
+
+    {
+        "site": "https://ai.meta.com/blog/",
+        "organization_key": "meta",
+        "favicon_url": "https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico",
+        "pages": [""],
+        "output_files": {
+            "main": "meta_ai_news.json"
+        },
+        "cache_files": {
+            "main": "meta_ai_news.html"
+        }
     }
 ]
