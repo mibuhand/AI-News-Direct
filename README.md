@@ -3,7 +3,7 @@ Collect AI news from direct scraping of company websites and blogs.
 
 Feeds under "Created Feed" in the tables below are created by this project.
 
-Official feeds and [RSSHub](https://docs.rsshub.app/) feeds are also shown in the tables below if they are available and tested.
+Official feeds are also shown in the tables below if they are available and tested.
 
 ## Available Feeds
 Ready-to-use XML feeds for RSS readers:
@@ -11,7 +11,7 @@ Ready-to-use XML feeds for RSS readers:
 
 ### Lab/Company Feeds
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [Anthropic News](https://www.anthropic.com/news) | N/A | [anthropic_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_news.xml) |
 | [Anthropic Research](https://www.anthropic.com/research) | N/A | [anthropic_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/anthropic_research.xml) |
@@ -20,7 +20,7 @@ Ready-to-use XML feeds for RSS readers:
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog feed](https://blog.google/technology/rss/) | N/A |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog feed](https://deepmind.google/blog/rss.xml) | N/A |
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research feed](https://deepmind.google/blog/rss.xml) | N/A |
-| [Meta AI Blog](https://ai.meta.com/blog/) | [Meta AI Blog feed (RSSHub)](https://rsshub.app/meta/ai/blog) | [Meta AI Blog feed)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/meta_ai_news.xml) |
+| [Meta AI Blog](https://ai.meta.com/blog/) | N/A | [Meta AI Blog feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/meta_ai_news.xml) |
 | [Mistral AI Blog](https://mistral.ai/news) | N/A | To-Do |
 | [X.AI News](https://x.ai/news) | N/A | To-Do |
 | [Amazon Science Blog](https://www.amazon.science/blog) | [Amazon Science Blog feed](https://www.amazon.science/index.rss) | N/A |
@@ -59,7 +59,7 @@ Ready-to-use XML feeds for RSS readers:
 
 ### Tool/Platform Feeds
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [Github Trending](https://github.com/trending) | N/A | [github_trends.xml (daily+weekly+monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends.xml)<br>[github_trends_daily.xml (daily)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_daily.xml)<br>[github_trends_weekly.xml (weekly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_weekly.xml)<br>[github_trends_monthly.xml (monthly)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/github_trends_monthly.xml)<br> |
 | [HuggingFace Blog](https://huggingface.co/blog) | [Huggingface Blog feed](https://huggingface.co/blog/feed.xml) | N/A |
@@ -80,7 +80,7 @@ Ready-to-use XML feeds for RSS readers:
 ### Academic Feeds
 To-Do: Appending logic with snapshot timestamps
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [HuggingFace Trending Models](https://huggingface.co/models?sort=trending) | N/A | [huggingface_trending_models.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_trending_models.xml) |
 | [HuggingFace Trending Datasets](https://huggingface.co/datasets?sort=trending) | N/A | [huggingface_trending_datasets.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/huggingface_trending_datasets.xml) |
@@ -91,13 +91,13 @@ To-Do: Appending logic with snapshot timestamps
 
 ### Tech Blogs
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [Sebastian Raschka](https://sebastianraschka.com/) | [Sebastian Raschka Feed](https://sebastianraschka.com/rss_feed.xml) | N/A |
 | [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | N/A |
 | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/feed) | N/A |
 | [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | N/A |
-| [The Batch](https://www.deeplearning.ai/the-batch/) | [The Batch Feed](https://rsshub.app/deeplearning/the-batch) | N/A |
+| [The Batch](https://www.deeplearning.ai/the-batch/) | N/A | To-Do |
 | [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | N/A |
 | [Turing Post](https://www.turingpost.com/) | [Turing Post Feed](https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml) | N/A |
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | N/A |
@@ -112,7 +112,7 @@ To-Do: Appending logic with snapshot timestamps
 
 ### Tech News
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [YCombinator Hacker News](https://news.ycombinator.com/) | [YCombinator Hacker News Feed](https://news.ycombinator.com/rss) | [hackernews_best_stories.xml (Top 50)](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/hackernews_best_stories.xml) |
 | [AIBase Daily](https://news.aibase.com/zh/news) | N/A | [AIBase Daily](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/aibase_daily.xml) |
@@ -128,7 +128,7 @@ To-Do: Appending logic with snapshot timestamps
 
 ### Quantum Computing / Quantum AI
 
-| Original Website | Official/RSSHub Feed | Created Feed |
+| Original Website | Official Feed | Created Feed |
 |------------------|------------------|--------------|
 | [phys.org Quantum Physics](https://phys.org/physics-news/quantum-physics/) | [phys.org Quantum Physics feed](https://phys.org/rss-feed/physics-news/quantum-physics/) | N/A |
 | [Quantum Computing Report](https://quantumcomputingreport.com/news/) | [Quantum Computing Report feed](https://quantumcomputingreport.com/feed/) | N/A |
