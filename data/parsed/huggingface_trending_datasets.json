@@ -1,127 +1,37 @@
 [
   {
-    "id": "016810cbb9a3594b472a0fa0b25d8f46",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "peteromallet/dataclaw-peteromallet",
-    "description": "Downloads: 4,896<br/>Likes: 263",
-    "url": "https://huggingface.co/datasets/peteromallet/dataclaw-peteromallet",
-    "published_date": "2026-03-04T11:50:31.613650+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "peteromallet",
-      "item_name": "dataclaw-peteromallet",
-      "downloads": 4896,
-      "likes": 263,
-      "last_modified": "2026-02-25T16:14:13.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "2292d64f60c6a6a558cd7d936b8e0cb4",
     "source": "huggingface",
     "type": "dataset",
     "title": "togethercomputer/CoderForge-Preview",
-    "description": "Downloads: 8,413<br/>Likes: 121",
+    "description": "Downloads: 9,138<br/>Likes: 130",
     "url": "https://huggingface.co/datasets/togethercomputer/CoderForge-Preview",
-    "published_date": "2026-03-04T11:50:31.613670+00:00",
+    "published_date": "2026-03-05T11:53:41.788032+00:00",
     "categories": [],
     "metadata": {
       "author": "togethercomputer",
       "item_name": "CoderForge-Preview",
-      "downloads": 8413,
-      "likes": 121,
+      "downloads": 9138,
+      "likes": 130,
       "last_modified": "2026-02-26T18:22:08.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "451d43a0c8524966d21953d62b385abc",
+    "id": "016810cbb9a3594b472a0fa0b25d8f46",
     "source": "huggingface",
     "type": "dataset",
-    "title": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "description": "Downloads: 2,022<br/>Likes: 231",
-    "url": "https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "published_date": "2026-03-04T11:50:31.613676+00:00",
+    "title": "peteromallet/dataclaw-peteromallet",
+    "description": "Downloads: 8,294<br/>Likes: 273",
+    "url": "https://huggingface.co/datasets/peteromallet/dataclaw-peteromallet",
+    "published_date": "2026-03-05T11:53:41.788044+00:00",
     "categories": [],
     "metadata": {
-      "author": "nohurry",
-      "item_name": "Opus-4.6-Reasoning-3000x-filtered",
-      "downloads": 2022,
-      "likes": 231,
-      "last_modified": "2026-02-10T13:06:40.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ce47209970a942f3de66dbb29c58e6c7",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "nvidia/Nemotron-Terminal-Corpus",
-    "description": "Downloads: 744<br/>Likes: 58",
-    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Terminal-Corpus",
-    "published_date": "2026-03-04T11:50:31.613682+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Nemotron-Terminal-Corpus",
-      "downloads": 744,
-      "likes": 58,
-      "last_modified": "2026-02-27T22:37:57.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3abe74ffea1eef78c46d672c60a62210",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "crownelius/Opus-4.6-Reasoning-3300x",
-    "description": "Downloads: 565<br/>Likes: 80",
-    "url": "https://huggingface.co/datasets/crownelius/Opus-4.6-Reasoning-3300x",
-    "published_date": "2026-03-04T11:50:31.613687+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "crownelius",
-      "item_name": "Opus-4.6-Reasoning-3300x",
-      "downloads": 565,
-      "likes": 80,
-      "last_modified": "2026-03-02T05:37:24.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e72182f2c1a420de748cc789c7f23d7f",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "LocoreMind/qwen3.5-27b-cli-reasoning-3632x",
-    "description": "Downloads: 594<br/>Likes: 51",
-    "url": "https://huggingface.co/datasets/LocoreMind/qwen3.5-27b-cli-reasoning-3632x",
-    "published_date": "2026-03-04T11:50:31.613692+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "LocoreMind",
-      "item_name": "qwen3.5-27b-cli-reasoning-3632x",
-      "downloads": 594,
-      "likes": 51,
-      "last_modified": "2026-02-28T12:33:39.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "334050689d3608f313fb49700ab79b5d",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ronantakizawa/github-top-code",
-    "description": "Downloads: 1,077<br/>Likes: 108",
-    "url": "https://huggingface.co/datasets/ronantakizawa/github-top-code",
-    "published_date": "2026-03-04T11:50:31.613697+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ronantakizawa",
-      "item_name": "github-top-code",
-      "downloads": 1077,
-      "likes": 108,
-      "last_modified": "2026-02-23T01:41:46.000Z",
+      "author": "peteromallet",
+      "item_name": "dataclaw-peteromallet",
+      "downloads": 8294,
+      "likes": 273,
+      "last_modified": "2026-02-25T16:14:13.000Z",
       "all_tags": []
     }
   },
@@ -130,34 +40,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "TuringEnterprises/Open-RL",
-    "description": "Downloads: 4<br/>Likes: 41",
+    "description": "Downloads: 311<br/>Likes: 100",
     "url": "https://huggingface.co/datasets/TuringEnterprises/Open-RL",
-    "published_date": "2026-03-04T11:50:31.613702+00:00",
+    "published_date": "2026-03-05T11:53:41.788051+00:00",
     "categories": [],
     "metadata": {
       "author": "TuringEnterprises",
       "item_name": "Open-RL",
-      "downloads": 4,
-      "likes": 41,
+      "downloads": 311,
+      "likes": 100,
       "last_modified": "2026-03-04T11:24:40.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "cff99bbc147f277a24b59dad049846c5",
+    "id": "451d43a0c8524966d21953d62b385abc",
     "source": "huggingface",
     "type": "dataset",
-    "title": "GD-ML/GenMRP",
-    "description": "Downloads: 610<br/>Likes: 40",
-    "url": "https://huggingface.co/datasets/GD-ML/GenMRP",
-    "published_date": "2026-03-04T11:50:31.613707+00:00",
+    "title": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
+    "description": "Downloads: 2,470<br/>Likes: 244",
+    "url": "https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered",
+    "published_date": "2026-03-05T11:53:41.788057+00:00",
     "categories": [],
     "metadata": {
-      "author": "GD-ML",
-      "item_name": "GenMRP",
-      "downloads": 610,
-      "likes": 40,
-      "last_modified": "2026-02-08T13:39:59.000Z",
+      "author": "nohurry",
+      "item_name": "Opus-4.6-Reasoning-3000x-filtered",
+      "downloads": 2470,
+      "likes": 244,
+      "last_modified": "2026-02-10T13:06:40.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3abe74ffea1eef78c46d672c60a62210",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "crownelius/Opus-4.6-Reasoning-3300x",
+    "description": "Downloads: 808<br/>Likes: 92",
+    "url": "https://huggingface.co/datasets/crownelius/Opus-4.6-Reasoning-3300x",
+    "published_date": "2026-03-05T11:53:41.788062+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "crownelius",
+      "item_name": "Opus-4.6-Reasoning-3300x",
+      "downloads": 808,
+      "likes": 92,
+      "last_modified": "2026-03-02T05:37:24.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "ce47209970a942f3de66dbb29c58e6c7",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nvidia/Nemotron-Terminal-Corpus",
+    "description": "Downloads: 1,352<br/>Likes: 69",
+    "url": "https://huggingface.co/datasets/nvidia/Nemotron-Terminal-Corpus",
+    "published_date": "2026-03-05T11:53:41.788072+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-Terminal-Corpus",
+      "downloads": 1352,
+      "likes": 69,
+      "last_modified": "2026-02-27T22:37:57.000Z",
       "all_tags": []
     }
   },
@@ -166,106 +112,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "bigcode/the-stack-v2",
-    "description": "Downloads: 8,948<br/>Likes: 510",
+    "description": "Downloads: 8,684<br/>Likes: 514",
     "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
-    "published_date": "2026-03-04T11:50:31.613712+00:00",
+    "published_date": "2026-03-05T11:53:41.788077+00:00",
     "categories": [],
     "metadata": {
       "author": "bigcode",
       "item_name": "the-stack-v2",
-      "downloads": 8948,
-      "likes": 510,
+      "downloads": 8684,
+      "likes": 514,
       "last_modified": "2024-04-23T15:52:32.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "34d151a1dcc2d3315910c555f1baf94e",
+    "id": "334050689d3608f313fb49700ab79b5d",
     "source": "huggingface",
     "type": "dataset",
-    "title": "GD-ML/CCN",
-    "description": "Downloads: 581<br/>Likes: 36",
-    "url": "https://huggingface.co/datasets/GD-ML/CCN",
-    "published_date": "2026-03-04T11:50:31.613717+00:00",
+    "title": "ronantakizawa/github-top-code",
+    "description": "Downloads: 1,543<br/>Likes: 113",
+    "url": "https://huggingface.co/datasets/ronantakizawa/github-top-code",
+    "published_date": "2026-03-05T11:53:41.788081+00:00",
     "categories": [],
     "metadata": {
-      "author": "GD-ML",
-      "item_name": "CCN",
-      "downloads": 581,
-      "likes": 36,
-      "last_modified": "2026-02-08T13:35:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "2b593715256a3bb231ff278dcdb51c52",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Video-Reason/VBVR-Dataset",
-    "description": "Downloads: 1,433<br/>Likes: 40",
-    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
-    "published_date": "2026-03-04T11:50:31.613721+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Video-Reason",
-      "item_name": "VBVR-Dataset",
-      "downloads": 1433,
-      "likes": 40,
-      "last_modified": "2026-02-27T20:46:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e736998ad55a1ff3de8ebff3ad79f846",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "AudioVisual-Caption/ASID-1M",
-    "description": "Downloads: 237<br/>Likes: 32",
-    "url": "https://huggingface.co/datasets/AudioVisual-Caption/ASID-1M",
-    "published_date": "2026-03-04T11:50:31.613726+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "AudioVisual-Caption",
-      "item_name": "ASID-1M",
-      "downloads": 237,
-      "likes": 32,
-      "last_modified": "2026-03-04T05:45:00.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8e4a16030d93033898c8b670e1bd95e8",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "GD-ML/SCASRec",
-    "description": "Downloads: 1,358<br/>Likes: 29",
-    "url": "https://huggingface.co/datasets/GD-ML/SCASRec",
-    "published_date": "2026-03-04T11:50:31.613730+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "GD-ML",
-      "item_name": "SCASRec",
-      "downloads": 1358,
-      "likes": 29,
-      "last_modified": "2026-02-25T12:27:08.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0765edd6210d3fa92788b36d646ddf85",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Goedel-LM/SFT_dataset_v2",
-    "description": "Downloads: 395<br/>Likes: 27",
-    "url": "https://huggingface.co/datasets/Goedel-LM/SFT_dataset_v2",
-    "published_date": "2026-03-04T11:50:31.613739+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Goedel-LM",
-      "item_name": "SFT_dataset_v2",
-      "downloads": 395,
-      "likes": 27,
-      "last_modified": "2026-03-02T19:27:28.000Z",
+      "author": "ronantakizawa",
+      "item_name": "github-top-code",
+      "downloads": 1543,
+      "likes": 113,
+      "last_modified": "2026-02-23T01:41:46.000Z",
       "all_tags": []
     }
   },
@@ -274,70 +148,88 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "BytedTsinghua-SIA/CUDA-Agent-Ops-6K",
-    "description": "Downloads: 62<br/>Likes: 27",
+    "description": "Downloads: 174<br/>Likes: 37",
     "url": "https://huggingface.co/datasets/BytedTsinghua-SIA/CUDA-Agent-Ops-6K",
-    "published_date": "2026-03-04T11:50:31.613743+00:00",
+    "published_date": "2026-03-05T11:53:41.788086+00:00",
     "categories": [],
     "metadata": {
       "author": "BytedTsinghua-SIA",
       "item_name": "CUDA-Agent-Ops-6K",
-      "downloads": 62,
-      "likes": 27,
+      "downloads": 174,
+      "likes": 37,
       "last_modified": "2026-02-27T19:56:56.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "f218daeb9175ead59b189aaf6779fb42",
+    "id": "e736998ad55a1ff3de8ebff3ad79f846",
     "source": "huggingface",
     "type": "dataset",
-    "title": "skylenage/DeepVision-103K",
-    "description": "Downloads: 1,847<br/>Likes: 29",
-    "url": "https://huggingface.co/datasets/skylenage/DeepVision-103K",
-    "published_date": "2026-03-04T11:50:31.613748+00:00",
+    "title": "AudioVisual-Caption/ASID-1M",
+    "description": "Downloads: 621<br/>Likes: 39",
+    "url": "https://huggingface.co/datasets/AudioVisual-Caption/ASID-1M",
+    "published_date": "2026-03-05T11:53:41.788090+00:00",
     "categories": [],
     "metadata": {
-      "author": "skylenage",
-      "item_name": "DeepVision-103K",
-      "downloads": 1847,
+      "author": "AudioVisual-Caption",
+      "item_name": "ASID-1M",
+      "downloads": 621,
+      "likes": 39,
+      "last_modified": "2026-03-04T05:45:00.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "2b593715256a3bb231ff278dcdb51c52",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Video-Reason/VBVR-Dataset",
+    "description": "Downloads: 1,799<br/>Likes: 40",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "published_date": "2026-03-05T11:53:41.788095+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Video-Reason",
+      "item_name": "VBVR-Dataset",
+      "downloads": 1799,
+      "likes": 40,
+      "last_modified": "2026-02-27T20:46:01.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cff99bbc147f277a24b59dad049846c5",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "GD-ML/GenMRP",
+    "description": "Downloads: 627<br/>Likes: 44",
+    "url": "https://huggingface.co/datasets/GD-ML/GenMRP",
+    "published_date": "2026-03-05T11:53:41.788099+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "GD-ML",
+      "item_name": "GenMRP",
+      "downloads": 627,
+      "likes": 44,
+      "last_modified": "2026-02-08T13:39:59.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0765edd6210d3fa92788b36d646ddf85",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Goedel-LM/SFT_dataset_v2",
+    "description": "Downloads: 440<br/>Likes: 29",
+    "url": "https://huggingface.co/datasets/Goedel-LM/SFT_dataset_v2",
+    "published_date": "2026-03-05T11:53:41.788104+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Goedel-LM",
+      "item_name": "SFT_dataset_v2",
+      "downloads": 440,
       "likes": 29,
-      "last_modified": "2026-02-26T15:46:28.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3d295a9ab42486b2add51ce270c17d0b",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Roman1111111/gemini-3-pro-10000x-hard-high-reasoning",
-    "description": "Downloads: 432<br/>Likes: 27",
-    "url": "https://huggingface.co/datasets/Roman1111111/gemini-3-pro-10000x-hard-high-reasoning",
-    "published_date": "2026-03-04T11:50:31.613753+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Roman1111111",
-      "item_name": "gemini-3-pro-10000x-hard-high-reasoning",
-      "downloads": 432,
-      "likes": 27,
-      "last_modified": "2026-02-20T03:49:27.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "384c4987d529b54a5332482b12faf7cf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "cais/hle",
-    "description": "Downloads: 42,919<br/>Likes: 735",
-    "url": "https://huggingface.co/datasets/cais/hle",
-    "published_date": "2026-03-04T11:50:31.613759+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "cais",
-      "item_name": "hle",
-      "downloads": 42919,
-      "likes": 735,
-      "last_modified": "2026-01-20T22:42:17.000Z",
+      "last_modified": "2026-03-02T19:27:28.000Z",
       "all_tags": []
     }
   },
@@ -346,16 +238,124 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "AweAI-Team/Scale-SWE",
-    "description": "Downloads: 273<br/>Likes: 20",
+    "description": "Downloads: 744<br/>Likes: 24",
     "url": "https://huggingface.co/datasets/AweAI-Team/Scale-SWE",
-    "published_date": "2026-03-04T11:50:31.613764+00:00",
+    "published_date": "2026-03-05T11:53:41.788108+00:00",
     "categories": [],
     "metadata": {
       "author": "AweAI-Team",
       "item_name": "Scale-SWE",
-      "downloads": 273,
+      "downloads": 744,
+      "likes": 24,
+      "last_modified": "2026-03-05T04:50:13.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "34d151a1dcc2d3315910c555f1baf94e",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "GD-ML/CCN",
+    "description": "Downloads: 666<br/>Likes: 38",
+    "url": "https://huggingface.co/datasets/GD-ML/CCN",
+    "published_date": "2026-03-05T11:53:41.788114+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "GD-ML",
+      "item_name": "CCN",
+      "downloads": 666,
+      "likes": 38,
+      "last_modified": "2026-02-08T13:35:55.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f218daeb9175ead59b189aaf6779fb42",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "skylenage/DeepVision-103K",
+    "description": "Downloads: 2,565<br/>Likes: 30",
+    "url": "https://huggingface.co/datasets/skylenage/DeepVision-103K",
+    "published_date": "2026-03-05T11:53:41.788119+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "skylenage",
+      "item_name": "DeepVision-103K",
+      "downloads": 2565,
+      "likes": 30,
+      "last_modified": "2026-02-26T15:46:28.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e07481cce86c0928982adf76ffbb16fc",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "nebius/SWE-rebench-V2",
+    "description": "Downloads: 229<br/>Likes: 21",
+    "url": "https://huggingface.co/datasets/nebius/SWE-rebench-V2",
+    "published_date": "2026-03-05T11:53:41.788123+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nebius",
+      "item_name": "SWE-rebench-V2",
+      "downloads": 229,
+      "likes": 21,
+      "last_modified": "2026-03-03T09:41:19.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "4f3ff2487fef716f95197e5519de9923",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "OmniLottie/MMLottie-2M",
+    "description": "Downloads: 68<br/>Likes: 20",
+    "url": "https://huggingface.co/datasets/OmniLottie/MMLottie-2M",
+    "published_date": "2026-03-05T11:53:41.788127+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "OmniLottie",
+      "item_name": "MMLottie-2M",
+      "downloads": 68,
       "likes": 20,
-      "last_modified": "2026-02-27T05:39:32.000Z",
+      "last_modified": "2026-03-03T05:56:44.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "e6e3ec6f16a7268aff6b4cde14e99a07",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "description": "Downloads: 5,813<br/>Likes: 310",
+    "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
+    "published_date": "2026-03-05T11:53:41.788132+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "TeichAI",
+      "item_name": "claude-4.5-opus-high-reasoning-250x",
+      "downloads": 5813,
+      "likes": 310,
+      "last_modified": "2025-11-28T03:02:41.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3d295a9ab42486b2add51ce270c17d0b",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Roman1111111/gemini-3-pro-10000x-hard-high-reasoning",
+    "description": "Downloads: 523<br/>Likes: 30",
+    "url": "https://huggingface.co/datasets/Roman1111111/gemini-3-pro-10000x-hard-high-reasoning",
+    "published_date": "2026-03-05T11:53:41.788137+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Roman1111111",
+      "item_name": "gemini-3-pro-10000x-hard-high-reasoning",
+      "downloads": 523,
+      "likes": 30,
+      "last_modified": "2026-02-20T03:49:27.000Z",
       "all_tags": []
     }
   }
