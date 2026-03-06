@@ -27,6 +27,7 @@ Ready-to-use XML feeds for RSS readers:
 | [AWS AI Blog](https://aws.amazon.com/blogs/machine-learning/) | [AWS AI Blog feed](https://aws.amazon.com/blogs/machine-learning/feed/) | N/A |
 | [AWS AI News](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/) | [AWS AI News feed](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed/) | N/A |
 | [Microsoft AI Blog](https://www.microsoft.com/en-us/ai/blog/) | [Microsoft AI Blog feed](https://www.microsoft.com/en-us/ai/blog/feed/) | N/A |
+| [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/) | [Microsoft Research Blog feed](https://www.microsoft.com/en-us/research/feed/) | N/A |
 | [NVIDIA Blog](https://blogs.nvidia.com/) | [NVIDIA Blog feed](https://blogs.nvidia.com/feed/) | N/A |
 | [Apple ML Blog](https://machinelearning.apple.com/) | [Apple ML Blog feed](https://machinelearning.apple.com/rss.xml) | N/A |
 | [DeepSeek News](https://api-docs.deepseek.com/) | N/A | [deepseek_news.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/deepseek_news.xml) |
