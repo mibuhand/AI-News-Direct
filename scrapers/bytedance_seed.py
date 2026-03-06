@@ -80,16 +80,25 @@ def parse_and_save(router_data):
     output_files = config['output_files']
 
     # Determine page type
+    # Note: public_papers in URL maps to 'research' output type
     if any('blog' in ky for ky in router_data['loaderData'].keys()):
         page_type = 'blog'
-    elif any('research' in ky for ky in router_data['loaderData'].keys()):
-        page_type = 'research'
+    elif any('public_papers' in ky for ky in router_data['loaderData'].keys()):
+        page_type = 'public_papers'
     else:
         logging.error("Unknown page type")
         return
 
     article_list = []
-    loader_data_key = f'(locale$)/{page_type}/page'
+    
+    # Handle different key patterns: blog uses '/page', public_papers uses '/layout'
+    if page_type == 'blog':
+        loader_data_key = '(locale$)/blog/page'
+    elif page_type == 'public_papers':
+        loader_data_key = '(locale$)/public_papers/layout'
+    else:
+        logging.error(f"Unsupported page type: {page_type}")
+        return
 
     if loader_data_key not in router_data['loaderData']:
         logging.error(f"Loader data key {loader_data_key} not found")
@@ -99,8 +108,11 @@ def parse_and_save(router_data):
         # Extract basic data
         title_en = article['ArticleSubContentEn'].get('Title', '')
         title_zh = article['ArticleSubContentZh'].get('Title', '') if 'ArticleSubContentZh' in article else ''
-        url_en = base_url + f'en/{page_type}/' + article['ArticleSubContentEn'].get('TitleKey', '')
-        url_zh = base_url + f'zh/{page_type}/' + article['ArticleSubContentZh'].get('TitleKey', '') if 'ArticleSubContentZh' in article else ''
+        
+        # Determine URL path based on page type (public_papers uses 'public_papers' in URL)
+        url_path = 'public_papers' if page_type == 'public_papers' else page_type
+        url_en = base_url + f'en/{url_path}/' + article['ArticleSubContentEn'].get('TitleKey', '')
+        url_zh = base_url + f'zh/{url_path}/' + article['ArticleSubContentZh'].get('TitleKey', '') if 'ArticleSubContentZh' in article else ''
         abstract_en = article['ArticleSubContentEn'].get('Abstract', '')
         abstract_zh = article['ArticleSubContentZh'].get('Abstract', '') if 'ArticleSubContentZh' in article else ''
         
@@ -126,22 +138,26 @@ def parse_and_save(router_data):
         
         # Prepare metadata
         metadata = {}
-        if page_type == 'research':
+        # public_papers contains research-type content with author, journal, etc.
+        if page_type == 'public_papers':
             metadata['author'] = article['ArticleMeta'].get('Author', '')
             metadata['journal'] = article['ArticleMeta'].get('Journal', '')
             metadata['work_team'] = [team.get('Name', '') for team in article['ArticleMeta'].get('WorkingTeam', [])]
         
         # External URL
         external_url = ''
-        if page_type == 'research':
+        if page_type == 'public_papers':
             external_links = article['ArticleMeta'].get('ExternalLinks', [])
             external_url = external_links[0].get('Link', '') if external_links else ''
+        
+        # Determine output type: public_papers maps to 'research' for consistency
+        output_type = 'research' if page_type == 'public_papers' else page_type
         
         # Create standardized article data
         article_data = {
             'id': item_id,
             'source': 'bytedance_seed',
-            'type': page_type,
+            'type': output_type,
             'title': title_en,
             'description': abstract_en,
             'url': url_en,
@@ -180,8 +196,10 @@ def parse_and_save(router_data):
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
     # Dump as json file using config-driven filename
+    # Map public_papers to research key in config
+    config_key = 'research' if page_type == 'public_papers' else page_type
     try:
-        filename = output_files.get(page_type, f'bytedance_seed_{page_type}.json')
+        filename = output_files.get(config_key, f'bytedance_seed_{config_key}.json')
         json_path = parsed_dir / filename
         with open(json_path, 'w') as f:
             json.dump(dedup_list, f, indent=4)

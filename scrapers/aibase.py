@@ -170,12 +170,12 @@ def extract_daily_news_from_html(soup):
             if not published_date:
                 published_date = datetime.now(timezone.utc).isoformat()
             
-            # Generate unique ID
+            # Generate unique ID - using only stable content (title and url) without dates
+            # to ensure the ID remains consistent across fetches even when dates change
             id_components = [
                 "aibase",
                 title,
-                url,
-                published_date
+                url
             ]
             item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
             

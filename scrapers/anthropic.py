@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 from pathlib import Path
 import logging
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import codecs
 from dateutil import parser
 import hashlib
@@ -189,7 +189,15 @@ def _create_post_item(post, title_element, date_element, base_url, page_type, so
     if not title:
         return None
         
-    url = str(base_url) + str(post['href'])
+    # Handle URL construction - href contains full path like 'engineering/article-slug'
+    # We need to extract just the article slug to avoid duplication
+    href = str(post['href'])
+    # Get the last part of the path (the article slug)
+    if '/' in href:
+        slug = href.split('/')[-1]
+    else:
+        slug = href
+    url = str(base_url).rstrip('/') + '/' + slug
     
     # Handle date extraction with error handling
     published_date = None
@@ -205,12 +213,12 @@ def _create_post_item(post, title_element, date_element, base_url, page_type, so
     if not published_date:
         published_date = datetime.now(timezone.utc).isoformat()
     
-    # Generate unique ID using high-cardinality fields
+    # Generate unique ID using stable content (title and url) without dates
+    # to ensure the ID remains consistent across fetches even when dates change
     id_components = [
         "anthropic",
         title,
-        url,
-        published_date
+        url
     ]
     item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
     
@@ -245,6 +253,55 @@ def save_to_json(post_items, filename):
                 pass
         return datetime.min.replace(tzinfo=timezone.utc)
     
+    dedup_list.sort(key=get_date_for_sorting, reverse=True)
+    
+    # Find the latest valid date among posts and create fallback for missing dates
+    # A valid date is one that is NOT the current time (i.e., it was actually parsed from the page)
+    def is_valid_date(item):
+        """Check if the date is a valid parsed date (not the current datetime fallback)"""
+        date_str = item.get('published_date', '')
+        if not date_str:
+            return False
+        try:
+            dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            # Consider it invalid if it's very close to now (within 1 minute)
+            # This indicates it was set as the current datetime fallback
+            now = datetime.now(timezone.utc)
+            # If the date is within the last minute, it's likely a fallback
+            if (now - dt).total_seconds() < 60:
+                return False
+            return True
+        except:
+            return False
+    
+    # Get all valid dates
+    valid_dates = []
+    for item in dedup_list:
+        if is_valid_date(item):
+            try:
+                dt = datetime.fromisoformat(item['published_date'].replace('Z', '+00:00'))
+                valid_dates.append(dt)
+            except:
+                pass
+    
+    # Calculate fallback date: latest valid date + 1 day
+    fallback_date = None
+    if valid_dates:
+        latest_date = max(valid_dates)
+        fallback_date = (latest_date + timedelta(days=1)).replace(tzinfo=timezone.utc)
+        logging.info(f"Found {len(valid_dates)} posts with valid dates, latest: {latest_date.date()}, fallback: {fallback_date.date()}")
+    else:
+        # No valid dates found, use current date as last resort
+        fallback_date = datetime.now(timezone.utc)
+        logging.warning("No valid dates found, using current date as fallback")
+    
+    # Apply fallback date to posts without valid dates
+    for item in dedup_list:
+        if not is_valid_date(item):
+            item['published_date'] = fallback_date.isoformat()
+            logging.info(f"Applied fallback date to: {item.get('title', 'Unknown')[:50]}...")
+    
+    # Re-sort after applying fallback dates
     dedup_list.sort(key=get_date_for_sorting, reverse=True)
 
     # Determine page type and get config-driven filename

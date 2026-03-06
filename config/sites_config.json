@@ -3,14 +3,14 @@
         "site": "https://seed.bytedance.com/en",
         "organization_key": "bytedance",
         "favicon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico",
-        "pages": ["blog", "research"],
+        "pages": ["blog", "public_papers"],
         "output_files": {
             "blog": "bytedance_seed_blog.json",
-            "research": "bytedance_seed_research.json"
+            "public_papers": "bytedance_seed_research.json"
         },
         "cache_files": {
             "blog": "bytedance_seed_blog.html",
-            "research": "bytedance_seed_research.html"
+            "public_papers": "bytedance_seed_research.html"
         }
     },
     
