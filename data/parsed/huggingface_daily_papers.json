@@ -764,7 +764,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 35<br/>GitHub Stars: 15890<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 36<br/>GitHub Stars: 15890<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -774,7 +774,7 @@
     ],
     "metadata": {
       "paper_id": "2603.00729",
-      "upvotes": 35,
+      "upvotes": 36,
       "github_stars": 15890,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
@@ -822,7 +822,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
-    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2685<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
+    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2687<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15989",
     "external_url": "https://github.com/facebookresearch/sam-3d-body",
     "published_date": "2026-02-17T15:26:37.000Z",
@@ -833,7 +833,7 @@
     "metadata": {
       "paper_id": "2602.15989",
       "upvotes": 11,
-      "github_stars": 2685,
+      "github_stars": 2687,
       "github_url": "https://github.com/facebookresearch/sam-3d-body",
       "project_url": "https://ai.meta.com/research/sam3d/",
       "authors": [
@@ -879,7 +879,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
-    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 96<br/>GitHub Stars: 2658<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
+    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 96<br/>GitHub Stars: 2664<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.04634",
     "external_url": "https://github.com/RLinf/RLinf",
     "published_date": "2026-02-04T10:05:12.000Z",
@@ -890,7 +890,7 @@
     "metadata": {
       "paper_id": "2602.04634",
       "upvotes": 96,
-      "github_stars": 2658,
+      "github_stars": 2664,
       "github_url": "https://github.com/RLinf/RLinf",
       "project_url": "https://wideseek-r1.github.io/",
       "authors": [
@@ -987,7 +987,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "dLLM: Simple Diffusion Language Modeling",
-    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 114<br/>GitHub Stars: 2114<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
+    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 115<br/>GitHub Stars: 2114<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.22661",
     "external_url": "https://github.com/ZHZisZZ/dllm",
     "published_date": "2026-02-26T01:26:02.000Z",
@@ -997,7 +997,7 @@
     ],
     "metadata": {
       "paper_id": "2602.22661",
-      "upvotes": 114,
+      "upvotes": 115,
       "github_stars": 2114,
       "github_url": "https://github.com/ZHZisZZ/dllm",
       "project_url": "https://github.com/ZHZisZZ/dllm",
