@@ -41,13 +41,13 @@ def load_html(filename):
             html_content = file.read()
     except FileNotFoundError:
         logging.error(f"File not found: {file_path}")
-        return None
+        return None, None
     except Exception as e:
         logging.error(f"Error reading file {file_path}: {e}")
-        return None
+        return None, None
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    return soup
+    return soup, html_content
 
 def parse_relative_time(time_str):
     """Parse relative time strings like '8 小时前' or '2 天前' into ISO format"""
@@ -55,6 +55,17 @@ def parse_relative_time(time_str):
         return None
     
     time_str = time_str.strip()
+    
+    # Handle "刚刚" (just now)
+    if '刚刚' in time_str:
+        return datetime.now(timezone.utc).isoformat()
+    
+    # Handle "X 分钟前" (X minutes ago)
+    minutes_match = re.search(r'(\d+)\s*分钟前', time_str)
+    if minutes_match:
+        minutes = int(minutes_match.group(1))
+        dt = datetime.now(timezone.utc) - timedelta(minutes=minutes)
+        return dt.isoformat()
     
     # Handle "X 小时前" (X hours ago)
     hours_match = re.search(r'(\d+)\s*小时前', time_str)
@@ -68,6 +79,16 @@ def parse_relative_time(time_str):
     if days_match:
         days = int(days_match.group(1))
         dt = datetime.now(timezone.utc) - timedelta(days=days)
+        return dt.isoformat()
+    
+    # Handle "前天" (day before yesterday)
+    if '前天' in time_str:
+        dt = datetime.now(timezone.utc) - timedelta(days=2)
+        return dt.isoformat()
+    
+    # Handle "昨天" (yesterday)
+    if '昨天' in time_str:
+        dt = datetime.now(timezone.utc) - timedelta(days=1)
         return dt.isoformat()
     
     # Handle date format like "02-13"
@@ -91,7 +112,7 @@ def parse_relative_time(time_str):
     
     return None
 
-def extract_daily_news_from_html(soup):
+def extract_daily_news_from_html(soup, html_content):
     """Extract AI daily news from HTML structure"""
     articles = []
     
@@ -133,17 +154,32 @@ def extract_daily_news_from_html(soup):
                 if len(parts) > 1:
                     cleaned_description = parts[1].strip()
             
-            # Extract date/time info - the date is in a div containing an icon-rili <i> element
+            # Extract date/time info - try to get from JSON data first, then fall back to icon-rili
             published_date = None
-            # Find the icon element
-            date_icon = link.find('i', class_=lambda x: x and 'icon-rili' in str(x))
-            if date_icon:
-                # Get the parent div and extract text
-                date_div = date_icon.find_parent('div')
-                if date_div:
-                    # Get text content, excluding the icon element
-                    date_text = date_div.get_text(strip=True)
-                    published_date = parse_relative_time(date_text)
+            
+            # Method 1: Try to extract createTime from the page's embedded JSON data
+            # Look for the oid in the JSON data structure
+            if oid:
+                # The page contains JSON with createTime for each item
+                # Pattern: "oid":26000,"createTime":"2026-03-06 15:47:00"
+                json_pattern = f'"oid":{oid}.*?"createTime":"([^"]+)"'
+                json_match = re.search(json_pattern, html_content)
+                if json_match:
+                    create_time_str = json_match.group(1)
+                    try:
+                        dt = datetime.strptime(create_time_str, '%Y-%m-%d %H:%M:%S')
+                        published_date = dt.replace(tzinfo=timezone.utc).isoformat()
+                    except ValueError:
+                        pass
+            
+            # Method 2: Fall back to parsing relative time from the display text
+            if not published_date:
+                date_icon = link.find('i', class_=lambda x: x and 'icon-rili' in str(x))
+                if date_icon:
+                    date_div = date_icon.find_parent('div')
+                    if date_div:
+                        date_text = date_div.get_text(strip=True)
+                        published_date = parse_relative_time(date_text)
             
             # Extract page views - the view count is in a div containing an icon-fangwenliang1 <i> element
             pv = 0
@@ -206,14 +242,14 @@ def extract_daily_news_from_html(soup):
     
     return articles
 
-def parse_aibase_html(soup):
+def parse_aibase_html(soup, html_content):
     """Parse the AIBase daily HTML to extract AI daily news"""
     if not soup:
         logging.error("No soup provided")
         return []
     
     # Extract news from HTML structure
-    articles = extract_daily_news_from_html(soup)
+    articles = extract_daily_news_from_html(soup, html_content)
     
     if not articles:
         logging.warning("No articles found in HTML structure")
@@ -267,9 +303,9 @@ if __name__ == "__main__":
         file_path = html_dir / cache_filename
         if file_path.exists():
             logging.info(f"Processing AIBase {page_type} file: {cache_filename}")
-            soup = load_html(cache_filename)
+            soup, html_content = load_html(cache_filename)
             if soup:
-                articles = parse_aibase_html(soup)
+                articles = parse_aibase_html(soup, html_content)
                 if articles:
                     save_to_json(articles, cache_filename)
                 else:
