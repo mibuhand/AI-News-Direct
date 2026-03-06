@@ -144,76 +144,11 @@
     }
   },
   {
-    "id": "60666ed538be4ebda8058b1f954547e6",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Green-VLA: Staged Vision-Language-Action Model for Generalist Robots",
-    "description": "We introduce Green-VLA, a staged Vision-Language-Action (VLA) framework for real-world deployment on the Green humanoid robot while maintaining generalization across diverse embodiments. Green-VLA fol...<br/>Upvotes: 308<br/>GitHub Stars: 39<br/>Authors: I. Apanasevich, M. Artemyev, R. Babakyan<br/>🔗 <a href=\"https://github.com/greenvla/GreenVLA\">GitHub</a><br/>🔗 <a href=\"https://greenvla.github.io\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.00919\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2602.00919",
-    "external_url": "https://github.com/greenvla/GreenVLA",
-    "published_date": "2026-01-31T17:13:23.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2602.00919",
-      "upvotes": 308,
-      "github_stars": 39,
-      "github_url": "https://github.com/greenvla/GreenVLA",
-      "project_url": "https://greenvla.github.io",
-      "authors": [
-        "I. Apanasevich",
-        "M. Artemyev",
-        "R. Babakyan",
-        "P. Fedotova",
-        "D. Grankin",
-        "E. Kupryashin",
-        "A. Misailidi",
-        "D. Nerus",
-        "A. Nutalapati",
-        "G. Sidorov",
-        "I. Efremov",
-        "M. Gerasyov",
-        "D. Pikurov",
-        "Y. Senchenko",
-        "S. Davidenko",
-        "D. Kulikov",
-        "M. Sultankin",
-        "K. Askarbek",
-        "O. Shamanin",
-        "D. Statovoy",
-        "E. Zalyaev",
-        "I. Zorin",
-        "A. Letkin",
-        "E. Rusakov",
-        "A. Silchenko",
-        "V. Vorobyov",
-        "S. Sobolnikov",
-        "A. Postnikov"
-      ],
-      "summary": "We introduce Green-VLA, a staged Vision-Language-Action (VLA) framework for real-world deployment on the Green humanoid robot while maintaining generalization across diverse embodiments. Green-VLA follows a five stage curriculum: (L0) foundational VLMs, (L1) multimodal grounding, (R0) multi-embodiment pretraining, (R1) embodiment-specific adaptation, and (R2) reinforcement-learning (RL) policy alignment. We couple a scalable data-processing pipeline (3,000 hours of demonstrations) with temporal alignment and quality filtering, and use a unified, embodiment-aware action interface enabling a single policy to control humanoids, mobile manipulators, and fixed-base arms. At inference, the VLA controller is enhanced with episode-progress prediction, out-of-distribution detection, and joint-prediction-based guidance to improve safety and precise target selection. Experiments on Simpler BRIDGE WidowX and CALVIN ABC-D, as well as real-robot evaluations, show strong generalization and performance gains from RL alignment in success rate, robustness, and long-horizon efficiency.",
-      "fetch_date": "2026-02-03",
-      "num_comments": 8,
-      "ai_summary": "Green-VLA is a five-stage vision-language-action framework for real-world robot deployment that achieves generalization across different robot embodiments through multimodal training and reinforcement learning.",
-      "ai_keywords": [
-        "Vision-Language-Action",
-        "multimodal grounding",
-        "multi-embodiment pretraining",
-        "embodiment-specific adaptation",
-        "reinforcement-learning",
-        "episode-progress prediction",
-        "out-of-distribution detection",
-        "joint-prediction-based guidance"
-      ]
-    }
-  },
-  {
     "id": "59257a8c7ec0c63e71909f450abc636c",
     "source": "huggingface",
     "type": "paper",
     "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
-    "description": "As post-training optimization becomes central to improving large language models, we observe a persistent saturation bottleneck: once models grow highly confident, further training yields diminishing ...<br/>Upvotes: 276<br/>GitHub Stars: 81<br/>Authors: Zehao Chen, Gongxun Li, Tianxiang Ai<br/>🔗 <a href=\"https://github.com/chenzehao82/Weak-Driven-Learning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.08222\">Hugging Face</a>",
+    "description": "As post-training optimization becomes central to improving large language models, we observe a persistent saturation bottleneck: once models grow highly confident, further training yields diminishing ...<br/>Upvotes: 277<br/>GitHub Stars: 82<br/>Authors: Zehao Chen, Gongxun Li, Tianxiang Ai<br/>🔗 <a href=\"https://github.com/chenzehao82/Weak-Driven-Learning\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.08222\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.08222",
     "external_url": "https://github.com/chenzehao82/Weak-Driven-Learning",
     "published_date": "2026-02-08T21:50:40.000Z",
@@ -223,8 +158,8 @@
     ],
     "metadata": {
       "paper_id": "2602.08222",
-      "upvotes": 276,
-      "github_stars": 81,
+      "upvotes": 277,
+      "github_stars": 82,
       "github_url": "https://github.com/chenzehao82/Weak-Driven-Learning",
       "project_url": "",
       "authors": [
@@ -767,7 +702,7 @@
       ],
       "summary": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
       "fetch_date": "2026-02-23",
-      "num_comments": 8,
+      "num_comments": 9,
       "ai_summary": "Large reasoning models can implicitly determine optimal stopping points for thinking, which SAGE-RL enhances by incorporating efficient reasoning patterns into pass@1 inference for improved accuracy and efficiency.",
       "ai_keywords": [
         "large reasoning models",
@@ -781,11 +716,55 @@
     }
   },
   {
+    "id": "6752926501a77920d0fc0489405fae26",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
+    "description": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity usi...<br/>Upvotes: 240<br/>GitHub Stars: 148<br/>Authors: Zhongzhi Li, Xuansheng Wu, Yijiang Li<br/>🔗 <a href=\"https://github.com/Zhongzhi660/FAC-Synthesis\">GitHub</a><br/>🔗 <a href=\"https://website-sigma-three-35.vercel.app/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.10388\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2602.10388",
+    "external_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
+    "published_date": "2026-02-10T19:23:13.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2602.10388",
+      "upvotes": 240,
+      "github_stars": 148,
+      "github_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
+      "project_url": "https://website-sigma-three-35.vercel.app/",
+      "authors": [
+        "Zhongzhi Li",
+        "Xuansheng Wu",
+        "Yijiang Li",
+        "Lijie Hu",
+        "Ninghao Liu"
+      ],
+      "summary": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity using text-based metrics that capture linguistic variation, but such metrics provide only weak signals for the task-relevant features that determine downstream performance. In this work, we introduce Feature Activation Coverage (FAC) which measures data diversity in an interpretable feature space. Building upon this metric, we further propose a diversity-driven data synthesis framework, named FAC Synthesis, that first uses a sparse autoencoder to identify missing features from a seed dataset, and then generates synthetic samples that explicitly reflect these features. Experiments show that our approach consistently improves both data diversity and downstream performance on various tasks, including instruction following, toxicity detection, reward modeling, and behavior steering. Interestingly, we identify a shared, interpretable feature space across model families (i.e., LLaMA, Mistral, and Qwen), enabling cross-model knowledge transfer. Our work provides a solid and practical methodology for exploring data-centric optimization of LLMs.",
+      "fetch_date": "2026-02-16",
+      "num_comments": 5,
+      "ai_summary": "Feature Activation Coverage measures data diversity in an interpretable feature space and enables diversity-driven data synthesis that improves downstream performance across multiple language model architectures.",
+      "ai_keywords": [
+        "Feature Activation Coverage",
+        "sparse autoencoder",
+        "data diversity",
+        "downstream performance",
+        "instruction following",
+        "toxicity detection",
+        "reward modeling",
+        "behavior steering",
+        "cross-model knowledge transfer",
+        "data-centric optimization"
+      ]
+    }
+  },
+  {
     "id": "aaf39b394deb2ee42c2755c549da6dd8",
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 31<br/>GitHub Stars: 15866<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 35<br/>GitHub Stars: 15890<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -795,8 +774,8 @@
     ],
     "metadata": {
       "paper_id": "2603.00729",
-      "upvotes": 31,
-      "github_stars": 15866,
+      "upvotes": 35,
+      "github_stars": 15890,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
       "authors": [
@@ -823,7 +802,7 @@
       ],
       "summary": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, enabling strong coding capability with efficient inference. In this work, we explore how far strong training recipes can push the capability limits of models with small parameter footprints. To achieve this, we perform agentic training through large-scale synthesis of verifiable coding tasks paired with executable environments, allowing learning directly from environment feedback via mid-training and reinforcement learning. Across agent-centric benchmarks including SWE-Bench and Terminal-Bench, Qwen3-Coder-Next achieves competitive performance relative to its active parameter count. We release both base and instruction-tuned open-weight versions to support research and real-world coding agent development.",
       "fetch_date": "2026-03-04",
-      "num_comments": 2,
+      "num_comments": 3,
       "ai_summary": "Qwen3-Coder-Next is an 80-billion-parameter language model that activates only 3 billion parameters during inference, achieving strong coding capabilities through agentic training with verifiable task synthesis and reinforcement learning.",
       "ai_keywords": [
         "language model",
@@ -843,7 +822,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
-    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2684<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
+    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2685<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15989",
     "external_url": "https://github.com/facebookresearch/sam-3d-body",
     "published_date": "2026-02-17T15:26:37.000Z",
@@ -854,7 +833,7 @@
     "metadata": {
       "paper_id": "2602.15989",
       "upvotes": 11,
-      "github_stars": 2684,
+      "github_stars": 2685,
       "github_url": "https://github.com/facebookresearch/sam-3d-body",
       "project_url": "https://ai.meta.com/research/sam3d/",
       "authors": [
@@ -900,7 +879,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
-    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 96<br/>GitHub Stars: 2638<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
+    "description": "Recent advancements in Large Language Models (LLMs) have largely focused on depth scaling, where a single agent solves long-horizon problems with multi-turn reasoning and tool use. However, as tasks g...<br/>Upvotes: 96<br/>GitHub Stars: 2658<br/>Authors: Zelai Xu, Zhexuan Xu, Ruize Zhang<br/>🔗 <a href=\"https://github.com/RLinf/RLinf\">GitHub</a><br/>🔗 <a href=\"https://wideseek-r1.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.04634\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.04634",
     "external_url": "https://github.com/RLinf/RLinf",
     "published_date": "2026-02-04T10:05:12.000Z",
@@ -911,7 +890,7 @@
     "metadata": {
       "paper_id": "2602.04634",
       "upvotes": 96,
-      "github_stars": 2638,
+      "github_stars": 2658,
       "github_url": "https://github.com/RLinf/RLinf",
       "project_url": "https://wideseek-r1.github.io/",
       "authors": [
@@ -947,7 +926,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
-    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 57<br/>GitHub Stars: 2385<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
+    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 57<br/>GitHub Stars: 2388<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.12099",
     "external_url": "https://github.com/open-gigaai/giga-brain-0",
     "published_date": "2026-02-12T10:55:19.000Z",
@@ -958,7 +937,7 @@
     "metadata": {
       "paper_id": "2602.12099",
       "upvotes": 57,
-      "github_stars": 2385,
+      "github_stars": 2388,
       "github_url": "https://github.com/open-gigaai/giga-brain-0",
       "project_url": "https://gigabrain05m.github.io/",
       "authors": [
@@ -1008,7 +987,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "dLLM: Simple Diffusion Language Modeling",
-    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 110<br/>GitHub Stars: 2080<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
+    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 114<br/>GitHub Stars: 2114<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.22661",
     "external_url": "https://github.com/ZHZisZZ/dllm",
     "published_date": "2026-02-26T01:26:02.000Z",
@@ -1018,8 +997,8 @@
     ],
     "metadata": {
       "paper_id": "2602.22661",
-      "upvotes": 110,
-      "github_stars": 2080,
+      "upvotes": 114,
+      "github_stars": 2114,
       "github_url": "https://github.com/ZHZisZZ/dllm",
       "project_url": "https://github.com/ZHZisZZ/dllm",
       "authors": [
@@ -1030,7 +1009,7 @@
       ],
       "summary": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases or lack transparent implementations, making them difficult to reproduce or extend. As the field accelerates, there is a clear need for a unified framework that standardizes these common components while remaining flexible enough to support new methods and architectures.\n  To address this gap, we introduce dLLM, an open-source framework that unifies the core components of diffusion language modeling -- training, inference, and evaluation -- and makes them easy to customize for new designs. With dLLM, users can reproduce, finetune, deploy, and evaluate open-source large DLMs such as LLaDA and Dream through a standardized pipeline. The framework also provides minimal, reproducible recipes for building small DLMs from scratch with accessible compute, including converting any BERT-style encoder or autoregressive LM into a DLM. We also release the checkpoints of these small DLMs to make DLMs more accessible and accelerate future research.",
       "fetch_date": "2026-03-02",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "A unified open-source framework is presented that standardizes core components of diffusion language modeling for reproduction, customization, and accessible development of both large and small models.",
       "ai_keywords": [
         "diffusion language models",
@@ -1049,7 +1028,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "GLM-5: from Vibe Coding to Agentic Engineering",
-    "description": "We present GLM-5, a next-generation foundation model designed to transition the paradigm of vibe coding to agentic engineering. Building upon the agentic, reasoning, and coding (ARC) capabilities of i...<br/>Upvotes: 105<br/>GitHub Stars: 1623<br/>Authors: GLM-5 Team, Aohan Zeng, Xin Lv<br/>🔗 <a href=\"https://github.com/zai-org/GLM-5\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15763\">Hugging Face</a>",
+    "description": "We present GLM-5, a next-generation foundation model designed to transition the paradigm of vibe coding to agentic engineering. Building upon the agentic, reasoning, and coding (ARC) capabilities of i...<br/>Upvotes: 105<br/>GitHub Stars: 1643<br/>Authors: GLM-5 Team, Aohan Zeng, Xin Lv<br/>🔗 <a href=\"https://github.com/zai-org/GLM-5\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15763\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15763",
     "external_url": "https://github.com/zai-org/GLM-5",
     "published_date": "2026-02-17T12:50:56.000Z",
@@ -1060,7 +1039,7 @@
     "metadata": {
       "paper_id": "2602.15763",
       "upvotes": 105,
-      "github_stars": 1623,
+      "github_stars": 1643,
       "github_url": "https://github.com/zai-org/GLM-5",
       "project_url": "",
       "authors": [
