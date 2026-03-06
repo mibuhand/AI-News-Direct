@@ -80,6 +80,9 @@ jobs:
         echo "Running AIBase Daily scraper..."
         uv run python scrapers/aibase.py || echo "AIBase Daily scraper failed"
 
+        echo "Running DeepLearning.ai-Batch scraper..."
+        uv run python scrapers/deeplearning_ai_batch.py || echo "DeepLearning.ai-Batch scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       

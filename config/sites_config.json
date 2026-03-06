@@ -116,5 +116,18 @@
         "cache_files": {
             "daily": "aibase_daily.html"
         }
+    },
+
+    {
+        "site": "https://www.deeplearning.ai/the-batch/",
+        "organization_key": "deeplearning_ai",
+        "favicon_url": "https://www.deeplearning.ai/favicon.ico",
+        "pages": [""],
+        "output_files": {
+            "main": "deeplearning_ai_batch.json"
+        },
+        "cache_files": {
+            "main": "deeplearning_ai_batch.html"
+        }
     }
 ]

@@ -97,7 +97,7 @@ To-Do: Appending logic with snapshot timestamps
 | [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | N/A |
 | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/feed) | N/A |
 | [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | N/A |
-| [The Batch](https://www.deeplearning.ai/the-batch/) | N/A | To-Do |
+| [The Batch](https://www.deeplearning.ai/the-batch/) | N/A | [The Batch Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/deeplearning_ai_batch.xml) |
 | [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | N/A |
 | [Turing Post](https://www.turingpost.com/) | [Turing Post Feed](https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml) | N/A |
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | N/A |
@@ -106,6 +106,7 @@ To-Do: Appending logic with snapshot timestamps
 | [Epoch AI Blog](https://epoch.ai/blog) | [Epoch AI Blog Feed](https://epoch.ai/atom.xml) | N/A |
 | [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Blog](https://www.citriniresearch.com/feed) | N/A |
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | N/A |
+| [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | N/A |
 
 
 
