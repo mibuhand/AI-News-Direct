@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.5-9B",
-    "description": "Type: image-text-to-text<br/>Downloads: 516,030<br/>Likes: 525",
+    "description": "Type: image-text-to-text<br/>Downloads: 692,588<br/>Likes: 549",
     "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
-    "published_date": "2026-03-06T21:14:08.974971+00:00",
+    "published_date": "2026-03-07T11:40:37.844690+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.5-9B",
-      "downloads": 516030,
-      "likes": 525,
+      "downloads": 692588,
+      "likes": 549,
       "last_modified": "2026-03-02T00:51:43.000Z",
       "all_tags": []
     }
@@ -24,17 +24,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.5-35B-A3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,000,738<br/>Likes: 994",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,086,662<br/>Likes: 1010",
     "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-    "published_date": "2026-03-06T21:14:08.974995+00:00",
+    "published_date": "2026-03-07T11:40:37.844714+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.5-35B-A3B",
-      "downloads": 1000738,
-      "likes": 994,
+      "downloads": 1086662,
+      "likes": 1010,
       "last_modified": "2026-02-27T09:48:22.000Z",
       "all_tags": []
     }
@@ -44,58 +44,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.5-0.8B",
-    "description": "Type: image-text-to-text<br/>Downloads: 265,017<br/>Likes: 292",
+    "description": "Type: image-text-to-text<br/>Downloads: 346,126<br/>Likes: 304",
     "url": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-    "published_date": "2026-03-06T21:14:08.975004+00:00",
+    "published_date": "2026-03-07T11:40:37.844724+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.5-0.8B",
-      "downloads": 265017,
-      "likes": 292,
+      "downloads": 346126,
+      "likes": 304,
       "last_modified": "2026-03-02T11:26:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1a0d1cec703a622ed50ad21eb586c180",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3.5-4B",
-    "description": "Type: image-text-to-text<br/>Downloads: 232,531<br/>Likes: 262",
-    "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
-    "published_date": "2026-03-06T21:14:08.975013+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3.5-4B",
-      "downloads": 232531,
-      "likes": 262,
-      "last_modified": "2026-03-02T00:52:52.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "49bf5110f6b4cd2b5e23a8e0a66f1691",
-    "source": "huggingface",
-    "type": "model",
-    "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 919,117<br/>Likes: 546",
-    "url": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-    "published_date": "2026-03-06T21:14:08.975041+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "unsloth",
-      "item_name": "Qwen3.5-35B-A3B-GGUF",
-      "downloads": 919117,
-      "likes": 546,
-      "last_modified": "2026-03-05T17:25:50.000Z",
       "all_tags": []
     }
   },
@@ -104,18 +64,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Lightricks/LTX-2.3",
-    "description": "Type: image-to-video<br/>Downloads: 34,959<br/>Likes: 252",
+    "description": "Type: image-to-video<br/>Downloads: 119,290<br/>Likes: 287",
     "url": "https://huggingface.co/Lightricks/LTX-2.3",
-    "published_date": "2026-03-06T21:14:08.975051+00:00",
+    "published_date": "2026-03-07T11:40:37.844731+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "Lightricks",
       "item_name": "LTX-2.3",
-      "downloads": 34959,
-      "likes": 252,
+      "downloads": 119290,
+      "likes": 287,
       "last_modified": "2026-03-05T14:33:16.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1a0d1cec703a622ed50ad21eb586c180",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3.5-4B",
+    "description": "Type: image-text-to-text<br/>Downloads: 282,635<br/>Likes: 275",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+    "published_date": "2026-03-07T11:40:37.844737+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3.5-4B",
+      "downloads": 282635,
+      "likes": 275,
+      "last_modified": "2026-03-02T00:52:52.000Z",
       "all_tags": []
     }
   },
@@ -124,18 +104,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3.5-9B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 380,168<br/>Likes: 219",
+    "description": "Type: image-text-to-text<br/>Downloads: 436,300<br/>Likes: 227",
     "url": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-    "published_date": "2026-03-06T21:14:08.975057+00:00",
+    "published_date": "2026-03-07T11:40:37.844748+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "Qwen3.5-9B-GGUF",
-      "downloads": 380168,
-      "likes": 219,
+      "downloads": 436300,
+      "likes": 227,
       "last_modified": "2026-03-02T14:08:36.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "49bf5110f6b4cd2b5e23a8e0a66f1691",
+    "source": "huggingface",
+    "type": "model",
+    "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,012,202<br/>Likes: 558",
+    "url": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+    "published_date": "2026-03-07T11:40:37.844758+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "unsloth",
+      "item_name": "Qwen3.5-35B-A3B-GGUF",
+      "downloads": 1012202,
+      "likes": 558,
+      "last_modified": "2026-03-05T17:25:50.000Z",
       "all_tags": []
     }
   },
@@ -144,138 +144,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.5-27B",
-    "description": "Type: image-text-to-text<br/>Downloads: 561,727<br/>Likes: 600",
+    "description": "Type: image-text-to-text<br/>Downloads: 630,137<br/>Likes: 604",
     "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
-    "published_date": "2026-03-06T21:14:08.975062+00:00",
+    "published_date": "2026-03-07T11:40:37.844767+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.5-27B",
-      "downloads": 561727,
-      "likes": 600,
+      "downloads": 630137,
+      "likes": 604,
       "last_modified": "2026-02-25T02:43:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "463a00c889295ffea8a0a1fc155e94ef",
-    "source": "huggingface",
-    "type": "model",
-    "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-    "description": "Type: image-text-to-text<br/>Downloads: 21,100<br/>Likes: 183",
-    "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-    "published_date": "2026-03-06T21:14:08.975067+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "huihui-ai",
-      "item_name": "Huihui-Qwen3.5-35B-A3B-abliterated",
-      "downloads": 21100,
-      "likes": 183,
-      "last_modified": "2026-03-02T09:44:11.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "635a85f3586016d33f41346845632834",
-    "source": "huggingface",
-    "type": "model",
-    "title": "MiniMaxAI/MiniMax-M2.5",
-    "description": "Type: text-generation<br/>Downloads: 370,789<br/>Likes: 1108",
-    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-    "published_date": "2026-03-06T21:14:08.975072+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "MiniMax-M2.5",
-      "downloads": 370789,
-      "likes": 1108,
-      "last_modified": "2026-03-06T09:38:33.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "62a3c72eb1342df15f5f73f5fde1bfbe",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3.5-397B-A17B",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,376,334<br/>Likes: 1253",
-    "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-    "published_date": "2026-03-06T21:14:08.975077+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3.5-397B-A17B",
-      "downloads": 1376334,
-      "likes": 1253,
-      "last_modified": "2026-02-23T13:56:10.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "6d4167b7c3f4f98c4251c9007a0db534",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3.5-2B",
-    "description": "Type: image-text-to-text<br/>Downloads: 143,887<br/>Likes: 145",
-    "url": "https://huggingface.co/Qwen/Qwen3.5-2B",
-    "published_date": "2026-03-06T21:14:08.975082+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3.5-2B",
-      "downloads": 143887,
-      "likes": 145,
-      "last_modified": "2026-03-02T11:26:29.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "e1059bc87f7803174fac7c4fef28da2d",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Nanbeige/Nanbeige4.1-3B",
-    "description": "Type: text-generation<br/>Downloads: 470,144<br/>Likes: 964",
-    "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-    "published_date": "2026-03-06T21:14:08.975087+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Nanbeige",
-      "item_name": "Nanbeige4.1-3B",
-      "downloads": 470144,
-      "likes": 964,
-      "last_modified": "2026-02-26T06:09:54.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "f7d0c46b91dc269454abfdbbb49f97c8",
-    "source": "huggingface",
-    "type": "model",
-    "title": "unsloth/Qwen3.5-27B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 393,346<br/>Likes: 256",
-    "url": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
-    "published_date": "2026-03-06T21:14:08.975091+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "unsloth",
-      "item_name": "Qwen3.5-27B-GGUF",
-      "downloads": 393346,
-      "likes": 256,
-      "last_modified": "2026-03-05T16:31:31.000Z",
       "all_tags": []
     }
   },
@@ -284,16 +164,136 @@
     "source": "huggingface",
     "type": "model",
     "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-    "description": "Downloads: 29,210<br/>Likes: 128",
+    "description": "Downloads: 52,816<br/>Likes: 164",
     "url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-03-06T21:14:08.975101+00:00",
+    "published_date": "2026-03-07T11:40:37.844774+00:00",
     "categories": [],
     "metadata": {
       "author": "HauhauCS",
       "item_name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 29210,
-      "likes": 128,
+      "downloads": 52816,
+      "likes": 164,
       "last_modified": "2026-03-04T00:31:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "463a00c889295ffea8a0a1fc155e94ef",
+    "source": "huggingface",
+    "type": "model",
+    "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+    "description": "Type: image-text-to-text<br/>Downloads: 21,688<br/>Likes: 189",
+    "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+    "published_date": "2026-03-07T11:40:37.844784+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "huihui-ai",
+      "item_name": "Huihui-Qwen3.5-35B-A3B-abliterated",
+      "downloads": 21688,
+      "likes": 189,
+      "last_modified": "2026-03-02T09:44:11.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6d4167b7c3f4f98c4251c9007a0db534",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3.5-2B",
+    "description": "Type: image-text-to-text<br/>Downloads: 195,095<br/>Likes: 148",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-2B",
+    "published_date": "2026-03-07T11:40:37.844790+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3.5-2B",
+      "downloads": 195095,
+      "likes": 148,
+      "last_modified": "2026-03-02T11:26:29.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "62a3c72eb1342df15f5f73f5fde1bfbe",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3.5-397B-A17B",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,409,496<br/>Likes: 1257",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+    "published_date": "2026-03-07T11:40:37.844796+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3.5-397B-A17B",
+      "downloads": 1409496,
+      "likes": 1257,
+      "last_modified": "2026-02-23T13:56:10.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c5f0e0d4fb690c26f674193d4c712607",
+    "source": "huggingface",
+    "type": "model",
+    "title": "sarvamai/sarvam-105b",
+    "description": "Type: text-generation<br/>Downloads: 111<br/>Likes: 125",
+    "url": "https://huggingface.co/sarvamai/sarvam-105b",
+    "published_date": "2026-03-07T11:40:37.844802+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "sarvamai",
+      "item_name": "sarvam-105b",
+      "downloads": 111,
+      "likes": 125,
+      "last_modified": "2026-03-06T17:18:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f7d0c46b91dc269454abfdbbb49f97c8",
+    "source": "huggingface",
+    "type": "model",
+    "title": "unsloth/Qwen3.5-27B-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 426,684<br/>Likes: 258",
+    "url": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+    "published_date": "2026-03-07T11:40:37.844809+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "unsloth",
+      "item_name": "Qwen3.5-27B-GGUF",
+      "downloads": 426684,
+      "likes": 258,
+      "last_modified": "2026-03-05T16:31:31.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5c1b78a9a8b0c189aae9fefeb4a7af2f",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+    "description": "Type: text-generation<br/>Downloads: 4,212<br/>Likes: 117",
+    "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+    "published_date": "2026-03-07T11:40:37.844815+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "Jackrong",
+      "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "downloads": 4212,
+      "likes": 117,
+      "last_modified": "2026-03-06T05:11:14.000Z",
       "all_tags": []
     }
   },
@@ -302,18 +302,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3.5-4B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 158,820<br/>Likes: 97",
+    "description": "Type: image-text-to-text<br/>Downloads: 184,704<br/>Likes: 106",
     "url": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
-    "published_date": "2026-03-06T21:14:08.975108+00:00",
+    "published_date": "2026-03-07T11:40:37.844823+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "Qwen3.5-4B-GGUF",
-      "downloads": 158820,
-      "likes": 97,
+      "downloads": 184704,
+      "likes": 106,
       "last_modified": "2026-03-02T14:08:17.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "96b74ccefc0ca9111b709ae88146d3f2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "microsoft/Phi-4-reasoning-vision-15B",
+    "description": "Type: image-text-to-text<br/>Downloads: 9,545<br/>Likes: 100",
+    "url": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
+    "published_date": "2026-03-07T11:40:37.844829+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "microsoft",
+      "item_name": "Phi-4-reasoning-vision-15B",
+      "downloads": 9545,
+      "likes": 100,
+      "last_modified": "2026-03-04T18:25:37.000Z",
       "all_tags": []
     }
   },
@@ -322,17 +342,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "FireRedTeam/FireRed-OCR",
-    "description": "Type: image-to-text<br/>Downloads: 4,178<br/>Likes: 96",
+    "description": "Type: image-to-text<br/>Downloads: 4,883<br/>Likes: 98",
     "url": "https://huggingface.co/FireRedTeam/FireRed-OCR",
-    "published_date": "2026-03-06T21:14:08.975113+00:00",
+    "published_date": "2026-03-07T11:40:37.844835+00:00",
     "categories": [
       "image-to-text"
     ],
     "metadata": {
       "author": "FireRedTeam",
       "item_name": "FireRed-OCR",
-      "downloads": 4178,
-      "likes": 96,
+      "downloads": 4883,
+      "likes": 98,
       "last_modified": "2026-03-04T03:15:00.000Z",
       "all_tags": []
     }
@@ -342,58 +362,36 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-5",
-    "description": "Type: text-generation<br/>Downloads: 214,828<br/>Likes: 1725",
+    "description": "Type: text-generation<br/>Downloads: 222,572<br/>Likes: 1735",
     "url": "https://huggingface.co/zai-org/GLM-5",
-    "published_date": "2026-03-06T21:14:08.975118+00:00",
+    "published_date": "2026-03-07T11:40:37.844849+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-5",
-      "downloads": 214828,
-      "likes": 1725,
+      "downloads": 222572,
+      "likes": 1735,
       "last_modified": "2026-02-13T14:41:45.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "96b74ccefc0ca9111b709ae88146d3f2",
+    "id": "381186a62e33fd2a4f2b591ba1337649",
     "source": "huggingface",
     "type": "model",
-    "title": "microsoft/Phi-4-reasoning-vision-15B",
-    "description": "Type: image-text-to-text<br/>Downloads: 9,099<br/>Likes: 92",
-    "url": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
-    "published_date": "2026-03-06T21:14:08.975123+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
+    "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+    "description": "Downloads: 18,564<br/>Likes: 85",
+    "url": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+    "published_date": "2026-03-07T11:40:37.844855+00:00",
+    "categories": [],
     "metadata": {
-      "author": "microsoft",
-      "item_name": "Phi-4-reasoning-vision-15B",
-      "downloads": 9099,
-      "likes": 92,
-      "last_modified": "2026-03-04T18:25:37.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "29ecbc10715762b1f1720b07b2d8c662",
-    "source": "huggingface",
-    "type": "model",
-    "title": "perplexity-ai/pplx-embed-v1-0.6b",
-    "description": "Type: feature-extraction<br/>Downloads: 44,198<br/>Likes: 134",
-    "url": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
-    "published_date": "2026-03-06T21:14:08.975128+00:00",
-    "categories": [
-      "feature-extraction"
-    ],
-    "metadata": {
-      "author": "perplexity-ai",
-      "item_name": "pplx-embed-v1-0.6b",
-      "downloads": 44198,
-      "likes": 134,
-      "last_modified": "2026-03-03T08:17:37.000Z",
+      "author": "crownelius",
+      "item_name": "Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+      "downloads": 18564,
+      "likes": 85,
+      "last_modified": "2026-03-06T19:05:06.000Z",
       "all_tags": []
     }
   }

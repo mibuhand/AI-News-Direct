@@ -170,40 +170,6 @@
         "external_url": "https://www.arxiv.org/abs/2510.08203"
     },
     {
-        "id": "87377539f087efd82bfd59a777b3e9ec",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "MEF: A Systematic Evaluation Framework for Text-to-Image Models",
-        "description": "Rapid advances in text-to-image (T2I) generation have raised higher requirements for evaluation methodologies. Existing benchmarks center on objective capabilities and dimensions, but lack an application-scenario perspective, limiting external validity. Moreover, current evaluations typically rely on either ELO for overall ranking or MOS for dimension-specific scoring, yet both methods have inherent shortcomings and limited interpretability. Therefore, we introduce the Magic Evaluation Framework (MEF), a systematic and practical approach for evaluating T2I models. First, we propose a structured taxonomy encompassing user scenarios, elements, element compositions, and text expression forms to construct the Magic-Bench-377, which supports label-level assessment and ensures a balanced coverage of both user scenarios and capabilities. On this basis, we combine ELO and dimension-specific MOS to generate model rankings and fine-grained assessments respectively. This joint evaluation method further enables us to quantitatively analyze the contribution of each dimension to user satisfaction using multivariate logistic regression. By applying MEF to current T2I models, we obtain a leaderboard and key characteristics of the leading models. We release our evaluation framework and make Magic-Bench-377 fully open-source to advance research in the evaluation of visual generative models.",
-        "url": "https://seed.bytedance.com/en/public_papers/mef-a-systematic-evaluation-framework-for-text-to-image-models",
-        "published_date": "2025-09-21T16:00:00+00:00",
-        "categories": [
-            "Artificial Intelligence"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Xiaojing Dong, Weilin Huang, Liang Li, Yiying Li, Shu Liu, Tongtong Ou, Shuang Ouyang, Yu Tian, Fengxuan Zhao",
-            "journal": "arXiv",
-            "work_team": [
-                "Vision"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "MEF: A Systematic Evaluation Framework for Text-to-Image Models",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Rapid advances in text-to-image (T2I) generation have raised higher requirements for evaluation methodologies. Existing benchmarks center on objective capabilities and dimensions, but lack an application-scenario perspective, limiting external validity. Moreover, current evaluations typically rely on either ELO for overall ranking or MOS for dimension-specific scoring, yet both methods have inherent shortcomings and limited interpretability. Therefore, we introduce the Magic Evaluation Framework (MEF), a systematic and practical approach for evaluating T2I models. First, we propose a structured taxonomy encompassing user scenarios, elements, element compositions, and text expression forms to construct the Magic-Bench-377, which supports label-level assessment and ensures a balanced coverage of both user scenarios and capabilities. On this basis, we combine ELO and dimension-specific MOS to generate model rankings and fine-grained assessments respectively. This joint evaluation method further enables us to quantitatively analyze the contribution of each dimension to user satisfaction using multivariate logistic regression. By applying MEF to current T2I models, we obtain a leaderboard and key characteristics of the leading models. We release our evaluation framework and make Magic-Bench-377 fully open-source to advance research in the evaluation of visual generative models.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/mef-a-systematic-evaluation-framework-for-text-to-image-models",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/abs/2509.17907"
-    },
-    {
         "id": "bc7833a946791d0aae99c56b441a050f",
         "source": "bytedance_seed",
         "type": "research",
@@ -236,6 +202,40 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/abs/2509.18084"
+    },
+    {
+        "id": "87377539f087efd82bfd59a777b3e9ec",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "MEF: A Systematic Evaluation Framework for Text-to-Image Models",
+        "description": "Rapid advances in text-to-image (T2I) generation have raised higher requirements for evaluation methodologies. Existing benchmarks center on objective capabilities and dimensions, but lack an application-scenario perspective, limiting external validity. Moreover, current evaluations typically rely on either ELO for overall ranking or MOS for dimension-specific scoring, yet both methods have inherent shortcomings and limited interpretability. Therefore, we introduce the Magic Evaluation Framework (MEF), a systematic and practical approach for evaluating T2I models. First, we propose a structured taxonomy encompassing user scenarios, elements, element compositions, and text expression forms to construct the Magic-Bench-377, which supports label-level assessment and ensures a balanced coverage of both user scenarios and capabilities. On this basis, we combine ELO and dimension-specific MOS to generate model rankings and fine-grained assessments respectively. This joint evaluation method further enables us to quantitatively analyze the contribution of each dimension to user satisfaction using multivariate logistic regression. By applying MEF to current T2I models, we obtain a leaderboard and key characteristics of the leading models. We release our evaluation framework and make Magic-Bench-377 fully open-source to advance research in the evaluation of visual generative models.",
+        "url": "https://seed.bytedance.com/en/public_papers/mef-a-systematic-evaluation-framework-for-text-to-image-models",
+        "published_date": "2025-09-21T16:00:00+00:00",
+        "categories": [
+            "Artificial Intelligence"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Xiaojing Dong, Weilin Huang, Liang Li, Yiying Li, Shu Liu, Tongtong Ou, Shuang Ouyang, Yu Tian, Fengxuan Zhao",
+            "journal": "arXiv",
+            "work_team": [
+                "Vision"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "MEF: A Systematic Evaluation Framework for Text-to-Image Models",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Rapid advances in text-to-image (T2I) generation have raised higher requirements for evaluation methodologies. Existing benchmarks center on objective capabilities and dimensions, but lack an application-scenario perspective, limiting external validity. Moreover, current evaluations typically rely on either ELO for overall ranking or MOS for dimension-specific scoring, yet both methods have inherent shortcomings and limited interpretability. Therefore, we introduce the Magic Evaluation Framework (MEF), a systematic and practical approach for evaluating T2I models. First, we propose a structured taxonomy encompassing user scenarios, elements, element compositions, and text expression forms to construct the Magic-Bench-377, which supports label-level assessment and ensures a balanced coverage of both user scenarios and capabilities. On this basis, we combine ELO and dimension-specific MOS to generate model rankings and fine-grained assessments respectively. This joint evaluation method further enables us to quantitatively analyze the contribution of each dimension to user satisfaction using multivariate logistic regression. By applying MEF to current T2I models, we obtain a leaderboard and key characteristics of the leading models. We release our evaluation framework and make Magic-Bench-377 fully open-source to advance research in the evaluation of visual generative models.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/mef-a-systematic-evaluation-framework-for-text-to-image-models",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/abs/2509.17907"
     },
     {
         "id": "e0eec267001e50a6b01b955e4b2200f2",
