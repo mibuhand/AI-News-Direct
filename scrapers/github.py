@@ -150,7 +150,7 @@ def extract_trending_data(soup, timeframe='monthly'):
                 formatted_title = repo_name
 
             # Extract description
-            description_element = article.find('p', class_='col-9 color-fg-muted my-1 pr-4')
+            description_element = article.find('p', class_='col-9 color-fg-muted my-1 tmp-pr-4')
             description = description_element.get_text(strip=True) if description_element else ''
 
             # Extract programming language
