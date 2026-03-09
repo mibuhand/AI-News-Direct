@@ -129,5 +129,58 @@
         "cache_files": {
             "main": "deeplearning_ai_batch.html"
         }
+    },
+
+    {
+        "site": "https://artificialanalysis.ai/",
+        "organization_key": "artificial_analysis",
+        "favicon_url": "https://artificialanalysis.ai/favicon.ico",
+        "pages": ["articles"],
+        "output_files": {
+            "articles": "artificial_analysis.json"
+        },
+        "cache_files": {
+            "articles": "artificial_analysis.html"
+        }
+    },
+
+    {
+        "site": "https://platform.moonshot.ai/",
+        "organization_key": "moonshot",
+        "favicon_url": "https://www.moonshot.cn/moonshot-ai/favicon.ico",
+        "pages": ["blog"],
+        "output_files": {
+            "blog": "moonshot_blog.json"
+        },
+        "cache_files": {
+            "blog": "moonshot_blog.html"
+        }
+    },
+
+    {
+        "site": "https://platform.minimax.io/docs/release-notes/",
+        "organization_key": "minimax",
+        "favicon_url": "https://platform.minimax.io/docs/_mintlify/favicons/minimax-cac98058/-WSO_KEoennf5XoM/_generated/favicon/apple-touch-icon.png",
+        "pages": ["models"],
+        "output_files": {
+            "models": "minimax_blog.json"
+        },
+        "cache_files": {
+            "models": "minimax_blog.html"
+        }
+    },
+
+    {
+        "site": "https://docs.z.ai/release-notes/new-released",
+        "organization_key": "z-ai",
+        "favicon_url": "https://docs.z.ai/mintlify-assets/_mintlify/favicons/zhipu-32152247/L0xHDOFhgFxB8zLI/_generated/favicon/apple-touch-icon.png",
+        "pages": [""],
+        "output_files": {
+            "main": "z_ai_blog.json"
+        },
+        "cache_files": {
+            "main": "z_ai_blog.html"
+        }
     }
+    
 ]

@@ -83,6 +83,18 @@ jobs:
         echo "Running DeepLearning.ai-Batch scraper..."
         uv run python scrapers/deeplearning_ai_batch.py || echo "DeepLearning.ai-Batch scraper failed"
 
+        echo "Running Artificial Analysis scraper..."
+        uv run python scrapers/artificial_analysis.py || echo "Artificial Analysis scraper failed"
+
+        echo "Running MiniMax scraper..."
+        uv run python scrapers/minimax.py || echo "MiniMax scraper failed"
+
+        echo "Running Moonshot scraper..."
+        uv run python scrapers/moonshot.py || echo "Moonshot scraper failed"
+
+        echo "Running Z.ai scraper..."
+        uv run python scrapers/z_ai.py || echo "Z.ai scraper failed"
+
         echo "::endgroup::"
       continue-on-error: true
       

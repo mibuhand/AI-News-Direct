@@ -35,9 +35,9 @@ Ready-to-use XML feeds for RSS readers:
 | [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | N/A | [bytedance_seed_blog.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_blog.xml) |
 | [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | N/A | [bytedance_seed_research.xml](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/bytedance_seed_research.xml) |
 | [Tencent Hunyuan](https://hunyuan.tencent.com/news/home) | N/A | To-Do |
-| [MiniMax News](https://platform.minimax.io/docs/release-notes/models) | N/A | To-Do |
-| [Moonshot News](https://platform.moonshot.ai/blog) | N/A | To-Do |
-| [Z.ai News](https://docs.z.ai/release-notes/new-released) | N/A | To-Do |
+| [MiniMax News](https://platform.minimax.io/docs/release-notes/models) | N/A | [MiniMax News Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/minimax_blog.xml) |
+| [Moonshot News](https://platform.moonshot.ai/blog) | N/A | [Moonshot News Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/moonshot_blog.xml) |
+| [Z.ai News](https://docs.z.ai/release-notes/new-released) | N/A | [Z.ai News Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/z_ai_blog.xml) |
 | [Black Forest Lab News](https://bfl.ai/announcements) | N/A | To-Do |
 | [Stability AI Research](https://stability.ai/research) | [Stability AI Research feed](https://stability.ai/research?format=rss) | N/A |
 | [Stability AI News](https://stability.ai/news) | [Stability AI News feed](https://stability.ai/news?format=rss) | N/A |
@@ -108,8 +108,7 @@ To-Do: Appending logic with snapshot timestamps
 | [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Blog](https://www.citriniresearch.com/feed) | N/A |
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | N/A |
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | N/A |
-
-
+| [Artificial Analysis](https://artificialanalysis.ai/articles) | N/A | [Artificial Analysis Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/artificial_analysis.xml) |
 
 
 ### Tech News
