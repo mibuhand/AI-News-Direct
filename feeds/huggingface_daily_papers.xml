@@ -4,7 +4,7 @@
   <id>tag:ai-news-direct.local,2025:huggingface_daily_papers</id>
   <icon>https://huggingface.co/favicon.ico</icon>
   <logo>https://huggingface.co/favicon.ico</logo>
-  <updated>2026-03-11T11:52:58.265471+00:00</updated>
+  <updated>2026-03-12T11:48:26.865551+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
@@ -61,7 +61,16 @@
     <updated>2026-02-11T04:48:08+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Training stability remains a central challenge in reinforcement learning (RL) for large language models (LLMs). Policy staleness, asynchronous training, and mismatches between training and inference e...&lt;br/&gt;Upvotes: 216&lt;br/&gt;GitHub Stars: 28&lt;br/&gt;Authors: Guobin Shen, Chenxiao Zhao, Xiang Cheng&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/FloyedShen/VESPO&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.10693&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Training stability remains a central challenge in reinforcement learning (RL) for large language models (LLMs). Policy staleness, asynchronous training, and mismatches between training and inference e...&lt;br/&gt;Upvotes: 216&lt;br/&gt;GitHub Stars: 29&lt;br/&gt;Authors: Guobin Shen, Chenxiao Zhao, Xiang Cheng&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/FloyedShen/VESPO&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.10693&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fish Audio S2 Technical Report</title>
+    <id>1a305d92fdc8a2f1d8bc3803ae4d4153</id>
+    <link href="https://arxiv.org/abs/2603.08823"/>
+    <updated>2026-03-09T14:34:33+00:00</updated>
+    <category term="research"/>
+    <category term="paper"/>
+    <summary>We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...&lt;br/&gt;Upvotes: 14&lt;br/&gt;GitHub Stars: 26005&lt;br/&gt;Authors: Shijia Liao, Yuxuan Wang, Songting Liu&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/fishaudio/fish-speech&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://fish.audio/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2603.08823&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Qwen3-Coder-Next Technical Report</title>
@@ -70,7 +79,7 @@
     <updated>2026-02-28T11:25:04+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...&lt;br/&gt;Upvotes: 43&lt;br/&gt;GitHub Stars: 15937&lt;br/&gt;Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/QwenLM/Qwen3-Coder&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/QwenLM/Qwen3-Coder&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2603.00729&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...&lt;br/&gt;Upvotes: 44&lt;br/&gt;GitHub Stars: 15952&lt;br/&gt;Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/QwenLM/Qwen3-Coder&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/QwenLM/Qwen3-Coder&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2603.00729&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>SAM 3D Body: Robust Full-Body Human Mesh Recovery</title>
@@ -79,7 +88,7 @@
     <updated>2026-02-17T15:26:37+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...&lt;br/&gt;Upvotes: 11&lt;br/&gt;GitHub Stars: 2702&lt;br/&gt;Authors: Xitong Yang, Devansh Kukreja, Don Pinkus&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/facebookresearch/sam-3d-body&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ai.meta.com/research/sam3d/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.15989&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...&lt;br/&gt;Upvotes: 11&lt;br/&gt;GitHub Stars: 2706&lt;br/&gt;Authors: Xitong Yang, Devansh Kukreja, Don Pinkus&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/facebookresearch/sam-3d-body&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://ai.meta.com/research/sam3d/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.15989&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning</title>
@@ -88,7 +97,7 @@
     <updated>2026-02-12T10:55:19+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...&lt;br/&gt;Upvotes: 58&lt;br/&gt;GitHub Stars: 2396&lt;br/&gt;Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/open-gigaai/giga-brain-0&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://gigabrain05m.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.12099&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...&lt;br/&gt;Upvotes: 58&lt;br/&gt;GitHub Stars: 2399&lt;br/&gt;Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/open-gigaai/giga-brain-0&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://gigabrain05m.github.io/&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.12099&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>dLLM: Simple Diffusion Language Modeling</title>
@@ -97,7 +106,7 @@
     <updated>2026-02-26T01:26:02+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...&lt;br/&gt;Upvotes: 124&lt;br/&gt;GitHub Stars: 2173&lt;br/&gt;Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ZHZisZZ/dllm&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ZHZisZZ/dllm&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.22661&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...&lt;br/&gt;Upvotes: 126&lt;br/&gt;GitHub Stars: 2180&lt;br/&gt;Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ZHZisZZ/dllm&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/ZHZisZZ/dllm&quot;&gt;Project Page&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.22661&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
   <entry>
     <title>Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters</title>
@@ -106,15 +115,6 @@
     <updated>2026-02-11T02:53:51+00:00</updated>
     <category term="research"/>
     <category term="paper"/>
-    <summary>We introduce Step 3.5 Flash, a sparse Mixture-of-Experts (MoE) model that bridges frontier-level agentic intelligence and computational efficiency. We focus on what matters most when building agents: ...&lt;br/&gt;Upvotes: 189&lt;br/&gt;GitHub Stars: 1743&lt;br/&gt;Authors: Ailin Huang, Ang Li, Aobo Kong&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/stepfun-ai/Step-3.5-Flash&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.10604&quot;&gt;Hugging Face&lt;/a&gt;</summary>
-  </entry>
-  <entry>
-    <title>GLM-5: from Vibe Coding to Agentic Engineering</title>
-    <id>43ca0a8b2ef875a3d2d90ae3a9db6a98</id>
-    <link href="https://arxiv.org/abs/2602.15763"/>
-    <updated>2026-02-17T12:50:56+00:00</updated>
-    <category term="research"/>
-    <category term="paper"/>
-    <summary>We present GLM-5, a next-generation foundation model designed to transition the paradigm of vibe coding to agentic engineering. Building upon the agentic, reasoning, and coding (ARC) capabilities of i...&lt;br/&gt;Upvotes: 107&lt;br/&gt;GitHub Stars: 1712&lt;br/&gt;Authors: GLM-5 Team, Aohan Zeng, Xin Lv&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/zai-org/GLM-5&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.15763&quot;&gt;Hugging Face&lt;/a&gt;</summary>
+    <summary>We introduce Step 3.5 Flash, a sparse Mixture-of-Experts (MoE) model that bridges frontier-level agentic intelligence and computational efficiency. We focus on what matters most when building agents: ...&lt;br/&gt;Upvotes: 189&lt;br/&gt;GitHub Stars: 1760&lt;br/&gt;Authors: Ailin Huang, Ang Li, Aobo Kong&lt;br/&gt;🔗 &lt;a href=&quot;https://github.com/stepfun-ai/Step-3.5-Flash&quot;&gt;GitHub&lt;/a&gt;&lt;br/&gt;🔗 &lt;a href=&quot;https://huggingface.co/papers/2602.10604&quot;&gt;Hugging Face&lt;/a&gt;</summary>
   </entry>
 </feed>

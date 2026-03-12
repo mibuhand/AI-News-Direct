@@ -1,5 +1,22 @@
 [
     {
+        "id": "658e129a95a5aa4d488e8d80bbfc400e",
+        "source": "meta_ai",
+        "type": "blog",
+        "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+        "description": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges in the industry.",
+        "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
+        "published_date": "2026-03-11T00:00:00+00:00",
+        "categories": [
+            ""
+        ],
+        "organization": "Meta AI",
+        "metadata": {
+            "featured": true
+        },
+        "objects": []
+    },
+    {
         "id": "4aa5e7acba9272e1412f68f271958961",
         "source": "meta_ai",
         "type": "blog",
@@ -30,21 +47,6 @@
         "objects": []
     },
     {
-        "id": "04da1427b78d44f7e53eab8c1ce0e4a3",
-        "source": "meta_ai",
-        "type": "blog",
-        "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
-        "description": "",
-        "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
-        "published_date": "2025-12-18T00:00:00+00:00",
-        "categories": [
-            "Computer Vision"
-        ],
-        "organization": "Meta AI",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "8130d61958f352ffb8572ccee59fa655",
         "source": "meta_ai",
         "type": "blog",
@@ -60,20 +62,18 @@
         "objects": []
     },
     {
-        "id": "e0f202ac3de744ef235d77d5f989d91d",
+        "id": "04da1427b78d44f7e53eab8c1ce0e4a3",
         "source": "meta_ai",
         "type": "blog",
-        "title": "Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation",
-        "description": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether through text, visual cues, or marking time segments.",
-        "url": "https://ai.meta.com/blog/sam-audio/",
-        "published_date": "2025-12-16T00:00:00+00:00",
+        "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
+        "description": "",
+        "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
+        "published_date": "2025-12-18T00:00:00+00:00",
         "categories": [
             "Computer Vision"
         ],
         "organization": "Meta AI",
-        "metadata": {
-            "featured": true
-        },
+        "metadata": {},
         "objects": []
     }
 ]
