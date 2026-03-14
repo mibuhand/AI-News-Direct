@@ -90,60 +90,6 @@
     }
   },
   {
-    "id": "2442f667afe5130cc9a066a427c61d55",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
-    "description": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic s...<br/>Upvotes: 347<br/>Authors: Shaobo Wang, Xuan Ouyang, Tianyi Xu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.05400\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2602.05400",
-    "external_url": "",
-    "published_date": "2026-02-05T02:34:23.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2602.05400",
-      "upvotes": 347,
-      "github_stars": 0,
-      "github_url": "",
-      "project_url": "",
-      "authors": [
-        "Shaobo Wang",
-        "Xuan Ouyang",
-        "Tianyi Xu",
-        "Yuzheng Hu",
-        "Jialin Liu",
-        "Guo Chen",
-        "Tianyu Zhang",
-        "Junhao Zheng",
-        "Kexin Yang",
-        "Xingzhang Ren",
-        "Dayiheng Liu",
-        "Linfeng Zhang"
-      ],
-      "summary": "As high-quality public text approaches exhaustion, a phenomenon known as the Data Wall, pre-training is shifting from more tokens to better tokens. However, existing methods either rely on heuristic static filters that ignore training dynamics, or use dynamic yet optimizer-agnostic criteria based on raw gradients. We propose OPUS (Optimizer-induced Projected Utility Selection), a dynamic data selection framework that defines utility in the optimizer-induced update space. OPUS scores candidates by projecting their effective updates, shaped by modern optimizers, onto a target direction derived from a stable, in-distribution proxy. To ensure scalability, we employ Ghost technique with CountSketch for computational efficiency, and Boltzmann sampling for data diversity, incurring only 4.7\\% additional compute overhead. OPUS achieves remarkable results across diverse corpora, quality tiers, optimizers, and model scales. In pre-training of GPT-2 Large/XL on FineWeb and FineWeb-Edu with 30B tokens, OPUS outperforms industrial-level baselines and even full 200B-token training. Moreover, when combined with industrial-level static filters, OPUS further improves pre-training efficiency, even with lower-quality data. Furthermore, in continued pre-training of Qwen3-8B-Base on SciencePedia, OPUS achieves superior performance using only 0.5B tokens compared to full training with 3B tokens, demonstrating significant data efficiency gains in specialized domains.",
-      "fetch_date": "2026-02-11",
-      "num_comments": 3,
-      "ai_summary": "OPUS is a dynamic data selection framework that improves pre-training efficiency by scoring data candidates based on optimizer-induced update projections in a stable proxy-derived target space, achieving superior performance with reduced computational overhead.",
-      "ai_keywords": [
-        "data selection",
-        "optimizer-induced update space",
-        "effective updates",
-        "stable in-distribution proxy",
-        "Ghost technique",
-        "CountSketch",
-        "Boltzmann sampling",
-        "pre-training",
-        "GPT-2",
-        "Qwen3-8B-Base",
-        "FineWeb",
-        "FineWeb-Edu",
-        "SciencePedia"
-      ]
-    }
-  },
-  {
     "id": "1d7906d44575617e25d337b1212aaeef",
     "source": "huggingface",
     "type": "paper",
@@ -198,7 +144,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
-    "description": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity usi...<br/>Upvotes: 241<br/>GitHub Stars: 150<br/>Authors: Zhongzhi Li, Xuansheng Wu, Yijiang Li<br/>🔗 <a href=\"https://github.com/Zhongzhi660/FAC-Synthesis\">GitHub</a><br/>🔗 <a href=\"https://website-sigma-three-35.vercel.app/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.10388\">Hugging Face</a>",
+    "description": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity usi...<br/>Upvotes: 241<br/>GitHub Stars: 152<br/>Authors: Zhongzhi Li, Xuansheng Wu, Yijiang Li<br/>🔗 <a href=\"https://github.com/Zhongzhi660/FAC-Synthesis\">GitHub</a><br/>🔗 <a href=\"https://website-sigma-three-35.vercel.app/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.10388\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.10388",
     "external_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
     "published_date": "2026-02-10T19:23:13.000Z",
@@ -209,7 +155,7 @@
     "metadata": {
       "paper_id": "2602.10388",
       "upvotes": 241,
-      "github_stars": 150,
+      "github_stars": 152,
       "github_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
       "project_url": "https://website-sigma-three-35.vercel.app/",
       "authors": [
@@ -283,52 +229,116 @@
     }
   },
   {
-    "id": "5949b4addf462622a83200c6df85b433",
+    "id": "ba29c6f9aa390a5bf52322ac7f1fff92",
     "source": "huggingface",
     "type": "paper",
-    "title": "Code2World: A GUI World Model via Renderable Code Generation",
-    "description": "Autonomous GUI agents interact with environments by perceiving interfaces and executing actions. As a virtual sandbox, the GUI World model empowers agents with human-like foresight by enabling action-...<br/>Upvotes: 200<br/>GitHub Stars: 462<br/>Authors: Yuhao Zheng, Li'an Zhong, Yi Wang<br/>🔗 <a href=\"https://github.com/AMAP-ML/Code2World\">GitHub</a><br/>🔗 <a href=\"https://amap-ml.github.io/Code2World/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.09856\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2602.09856",
-    "external_url": "https://github.com/AMAP-ML/Code2World",
-    "published_date": "2026-02-10T09:56:19.000Z",
+    "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
+    "description": "The emergence of multi-agent systems built from large language models (LLMs) offers a promising paradigm for scalable collective intelligence and self-evolution. Ideally, such systems would achieve co...<br/>Upvotes: 197<br/>Authors: Chenxu Wang, Chaozhuo Li, Songyang Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.09877\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2602.09877",
+    "external_url": "",
+    "published_date": "2026-02-10T10:18:19.000Z",
     "categories": [
       "research",
       "paper"
     ],
     "metadata": {
-      "paper_id": "2602.09856",
-      "upvotes": 200,
-      "github_stars": 462,
-      "github_url": "https://github.com/AMAP-ML/Code2World",
-      "project_url": "https://amap-ml.github.io/Code2World/",
+      "paper_id": "2602.09877",
+      "upvotes": 197,
+      "github_stars": 0,
+      "github_url": "",
+      "project_url": "",
       "authors": [
-        "Yuhao Zheng",
-        "Li'an Zhong",
-        "Yi Wang",
-        "Rui Dai",
-        "Kaikui Liu",
-        "Xiangxiang Chu",
-        "Linyuan Lv",
-        "Philip Torr",
-        "Kevin Qinghong Lin"
+        "Chenxu Wang",
+        "Chaozhuo Li",
+        "Songyang Liu",
+        "Zejian Chen",
+        "Jinyu Hou",
+        "Ji Qi",
+        "Rui Li",
+        "Litian Zhang",
+        "Qiwei Ye",
+        "Zheng Liu",
+        "Xu Chen",
+        "Xi Zhang",
+        "Philip S. Yu"
       ],
-      "summary": "Autonomous GUI agents interact with environments by perceiving interfaces and executing actions. As a virtual sandbox, the GUI World model empowers agents with human-like foresight by enabling action-conditioned prediction. However, existing text- and pixel-based approaches struggle to simultaneously achieve high visual fidelity and fine-grained structural controllability. To this end, we propose Code2World, a vision-language coder that simulates the next visual state via renderable code generation. Specifically, to address the data scarcity problem, we construct AndroidCode by translating GUI trajectories into high-fidelity HTML and refining synthesized code through a visual-feedback revision mechanism, yielding a corpus of over 80K high-quality screen-action pairs. To adapt existing VLMs into code prediction, we first perform SFT as a cold start for format layout following, then further apply Render-Aware Reinforcement Learning which uses rendered outcome as the reward signal by enforcing visual semantic fidelity and action consistency. Extensive experiments demonstrate that Code2World-8B achieves the top-performing next UI prediction, rivaling the competitive GPT-5 and Gemini-3-Pro-Image. Notably, Code2World significantly enhances downstream navigation success rates in a flexible manner, boosting Gemini-2.5-Flash by +9.5% on AndroidWorld navigation. The code is available at https://github.com/AMAP-ML/Code2World.",
-      "fetch_date": "2026-02-11",
-      "num_comments": 3,
-      "ai_summary": "Code2World enables autonomous GUI agents to predict next visual states through renderable code generation, achieving high visual fidelity and structural controllability while improving navigation performance.",
+      "summary": "The emergence of multi-agent systems built from large language models (LLMs) offers a promising paradigm for scalable collective intelligence and self-evolution. Ideally, such systems would achieve continuous self-improvement in a fully closed loop while maintaining robust safety alignment--a combination we term the self-evolution trilemma. However, we demonstrate both theoretically and empirically that an agent society satisfying continuous self-evolution, complete isolation, and safety invariance is impossible. Drawing on an information-theoretic framework, we formalize safety as the divergence degree from anthropic value distributions. We theoretically demonstrate that isolated self-evolution induces statistical blind spots, leading to the irreversible degradation of the system's safety alignment. Empirical and qualitative results from an open-ended agent community (Moltbook) and two closed self-evolving systems reveal phenomena that align with our theoretical prediction of inevitable safety erosion. We further propose several solution directions to alleviate the identified safety concern. Our work establishes a fundamental limit on the self-evolving AI societies and shifts the discourse from symptom-driven safety patches to a principled understanding of intrinsic dynamical risks, highlighting the need for external oversight or novel safety-preserving mechanisms.",
+      "fetch_date": "2026-02-13",
+      "num_comments": 9,
+      "ai_summary": "Multi-agent LLM systems face fundamental limitations in achieving continuous self-improvement while maintaining safety alignment due to inherent statistical blind spots in isolated evolution.",
       "ai_keywords": [
-        "vision-language coder",
-        "GUI World model",
-        "action-conditioned prediction",
-        "AndroidCode",
-        "HTML generation",
-        "visual-feedback revision mechanism",
-        "SFT",
-        "Render-Aware Reinforcement Learning",
-        "visual semantic fidelity",
-        "action consistency",
-        "next UI prediction",
-        "AndroidWorld navigation"
+        "multi-agent systems",
+        "large language models",
+        "self-evolution",
+        "safety alignment",
+        "information-theoretic framework",
+        "anthropic value distributions",
+        "statistical blind spots",
+        "self-evolving AI societies",
+        "external oversight",
+        "safety-preserving mechanisms"
+      ]
+    }
+  },
+  {
+    "id": "74a5683be0131d67934beed0d852ac1e",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "The Trinity of Consistency as a Defining Principle for General World Models",
+    "description": "The construction of World Models capable of learning, simulating, and reasoning about objective physical laws constitutes a foundational challenge in the pursuit of Artificial General Intelligence. Re...<br/>Upvotes: 196<br/>GitHub Stars: 149<br/>Authors: Jingxuan Wei, Siyuan Li, Yuhang Xu<br/>🔗 <a href=\"https://github.com/openraiser/awesome-world-model-evolution\">GitHub</a><br/>🔗 <a href=\"https://openraiser.github.io/CoW-Bench/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.23152\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2602.23152",
+    "external_url": "https://github.com/openraiser/awesome-world-model-evolution",
+    "published_date": "2026-02-26T11:15:55.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2602.23152",
+      "upvotes": 196,
+      "github_stars": 149,
+      "github_url": "https://github.com/openraiser/awesome-world-model-evolution",
+      "project_url": "https://openraiser.github.io/CoW-Bench/",
+      "authors": [
+        "Jingxuan Wei",
+        "Siyuan Li",
+        "Yuhang Xu",
+        "Zheng Sun",
+        "Junjie Jiang",
+        "Hexuan Jin",
+        "Caijun Jia",
+        "Honghao He",
+        "Xinglong Xu",
+        "Xi bai",
+        "Chang Yu",
+        "Yumou Liu",
+        "Junnan Zhu",
+        "Xuanhe Zhou",
+        "Jintao Chen",
+        "Xiaobin Hu",
+        "Shancheng Pang",
+        "Bihui Yu",
+        "Ran He",
+        "Zhen Lei",
+        "Stan Z. Li",
+        "Conghui He",
+        "Shuicheng Yan",
+        "Cheng Tan"
+      ],
+      "summary": "The construction of World Models capable of learning, simulating, and reasoning about objective physical laws constitutes a foundational challenge in the pursuit of Artificial General Intelligence. Recent advancements represented by video generation models like Sora have demonstrated the potential of data-driven scaling laws to approximate physical dynamics, while the emerging Unified Multimodal Model (UMM) offers a promising architectural paradigm for integrating perception, language, and reasoning. Despite these advances, the field still lacks a principled theoretical framework that defines the essential properties requisite for a General World Model. In this paper, we propose that a World Model must be grounded in the Trinity of Consistency: Modal Consistency as the semantic interface, Spatial Consistency as the geometric basis, and Temporal Consistency as the causal engine. Through this tripartite lens, we systematically review the evolution of multimodal learning, revealing a trajectory from loosely coupled specialized modules toward unified architectures that enable the synergistic emergence of internal world simulators. To complement this conceptual framework, we introduce CoW-Bench, a benchmark centered on multi-frame reasoning and generation scenarios. CoW-Bench evaluates both video generation models and UMMs under a unified evaluation protocol. Our work establishes a principled pathway toward general world models, clarifying both the limitations of current systems and the architectural requirements for future progress.",
+      "fetch_date": "2026-02-27",
+      "num_comments": 4,
+      "ai_summary": "World Models require three consistency principles—modal, spatial, and temporal—for general artificial intelligence, with a proposed benchmark evaluating multimodal learning systems.",
+      "ai_keywords": [
+        "World Models",
+        "video generation models",
+        "Unified Multimodal Model",
+        "multimodal learning",
+        "multi-frame reasoning",
+        "CoW-Bench",
+        "modal consistency",
+        "spatial consistency",
+        "temporal consistency"
       ]
     }
   },
@@ -337,7 +347,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Fish Audio S2 Technical Report",
-    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 21<br/>GitHub Stars: 26451<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
+    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 22<br/>GitHub Stars: 26985<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.08823",
     "external_url": "https://github.com/fishaudio/fish-speech",
     "published_date": "2026-03-09T14:34:33.000Z",
@@ -347,8 +357,8 @@
     ],
     "metadata": {
       "paper_id": "2603.08823",
-      "upvotes": 21,
-      "github_stars": 26451,
+      "upvotes": 22,
+      "github_stars": 26985,
       "github_url": "https://github.com/fishaudio/fish-speech",
       "project_url": "https://fish.audio/",
       "authors": [
@@ -394,7 +404,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 45<br/>GitHub Stars: 15959<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 46<br/>GitHub Stars: 15979<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -404,8 +414,8 @@
     ],
     "metadata": {
       "paper_id": "2603.00729",
-      "upvotes": 45,
-      "github_stars": 15959,
+      "upvotes": 46,
+      "github_stars": 15979,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
       "authors": [
@@ -452,7 +462,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
-    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2712<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
+    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2714<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15989",
     "external_url": "https://github.com/facebookresearch/sam-3d-body",
     "published_date": "2026-02-17T15:26:37.000Z",
@@ -463,7 +473,7 @@
     "metadata": {
       "paper_id": "2602.15989",
       "upvotes": 11,
-      "github_stars": 2712,
+      "github_stars": 2714,
       "github_url": "https://github.com/facebookresearch/sam-3d-body",
       "project_url": "https://ai.meta.com/research/sam3d/",
       "authors": [
@@ -505,11 +515,54 @@
     }
   },
   {
+    "id": "565c8a87e4fe62ce866994307eba02cc",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 90<br/>GitHub Stars: 2465<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2603.10165",
+    "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "published_date": "2026-03-10T14:59:01.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2603.10165",
+      "upvotes": 90,
+      "github_stars": 2465,
+      "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "authors": [
+        "Yinjie Wang",
+        "Xuyang Chen",
+        "Xiaolong Jin",
+        "Mengdi Wang",
+        "Ling Yang"
+      ],
+      "summary": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-state signals are universal, and policy can learn from all of them simultaneously. Personal conversations, terminal executions, GUI interactions, SWE tasks, and tool-call traces are not separate training problems. They are all interactions that can be used to train the same policy in the same loop. Next-state signals encode two forms of information: evaluative signals, which indicate how well the action performed and are extracted as scalar rewards via a PRM judge; and directive signals, which indicate how the action should have been different and are recovered through Hindsight-Guided On-Policy Distillation (OPD). We extract textual hints from the next state, construct an enhanced teacher context, and provide token-level directional advantage supervision that is richer than any scalar reward. Due to the asynchronous design, the model serves live requests, the PRM judges ongoing interactions, and the trainer updates the policy at the same time, with zero coordination overhead between them. Applied to personal agents, OpenClaw-RL enables an agent to improve simply by being used, recovering conversational signals from user re-queries, corrections, and explicit feedback. Applied to general agents, the same infrastructure supports scalable RL across terminal, GUI, SWE, and tool-call settings, where we additionally demonstrate the utility of process rewards. Code: https://github.com/Gen-Verse/OpenClaw-RL",
+      "fetch_date": "2026-03-12",
+      "num_comments": 3,
+      "ai_summary": "OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.",
+      "ai_keywords": [
+        "agentic RL",
+        "next-state signals",
+        "PRM judge",
+        "Hindsight-Guided On-Policy Distillation",
+        "OPD",
+        "policy learning",
+        "asynchronous design",
+        "process rewards",
+        "reinforcement learning"
+      ]
+    }
+  },
+  {
     "id": "b157736c15947e5fb8a4be69ee79b1ab",
     "source": "huggingface",
     "type": "paper",
     "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
-    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 58<br/>GitHub Stars: 2401<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
+    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 58<br/>GitHub Stars: 2403<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.12099",
     "external_url": "https://github.com/open-gigaai/giga-brain-0",
     "published_date": "2026-02-12T10:55:19.000Z",
@@ -520,7 +573,7 @@
     "metadata": {
       "paper_id": "2602.12099",
       "upvotes": 58,
-      "github_stars": 2401,
+      "github_stars": 2403,
       "github_url": "https://github.com/open-gigaai/giga-brain-0",
       "project_url": "https://gigabrain05m.github.io/",
       "authors": [
@@ -566,54 +619,11 @@
     }
   },
   {
-    "id": "565c8a87e4fe62ce866994307eba02cc",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 79<br/>GitHub Stars: 2192<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2603.10165",
-    "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-    "published_date": "2026-03-10T14:59:01.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2603.10165",
-      "upvotes": 79,
-      "github_stars": 2192,
-      "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "authors": [
-        "Yinjie Wang",
-        "Xuyang Chen",
-        "Xiaolong Jin",
-        "Mengdi Wang",
-        "Ling Yang"
-      ],
-      "summary": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-state signals are universal, and policy can learn from all of them simultaneously. Personal conversations, terminal executions, GUI interactions, SWE tasks, and tool-call traces are not separate training problems. They are all interactions that can be used to train the same policy in the same loop. Next-state signals encode two forms of information: evaluative signals, which indicate how well the action performed and are extracted as scalar rewards via a PRM judge; and directive signals, which indicate how the action should have been different and are recovered through Hindsight-Guided On-Policy Distillation (OPD). We extract textual hints from the next state, construct an enhanced teacher context, and provide token-level directional advantage supervision that is richer than any scalar reward. Due to the asynchronous design, the model serves live requests, the PRM judges ongoing interactions, and the trainer updates the policy at the same time, with zero coordination overhead between them. Applied to personal agents, OpenClaw-RL enables an agent to improve simply by being used, recovering conversational signals from user re-queries, corrections, and explicit feedback. Applied to general agents, the same infrastructure supports scalable RL across terminal, GUI, SWE, and tool-call settings, where we additionally demonstrate the utility of process rewards. Code: https://github.com/Gen-Verse/OpenClaw-RL",
-      "fetch_date": "2026-03-12",
-      "num_comments": 3,
-      "ai_summary": "OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.",
-      "ai_keywords": [
-        "agentic RL",
-        "next-state signals",
-        "PRM judge",
-        "Hindsight-Guided On-Policy Distillation",
-        "OPD",
-        "policy learning",
-        "asynchronous design",
-        "process rewards",
-        "reinforcement learning"
-      ]
-    }
-  },
-  {
     "id": "75f488e23241beb0d586072f6665aa06",
     "source": "huggingface",
     "type": "paper",
     "title": "dLLM: Simple Diffusion Language Modeling",
-    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 127<br/>GitHub Stars: 2191<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
+    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 128<br/>GitHub Stars: 2198<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.22661",
     "external_url": "https://github.com/ZHZisZZ/dllm",
     "published_date": "2026-02-26T01:26:02.000Z",
@@ -623,8 +633,8 @@
     ],
     "metadata": {
       "paper_id": "2602.22661",
-      "upvotes": 127,
-      "github_stars": 2191,
+      "upvotes": 128,
+      "github_stars": 2198,
       "github_url": "https://github.com/ZHZisZZ/dllm",
       "project_url": "https://github.com/ZHZisZZ/dllm",
       "authors": [
