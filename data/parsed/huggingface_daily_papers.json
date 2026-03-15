@@ -144,7 +144,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
-    "description": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity usi...<br/>Upvotes: 241<br/>GitHub Stars: 152<br/>Authors: Zhongzhi Li, Xuansheng Wu, Yijiang Li<br/>🔗 <a href=\"https://github.com/Zhongzhi660/FAC-Synthesis\">GitHub</a><br/>🔗 <a href=\"https://website-sigma-three-35.vercel.app/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.10388\">Hugging Face</a>",
+    "description": "The diversity of post-training data is critical for effective downstream performance in large language models (LLMs). Many existing approaches to constructing post-training data quantify diversity usi...<br/>Upvotes: 241<br/>GitHub Stars: 153<br/>Authors: Zhongzhi Li, Xuansheng Wu, Yijiang Li<br/>🔗 <a href=\"https://github.com/Zhongzhi660/FAC-Synthesis\">GitHub</a><br/>🔗 <a href=\"https://website-sigma-three-35.vercel.app/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.10388\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.10388",
     "external_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
     "published_date": "2026-02-10T19:23:13.000Z",
@@ -155,7 +155,7 @@
     "metadata": {
       "paper_id": "2602.10388",
       "upvotes": 241,
-      "github_stars": 152,
+      "github_stars": 153,
       "github_url": "https://github.com/Zhongzhi660/FAC-Synthesis",
       "project_url": "https://website-sigma-three-35.vercel.app/",
       "authors": [
@@ -233,7 +233,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
-    "description": "The emergence of multi-agent systems built from large language models (LLMs) offers a promising paradigm for scalable collective intelligence and self-evolution. Ideally, such systems would achieve co...<br/>Upvotes: 197<br/>Authors: Chenxu Wang, Chaozhuo Li, Songyang Liu<br/>🔗 <a href=\"https://huggingface.co/papers/2602.09877\">Hugging Face</a>",
+    "description": "The emergence of multi-agent systems built from large language models (LLMs) offers a promising paradigm for scalable collective intelligence and self-evolution. Ideally, such systems would achieve co...<br/>Upvotes: 197<br/>Authors: Chenxu Wang, Chaozhuo Li, Songyang Liu<br/>🔗 <a href=\"https://www.moltbook.com/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.09877\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.09877",
     "external_url": "",
     "published_date": "2026-02-10T10:18:19.000Z",
@@ -246,7 +246,7 @@
       "upvotes": 197,
       "github_stars": 0,
       "github_url": "",
-      "project_url": "",
+      "project_url": "https://www.moltbook.com/",
       "authors": [
         "Chenxu Wang",
         "Chaozhuo Li",
@@ -347,7 +347,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Fish Audio S2 Technical Report",
-    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 22<br/>GitHub Stars: 26985<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
+    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 25<br/>GitHub Stars: 27314<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.08823",
     "external_url": "https://github.com/fishaudio/fish-speech",
     "published_date": "2026-03-09T14:34:33.000Z",
@@ -357,8 +357,8 @@
     ],
     "metadata": {
       "paper_id": "2603.08823",
-      "upvotes": 22,
-      "github_stars": 26985,
+      "upvotes": 25,
+      "github_stars": 27314,
       "github_url": "https://github.com/fishaudio/fish-speech",
       "project_url": "https://fish.audio/",
       "authors": [
@@ -404,7 +404,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 46<br/>GitHub Stars: 15979<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 48<br/>GitHub Stars: 15987<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -414,8 +414,8 @@
     ],
     "metadata": {
       "paper_id": "2603.00729",
-      "upvotes": 46,
-      "github_stars": 15979,
+      "upvotes": 48,
+      "github_stars": 15987,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
       "authors": [
@@ -458,11 +458,54 @@
     }
   },
   {
+    "id": "565c8a87e4fe62ce866994307eba02cc",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 93<br/>GitHub Stars: 2786<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2603.10165",
+    "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "published_date": "2026-03-10T14:59:01.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2603.10165",
+      "upvotes": 93,
+      "github_stars": 2786,
+      "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
+      "authors": [
+        "Yinjie Wang",
+        "Xuyang Chen",
+        "Xiaolong Jin",
+        "Mengdi Wang",
+        "Ling Yang"
+      ],
+      "summary": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-state signals are universal, and policy can learn from all of them simultaneously. Personal conversations, terminal executions, GUI interactions, SWE tasks, and tool-call traces are not separate training problems. They are all interactions that can be used to train the same policy in the same loop. Next-state signals encode two forms of information: evaluative signals, which indicate how well the action performed and are extracted as scalar rewards via a PRM judge; and directive signals, which indicate how the action should have been different and are recovered through Hindsight-Guided On-Policy Distillation (OPD). We extract textual hints from the next state, construct an enhanced teacher context, and provide token-level directional advantage supervision that is richer than any scalar reward. Due to the asynchronous design, the model serves live requests, the PRM judges ongoing interactions, and the trainer updates the policy at the same time, with zero coordination overhead between them. Applied to personal agents, OpenClaw-RL enables an agent to improve simply by being used, recovering conversational signals from user re-queries, corrections, and explicit feedback. Applied to general agents, the same infrastructure supports scalable RL across terminal, GUI, SWE, and tool-call settings, where we additionally demonstrate the utility of process rewards. Code: https://github.com/Gen-Verse/OpenClaw-RL",
+      "fetch_date": "2026-03-12",
+      "num_comments": 3,
+      "ai_summary": "OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.",
+      "ai_keywords": [
+        "agentic RL",
+        "next-state signals",
+        "PRM judge",
+        "Hindsight-Guided On-Policy Distillation",
+        "OPD",
+        "policy learning",
+        "asynchronous design",
+        "process rewards",
+        "reinforcement learning"
+      ]
+    }
+  },
+  {
     "id": "f4ecd041eb15250a95cad84e921e923b",
     "source": "huggingface",
     "type": "paper",
     "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
-    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2714<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
+    "description": "We introduce SAM 3D Body (3DB), a promptable model for single-image full-body 3D human mesh recovery (HMR) that demonstrates state-of-the-art performance, with strong generalization and consistent acc...<br/>Upvotes: 11<br/>GitHub Stars: 2719<br/>Authors: Xitong Yang, Devansh Kukreja, Don Pinkus<br/>🔗 <a href=\"https://github.com/facebookresearch/sam-3d-body\">GitHub</a><br/>🔗 <a href=\"https://ai.meta.com/research/sam3d/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.15989\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.15989",
     "external_url": "https://github.com/facebookresearch/sam-3d-body",
     "published_date": "2026-02-17T15:26:37.000Z",
@@ -473,7 +516,7 @@
     "metadata": {
       "paper_id": "2602.15989",
       "upvotes": 11,
-      "github_stars": 2714,
+      "github_stars": 2719,
       "github_url": "https://github.com/facebookresearch/sam-3d-body",
       "project_url": "https://ai.meta.com/research/sam3d/",
       "authors": [
@@ -515,54 +558,11 @@
     }
   },
   {
-    "id": "565c8a87e4fe62ce866994307eba02cc",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 90<br/>GitHub Stars: 2465<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2603.10165",
-    "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-    "published_date": "2026-03-10T14:59:01.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2603.10165",
-      "upvotes": 90,
-      "github_stars": 2465,
-      "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-      "authors": [
-        "Yinjie Wang",
-        "Xuyang Chen",
-        "Xiaolong Jin",
-        "Mengdi Wang",
-        "Ling Yang"
-      ],
-      "summary": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-state signals are universal, and policy can learn from all of them simultaneously. Personal conversations, terminal executions, GUI interactions, SWE tasks, and tool-call traces are not separate training problems. They are all interactions that can be used to train the same policy in the same loop. Next-state signals encode two forms of information: evaluative signals, which indicate how well the action performed and are extracted as scalar rewards via a PRM judge; and directive signals, which indicate how the action should have been different and are recovered through Hindsight-Guided On-Policy Distillation (OPD). We extract textual hints from the next state, construct an enhanced teacher context, and provide token-level directional advantage supervision that is richer than any scalar reward. Due to the asynchronous design, the model serves live requests, the PRM judges ongoing interactions, and the trainer updates the policy at the same time, with zero coordination overhead between them. Applied to personal agents, OpenClaw-RL enables an agent to improve simply by being used, recovering conversational signals from user re-queries, corrections, and explicit feedback. Applied to general agents, the same infrastructure supports scalable RL across terminal, GUI, SWE, and tool-call settings, where we additionally demonstrate the utility of process rewards. Code: https://github.com/Gen-Verse/OpenClaw-RL",
-      "fetch_date": "2026-03-12",
-      "num_comments": 3,
-      "ai_summary": "OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.",
-      "ai_keywords": [
-        "agentic RL",
-        "next-state signals",
-        "PRM judge",
-        "Hindsight-Guided On-Policy Distillation",
-        "OPD",
-        "policy learning",
-        "asynchronous design",
-        "process rewards",
-        "reinforcement learning"
-      ]
-    }
-  },
-  {
     "id": "b157736c15947e5fb8a4be69ee79b1ab",
     "source": "huggingface",
     "type": "paper",
     "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
-    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 58<br/>GitHub Stars: 2403<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
+    "description": "Vision-language-action (VLA) models that directly predict multi-step action chunks from current observations face inherent limitations due to constrained scene understanding and weak future anticipati...<br/>Upvotes: 58<br/>GitHub Stars: 2405<br/>Authors: GigaBrain Team, Boyuan Wang, Chaojun Ni<br/>🔗 <a href=\"https://github.com/open-gigaai/giga-brain-0\">GitHub</a><br/>🔗 <a href=\"https://gigabrain05m.github.io/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.12099\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.12099",
     "external_url": "https://github.com/open-gigaai/giga-brain-0",
     "published_date": "2026-02-12T10:55:19.000Z",
@@ -573,7 +573,7 @@
     "metadata": {
       "paper_id": "2602.12099",
       "upvotes": 58,
-      "github_stars": 2403,
+      "github_stars": 2405,
       "github_url": "https://github.com/open-gigaai/giga-brain-0",
       "project_url": "https://gigabrain05m.github.io/",
       "authors": [
@@ -623,7 +623,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "dLLM: Simple Diffusion Language Modeling",
-    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 128<br/>GitHub Stars: 2198<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
+    "description": "Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, however, are distributed across ad-hoc research codebases o...<br/>Upvotes: 128<br/>GitHub Stars: 2205<br/>Authors: Zhanhui Zhou, Lingjie Chen, Hanghang Tong<br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">GitHub</a><br/>🔗 <a href=\"https://github.com/ZHZisZZ/dllm\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.22661\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.22661",
     "external_url": "https://github.com/ZHZisZZ/dllm",
     "published_date": "2026-02-26T01:26:02.000Z",
@@ -634,7 +634,7 @@
     "metadata": {
       "paper_id": "2602.22661",
       "upvotes": 128,
-      "github_stars": 2198,
+      "github_stars": 2205,
       "github_url": "https://github.com/ZHZisZZ/dllm",
       "project_url": "https://github.com/ZHZisZZ/dllm",
       "authors": [
