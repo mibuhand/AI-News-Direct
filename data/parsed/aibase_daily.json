@@ -1,12 +1,32 @@
 [
     {
+        "id": "35f2eba9b0b9a1f6a51b02cb1bdb20c9",
+        "source": "aibase",
+        "type": "daily_news",
+        "title": "AI日报：通义千问3.5-Max模型发布；豆包内测AI电商；腾讯QClaw正式开启公测",
+        "description": "1、中国模型登顶！在性能表现上，MistralSmall4较前代产品实现了质的飞跃，延迟优化模式下端到端完成时间缩短了40%。",
+        "url": "https://news.aibase.com/zh/daily/26426",
+        "published_date": "2026-03-20T11:51:03.716907+00:00",
+        "categories": [
+            "AI Daily",
+            "人工智能"
+        ],
+        "organization": "AIBase",
+        "metadata": {
+            "thumbnail": "https://pic.chinaz.com/picmap/202504151007248027_6.jpg",
+            "page_views": 10500,
+            "oid": "26426"
+        },
+        "objects": []
+    },
+    {
         "id": "571fd5f0a3d905782122fd2132872032",
         "source": "aibase",
         "type": "daily_news",
         "title": "AI日报：Midjourney V8开启测试；小米发布MiMo-V2-TTS大模型；蚂蚁数科发布“OpenClaw龙虾卫士”",
         "description": "1、MidjourneyV8开启测试:生成速度提升5倍并支持原生2K渲染MidjourneyV8模型的发布标志着扩散模型在效率上的突破，同时带来了更高的图像质量和性能提升，但也伴随着成本增加和一些技术限制。该体系聚焦三大核心能力：对抗思想变异、净化skills仓库和风险舆情播报，并同步启动“龙虾AI安全守护计划”，助力企业低成本完成安全基线建设。",
         "url": "https://news.aibase.com/zh/daily/26390",
-        "published_date": "2026-03-19T11:56:06.873451+00:00",
+        "published_date": "2026-03-19T16:51:03.717700+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -14,7 +34,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0319/6390951600977621418324210.jpg",
-            "page_views": 10000,
+            "page_views": 19000,
             "oid": "26390"
         },
         "objects": []
@@ -26,7 +46,7 @@
         "title": "AI日报：MiniMax发布M2.7模型；腾讯QClaw接入微信小程序；OpenAI发布最强小模型GPT-5.4 mini",
         "description": "1、模型也会“套娃”？8、字节跳动发布ByteClaw工具及《安全规范》，强化大模型内网访问管控字节跳动发布ByteClaw工具及《安全规范》，强化大模型内网访问管控，旨在通过标准化手段解决大模型工具在企业内网环境下的安全治理难题。",
         "url": "https://news.aibase.com/zh/daily/26342",
-        "published_date": "2026-03-18T16:56:06.874313+00:00",
+        "published_date": "2026-03-19T11:51:03.718300+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -34,7 +54,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202501150943267809_0.jpg",
-            "page_views": 20500,
+            "page_views": 23200,
             "oid": "26342"
         },
         "objects": []
@@ -46,7 +66,7 @@
         "title": "AI日报：PixVerse推出开发者专属CLI；钉钉发布“悟空”AI原生平台；苹果发布 LiTo 大模型",
         "description": "1、终结繁琐操作！公司对新技术的开放态度仍引发市场对其未来智能化转型的期待。",
         "url": "https://news.aibase.com/zh/daily/26301",
-        "published_date": "2026-03-18T11:56:06.874944+00:00",
+        "published_date": "2026-03-18T11:51:03.718926+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -54,7 +74,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/2026/0317/26031702502494575781.jpg",
-            "page_views": 24900,
+            "page_views": 25400,
             "oid": "26301"
         },
         "objects": []
@@ -66,7 +86,7 @@
         "title": "AI日报：腾讯发布“龙虾管家”；抖音处置AI擦边违规账号1.4万个；有赞回应315AI投毒传闻",
         "description": "1、行业首个！该模型通过引入“时间模态”和四模态融合架构，实现了对多人对话场景的精准支持，显著提升了词错率、唇部同步度及音色相似度的表现。",
         "url": "https://news.aibase.com/zh/daily/26257",
-        "published_date": "2026-03-17T11:56:06.875569+00:00",
+        "published_date": "2026-03-17T11:51:03.719437+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -74,7 +94,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0316/6390925830150798709624404.png",
-            "page_views": 25100,
+            "page_views": 27900,
             "oid": "26257"
         },
         "objects": []
@@ -86,7 +106,7 @@
         "title": "AI日报：xAI发布Grok4.20；美团上线AI搜索产品“问小团”；百度健康内测AI医生助手“DoctorClaw”",
         "description": "1、xAI发布Grok4.20:推理性能提升显著，不幻觉率78%创行业纪录xAI发布Grok4.20，其推理性能显著提升，非幻觉率高达78%，创行业纪录。国产模型凭借高性价比优势，正在推动大模型Token消耗量的增长。",
         "url": "https://news.aibase.com/zh/daily/26209",
-        "published_date": "2026-03-14T11:56:06.876126+00:00",
+        "published_date": "2026-03-14T11:51:03.719989+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -94,7 +114,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg",
-            "page_views": 28400,
+            "page_views": 28900,
             "oid": "26209"
         },
         "objects": []
@@ -106,7 +126,7 @@
         "title": "AI日报：腾讯WorkBuddy支持微信一键直连；小红书首发龙虾禁令；ComfyUI推出App Mode",
         "description": "欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。8、NVIDIA发布开源大模型Nemotron3Super：性能直逼GPT-5.4NVIDIA发布了专为AI智能体设计的开源大模型Nemotron3Super，凭借卓越的推理效率和任务成功率迅速成为开源社区焦点。该模型采用创新的Mamba-MoE混合架构，支持超长上下文，性能表现接近闭源大模型，同时适配最新硬件平台并被多家科技巨头集成。",
         "url": "https://news.aibase.com/zh/daily/26173",
-        "published_date": "2026-03-13T11:56:06.876628+00:00",
+        "published_date": "2026-03-12T00:00:00+00:00",
         "categories": [
             "AI Daily",
             "人工智能"
@@ -114,7 +134,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202010301735209230_20.jpg",
-            "page_views": 30500,
+            "page_views": 30000,
             "oid": "26173"
         },
         "objects": []
@@ -134,7 +154,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/201812191620400902_0.jpg",
-            "page_views": 27700,
+            "page_views": 27300,
             "oid": "26134"
         },
         "objects": []
@@ -154,7 +174,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202603091726315546_1.jpg",
-            "page_views": 35500,
+            "page_views": 36100,
             "oid": "26090"
         },
         "objects": []
@@ -174,7 +194,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg",
-            "page_views": 30300,
+            "page_views": 30700,
             "oid": "26047"
         },
         "objects": []
@@ -194,7 +214,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/201812101541429574_0.jpg",
-            "page_views": 32000,
+            "page_views": 32400,
             "oid": "26000"
         },
         "objects": []
@@ -214,7 +234,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0305/6390831972498648452122287.png",
-            "page_views": 28500,
+            "page_views": 28700,
             "oid": "25962"
         },
         "objects": []
@@ -234,7 +254,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202302150929449091_0.jpg",
-            "page_views": 30400,
+            "page_views": 30600,
             "oid": "25928"
         },
         "objects": []
@@ -254,7 +274,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202501150943267809_0.jpg",
-            "page_views": 30500,
+            "page_views": 30700,
             "oid": "25889"
         },
         "objects": []
@@ -274,7 +294,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0302/6390804270142921849716319.png",
-            "page_views": 28700,
+            "page_views": 28900,
             "oid": "25844"
         },
         "objects": []
@@ -294,7 +314,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202312070835429226_0.jpg",
-            "page_views": 37600,
+            "page_views": 37700,
             "oid": "25801"
         },
         "objects": []
@@ -314,7 +334,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0227/6390777896567792442667976.png",
-            "page_views": 33600,
+            "page_views": 34900,
             "oid": "25756"
         },
         "objects": []
@@ -334,7 +354,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0226/6390771388268501769450734.png",
-            "page_views": 31700,
+            "page_views": 31800,
             "oid": "25715"
         },
         "objects": []
@@ -354,7 +374,7 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://upload.chinaz.com/2026/0224/6390755076924162206032148.png",
-            "page_views": 31000,
+            "page_views": 31200,
             "oid": "25680"
         },
         "objects": []
@@ -374,28 +394,8 @@
         "organization": "AIBase",
         "metadata": {
             "thumbnail": "https://pic.chinaz.com/picmap/202307261637346165_3.jpg",
-            "page_views": 35500,
+            "page_views": 35600,
             "oid": "25631"
-        },
-        "objects": []
-    },
-    {
-        "id": "5553efecca92d723419f55b31cc78d02",
-        "source": "aibase",
-        "type": "daily_news",
-        "title": "AI日报：字节发布Seedream5.0Lite；小红书不标AI将限流；美图开拍首批接入Seedance 2.0大模型",
-        "description": "1、字节跳动发布Seedream5.0Lite:具备“视觉推理”与“实时联网”能力的图像创作新标杆字节跳动Seed团队推出了Seedream5.0Lite智能图像创作模型，该模型通过多模态统一架构实现了从执行指令到深度理解意图的跨越，具有更强的视觉推理和实时联网能力，提升了图像生成的专业性和准确性。AI春晚总动员活动也增强了用户的互动体验，推动了旅游市场的智能化发展。",
-        "url": "https://news.aibase.com/zh/daily/25530",
-        "published_date": "2026-02-13T00:00:00+00:00",
-        "categories": [
-            "AI Daily",
-            "人工智能"
-        ],
-        "organization": "AIBase",
-        "metadata": {
-            "thumbnail": "https://upload.chinaz.com/2026/0213/6390658683056029709951715.png",
-            "page_views": 41200,
-            "oid": "25530"
         },
         "objects": []
     }

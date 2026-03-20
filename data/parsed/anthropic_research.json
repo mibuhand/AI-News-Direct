@@ -30,21 +30,6 @@
         "objects": []
     },
     {
-        "id": "5d66d3e83cc8ed43d5361101311966c8",
-        "source": "anthropic",
-        "type": "research",
-        "title": "The persona selection model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/persona-selection-model",
-        "published_date": "2026-02-23T00:00:00+00:00",
-        "categories": [
-            "Alignment"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "83de53df988a4b29c349a2dec2545f3c",
         "source": "anthropic",
         "type": "research",
@@ -54,6 +39,21 @@
         "published_date": "2026-02-23T00:00:00+00:00",
         "categories": [
             "Announcements"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "5d66d3e83cc8ed43d5361101311966c8",
+        "source": "anthropic",
+        "type": "research",
+        "title": "The persona selection model",
+        "description": "",
+        "url": "https://www.anthropic.com/research/persona-selection-model",
+        "published_date": "2026-02-23T00:00:00+00:00",
+        "categories": [
+            "Alignment"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -90,12 +90,12 @@
         "objects": []
     },
     {
-        "id": "20d5ad5781a042dda5a492ba564a7f89",
+        "id": "dc5652fab896ae1c9e8746749ed74db0",
         "source": "anthropic",
         "type": "research",
-        "title": "Introducing the Science Blog",
+        "title": "Long-Running Claude for Scientific Research",
         "description": "",
-        "url": "https://www.anthropic.com/research/introducing-anthropic-science",
+        "url": "https://www.anthropic.com/research/long-running-tasks",
         "published_date": "2026-02-01T00:00:00+00:00",
         "categories": [
             "Science"
@@ -105,12 +105,12 @@
         "objects": []
     },
     {
-        "id": "dc5652fab896ae1c9e8746749ed74db0",
+        "id": "451f230e9953307ea537efa8b5e49373",
         "source": "anthropic",
         "type": "research",
-        "title": "Long-Running Claude for Scientific Research",
+        "title": "LLMs Conjecture, Prove, and Challenge: February 2026",
         "description": "",
-        "url": "https://www.anthropic.com/research/long-running-tasks",
+        "url": "https://www.anthropic.com/research/roundup-feb-2026",
         "published_date": "2026-02-01T00:00:00+00:00",
         "categories": [
             "Science"
@@ -135,12 +135,12 @@
         "objects": []
     },
     {
-        "id": "451f230e9953307ea537efa8b5e49373",
+        "id": "20d5ad5781a042dda5a492ba564a7f89",
         "source": "anthropic",
         "type": "research",
-        "title": "LLMs Conjecture, Prove, and Challenge: February 2026",
+        "title": "Introducing the Science Blog",
         "description": "",
-        "url": "https://www.anthropic.com/research/roundup-feb-2026",
+        "url": "https://www.anthropic.com/research/introducing-anthropic-science",
         "published_date": "2026-02-01T00:00:00+00:00",
         "categories": [
             "Science"
