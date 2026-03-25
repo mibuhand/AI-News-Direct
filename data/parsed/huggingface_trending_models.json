@@ -4,17 +4,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "description": "Type: image-text-to-text<br/>Downloads: 326,131<br/>Likes: 877",
+    "description": "Type: image-text-to-text<br/>Downloads: 401,358<br/>Likes: 928",
     "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-03-24T12:01:22.686999+00:00",
+    "published_date": "2026-03-25T12:00:55.233858+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "HauhauCS",
       "item_name": "Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 326131,
-      "likes": 877,
+      "downloads": 401358,
+      "likes": 928,
       "last_modified": "2026-03-10T21:50:05.000Z",
       "all_tags": []
     }
@@ -24,38 +24,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-    "description": "Type: image-text-to-text<br/>Downloads: 164,200<br/>Likes: 1133",
+    "description": "Type: image-text-to-text<br/>Downloads: 173,865<br/>Likes: 1239",
     "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-    "published_date": "2026-03-24T12:01:22.687025+00:00",
+    "published_date": "2026-03-25T12:00:55.233882+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Jackrong",
       "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "downloads": 164200,
-      "likes": 1133,
+      "downloads": 173865,
+      "likes": 1239,
       "last_modified": "2026-03-24T02:22:55.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "3faa5199b12327221e7ce10932b16e5a",
-    "source": "huggingface",
-    "type": "model",
-    "title": "baidu/Qianfan-OCR",
-    "description": "Type: image-text-to-text<br/>Downloads: 8,493<br/>Likes: 329",
-    "url": "https://huggingface.co/baidu/Qianfan-OCR",
-    "published_date": "2026-03-24T12:01:22.687033+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "baidu",
-      "item_name": "Qianfan-OCR",
-      "downloads": 8493,
-      "likes": 329,
-      "last_modified": "2026-03-19T09:59:20.000Z",
       "all_tags": []
     }
   },
@@ -64,18 +44,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-    "description": "Type: text-generation<br/>Downloads: 19,722<br/>Likes: 236",
+    "description": "Type: text-generation<br/>Downloads: 38,586<br/>Likes: 272",
     "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-    "published_date": "2026-03-24T12:01:22.687040+00:00",
+    "published_date": "2026-03-25T12:00:55.233890+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "nvidia",
       "item_name": "Nemotron-Cascade-2-30B-A3B",
-      "downloads": 19722,
-      "likes": 236,
-      "last_modified": "2026-03-23T19:03:31.000Z",
+      "downloads": 38586,
+      "likes": 272,
+      "last_modified": "2026-03-24T22:39:23.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "3faa5199b12327221e7ce10932b16e5a",
+    "source": "huggingface",
+    "type": "model",
+    "title": "baidu/Qianfan-OCR",
+    "description": "Type: image-text-to-text<br/>Downloads: 10,499<br/>Likes: 352",
+    "url": "https://huggingface.co/baidu/Qianfan-OCR",
+    "published_date": "2026-03-25T12:00:55.233896+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "baidu",
+      "item_name": "Qianfan-OCR",
+      "downloads": 10499,
+      "likes": 352,
+      "last_modified": "2026-03-19T09:59:20.000Z",
       "all_tags": []
     }
   },
@@ -84,16 +84,114 @@
     "source": "huggingface",
     "type": "model",
     "title": "RoyalCities/Foundation-1",
-    "description": "Likes: 241",
+    "description": "Likes: 256",
     "url": "https://huggingface.co/RoyalCities/Foundation-1",
-    "published_date": "2026-03-24T12:01:22.687048+00:00",
+    "published_date": "2026-03-25T12:00:55.233915+00:00",
     "categories": [],
     "metadata": {
       "author": "RoyalCities",
       "item_name": "Foundation-1",
       "downloads": 0,
-      "likes": 241,
+      "likes": 256,
       "last_modified": "2026-03-16T18:54:04.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "cb3eed17e42e8f98f8637a2c2ee9fb6a",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 55,120<br/>Likes: 136",
+    "url": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "published_date": "2026-03-25T12:00:55.233922+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Jackrong",
+      "item_name": "Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "downloads": 55120,
+      "likes": 136,
+      "last_modified": "2026-03-23T09:33:18.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "9bca46427d111fd0876322c3f5072f1a",
+    "source": "huggingface",
+    "type": "model",
+    "title": "GAIR/daVinci-MagiHuman",
+    "description": "Type: image-to-video<br/>Downloads: 150<br/>Likes: 133",
+    "url": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+    "published_date": "2026-03-25T12:00:55.233928+00:00",
+    "categories": [
+      "image-to-video"
+    ],
+    "metadata": {
+      "author": "GAIR",
+      "item_name": "daVinci-MagiHuman",
+      "downloads": 150,
+      "likes": 133,
+      "last_modified": "2026-03-25T05:37:24.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "6dfa8298119c8a9fb9443ac16166ac28",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 480,176<br/>Likes: 388",
+    "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "published_date": "2026-03-25T12:00:55.233939+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Jackrong",
+      "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "downloads": 480176,
+      "likes": 388,
+      "last_modified": "2026-03-24T02:23:14.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "9406ab2dfdd670abd66be02cb9d4d7b0",
+    "source": "huggingface",
+    "type": "model",
+    "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+    "description": "Downloads: 418,903<br/>Likes: 646",
+    "url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+    "published_date": "2026-03-25T12:00:55.233945+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "HauhauCS",
+      "item_name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 418903,
+      "likes": 646,
+      "last_modified": "2026-03-04T00:31:47.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b085e7a5261b8d793f266fc57c05c2cf",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 41,277<br/>Likes: 122",
+    "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+    "published_date": "2026-03-25T12:00:55.233951+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Jackrong",
+      "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "downloads": 41277,
+      "likes": 122,
+      "last_modified": "2026-03-25T01:39:55.000Z",
       "all_tags": []
     }
   },
@@ -102,17 +200,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "fishaudio/s2-pro",
-    "description": "Type: text-to-speech<br/>Downloads: 13,613<br/>Likes: 721",
+    "description": "Type: text-to-speech<br/>Downloads: 14,617<br/>Likes: 732",
     "url": "https://huggingface.co/fishaudio/s2-pro",
-    "published_date": "2026-03-24T12:01:22.687055+00:00",
+    "published_date": "2026-03-25T12:00:55.233956+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
       "author": "fishaudio",
       "item_name": "s2-pro",
-      "downloads": 13613,
-      "likes": 721,
+      "downloads": 14617,
+      "likes": 732,
       "last_modified": "2026-03-11T15:32:58.000Z",
       "all_tags": []
     }
@@ -122,114 +220,16 @@
     "source": "huggingface",
     "type": "model",
     "title": "mistralai/Mistral-Small-4-119B-2603",
-    "description": "Downloads: 36,887<br/>Likes: 317",
+    "description": "Downloads: 38,985<br/>Likes: 324",
     "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
-    "published_date": "2026-03-24T12:01:22.687061+00:00",
+    "published_date": "2026-03-25T12:00:55.233961+00:00",
     "categories": [],
     "metadata": {
       "author": "mistralai",
       "item_name": "Mistral-Small-4-119B-2603",
-      "downloads": 36887,
-      "likes": 317,
+      "downloads": 38985,
+      "likes": 324,
       "last_modified": "2026-03-23T17:13:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "eb04447848f64cec360d557989da9108",
-    "source": "huggingface",
-    "type": "model",
-    "title": "zai-org/GLM-OCR",
-    "description": "Type: image-to-text<br/>Downloads: 3,420,577<br/>Likes: 1438",
-    "url": "https://huggingface.co/zai-org/GLM-OCR",
-    "published_date": "2026-03-24T12:01:22.687069+00:00",
-    "categories": [
-      "image-to-text"
-    ],
-    "metadata": {
-      "author": "zai-org",
-      "item_name": "GLM-OCR",
-      "downloads": 3420577,
-      "likes": 1438,
-      "last_modified": "2026-03-12T06:36:32.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "9406ab2dfdd670abd66be02cb9d4d7b0",
-    "source": "huggingface",
-    "type": "model",
-    "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-    "description": "Downloads: 385,054<br/>Likes: 633",
-    "url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-03-24T12:01:22.687075+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "HauhauCS",
-      "item_name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 385054,
-      "likes": 633,
-      "last_modified": "2026-03-04T00:31:47.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "09720fa46521fc6c874dab671d569e49",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Qwen/Qwen3.5-9B",
-    "description": "Type: image-text-to-text<br/>Downloads: 3,421,174<br/>Likes: 993",
-    "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
-    "published_date": "2026-03-24T12:01:22.687083+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Qwen",
-      "item_name": "Qwen3.5-9B",
-      "downloads": 3421174,
-      "likes": 993,
-      "last_modified": "2026-03-02T00:51:43.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "5260b103937f1eeec2833f3c7796d2a7",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Tesslate/OmniCoder-9B",
-    "description": "Type: text-generation<br/>Downloads: 20,303<br/>Likes: 373",
-    "url": "https://huggingface.co/Tesslate/OmniCoder-9B",
-    "published_date": "2026-03-24T12:01:22.687089+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Tesslate",
-      "item_name": "OmniCoder-9B",
-      "downloads": 20303,
-      "likes": 373,
-      "last_modified": "2026-03-13T03:17:34.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "cb3eed17e42e8f98f8637a2c2ee9fb6a",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 43,905<br/>Likes: 112",
-    "url": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-    "published_date": "2026-03-24T12:01:22.687094+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "Jackrong",
-      "item_name": "Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "downloads": 43905,
-      "likes": 112,
-      "last_modified": "2026-03-23T09:33:18.000Z",
       "all_tags": []
     }
   },
@@ -238,58 +238,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-    "description": "Type: image-text-to-text<br/>Downloads: 23,113<br/>Likes: 107",
+    "description": "Type: image-text-to-text<br/>Downloads: 24,522<br/>Likes: 112",
     "url": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-    "published_date": "2026-03-24T12:01:22.687100+00:00",
+    "published_date": "2026-03-25T12:00:55.233967+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Jackrong",
       "item_name": "Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-      "downloads": 23113,
-      "likes": 107,
+      "downloads": 24522,
+      "likes": 112,
       "last_modified": "2026-03-23T09:31:47.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "6dfa8298119c8a9fb9443ac16166ac28",
+    "id": "eb04447848f64cec360d557989da9108",
     "source": "huggingface",
     "type": "model",
-    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 460,662<br/>Likes: 331",
-    "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-    "published_date": "2026-03-24T12:01:22.687108+00:00",
+    "title": "zai-org/GLM-OCR",
+    "description": "Type: image-to-text<br/>Downloads: 3,549,168<br/>Likes: 1451",
+    "url": "https://huggingface.co/zai-org/GLM-OCR",
+    "published_date": "2026-03-25T12:00:55.233972+00:00",
     "categories": [
-      "image-text-to-text"
+      "image-to-text"
     ],
     "metadata": {
-      "author": "Jackrong",
-      "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "downloads": 460662,
-      "likes": 331,
-      "last_modified": "2026-03-24T02:23:14.000Z",
+      "author": "zai-org",
+      "item_name": "GLM-OCR",
+      "downloads": 3549168,
+      "likes": 1451,
+      "last_modified": "2026-03-12T06:36:32.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "5ee09bc6b189d62659b76a28d4f1dc73",
+    "id": "09720fa46521fc6c874dab671d569e49",
     "source": "huggingface",
     "type": "model",
-    "title": "Qwen/Qwen3.5-35B-A3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 2,608,788<br/>Likes: 1235",
-    "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-    "published_date": "2026-03-24T12:01:22.687113+00:00",
+    "title": "Qwen/Qwen3.5-9B",
+    "description": "Type: image-text-to-text<br/>Downloads: 3,583,712<br/>Likes: 1008",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+    "published_date": "2026-03-25T12:00:55.233980+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
-      "item_name": "Qwen3.5-35B-A3B",
-      "downloads": 2608788,
-      "likes": 1235,
-      "last_modified": "2026-02-27T09:48:22.000Z",
+      "item_name": "Qwen3.5-9B",
+      "downloads": 3583712,
+      "likes": 1008,
+      "last_modified": "2026-03-02T00:51:43.000Z",
       "all_tags": []
     }
   },
@@ -298,38 +298,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "datalab-to/chandra-ocr-2",
-    "description": "Type: image-text-to-text<br/>Downloads: 9,347<br/>Likes: 90",
+    "description": "Type: image-text-to-text<br/>Downloads: 11,325<br/>Likes: 96",
     "url": "https://huggingface.co/datalab-to/chandra-ocr-2",
-    "published_date": "2026-03-24T12:01:22.687119+00:00",
+    "published_date": "2026-03-25T12:00:55.233985+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "datalab-to",
       "item_name": "chandra-ocr-2",
-      "downloads": 9347,
-      "likes": 90,
+      "downloads": 11325,
+      "likes": 96,
       "last_modified": "2026-03-18T18:21:07.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "b085e7a5261b8d793f266fc57c05c2cf",
+    "id": "5260b103937f1eeec2833f3c7796d2a7",
     "source": "huggingface",
     "type": "model",
-    "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 33,782<br/>Likes: 79",
-    "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-    "published_date": "2026-03-24T12:01:22.687125+00:00",
+    "title": "Tesslate/OmniCoder-9B",
+    "description": "Type: text-generation<br/>Downloads: 21,202<br/>Likes: 383",
+    "url": "https://huggingface.co/Tesslate/OmniCoder-9B",
+    "published_date": "2026-03-25T12:00:55.233990+00:00",
+    "categories": [
+      "text-generation"
+    ],
+    "metadata": {
+      "author": "Tesslate",
+      "item_name": "OmniCoder-9B",
+      "downloads": 21202,
+      "likes": 383,
+      "last_modified": "2026-03-13T03:17:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5ee09bc6b189d62659b76a28d4f1dc73",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3.5-35B-A3B",
+    "description": "Type: image-text-to-text<br/>Downloads: 2,737,641<br/>Likes: 1249",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+    "published_date": "2026-03-25T12:00:55.233995+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
-      "author": "Jackrong",
-      "item_name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "downloads": 33782,
-      "likes": 79,
-      "last_modified": "2026-03-20T23:52:25.000Z",
+      "author": "Qwen",
+      "item_name": "Qwen3.5-35B-A3B",
+      "downloads": 2737641,
+      "likes": 1249,
+      "last_modified": "2026-02-27T09:48:22.000Z",
       "all_tags": []
     }
   },
@@ -338,54 +358,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "Lightricks/LTX-2.3",
-    "description": "Type: image-to-video<br/>Downloads: 1,040,286<br/>Likes: 731",
+    "description": "Type: image-to-video<br/>Downloads: 1,125,889<br/>Likes: 745",
     "url": "https://huggingface.co/Lightricks/LTX-2.3",
-    "published_date": "2026-03-24T12:01:22.687130+00:00",
+    "published_date": "2026-03-25T12:00:55.234000+00:00",
     "categories": [
       "image-to-video"
     ],
     "metadata": {
       "author": "Lightricks",
       "item_name": "LTX-2.3",
-      "downloads": 1040286,
-      "likes": 731,
+      "downloads": 1125889,
+      "likes": 745,
       "last_modified": "2026-03-15T16:43:40.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "4f6b8436d3452278b58935cab04cc8c0",
+    "id": "635a85f3586016d33f41346845632834",
     "source": "huggingface",
     "type": "model",
-    "title": "Tesslate/OmniCoder-9B-GGUF",
-    "description": "Downloads: 56,180<br/>Likes: 181",
-    "url": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
-    "published_date": "2026-03-24T12:01:22.687136+00:00",
-    "categories": [],
+    "title": "MiniMaxAI/MiniMax-M2.5",
+    "description": "Type: text-generation<br/>Downloads: 507,088<br/>Likes: 1285",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+    "published_date": "2026-03-25T12:00:55.234006+00:00",
+    "categories": [
+      "text-generation"
+    ],
     "metadata": {
-      "author": "Tesslate",
-      "item_name": "OmniCoder-9B-GGUF",
-      "downloads": 56180,
-      "likes": 181,
-      "last_modified": "2026-03-12T07:09:41.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "8c09b351960dd44e9be0cc6309fdf191",
-    "source": "huggingface",
-    "type": "model",
-    "title": "circlestone-labs/Anima",
-    "description": "Downloads: 255,075<br/>Likes: 929",
-    "url": "https://huggingface.co/circlestone-labs/Anima",
-    "published_date": "2026-03-24T12:01:22.687141+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "circlestone-labs",
-      "item_name": "Anima",
-      "downloads": 255075,
-      "likes": 929,
-      "last_modified": "2026-03-11T17:40:41.000Z",
+      "author": "MiniMaxAI",
+      "item_name": "MiniMax-M2.5",
+      "downloads": 507088,
+      "likes": 1285,
+      "last_modified": "2026-03-10T13:42:23.000Z",
       "all_tags": []
     }
   }
