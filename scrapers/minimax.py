@@ -102,17 +102,13 @@ def parse_minimax_html(soup):
             
             # Find the next sibling card element
             next_elem = header.find_next_sibling()
-            while next_elem and next_elem.name != 'a':
+            while next_elem and not (next_elem.name == 'div' and 'card' in next_elem.get('class', [])):
                 next_elem = next_elem.find_next_sibling()
             
-            if not next_elem or next_elem.name != 'a':
+            if not next_elem or next_elem.name != 'div' or 'card' not in next_elem.get('class', []):
                 continue
             
             card = next_elem
-            
-            # Skip if not a card
-            if 'card' not in card.get('class', []):
-                continue
             
             # Extract title
             title_elem = card.find('h2', attrs={'data-component-part': 'card-title'})

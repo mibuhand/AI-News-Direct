@@ -72,10 +72,6 @@ Ready-to-use XML feeds for RSS readers:
 | [OpenRouter News](https://openrouter.ai/announcements) | N/A | To-Do |
 | [Groq Blog](https://groq.com/blog) | N/A | To-Do |
 | [Groq News](https://groq.com/announcements) | N/A | To-Do |
-| [Krita News](https://krita.org/en/categories/news/) | [Krita News feed](https://krita.org/en/categories/news/index.xml) | N/A |
-| [Blender News](https://www.blender.org/news/) | [Blender News feed](https://www.blender.org/feed/) | N/A |
-| [UnReal Engine News](https://www.unrealengine.com/en-US/feed) | [UnReal Engine News feed](https://www.unrealengine.com/en-US/rss) | N/A |
-| [SteamDB Free Promotions](https://steamdb.info/upcoming/free/) | N/A | To-Do |
 
 
 ### Academic Feeds
@@ -109,6 +105,7 @@ To-Do: Appending logic with snapshot timestamps
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | N/A |
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | N/A |
 | [Artificial Analysis](https://artificialanalysis.ai/articles) | N/A | [Artificial Analysis Feed](https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/artificial_analysis.xml) |
+| [LessWrong](https://www.lesswrong.com/) | [LessWrong Feed](https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=125) | N/A |
 
 
 ### Tech News
@@ -133,6 +130,16 @@ To-Do: Appending logic with snapshot timestamps
 |------------------|------------------|--------------|
 | [phys.org Quantum Physics](https://phys.org/physics-news/quantum-physics/) | [phys.org Quantum Physics feed](https://phys.org/rss-feed/physics-news/quantum-physics/) | N/A |
 | [Quantum Computing Report](https://quantumcomputingreport.com/news/) | [Quantum Computing Report feed](https://quantumcomputingreport.com/feed/) | N/A |
+
+
+### Arts
+| Original Website | Official Feed | Created Feed |
+|------------------|------------------|--------------|
+| [Animation Obssesive Blog](https://animationobsessive.substack.com/) | [Animation Obssesive Blog feed](https://animationobsessive.substack.com/feed) | N/A |
+| [Krita News](https://krita.org/en/categories/news/) | [Krita News feed](https://krita.org/en/categories/news/index.xml) | N/A |
+| [Blender News](https://www.blender.org/news/) | [Blender News feed](https://www.blender.org/feed/) | N/A |
+| [UnReal Engine News](https://www.unrealengine.com/en-US/feed) | [UnReal Engine News feed](https://www.unrealengine.com/en-US/rss) | N/A |
+| [SteamDB Free Promotions](https://steamdb.info/upcoming/free/) | N/A | To-Do |
 
 
 ## Usage
