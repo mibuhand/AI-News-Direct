@@ -1,5 +1,23 @@
 [
   {
+    "id": "e1b9793d3a8d673020b8c11dc394af9c",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The EU still wants to scan  your private messages and photos",
+    "description": "",
+    "url": "https://fightchatcontrol.eu/?foo=bar",
+    "published_date": "2026-03-25T20:27:03+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 1254,
+      "author": "MrBruh",
+      "comments": 335,
+      "hn_id": 47522709
+    },
+    "objects": []
+  },
+  {
     "id": "83165cb71743598e3559d8a86857c3cb",
     "source": "hackernews",
     "type": "story",
@@ -10,28 +28,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 998,
+      "score": 1240,
       "author": "felineflock",
-      "comments": 345,
+      "comments": 467,
       "hn_id": 47507150
-    },
-    "objects": []
-  },
-  {
-    "id": "84c3bbfdd96d3930393f97698ef0c9ae",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Microsoft's \"fix\" for Windows 11",
-    "description": "",
-    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-    "published_date": "2026-03-24T09:36:29+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 980,
-      "author": "h0ek",
-      "comments": 709,
-      "hn_id": 47500335
     },
     "objects": []
   },
@@ -46,28 +46,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 772,
+      "score": 1098,
       "author": "mikeocool",
-      "comments": 565,
+      "comments": 819,
       "hn_id": 47508246
-    },
-    "objects": []
-  },
-  {
-    "id": "b2b79502c38798428c2f7aa2aee56002",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
-    "description": "",
-    "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "published_date": "2026-03-24T12:36:20+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 728,
-      "author": "theanonymousone",
-      "comments": 1,
-      "hn_id": 47501729
     },
     "objects": []
   },
@@ -82,28 +64,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 721,
+      "score": 914,
       "author": "dot_treo",
-      "comments": 437,
+      "comments": 481,
       "hn_id": 47501426
     },
     "objects": []
   },
   {
-    "id": "a7bf400b99579b8b7d90ecced0105b10",
+    "id": "d7f1638c626b756d28f9b0d97dbd04b6",
     "source": "hackernews",
     "type": "story",
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "title": "Thoughts on slowing the fuck down",
     "description": "",
-    "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "published_date": "2026-03-23T14:30:10+00:00",
+    "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+    "published_date": "2026-03-25T14:07:14+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 699,
-      "author": "anemll",
-      "comments": 321,
-      "hn_id": 47490070
+      "score": 900,
+      "author": "jdkoeck",
+      "comments": 398,
+      "hn_id": 47517539
+    },
+    "objects": []
+  },
+  {
+    "id": "b2b79502c38798428c2f7aa2aee56002",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
+    "description": "",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "published_date": "2026-03-24T12:36:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 735,
+      "author": "theanonymousone",
+      "comments": 1,
+      "hn_id": 47501729
     },
     "objects": []
   },
@@ -118,9 +118,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 658,
+      "score": 726,
       "author": "jakelsaunders94",
-      "comments": 450,
+      "comments": 514,
       "hn_id": 47508745
     },
     "objects": []
@@ -136,82 +136,28 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 649,
+      "score": 723,
       "author": "soheilpro",
-      "comments": 366,
+      "comments": 423,
       "hn_id": 47504112
     },
     "objects": []
   },
   {
-    "id": "093403ff1e9a2e4e461c0f3077feef99",
+    "id": "72f9de65b51c05cf2e29c969d8a91f69",
     "source": "hackernews",
     "type": "story",
-    "title": "Claude Code Cheat Sheet",
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "description": "",
-    "url": "https://cc.storyfox.cz",
-    "published_date": "2026-03-23T21:44:20+00:00",
+    "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+    "published_date": "2026-03-25T21:11:57+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 646,
-      "author": "phasE89",
-      "comments": 185,
-      "hn_id": 47495527
-    },
-    "objects": []
-  },
-  {
-    "id": "41c0a51ad05d792afcfc89d26e6dcfb0",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
-    "description": "",
-    "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
-    "published_date": "2026-03-24T15:25:52+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 494,
-      "author": "psim1",
-      "comments": 344,
-      "hn_id": 47504060
-    },
-    "objects": []
-  },
-  {
-    "id": "fb757d414d88978d59c9af67736319cd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "FCC updates covered list to include foreign-made consumer routers",
-    "description": "",
-    "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-    "published_date": "2026-03-23T21:28:02+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 476,
-      "author": "moonka",
-      "comments": 411,
-      "hn_id": 47495344
-    },
-    "objects": []
-  },
-  {
-    "id": "c6716da23b913fb2970477200244bc9a",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-    "description": "",
-    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "published_date": "2026-03-24T01:53:09+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 457,
-      "author": "in-silico",
-      "comments": 663,
-      "hn_id": 47497757
+      "score": 669,
+      "author": "driesdep",
+      "comments": 218,
+      "hn_id": 47523330
     },
     "objects": []
   },
@@ -226,46 +172,136 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 442,
+      "score": 626,
       "author": "Heff",
-      "comments": 89,
+      "comments": 138,
       "hn_id": 47506713
     },
     "objects": []
   },
   {
-    "id": "59c56a746588c57e915d270afb20f036",
+    "id": "bec9746b945a20c25f8d2dda58a4a0c3",
     "source": "hackernews",
     "type": "story",
-    "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
+    "title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
     "description": "",
-    "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
-    "published_date": "2026-03-23T17:35:38+00:00",
+    "url": "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a",
+    "published_date": "2026-03-25T16:24:15+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 439,
-      "author": "lode",
-      "comments": 373,
-      "hn_id": 47492599
+      "score": 590,
+      "author": "cramsession",
+      "comments": 259,
+      "hn_id": 47519519
     },
     "objects": []
   },
   {
-    "id": "a6a1b4b902374a22d812a85e68c171a0",
+    "id": "41c0a51ad05d792afcfc89d26e6dcfb0",
     "source": "hackernews",
     "type": "story",
-    "title": "Autoresearch on an old research idea",
+    "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
     "description": "",
-    "url": "https://ykumar.me/blog/eclip-autoresearch/",
-    "published_date": "2026-03-23T18:40:58+00:00",
+    "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
+    "published_date": "2026-03-24T15:25:52+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 416,
-      "author": "ykumards",
-      "comments": 94,
-      "hn_id": 47493460
+      "score": 553,
+      "author": "psim1",
+      "comments": 385,
+      "hn_id": 47504060
+    },
+    "objects": []
+  },
+  {
+    "id": "9045acb0972b987bf0a747136a28e539",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Flighty Airports",
+    "description": "",
+    "url": "https://flighty.com/airports",
+    "published_date": "2026-03-25T00:29:45+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 548,
+      "author": "skogstokig",
+      "comments": 182,
+      "hn_id": 47511589
+    },
+    "objects": []
+  },
+  {
+    "id": "38f57849c5e8c8e0541aef2a2f401dfa",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Miscellanea: The War in Iran",
+    "description": "",
+    "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+    "published_date": "2026-03-25T04:27:14+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 544,
+      "author": "decimalenough",
+      "comments": 773,
+      "hn_id": 47513229
+    },
+    "objects": []
+  },
+  {
+    "id": "c65f6d4c6c57fef71dca18c675ec0f69",
+    "source": "hackernews",
+    "type": "story",
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "description": "",
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "published_date": "2026-03-25T05:00:54+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 519,
+      "author": "ray__",
+      "comments": 145,
+      "hn_id": 47513475
+    },
+    "objects": []
+  },
+  {
+    "id": "4649fb67262717935874a59909dcb598",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Meta and YouTube found negligent in landmark social media addiction case",
+    "description": "",
+    "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+    "published_date": "2026-03-25T17:29:33+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 458,
+      "author": "mrjaeger",
+      "comments": 219,
+      "hn_id": 47520505
+    },
+    "objects": []
+  },
+  {
+    "id": "5fe775d989c230c8318edd66b89c1926",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Apple Just Lost Me",
+    "description": "",
+    "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+    "published_date": "2026-03-25T14:20:24+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 453,
+      "author": "syx",
+      "comments": 435,
+      "hn_id": 47517701
     },
     "objects": []
   },
@@ -280,10 +316,154 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 410,
+      "score": 443,
       "author": "tanelpoder",
-      "comments": 379,
+      "comments": 410,
       "hn_id": 47503006
+    },
+    "objects": []
+  },
+  {
+    "id": "3a7773586fa81e3a963489e31507cc83",
+    "source": "hackernews",
+    "type": "story",
+    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+    "description": "",
+    "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "published_date": "2026-03-24T21:24:33+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 434,
+      "author": "tezclarke",
+      "comments": 182,
+      "hn_id": 47509571
+    },
+    "objects": []
+  },
+  {
+    "id": "7798f3a79b84caa353f2ce37d8152fb9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "description": "",
+    "url": "https://github.com/ssrajadh/sentrysearch",
+    "published_date": "2026-03-24T14:58:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 425,
+      "author": "sohamrj",
+      "comments": 103,
+      "hn_id": 47503617
+    },
+    "objects": []
+  },
+  {
+    "id": "2f3edf2b9838333241e1ec8f27ef6645",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Meta told to pay $375M for misleading users over child safety",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+    "published_date": "2026-03-25T08:52:50+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 422,
+      "author": "testrun",
+      "comments": 2,
+      "hn_id": 47514916
+    },
+    "objects": []
+  },
+  {
+    "id": "75317163138d52a07d7473cfd2fc11a9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+    "description": "",
+    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "published_date": "2026-03-25T19:14:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 420,
+      "author": "zdw",
+      "comments": 242,
+      "hn_id": 47521876
+    },
+    "objects": []
+  },
+  {
+    "id": "0ba9b11515303854ff49154c35a4a4f7",
+    "source": "hackernews",
+    "type": "story",
+    "title": "ARC-AGI-3",
+    "description": "",
+    "url": "https://arcprize.org/arc-agi/3",
+    "published_date": "2026-03-25T18:16:03+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 420,
+      "author": "lairv",
+      "comments": 264,
+      "hn_id": 47521150
+    },
+    "objects": []
+  },
+  {
+    "id": "61082923d395cd5bfc640244d075f1dd",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Arm AGI CPU",
+    "description": "",
+    "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "published_date": "2026-03-24T17:30:42+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 414,
+      "author": "RealityVoid",
+      "comments": 292,
+      "hn_id": 47506251
+    },
+    "objects": []
+  },
+  {
+    "id": "2021f7f8c9e9edb626439608c58924c9",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
+    "description": "",
+    "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
+    "published_date": "2026-03-24T21:54:27+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 396,
+      "author": "billfor",
+      "comments": 491,
+      "hn_id": 47509984
+    },
+    "objects": []
+  },
+  {
+    "id": "5fe01286b6fca26a805c4b263f4e25c1",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Antimatter has been transported for the first time",
+    "description": "",
+    "url": "https://www.nature.com/articles/d41586-026-00950-w",
+    "published_date": "2026-03-25T14:56:28+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 392,
+      "author": "leephillips",
+      "comments": 178,
+      "hn_id": 47518171
     },
     "objects": []
   },
@@ -298,9 +478,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 371,
+      "score": 391,
       "author": "m_fayer",
-      "comments": 285,
+      "comments": 305,
       "hn_id": 47503965
     },
     "objects": []
@@ -316,82 +496,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 361,
+      "score": 382,
       "author": "MattIPv4",
-      "comments": 189,
+      "comments": 198,
       "hn_id": 47508608
-    },
-    "objects": []
-  },
-  {
-    "id": "c26d2655a975a557aee3562e0d6e1be4",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Student beauty and grades under in-person and remote teaching",
-    "description": "",
-    "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
-    "published_date": "2026-03-23T11:31:19+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 358,
-      "author": "jdthedisciple",
-      "comments": 509,
-      "hn_id": 47488015
-    },
-    "objects": []
-  },
-  {
-    "id": "61082923d395cd5bfc640244d075f1dd",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Arm AGI CPU",
-    "description": "",
-    "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-    "published_date": "2026-03-24T17:30:42+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 357,
-      "author": "RealityVoid",
-      "comments": 269,
-      "hn_id": 47506251
-    },
-    "objects": []
-  },
-  {
-    "id": "fd227cc77dcecc56cfdb581de2db9cea",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-    "description": "",
-    "url": "https://burntsushi.net/ripgrep/",
-    "published_date": "2026-03-24T06:31:39+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 355,
-      "author": "jxmorris12",
-      "comments": 152,
-      "hn_id": 47499245
-    },
-    "objects": []
-  },
-  {
-    "id": "9045acb0972b987bf0a747136a28e539",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Flighty Airports",
-    "description": "",
-    "url": "https://flighty.com/airports",
-    "published_date": "2026-03-25T00:29:45+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 351,
-      "author": "skogstokig",
-      "comments": 118,
-      "hn_id": 47511589
     },
     "objects": []
   },
@@ -406,64 +514,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 349,
+      "score": 378,
       "author": "O3marchnative",
-      "comments": 365,
+      "comments": 407,
       "hn_id": 47501950
-    },
-    "objects": []
-  },
-  {
-    "id": "7798f3a79b84caa353f2ce37d8152fb9",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-    "description": "",
-    "url": "https://github.com/ssrajadh/sentrysearch",
-    "published_date": "2026-03-24T14:58:27+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 346,
-      "author": "sohamrj",
-      "comments": 91,
-      "hn_id": 47503617
-    },
-    "objects": []
-  },
-  {
-    "id": "cc4eb39cbe6aad19ab49b106293f667d",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
-    "description": "",
-    "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
-    "published_date": "2026-03-24T15:09:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 329,
-      "author": "doughnutstracks",
-      "comments": 515,
-      "hn_id": 47503810
-    },
-    "objects": []
-  },
-  {
-    "id": "3a7773586fa81e3a963489e31507cc83",
-    "source": "hackernews",
-    "type": "story",
-    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-    "description": "",
-    "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-    "published_date": "2026-03-24T21:24:33+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 319,
-      "author": "tezclarke",
-      "comments": 130,
-      "hn_id": 47509571
     },
     "objects": []
   },
@@ -478,100 +532,172 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 310,
+      "score": 368,
       "author": "dancablam",
-      "comments": 79,
+      "comments": 95,
       "hn_id": 47505144
     },
     "objects": []
   },
   {
-    "id": "203e1452d7e5b155234ea7cbbf3de234",
+    "id": "42ea36358a5447e527dcae8d7848197e",
     "source": "hackernews",
     "type": "story",
-    "title": "Log File Viewer for the Terminal",
+    "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
     "description": "",
-    "url": "https://lnav.org/",
-    "published_date": "2026-03-24T05:32:53+00:00",
+    "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+    "published_date": "2026-03-25T15:02:56+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 304,
-      "author": "wiradikusuma",
-      "comments": 49,
-      "hn_id": 47498924
+      "score": 361,
+      "author": "oj2828",
+      "comments": 282,
+      "hn_id": 47518281
     },
     "objects": []
   },
   {
-    "id": "501a8281bd61f7e66efd2e7650222c91",
+    "id": "cc4eb39cbe6aad19ab49b106293f667d",
     "source": "hackernews",
     "type": "story",
-    "title": "Windows 3.1 tiled background .bmp archive",
+    "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
     "description": "",
-    "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
-    "published_date": "2026-03-23T22:52:35+00:00",
+    "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+    "published_date": "2026-03-24T15:09:30+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 272,
-      "author": "justsomehnguy",
-      "comments": 74,
-      "hn_id": 47496221
+      "score": 361,
+      "author": "doughnutstracks",
+      "comments": 564,
+      "hn_id": 47503810
     },
     "objects": []
   },
   {
-    "id": "ed28c5f81bed80542b7b9c3a12860bf7",
+    "id": "1027de447daed7ae4f617152644214f2",
     "source": "hackernews",
     "type": "story",
-    "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+    "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
     "description": "",
-    "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-    "published_date": "2026-03-23T12:42:00+00:00",
+    "url": "https://v-os.dev",
+    "published_date": "2026-03-25T03:17:06+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 266,
-      "author": "jackhogan11",
-      "comments": 111,
-      "hn_id": 47488686
+      "score": 354,
+      "author": "felixding",
+      "comments": 216,
+      "hn_id": 47512816
     },
     "objects": []
   },
   {
-    "id": "b04b92b8b63a54efba54164f4c26fcd5",
+    "id": "d71611a20279c16c9e36cc2f981b19ca",
     "source": "hackernews",
     "type": "story",
-    "title": "How I'm Productive with Claude Code",
+    "title": "Ensu – Ente’s Local LLM app",
     "description": "",
-    "url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "published_date": "2026-03-23T20:49:10+00:00",
+    "url": "https://ente.com/blog/ensu/",
+    "published_date": "2026-03-25T12:49:14+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 264,
-      "author": "neilkakkar",
-      "comments": 163,
-      "hn_id": 47494890
+      "score": 352,
+      "author": "matthiaswh",
+      "comments": 166,
+      "hn_id": 47516650
     },
     "objects": []
   },
   {
-    "id": "540825c91af55cbac80c1f348ced2a9c",
+    "id": "3f498e7e9a348a8b2924aaae14c299e8",
     "source": "hackernews",
     "type": "story",
-    "title": "The bridge to wealth is being pulled up with AI",
+    "title": "Data centers are transitioning from AC to DC",
     "description": "",
-    "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
-    "published_date": "2026-03-24T14:39:20+00:00",
+    "url": "https://spectrum.ieee.org/data-center-dc",
+    "published_date": "2026-03-25T00:44:55+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 262,
-      "author": "dankai",
-      "comments": 382,
-      "hn_id": 47503296
+      "score": 318,
+      "author": "jnord",
+      "comments": 388,
+      "hn_id": 47511703
+    },
+    "objects": []
+  },
+  {
+    "id": "5cde997af74618e2d31d5a114d3fdc19",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Updates to GitHub Copilot interaction data usage policy",
+    "description": "",
+    "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+    "published_date": "2026-03-25T19:09:16+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 316,
+      "author": "prefork",
+      "comments": 146,
+      "hn_id": 47521799
+    },
+    "objects": []
+  },
+  {
+    "id": "9f8b93b1a9c783bf43965a6f521c6200",
+    "source": "hackernews",
+    "type": "story",
+    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+    "description": "",
+    "url": "https://www.claudescode.dev/?window=since_launch",
+    "published_date": "2026-03-25T18:16:40+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 310,
+      "author": "louiereederson",
+      "comments": 193,
+      "hn_id": 47521157
+    },
+    "objects": []
+  },
+  {
+    "id": "4d133206afe3f91b88065e69c54eb8e0",
+    "source": "hackernews",
+    "type": "story",
+    "title": "False claims in a widely-cited paper",
+    "description": "",
+    "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+    "published_date": "2026-03-26T00:46:31+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 299,
+      "author": "qsi",
+      "comments": 122,
+      "hn_id": 47525378
+    },
+    "objects": []
+  },
+  {
+    "id": "f8145a11ebfe492fd895a0bd7f81c987",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Personal Encyclopedias",
+    "description": "",
+    "url": "https://whoami.wiki/blog/personal-encyclopedias",
+    "published_date": "2026-03-25T19:41:51+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 296,
+      "author": "jrmyphlmn",
+      "comments": 64,
+      "hn_id": 47522173
     },
     "objects": []
   },
@@ -586,10 +712,82 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 257,
+      "score": 280,
       "author": "alpaylan",
-      "comments": 87,
+      "comments": 98,
       "hn_id": 47504094
+    },
+    "objects": []
+  },
+  {
+    "id": "86a4ca7bdae7c5d48338fe3b7d9ed179",
+    "source": "hackernews",
+    "type": "story",
+    "title": "FreeCAD  v1.1",
+    "description": "",
+    "url": "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/",
+    "published_date": "2026-03-25T19:19:50+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 278,
+      "author": "sho_hn",
+      "comments": 93,
+      "hn_id": 47521945
+    },
+    "objects": []
+  },
+  {
+    "id": "33bfe4f462e1947025c455b6b108e73e",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Quantization from the Ground Up",
+    "description": "",
+    "url": "https://ngrok.com/blog/quantization",
+    "published_date": "2026-03-25T16:06:34+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 277,
+      "author": "samwho",
+      "comments": 50,
+      "hn_id": 47519295
+    },
+    "objects": []
+  },
+  {
+    "id": "4c8ec19f2fbaafbb2e58190a13426791",
+    "source": "hackernews",
+    "type": "story",
+    "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+    "description": "",
+    "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+    "published_date": "2026-03-25T16:31:15+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 276,
+      "author": "1vuio0pswjnm7",
+      "comments": 2,
+      "hn_id": 47519625
+    },
+    "objects": []
+  },
+  {
+    "id": "540825c91af55cbac80c1f348ced2a9c",
+    "source": "hackernews",
+    "type": "story",
+    "title": "The bridge to wealth is being pulled up with AI",
+    "description": "",
+    "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+    "published_date": "2026-03-24T14:39:20+00:00",
+    "categories": [],
+    "organization": "Hacker News",
+    "metadata": {
+      "score": 267,
+      "author": "dankai",
+      "comments": 400,
+      "hn_id": 47503296
     },
     "objects": []
   },
@@ -604,46 +802,46 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 246,
+      "score": 255,
       "author": "bayneri",
-      "comments": 124,
+      "comments": 127,
       "hn_id": 47504615
     },
     "objects": []
   },
   {
-    "id": "258f1a388d74b83fc556f90e7e3eca02",
+    "id": "bc49e6411d411b71f83f92a0ea8fcb07",
     "source": "hackernews",
     "type": "story",
-    "title": "An incoherent Rust",
+    "title": "Tracy Kidder has died",
     "description": "",
-    "url": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
-    "published_date": "2026-03-23T15:13:22+00:00",
+    "url": "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html",
+    "published_date": "2026-03-25T16:43:08+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 242,
-      "author": "emschwartz",
-      "comments": 152,
-      "hn_id": 47490648
+      "score": 248,
+      "author": "ghc",
+      "comments": 63,
+      "hn_id": 47519802
     },
     "objects": []
   },
   {
-    "id": "17d669bc150c707075be3c35812d5d60",
+    "id": "9ea8db02feb15a2d07a8cc1432f841d2",
     "source": "hackernews",
     "type": "story",
-    "title": "If DSPy is so great, why isn't anyone using it?",
+    "title": "Why I forked httpx",
     "description": "",
-    "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
-    "published_date": "2026-03-23T14:52:52+00:00",
+    "url": "https://tildeweb.nl/~michiel/httpxyz.html",
+    "published_date": "2026-03-25T08:05:17+00:00",
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 221,
-      "author": "sbpayne",
-      "comments": 121,
-      "hn_id": 47490365
+      "score": 242,
+      "author": "roywashere",
+      "comments": 175,
+      "hn_id": 47514603
     },
     "objects": []
   },
@@ -658,64 +856,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 211,
+      "score": 224,
       "author": "syrusakbary",
-      "comments": 130,
+      "comments": 144,
       "hn_id": 47501211
-    },
-    "objects": []
-  },
-  {
-    "id": "0e2e65902ad90552a8e61b14a3e9521e",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Local Stack Archived their GitHub repo and requires an account to run",
-    "description": "",
-    "url": "https://github.com/localstack/localstack",
-    "published_date": "2026-03-23T18:57:08+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 211,
-      "author": "ecshafer",
-      "comments": 126,
-      "hn_id": 47493657
-    },
-    "objects": []
-  },
-  {
-    "id": "7a11383914d3ca3a8ab839c10a0ed16f",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-    "description": "",
-    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "published_date": "2026-03-23T16:11:03+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 209,
-      "author": "peteski22",
-      "comments": 93,
-      "hn_id": 47491466
-    },
-    "objects": []
-  },
-  {
-    "id": "c65f6d4c6c57fef71dca18c675ec0f69",
-    "source": "hackernews",
-    "type": "story",
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "description": "",
-    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "published_date": "2026-03-25T05:00:54+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 207,
-      "author": "ray__",
-      "comments": 49,
-      "hn_id": 47513475
     },
     "objects": []
   },
@@ -730,9 +874,9 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 207,
+      "score": 219,
       "author": "tatef",
-      "comments": 80,
+      "comments": 85,
       "hn_id": 47504695
     },
     "objects": []
@@ -748,154 +892,10 @@
     "categories": [],
     "organization": "Hacker News",
     "metadata": {
-      "score": 204,
+      "score": 206,
       "author": "timpera",
       "comments": 3,
       "hn_id": 47509234
-    },
-    "objects": []
-  },
-  {
-    "id": "7abedec73486bc4f519b1491312ca1c4",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Debunking Zswap and Zram Myths",
-    "description": "",
-    "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-    "published_date": "2026-03-24T10:39:21+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 195,
-      "author": "javierhonduco",
-      "comments": 59,
-      "hn_id": 47500746
-    },
-    "objects": []
-  },
-  {
-    "id": "0c1a15539f256dadacdd493612eff5f2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
-    "description": "",
-    "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
-    "published_date": "2026-03-23T20:25:10+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 191,
-      "author": "trocado",
-      "comments": 183,
-      "hn_id": 47494629
-    },
-    "objects": []
-  },
-  {
-    "id": "7d1236b9ecacd3235dbc3bd8f1db853c",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-    "description": "",
-    "url": "https://www.web-rewind.com",
-    "published_date": "2026-03-24T07:54:02+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 184,
-      "author": "thushanfernando",
-      "comments": 128,
-      "hn_id": 47499721
-    },
-    "objects": []
-  },
-  {
-    "id": "a0c93c77d270dda5810b42d94c8e2c88",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Is it a pint?",
-    "description": "",
-    "url": "https://isitapint.com/",
-    "published_date": "2026-03-23T16:13:40+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 184,
-      "author": "cainxinth",
-      "comments": 160,
-      "hn_id": 47491496
-    },
-    "objects": []
-  },
-  {
-    "id": "e9aec6d6e20e6cb802e087f0b16ea27c",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US",
-    "description": "",
-    "url": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
-    "published_date": "2026-03-23T13:13:30+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 177,
-      "author": "speckx",
-      "comments": 202,
-      "hn_id": 47489058
-    },
-    "objects": []
-  },
-  {
-    "id": "1027de447daed7ae4f617152644214f2",
-    "source": "hackernews",
-    "type": "story",
-    "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-    "description": "",
-    "url": "https://v-os.dev",
-    "published_date": "2026-03-25T03:17:06+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 174,
-      "author": "felixding",
-      "comments": 103,
-      "hn_id": 47512816
-    },
-    "objects": []
-  },
-  {
-    "id": "3f498e7e9a348a8b2924aaae14c299e8",
-    "source": "hackernews",
-    "type": "story",
-    "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-    "description": "",
-    "url": "https://spectrum.ieee.org/data-center-dc",
-    "published_date": "2026-03-25T00:44:55+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 166,
-      "author": "jnord",
-      "comments": 194,
-      "hn_id": 47511703
-    },
-    "objects": []
-  },
-  {
-    "id": "36ca923e328571336f35ed32b43bafbb",
-    "source": "hackernews",
-    "type": "story",
-    "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
-    "description": "",
-    "url": "https://www.cyber.mil/stigs/downloads",
-    "published_date": "2026-03-23T15:25:04+00:00",
-    "categories": [],
-    "organization": "Hacker News",
-    "metadata": {
-      "score": 162,
-      "author": "Eduard",
-      "comments": 159,
-      "hn_id": 47490816
     },
     "objects": []
   }

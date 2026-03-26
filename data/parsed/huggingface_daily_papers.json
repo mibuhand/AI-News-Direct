@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "paper",
     "title": "A Very Big Video Reasoning Suite",
-    "description": "Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env...<br/>Upvotes: 517<br/>Authors: Maijunxian Wang, Ruisi Wang, Juyi Lin<br/>🔗 <a href=\"https://video-reason.com/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.20159\">Hugging Face</a>",
+    "description": "Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env...<br/>Upvotes: 517<br/>GitHub Stars: 83<br/>Authors: Maijunxian Wang, Ruisi Wang, Juyi Lin<br/>🔗 <a href=\"https://github.com/Video-Reason/VBVR-EvalKit\">GitHub</a><br/>🔗 <a href=\"https://video-reason.com/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.20159\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2602.20159",
-    "external_url": "",
+    "external_url": "https://github.com/Video-Reason/VBVR-EvalKit",
     "published_date": "2026-02-23T13:59:41.000Z",
     "categories": [
       "research",
@@ -15,8 +15,8 @@
     "metadata": {
       "paper_id": "2602.20159",
       "upvotes": 517,
-      "github_stars": 0,
-      "github_url": "",
+      "github_stars": 83,
+      "github_url": "https://github.com/Video-Reason/VBVR-EvalKit",
       "project_url": "https://video-reason.com/",
       "authors": [
         "Maijunxian Wang",
@@ -94,7 +94,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "AI Can Learn Scientific Taste",
-    "description": "Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potent...<br/>Upvotes: 398<br/>GitHub Stars: 357<br/>Authors: Jingqi Tong, Mingzhe Li, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste\">GitHub</a><br/>🔗 <a href=\"https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.14473\">Hugging Face</a>",
+    "description": "Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potent...<br/>Upvotes: 405<br/>GitHub Stars: 362<br/>Authors: Jingqi Tong, Mingzhe Li, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste\">GitHub</a><br/>🔗 <a href=\"https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.14473\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.14473",
     "external_url": "https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste",
     "published_date": "2026-03-15T12:31:51.000Z",
@@ -104,8 +104,8 @@
     ],
     "metadata": {
       "paper_id": "2603.14473",
-      "upvotes": 398,
-      "github_stars": 357,
+      "upvotes": 405,
+      "github_stars": 362,
       "github_url": "https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste",
       "project_url": "https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/",
       "authors": [
@@ -145,7 +145,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Demystifing Video Reasoning",
-    "description": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...<br/>Upvotes: 353<br/>GitHub Stars: 13<br/>Authors: Ruisi Wang, Zhongang Cai, Fanyi Pu<br/>🔗 <a href=\"https://github.com/OpenSenseNova/Demystifying_Video_Reasoning\">GitHub</a><br/>🔗 <a href=\"https://www.wruisi.com/demystifying_video_reasoning/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16870\">Hugging Face</a>",
+    "description": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...<br/>Upvotes: 356<br/>GitHub Stars: 14<br/>Authors: Ruisi Wang, Zhongang Cai, Fanyi Pu<br/>🔗 <a href=\"https://github.com/OpenSenseNova/Demystifying_Video_Reasoning\">GitHub</a><br/>🔗 <a href=\"https://www.wruisi.com/demystifying_video_reasoning/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16870\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16870",
     "external_url": "https://github.com/OpenSenseNova/Demystifying_Video_Reasoning",
     "published_date": "2026-03-17T13:59:55.000Z",
@@ -155,8 +155,8 @@
     ],
     "metadata": {
       "paper_id": "2603.16870",
-      "upvotes": 353,
-      "github_stars": 13,
+      "upvotes": 356,
+      "github_stars": 14,
       "github_url": "https://github.com/OpenSenseNova/Demystifying_Video_Reasoning",
       "project_url": "https://www.wruisi.com/demystifying_video_reasoning/",
       "authors": [
@@ -177,7 +177,7 @@
       ],
       "summary": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (CoF) mechanism, where reasoning is assumed to unfold sequentially across video frames. In this work, we challenge this assumption and uncover a fundamentally different mechanism. We show that reasoning in video models instead primarily emerges along the diffusion denoising steps. Through qualitative analysis and targeted probing experiments, we find that models explore multiple candidate solutions in early denoising steps and progressively converge to a final answer, a process we term Chain-of-Steps (CoS). Beyond this core mechanism, we identify several emergent reasoning behaviors critical to model performance: (1) working memory, enabling persistent reference; (2) self-correction and enhancement, allowing recovery from incorrect intermediate solutions; and (3) perception before action, where early steps establish semantic grounding and later steps perform structured manipulation. During a diffusion step, we further uncover self-evolved functional specialization within Diffusion Transformers, where early layers encode dense perceptual structure, middle layers execute reasoning, and later layers consolidate latent representations. Motivated by these insights, we present a simple training-free strategy as a proof-of-concept, demonstrating how reasoning can be improved by ensembling latent trajectories from identical models with different random seeds. Overall, our work provides a systematic understanding of how reasoning emerges in video generation models, offering a foundation to guide future research in better exploiting the inherent reasoning dynamics of video models as a new substrate for intelligence.",
       "fetch_date": "2026-03-18",
-      "num_comments": 6,
+      "num_comments": 7,
       "ai_summary": "Diffusion-based video models demonstrate reasoning capabilities through denoising steps rather than frame sequences, exhibiting behaviors like working memory, self-correction, and perception-before-action within specialized transformer layers.",
       "ai_keywords": [
         "diffusion models",
@@ -198,7 +198,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
-    "description": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning ...<br/>Upvotes: 296<br/>GitHub Stars: 39<br/>Authors: Jian Yang, Wei Zhang, Jiajun Wu<br/>🔗 <a href=\"https://github.com/CSJianYang/Industrial-Coder\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16790\">Hugging Face</a>",
+    "description": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning ...<br/>Upvotes: 297<br/>GitHub Stars: 43<br/>Authors: Jian Yang, Wei Zhang, Jiajun Wu<br/>🔗 <a href=\"https://github.com/CSJianYang/Industrial-Coder\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16790\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16790",
     "external_url": "https://github.com/CSJianYang/Industrial-Coder",
     "published_date": "2026-03-17T13:01:35.000Z",
@@ -208,8 +208,8 @@
     ],
     "metadata": {
       "paper_id": "2603.16790",
-      "upvotes": 296,
-      "github_stars": 39,
+      "upvotes": 297,
+      "github_stars": 43,
       "github_url": "https://github.com/CSJianYang/Industrial-Coder",
       "project_url": "https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder",
       "authors": [
@@ -244,7 +244,7 @@
       ],
       "summary": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning about hardware semantics, specialized language constructs, and strict resource constraints. To address these challenges, we introduce InCoder-32B (Industrial-Coder-32B), the first 32B-parameter code foundation model unifying code intelligence across chip design, GPU kernel optimization, embedded systems, compiler optimization, and 3D modeling. By adopting an efficient architecture, we train InCoder-32B from scratch with general code pre-training, curated industrial code annealing, mid-training that progressively extends context from 8K to 128K tokens with synthetic industrial reasoning data, and post-training with execution-grounded verification. We conduct extensive evaluation on 14 mainstream general code benchmarks and 9 industrial benchmarks spanning 4 specialized domains. Results show InCoder-32B achieves highly competitive performance on general tasks while establishing strong open-source baselines across industrial domains.",
       "fetch_date": "2026-03-18",
-      "num_comments": 4,
+      "num_comments": 5,
       "ai_summary": "InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.",
       "ai_keywords": [
         "code foundation model",
@@ -260,61 +260,11 @@
     }
   },
   {
-    "id": "1d7906d44575617e25d337b1212aaeef",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
-    "description": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in ...<br/>Upvotes: 262<br/>Authors: Zixuan Huang, Xin Xia, Yuxi Ren<br/>🔗 <a href=\"https://hzx122.github.io/sage-rl/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2602.08354\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2602.08354",
-    "external_url": "",
-    "published_date": "2026-02-09T02:38:22.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2602.08354",
-      "upvotes": 262,
-      "github_stars": 0,
-      "github_url": "",
-      "project_url": "https://hzx122.github.io/sage-rl/",
-      "authors": [
-        "Zixuan Huang",
-        "Xin Xia",
-        "Yuxi Ren",
-        "Jianbin Zheng",
-        "Xuanda Wang",
-        "Zhixia Zhang",
-        "Hongyan Xie",
-        "Songshi Liang",
-        "Zehao Chen",
-        "Xuefeng Xiao",
-        "Fuzhen Zhuang",
-        "Jianxin Li",
-        "Yikun Ban",
-        "Deqing Wang"
-      ],
-      "summary": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
-      "fetch_date": "2026-02-23",
-      "num_comments": 11,
-      "ai_summary": "Large reasoning models can implicitly determine optimal stopping points for thinking, which SAGE-RL enhances by incorporating efficient reasoning patterns into pass@1 inference for improved accuracy and efficiency.",
-      "ai_keywords": [
-        "large reasoning models",
-        "chains of thought",
-        "sampling paradigms",
-        "self-aware guided efficient reasoning",
-        "group-based reinforcement learning",
-        "pass@1 inference",
-        "mathematical benchmarks"
-      ]
-    }
-  },
-  {
     "id": "c9c71d69d58e3c629f5b1d96b43cafdb",
     "source": "huggingface",
     "type": "paper",
     "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
-    "description": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...<br/>Upvotes: 241<br/>GitHub Stars: 117<br/>Authors: Tianyu Xie, Jinfa Huang, Yuexiao Ma<br/>🔗 <a href=\"https://github.com/MAC-AutoML/SocialOmni\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/datasets/alexisty/SocialOmni\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16859\">Hugging Face</a>",
+    "description": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...<br/>Upvotes: 243<br/>GitHub Stars: 119<br/>Authors: Tianyu Xie, Jinfa Huang, Yuexiao Ma<br/>🔗 <a href=\"https://github.com/MAC-AutoML/SocialOmni\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/datasets/alexisty/SocialOmni\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16859\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16859",
     "external_url": "https://github.com/MAC-AutoML/SocialOmni",
     "published_date": "2026-03-17T13:58:44.000Z",
@@ -324,8 +274,8 @@
     ],
     "metadata": {
       "paper_id": "2603.16859",
-      "upvotes": 241,
-      "github_stars": 117,
+      "upvotes": 243,
+      "github_stars": 119,
       "github_url": "https://github.com/MAC-AutoML/SocialOmni",
       "project_url": "https://huggingface.co/datasets/alexisty/SocialOmni",
       "authors": [
@@ -360,11 +310,57 @@
     }
   },
   {
+    "id": "80f7d41c150477e11b0347400a9fbe6f",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning",
+    "description": "Large language models (LLMs) typically receive diverse natural language (NL) feedback through interaction with the environment. However, current reinforcement learning (RL) algorithms rely solely on s...<br/>Upvotes: 206<br/>GitHub Stars: 12<br/>Authors: Lei Huang, Xiang Cheng, Chenxiao Zhao<br/>🔗 <a href=\"https://github.com/LuckyyySTA/GOLF\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.04597\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2603.04597",
+    "external_url": "https://github.com/LuckyyySTA/GOLF",
+    "published_date": "2026-03-04T15:53:17.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2603.04597",
+      "upvotes": 206,
+      "github_stars": 12,
+      "github_url": "https://github.com/LuckyyySTA/GOLF",
+      "project_url": "",
+      "authors": [
+        "Lei Huang",
+        "Xiang Cheng",
+        "Chenxiao Zhao",
+        "Guobin Shen",
+        "Junjie Yang",
+        "Xiaocheng Feng",
+        "Yuxuan Gu",
+        "Xing Yu",
+        "Bing Qin"
+      ],
+      "summary": "Large language models (LLMs) typically receive diverse natural language (NL) feedback through interaction with the environment. However, current reinforcement learning (RL) algorithms rely solely on scalar rewards, leaving the rich information in NL feedback underutilized and leading to inefficient exploration. In this work, we propose GOLF, an RL framework that explicitly exploits group-level language feedback to guide targeted exploration through actionable refinements. GOLF aggregates two complementary feedback sources: (i) external critiques that pinpoint errors or propose targeted fixes, and (ii) intra-group attempts that supply alternative partial ideas and diverse failure patterns. These group-level feedbacks are aggregated to produce high-quality refinements, which are adaptively injected into training as off-policy scaffolds to provide targeted guidance in sparse-reward regions. Meanwhile, GOLF jointly optimizes generation and refinement within a unified RL loop, creating a virtuous cycle that continuously improves both capabilities. Experiments on both verifiable and non-verifiable benchmarks show that GOLF achieves superior performance and exploration efficiency, achieving 2.2times improvements in sample efficiency compared to RL methods trained solely on scalar rewards. Code is available at https://github.com/LuckyyySTA/GOLF.",
+      "fetch_date": "2026-03-12",
+      "num_comments": 3,
+      "ai_summary": "Language feedback is leveraged in reinforcement learning to improve exploration efficiency and sample utilization through grouped critique aggregation and joint generation-refinement optimization.",
+      "ai_keywords": [
+        "reinforcement learning",
+        "natural language feedback",
+        "scalar rewards",
+        "targeted exploration",
+        "group-level feedback",
+        "off-policy scaffolding",
+        "joint optimization",
+        "sample efficiency"
+      ]
+    }
+  },
+  {
     "id": "1a305d92fdc8a2f1d8bc3803ae4d4153",
     "source": "huggingface",
     "type": "paper",
     "title": "Fish Audio S2 Technical Report",
-    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 35<br/>GitHub Stars: 28770<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
+    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 36<br/>GitHub Stars: 28800<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.08823",
     "external_url": "https://github.com/fishaudio/fish-speech",
     "published_date": "2026-03-09T14:34:33.000Z",
@@ -374,8 +370,8 @@
     ],
     "metadata": {
       "paper_id": "2603.08823",
-      "upvotes": 35,
-      "github_stars": 28770,
+      "upvotes": 36,
+      "github_stars": 28800,
       "github_url": "https://github.com/fishaudio/fish-speech",
       "project_url": "https://fish.audio/",
       "authors": [
@@ -421,7 +417,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 60<br/>GitHub Stars: 16138<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 60<br/>GitHub Stars: 16144<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -432,7 +428,7 @@
     "metadata": {
       "paper_id": "2603.00729",
       "upvotes": 60,
-      "github_stars": 16138,
+      "github_stars": 16144,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
       "authors": [
@@ -479,7 +475,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 139<br/>GitHub Stars: 4171<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
+    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 139<br/>GitHub Stars: 4210<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.10165",
     "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
     "published_date": "2026-03-10T14:59:01.000Z",
@@ -490,7 +486,7 @@
     "metadata": {
       "paper_id": "2603.10165",
       "upvotes": 139,
-      "github_stars": 4171,
+      "github_stars": 4210,
       "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "authors": [
@@ -522,7 +518,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Attention Residuals",
-    "description": "Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with dept...<br/>Upvotes: 159<br/>GitHub Stars: 2706<br/>Authors: Kimi Team, Guangyu Chen, Yu Zhang<br/>🔗 <a href=\"https://github.com/MoonshotAI/Attention-Residuals\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.15031\">Hugging Face</a>",
+    "description": "Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with dept...<br/>Upvotes: 161<br/>GitHub Stars: 2734<br/>Authors: Kimi Team, Guangyu Chen, Yu Zhang<br/>🔗 <a href=\"https://github.com/MoonshotAI/Attention-Residuals\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.15031\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.15031",
     "external_url": "https://github.com/MoonshotAI/Attention-Residuals",
     "published_date": "2026-03-16T05:32:21.000Z",
@@ -532,8 +528,8 @@
     ],
     "metadata": {
       "paper_id": "2603.15031",
-      "upvotes": 159,
-      "github_stars": 2706,
+      "upvotes": 161,
+      "github_stars": 2734,
       "github_url": "https://github.com/MoonshotAI/Attention-Residuals",
       "project_url": "",
       "authors": [
@@ -587,7 +583,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
-    "description": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for c...<br/>Upvotes: 127<br/>GitHub Stars: 2614<br/>Authors: Peng Xia, Jianwen Chen, Xinyu Yang<br/>🔗 <a href=\"https://github.com/aiming-lab/MetaClaw\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.17187\">Hugging Face</a>",
+    "description": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for c...<br/>Upvotes: 128<br/>GitHub Stars: 2701<br/>Authors: Peng Xia, Jianwen Chen, Xinyu Yang<br/>🔗 <a href=\"https://github.com/aiming-lab/MetaClaw\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.17187\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.17187",
     "external_url": "https://github.com/aiming-lab/MetaClaw",
     "published_date": "2026-03-17T18:30:30.000Z",
@@ -597,8 +593,8 @@
     ],
     "metadata": {
       "paper_id": "2603.17187",
-      "upvotes": 127,
-      "github_stars": 2614,
+      "upvotes": 128,
+      "github_stars": 2701,
       "github_url": "https://github.com/aiming-lab/MetaClaw",
       "project_url": "",
       "authors": [
@@ -618,7 +614,7 @@
       ],
       "summary": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for continuous service and the necessity of updating capabilities to match shifting task distributions. On platforms like OpenClaw, which handle diverse workloads across 20+ channels, existing methods either store raw trajectories without distilling knowledge, maintain static skill libraries, or require disruptive downtime for retraining. We present MetaClaw, a continual meta-learning framework that jointly evolves a base LLM policy and a library of reusable behavioral skills. MetaClaw employs two complementary mechanisms. Skill-driven fast adaptation analyzes failure trajectories via an LLM evolver to synthesize new skills, enabling immediate improvement with zero downtime. Opportunistic policy optimization performs gradient-based updates via cloud LoRA fine-tuning and Reinforcement Learning with a Process Reward Model (RL-PRM). This is triggered during user-inactive windows by the Opportunistic Meta-Learning Scheduler (OMLS), which monitors system inactivity and calendar data. These mechanisms are mutually reinforcing: a refined policy generates better trajectories for skill synthesis, while richer skills provide higher-quality data for policy optimization. To prevent data contamination, a versioning mechanism separates support and query data. Built on a proxy-based architecture, MetaClaw scales to production-size LLMs without local GPUs. Experiments on MetaClaw-Bench and AutoResearchClaw show that skill-driven adaptation improves accuracy by up to 32% relative. The full pipeline advances Kimi-K2.5 accuracy from 21.4% to 40.6% and increases composite robustness by 18.3%. Code is available at https://github.com/aiming-lab/MetaClaw.",
       "fetch_date": "2026-03-19",
-      "num_comments": 3,
+      "num_comments": 4,
       "ai_summary": "A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.",
       "ai_keywords": [
         "large language model agents",
