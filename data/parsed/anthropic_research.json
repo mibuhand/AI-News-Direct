@@ -1,5 +1,20 @@
 [
     {
+        "id": "c85bc537c22f33d0ce741737303edb70",
+        "source": "anthropic",
+        "type": "research",
+        "title": "How Australia Uses Claude: Findings from the Anthropic Economic Index",
+        "description": "",
+        "url": "https://www.anthropic.com/research/how-australia-uses-claude",
+        "published_date": "2026-03-31T00:00:00+00:00",
+        "categories": [
+            "Economic Research"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
         "id": "b8c4d08cba77fb9ceacc4113eadf3f6b",
         "source": "anthropic",
         "type": "research",
@@ -9,21 +24,6 @@
         "published_date": "2026-03-24T00:00:00+00:00",
         "categories": [
             "Economic Research"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "41c86a652440485820bb63daafdc3e5c",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Long-running Claude for scientific computing",
-        "description": "",
-        "url": "https://www.anthropic.com/research/long-running-Claude",
-        "published_date": "2026-03-23T00:00:00+00:00",
-        "categories": [
-            "Science"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -51,6 +51,21 @@
         "title": "Vibe physics: The AI grad student",
         "description": "",
         "url": "https://www.anthropic.com/research/vibe-physics",
+        "published_date": "2026-03-23T00:00:00+00:00",
+        "categories": [
+            "Science"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "41c86a652440485820bb63daafdc3e5c",
+        "source": "anthropic",
+        "type": "research",
+        "title": "Long-running Claude for scientific computing",
+        "description": "",
+        "url": "https://www.anthropic.com/research/long-running-Claude",
         "published_date": "2026-03-23T00:00:00+00:00",
         "categories": [
             "Science"
@@ -105,21 +120,6 @@
         "objects": []
     },
     {
-        "id": "83de53df988a4b29c349a2dec2545f3c",
-        "source": "anthropic",
-        "type": "research",
-        "title": "Anthropic Education Report: The AI Fluency Index",
-        "description": "",
-        "url": "https://www.anthropic.com/research/AI-fluency-index",
-        "published_date": "2026-02-23T00:00:00+00:00",
-        "categories": [
-            "Announcements"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
         "id": "5d66d3e83cc8ed43d5361101311966c8",
         "source": "anthropic",
         "type": "research",
@@ -135,15 +135,15 @@
         "objects": []
     },
     {
-        "id": "921a229978d24f384ad67a9e3307707b",
+        "id": "83de53df988a4b29c349a2dec2545f3c",
         "source": "anthropic",
         "type": "research",
-        "title": "Measuring AI agent autonomy in practice",
+        "title": "Anthropic Education Report: The AI Fluency Index",
         "description": "",
-        "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-        "published_date": "2026-02-18T00:00:00+00:00",
+        "url": "https://www.anthropic.com/research/AI-fluency-index",
+        "published_date": "2026-02-23T00:00:00+00:00",
         "categories": [
-            "Societal Impacts"
+            "Announcements"
         ],
         "organization": "Anthropic",
         "metadata": {},
