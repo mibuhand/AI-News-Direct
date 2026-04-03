@@ -4,7 +4,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "AI Can Learn Scientific Taste",
-    "description": "Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potent...<br/>Upvotes: 413<br/>GitHub Stars: 377<br/>Authors: Jingqi Tong, Mingzhe Li, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste\">GitHub</a><br/>🔗 <a href=\"https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.14473\">Hugging Face</a>",
+    "description": "Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potent...<br/>Upvotes: 415<br/>GitHub Stars: 378<br/>Authors: Jingqi Tong, Mingzhe Li, Hangcheng Li<br/>🔗 <a href=\"https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste\">GitHub</a><br/>🔗 <a href=\"https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.14473\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.14473",
     "external_url": "https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste",
     "published_date": "2026-03-15T12:31:51.000Z",
@@ -14,8 +14,8 @@
     ],
     "metadata": {
       "paper_id": "2603.14473",
-      "upvotes": 413,
-      "github_stars": 377,
+      "upvotes": 415,
+      "github_stars": 378,
       "github_url": "https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste",
       "project_url": "https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/",
       "authors": [
@@ -55,7 +55,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Demystifing Video Reasoning",
-    "description": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...<br/>Upvotes: 367<br/>GitHub Stars: 19<br/>Authors: Ruisi Wang, Zhongang Cai, Fanyi Pu<br/>🔗 <a href=\"https://github.com/OpenSenseNova/Demystifying_Video_Reasoning\">GitHub</a><br/>🔗 <a href=\"https://www.wruisi.com/demystifying_video_reasoning/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16870\">Hugging Face</a>",
+    "description": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...<br/>Upvotes: 367<br/>GitHub Stars: 20<br/>Authors: Ruisi Wang, Zhongang Cai, Fanyi Pu<br/>🔗 <a href=\"https://github.com/OpenSenseNova/Demystifying_Video_Reasoning\">GitHub</a><br/>🔗 <a href=\"https://www.wruisi.com/demystifying_video_reasoning/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16870\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16870",
     "external_url": "https://github.com/OpenSenseNova/Demystifying_Video_Reasoning",
     "published_date": "2026-03-17T13:59:55.000Z",
@@ -66,7 +66,7 @@
     "metadata": {
       "paper_id": "2603.16870",
       "upvotes": 367,
-      "github_stars": 19,
+      "github_stars": 20,
       "github_url": "https://github.com/OpenSenseNova/Demystifying_Video_Reasoning",
       "project_url": "https://www.wruisi.com/demystifying_video_reasoning/",
       "authors": [
@@ -104,11 +104,58 @@
     }
   },
   {
+    "id": "d5248f330711a8ba84eb2457bffb88ab",
+    "source": "huggingface",
+    "type": "paper",
+    "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+    "description": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales eff...<br/>Upvotes: 306<br/>GitHub Stars: 71<br/>Authors: Chiyu Ma, Shuo Yang, Kexin Huang<br/>🔗 <a href=\"https://github.com/qwenpilot/FIPO\">GitHub</a><br/>🔗 <a href=\"https://qwen-pilot.notion.site/fipo\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.19835\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2603.19835",
+    "external_url": "https://github.com/qwenpilot/FIPO",
+    "published_date": "2026-03-20T06:24:50.000Z",
+    "categories": [
+      "research",
+      "paper"
+    ],
+    "metadata": {
+      "paper_id": "2603.19835",
+      "upvotes": 306,
+      "github_stars": 71,
+      "github_url": "https://github.com/qwenpilot/FIPO",
+      "project_url": "https://qwen-pilot.notion.site/fipo",
+      "authors": [
+        "Chiyu Ma",
+        "Shuo Yang",
+        "Kexin Huang",
+        "Jinda Lu",
+        "Haoming Meng",
+        "Shangshang Wang",
+        "Bolin Ding",
+        "Soroush Vosoughi",
+        "Guoyin Wang",
+        "Jingren Zhou"
+      ],
+      "summary": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales effectively, it typically relies on outcome-based rewards (ORM) that distribute a global advantage uniformly across every token in a trajectory. We argue that this coarse-grained credit assignment imposes a performance ceiling by failing to distinguish critical logical pivots from trivial tokens. FIPO addresses this by incorporating discounted future-KL divergence into the policy update, creating a dense advantage formulation that re-weights tokens based on their influence on subsequent trajectory behavior. Empirically, FIPO enables models to break through the length stagnation seen in standard baselines. Evaluated on Qwen2.5-32B, FIPO extends the average chain-of-thought length from roughly 4,000 to over 10,000 tokens and increases AIME 2024 Pass@1 accuracy from 50.0% to a peak of 58.0% (converging at approximately 56.0\\%). This outperforms both DeepSeek-R1-Zero-Math-32B (around 47.0%) and o1-mini (approximately 56.0%). Our results suggest that establishing dense advantage formulations is a vital path for evolving ORM-based algorithms to unlock the full reasoning potential of base models. We open-source our training system, built on the verl framework.",
+      "fetch_date": "2026-04-01",
+      "num_comments": 7,
+      "ai_summary": "FIPO enhances reinforcement learning for language models by using discounted future-KL divergence to improve credit assignment and extend reasoning chains, achieving better mathematical problem-solving performance.",
+      "ai_keywords": [
+        "reinforcement learning",
+        "policy optimization",
+        "discounted future-KL divergence",
+        "policy update",
+        "dense advantage formulation",
+        "chain-of-thought reasoning",
+        "AIME 2024",
+        "Pass@1 accuracy"
+      ]
+    }
+  },
+  {
     "id": "5e871af2627ec2275cd228caa75c3de8",
     "source": "huggingface",
     "type": "paper",
     "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
-    "description": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning ...<br/>Upvotes: 306<br/>GitHub Stars: 74<br/>Authors: Jian Yang, Wei Zhang, Jiajun Wu<br/>🔗 <a href=\"https://github.com/CSJianYang/Industrial-Coder\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16790\">Hugging Face</a>",
+    "description": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning ...<br/>Upvotes: 306<br/>GitHub Stars: 75<br/>Authors: Jian Yang, Wei Zhang, Jiajun Wu<br/>🔗 <a href=\"https://github.com/CSJianYang/Industrial-Coder\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16790\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16790",
     "external_url": "https://github.com/CSJianYang/Industrial-Coder",
     "published_date": "2026-03-17T13:01:35.000Z",
@@ -119,7 +166,7 @@
     "metadata": {
       "paper_id": "2603.16790",
       "upvotes": 306,
-      "github_stars": 74,
+      "github_stars": 75,
       "github_url": "https://github.com/CSJianYang/Industrial-Coder",
       "project_url": "https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder",
       "authors": [
@@ -170,49 +217,45 @@
     }
   },
   {
-    "id": "d5248f330711a8ba84eb2457bffb88ab",
+    "id": "e9afd229e283ff6828ac1002a0e29ef8",
     "source": "huggingface",
     "type": "paper",
-    "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
-    "description": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales eff...<br/>Upvotes: 301<br/>GitHub Stars: 59<br/>Authors: Chiyu Ma, Shuo Yang, Kexin Huang<br/>🔗 <a href=\"https://github.com/qwenpilot/FIPO\">GitHub</a><br/>🔗 <a href=\"https://qwen-pilot.notion.site/fipo\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.19835\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2603.19835",
-    "external_url": "https://github.com/qwenpilot/FIPO",
-    "published_date": "2026-03-20T06:24:50.000Z",
+    "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
+    "description": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground ...<br/>Upvotes: 302<br/>GitHub Stars: 300<br/>Authors: Tianle Zeng, Hanxuan Chen, Yanci Wen<br/>🔗 <a href=\"https://github.com/louiszengCN/CarlaAir\">GitHub</a><br/>🔗 <a href=\"https://github.com/louiszengCN/CarlaAir\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.28032\">Hugging Face</a>",
+    "url": "https://arxiv.org/abs/2603.28032",
+    "external_url": "https://github.com/louiszengCN/CarlaAir",
+    "published_date": "2026-03-30T00:49:29.000Z",
     "categories": [
       "research",
       "paper"
     ],
     "metadata": {
-      "paper_id": "2603.19835",
-      "upvotes": 301,
-      "github_stars": 59,
-      "github_url": "https://github.com/qwenpilot/FIPO",
-      "project_url": "https://qwen-pilot.notion.site/fipo",
+      "paper_id": "2603.28032",
+      "upvotes": 302,
+      "github_stars": 300,
+      "github_url": "https://github.com/louiszengCN/CarlaAir",
+      "project_url": "https://github.com/louiszengCN/CarlaAir",
       "authors": [
-        "Chiyu Ma",
-        "Shuo Yang",
-        "Kexin Huang",
-        "Jinda Lu",
-        "Haoming Meng",
-        "Shangshang Wang",
-        "Bolin Ding",
-        "Soroush Vosoughi",
-        "Guoyin Wang",
-        "Jingren Zhou"
+        "Tianle Zeng",
+        "Hanxuan Chen",
+        "Yanci Wen",
+        "Hong Zhang"
       ],
-      "summary": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales effectively, it typically relies on outcome-based rewards (ORM) that distribute a global advantage uniformly across every token in a trajectory. We argue that this coarse-grained credit assignment imposes a performance ceiling by failing to distinguish critical logical pivots from trivial tokens. FIPO addresses this by incorporating discounted future-KL divergence into the policy update, creating a dense advantage formulation that re-weights tokens based on their influence on subsequent trajectory behavior. Empirically, FIPO enables models to break through the length stagnation seen in standard baselines. Evaluated on Qwen2.5-32B, FIPO extends the average chain-of-thought length from roughly 4,000 to over 10,000 tokens and increases AIME 2024 Pass@1 accuracy from 50.0% to a peak of 58.0% (converging at approximately 56.0\\%). This outperforms both DeepSeek-R1-Zero-Math-32B (around 47.0%) and o1-mini (approximately 56.0%). Our results suggest that establishing dense advantage formulations is a vital path for evolving ORM-based algorithms to unlock the full reasoning potential of base models. We open-source our training system, built on the verl framework.",
+      "summary": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground agents within a single physically coherent environment. Existing open-source platforms remain domain-segregated: driving simulators lack aerial dynamics, while multirotor simulators lack realistic ground scenes. Bridge-based co-simulation introduces synchronization overhead and cannot guarantee strict spatial-temporal consistency.\n  We present CARLA-Air, an open-source infrastructure that unifies high-fidelity urban driving and physics-accurate multirotor flight within a single Unreal Engine process. The platform preserves both CARLA and AirSim native Python APIs and ROS 2 interfaces, enabling zero-modification code reuse. Within a shared physics tick and rendering pipeline, CARLA-Air delivers photorealistic environments with rule-compliant traffic, socially-aware pedestrians, and aerodynamically consistent UAV dynamics, synchronously capturing up to 18 sensor modalities across all platforms at each tick. The platform supports representative air-ground embodied intelligence workloads spanning cooperation, embodied navigation and vision-language action, multi-modal perception and dataset construction, and reinforcement-learning-based policy training. An extensible asset pipeline allows integration of custom robot platforms into the shared world. By inheriting AirSim's aerial capabilities -- whose upstream development has been archived -- CARLA-Air ensures this widely adopted flight stack continues to evolve within a modern infrastructure.\n  Released with prebuilt binaries and full source: https://github.com/louiszengCN/CarlaAir",
       "fetch_date": "2026-04-01",
-      "num_comments": 7,
-      "ai_summary": "FIPO enhances reinforcement learning for language models by using discounted future-KL divergence to improve credit assignment and extend reasoning chains, achieving better mathematical problem-solving performance.",
+      "num_comments": 4,
+      "ai_summary": " CARLA-Air integrates high-fidelity driving and multirotor flight simulation within a unified Unreal Engine framework, supporting joint air-ground agent modeling with photorealistic environments and multi-modal sensing capabilities.",
       "ai_keywords": [
-        "reinforcement learning",
-        "policy optimization",
-        "discounted future-KL divergence",
-        "policy update",
-        "dense advantage formulation",
-        "chain-of-thought reasoning",
-        "AIME 2024",
-        "Pass@1 accuracy"
+        "co-simulation",
+        "physics-accurate",
+        "aerodynamic consistency",
+        "sensor modalities",
+        "embodied intelligence",
+        "reinforcement-learning-based policy training",
+        "Unreal Engine",
+        "CARLA",
+        "AirSim",
+        "ROS 2"
       ]
     }
   },
@@ -221,7 +264,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
-    "description": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...<br/>Upvotes: 247<br/>GitHub Stars: 93<br/>Authors: Tianyu Xie, Jinfa Huang, Yuexiao Ma<br/>🔗 <a href=\"https://github.com/MAC-AutoML/SocialOmni\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/datasets/alexisty/SocialOmni\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16859\">Hugging Face</a>",
+    "description": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...<br/>Upvotes: 248<br/>GitHub Stars: 95<br/>Authors: Tianyu Xie, Jinfa Huang, Yuexiao Ma<br/>🔗 <a href=\"https://github.com/MAC-AutoML/SocialOmni\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/datasets/alexisty/SocialOmni\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.16859\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.16859",
     "external_url": "https://github.com/MAC-AutoML/SocialOmni",
     "published_date": "2026-03-17T13:58:44.000Z",
@@ -231,8 +274,8 @@
     ],
     "metadata": {
       "paper_id": "2603.16859",
-      "upvotes": 247,
-      "github_stars": 93,
+      "upvotes": 248,
+      "github_stars": 95,
       "github_url": "https://github.com/MAC-AutoML/SocialOmni",
       "project_url": "https://huggingface.co/datasets/alexisty/SocialOmni",
       "authors": [
@@ -267,54 +310,11 @@
     }
   },
   {
-    "id": "e9afd229e283ff6828ac1002a0e29ef8",
-    "source": "huggingface",
-    "type": "paper",
-    "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
-    "description": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground ...<br/>Upvotes: 232<br/>GitHub Stars: 277<br/>Authors: Tianle Zeng, Hanxuan Chen, Yanci Wen<br/>🔗 <a href=\"https://github.com/louiszengCN/CarlaAir\">GitHub</a><br/>🔗 <a href=\"https://github.com/louiszengCN/CarlaAir\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.28032\">Hugging Face</a>",
-    "url": "https://arxiv.org/abs/2603.28032",
-    "external_url": "https://github.com/louiszengCN/CarlaAir",
-    "published_date": "2026-03-30T00:49:29.000Z",
-    "categories": [
-      "research",
-      "paper"
-    ],
-    "metadata": {
-      "paper_id": "2603.28032",
-      "upvotes": 232,
-      "github_stars": 277,
-      "github_url": "https://github.com/louiszengCN/CarlaAir",
-      "project_url": "https://github.com/louiszengCN/CarlaAir",
-      "authors": [
-        "Tianle Zeng",
-        "Hanxuan Chen",
-        "Yanci Wen",
-        "Hong Zhang"
-      ],
-      "summary": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground agents within a single physically coherent environment. Existing open-source platforms remain domain-segregated: driving simulators lack aerial dynamics, while multirotor simulators lack realistic ground scenes. Bridge-based co-simulation introduces synchronization overhead and cannot guarantee strict spatial-temporal consistency.\n  We present CARLA-Air, an open-source infrastructure that unifies high-fidelity urban driving and physics-accurate multirotor flight within a single Unreal Engine process. The platform preserves both CARLA and AirSim native Python APIs and ROS 2 interfaces, enabling zero-modification code reuse. Within a shared physics tick and rendering pipeline, CARLA-Air delivers photorealistic environments with rule-compliant traffic, socially-aware pedestrians, and aerodynamically consistent UAV dynamics, synchronously capturing up to 18 sensor modalities across all platforms at each tick. The platform supports representative air-ground embodied intelligence workloads spanning cooperation, embodied navigation and vision-language action, multi-modal perception and dataset construction, and reinforcement-learning-based policy training. An extensible asset pipeline allows integration of custom robot platforms into the shared world. By inheriting AirSim's aerial capabilities -- whose upstream development has been archived -- CARLA-Air ensures this widely adopted flight stack continues to evolve within a modern infrastructure.\n  Released with prebuilt binaries and full source: https://github.com/louiszengCN/CarlaAir",
-      "fetch_date": "2026-04-01",
-      "num_comments": 4,
-      "ai_summary": " CARLA-Air integrates high-fidelity driving and multirotor flight simulation within a unified Unreal Engine framework, supporting joint air-ground agent modeling with photorealistic environments and multi-modal sensing capabilities.",
-      "ai_keywords": [
-        "co-simulation",
-        "physics-accurate",
-        "aerodynamic consistency",
-        "sensor modalities",
-        "embodied intelligence",
-        "reinforcement-learning-based policy training",
-        "Unreal Engine",
-        "CARLA",
-        "AirSim",
-        "ROS 2"
-      ]
-    }
-  },
-  {
     "id": "1a305d92fdc8a2f1d8bc3803ae4d4153",
     "source": "huggingface",
     "type": "paper",
     "title": "Fish Audio S2 Technical Report",
-    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 36<br/>GitHub Stars: 28998<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
+    "description": "We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions...<br/>Upvotes: 37<br/>GitHub Stars: 29026<br/>Authors: Shijia Liao, Yuxuan Wang, Songting Liu<br/>🔗 <a href=\"https://github.com/fishaudio/fish-speech\">GitHub</a><br/>🔗 <a href=\"https://fish.audio/\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08823\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.08823",
     "external_url": "https://github.com/fishaudio/fish-speech",
     "published_date": "2026-03-09T14:34:33.000Z",
@@ -324,8 +324,8 @@
     ],
     "metadata": {
       "paper_id": "2603.08823",
-      "upvotes": 36,
-      "github_stars": 28998,
+      "upvotes": 37,
+      "github_stars": 29026,
       "github_url": "https://github.com/fishaudio/fish-speech",
       "project_url": "https://fish.audio/",
       "authors": [
@@ -371,7 +371,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Qwen3-Coder-Next Technical Report",
-    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 62<br/>GitHub Stars: 16207<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
+    "description": "We present Qwen3-Coder-Next, an open-weight language model specialized for coding agents. Qwen3-Coder-Next is an 80-billion-parameter model that activates only 3 billion parameters during inference, e...<br/>Upvotes: 62<br/>GitHub Stars: 16215<br/>Authors: Ruisheng Cao, Mouxiang Chen, Jiawei Chen<br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">GitHub</a><br/>🔗 <a href=\"https://github.com/QwenLM/Qwen3-Coder\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.00729\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.00729",
     "external_url": "https://github.com/QwenLM/Qwen3-Coder",
     "published_date": "2026-02-28T11:25:04.000Z",
@@ -382,7 +382,7 @@
     "metadata": {
       "paper_id": "2603.00729",
       "upvotes": 62,
-      "github_stars": 16207,
+      "github_stars": 16215,
       "github_url": "https://github.com/QwenLM/Qwen3-Coder",
       "project_url": "https://github.com/QwenLM/Qwen3-Coder",
       "authors": [
@@ -429,7 +429,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 147<br/>GitHub Stars: 4561<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
+    "description": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv...<br/>Upvotes: 148<br/>GitHub Stars: 4591<br/>Authors: Yinjie Wang, Xuyang Chen, Xiaolong Jin<br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">GitHub</a><br/>🔗 <a href=\"https://github.com/Gen-Verse/OpenClaw-RL\">Project Page</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.10165\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.10165",
     "external_url": "https://github.com/Gen-Verse/OpenClaw-RL",
     "published_date": "2026-03-10T14:59:01.000Z",
@@ -439,8 +439,8 @@
     ],
     "metadata": {
       "paper_id": "2603.10165",
-      "upvotes": 147,
-      "github_stars": 4561,
+      "upvotes": 148,
+      "github_stars": 4591,
       "github_url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "project_url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "authors": [
@@ -472,7 +472,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
-    "description": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for c...<br/>Upvotes: 134<br/>GitHub Stars: 3429<br/>Authors: Peng Xia, Jianwen Chen, Xinyu Yang<br/>🔗 <a href=\"https://github.com/aiming-lab/MetaClaw\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.17187\">Hugging Face</a>",
+    "description": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for c...<br/>Upvotes: 136<br/>GitHub Stars: 3460<br/>Authors: Peng Xia, Jianwen Chen, Xinyu Yang<br/>🔗 <a href=\"https://github.com/aiming-lab/MetaClaw\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.17187\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.17187",
     "external_url": "https://github.com/aiming-lab/MetaClaw",
     "published_date": "2026-03-17T18:30:30.000Z",
@@ -482,8 +482,8 @@
     ],
     "metadata": {
       "paper_id": "2603.17187",
-      "upvotes": 134,
-      "github_stars": 3429,
+      "upvotes": 136,
+      "github_stars": 3460,
       "github_url": "https://github.com/aiming-lab/MetaClaw",
       "project_url": "",
       "authors": [
@@ -526,7 +526,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "Attention Residuals",
-    "description": "Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with dept...<br/>Upvotes: 171<br/>GitHub Stars: 2900<br/>Authors: Kimi Team, Guangyu Chen, Yu Zhang<br/>🔗 <a href=\"https://github.com/MoonshotAI/Attention-Residuals\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.15031\">Hugging Face</a>",
+    "description": "Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with dept...<br/>Upvotes: 171<br/>GitHub Stars: 2921<br/>Authors: Kimi Team, Guangyu Chen, Yu Zhang<br/>🔗 <a href=\"https://github.com/MoonshotAI/Attention-Residuals\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.15031\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.15031",
     "external_url": "https://github.com/MoonshotAI/Attention-Residuals",
     "published_date": "2026-03-16T05:32:21.000Z",
@@ -537,7 +537,7 @@
     "metadata": {
       "paper_id": "2603.15031",
       "upvotes": 171,
-      "github_stars": 2900,
+      "github_stars": 2921,
       "github_url": "https://github.com/MoonshotAI/Attention-Residuals",
       "project_url": "",
       "authors": [
@@ -591,7 +591,7 @@
     "source": "huggingface",
     "type": "paper",
     "title": "EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery",
-    "description": "The increasing adoption of Large Language Models (LLMs) has enabled AI scientists to perform complex end-to-end scientific discovery tasks requiring coordination of specialized roles, including idea g...<br/>Upvotes: 15<br/>GitHub Stars: 2573<br/>Authors: Yougang Lyu, Xi Zhang, Xinhao Yi<br/>🔗 <a href=\"https://github.com/EvoScientist/EvoScientist\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08127\">Hugging Face</a>",
+    "description": "The increasing adoption of Large Language Models (LLMs) has enabled AI scientists to perform complex end-to-end scientific discovery tasks requiring coordination of specialized roles, including idea g...<br/>Upvotes: 14<br/>GitHub Stars: 2626<br/>Authors: Yougang Lyu, Xi Zhang, Xinhao Yi<br/>🔗 <a href=\"https://github.com/EvoScientist/EvoScientist\">GitHub</a><br/>🔗 <a href=\"https://huggingface.co/papers/2603.08127\">Hugging Face</a>",
     "url": "https://arxiv.org/abs/2603.08127",
     "external_url": "https://github.com/EvoScientist/EvoScientist",
     "published_date": "2026-03-09T05:07:19.000Z",
@@ -601,8 +601,8 @@
     ],
     "metadata": {
       "paper_id": "2603.08127",
-      "upvotes": 15,
-      "github_stars": 2573,
+      "upvotes": 14,
+      "github_stars": 2626,
       "github_url": "https://github.com/EvoScientist/EvoScientist",
       "project_url": "",
       "authors": [

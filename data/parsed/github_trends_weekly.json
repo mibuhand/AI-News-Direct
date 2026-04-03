@@ -1,25 +1,5 @@
 [
   {
-    "id": "b3789feba3ec7be55f63121d0aa90a83",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "affaan-m / everything-claude-code",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/everything-claude-code",
-    "published_date": "2026-03-21T01:09:03Z",
-    "categories": [
-      "JavaScript"
-    ],
-    "metadata": {
-      "stars": 132634,
-      "forks": 19180,
-      "stars_today": 23500,
-      "language": "JavaScript",
-      "timeframe": "weekly",
-      "repo_path": "affaan-m/everything-claude-code"
-    }
-  },
-  {
     "id": "acf98720b428f908fc704200af0875e2",
     "source": "github",
     "type": "trending_repository",
@@ -31,9 +11,9 @@
       "Shell"
     ],
     "metadata": {
-      "stars": 131441,
-      "forks": 10881,
-      "stars_today": 18086,
+      "stars": 133293,
+      "forks": 11087,
+      "stars_today": 17089,
       "language": "Shell",
       "timeframe": "weekly",
       "repo_path": "obra/superpowers"
@@ -51,52 +31,12 @@
       "Python"
     ],
     "metadata": {
-      "stars": 16544,
-      "forks": 1927,
-      "stars_today": 13593,
+      "stars": 17324,
+      "forks": 2042,
+      "stars_today": 15450,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "luongnv89/claude-howto"
-    }
-  },
-  {
-    "id": "f9a73cb00728b30fc50cc46da91d9fc9",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "mvanhorn / last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "published_date": "2026-03-07T00:56:03Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 17522,
-      "forks": 1415,
-      "stars_today": 10916,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "mvanhorn/last30days-skill"
-    }
-  },
-  {
-    "id": "739e69c8696afe047511331b677c3d52",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "bytedance / deer-flow",
-    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "url": "https://github.com/bytedance/deer-flow",
-    "published_date": "2026-04-02T11:45:43Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 56459,
-      "forks": 6929,
-      "stars_today": 10746,
-      "language": "Python",
-      "timeframe": "weekly",
-      "repo_path": "bytedance/deer-flow"
     }
   },
   {
@@ -111,9 +51,9 @@
       "Python"
     ],
     "metadata": {
-      "stars": 34928,
-      "forks": 3974,
-      "stars_today": 10004,
+      "stars": 35494,
+      "forks": 4039,
+      "stars_today": 11071,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "microsoft/VibeVoice"
@@ -126,14 +66,14 @@
     "title": "Yeachan-Heo / oh-my-claudecode",
     "description": "Teams-first Multi-agent orchestration for Claude Code",
     "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-    "published_date": "2026-03-28T22:54:17Z",
+    "published_date": "2026-04-03T03:13:42Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 21631,
-      "forks": 1869,
-      "stars_today": 8991,
+      "stars": 22743,
+      "forks": 1996,
+      "stars_today": 9761,
       "language": "TypeScript",
       "timeframe": "weekly",
       "repo_path": "Yeachan-Heo/oh-my-claudecode"
@@ -151,12 +91,52 @@
       "Python"
     ],
     "metadata": {
-      "stars": 22148,
-      "forks": 2765,
-      "stars_today": 8214,
+      "stars": 23264,
+      "forks": 2950,
+      "stars_today": 8798,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "NousResearch/hermes-agent"
+    }
+  },
+  {
+    "id": "f9a73cb00728b30fc50cc46da91d9fc9",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "mvanhorn / last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "published_date": "2026-03-07T00:56:03Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 17893,
+      "forks": 1433,
+      "stars_today": 8598,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "mvanhorn/last30days-skill"
+    }
+  },
+  {
+    "id": "b3f605911e7505e4cb5f48943e137faa",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "Yeachan-Heo / oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "published_date": "2026-04-02T07:43:18Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 13079,
+      "forks": 1202,
+      "stars_today": 7880,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "Yeachan-Heo/oh-my-codex"
     }
   },
   {
@@ -171,32 +151,72 @@
       "Python"
     ],
     "metadata": {
-      "stars": 87472,
-      "forks": 12685,
-      "stars_today": 7061,
+      "stars": 87748,
+      "forks": 12726,
+      "stars_today": 7327,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "hacksider/Deep-Live-Cam"
     }
   },
   {
-    "id": "fe5a129e8a043e0f4b68f5bc51a3774d",
+    "id": "d82b4475cff629aa747f48f992f5c499",
     "source": "github",
     "type": "trending_repository",
-    "title": "pascalorg / editor",
-    "description": "Create and share 3D architectural projects.",
-    "url": "https://github.com/pascalorg/editor",
-    "published_date": "2026-03-31T20:54:57Z",
+    "title": "siddharthvaddem / openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "published_date": "2026-04-02T05:24:40Z",
     "categories": [
       "TypeScript"
     ],
     "metadata": {
-      "stars": 9185,
-      "forks": 1180,
-      "stars_today": 2507,
+      "stars": 17275,
+      "forks": 1177,
+      "stars_today": 5954,
       "language": "TypeScript",
       "timeframe": "weekly",
-      "repo_path": "pascalorg/editor"
+      "repo_path": "siddharthvaddem/openscreen"
+    }
+  },
+  {
+    "id": "c82711c45b0b000c4d54e5d2b38c405f",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "onyx-dot-app / onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "url": "https://github.com/onyx-dot-app/onyx",
+    "published_date": "2026-04-03T00:33:18Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 22531,
+      "forks": 3040,
+      "stars_today": 2886,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "onyx-dot-app/onyx"
+    }
+  },
+  {
+    "id": "6c94f5cb90511422e4f78a6605b8d410",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "google-research / timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "url": "https://github.com/google-research/timesfm",
+    "published_date": "2025-01-06T21:55:51Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 13699,
+      "forks": 1169,
+      "stars_today": 2795,
+      "language": "Python",
+      "timeframe": "weekly",
+      "repo_path": "google-research/timesfm"
     }
   },
   {
@@ -211,12 +231,32 @@
       "Python"
     ],
     "metadata": {
-      "stars": 4440,
-      "forks": 642,
-      "stars_today": 1972,
+      "stars": 4586,
+      "forks": 651,
+      "stars_today": 1982,
       "language": "Python",
       "timeframe": "weekly",
       "repo_path": "SakanaAI/AI-Scientist-v2"
+    }
+  },
+  {
+    "id": "f8f2e05c2e08d7d3fe471ab1a29519c3",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "vas3k / TaxHacker",
+    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+    "url": "https://github.com/vas3k/TaxHacker",
+    "published_date": "2026-03-12T16:57:24Z",
+    "categories": [
+      "TypeScript"
+    ],
+    "metadata": {
+      "stars": 4268,
+      "forks": 678,
+      "stars_today": 1745,
+      "language": "TypeScript",
+      "timeframe": "weekly",
+      "repo_path": "vas3k/TaxHacker"
     }
   }
 ]
