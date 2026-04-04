@@ -45,12 +45,12 @@
         "objects": []
     },
     {
-        "id": "d9d5e064fa81475e5a562666bf805886",
+        "id": "41c86a652440485820bb63daafdc3e5c",
         "source": "anthropic",
         "type": "research",
-        "title": "Introducing our Science Blog",
+        "title": "Long-running Claude for scientific computing",
         "description": "",
-        "url": "https://www.anthropic.com/research/introducing-anthropic-science",
+        "url": "https://www.anthropic.com/research/long-running-Claude",
         "published_date": "2026-03-23T00:00:00+00:00",
         "categories": [
             "Science"
@@ -60,12 +60,12 @@
         "objects": []
     },
     {
-        "id": "41c86a652440485820bb63daafdc3e5c",
+        "id": "d9d5e064fa81475e5a562666bf805886",
         "source": "anthropic",
         "type": "research",
-        "title": "Long-running Claude for scientific computing",
+        "title": "Introducing our Science Blog",
         "description": "",
-        "url": "https://www.anthropic.com/research/long-running-Claude",
+        "url": "https://www.anthropic.com/research/introducing-anthropic-science",
         "published_date": "2026-03-23T00:00:00+00:00",
         "categories": [
             "Science"
@@ -84,6 +84,21 @@
         "published_date": "2026-03-23T00:00:00+00:00",
         "categories": [
             "Science"
+        ],
+        "organization": "Anthropic",
+        "metadata": {},
+        "objects": []
+    },
+    {
+        "id": "a59c9fad13f0c794b4c252b757fb514b",
+        "source": "anthropic",
+        "type": "research",
+        "title": "A \u201cdiff\u201d tool for AI: Finding behavioral differences in new models",
+        "description": "",
+        "url": "https://www.anthropic.com/research/diff-tool",
+        "published_date": "2026-03-13T00:00:00+00:00",
+        "categories": [
+            "Interpretability"
         ],
         "organization": "Anthropic",
         "metadata": {},
@@ -127,21 +142,6 @@
         "description": "",
         "url": "https://www.anthropic.com/research/deprecation-updates-opus-3",
         "published_date": "2026-02-25T00:00:00+00:00",
-        "categories": [
-            "Alignment"
-        ],
-        "organization": "Anthropic",
-        "metadata": {},
-        "objects": []
-    },
-    {
-        "id": "5d66d3e83cc8ed43d5361101311966c8",
-        "source": "anthropic",
-        "type": "research",
-        "title": "The persona selection model",
-        "description": "",
-        "url": "https://www.anthropic.com/research/persona-selection-model",
-        "published_date": "2026-02-23T00:00:00+00:00",
         "categories": [
             "Alignment"
         ],
