@@ -4,15 +4,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "ianncity/KIMI-K2.5-700000x",
-    "description": "Downloads: 755<br/>Likes: 106",
+    "description": "Downloads: 908<br/>Likes: 118",
     "url": "https://huggingface.co/datasets/ianncity/KIMI-K2.5-700000x",
-    "published_date": "2026-04-05T11:50:12.486193+00:00",
+    "published_date": "2026-04-06T12:03:01.096227+00:00",
     "categories": [],
     "metadata": {
       "author": "ianncity",
       "item_name": "KIMI-K2.5-700000x",
-      "downloads": 755,
-      "likes": 106,
+      "downloads": 908,
+      "likes": 118,
       "last_modified": "2026-04-04T18:04:21.000Z",
       "all_tags": []
     }
@@ -22,15 +22,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "description": "Downloads: 8,660<br/>Likes: 498",
+    "description": "Downloads: 8,825<br/>Likes: 502",
     "url": "https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered",
-    "published_date": "2026-04-05T11:50:12.486209+00:00",
+    "published_date": "2026-04-06T12:03:01.096245+00:00",
     "categories": [],
     "metadata": {
       "author": "nohurry",
       "item_name": "Opus-4.6-Reasoning-3000x-filtered",
-      "downloads": 8660,
-      "likes": 498,
+      "downloads": 8825,
+      "likes": 502,
       "last_modified": "2026-03-31T12:43:36.000Z",
       "all_tags": []
     }
@@ -40,34 +40,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "open-index/hacker-news",
-    "description": "Downloads: 19,484<br/>Likes: 264",
+    "description": "Downloads: 20,435<br/>Likes: 269",
     "url": "https://huggingface.co/datasets/open-index/hacker-news",
-    "published_date": "2026-04-05T11:50:12.486216+00:00",
+    "published_date": "2026-04-06T12:03:01.096253+00:00",
     "categories": [],
     "metadata": {
       "author": "open-index",
       "item_name": "hacker-news",
-      "downloads": 19484,
-      "likes": 264,
-      "last_modified": "2026-04-05T11:45:22.000Z",
+      "downloads": 20435,
+      "likes": 269,
+      "last_modified": "2026-04-06T11:10:08.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "b0bed87fe24e712a03a08f283244b3c3",
+    "id": "dc8dab1f1d9ec4e10b4d05be0f783f42",
     "source": "huggingface",
     "type": "dataset",
-    "title": "kai-os/carnice-glm5-hermes-traces",
-    "description": "Downloads: 206<br/>Likes: 39",
-    "url": "https://huggingface.co/datasets/kai-os/carnice-glm5-hermes-traces",
-    "published_date": "2026-04-05T11:50:12.486226+00:00",
+    "title": "Crownelius/Opus-4.6-Reasoning-3300x",
+    "description": "Downloads: 2,845<br/>Likes: 227",
+    "url": "https://huggingface.co/datasets/Crownelius/Opus-4.6-Reasoning-3300x",
+    "published_date": "2026-04-06T12:03:01.096264+00:00",
     "categories": [],
     "metadata": {
-      "author": "kai-os",
-      "item_name": "carnice-glm5-hermes-traces",
-      "downloads": 206,
-      "likes": 39,
-      "last_modified": "2026-03-30T00:18:59.000Z",
+      "author": "Crownelius",
+      "item_name": "Opus-4.6-Reasoning-3300x",
+      "downloads": 2845,
+      "likes": 227,
+      "last_modified": "2026-03-15T07:02:24.000Z",
       "all_tags": []
     }
   },
@@ -76,16 +76,52 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Roman1111111/claude-opus-4.6-10000x",
-    "description": "Downloads: 2,773<br/>Likes: 102",
+    "description": "Downloads: 2,918<br/>Likes: 107",
     "url": "https://huggingface.co/datasets/Roman1111111/claude-opus-4.6-10000x",
-    "published_date": "2026-04-05T11:50:12.486231+00:00",
+    "published_date": "2026-04-06T12:03:01.096269+00:00",
     "categories": [],
     "metadata": {
       "author": "Roman1111111",
       "item_name": "claude-opus-4.6-10000x",
-      "downloads": 2773,
-      "likes": 102,
-      "last_modified": "2026-03-11T16:00:39.000Z",
+      "downloads": 2918,
+      "likes": 107,
+      "last_modified": "2026-04-05T13:42:24.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "83204ec055d34cd72cc8fed221602fcf",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "lambda/hermes-agent-reasoning-traces",
+    "description": "Downloads: 267<br/>Likes: 26",
+    "url": "https://huggingface.co/datasets/lambda/hermes-agent-reasoning-traces",
+    "published_date": "2026-04-06T12:03:01.096274+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "lambda",
+      "item_name": "hermes-agent-reasoning-traces",
+      "downloads": 267,
+      "likes": 26,
+      "last_modified": "2026-04-03T20:48:03.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b0bed87fe24e712a03a08f283244b3c3",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "kai-os/carnice-glm5-hermes-traces",
+    "description": "Downloads: 221<br/>Likes: 41",
+    "url": "https://huggingface.co/datasets/kai-os/carnice-glm5-hermes-traces",
+    "published_date": "2026-04-06T12:03:01.096279+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "kai-os",
+      "item_name": "carnice-glm5-hermes-traces",
+      "downloads": 221,
+      "likes": 41,
+      "last_modified": "2026-03-30T00:18:59.000Z",
       "all_tags": []
     }
   },
@@ -94,15 +130,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "OpenMOSS-Team/OmniAction",
-    "description": "Downloads: 22,403<br/>Likes: 247",
+    "description": "Downloads: 22,375<br/>Likes: 248",
     "url": "https://huggingface.co/datasets/OpenMOSS-Team/OmniAction",
-    "published_date": "2026-04-05T11:50:12.486237+00:00",
+    "published_date": "2026-04-06T12:03:01.096315+00:00",
     "categories": [],
     "metadata": {
       "author": "OpenMOSS-Team",
       "item_name": "OmniAction",
-      "downloads": 22403,
-      "likes": 247,
+      "downloads": 22375,
+      "likes": 248,
       "last_modified": "2026-03-27T14:36:27.000Z",
       "all_tags": []
     }
@@ -112,52 +148,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "TeichAI/Claude-Opus-4.6-Reasoning-887x",
-    "description": "Downloads: 5,847<br/>Likes: 60",
+    "description": "Downloads: 6,644<br/>Likes: 61",
     "url": "https://huggingface.co/datasets/TeichAI/Claude-Opus-4.6-Reasoning-887x",
-    "published_date": "2026-04-05T11:50:12.486242+00:00",
+    "published_date": "2026-04-06T12:03:01.096324+00:00",
     "categories": [],
     "metadata": {
       "author": "TeichAI",
       "item_name": "Claude-Opus-4.6-Reasoning-887x",
-      "downloads": 5847,
-      "likes": 60,
-      "last_modified": "2026-04-01T05:14:34.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "dc8dab1f1d9ec4e10b4d05be0f783f42",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Crownelius/Opus-4.6-Reasoning-3300x",
-    "description": "Downloads: 2,906<br/>Likes: 222",
-    "url": "https://huggingface.co/datasets/Crownelius/Opus-4.6-Reasoning-3300x",
-    "published_date": "2026-04-05T11:50:12.486246+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Crownelius",
-      "item_name": "Opus-4.6-Reasoning-3300x",
-      "downloads": 2906,
-      "likes": 222,
-      "last_modified": "2026-03-15T07:02:24.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "ea77a4a2ffb9e1864c8680d1ba05ec46",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "FINAL-Bench/World-Model",
-    "description": "Downloads: 1,500<br/>Likes: 25",
-    "url": "https://huggingface.co/datasets/FINAL-Bench/World-Model",
-    "published_date": "2026-04-05T11:50:12.486251+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "FINAL-Bench",
-      "item_name": "World-Model",
-      "downloads": 1500,
-      "likes": 25,
-      "last_modified": "2026-03-29T20:43:09.000Z",
+      "downloads": 6644,
+      "likes": 61,
+      "last_modified": "2026-04-06T04:58:02.000Z",
       "all_tags": []
     }
   },
@@ -166,52 +166,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "robbyant/mdm_depth",
-    "description": "Downloads: 29,283<br/>Likes: 21",
+    "description": "Downloads: 39,828<br/>Likes: 22",
     "url": "https://huggingface.co/datasets/robbyant/mdm_depth",
-    "published_date": "2026-04-05T11:50:12.486256+00:00",
+    "published_date": "2026-04-06T12:03:01.096329+00:00",
     "categories": [],
     "metadata": {
       "author": "robbyant",
       "item_name": "mdm_depth",
-      "downloads": 29283,
-      "likes": 21,
+      "downloads": 39828,
+      "likes": 22,
       "last_modified": "2026-04-05T08:12:31.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "83204ec055d34cd72cc8fed221602fcf",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "lambda/hermes-agent-reasoning-traces",
-    "description": "Downloads: 206<br/>Likes: 21",
-    "url": "https://huggingface.co/datasets/lambda/hermes-agent-reasoning-traces",
-    "published_date": "2026-04-05T11:50:12.486260+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "lambda",
-      "item_name": "hermes-agent-reasoning-traces",
-      "downloads": 206,
-      "likes": 21,
-      "last_modified": "2026-04-03T20:48:03.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "46171a9f3730d6b4af209dd13cc2b0c0",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "ianncity/General-Distillation-Prompts-1M",
-    "description": "Downloads: 147<br/>Likes: 21",
-    "url": "https://huggingface.co/datasets/ianncity/General-Distillation-Prompts-1M",
-    "published_date": "2026-04-05T11:50:12.486265+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "ianncity",
-      "item_name": "General-Distillation-Prompts-1M",
-      "downloads": 147,
-      "likes": 21,
-      "last_modified": "2026-04-01T19:42:20.000Z",
       "all_tags": []
     }
   },
@@ -220,34 +184,16 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "segyulee/UniSAFE",
-    "description": "Downloads: 12<br/>Likes: 21",
+    "description": "Downloads: 15<br/>Likes: 21",
     "url": "https://huggingface.co/datasets/segyulee/UniSAFE",
-    "published_date": "2026-04-05T11:50:12.486272+00:00",
+    "published_date": "2026-04-06T12:03:01.096333+00:00",
     "categories": [],
     "metadata": {
       "author": "segyulee",
       "item_name": "UniSAFE",
-      "downloads": 12,
+      "downloads": 15,
       "likes": 21,
       "last_modified": "2026-04-02T05:13:35.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "f8b4dfad44e20abafc709acddf78affa",
-    "source": "huggingface",
-    "type": "dataset",
-    "title": "Jackrong/Qwen3.5-reasoning-700x",
-    "description": "Downloads: 6,559<br/>Likes: 90",
-    "url": "https://huggingface.co/datasets/Jackrong/Qwen3.5-reasoning-700x",
-    "published_date": "2026-04-05T11:50:12.486277+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "Jackrong",
-      "item_name": "Qwen3.5-reasoning-700x",
-      "downloads": 6559,
-      "likes": 90,
-      "last_modified": "2026-03-02T17:44:52.000Z",
       "all_tags": []
     }
   },
@@ -256,16 +202,34 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Roman1111111/gpt-5.4-step-by-step-reasoning",
-    "description": "Downloads: 350<br/>Likes: 26",
+    "description": "Downloads: 389<br/>Likes: 27",
     "url": "https://huggingface.co/datasets/Roman1111111/gpt-5.4-step-by-step-reasoning",
-    "published_date": "2026-04-05T11:50:12.486282+00:00",
+    "published_date": "2026-04-06T12:03:01.096338+00:00",
     "categories": [],
     "metadata": {
       "author": "Roman1111111",
       "item_name": "gpt-5.4-step-by-step-reasoning",
-      "downloads": 350,
-      "likes": 26,
+      "downloads": 389,
+      "likes": 27,
       "last_modified": "2026-03-28T04:51:43.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "f8b4dfad44e20abafc709acddf78affa",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "Jackrong/Qwen3.5-reasoning-700x",
+    "description": "Downloads: 6,691<br/>Likes: 91",
+    "url": "https://huggingface.co/datasets/Jackrong/Qwen3.5-reasoning-700x",
+    "published_date": "2026-04-06T12:03:01.096343+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "Jackrong",
+      "item_name": "Qwen3.5-reasoning-700x",
+      "downloads": 6691,
+      "likes": 91,
+      "last_modified": "2026-03-02T17:44:52.000Z",
       "all_tags": []
     }
   },
@@ -274,15 +238,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "HuggingFaceFW/fineweb",
-    "description": "Downloads: 329,289<br/>Likes: 2733",
+    "description": "Downloads: 408,271<br/>Likes: 2734",
     "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
-    "published_date": "2026-04-05T11:50:12.486287+00:00",
+    "published_date": "2026-04-06T12:03:01.096351+00:00",
     "categories": [],
     "metadata": {
       "author": "HuggingFaceFW",
       "item_name": "fineweb",
-      "downloads": 329289,
-      "likes": 2733,
+      "downloads": 408271,
+      "likes": 2734,
       "last_modified": "2025-07-11T20:16:53.000Z",
       "all_tags": []
     }
@@ -292,14 +256,14 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "description": "Downloads: 3,495<br/>Likes: 365",
+    "description": "Downloads: 3,557<br/>Likes: 365",
     "url": "https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x",
-    "published_date": "2026-04-05T11:50:12.486293+00:00",
+    "published_date": "2026-04-06T12:03:01.096355+00:00",
     "categories": [],
     "metadata": {
       "author": "TeichAI",
       "item_name": "claude-4.5-opus-high-reasoning-250x",
-      "downloads": 3495,
+      "downloads": 3557,
       "likes": 365,
       "last_modified": "2025-11-28T03:02:41.000Z",
       "all_tags": []
@@ -310,15 +274,15 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "Ujjwal-Tyagi/ai-ml-foundations-book-collection",
-    "description": "Downloads: 224<br/>Likes: 19",
+    "description": "Downloads: 239<br/>Likes: 20",
     "url": "https://huggingface.co/datasets/Ujjwal-Tyagi/ai-ml-foundations-book-collection",
-    "published_date": "2026-04-05T11:50:12.486298+00:00",
+    "published_date": "2026-04-06T12:03:01.096360+00:00",
     "categories": [],
     "metadata": {
       "author": "Ujjwal-Tyagi",
       "item_name": "ai-ml-foundations-book-collection",
-      "downloads": 224,
-      "likes": 19,
+      "downloads": 239,
+      "likes": 20,
       "last_modified": "2026-03-30T16:32:38.000Z",
       "all_tags": []
     }
@@ -328,34 +292,70 @@
     "source": "huggingface",
     "type": "dataset",
     "title": "fka/prompts.chat",
-    "description": "Downloads: 31,909<br/>Likes: 9634",
+    "description": "Downloads: 32,551<br/>Likes: 9634",
     "url": "https://huggingface.co/datasets/fka/prompts.chat",
-    "published_date": "2026-04-05T11:50:12.486303+00:00",
+    "published_date": "2026-04-06T12:03:01.096365+00:00",
     "categories": [],
     "metadata": {
       "author": "fka",
       "item_name": "prompts.chat",
-      "downloads": 31909,
+      "downloads": 32551,
       "likes": 9634,
-      "last_modified": "2026-04-05T04:03:08.000Z",
+      "last_modified": "2026-04-06T04:04:49.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "74d99ea0a20b9f5c0a24d582a5e7845c",
+    "id": "70823d7087c8dee173ee6e724a9886f1",
     "source": "huggingface",
     "type": "dataset",
-    "title": "internlm/WildClawBench",
-    "description": "Downloads: 8,695<br/>Likes: 46",
-    "url": "https://huggingface.co/datasets/internlm/WildClawBench",
-    "published_date": "2026-04-05T11:50:12.486310+00:00",
+    "title": "Crownelius/Opus-4.6-Reasoning-2100x-formatted",
+    "description": "Downloads: 651<br/>Likes: 34",
+    "url": "https://huggingface.co/datasets/Crownelius/Opus-4.6-Reasoning-2100x-formatted",
+    "published_date": "2026-04-06T12:03:01.096370+00:00",
     "categories": [],
     "metadata": {
-      "author": "internlm",
-      "item_name": "WildClawBench",
-      "downloads": 8695,
-      "likes": 46,
-      "last_modified": "2026-04-02T08:34:07.000Z",
+      "author": "Crownelius",
+      "item_name": "Opus-4.6-Reasoning-2100x-formatted",
+      "downloads": 651,
+      "likes": 34,
+      "last_modified": "2026-03-24T18:45:01.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "46171a9f3730d6b4af209dd13cc2b0c0",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "ianncity/General-Distillation-Prompts-1M",
+    "description": "Downloads: 168<br/>Likes: 21",
+    "url": "https://huggingface.co/datasets/ianncity/General-Distillation-Prompts-1M",
+    "published_date": "2026-04-06T12:03:01.096375+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "ianncity",
+      "item_name": "General-Distillation-Prompts-1M",
+      "downloads": 168,
+      "likes": 21,
+      "last_modified": "2026-04-01T19:42:20.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b99821a0cbc04e919cfbd7fafeae8236",
+    "source": "huggingface",
+    "type": "dataset",
+    "title": "prosperolo/PoseDreamer",
+    "description": "Downloads: 290<br/>Likes: 13",
+    "url": "https://huggingface.co/datasets/prosperolo/PoseDreamer",
+    "published_date": "2026-04-06T12:03:01.096380+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "prosperolo",
+      "item_name": "PoseDreamer",
+      "downloads": 290,
+      "likes": 13,
+      "last_modified": "2026-03-26T17:50:49.000Z",
       "all_tags": []
     }
   }
