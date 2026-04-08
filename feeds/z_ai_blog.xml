@@ -4,11 +4,20 @@
   <id>tag:ai-news-direct.local,2025:z_ai_blog</id>
   <icon>https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg</icon>
   <logo>https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg</logo>
-  <updated>2026-04-07T12:07:00.565928+00:00</updated>
+  <updated>2026-04-08T12:07:25.612249+00:00</updated>
   <author>
     <name>AI News Direct</name>
   </author>
   <link href="https://raw.githubusercontent.com/mibuhand/AI-News-Direct/main/feeds/z_ai_blog.xml" rel="self"/>
+  <entry>
+    <title>GLM-5.1</title>
+    <id>cf8fd33f4358f951afa1ea56d19654bd</id>
+    <link href="https://docs.z.ai/release-notes/new-released"/>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <category term="Release Notes"/>
+    <category term="Models"/>
+    <summary>Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours in a single run, enabling a full loop from planning and execution to iterative refinement and final delivery.</summary>
+  </entry>
   <entry>
     <title>GLM-5V-Turbo</title>
     <id>0ef9a93d6c0ba732cb84a4ed702430ea</id>
