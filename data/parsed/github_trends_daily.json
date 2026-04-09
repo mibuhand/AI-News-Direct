@@ -1,5 +1,25 @@
 [
   {
+    "id": "a7fc8d42353b05a7a7280c9d3213cbd3",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "NousResearch / hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "published_date": "2026-04-08T11:59:11Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 41546,
+      "forks": 5310,
+      "stars_today": 5794,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "NousResearch/hermes-agent"
+    }
+  },
+  {
     "id": "acf98720b428f908fc704200af0875e2",
     "source": "github",
     "type": "trending_repository",
@@ -11,52 +31,12 @@
       "Shell"
     ],
     "metadata": {
-      "stars": 140586,
-      "forks": 11984,
-      "stars_today": 1926,
+      "stars": 142833,
+      "forks": 12178,
+      "stars_today": 2318,
       "language": "Shell",
       "timeframe": "daily",
       "repo_path": "obra/superpowers"
-    }
-  },
-  {
-    "id": "ea63928fce8be6b6c91293c27ede0758",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "abhigyanpatwari / GitNexus",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "published_date": "2026-04-01T16:16:03Z",
-    "categories": [
-      "TypeScript"
-    ],
-    "metadata": {
-      "stars": 25013,
-      "forks": 2790,
-      "stars_today": 981,
-      "language": "TypeScript",
-      "timeframe": "daily",
-      "repo_path": "abhigyanpatwari/GitNexus"
-    }
-  },
-  {
-    "id": "069b7de9227d23436dfa866901c726d6",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "google-ai-edge / gallery",
-    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-    "url": "https://github.com/google-ai-edge/gallery",
-    "published_date": "2026-04-02T16:05:16Z",
-    "categories": [
-      "Kotlin"
-    ],
-    "metadata": {
-      "stars": 19205,
-      "forks": 1791,
-      "stars_today": 853,
-      "language": "Kotlin",
-      "timeframe": "daily",
-      "repo_path": "google-ai-edge/gallery"
     }
   },
   {
@@ -64,17 +44,57 @@
     "source": "github",
     "type": "trending_repository",
     "title": "forrestchang / andrej-karpathy-skills",
-    "description": "",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
     "published_date": "2026-02-16T03:30:19Z",
     "categories": [],
     "metadata": {
-      "stars": 8425,
-      "forks": 584,
-      "stars_today": 686,
+      "stars": 9783,
+      "forks": 667,
+      "stars_today": 1371,
       "language": "",
       "timeframe": "daily",
       "repo_path": "forrestchang/andrej-karpathy-skills"
+    }
+  },
+  {
+    "id": "9b9105f507157263475035db5ba4ec7f",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "HKUDS / DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "published_date": "2026-04-08T12:24:08Z",
+    "categories": [
+      "Python"
+    ],
+    "metadata": {
+      "stars": 14112,
+      "forks": 1920,
+      "stars_today": 1306,
+      "language": "Python",
+      "timeframe": "daily",
+      "repo_path": "HKUDS/DeepTutor"
+    }
+  },
+  {
+    "id": "8faf33c97819a35e45d7f3f911ff8d82",
+    "source": "github",
+    "type": "trending_repository",
+    "title": "opendataloader-project / opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "published_date": "2026-04-03T09:07:51Z",
+    "categories": [
+      "Java"
+    ],
+    "metadata": {
+      "stars": 13113,
+      "forks": 1110,
+      "stars_today": 1012,
+      "language": "Java",
+      "timeframe": "daily",
+      "repo_path": "opendataloader-project/opendataloader-pdf"
     }
   },
   {
@@ -89,132 +109,92 @@
       "Python"
     ],
     "metadata": {
-      "stars": 4218,
-      "forks": 679,
-      "stars_today": 645,
+      "stars": 4932,
+      "forks": 734,
+      "stars_today": 725,
       "language": "Python",
       "timeframe": "daily",
       "repo_path": "TheCraigHewitt/seomachine"
     }
   },
   {
-    "id": "965c93a8b27fd31df82bbee70df311cc",
+    "id": "28333d2497c188ca3685ada41d6047aa",
     "source": "github",
     "type": "trending_repository",
-    "title": "NVIDIA / personaplex",
-    "description": "PersonaPlex code.",
-    "url": "https://github.com/NVIDIA/personaplex",
-    "published_date": "2026-03-02T16:07:09Z",
+    "title": "OpenBMB / VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "published_date": "2026-04-08T10:19:15Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 8228,
-      "forks": 1187,
-      "stars_today": 589,
+      "stars": 7310,
+      "forks": 880,
+      "stars_today": 460,
       "language": "Python",
       "timeframe": "daily",
-      "repo_path": "NVIDIA/personaplex"
+      "repo_path": "OpenBMB/VoxCPM"
     }
   },
   {
-    "id": "e94e9a6c593fb4b224f7b20c2bc36803",
+    "id": "254c09054ba5eb6cd3e539d563c87571",
     "source": "github",
     "type": "trending_repository",
-    "title": "elebumm / RedditVideoMakerBot",
-    "description": "Create Reddit Videos with just✨ one command ✨",
-    "url": "https://github.com/elebumm/RedditVideoMakerBot",
-    "published_date": "2025-10-28T23:53:49Z",
+    "title": "shiyu-coder / Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "published_date": "2026-01-02T14:16:31Z",
     "categories": [
       "Python"
     ],
     "metadata": {
-      "stars": 10272,
-      "forks": 2551,
-      "stars_today": 572,
+      "stars": 11883,
+      "forks": 2481,
+      "stars_today": 223,
       "language": "Python",
       "timeframe": "daily",
-      "repo_path": "elebumm/RedditVideoMakerBot"
+      "repo_path": "shiyu-coder/Kronos"
     }
   },
   {
-    "id": "9554d3b0b49803505b68d0ca6a9402c7",
+    "id": "32d1feed5f5e07f92c5884c3fd0794eb",
     "source": "github",
     "type": "trending_repository",
-    "title": "google-ai-edge / LiteRT-LM",
-    "description": "",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "published_date": "2026-04-08T04:29:49Z",
+    "title": "YishenTu / claudian",
+    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+    "url": "https://github.com/YishenTu/claudian",
+    "published_date": "2026-04-06T12:59:00Z",
     "categories": [
-      "C++"
+      "TypeScript"
     ],
     "metadata": {
-      "stars": 2799,
-      "forks": 264,
-      "stars_today": 500,
-      "language": "C++",
+      "stars": 6526,
+      "forks": 383,
+      "stars_today": 174,
+      "language": "TypeScript",
       "timeframe": "daily",
-      "repo_path": "google-ai-edge/LiteRT-LM"
+      "repo_path": "YishenTu/claudian"
     }
   },
   {
-    "id": "cfd16059469c4a1ee4c83c294ddd240f",
+    "id": "8ae3328904721f55adaf0a4e31afba13",
     "source": "github",
     "type": "trending_repository",
-    "title": "virattt / ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "published_date": "2026-04-07T15:34:08Z",
+    "title": "coleam00 / Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "url": "https://github.com/coleam00/Archon",
+    "published_date": "2026-04-08T12:50:45Z",
     "categories": [
-      "Python"
+      "TypeScript"
     ],
     "metadata": {
-      "stars": 50458,
-      "forks": 8764,
-      "stars_today": 123,
-      "language": "Python",
+      "stars": 14072,
+      "forks": 2419,
+      "stars_today": 138,
+      "language": "TypeScript",
       "timeframe": "daily",
-      "repo_path": "virattt/ai-hedge-fund"
-    }
-  },
-  {
-    "id": "d33bd72c24489150b36908677f877d37",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "newton-physics / newton",
-    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "url": "https://github.com/newton-physics/newton",
-    "published_date": "2026-04-07T19:10:22Z",
-    "categories": [
-      "Python"
-    ],
-    "metadata": {
-      "stars": 3907,
-      "forks": 411,
-      "stars_today": 67,
-      "language": "Python",
-      "timeframe": "daily",
-      "repo_path": "newton-physics/newton"
-    }
-  },
-  {
-    "id": "3ab67491cecc1569363f60bd2fce27ed",
-    "source": "github",
-    "type": "trending_repository",
-    "title": "goharbor / harbor",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-    "url": "https://github.com/goharbor/harbor",
-    "published_date": "2026-03-20T06:36:48Z",
-    "categories": [
-      "Go"
-    ],
-    "metadata": {
-      "stars": 27968,
-      "forks": 5165,
-      "stars_today": 23,
-      "language": "Go",
-      "timeframe": "daily",
-      "repo_path": "goharbor/harbor"
+      "repo_path": "coleam00/Archon"
     }
   }
 ]
