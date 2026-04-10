@@ -1,5 +1,24 @@
 [
     {
+        "id": "0cc98ee319696d9f6e34c062983cb8c9",
+        "source": "minimax",
+        "type": "model_update",
+        "title": "Music-2.6",
+        "description": "Cover Reborn. Bass Redefined.",
+        "url": "https://platform.minimax.io/docs/release-notes/models",
+        "published_date": "2026-04-01T00:00:00+00:00",
+        "categories": [
+            "Release Notes",
+            "Models"
+        ],
+        "organization": "MiniMax",
+        "metadata": {
+            "date_id": "apr-2026",
+            "date_text": "Apr. 2026"
+        },
+        "objects": []
+    },
+    {
         "id": "fa95c1ce8716f7dfdf1be348776e9cab",
         "source": "minimax",
         "type": "model_update",
@@ -95,25 +114,6 @@
         "objects": []
     },
     {
-        "id": "865673de0132f0ccd71c2639edfed432",
-        "source": "minimax",
-        "type": "model_update",
-        "title": "Speech-2.6",
-        "description": "Released Speech 2.6 — More human and instantly responsive voice for your agent.",
-        "url": "https://platform.minimax.io/docs/release-notes/models",
-        "published_date": "2025-10-29T00:00:00+00:00",
-        "categories": [
-            "Release Notes",
-            "Models"
-        ],
-        "organization": "MiniMax",
-        "metadata": {
-            "date_id": "oct-29-2025-2",
-            "date_text": "Oct. 29, 2025"
-        },
-        "objects": []
-    },
-    {
         "id": "d5dcf62c85909c9b356740c82f8b7d26",
         "source": "minimax",
         "type": "model_update",
@@ -128,6 +128,25 @@
         "organization": "MiniMax",
         "metadata": {
             "date_id": "oct-29-2025",
+            "date_text": "Oct. 29, 2025"
+        },
+        "objects": []
+    },
+    {
+        "id": "865673de0132f0ccd71c2639edfed432",
+        "source": "minimax",
+        "type": "model_update",
+        "title": "Speech-2.6",
+        "description": "Released Speech 2.6 — More human and instantly responsive voice for your agent.",
+        "url": "https://platform.minimax.io/docs/release-notes/models",
+        "published_date": "2025-10-29T00:00:00+00:00",
+        "categories": [
+            "Release Notes",
+            "Models"
+        ],
+        "organization": "MiniMax",
+        "metadata": {
+            "date_id": "oct-29-2025-2",
             "date_text": "Oct. 29, 2025"
         },
         "objects": []
