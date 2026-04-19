@@ -1,40 +1,20 @@
 [
   {
-    "id": "2f33611ecc6ba2d2b0e70be183a8db4c",
-    "source": "huggingface",
-    "type": "model",
-    "title": "MiniMaxAI/MiniMax-M2.7",
-    "description": "Type: text-generation<br/>Downloads: 258,064<br/>Likes: 939",
-    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-    "published_date": "2026-04-18T11:55:01.222172+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "MiniMaxAI",
-      "item_name": "MiniMax-M2.7",
-      "downloads": 258064,
-      "likes": 939,
-      "last_modified": "2026-04-17T09:52:39.000Z",
-      "all_tags": []
-    }
-  },
-  {
     "id": "2909dfec50de0ad71f4aca08918e2696",
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.6-35B-A3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 82,000<br/>Likes: 786",
+    "description": "Type: image-text-to-text<br/>Downloads: 209,112<br/>Likes: 876",
     "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-    "published_date": "2026-04-18T11:55:01.222193+00:00",
+    "published_date": "2026-04-19T11:55:55.798092+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "Qwen",
       "item_name": "Qwen3.6-35B-A3B",
-      "downloads": 82000,
-      "likes": 786,
+      "downloads": 209112,
+      "likes": 876,
       "last_modified": "2026-04-15T05:59:19.000Z",
       "all_tags": []
     }
@@ -44,38 +24,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/HY-Embodied-0.5",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,454<br/>Likes: 855",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,599<br/>Likes: 867",
     "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
-    "published_date": "2026-04-18T11:55:01.222199+00:00",
+    "published_date": "2026-04-19T11:55:55.798115+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "tencent",
       "item_name": "HY-Embodied-0.5",
-      "downloads": 1454,
-      "likes": 855,
+      "downloads": 1599,
+      "likes": 867,
       "last_modified": "2026-04-14T11:18:35.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "37375b21e06ce240c2ad48f60854f1ec",
+    "id": "2f33611ecc6ba2d2b0e70be183a8db4c",
     "source": "huggingface",
     "type": "model",
-    "title": "baidu/ERNIE-Image",
-    "description": "Type: text-to-image<br/>Downloads: 3,116<br/>Likes: 435",
-    "url": "https://huggingface.co/baidu/ERNIE-Image",
-    "published_date": "2026-04-18T11:55:01.222228+00:00",
+    "title": "MiniMaxAI/MiniMax-M2.7",
+    "description": "Type: text-generation<br/>Downloads: 288,848<br/>Likes: 969",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+    "published_date": "2026-04-19T11:55:55.798123+00:00",
     "categories": [
-      "text-to-image"
+      "text-generation"
     ],
     "metadata": {
-      "author": "baidu",
-      "item_name": "ERNIE-Image",
-      "downloads": 3116,
-      "likes": 435,
-      "last_modified": "2026-04-17T02:33:16.000Z",
+      "author": "MiniMaxAI",
+      "item_name": "MiniMax-M2.7",
+      "downloads": 288848,
+      "likes": 969,
+      "last_modified": "2026-04-17T09:52:39.000Z",
       "all_tags": []
     }
   },
@@ -84,18 +64,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 442,900<br/>Likes: 405",
+    "description": "Type: image-text-to-text<br/>Downloads: 662,293<br/>Likes: 482",
     "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-    "published_date": "2026-04-18T11:55:01.222235+00:00",
+    "published_date": "2026-04-19T11:55:55.798137+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "unsloth",
       "item_name": "Qwen3.6-35B-A3B-GGUF",
-      "downloads": 442900,
-      "likes": 405,
+      "downloads": 662293,
+      "likes": 482,
       "last_modified": "2026-04-16T16:37:34.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "37375b21e06ce240c2ad48f60854f1ec",
+    "source": "huggingface",
+    "type": "model",
+    "title": "baidu/ERNIE-Image",
+    "description": "Type: text-to-image<br/>Downloads: 3,761<br/>Likes: 458",
+    "url": "https://huggingface.co/baidu/ERNIE-Image",
+    "published_date": "2026-04-19T11:55:55.798155+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "baidu",
+      "item_name": "ERNIE-Image",
+      "downloads": 3761,
+      "likes": 458,
+      "last_modified": "2026-04-17T02:33:16.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "129da909d89f4dfb682fec87996668f3",
+    "source": "huggingface",
+    "type": "model",
+    "title": "tencent/HY-World-2.0",
+    "description": "Type: image-to-3d<br/>Likes: 450",
+    "url": "https://huggingface.co/tencent/HY-World-2.0",
+    "published_date": "2026-04-19T11:55:55.798161+00:00",
+    "categories": [
+      "image-to-3d"
+    ],
+    "metadata": {
+      "author": "tencent",
+      "item_name": "HY-World-2.0",
+      "downloads": 0,
+      "likes": 450,
+      "last_modified": "2026-04-16T09:11:28.000Z",
       "all_tags": []
     }
   },
@@ -104,17 +124,17 @@
     "source": "huggingface",
     "type": "model",
     "title": "zai-org/GLM-5.1",
-    "description": "Type: text-generation<br/>Downloads: 103,847<br/>Likes: 1390",
+    "description": "Type: text-generation<br/>Downloads: 112,939<br/>Likes: 1408",
     "url": "https://huggingface.co/zai-org/GLM-5.1",
-    "published_date": "2026-04-18T11:55:01.222239+00:00",
+    "published_date": "2026-04-19T11:55:55.798167+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "zai-org",
       "item_name": "GLM-5.1",
-      "downloads": 103847,
-      "likes": 1390,
+      "downloads": 112939,
+      "likes": 1408,
       "last_modified": "2026-04-16T06:11:43.000Z",
       "all_tags": []
     }
@@ -124,58 +144,18 @@
     "source": "huggingface",
     "type": "model",
     "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-    "description": "Type: text-generation<br/>Downloads: 66,552<br/>Likes: 387",
+    "description": "Type: text-generation<br/>Downloads: 72,519<br/>Likes: 408",
     "url": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-    "published_date": "2026-04-18T11:55:01.222243+00:00",
+    "published_date": "2026-04-19T11:55:55.798172+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "Jiunsong",
       "item_name": "supergemma4-26b-uncensored-gguf-v2",
-      "downloads": 66552,
-      "likes": 387,
+      "downloads": 72519,
+      "likes": 408,
       "last_modified": "2026-04-12T13:42:43.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0d85fcfe56a8653e8812c59c80956cdd",
-    "source": "huggingface",
-    "type": "model",
-    "title": "openbmb/VoxCPM2",
-    "description": "Type: text-to-speech<br/>Downloads: 35,870<br/>Likes: 1106",
-    "url": "https://huggingface.co/openbmb/VoxCPM2",
-    "published_date": "2026-04-18T11:55:01.222247+00:00",
-    "categories": [
-      "text-to-speech"
-    ],
-    "metadata": {
-      "author": "openbmb",
-      "item_name": "VoxCPM2",
-      "downloads": 35870,
-      "likes": 1106,
-      "last_modified": "2026-04-16T03:30:11.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "eaca682661d2f0040f999eea97134934",
-    "source": "huggingface",
-    "type": "model",
-    "title": "google/gemma-4-31B-it",
-    "description": "Type: image-text-to-text<br/>Downloads: 3,778,070<br/>Likes: 2137",
-    "url": "https://huggingface.co/google/gemma-4-31B-it",
-    "published_date": "2026-04-18T11:55:01.222251+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "google",
-      "item_name": "gemma-4-31B-it",
-      "downloads": 3778070,
-      "likes": 2137,
-      "last_modified": "2026-04-10T16:35:21.000Z",
       "all_tags": []
     }
   },
@@ -184,38 +164,58 @@
     "source": "huggingface",
     "type": "model",
     "title": "baidu/ERNIE-Image-Turbo",
-    "description": "Type: text-to-image<br/>Downloads: 4,119<br/>Likes: 298",
+    "description": "Type: text-to-image<br/>Downloads: 4,757<br/>Likes: 314",
     "url": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
-    "published_date": "2026-04-18T11:55:01.222254+00:00",
+    "published_date": "2026-04-19T11:55:55.798177+00:00",
     "categories": [
       "text-to-image"
     ],
     "metadata": {
       "author": "baidu",
       "item_name": "ERNIE-Image-Turbo",
-      "downloads": 4119,
-      "likes": 298,
+      "downloads": 4757,
+      "likes": 314,
       "last_modified": "2026-04-17T02:33:45.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "3c57c369fdbd09002ee48c9100ed8322",
+    "id": "eaca682661d2f0040f999eea97134934",
     "source": "huggingface",
     "type": "model",
-    "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-    "description": "Type: image-text-to-text<br/>Downloads: 156,865<br/>Likes: 1273",
-    "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-    "published_date": "2026-04-18T11:55:01.222259+00:00",
+    "title": "google/gemma-4-31B-it",
+    "description": "Type: image-text-to-text<br/>Downloads: 4,003,761<br/>Likes: 2166",
+    "url": "https://huggingface.co/google/gemma-4-31B-it",
+    "published_date": "2026-04-19T11:55:55.798182+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
-      "author": "dealignai",
-      "item_name": "Gemma-4-31B-JANG_4M-CRACK",
-      "downloads": 156865,
-      "likes": 1273,
-      "last_modified": "2026-04-17T00:43:39.000Z",
+      "author": "google",
+      "item_name": "gemma-4-31B-it",
+      "downloads": 4003761,
+      "likes": 2166,
+      "last_modified": "2026-04-10T16:35:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0d85fcfe56a8653e8812c59c80956cdd",
+    "source": "huggingface",
+    "type": "model",
+    "title": "openbmb/VoxCPM2",
+    "description": "Type: text-to-speech<br/>Downloads: 51,554<br/>Likes: 1112",
+    "url": "https://huggingface.co/openbmb/VoxCPM2",
+    "published_date": "2026-04-19T11:55:55.798186+00:00",
+    "categories": [
+      "text-to-speech"
+    ],
+    "metadata": {
+      "author": "openbmb",
+      "item_name": "VoxCPM2",
+      "downloads": 51554,
+      "likes": 1112,
+      "last_modified": "2026-04-16T03:30:11.000Z",
       "all_tags": []
     }
   },
@@ -224,116 +224,38 @@
     "source": "huggingface",
     "type": "model",
     "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-    "description": "Type: text-generation<br/>Downloads: 24,052<br/>Likes: 290",
+    "description": "Type: text-generation<br/>Downloads: 37,130<br/>Likes: 324",
     "url": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-    "published_date": "2026-04-18T11:55:01.222262+00:00",
+    "published_date": "2026-04-19T11:55:55.798191+00:00",
     "categories": [
       "text-generation"
     ],
     "metadata": {
       "author": "OBLITERATUS",
       "item_name": "gemma-4-E4B-it-OBLITERATED",
-      "downloads": 24052,
-      "likes": 290,
-      "last_modified": "2026-04-18T01:19:40.000Z",
+      "downloads": 37130,
+      "likes": 324,
+      "last_modified": "2026-04-19T04:00:36.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "129da909d89f4dfb682fec87996668f3",
+    "id": "3c57c369fdbd09002ee48c9100ed8322",
     "source": "huggingface",
     "type": "model",
-    "title": "tencent/HY-World-2.0",
-    "description": "Type: image-to-3d<br/>Likes: 224",
-    "url": "https://huggingface.co/tencent/HY-World-2.0",
-    "published_date": "2026-04-18T11:55:01.222266+00:00",
+    "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+    "description": "Type: image-text-to-text<br/>Downloads: 160,417<br/>Likes: 1291",
+    "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+    "published_date": "2026-04-19T11:55:55.798195+00:00",
     "categories": [
-      "image-to-3d"
+      "image-text-to-text"
     ],
     "metadata": {
-      "author": "tencent",
-      "item_name": "HY-World-2.0",
-      "downloads": 0,
-      "likes": 224,
-      "last_modified": "2026-04-16T09:11:28.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "0270064dd43806a14c901b381d8123d4",
-    "source": "huggingface",
-    "type": "model",
-    "title": "nvidia/Lyra-2.0",
-    "description": "Downloads: 81<br/>Likes: 181",
-    "url": "https://huggingface.co/nvidia/Lyra-2.0",
-    "published_date": "2026-04-18T11:55:01.222272+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "nvidia",
-      "item_name": "Lyra-2.0",
-      "downloads": 81,
-      "likes": 181,
-      "last_modified": "2026-04-18T01:34:58.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a854724f9a0997628eb8c9fa3c53550e",
-    "source": "huggingface",
-    "type": "model",
-    "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-    "description": "Type: text-generation<br/>Downloads: 14,165<br/>Likes: 171",
-    "url": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-    "published_date": "2026-04-18T11:55:01.222278+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "Jiunsong",
-      "item_name": "supergemma4-26b-uncensored-mlx-4bit-v2",
-      "downloads": 14165,
-      "likes": 171,
-      "last_modified": "2026-04-12T13:34:53.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "a856ccab721ed2ab5398fa08bfa4bed5",
-    "source": "huggingface",
-    "type": "model",
-    "title": "unsloth/ERNIE-Image-Turbo-GGUF",
-    "description": "Type: text-to-image<br/>Downloads: 19,176<br/>Likes: 160",
-    "url": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
-    "published_date": "2026-04-18T11:55:01.222282+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "unsloth",
-      "item_name": "ERNIE-Image-Turbo-GGUF",
-      "downloads": 19176,
-      "likes": 160,
-      "last_modified": "2026-04-14T23:56:23.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b1e672238a6a295f05132bfeca4799bd",
-    "source": "huggingface",
-    "type": "model",
-    "title": "NucleusAI/Nucleus-Image",
-    "description": "Type: text-to-image<br/>Downloads: 1,045<br/>Likes: 164",
-    "url": "https://huggingface.co/NucleusAI/Nucleus-Image",
-    "published_date": "2026-04-18T11:55:01.222285+00:00",
-    "categories": [
-      "text-to-image"
-    ],
-    "metadata": {
-      "author": "NucleusAI",
-      "item_name": "Nucleus-Image",
-      "downloads": 1045,
-      "likes": 164,
-      "last_modified": "2026-04-16T01:55:09.000Z",
+      "author": "dealignai",
+      "item_name": "Gemma-4-31B-JANG_4M-CRACK",
+      "downloads": 160417,
+      "likes": 1291,
+      "last_modified": "2026-04-17T00:43:39.000Z",
       "all_tags": []
     }
   },
@@ -342,18 +264,76 @@
     "source": "huggingface",
     "type": "model",
     "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "description": "Type: image-text-to-text<br/>Downloads: 92,003<br/>Likes: 165",
+    "description": "Type: image-text-to-text<br/>Downloads: 173,454<br/>Likes: 219",
     "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-04-18T11:55:01.222289+00:00",
+    "published_date": "2026-04-19T11:55:55.798203+00:00",
     "categories": [
       "image-text-to-text"
     ],
     "metadata": {
       "author": "HauhauCS",
       "item_name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 92003,
-      "likes": 165,
+      "downloads": 173454,
+      "likes": 219,
       "last_modified": "2026-04-17T02:59:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "0270064dd43806a14c901b381d8123d4",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/Lyra-2.0",
+    "description": "Downloads: 132<br/>Likes: 208",
+    "url": "https://huggingface.co/nvidia/Lyra-2.0",
+    "published_date": "2026-04-19T11:55:55.798208+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Lyra-2.0",
+      "downloads": 132,
+      "likes": 208,
+      "last_modified": "2026-04-18T01:34:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "b1e672238a6a295f05132bfeca4799bd",
+    "source": "huggingface",
+    "type": "model",
+    "title": "NucleusAI/Nucleus-Image",
+    "description": "Type: text-to-image<br/>Downloads: 1,179<br/>Likes: 178",
+    "url": "https://huggingface.co/NucleusAI/Nucleus-Image",
+    "published_date": "2026-04-19T11:55:55.798215+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "NucleusAI",
+      "item_name": "Nucleus-Image",
+      "downloads": 1179,
+      "likes": 178,
+      "last_modified": "2026-04-16T01:55:09.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "a856ccab721ed2ab5398fa08bfa4bed5",
+    "source": "huggingface",
+    "type": "model",
+    "title": "unsloth/ERNIE-Image-Turbo-GGUF",
+    "description": "Type: text-to-image<br/>Downloads: 26,394<br/>Likes: 167",
+    "url": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
+    "published_date": "2026-04-19T11:55:55.798220+00:00",
+    "categories": [
+      "text-to-image"
+    ],
+    "metadata": {
+      "author": "unsloth",
+      "item_name": "ERNIE-Image-Turbo-GGUF",
+      "downloads": 26394,
+      "likes": 167,
+      "last_modified": "2026-04-14T23:56:23.000Z",
       "all_tags": []
     }
   },
@@ -362,36 +342,56 @@
     "source": "huggingface",
     "type": "model",
     "title": "Comfy-Org/ERNIE-Image",
-    "description": "Likes: 155",
+    "description": "Likes: 161",
     "url": "https://huggingface.co/Comfy-Org/ERNIE-Image",
-    "published_date": "2026-04-18T11:55:01.222293+00:00",
+    "published_date": "2026-04-19T11:55:55.798224+00:00",
     "categories": [],
     "metadata": {
       "author": "Comfy-Org",
       "item_name": "ERNIE-Image",
       "downloads": 0,
-      "likes": 155,
+      "likes": 161,
       "last_modified": "2026-04-14T20:21:14.000Z",
       "all_tags": []
     }
   },
   {
-    "id": "5a869426c1881a8c8a123840a44277e3",
+    "id": "f4e5a4e92099d6c3e85c924af47fc20b",
     "source": "huggingface",
     "type": "model",
-    "title": "k2-fsa/OmniVoice",
-    "description": "Type: text-to-speech<br/>Downloads: 957,869<br/>Likes: 635",
-    "url": "https://huggingface.co/k2-fsa/OmniVoice",
-    "published_date": "2026-04-18T11:55:01.222296+00:00",
+    "title": "OpenMOSS-Team/MOSS-TTS-Nano-100M",
+    "description": "Type: text-to-speech<br/>Downloads: 36,158<br/>Likes: 145",
+    "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M",
+    "published_date": "2026-04-19T11:55:55.798229+00:00",
     "categories": [
       "text-to-speech"
     ],
     "metadata": {
-      "author": "k2-fsa",
-      "item_name": "OmniVoice",
-      "downloads": 957869,
-      "likes": 635,
-      "last_modified": "2026-04-13T07:18:19.000Z",
+      "author": "OpenMOSS-Team",
+      "item_name": "MOSS-TTS-Nano-100M",
+      "downloads": 36158,
+      "likes": 145,
+      "last_modified": "2026-04-13T09:32:58.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "5f6b9eadfd4e70fc767705bf752c20d9",
+    "source": "huggingface",
+    "type": "model",
+    "title": "Qwen/Qwen3.6-35B-A3B-FP8",
+    "description": "Type: image-text-to-text<br/>Downloads: 160,890<br/>Likes: 125",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
+    "published_date": "2026-04-19T11:55:55.798233+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "Qwen",
+      "item_name": "Qwen3.6-35B-A3B-FP8",
+      "downloads": 160890,
+      "likes": 125,
+      "last_modified": "2026-04-15T06:05:13.000Z",
       "all_tags": []
     }
   }
