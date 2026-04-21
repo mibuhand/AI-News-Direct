@@ -170,40 +170,6 @@
         "external_url": "https://www.arxiv.org/abs/2510.08203"
     },
     {
-        "id": "bc7833a946791d0aae99c56b441a050f",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces",
-        "description": "This research introduces ByteWrist, a novel highly-flexible and anthropomorphic parallel wrist for robotic manipulation. ByteWrist addresses the critical limitations of existing serial and parallel wrists in narrow-space operations through a compact three-stage parallel drive mechanism integrated with arc-shaped end linkages. The design achieves precise RPY (Roll-Pitch-Yaw) motion while maintaining exceptional compactness, making it particularly suitable for complex unstructured environments such as home services, medical assistance, and precision assembly. The key innovations include: (1) a nested three-stage motor-driven linkages that minimize volume while enabling independent multi-DOF control, (2) arc-shaped end linkages that optimize force transmission and expand motion range, and (3) a central supporting ball functioning as a spherical joint that enhances structural stiffness without compromising flexibility. Meanwhile, we present comprehensive kinematic modeling including forward / inverse kinematics and a numerical Jacobian solution for precise control. Empirically, we observe ByteWrist demonstrates strong performance in narrow-space maneuverability and dual-arm cooperative manipulation tasks, outperforming Kinova-based systems. Results indicate significant improvements in compactness, efficiency, and stiffness compared to traditional designs, establishing ByteWrist as a promising solution for next-generation robotic manipulation in constrained environments.",
-        "url": "https://seed.bytedance.com/en/public_papers/bytewrist-a-parallel-robotic-wrist-enabling-flexible-and-anthropomorphic-motion-for-confined-spaces",
-        "published_date": "2025-09-21T16:00:00+00:00",
-        "categories": [
-            "Robotics"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Jiawen Tian, Liqun Huang, Zhongren Cui, Jingchao Qiao, Jiafeng Xu, Xiao Ma, Zeyu Ren",
-            "journal": "arXiv",
-            "work_team": [
-                "Robotics"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "This research introduces ByteWrist, a novel highly-flexible and anthropomorphic parallel wrist for robotic manipulation. ByteWrist addresses the critical limitations of existing serial and parallel wrists in narrow-space operations through a compact three-stage parallel drive mechanism integrated with arc-shaped end linkages. The design achieves precise RPY (Roll-Pitch-Yaw) motion while maintaining exceptional compactness, making it particularly suitable for complex unstructured environments such as home services, medical assistance, and precision assembly. The key innovations include: (1) a nested three-stage motor-driven linkages that minimize volume while enabling independent multi-DOF control, (2) arc-shaped end linkages that optimize force transmission and expand motion range, and (3) a central supporting ball functioning as a spherical joint that enhances structural stiffness without compromising flexibility. Meanwhile, we present comprehensive kinematic modeling including forward / inverse kinematics and a numerical Jacobian solution for precise control. Empirically, we observe ByteWrist demonstrates strong performance in narrow-space maneuverability and dual-arm cooperative manipulation tasks, outperforming Kinova-based systems. Results indicate significant improvements in compactness, efficiency, and stiffness compared to traditional designs, establishing ByteWrist as a promising solution for next-generation robotic manipulation in constrained environments.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/bytewrist-a-parallel-robotic-wrist-enabling-flexible-and-anthropomorphic-motion-for-confined-spaces",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/abs/2509.18084"
-    },
-    {
         "id": "87377539f087efd82bfd59a777b3e9ec",
         "source": "bytedance_seed",
         "type": "research",
@@ -236,6 +202,40 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/abs/2509.17907"
+    },
+    {
+        "id": "bc7833a946791d0aae99c56b441a050f",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces",
+        "description": "This research introduces ByteWrist, a novel highly-flexible and anthropomorphic parallel wrist for robotic manipulation. ByteWrist addresses the critical limitations of existing serial and parallel wrists in narrow-space operations through a compact three-stage parallel drive mechanism integrated with arc-shaped end linkages. The design achieves precise RPY (Roll-Pitch-Yaw) motion while maintaining exceptional compactness, making it particularly suitable for complex unstructured environments such as home services, medical assistance, and precision assembly. The key innovations include: (1) a nested three-stage motor-driven linkages that minimize volume while enabling independent multi-DOF control, (2) arc-shaped end linkages that optimize force transmission and expand motion range, and (3) a central supporting ball functioning as a spherical joint that enhances structural stiffness without compromising flexibility. Meanwhile, we present comprehensive kinematic modeling including forward / inverse kinematics and a numerical Jacobian solution for precise control. Empirically, we observe ByteWrist demonstrates strong performance in narrow-space maneuverability and dual-arm cooperative manipulation tasks, outperforming Kinova-based systems. Results indicate significant improvements in compactness, efficiency, and stiffness compared to traditional designs, establishing ByteWrist as a promising solution for next-generation robotic manipulation in constrained environments.",
+        "url": "https://seed.bytedance.com/en/public_papers/bytewrist-a-parallel-robotic-wrist-enabling-flexible-and-anthropomorphic-motion-for-confined-spaces",
+        "published_date": "2025-09-21T16:00:00+00:00",
+        "categories": [
+            "Robotics"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Jiawen Tian, Liqun Huang, Zhongren Cui, Jingchao Qiao, Jiafeng Xu, Xiao Ma, Zeyu Ren",
+            "journal": "arXiv",
+            "work_team": [
+                "Robotics"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "This research introduces ByteWrist, a novel highly-flexible and anthropomorphic parallel wrist for robotic manipulation. ByteWrist addresses the critical limitations of existing serial and parallel wrists in narrow-space operations through a compact three-stage parallel drive mechanism integrated with arc-shaped end linkages. The design achieves precise RPY (Roll-Pitch-Yaw) motion while maintaining exceptional compactness, making it particularly suitable for complex unstructured environments such as home services, medical assistance, and precision assembly. The key innovations include: (1) a nested three-stage motor-driven linkages that minimize volume while enabling independent multi-DOF control, (2) arc-shaped end linkages that optimize force transmission and expand motion range, and (3) a central supporting ball functioning as a spherical joint that enhances structural stiffness without compromising flexibility. Meanwhile, we present comprehensive kinematic modeling including forward / inverse kinematics and a numerical Jacobian solution for precise control. Empirically, we observe ByteWrist demonstrates strong performance in narrow-space maneuverability and dual-arm cooperative manipulation tasks, outperforming Kinova-based systems. Results indicate significant improvements in compactness, efficiency, and stiffness compared to traditional designs, establishing ByteWrist as a promising solution for next-generation robotic manipulation in constrained environments.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/bytewrist-a-parallel-robotic-wrist-enabling-flexible-and-anthropomorphic-motion-for-confined-spaces",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/abs/2509.18084"
     },
     {
         "id": "e0eec267001e50a6b01b955e4b2200f2",
