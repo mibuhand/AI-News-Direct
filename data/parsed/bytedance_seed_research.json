@@ -15,7 +15,7 @@
             "author": "Diandian Gu, Jing Lin, Gaohong Liu, Jiahang Liu, Su Ma, Guang Shi, Jun Wang, Qinlong Wang, Qianyi Wu, Zhongcong Xu, Xuanyu Yi, Zihao Yu, Jianfeng Zhang, Zhuolin Zheng, Yifan Zhu, Rui Chen, Hengkai Guo, Xiaoyang Guo, Mingcong Han, Xu Han, Xiu Li, Yixun Liang, Weiqiang Lou, Junzhe Lu, Guan Luo, Minghan Qin, Shuguang Wang, Yuang Wang, ",
             "journal": "arXiv",
             "work_team": [
-                "Vision"
+                "Multimodal"
             ]
         },
         "objects": [],
@@ -66,6 +66,40 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/pdf/2604.07026"
+    },
+    {
+        "id": "25066e8c3d3642740a508dcae6aaba9f",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Hessian-informed machine learning interatomic potential towards bridging theory and experiments",
+        "description": "Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly efficient training protocol, termed Hessian INformed Training (HINT), achieving two to four orders of magnitude reduction for the requirement of expensive Hessian labels. HINT integrates critical techniques, including Hessian pre-training, configuration sampling, curriculum learning and stochastic projection Hessian loss. Enabled by HINT, Hi-MLIP significantly improves transition-state search and brings Gibbs free-energy predictions close to chemical accuracy especially in data-scarce regimes. Our framework also enables accurate treatment of strongly anharmonic hydrides, reproducing phonon renormalization and superconducting critical temperatures in close agreement with experiment while bypassing the computational bottleneck of anharmonic calculations. These results establish a practical route to enhancing curvature awareness of machine learning interatomic potentials, bridging simulation and experimental observables across a wide range of systems.",
+        "url": "https://seed.bytedance.com/en/public_papers/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments",
+        "published_date": "2026-03-25T16:00:00+00:00",
+        "categories": [
+            "Machine Learning"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Bangchen Yin, Jian Ouyang, Zhen Fan, Kailai Lin, Hanshi Hu, Dingshun Lv, Weiluo Ren, Hai Xiao, Ji Chen, Changsu Cao",
+            "journal": "arXiv",
+            "work_team": [
+                "AI for Science"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Hessian-informed machine learning interatomic potential towards bridging theory and experiments",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly efficient training protocol, termed Hessian INformed Training (HINT), achieving two to four orders of magnitude reduction for the requirement of expensive Hessian labels. HINT integrates critical techniques, including Hessian pre-training, configuration sampling, curriculum learning and stochastic projection Hessian loss. Enabled by HINT, Hi-MLIP significantly improves transition-state search and brings Gibbs free-energy predictions close to chemical accuracy especially in data-scarce regimes. Our framework also enables accurate treatment of strongly anharmonic hydrides, reproducing phonon renormalization and superconducting critical temperatures in close agreement with experiment while bypassing the computational bottleneck of anharmonic calculations. These results establish a practical route to enhancing curvature awareness of machine learning interatomic potentials, bridging simulation and experimental observables across a wide range of systems.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/pdf/2603.25373"
     },
     {
         "id": "957bb003078f6863be07b3f272753e04",
@@ -136,38 +170,38 @@
         "external_url": "https://arxiv.org/pdf/2603.24278"
     },
     {
-        "id": "25066e8c3d3642740a508dcae6aaba9f",
+        "id": "498e818c570ed44450bae3b29f834617",
         "source": "bytedance_seed",
         "type": "research",
-        "title": "Hessian-informed machine learning interatomic potential towards bridging theory and experiments",
-        "description": "Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly efficient training protocol, termed Hessian INformed Training (HINT), achieving two to four orders of magnitude reduction for the requirement of expensive Hessian labels. HINT integrates critical techniques, including Hessian pre-training, configuration sampling, curriculum learning and stochastic projection Hessian loss. Enabled by HINT, Hi-MLIP significantly improves transition-state search and brings Gibbs free-energy predictions close to chemical accuracy especially in data-scarce regimes. Our framework also enables accurate treatment of strongly anharmonic hydrides, reproducing phonon renormalization and superconducting critical temperatures in close agreement with experiment while bypassing the computational bottleneck of anharmonic calculations. These results establish a practical route to enhancing curvature awareness of machine learning interatomic potentials, bridging simulation and experimental observables across a wide range of systems.",
-        "url": "https://seed.bytedance.com/en/public_papers/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments",
-        "published_date": "2026-03-25T16:00:00+00:00",
+        "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
+        "description": "High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in \"sim-ready\" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long 3D token sequences and high memory overhead, limiting scalability to complex articulated objects. To address this, we propose SIMART, a unified MLLM framework that jointly performs part-level decomposition and kinematic prediction. By introducing a Sparse 3D VQ-VAE, SIMART reduces token counts by 70% vs. dense voxel tokens, enabling high-fidelity multi-part assemblies. SIMART achieves state-of-the-art performance on PartNet-Mobility and in-the-wild AIGC datasets, and enables physics-based robotic simulation.",
+        "url": "https://seed.bytedance.com/en/public_papers/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm",
+        "published_date": "2026-03-23T16:00:00+00:00",
         "categories": [
-            "Machine Learning"
+            "Computer Vision and Pattern Recognition"
         ],
         "organization": "ByteDance Seed",
         "metadata": {
-            "author": "Bangchen Yin, Jian Ouyang, Zhen Fan, Kailai Lin, Hanshi Hu, Dingshun Lv, Weiluo Ren, Hai Xiao, Ji Chen, Changsu Cao",
+            "author": "Chuanrui Zhang, Minghan Qin, Yuang Wang, Baifeng Xie, Hang Li, Ziwei Wang",
             "journal": "arXiv",
             "work_team": [
-                "AI for Science"
+                "Robotics"
             ]
         },
         "objects": [],
         "title_localized": {
-            "en": "Hessian-informed machine learning interatomic potential towards bridging theory and experiments",
+            "en": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
             "zh": ""
         },
         "description_localized": {
-            "en": "Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurate analysis of associated thermodynamic and kinetic phenomena. To make Hessian supervision practically viable, we develop a highly efficient training protocol, termed Hessian INformed Training (HINT), achieving two to four orders of magnitude reduction for the requirement of expensive Hessian labels. HINT integrates critical techniques, including Hessian pre-training, configuration sampling, curriculum learning and stochastic projection Hessian loss. Enabled by HINT, Hi-MLIP significantly improves transition-state search and brings Gibbs free-energy predictions close to chemical accuracy especially in data-scarce regimes. Our framework also enables accurate treatment of strongly anharmonic hydrides, reproducing phonon renormalization and superconducting critical temperatures in close agreement with experiment while bypassing the computational bottleneck of anharmonic calculations. These results establish a practical route to enhancing curvature awareness of machine learning interatomic potentials, bridging simulation and experimental observables across a wide range of systems.",
+            "en": "High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in \"sim-ready\" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long 3D token sequences and high memory overhead, limiting scalability to complex articulated objects. To address this, we propose SIMART, a unified MLLM framework that jointly performs part-level decomposition and kinematic prediction. By introducing a Sparse 3D VQ-VAE, SIMART reduces token counts by 70% vs. dense voxel tokens, enabling high-fidelity multi-part assemblies. SIMART achieves state-of-the-art performance on PartNet-Mobility and in-the-wild AIGC datasets, and enables physics-based robotic simulation.",
             "zh": ""
         },
         "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments",
+            "en": "https://seed.bytedance.com/en/public_papers/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm",
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
-        "external_url": "https://arxiv.org/pdf/2603.25373"
+        "external_url": "https://arxiv.org/pdf/2603.23386"
     },
     {
         "id": "fb78e5937286ef892b60a08c2f9f3c7d",
@@ -202,40 +236,6 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/pdf/2603.23500"
-    },
-    {
-        "id": "498e818c570ed44450bae3b29f834617",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
-        "description": "High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in \"sim-ready\" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long 3D token sequences and high memory overhead, limiting scalability to complex articulated objects. To address this, we propose SIMART, a unified MLLM framework that jointly performs part-level decomposition and kinematic prediction. By introducing a Sparse 3D VQ-VAE, SIMART reduces token counts by 70% vs. dense voxel tokens, enabling high-fidelity multi-part assemblies. SIMART achieves state-of-the-art performance on PartNet-Mobility and in-the-wild AIGC datasets, and enables physics-based robotic simulation.",
-        "url": "https://seed.bytedance.com/en/public_papers/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm",
-        "published_date": "2026-03-23T16:00:00+00:00",
-        "categories": [
-            "Computer Vision and Pattern Recognition"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Chuanrui Zhang, Minghan Qin, Yuang Wang, Baifeng Xie, Hang Li, Ziwei Wang",
-            "journal": "arXiv",
-            "work_team": [
-                "Robotics"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in \"sim-ready\" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offer a single-stage path to joint static asset understanding and sim-ready asset generation. However dense voxel-based 3D tokenization yields long 3D token sequences and high memory overhead, limiting scalability to complex articulated objects. To address this, we propose SIMART, a unified MLLM framework that jointly performs part-level decomposition and kinematic prediction. By introducing a Sparse 3D VQ-VAE, SIMART reduces token counts by 70% vs. dense voxel tokens, enabling high-fidelity multi-part assemblies. SIMART achieves state-of-the-art performance on PartNet-Mobility and in-the-wild AIGC datasets, and enables physics-based robotic simulation.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/pdf/2603.23386"
     },
     {
         "id": "2f84ff9ecd2a6ad78be23e862769d0c6",
@@ -476,6 +476,40 @@
         "external_url": "https://arxiv.org/pdf/2603.01070"
     },
     {
+        "id": "9b2b4a803c7642fc6794fa376eeb1bf7",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+        "description": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fundamentally improve the model's intrinsic CUDA optimization ability, resulting in limited performance gains. We present CUDA Agent, a large-scale agentic reinforcement learning system that develops CUDA kernel expertise through three components: a scalable data synthesis pipeline, a skill-augmented CUDA development environment with automated verification and profiling to provide reliable reward signals, and reinforcement learning algorithmic techniques enabling stable training. CUDA Agent achieves state-of-the-art results on KernelBench, delivering 100\\%, 100\\%, and 92\\% faster rate over this http URL on KernelBench Level-1, Level-2, and Level-3 splits, outperforming the strongest proprietary models such as Claude Opus 4.5 and Gemini 3 Pro by about 40\\% on the hardest Level-3 setting.",
+        "url": "https://seed.bytedance.com/en/public_papers/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation",
+        "published_date": "2026-02-26T16:00:00+00:00",
+        "categories": [
+            "Machine Learning"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Weinan Dai, Hanlin Wu, Qiying Yu, Huan-ang Gao, Jiahao Li, Chengquan Jiang, Weiqiang Lou, Yufan Song, Hongli Yu, Jiaze Chen, Wei-Ying Ma, Ya-Qin Zhang, Jingjing Liu, Mingxuan Wang, Xin Liu, Hao Zhou",
+            "journal": "arXiv",
+            "work_team": [
+                "LLM"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fundamentally improve the model's intrinsic CUDA optimization ability, resulting in limited performance gains. We present CUDA Agent, a large-scale agentic reinforcement learning system that develops CUDA kernel expertise through three components: a scalable data synthesis pipeline, a skill-augmented CUDA development environment with automated verification and profiling to provide reliable reward signals, and reinforcement learning algorithmic techniques enabling stable training. CUDA Agent achieves state-of-the-art results on KernelBench, delivering 100\\%, 100\\%, and 92\\% faster rate over this http URL on KernelBench Level-1, Level-2, and Level-3 splits, outperforming the strongest proprietary models such as Claude Opus 4.5 and Gemini 3 Pro by about 40\\% on the hardest Level-3 setting.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/pdf/2602.24286"
+    },
+    {
         "id": "e5cc040bcbcd356597933dc4b5a43083",
         "source": "bytedance_seed",
         "type": "research",
@@ -542,40 +576,6 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/pdf/2602.08354"
-    },
-    {
-        "id": "9b2b4a803c7642fc6794fa376eeb1bf7",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
-        "description": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fundamentally improve the model's intrinsic CUDA optimization ability, resulting in limited performance gains. We present CUDA Agent, a large-scale agentic reinforcement learning system that develops CUDA kernel expertise through three components: a scalable data synthesis pipeline, a skill-augmented CUDA development environment with automated verification and profiling to provide reliable reward signals, and reinforcement learning algorithmic techniques enabling stable training. CUDA Agent achieves state-of-the-art results on KernelBench, delivering 100\\%, 100\\%, and 92\\% faster rate over this http URL on KernelBench Level-1, Level-2, and Level-3 splits, outperforming the strongest proprietary models such as Claude Opus 4.5 and Gemini 3 Pro by about 40\\% on the hardest Level-3 setting.",
-        "url": "https://seed.bytedance.com/en/public_papers/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation",
-        "published_date": "2026-02-26T16:00:00+00:00",
-        "categories": [
-            "Machine Learning"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Weinan Dai, Hanlin Wu, Qiying Yu, Huan-ang Gao, Jiahao Li, Chengquan Jiang, Weiqiang Lou, Yufan Song, Hongli Yu, Jiaze Chen, Wei-Ying Ma, Ya-Qin Zhang, Jingjing Liu, Mingxuan Wang, Xin Liu, Hao Zhou",
-            "journal": "arXiv",
-            "work_team": [
-                "LLM"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code generation approaches either rely on training-free refinement or fine-tune models within fixed multi-turn execution-feedback loops, but both paradigms fail to fundamentally improve the model's intrinsic CUDA optimization ability, resulting in limited performance gains. We present CUDA Agent, a large-scale agentic reinforcement learning system that develops CUDA kernel expertise through three components: a scalable data synthesis pipeline, a skill-augmented CUDA development environment with automated verification and profiling to provide reliable reward signals, and reinforcement learning algorithmic techniques enabling stable training. CUDA Agent achieves state-of-the-art results on KernelBench, delivering 100\\%, 100\\%, and 92\\% faster rate over this http URL on KernelBench Level-1, Level-2, and Level-3 splits, outperforming the strongest proprietary models such as Claude Opus 4.5 and Gemini 3 Pro by about 40\\% on the hardest Level-3 setting.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/pdf/2602.24286"
     },
     {
         "id": "da9a902971709a527154a3bd75aca3d5",
