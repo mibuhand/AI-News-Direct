@@ -4,9 +4,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V4-Pro",
-    "description": "Type: text-generation<br/>Downloads: 174,402<br/>Likes: 3095",
+    "description": "Type: text-generation<br/>Downloads: 174,402<br/>Likes: 3201",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-    "published_date": "2026-04-28T13:08:22.528374+00:00",
+    "published_date": "2026-04-29T13:03:09.479868+00:00",
     "categories": [
       "text-generation"
     ],
@@ -14,7 +14,7 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V4-Pro",
       "downloads": 174402,
-      "likes": 3095,
+      "likes": 3201,
       "last_modified": "2026-04-27T06:51:04.000Z",
       "all_tags": []
     }
@@ -24,9 +24,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "openai/privacy-filter",
-    "description": "Type: token-classification<br/>Downloads: 57,743<br/>Likes: 991",
+    "description": "Type: token-classification<br/>Downloads: 57,743<br/>Likes: 1070",
     "url": "https://huggingface.co/openai/privacy-filter",
-    "published_date": "2026-04-28T13:08:22.528402+00:00",
+    "published_date": "2026-04-29T13:03:09.479898+00:00",
     "categories": [
       "token-classification"
     ],
@@ -34,7 +34,7 @@
       "author": "openai",
       "item_name": "privacy-filter",
       "downloads": 57743,
-      "likes": 991,
+      "likes": 1070,
       "last_modified": "2026-04-22T16:50:17.000Z",
       "all_tags": []
     }
@@ -44,9 +44,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.6-27B",
-    "description": "Type: image-text-to-text<br/>Downloads: 508,728<br/>Likes: 945",
+    "description": "Type: image-text-to-text<br/>Downloads: 508,728<br/>Likes: 985",
     "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
-    "published_date": "2026-04-28T13:08:22.528416+00:00",
+    "published_date": "2026-04-29T13:03:09.479915+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -54,7 +54,7 @@
       "author": "Qwen",
       "item_name": "Qwen3.6-27B",
       "downloads": 508728,
-      "likes": 945,
+      "likes": 985,
       "last_modified": "2026-04-24T02:39:16.000Z",
       "all_tags": []
     }
@@ -64,9 +64,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V4-Flash",
-    "description": "Type: text-generation<br/>Downloads: 96,948<br/>Likes: 804",
+    "description": "Type: text-generation<br/>Downloads: 96,948<br/>Likes: 842",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-    "published_date": "2026-04-28T13:08:22.528423+00:00",
+    "published_date": "2026-04-29T13:03:09.479921+00:00",
     "categories": [
       "text-generation"
     ],
@@ -74,28 +74,8 @@
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V4-Flash",
       "downloads": 96948,
-      "likes": 804,
+      "likes": 842,
       "last_modified": "2026-04-27T06:52:01.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1dfab5f489673a2c603e96771dd3e202",
-    "source": "huggingface",
-    "type": "model",
-    "title": "moonshotai/Kimi-K2.6",
-    "description": "Type: image-text-to-text<br/>Downloads: 489,001<br/>Likes: 1115",
-    "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
-    "published_date": "2026-04-28T13:08:22.528428+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "moonshotai",
-      "item_name": "Kimi-K2.6",
-      "downloads": 489001,
-      "likes": 1115,
-      "last_modified": "2026-04-23T05:37:54.000Z",
       "all_tags": []
     }
   },
@@ -104,9 +84,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "unsloth/Qwen3.6-27B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 702,161<br/>Likes: 464",
+    "description": "Type: image-text-to-text<br/>Downloads: 702,161<br/>Likes: 486",
     "url": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-    "published_date": "2026-04-28T13:08:22.528433+00:00",
+    "published_date": "2026-04-29T13:03:09.479927+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -114,8 +94,28 @@
       "author": "unsloth",
       "item_name": "Qwen3.6-27B-GGUF",
       "downloads": 702161,
-      "likes": 464,
+      "likes": 486,
       "last_modified": "2026-04-22T16:01:39.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1dfab5f489673a2c603e96771dd3e202",
+    "source": "huggingface",
+    "type": "model",
+    "title": "moonshotai/Kimi-K2.6",
+    "description": "Type: image-text-to-text<br/>Downloads: 489,001<br/>Likes: 1142",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+    "published_date": "2026-04-29T13:03:09.479955+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "moonshotai",
+      "item_name": "Kimi-K2.6",
+      "downloads": 489001,
+      "likes": 1142,
+      "last_modified": "2026-04-29T04:35:56.000Z",
       "all_tags": []
     }
   },
@@ -124,9 +124,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.6-35B-A3B",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,510,129<br/>Likes: 1475",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,510,129<br/>Likes: 1501",
     "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-    "published_date": "2026-04-28T13:08:22.528437+00:00",
+    "published_date": "2026-04-29T13:03:09.479961+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -134,66 +134,8 @@
       "author": "Qwen",
       "item_name": "Qwen3.6-35B-A3B",
       "downloads": 1510129,
-      "likes": 1475,
+      "likes": 1501,
       "last_modified": "2026-04-24T02:53:42.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "c5b21a13b32c3a243554b101c59e8273",
-    "source": "huggingface",
-    "type": "model",
-    "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
-    "description": "Downloads: 1,532<br/>Likes: 234",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
-    "published_date": "2026-04-28T13:08:22.528442+00:00",
-    "categories": [],
-    "metadata": {
-      "author": "deepseek-ai",
-      "item_name": "DeepSeek-V4-Pro-Base",
-      "downloads": 1532,
-      "likes": 234,
-      "last_modified": "2026-04-27T06:51:19.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "dc866695b66f4507702153289df97ff4",
-    "source": "huggingface",
-    "type": "model",
-    "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-    "description": "Type: image-text-to-text<br/>Downloads: 1,705,737<br/>Likes: 840",
-    "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-    "published_date": "2026-04-28T13:08:22.528447+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "unsloth",
-      "item_name": "Qwen3.6-35B-A3B-GGUF",
-      "downloads": 1705737,
-      "likes": 840,
-      "last_modified": "2026-04-20T12:42:25.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "68cd3718a588b955093cfe46bb0886f2",
-    "source": "huggingface",
-    "type": "model",
-    "title": "inclusionAI/LLaDA2.0-Uni",
-    "description": "Type: any-to-any<br/>Downloads: 506<br/>Likes: 214",
-    "url": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
-    "published_date": "2026-04-28T13:08:22.528452+00:00",
-    "categories": [
-      "any-to-any"
-    ],
-    "metadata": {
-      "author": "inclusionAI",
-      "item_name": "LLaDA2.0-Uni",
-      "downloads": 506,
-      "likes": 214,
-      "last_modified": "2026-04-24T02:07:53.000Z",
       "all_tags": []
     }
   },
@@ -202,9 +144,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "XiaomiMiMo/MiMo-V2.5-Pro",
-    "description": "Type: text-generation<br/>Downloads: 396<br/>Likes: 206",
+    "description": "Type: text-generation<br/>Downloads: 396<br/>Likes: 280",
     "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
-    "published_date": "2026-04-28T13:08:22.528457+00:00",
+    "published_date": "2026-04-29T13:03:09.479967+00:00",
     "categories": [
       "text-generation"
     ],
@@ -212,8 +154,46 @@
       "author": "XiaomiMiMo",
       "item_name": "MiMo-V2.5-Pro",
       "downloads": 396,
-      "likes": 206,
+      "likes": 280,
       "last_modified": "2026-04-28T07:01:37.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "c5b21a13b32c3a243554b101c59e8273",
+    "source": "huggingface",
+    "type": "model",
+    "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
+    "description": "Downloads: 1,532<br/>Likes: 237",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
+    "published_date": "2026-04-29T13:03:09.479972+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "deepseek-ai",
+      "item_name": "DeepSeek-V4-Pro-Base",
+      "downloads": 1532,
+      "likes": 237,
+      "last_modified": "2026-04-27T06:51:19.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "68cd3718a588b955093cfe46bb0886f2",
+    "source": "huggingface",
+    "type": "model",
+    "title": "inclusionAI/LLaDA2.0-Uni",
+    "description": "Type: any-to-any<br/>Downloads: 506<br/>Likes: 231",
+    "url": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
+    "published_date": "2026-04-29T13:03:09.479978+00:00",
+    "categories": [
+      "any-to-any"
+    ],
+    "metadata": {
+      "author": "inclusionAI",
+      "item_name": "LLaDA2.0-Uni",
+      "downloads": 506,
+      "likes": 231,
+      "last_modified": "2026-04-24T02:07:53.000Z",
       "all_tags": []
     }
   },
@@ -222,9 +202,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-    "description": "Type: image-text-to-text<br/>Downloads: 215,232<br/>Likes: 215",
+    "description": "Type: image-text-to-text<br/>Downloads: 215,232<br/>Likes: 230",
     "url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-04-28T13:08:22.528464+00:00",
+    "published_date": "2026-04-29T13:03:09.479983+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -232,7 +212,7 @@
       "author": "HauhauCS",
       "item_name": "Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "downloads": 215232,
-      "likes": 215,
+      "likes": 230,
       "last_modified": "2026-04-24T00:21:01.000Z",
       "all_tags": []
     }
@@ -242,9 +222,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "tencent/Hy3-preview",
-    "description": "Type: text-generation<br/>Downloads: 7,671<br/>Likes: 172",
+    "description": "Type: text-generation<br/>Downloads: 7,671<br/>Likes: 180",
     "url": "https://huggingface.co/tencent/Hy3-preview",
-    "published_date": "2026-04-28T13:08:22.528471+00:00",
+    "published_date": "2026-04-29T13:03:09.479990+00:00",
     "categories": [
       "text-generation"
     ],
@@ -252,8 +232,28 @@
       "author": "tencent",
       "item_name": "Hy3-preview",
       "downloads": 7671,
-      "likes": 172,
+      "likes": 180,
       "last_modified": "2026-04-23T14:59:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "dc866695b66f4507702153289df97ff4",
+    "source": "huggingface",
+    "type": "model",
+    "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+    "description": "Type: image-text-to-text<br/>Downloads: 1,705,737<br/>Likes: 854",
+    "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+    "published_date": "2026-04-29T13:03:09.479996+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "unsloth",
+      "item_name": "Qwen3.6-35B-A3B-GGUF",
+      "downloads": 1705737,
+      "likes": 854,
+      "last_modified": "2026-04-20T12:42:25.000Z",
       "all_tags": []
     }
   },
@@ -262,15 +262,15 @@
     "source": "huggingface",
     "type": "model",
     "title": "deepseek-ai/DeepSeek-V4-Flash-Base",
-    "description": "Downloads: 3,025<br/>Likes: 176",
+    "description": "Downloads: 3,025<br/>Likes: 181",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base",
-    "published_date": "2026-04-28T13:08:22.528476+00:00",
+    "published_date": "2026-04-29T13:03:09.480001+00:00",
     "categories": [],
     "metadata": {
       "author": "deepseek-ai",
       "item_name": "DeepSeek-V4-Flash-Base",
       "downloads": 3025,
-      "likes": 176,
+      "likes": 181,
       "last_modified": "2026-04-27T06:51:43.000Z",
       "all_tags": []
     }
@@ -280,9 +280,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "Qwen/Qwen3.6-27B-FP8",
-    "description": "Type: image-text-to-text<br/>Downloads: 745,458<br/>Likes: 157",
+    "description": "Type: image-text-to-text<br/>Downloads: 745,458<br/>Likes: 163",
     "url": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
-    "published_date": "2026-04-28T13:08:22.528480+00:00",
+    "published_date": "2026-04-29T13:03:09.480005+00:00",
     "categories": [
       "image-text-to-text"
     ],
@@ -290,28 +290,8 @@
       "author": "Qwen",
       "item_name": "Qwen3.6-27B-FP8",
       "downloads": 745458,
-      "likes": 157,
+      "likes": 163,
       "last_modified": "2026-04-24T02:39:18.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "1be4f6cf5ae949e75b8d38253a49093c",
-    "source": "huggingface",
-    "type": "model",
-    "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "description": "Type: image-text-to-text<br/>Downloads: 578,813<br/>Likes: 485",
-    "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-    "published_date": "2026-04-28T13:08:22.528485+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "HauhauCS",
-      "item_name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 578813,
-      "likes": 485,
-      "last_modified": "2026-04-17T02:59:21.000Z",
       "all_tags": []
     }
   },
@@ -320,9 +300,9 @@
     "source": "huggingface",
     "type": "model",
     "title": "z-lab/Qwen3.6-27B-DFlash",
-    "description": "Type: text-generation<br/>Downloads: 7,608<br/>Likes: 141",
+    "description": "Type: text-generation<br/>Downloads: 7,608<br/>Likes: 156",
     "url": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-    "published_date": "2026-04-28T13:08:22.528489+00:00",
+    "published_date": "2026-04-29T13:03:09.480012+00:00",
     "categories": [
       "text-generation"
     ],
@@ -330,48 +310,8 @@
       "author": "z-lab",
       "item_name": "Qwen3.6-27B-DFlash",
       "downloads": 7608,
-      "likes": 141,
+      "likes": 156,
       "last_modified": "2026-04-27T04:19:13.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "b1bbd7026c3d6c56c364004c9c6f1fad",
-    "source": "huggingface",
-    "type": "model",
-    "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-    "description": "Type: text-generation<br/>Downloads: 141,233<br/>Likes: 200",
-    "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-    "published_date": "2026-04-28T13:08:22.528494+00:00",
-    "categories": [
-      "text-generation"
-    ],
-    "metadata": {
-      "author": "hesamation",
-      "item_name": "Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "downloads": 141233,
-      "likes": 200,
-      "last_modified": "2026-04-19T01:24:41.000Z",
-      "all_tags": []
-    }
-  },
-  {
-    "id": "eaca682661d2f0040f999eea97134934",
-    "source": "huggingface",
-    "type": "model",
-    "title": "google/gemma-4-31B-it",
-    "description": "Type: image-text-to-text<br/>Downloads: 6,558,301<br/>Likes: 2405",
-    "url": "https://huggingface.co/google/gemma-4-31B-it",
-    "published_date": "2026-04-28T13:08:22.528499+00:00",
-    "categories": [
-      "image-text-to-text"
-    ],
-    "metadata": {
-      "author": "google",
-      "item_name": "gemma-4-31B-it",
-      "downloads": 6558301,
-      "likes": 2405,
-      "last_modified": "2026-04-10T16:35:21.000Z",
       "all_tags": []
     }
   },
@@ -380,16 +320,74 @@
     "source": "huggingface",
     "type": "model",
     "title": "XiaomiMiMo/MiMo-V2.5",
-    "description": "Downloads: 2,661<br/>Likes: 110",
+    "description": "Downloads: 2,661<br/>Likes: 146",
     "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
-    "published_date": "2026-04-28T13:08:22.528504+00:00",
+    "published_date": "2026-04-29T13:03:09.480017+00:00",
     "categories": [],
     "metadata": {
       "author": "XiaomiMiMo",
       "item_name": "MiMo-V2.5",
       "downloads": 2661,
-      "likes": 110,
+      "likes": 146,
       "last_modified": "2026-04-28T12:42:00.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "15cd2a48e4982f40c947efe487c62b95",
+    "source": "huggingface",
+    "type": "model",
+    "title": "talkie-lm/talkie-1930-13b-it",
+    "description": "Likes: 133",
+    "url": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+    "published_date": "2026-04-29T13:03:09.480022+00:00",
+    "categories": [],
+    "metadata": {
+      "author": "talkie-lm",
+      "item_name": "talkie-1930-13b-it",
+      "downloads": 0,
+      "likes": 133,
+      "last_modified": "2026-04-23T09:04:42.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "1be4f6cf5ae949e75b8d38253a49093c",
+    "source": "huggingface",
+    "type": "model",
+    "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "description": "Type: image-text-to-text<br/>Downloads: 578,813<br/>Likes: 497",
+    "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "published_date": "2026-04-29T13:03:09.480027+00:00",
+    "categories": [
+      "image-text-to-text"
+    ],
+    "metadata": {
+      "author": "HauhauCS",
+      "item_name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 578813,
+      "likes": 497,
+      "last_modified": "2026-04-17T02:59:21.000Z",
+      "all_tags": []
+    }
+  },
+  {
+    "id": "26f23826b5cc7abde47a9346b8b4b6f3",
+    "source": "huggingface",
+    "type": "model",
+    "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+    "description": "Type: any-to-any<br/>Downloads: 9,824<br/>Likes: 119",
+    "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+    "published_date": "2026-04-29T13:03:09.480032+00:00",
+    "categories": [
+      "any-to-any"
+    ],
+    "metadata": {
+      "author": "nvidia",
+      "item_name": "Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "downloads": 9824,
+      "likes": 119,
+      "last_modified": "2026-04-29T03:52:44.000Z",
       "all_tags": []
     }
   }

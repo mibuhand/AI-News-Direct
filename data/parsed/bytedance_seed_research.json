@@ -68,40 +68,6 @@
         "external_url": "https://arxiv.org/pdf/2604.07026"
     },
     {
-        "id": "957bb003078f6863be07b3f272753e04",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition",
-        "description": "The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables structured data factorization and promotes compositional generalization. F-ACIL decomposes the data distribution into structured factor spaces such as object, action, and environment. Based on the factorized formulation, we develop a factor-wise data collection and an iterative training paradigm that promotes compositional generalization over the high-dimensional factor space, leading to more effective utilization of real-world robotic demonstrations. With extensive real-world experiments, we show that F-ACIL can achieve more than 45% performance gains with 5-10\u00d7 fewer demonstrations comparing to that of which without the strategy. The results suggest that structured factorization offers a practical pathway toward efficient compositional generalization in real-world robotic learning. We believe F-ACIL can inspire more systematic research on building generalizable robotic data flywheel strategies.",
-        "url": "https://seed.bytedance.com/en/public_papers/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition",
-        "published_date": "2026-03-25T16:00:00+00:00",
-        "categories": [
-            "Robotics"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Yuyang Xiao, Yifei Zhou, Haoran Wang, Wenxuan Ou, Yuxiao Liu",
-            "journal": "arXiv",
-            "work_team": [
-                "Robotics"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables structured data factorization and promotes compositional generalization. F-ACIL decomposes the data distribution into structured factor spaces such as object, action, and environment. Based on the factorized formulation, we develop a factor-wise data collection and an iterative training paradigm that promotes compositional generalization over the high-dimensional factor space, leading to more effective utilization of real-world robotic demonstrations. With extensive real-world experiments, we show that F-ACIL can achieve more than 45% performance gains with 5-10\u00d7 fewer demonstrations comparing to that of which without the strategy. The results suggest that structured factorization offers a practical pathway toward efficient compositional generalization in real-world robotic learning. We believe F-ACIL can inspire more systematic research on building generalizable robotic data flywheel strategies.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/pdf/2603.25583"
-    },
-    {
         "id": "042e780aa286c1e65c15904bcba3279b",
         "source": "bytedance_seed",
         "type": "research",
@@ -168,6 +134,40 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/pdf/2603.25373"
+    },
+    {
+        "id": "957bb003078f6863be07b3f272753e04",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition",
+        "description": "The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables structured data factorization and promotes compositional generalization. F-ACIL decomposes the data distribution into structured factor spaces such as object, action, and environment. Based on the factorized formulation, we develop a factor-wise data collection and an iterative training paradigm that promotes compositional generalization over the high-dimensional factor space, leading to more effective utilization of real-world robotic demonstrations. With extensive real-world experiments, we show that F-ACIL can achieve more than 45% performance gains with 5-10\u00d7 fewer demonstrations comparing to that of which without the strategy. The results suggest that structured factorization offers a practical pathway toward efficient compositional generalization in real-world robotic learning. We believe F-ACIL can inspire more systematic research on building generalizable robotic data flywheel strategies.",
+        "url": "https://seed.bytedance.com/en/public_papers/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition",
+        "published_date": "2026-03-25T16:00:00+00:00",
+        "categories": [
+            "Robotics"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Yuyang Xiao, Yifei Zhou, Haoran Wang, Wenxuan Ou, Yuxiao Liu",
+            "journal": "arXiv",
+            "work_team": [
+                "Robotics"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address this challenge, we propose F-ACIL, a heuristic factor-aware compositional iterative learning framework that enables structured data factorization and promotes compositional generalization. F-ACIL decomposes the data distribution into structured factor spaces such as object, action, and environment. Based on the factorized formulation, we develop a factor-wise data collection and an iterative training paradigm that promotes compositional generalization over the high-dimensional factor space, leading to more effective utilization of real-world robotic demonstrations. With extensive real-world experiments, we show that F-ACIL can achieve more than 45% performance gains with 5-10\u00d7 fewer demonstrations comparing to that of which without the strategy. The results suggest that structured factorization offers a practical pathway toward efficient compositional generalization in real-world robotic learning. We believe F-ACIL can inspire more systematic research on building generalizable robotic data flywheel strategies.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/pdf/2603.25583"
     },
     {
         "id": "498e818c570ed44450bae3b29f834617",
@@ -510,40 +510,6 @@
         "external_url": "https://arxiv.org/pdf/2602.24286"
     },
     {
-        "id": "320a933122a744ce824564911c7a9a6f",
-        "source": "bytedance_seed",
-        "type": "research",
-        "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
-        "description": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
-        "url": "https://seed.bytedance.com/en/public_papers/does-your-reasoning-model-implicitly-know-when-to-stop-thinking",
-        "published_date": "2026-02-26T16:00:00+00:00",
-        "categories": [
-            "Artificial Intelligence"
-        ],
-        "organization": "ByteDance Seed",
-        "metadata": {
-            "author": "Zixuan Huang, Xin Xia, Yuxi Ren, Jianbin Zheng, Xuanda Wang, Zhixia Zhang, Hongyan Xie, Songshi Liang, Zehao Chen, Xuefeng Xiao, Fuzhen Zhuang, Jianxin Li, Yikun Ban, Deqing Wang",
-            "journal": "arXiv",
-            "work_team": [
-                "Vision"
-            ]
-        },
-        "objects": [],
-        "title_localized": {
-            "en": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
-            "zh": ""
-        },
-        "description_localized": {
-            "en": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
-            "zh": ""
-        },
-        "url_localized": {
-            "en": "https://seed.bytedance.com/en/public_papers/does-your-reasoning-model-implicitly-know-when-to-stop-thinking",
-            "zh": "https://seed.bytedance.com/zh/public_papers/"
-        },
-        "external_url": "https://arxiv.org/pdf/2602.08354"
-    },
-    {
         "id": "e5cc040bcbcd356597933dc4b5a43083",
         "source": "bytedance_seed",
         "type": "research",
@@ -576,6 +542,40 @@
             "zh": "https://seed.bytedance.com/zh/public_papers/"
         },
         "external_url": "https://arxiv.org/pdf/2604.16322"
+    },
+    {
+        "id": "320a933122a744ce824564911c7a9a6f",
+        "source": "bytedance_seed",
+        "type": "research",
+        "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+        "description": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
+        "url": "https://seed.bytedance.com/en/public_papers/does-your-reasoning-model-implicitly-know-when-to-stop-thinking",
+        "published_date": "2026-02-26T16:00:00+00:00",
+        "categories": [
+            "Artificial Intelligence"
+        ],
+        "organization": "ByteDance Seed",
+        "metadata": {
+            "author": "Zixuan Huang, Xin Xia, Yuxi Ren, Jianbin Zheng, Xuanda Wang, Zhixia Zhang, Hongyan Xie, Songshi Liang, Zehao Chen, Xuefeng Xiao, Fuzhen Zhuang, Jianxin Li, Yikun Ban, Deqing Wang",
+            "journal": "arXiv",
+            "work_team": [
+                "Vision"
+            ]
+        },
+        "objects": [],
+        "title_localized": {
+            "en": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+            "zh": ""
+        },
+        "description_localized": {
+            "en": "Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoning chains are frequently uncorrelated with correctness and can even be detrimental to accuracy. In a further in-depth analysis of this phenomenon, we surprisingly uncover and empirically verify that LRMs implicitly know the appropriate time to stop thinking, while this capability is obscured by current sampling paradigms. Motivated by this, we introduce SAGE (Self-Aware Guided Efficient Reasoning), a novel sampling paradigm that unleashes this efficient reasoning potential. Furthermore, integrating SAGE as mixed sampling into group-based reinforcement learning (SAGE-RL) enables SAGE-RL to effectively incorporate SAGE-discovered efficient reasoning patterns into standard pass@1 inference, markedly enhancing both the reasoning accuracy and efficiency of LRMs across multiple challenging mathematical benchmarks.",
+            "zh": ""
+        },
+        "url_localized": {
+            "en": "https://seed.bytedance.com/en/public_papers/does-your-reasoning-model-implicitly-know-when-to-stop-thinking",
+            "zh": "https://seed.bytedance.com/zh/public_papers/"
+        },
+        "external_url": "https://arxiv.org/pdf/2602.08354"
     },
     {
         "id": "da9a902971709a527154a3bd75aca3d5",
